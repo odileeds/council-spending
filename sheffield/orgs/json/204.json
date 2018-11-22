@@ -2,13 +2,493 @@
 	"range": ["2011-01","2018-08"],
 	"data": {
 	"10200": {
+		"name": "NHS PROVIDER SERVICES",
+		"total": 3571392.28,
+		"monthly": {
+			"2011-06": {"total":46691.00, "COMMUNITIES":46691.00},
+			"2011-07": {"total":45447.24, "COMMUNITIES":45447.24},
+			"2011-08": {"total":233763.52, "CYPF":233763.52},
+			"2011-09": {"total":3261.87, "CYPF":3261.87},
+			"2011-11": {"total":607644.89, "COMMUNITIES":607644.89},
+			"2011-12": {"total":144281.96, "CYPF":7881.96, "COMMUNITIES":136400.00},
+			"2012-01": {"total":307412.69, "COMMUNITIES":303981.00, "CYPF":3431.69},
+			"2012-02": {"total":139486.40, "COMMUNITIES":139486.40},
+			"2012-03": {"total":216715.14, "COMMUNITIES":216715.14},
+			"2012-04": {"total":37077.56, "COMMUNITIES":37077.56},
+			"2012-05": {"total":50375.06, "COMMUNITIES":50375.06},
+			"2012-06": {"total":145118.00, "COMMUNITIES":145118.00},
+			"2012-07": {"total":603876.00, "CYPF":24990.00, "COMMUNITIES":578886.00},
+			"2012-08": {"total":5018.30, "COMMUNITIES":5018.30},
+			"2012-10": {"total":39990.00, "COMMUNITIES":15000.00, "CYPF":24990.00},
+			"2012-11": {"total":59079.00, "COMMUNITIES":59079.00},
+			"2012-12": {"total":28000.00, "COMMUNITIES":28000.00},
+			"2013-01": {"total":9537.34, "COMMUNITIES":9537.34},
+			"2013-02": {"total":154251.13, "COMMUNITIES":154251.13},
+			"2013-03": {"total":1459.56, "COMMUNITIES":1459.56},
+			"2013-04": {"total":1090.56, "COMMUNITIES":1090.56},
+			"2013-05": {"total":35621.49, "COMMUNITIES":10631.49, "CYPF":24990.00},
+			"2013-06": {"total":111196.10, "COMMUNITIES":111196.10},
+			"2013-08": {"total":24990.00, "CYPF":24990.00},
+			"2013-09": {"total":2796.10, "COMMUNITIES":2796.10},
+			"2013-10": {"total":50218.18, "COMMUNITIES":50218.18},
+			"2014-01": {"total":24990.00, "CYPF":24990.00},
+			"2014-03": {"total":49980.00, "CYPF":49980.00},
+			"2014-06": {"total":160000.00, "CYPF":160000.00},
+			"2014-12": {"total":108000.00, "COMMUNITIES":108000.00},
+			"2015-03": {"total":1569.60, "CYPF":1569.60},
+			"2015-04": {"total":1296.80, "CYPF":1296.80},
+			"2015-08": {"total":409.50, "CYPF":409.50},
+			"2015-10": {"total":403.91, "CYPF":403.91},
+			"2015-11": {"total":520.95, "CYPF":520.95},
+			"2016-03": {"total":109225.10, "COMMUNITIES":108354.00, "CYPF":871.10},
+			"2016-05": {"total":767.22, "CYPF":767.22},
+			"2016-06": {"total":283.20, "CYPF":283.20},
+			"2016-07": {"total":266.30, "CYPF":266.30},
+			"2016-09": {"total":452.00, "CYPF":452.00},
+			"2016-11": {"total":270.32, "CYPF":270.32},
+			"2017-01": {"total":344.00, "CYPF":344.00},
+			"2018-05": {"total":8214.29, "PEOPLE":8214.29}
+		}
+	},
+	"10201": {
+		"name": "NHS SHEFFIELD",
+		"total": 8520.17,
+		"monthly": {
+			"2013-02": {"total":3796.17, "COMMUNITIES":3796.17},
+			"2013-08": {"total":2362.00, "COMMUNITIES":2362.00},
+			"2013-09": {"total":2362.00, "COMMUNITIES":2362.00}
+		}
+	},
+	"10202": {
+		"name": "NHS SHEFFIELD CCG",
+		"total": 16218139.4,
+		"monthly": {
+			"2013-08": {"total":47901.47, "CYPF":47901.47},
+			"2013-09": {"total":210132.39, "CYPF":47901.47, "COMMUNITIES":162230.92},
+			"2013-10": {"total":1603000.00, "DEPUTY CHIEF EXECUTIVE":45000.00, "COMMUNITIES":1558000.00},
+			"2013-11": {"total":78608.32, "PLACE":51702.00, "COMMUNITIES":11906.32, "DEPUTY CHIEF EXECUTIVE":15000.00},
+			"2013-12": {"total":515499.94, "COMMUNITIES":507999.94, "DEPUTY CHIEF EXECUTIVE":7500.00},
+			"2014-01": {"total":145942.28, "COMMUNITIES":145942.28},
+			"2014-02": {"total":257696.00, "POLICY PERFORMANCE AND COMMS":7500.00, "COMMUNITIES":210474.00, "PLACE":39722.00},
+			"2014-03": {"total":232714.26, "POLICY PERFORMANCE AND COMMS":15000.00, "COMMUNITIES":217714.26},
+			"2014-04": {"total":33884.00, "PLACE":33884.00},
+			"2014-05": {"total":142406.32, "COMMUNITIES":142406.32},
+			"2014-06": {"total":27521.00, "COMMUNITIES":27521.00},
+			"2014-07": {"total":366446.68, "PLACE":36545.00, "COMMUNITIES":299901.68, "POLICY PERFORMANCE AND COMMS":30000.00},
+			"2014-08": {"total":18158.00, "POLICY PERFORMANCE AND COMMS":7500.00, "COMMUNITIES":10658.00},
+			"2014-09": {"total":127223.73, "COMMUNITIES":119723.73, "POLICY PERFORMANCE AND COMMS":7500.00},
+			"2014-10": {"total":84867.16, "CYPF":53542.16, "PLACE":31325.00},
+			"2014-11": {"total":9018.00, "COMMUNITIES":9018.00},
+			"2014-12": {"total":214127.47, "POLICY PERFORMANCE AND COMMS":25836.00, "COMMUNITIES":188291.47},
+			"2015-01": {"total":603325.52, "COMMUNITIES":595825.52, "POLICY PERFORMANCE AND COMMS":7500.00},
+			"2015-02": {"total":295331.00, "COMMUNITIES":215118.00, "POLICY PERFORMANCE AND COMMS":7500.00, "PLACE":22763.00, "CYPF":49950.00},
+			"2015-03": {"total":242552.07, "CYPF":56420.55, "COMMUNITIES":186131.52},
+			"2015-04": {"total":177576.17, "COMMUNITIES":118953.00, "CYPF":58623.17},
+			"2015-05": {"total":5000.00, "POLICY PERFORMANCE AND COMMS":5000.00},
+			"2015-06": {"total":218770.90, "COMMUNITIES":183625.90, "POLICY PERFORMANCE AND COMMS":17500.00, "PLACE":17645.00},
+			"2015-07": {"total":5000.00, "POLICY PERFORMANCE AND COMMS":5000.00},
+			"2015-08": {"total":71683.71, "CYPF":71683.71},
+			"2015-09": {"total":913251.40, "POLICY PERFORMANCE AND COMMS":12500.00, "COMMUNITIES":881611.40, "PLACE":19140.00},
+			"2015-10": {"total":27645.00, "POLICY PERFORMANCE AND COMMS":10000.00, "PLACE":17645.00},
+			"2015-11": {"total":76333.82, "CYPF":71333.82, "POLICY PERFORMANCE AND COMMS":5000.00},
+			"2016-01": {"total":495474.45, "CYPF":67763.80, "POLICY PERFORMANCE AND COMMS":5000.00, "COMMUNITIES":407052.65, "PLACE":15658.00},
+			"2016-02": {"total":13490.00, "PLACE":13490.00},
+			"2016-03": {"total":84579.95, "CYPF":69579.95, "POLICY PERFORMANCE AND COMMS":15000.00},
+			"2016-04": {"total":196961.54, "COMMUNITIES":196961.54},
+			"2016-05": {"total":13732.00, "PLACE":13732.00},
+			"2016-06": {"total":371309.23, "CYPF":72052.31, "COMMUNITIES":289256.92, "POLICY PERFORMANCE AND COMMS":10000.00},
+			"2016-07": {"total":35289.00, "POLICY PERFORMANCE AND COMMS":10000.00, "COMMUNITIES":12000.00, "PLACE":13289.00},
+			"2016-09": {"total":181550.28, "COMMUNITIES":171550.28, "POLICY PERFORMANCE AND COMMS":10000.00},
+			"2016-10": {"total":76780.98, "CYPF":63890.98, "PLACE":12890.00},
+			"2016-11": {"total":10000.00, "POLICY PERFORMANCE AND COMMS":10000.00},
+			"2016-12": {"total":176946.61, "COMMUNITIES":176946.61},
+			"2017-01": {"total":1209406.42, "COMMUNITIES":1198073.42, "PLACE":11333.00},
+			"2017-02": {"total":76698.30, "CYPF":61698.30, "POLICY PERFORMANCE AND COMMS":15000.00},
+			"2017-03": {"total":5000.00, "POLICY PERFORMANCE AND COMMS":5000.00},
+			"2017-05": {"total":10000.00, "POLICY PERFORMANCE AND COMMS":10000.00},
+			"2017-06": {"total":611760.68, "COMMUNITIES":611760.68},
+			"2017-07": {"total":1166726.42, "COMMUNITIES":1072542.27, "POLICY PERFORMANCE AND COMMS":10000.00, "PLACE":7288.00, "CYPF":76896.15},
+			"2017-08": {"total":10000.00, "CORPORATE":10000.00},
+			"2017-10": {"total":422904.24, "POLICY, PERFORMANCE AND COMMS":10000.00, "PEOPLE":402272.24, "LOCAL ENTERPRISE PARTNERSHIP":10632.00},
+			"2017-11": {"total":5000.00, "POLICY, PERFORMANCE AND COMMS":5000.00},
+			"2017-12": {"total":72159.44, "POLICY, PERFORMANCE AND COMMS":5000.00, "PEOPLE":67159.44},
+			"2018-01": {"total":544134.50, "PEOPLE":517245.50, "PLACE":21889.00, "POLICY, PERFORMANCE AND COMMS":5000.00},
+			"2018-02": {"total":5000.00, "POLICY, PERFORMANCE AND COMMS":5000.00},
+			"2018-03": {"total":319558.64, "PEOPLE":309558.64, "POLICY, PERFORMANCE AND COMMS":10000.00},
+			"2018-04": {"total":91411.56, "PEOPLE":91411.56},
+			"2018-05": {"total":624855.50, "PEOPLE":614855.50, "POLICY, PERFORMANCE AND COMMS":10000.00},
+			"2018-06": {"total":85855.51, "PEOPLE":85855.51},
+			"2018-07": {"total":2544937.54, "LOCAL ENTERPRISE PARTNERSHIP":2306089.85, "PEOPLE":233847.69, "POLICY, PERFORMANCE AND COMMS":5000.00},
+			"2018-08": {"total":5000.00, "POLICY, PERFORMANCE AND COMMS":5000.00}
+		}
+	},
+	"10203": {
+		"name": "NHS SUPPLY CHAIN",
+		"total": 44248.71,
+		"monthly": {
+			"2013-12": {"total":427.20, "CYPF":427.20},
+			"2014-06": {"total":476.20, "CYPF":476.20},
+			"2014-07": {"total":702.25, "CYPF":702.25},
+			"2014-08": {"total":255.11, "CYPF":255.11},
+			"2016-02": {"total":813.95, "CYPF":813.95},
+			"2016-09": {"total":2637.92, "CYPF":2637.92},
+			"2016-10": {"total":980.70, "CYPF":980.70},
+			"2016-11": {"total":629.00, "CYPF":629.00},
+			"2016-12": {"total":1778.46, "CYPF":1778.46},
+			"2017-01": {"total":1970.47, "CYPF":1970.47},
+			"2017-02": {"total":1449.33, "CYPF":1449.33},
+			"2017-05": {"total":1427.21, "CYPF":1427.21},
+			"2017-06": {"total":4044.43, "CYPF":4044.43},
+			"2017-07": {"total":1644.71, "CYPF":1644.71},
+			"2017-08": {"total":1973.64, "CORPORATE":1973.64},
+			"2017-09": {"total":1765.05, "PEOPLE":1765.05},
+			"2017-10": {"total":2362.58, "PEOPLE":2362.58},
+			"2017-12": {"total":814.00, "PEOPLE":814.00},
+			"2018-01": {"total":3768.21, "PEOPLE":3768.21},
+			"2018-02": {"total":1786.24, "PEOPLE":1786.24},
+			"2018-04": {"total":4417.16, "PEOPLE":4417.16},
+			"2018-05": {"total":2241.45, "PEOPLE":2241.45},
+			"2018-06": {"total":1837.64, "PEOPLE":1837.64},
+			"2018-08": {"total":4045.80, "PEOPLE":4045.80}
+		}
+	},
+	"10204": {
+		"name": "NHS YORKS & HUMBER COMMISSIONING SUPPORT",
+		"total": 9518.33,
+		"monthly": {
+			"2015-10": {"total":2300.00, "CYPF":300.00, "POLICY PERFORMANCE AND COMMS":2000.00},
+			"2015-11": {"total":6718.33, "COMMUNITIES":5385.00, "POLICY PERFORMANCE AND COMMS":1333.33},
+			"2015-12": {"total":500.00, "POLICY PERFORMANCE AND COMMS":500.00}
+		}
+	},
+	"10205": {
+		"name": "NIACE",
+		"total": 21412,
+		"monthly": {
+			"2012-06": {"total":1400.00, "CYPF":1400.00},
+			"2013-05": {"total":417.00, "COMMUNITIES":417.00},
+			"2016-11": {"total":9797.50, "CYPF":9797.50},
+			"2017-01": {"total":9797.50, "CYPF":9797.50}
+		}
+	},
+	"10206": {
+		"name": "NIAGARA CONFERENCE AND LEISURE",
+		"total": 11946.45,
+		"monthly": {
+			"2015-03": {"total":583.33, "CYPF":583.33},
+			"2015-09": {"total":1116.50, "COMMUNITIES":1116.50},
+			"2016-06": {"total":814.00, "CYPF":814.00},
+			"2016-07": {"total":1120.00, "CA LEP":1120.00},
+			"2017-01": {"total":951.50, "CYPF":951.50},
+			"2017-07": {"total":2316.95, "COMMUNITIES":2316.95},
+			"2017-10": {"total":2243.33, "PEOPLE":2243.33},
+			"2018-04": {"total":291.67, "PEOPLE":291.67},
+			"2018-07": {"total":2509.17, "PEOPLE":2509.17}
+		}
+	},
+	"10207": {
+		"name": "NIAGARA SPORTS & SOCIAL CLUB",
+		"total": 10474.57,
+		"monthly": {
+			"2011-03": {"total":1390.00, "COMMUNITIES":1390.00},
+			"2011-04": {"total":689.00, "COMMUNITIES":689.00},
+			"2011-06": {"total":1516.00, "COMMUNITIES":1516.00},
+			"2011-10": {"total":1007.07, "COMMUNITIES":1007.07},
+			"2012-06": {"total":819.50, "COMMUNITIES":819.50},
+			"2013-01": {"total":542.00, "COMMUNITIES":542.00},
+			"2013-03": {"total":685.50, "COMMUNITIES":685.50},
+			"2013-05": {"total":840.25, "CYPF":840.25},
+			"2013-12": {"total":698.25, "COMMUNITIES":698.25},
+			"2014-01": {"total":274.00, "COMMUNITIES":274.00},
+			"2016-02": {"total":408.00, "CYPF":408.00},
+			"2016-12": {"total":1342.50, "COMMUNITIES":1342.50},
+			"2018-02": {"total":262.50, "PLACE":262.50}
+		}
+	},
+	"10208": {
+		"name": "NIC MARKS CONSULTING",
+		"total": 891,
+		"monthly": {
+			"2011-12": {"total":891.00, "DEPUTY CHIEF EXECUTIVE":891.00}
+		}
+	},
+	"10209": {
+		"name": "NIC SERVICES GROUP LTD",
+		"total": 4055.16,
+		"monthly": {
+			"2017-12": {"total":603.96, "PEOPLE":603.96},
+			"2018-01": {"total":1035.36, "PEOPLE":1035.36},
+			"2018-02": {"total":345.12, "PEOPLE":345.12},
+			"2018-03": {"total":345.12, "PEOPLE":345.12},
+			"2018-05": {"total":345.12, "PEOPLE":345.12},
+			"2018-06": {"total":345.12, "PEOPLE":345.12},
+			"2018-07": {"total":345.12, "PEOPLE":345.12},
+			"2018-08": {"total":690.24, "PEOPLE":690.24}
+		}
+	},
+	"10210": {
+		"name": "NICE TV LTD",
+		"total": 4750,
+		"monthly": {
+			"2011-04": {"total":4750.00, "CYPD":4750.00}
+		}
+	},
+	"10211": {
+		"name": "NICEIC",
+		"total": 14087,
+		"monthly": {
+			"2017-08": {"total":686.00, "PLACE":686.00},
+			"2017-09": {"total":3463.00, "PLACE":3463.00},
+			"2017-10": {"total":1273.00, "PLACE":1273.00},
+			"2017-11": {"total":665.00, "PLACE":665.00},
+			"2017-12": {"total":1350.00, "PLACE":1350.00},
+			"2018-01": {"total":1172.00, "PLACE":1172.00},
+			"2018-02": {"total":609.00, "PLACE":609.00},
+			"2018-03": {"total":959.00, "PLACE":959.00},
+			"2018-04": {"total":455.00, "PLACE":455.00},
+			"2018-05": {"total":666.00, "PLACE":666.00},
+			"2018-06": {"total":945.00, "PLACE":945.00},
+			"2018-07": {"total":1043.00, "PLACE":1043.00},
+			"2018-08": {"total":801.00, "PLACE":801.00}
+		}
+	},
+	"10212": {
+		"name": "NICHE CARE LTD",
+		"total": 1207575.08,
+		"monthly": {
+			"2017-01": {"total":38520.05, "COMMUNITIES":38520.05},
+			"2017-03": {"total":4587.65, "COMMUNITIES":4587.65},
+			"2017-04": {"total":37607.07, "COMMUNITIES":37607.07},
+			"2017-05": {"total":48160.22, "COMMUNITIES":48160.22},
+			"2017-06": {"total":47779.17, "COMMUNITIES":47779.17},
+			"2017-07": {"total":44904.32, "COMMUNITIES":44904.32},
+			"2017-08": {"total":57860.52, "PEOPLE":57860.52},
+			"2017-09": {"total":49416.15, "PEOPLE":49416.15},
+			"2017-10": {"total":59727.88, "PEOPLE":59727.88},
+			"2017-11": {"total":52813.71, "PEOPLE":52813.71},
+			"2017-12": {"total":26498.88, "PEOPLE":26498.88},
+			"2018-01": {"total":134473.71, "PEOPLE":134473.71},
+			"2018-02": {"total":61737.68, "PEOPLE":61737.68},
+			"2018-03": {"total":80516.95, "PEOPLE":80516.95},
+			"2018-04": {"total":78220.17, "PEOPLE":78220.17},
+			"2018-05": {"total":79182.71, "PEOPLE":79182.71},
+			"2018-06": {"total":90800.27, "PEOPLE":90800.27},
+			"2018-07": {"total":167970.60, "PEOPLE":167970.60},
+			"2018-08": {"total":46797.37, "PEOPLE":46797.37}
+		}
+	},
+	"10213": {
+		"name": "NICHOLAS & ASSOCIATES",
+		"total": 1200,
+		"monthly": {
+			"2013-09": {"total":300.00, "PLACE":300.00},
+			"2014-05": {"total":300.00, "PLACE":300.00},
+			"2015-06": {"total":300.00, "PLACE":300.00},
+			"2015-08": {"total":300.00, "PLACE":300.00}
+		}
+	},
+	"10214": {
+		"name": "NICHOLAS ALLAN",
+		"total": 620.78,
+		"monthly": {
+			"2012-10": {"total":620.78, "COMMUNITIES":620.78}
+		}
+	},
+	"10215": {
+		"name": "NICHOLAS AND LAWRENCE INTERIORS LTD",
+		"total": 1420,
+		"monthly": {
+			"2017-05": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"10216": {
+		"name": "NICHOLAS ASSOCIATES GROUP LTD",
+		"total": 4075,
+		"monthly": {
+			"2018-05": {"total":2037.50, "PEOPLE":2037.50},
+			"2018-08": {"total":2037.50, "PEOPLE":2037.50}
+		}
+	},
+	"10217": {
+		"name": "NICHOLAS COX",
+		"total": 416.5,
+		"monthly": {
+			"2016-05": {"total":416.50, "CYPF":416.50}
+		}
+	},
+	"10218": {
+		"name": "NICHOLAS CRANE",
+		"total": 300,
+		"monthly": {
+			"2017-01": {"total":300.00, "PLACE":300.00}
+		}
+	},
+	"10219": {
+		"name": "NICHOLAS HILL",
+		"total": 666.6,
+		"monthly": {
+			"2011-06": {"total":666.60, "RESOURCES":666.60}
+		}
+	},
+	"10220": {
+		"name": "NICHOLAS HOUSE",
+		"total": 4500,
+		"monthly": {
+			"2011-01": {"total":3000.00, "COMMUNITIES":3000.00},
+			"2011-02": {"total":1500.00, "COMMUNITIES":1500.00}
+		}
+	},
+	"10221": {
+		"name": "NICHOLAS HUMPHREYS",
+		"total": 356.16,
+		"monthly": {
+			"2015-05": {"total":356.16, "CYPF":356.16}
+		}
+	},
+	"10222": {
+		"name": "NICHOLAS JAMES",
+		"total": 1120,
+		"monthly": {
+			"2017-07": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"10223": {
+		"name": "NICHOLAS ROBINSON",
+		"total": 652.26,
+		"monthly": {
+			"2017-05": {"total":652.26, "COMMUNITIES":652.26}
+		}
+	},
+	"10224": {
+		"name": "NICHOLSON PRINT UK LTD",
+		"total": 1120,
+		"monthly": {
+			"2016-07": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"10225": {
+		"name": "NICHOLSON-ROBERTS CO LTD",
+		"total": 2840,
+		"monthly": {
+			"2016-03": {"total":1420.00, "CA LEP":1420.00},
+			"2016-09": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"10226": {
+		"name": "NICK PLUMMER-WALSH",
+		"total": 272,
+		"monthly": {
+			"2016-03": {"total":272.00, "CYPF":272.00}
+		}
+	},
+	"10227": {
+		"name": "NICKY J'S",
+		"total": 1500,
+		"monthly": {
+			"2016-01": {"total":1120.00, "CA LEP":1120.00},
+			"2017-01": {"total":380.00, "CA LEP":380.00}
+		}
+	},
+	"10228": {
+		"name": "NICKY'S FOR HAIR",
+		"total": 1120,
+		"monthly": {
+			"2016-06": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"10229": {
+		"name": "NICOLA QUINNEY",
+		"total": 14300,
+		"monthly": {
+			"2012-10": {"total":2050.00, "CYPF":2050.00},
+			"2012-11": {"total":600.00, "CYPF":600.00},
+			"2013-03": {"total":1200.00, "CYPF":1200.00},
+			"2013-05": {"total":600.00, "CYPF":600.00},
+			"2013-06": {"total":1200.00, "CYPF":1200.00},
+			"2013-07": {"total":3000.00, "CYPF":3000.00},
+			"2013-11": {"total":1450.00, "CYPF":1450.00},
+			"2014-05": {"total":600.00, "CYPF":600.00},
+			"2014-08": {"total":600.00, "CYPF":600.00},
+			"2015-01": {"total":600.00, "CYPF":600.00},
+			"2016-07": {"total":600.00, "CYPF":600.00},
+			"2017-05": {"total":1800.00, "CYPF":1800.00}
+		}
+	},
+	"10230": {
+		"name": "NICOLL INDUSTRIES LTD",
+		"alternate-names": [
+			"NICOLL INDUSTRIES LIMITED"
+		],
+		"total": 268,
+		"monthly": {
+			"2016-03": {"total":268.00, "CYPF":268.00}
+		}
+	},
+	"10231": {
+		"name": "NIELS CORFIELD (EDIBLE CITIES)",
+		"total": 573.5,
+		"monthly": {
+			"2011-03": {"total":573.50, "PLACE":573.50}
+		}
+	},
+	"10232": {
+		"name": "NIGEL GOODWIN FUNERAL DIRECTORS",
+		"total": 1120,
+		"monthly": {
+			"2017-01": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"10233": {
+		"name": "NIGEL MELLOR",
+		"total": 1420,
+		"monthly": {
+			"2016-03": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"10234": {
+		"name": "NIGEL S KAY",
+		"total": 2611.3,
+		"monthly": {
+			"2011-12": {"total":1566.78, "CYPF":1566.78},
+			"2012-03": {"total":1044.52, "CYPF":1044.52}
+		}
+	},
+	"10235": {
+		"name": "NIGEL TYAS IRONWORK LTD",
+		"total": 1500,
+		"monthly": {
+			"2015-09": {"total":1500.00, "CYPF":1500.00}
+		}
+	},
+	"10236": {
+		"name": "NIGEL TYAS LTD",
+		"total": 4225,
+		"monthly": {
+			"2017-10": {"total":4225.00, "PLACE":4225.00}
+		}
+	},
+	"10237": {
+		"name": "NIGEL WILSON HOUSING SERVICES LTD",
+		"total": 11506.25,
+		"monthly": {
+			"2011-05": {"total":560.00, "COMMUNITIES":560.00},
+			"2016-09": {"total":1063.50, "COMMUNITIES":1063.50},
+			"2016-10": {"total":1231.05, "RESOURCES":1231.05},
+			"2016-11": {"total":1636.00, "RESOURCES":825.65, "COMMUNITIES":810.35},
+			"2017-01": {"total":1220.25, "COMMUNITIES":807.65, "RESOURCES":412.60},
+			"2017-02": {"total":4373.85, "COMMUNITIES":4373.85},
+			"2017-04": {"total":1166.65, "COMMUNITIES":1166.65},
+			"2017-06": {"total":254.95, "COMMUNITIES":254.95}
+		}
+	},
+	"10238": {
 		"name": "NIGHT X DAY LTD",
 		"total": 1120,
 		"monthly": {
 			"2017-05": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"10201": {
+	"10239": {
 		"name": "NIGHTINGALE AUDIO SYSTEMS LTD",
 		"total": 3191.7,
 		"monthly": {
@@ -19,22 +499,23 @@
 			"2015-05": {"total":1500.00, "CYPF":1500.00}
 		}
 	},
-	"10202": {
+	"10240": {
 		"name": "NIGHTINGALE SCSA LTD",
 		"total": 1500,
 		"monthly": {
 			"2015-11": {"total":1500.00, "CA LEP":1500.00}
 		}
 	},
-	"10203": {
+	"10241": {
 		"name": "NIGHTINGALES RES HOME",
-		"total": 1801265.16,
+		"total": 1837489.23,
 		"monthly": {
 			"2016-01": {"total":47754.00, "COMMUNITIES":47754.00},
 			"2016-02": {"total":53108.48, "COMMUNITIES":53108.48},
 			"2016-03": {"total":38221.29, "COMMUNITIES":38221.29},
 			"2016-04": {"total":56442.57, "COMMUNITIES":56442.57},
 			"2016-05": {"total":37267.88, "COMMUNITIES":37267.88},
+			"2016-06": {"total":36224.07, "COMMUNITIES":36224.07},
 			"2016-07": {"total":50747.43, "COMMUNITIES":50747.43},
 			"2016-08": {"total":39510.57, "COMMUNITIES":39510.57},
 			"2016-09": {"total":68098.85, "COMMUNITIES":68098.85},
@@ -63,7 +544,7 @@
 			"2018-08": {"total":69609.79, "PEOPLE":69609.79}
 		}
 	},
-	"10204": {
+	"10242": {
 		"name": "NIGHTINGALES RES.HOME",
 		"total": 2606816.29,
 		"monthly": {
@@ -127,7 +608,7 @@
 			"2015-12": {"total":34957.57, "COMMUNITIES":34957.57}
 		}
 	},
-	"10205": {
+	"10243": {
 		"name": "NIJI SERVICES LTD",
 		"alternate-names": [
 			"NIJI SERVICES LIMITED"
@@ -139,7 +620,7 @@
 			"2015-07": {"total":1340.00, "COMMUNITIES":1340.00}
 		}
 	},
-	"10206": {
+	"10244": {
 		"name": "NIK PERRING",
 		"total": 3290,
 		"monthly": {
@@ -150,7 +631,7 @@
 			"2017-04": {"total":575.00, "COMMUNITIES":575.00}
 		}
 	},
-	"10207": {
+	"10245": {
 		"name": "NIKKEN KOSAKUSHO EUROPE LTD",
 		"total": 84442.89,
 		"monthly": {
@@ -159,7 +640,7 @@
 			"2018-07": {"total":21934.33, "LOCAL ENTERPRISE PARTNERSHIP":21934.33}
 		}
 	},
-	"10208": {
+	"10246": {
 		"name": "NILFISK ADVANCE LTD",
 		"alternate-names": [
 			"NILFISK ADVANCE LIMITED"
@@ -173,7 +654,7 @@
 			"2017-12": {"total":256.25, "PLACE":256.25}
 		}
 	},
-	"10209": {
+	"10247": {
 		"name": "NIMROD ENVIRONMENTAL LTD",
 		"alternate-names": [
 			"NIMROD ENVIRONMENTAL LIMITED"
@@ -184,7 +665,7 @@
 			"2017-01": {"total":1120.00, "CYPF":1120.00}
 		}
 	},
-	"10210": {
+	"10248": {
 		"name": "NIMROD SERVICES SHEFFIELD LTD",
 		"total": 900,
 		"monthly": {
@@ -192,517 +673,11 @@
 			"2017-11": {"total":550.00, "PLACE":550.00}
 		}
 	},
-	"10211": {
+	"10249": {
 		"name": "NINA EVELYN HAIRDRESSING",
 		"total": 1120,
 		"monthly": {
 			"2018-01": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"10212": {
-		"name": "NINEHUNDRED COMMUNICATIONS",
-		"total": 2293.5,
-		"monthly": {
-			"2011-03": {"total":1160.00, "PLACE":1160.00},
-			"2013-05": {"total":1133.50, "PLACE":1133.50}
-		}
-	},
-	"10213": {
-		"name": "NINIAN SOLUTIONS TA HUDDLE",
-		"total": 10590,
-		"monthly": {
-			"2018-02": {"total":6000.00, "RESOURCES":6000.00},
-			"2018-06": {"total":1590.00, "RESOURCES":1590.00},
-			"2018-08": {"total":3000.00, "RESOURCES":3000.00}
-		}
-	},
-	"10214": {
-		"name": "NISAI VIRTUAL ACADEMY",
-		"total": 2999.7,
-		"monthly": {
-			"2012-02": {"total":2999.70, "CYPF":2999.70}
-		}
-	},
-	"10215": {
-		"name": "NISBETS",
-		"total": 10642.82,
-		"monthly": {
-			"2012-03": {"total":742.65, "CYPF":742.65},
-			"2014-08": {"total":835.96, "CYPF":835.96},
-			"2015-07": {"total":1440.11, "CYPF":1440.11},
-			"2016-01": {"total":375.35, "CYPF":375.35},
-			"2016-09": {"total":1559.99, "CYPF":1559.99},
-			"2017-02": {"total":323.57, "CYPF":323.57},
-			"2017-04": {"total":270.00, "CYPF":270.00},
-			"2018-04": {"total":4969.21, "PEOPLE":4969.21},
-			"2018-07": {"total":125.98, "PEOPLE":125.98}
-		}
-	},
-	"10216": {
-		"name": "NITEC UK LTD",
-		"total": 4915,
-		"monthly": {
-			"2018-05": {"total":4915.00, "PLACE":4915.00}
-		}
-	},
-	"10217": {
-		"name": "NJ ELETRICAL DESIGN LTD",
-		"total": 1420,
-		"monthly": {
-			"2017-02": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"10218": {
-		"name": "NJA JOINERY LTD",
-		"total": 1023.74,
-		"monthly": {
-			"2015-05": {"total":504.16, "CYPF":504.16},
-			"2015-09": {"total":519.58, "CYPF":519.58}
-		}
-	},
-	"10219": {
-		"name": "NJM SPORTS LTD",
-		"total": 400,
-		"monthly": {
-			"2012-12": {"total":400.00, "PLACE":400.00}
-		}
-	},
-	"10220": {
-		"name": "NK JOINERY LTD",
-		"total": 1420,
-		"monthly": {
-			"2017-11": {"total":1420.00, "LOCAL ENTERPRISE PARTNERSHIP":1420.00}
-		}
-	},
-	"10221": {
-		"name": "NLA MEDIA ACCESS LTD",
-		"total": 27378,
-		"monthly": {
-			"2013-12": {"total":3601.00, "DEPUTY CHIEF EXECUTIVE":3601.00},
-			"2014-10": {"total":1960.00, "TRANSPORT AUTHORITY":1960.00},
-			"2015-01": {"total":3939.00, "POLICY PERFORMANCE AND COMMS":3939.00},
-			"2015-06": {"total":2002.00, "ECONOMIC REGENERATION":2002.00},
-			"2016-01": {"total":3734.00, "POLICY PERFORMANCE AND COMMS":3734.00},
-			"2016-07": {"total":2026.00, "CA LEP":2026.00},
-			"2017-01": {"total":3786.00, "POLICY PERFORMANCE AND COMMS":3786.00},
-			"2017-07": {"total":2072.00, "CA LEP":2072.00},
-			"2017-12": {"total":3877.00, "POLICY, PERFORMANCE AND COMMS":3877.00},
-			"2018-07": {"total":381.00, "LOCAL ENTERPRISE PARTNERSHIP":381.00}
-		}
-	},
-	"10222": {
-		"name": "NLH PARTNERSHIP LTD",
-		"total": 1995,
-		"monthly": {
-			"2014-07": {"total":490.00, "CYPF":490.00},
-			"2015-07": {"total":1505.00, "CYPF":1505.00}
-		}
-	},
-	"10223": {
-		"name": "NLT TRAINING SERVICES LTD",
-		"total": 999.6,
-		"monthly": {
-			"2014-04": {"total":999.60, "CYPF":999.60}
-		}
-	},
-	"10224": {
-		"name": "NMG PRINT LTD (NAGELS MULTIGRAPHIC)",
-		"total": 3375,
-		"monthly": {
-			"2016-07": {"total":795.00, "PLACE":795.00},
-			"2016-09": {"total":990.00, "PLACE":990.00},
-			"2017-07": {"total":795.00, "PLACE":795.00},
-			"2017-10": {"total":795.00, "PLACE":795.00}
-		}
-	},
-	"10225": {
-		"name": "NO 5 CHAMBERS (ROWENA MEAGER)",
-		"total": 11577.08,
-		"monthly": {
-			"2015-02": {"total":3664.58, "RESOURCES":3664.58},
-			"2016-02": {"total":5250.00, "RESOURCES":5250.00},
-			"2016-04": {"total":262.50, "RESOURCES":262.50},
-			"2016-05": {"total":2400.00, "RESOURCES":2400.00}
-		}
-	},
-	"10226": {
-		"name": "NO 5 CHAMBERS LIMITED (GENERAL ACC)",
-		"total": 9256.25,
-		"monthly": {
-			"2017-01": {"total":1662.50, "RESOURCES":1662.50},
-			"2017-04": {"total":600.00, "RESOURCES":600.00},
-			"2017-11": {"total":2375.00, "RESOURCES":2375.00},
-			"2017-12": {"total":3100.00, "RESOURCES":3100.00},
-			"2018-01": {"total":300.00, "RESOURCES":300.00},
-			"2018-08": {"total":1218.75, "RESOURCES":1218.75}
-		}
-	},
-	"10227": {
-		"name": "NO 5 CHAMBERS LTD (COLLECTION ACC)",
-		"total": 46062.5,
-		"monthly": {
-			"2016-07": {"total":2512.50, "RESOURCES":2512.50},
-			"2016-10": {"total":562.50, "RESOURCES":562.50},
-			"2016-12": {"total":7000.00, "RESOURCES":7000.00},
-			"2017-02": {"total":1350.00, "RESOURCES":1350.00},
-			"2017-05": {"total":9587.50, "RESOURCES":9587.50},
-			"2017-06": {"total":1312.50, "RESOURCES":1312.50},
-			"2017-07": {"total":300.00, "RESOURCES":300.00},
-			"2017-11": {"total":11437.50, "RESOURCES":11437.50},
-			"2018-02": {"total":2587.50, "RESOURCES":2587.50},
-			"2018-03": {"total":5000.00, "RESOURCES":5000.00},
-			"2018-06": {"total":1912.50, "RESOURCES":1912.50},
-			"2018-08": {"total":2500.00, "RESOURCES":2500.00}
-		}
-	},
-	"10228": {
-		"name": "NO BUTTS BIN CO LTD (NBB LTD)",
-		"total": 1149.8,
-		"monthly": {
-			"2016-07": {"total":639.80, "PLACE":639.80},
-			"2018-03": {"total":510.00, "PLACE":510.00}
-		}
-	},
-	"10229": {
-		"name": "NO GRAFFITI LTD",
-		"total": 45496.87,
-		"monthly": {
-			"2013-11": {"total":300.00, "PLACE":300.00},
-			"2014-04": {"total":3167.50, "PLACE":3167.50},
-			"2014-05": {"total":500.00, "PLACE":500.00},
-			"2014-06": {"total":500.00, "PLACE":500.00},
-			"2014-07": {"total":900.00, "PLACE":900.00},
-			"2014-08": {"total":3167.50, "PLACE":3167.50},
-			"2014-09": {"total":600.00, "PLACE":600.00},
-			"2014-10": {"total":650.00, "PLACE":650.00},
-			"2014-11": {"total":600.00, "PLACE":600.00},
-			"2014-12": {"total":2567.50, "PLACE":2567.50},
-			"2015-01": {"total":1200.00, "PLACE":1200.00},
-			"2015-02": {"total":1700.00, "PLACE":1700.00},
-			"2015-03": {"total":1200.00, "PLACE":1200.00},
-			"2015-04": {"total":3167.50, "PLACE":3167.50},
-			"2015-05": {"total":600.00, "PLACE":600.00},
-			"2015-06": {"total":5800.00, "PLACE":5800.00},
-			"2015-07": {"total":1950.00, "PLACE":1950.00},
-			"2015-08": {"total":1200.00, "PLACE":1200.00},
-			"2015-09": {"total":4259.37, "PLACE":4259.37},
-			"2015-10": {"total":1200.00, "PLACE":1200.00},
-			"2015-11": {"total":1200.00, "PLACE":1200.00},
-			"2015-12": {"total":3217.50, "PLACE":3217.50},
-			"2016-01": {"total":1200.00, "PLACE":1200.00},
-			"2016-02": {"total":1800.00, "PLACE":1800.00},
-			"2016-03": {"total":500.00, "PLACE":500.00},
-			"2016-04": {"total":1250.00, "PLACE":1250.00},
-			"2017-07": {"total":600.00, "PLACE":600.00},
-			"2018-04": {"total":250.00, "PLACE":250.00},
-			"2018-07": {"total":250.00, "PLACE":250.00}
-		}
-	},
-	"10230": {
-		"name": "NO PANIC SHEFFIELD",
-		"total": 3712,
-		"monthly": {
-			"2011-04": {"total":3712.00, "COMMUNITIES":3712.00}
-		}
-	},
-	"10231": {
-		"name": "NOAHS ARK PET HOLIDAY HOME",
-		"total": 348,
-		"monthly": {
-			"2013-03": {"total":348.00, "COMMUNITIES":348.00}
-		}
-	},
-	"10232": {
-		"name": "NOCN",
-		"total": 19126.8,
-		"monthly": {
-			"2013-05": {"total":400.00, "CYPF":400.00},
-			"2016-01": {"total":2016.00, "CYPF":2016.00},
-			"2016-04": {"total":2520.00, "CYPF":2520.00},
-			"2016-05": {"total":288.00, "CYPF":288.00},
-			"2016-08": {"total":500.00, "CYPF":500.00},
-			"2016-09": {"total":2136.00, "CYPF":2136.00},
-			"2017-07": {"total":1875.00, "CYPF":1875.00},
-			"2017-08": {"total":1704.00, "PEOPLE":708.00, "CORPORATE":996.00},
-			"2017-09": {"total":528.00, "PEOPLE":528.00},
-			"2018-01": {"total":1659.00, "PEOPLE":1659.00},
-			"2018-03": {"total":2841.60, "PEOPLE":2841.60},
-			"2018-04": {"total":344.00, "PEOPLE":344.00},
-			"2018-06": {"total":1971.20, "PEOPLE":1971.20},
-			"2018-08": {"total":344.00, "PEOPLE":344.00}
-		}
-	},
-	"10233": {
-		"name": "NOISEASSESS LTD",
-		"total": 1285,
-		"monthly": {
-			"2016-04": {"total":1285.00, "PLACE":1285.00}
-		}
-	},
-	"10234": {
-		"name": "NOISY NEIGHBOUR SOUNDPROOFING",
-		"total": 10000,
-		"monthly": {
-			"2018-05": {"total":10000.00, "PEOPLE":10000.00}
-		}
-	},
-	"10235": {
-		"name": "NOMAD HOMELESS ADV & SUPP UNIT (SP)",
-		"total": 662866.93,
-		"monthly": {
-			"2011-01": {"total":49805.84, "COMMUNITIES":49805.84},
-			"2011-02": {"total":49805.84, "COMMUNITIES":49805.84},
-			"2011-03": {"total":99620.92, "COMMUNITIES":99620.92},
-			"2011-04": {"total":48821.36, "COMMUNITIES":48821.36},
-			"2011-05": {"total":49313.60, "COMMUNITIES":49313.60},
-			"2011-06": {"total":42808.76, "COMMUNITIES":42808.76},
-			"2011-07": {"total":36300.60, "COMMUNITIES":36300.60},
-			"2011-08": {"total":36300.60, "COMMUNITIES":36300.60},
-			"2011-09": {"total":22377.53, "COMMUNITIES":22377.53},
-			"2011-10": {"total":17736.04, "COMMUNITIES":17736.04},
-			"2011-11": {"total":17736.04, "COMMUNITIES":17736.04},
-			"2011-12": {"total":17736.04, "COMMUNITIES":17736.04},
-			"2012-01": {"total":17736.04, "COMMUNITIES":17736.04},
-			"2012-02": {"total":35473.12, "COMMUNITIES":35473.12},
-			"2012-03": {"total":16179.02, "COMMUNITIES":16179.02},
-			"2012-04": {"total":18476.58, "COMMUNITIES":18476.58},
-			"2012-05": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-06": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-07": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-08": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-09": {"total":17327.80, "COMMUNITIES":17327.80}
-		}
-	},
-	"10236": {
-		"name": "NOMAD HOMELESS ADVICE & SUPPORT UNIT",
-		"total": 6363.8,
-		"monthly": {
-			"2013-03": {"total":650.00, "COMMUNITIES":650.00},
-			"2013-04": {"total":250.00, "COMMUNITIES":250.00},
-			"2013-08": {"total":450.00, "COMMUNITIES":450.00},
-			"2013-09": {"total":262.50, "COMMUNITIES":262.50},
-			"2013-11": {"total":1025.00, "COMMUNITIES":1025.00},
-			"2014-03": {"total":3151.30, "COMMUNITIES":3151.30},
-			"2014-06": {"total":275.00, "COMMUNITIES":275.00},
-			"2014-08": {"total":300.00, "COMMUNITIES":300.00}
-		}
-	},
-	"10237": {
-		"name": "NOMAD OPENING DOORS",
-		"total": 1110429.68,
-		"monthly": {
-			"2012-10": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-11": {"total":17327.80, "COMMUNITIES":17327.80},
-			"2012-12": {"total":43354.65, "COMMUNITIES":42707.61, "CYPF":647.04},
-			"2013-01": {"total":34655.60, "COMMUNITIES":34655.60},
-			"2013-02": {"total":28139.12, "CYPF":501.56, "COMMUNITIES":27637.56},
-			"2013-03": {"total":40011.82, "COMMUNITIES":39510.26, "CYPF":501.56},
-			"2013-04": {"total":18948.37, "COMMUNITIES":18948.37},
-			"2013-05": {"total":46695.59, "COMMUNITIES":46194.03, "CYPF":501.56},
-			"2013-06": {"total":40787.57, "COMMUNITIES":40286.01, "CYPF":501.56},
-			"2013-07": {"total":37803.40, "COMMUNITIES":37301.84, "CYPF":501.56},
-			"2013-08": {"total":35119.64, "CYPF":501.56, "COMMUNITIES":34618.08},
-			"2013-09": {"total":31525.24, "CYPF":501.56, "COMMUNITIES":31023.68},
-			"2013-10": {"total":31525.24, "CYPF":501.56, "COMMUNITIES":31023.68},
-			"2013-11": {"total":37491.13, "CYPF":501.56, "COMMUNITIES":36989.57},
-			"2013-12": {"total":68708.72, "COMMUNITIES":67705.60, "CYPF":1003.12},
-			"2014-01": {"total":38428.69, "COMMUNITIES":37927.13, "CYPF":501.56},
-			"2014-02": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-03": {"total":5625.00, "COMMUNITIES":5625.00},
-			"2014-04": {"total":29106.48, "COMMUNITIES":29106.48, "CYPF":0.00},
-			"2014-05": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-06": {"total":20178.24, "COMMUNITIES":20178.24},
-			"2014-07": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-08": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-09": {"total":18303.24, "COMMUNITIES":18303.24},
-			"2014-10": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-11": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2014-12": {"total":29106.48, "COMMUNITIES":29106.48},
-			"2015-01": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-02": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-03": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-04": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-05": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-06": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-07": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-08": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-09": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-10": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-11": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2015-12": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2016-01": {"total":29106.48, "COMMUNITIES":29106.48},
-			"2016-03": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2016-04": {"total":29106.48, "COMMUNITIES":29106.48},
-			"2016-05": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2016-07": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2016-08": {"total":14553.24, "COMMUNITIES":14553.24},
-			"2016-09": {"total":7276.62, "COMMUNITIES":7276.62},
-			"2017-07": {"total":18827.00, "COMMUNITIES":18827.00},
-			"2017-10": {"total":18827.00, "PEOPLE":18827.00},
-			"2018-04": {"total":16945.00, "PEOPLE":16945.00}
-		}
-	},
-	"10238": {
-		"name": "NOMIX ENVIRO",
-		"total": 247499.52,
-		"monthly": {
-			"2011-01": {"total":782.45, "PLACE":782.45},
-			"2011-02": {"total":6397.55, "PLACE":6397.55},
-			"2011-04": {"total":19088.90, "COMMUNITIES":1110.00, "PLACE":17978.90},
-			"2011-05": {"total":6035.80, "COMMUNITIES":2080.80, "PLACE":3955.00},
-			"2011-06": {"total":5535.00, "COMMUNITIES":2645.00, "PLACE":2890.00},
-			"2011-07": {"total":2932.60, "PLACE":1728.00, "COMMUNITIES":1204.60},
-			"2011-08": {"total":1025.00, "PLACE":1025.00},
-			"2011-09": {"total":2912.90, "PLACE":2912.90},
-			"2011-11": {"total":582.80, "COMMUNITIES":582.80},
-			"2012-01": {"total":4189.00, "PLACE":4189.00},
-			"2012-02": {"total":3639.20, "PLACE":3056.40, "COMMUNITIES":582.80},
-			"2012-03": {"total":7988.40, "PLACE":7988.40},
-			"2012-04": {"total":543.17, "PLACE":543.17},
-			"2012-05": {"total":2099.20, "COMMUNITIES":2099.20},
-			"2012-06": {"total":1522.45, "COMMUNITIES":1522.45},
-			"2012-08": {"total":5214.50, "COMMUNITIES":894.00, "PLACE":4320.50},
-			"2012-09": {"total":507.75, "PLACE":507.75},
-			"2012-12": {"total":914.40, "COMMUNITIES":914.40},
-			"2013-01": {"total":1664.00, "PLACE":1664.00},
-			"2013-02": {"total":345.00, "COMMUNITIES":345.00},
-			"2013-03": {"total":27660.84, "COMMUNITIES":982.20, "PLACE":26678.64},
-			"2013-04": {"total":3100.50, "PLACE":3100.50},
-			"2013-05": {"total":894.00, "COMMUNITIES":894.00},
-			"2013-06": {"total":272.01, "PLACE":272.01},
-			"2013-07": {"total":3227.31, "COMMUNITIES":2583.75, "PLACE":643.56},
-			"2013-08": {"total":2043.05, "COMMUNITIES":920.70, "PLACE":1122.35},
-			"2013-09": {"total":3621.50, "PLACE":414.00, "COMMUNITIES":3207.50},
-			"2013-10": {"total":894.00, "COMMUNITIES":894.00},
-			"2013-11": {"total":550.40, "COMMUNITIES":550.40},
-			"2014-01": {"total":894.00, "COMMUNITIES":894.00},
-			"2014-02": {"total":24494.21, "PLACE":24494.21},
-			"2014-03": {"total":3660.87, "PLACE":3660.87},
-			"2014-04": {"total":3056.40, "PLACE":3056.40},
-			"2014-05": {"total":3756.10, "COMMUNITIES":876.10, "PLACE":2880.00},
-			"2014-07": {"total":3844.00, "COMMUNITIES":2404.00, "PLACE":1440.00},
-			"2014-08": {"total":2457.09, "PLACE":1934.59, "COMMUNITIES":522.50},
-			"2014-09": {"total":1414.40, "PLACE":510.00, "COMMUNITIES":904.40},
-			"2014-11": {"total":1060.40, "PLACE":500.00, "COMMUNITIES":560.40},
-			"2015-02": {"total":30148.54, "PLACE":30148.54},
-			"2015-03": {"total":5095.09, "PLACE":5095.09},
-			"2015-04": {"total":3050.50, "PLACE":3050.50},
-			"2015-05": {"total":3842.00, "PLACE":2918.00, "COMMUNITIES":924.00},
-			"2015-06": {"total":264.60, "PLACE":264.60},
-			"2015-07": {"total":3810.00, "PLACE":3810.00},
-			"2015-08": {"total":533.75, "COMMUNITIES":533.75},
-			"2015-09": {"total":3354.15, "PLACE":2364.00, "COMMUNITIES":990.15},
-			"2015-10": {"total":3214.00, "PLACE":3214.00},
-			"2015-11": {"total":654.50, "COMMUNITIES":654.50},
-			"2016-03": {"total":14100.49, "PLACE":13184.24, "RESOURCES":916.25},
-			"2016-07": {"total":905.40, "COMMUNITIES":905.40},
-			"2016-09": {"total":2021.40, "PLACE":2021.40},
-			"2016-10": {"total":1074.00, "PLACE":1074.00},
-			"2016-11": {"total":447.00, "COMMUNITIES":447.00},
-			"2016-12": {"total":500.00, "PLACE":500.00},
-			"2017-01": {"total":574.00, "PLACE":574.00},
-			"2017-02": {"total":255.00, "COMMUNITIES":255.00},
-			"2017-04": {"total":479.60, "PLACE":479.60},
-			"2017-06": {"total":438.05, "RESOURCES":438.05},
-			"2017-07": {"total":577.50, "COMMUNITIES":577.50},
-			"2017-08": {"total":693.00, "CORPORATE":693.00},
-			"2018-02": {"total":5958.20, "PLACE":5958.20},
-			"2018-05": {"total":1562.20, "PLACE":1562.20},
-			"2018-06": {"total":1640.00, "PLACE":1640.00},
-			"2018-07": {"total":1485.40, "PLACE":1485.40}
-		}
-	},
-	"10239": {
-		"name": "NOODLE PERFORMANCE ARTS LTD",
-		"total": 1998.75,
-		"monthly": {
-			"2018-02": {"total":350.00, "PEOPLE":350.00},
-			"2018-03": {"total":1648.75, "PEOPLE":450.00, "PLACE":1198.75}
-		}
-	},
-	"10240": {
-		"name": "NOOK LANE JUNIOR",
-		"total": 280,
-		"monthly": {
-			"2018-07": {"total":280.00, "CORPORATE":280.00}
-		}
-	},
-	"10241": {
-		"name": "NOONAH MARKETING LTD",
-		"alternate-names": [
-			"NOONAH MARKETING LIMITED"
-		],
-		"total": 1000,
-		"monthly": {
-			"2018-04": {"total":1000.00, "PLACE":1000.00}
-		}
-	},
-	"10242": {
-		"name": "NORDAN UK LTD",
-		"alternate-names": [
-			"NORDAN UK LIMITED"
-		],
-		"total": 3516.77,
-		"monthly": {
-			"2018-08": {"total":3516.77, "PLACE":3516.77}
-		}
-	},
-	"10243": {
-		"name": "NORDIC CARE SERVICES LTD",
-		"total": 1305.32,
-		"monthly": {
-			"2012-03": {"total":570.50, "COMMUNITIES":570.50},
-			"2013-02": {"total":436.50, "COMMUNITIES":436.50},
-			"2014-09": {"total":298.32, "COMMUNITIES":298.32}
-		}
-	},
-	"10244": {
-		"name": "NORDIC PIONEER LTD",
-		"total": 20038.07,
-		"monthly": {
-			"2011-02": {"total":7200.00, "PLACE":7200.00},
-			"2011-05": {"total":8000.00, "PLACE":8000.00},
-			"2012-06": {"total":3000.00, "PLACE":3000.00},
-			"2013-01": {"total":314.00, "PLACE":314.00},
-			"2014-04": {"total":454.00, "PLACE":454.00},
-			"2014-09": {"total":780.00, "COMMUNITIES":780.00},
-			"2017-02": {"total":290.07, "PLACE":290.07}
-		}
-	},
-	"10245": {
-		"name": "NORDIC PRODUCTS & SERVICES LTD",
-		"total": 270,
-		"monthly": {
-			"2017-12": {"total":270.00, "PLACE":270.00}
-		}
-	},
-	"10246": {
-		"name": "NORFOLK COUNTY COUNCIL",
-		"total": 13876,
-		"monthly": {
-			"2012-04": {"total":13876.00, "CYPF":13876.00}
-		}
-	},
-	"10247": {
-		"name": "NORFOLK DISTRICT EXPLORER SCOUTS",
-		"total": 2000,
-		"monthly": {
-			"2011-02": {"total":1000.00, "COMMUNITIES":1000.00},
-			"2012-04": {"total":1000.00, "COMMUNITIES":1000.00}
-		}
-	},
-	"10248": {
-		"name": "NORFOLK HERITAGE PARK CRECHE",
-		"total": 2000,
-		"monthly": {
-			"2011-07": {"total":2000.00, "COMMUNITIES":2000.00}
-		}
-	},
-	"10249": {
-		"name": "NORFOLK HERITAGE PARK MAJORETTES",
-		"total": 700,
-		"monthly": {
-			"2011-03": {"total":700.00, "CYPD":700.00}
 		}
 	}
 	}
