@@ -73,7 +73,7 @@
 			"2013-04": {"total":2244.90, "2013-04-09":2244.90},
 			"2013-05": {"total":2238.00, "2013-05-07":2238.00},
 			"2013-06": {"total":2238.00, "2013-06-04":-486.00, "2013-06-06":2724.00},
-			"2013-07": {"total":4476.00, "2013-07-30":2238.00, "2013-07-04":2724.00, "2013-07-02":-486.00},
+			"2013-07": {"total":4476.00, "2013-07-02":-486.00, "2013-07-30":2238.00, "2013-07-04":2724.00},
 			"2013-08": {"total":2238.00, "Adult and Culture":2238.00},
 			"2013-09": {"total":2347.82, "Adult and Culture":2347.82}
 		}
@@ -107,7 +107,7 @@
 		"total": 2259142.7,
 		"monthly": {
 			"2013-07": {"total":7001.65, "2013-07-30":7001.65},
-			"2013-08": {"total":59371.45, "2013-08-01":14574.65, "Adult and Culture":44796.80},
+			"2013-08": {"total":59371.45, "Adult and Culture":44796.80, "2013-08-01":14574.65},
 			"2013-09": {"total":44595.80, "Adult and Culture":44595.80},
 			"2013-10": {"total":58593.00, "Adult and Culture":58593.00},
 			"2013-11": {"total":60060.81, "Adult and Culture":60060.81},
@@ -304,7 +304,7 @@
 		"monthly": {
 			"2010-04": {"total":1340.00, "Childrens Services":1340.00},
 			"2010-05": {"total":9042.21, "Childrens Services":9042.21},
-			"2010-07": {"total":11261.97, "Adult and Culture":2009.00, "Childrens Services":9252.97},
+			"2010-07": {"total":11261.97, "Childrens Services":9252.97, "Adult and Culture":2009.00},
 			"2010-10": {"total":11111.77, "Childrens Services":11111.77},
 			"2011-01": {"total":9114.57, "Childrens Services":9114.57},
 			"2011-03": {"total":2009.00, "Childrens Services":2009.00},
@@ -382,7 +382,7 @@
 		"monthly": {
 			"2012-11": {"total":576.21, "2012-11-01":576.21},
 			"2013-03": {"total":360.40, "2013-03-23":360.40},
-			"2013-06": {"total":2815.95, "2013-06-05":857.43, "2013-06-21":555.91, "2013-06-07":627.08, "2013-06-13":775.53},
+			"2013-06": {"total":2815.95, "2013-06-05":857.43, "2013-06-07":627.08, "2013-06-21":555.91, "2013-06-13":775.53},
 			"2013-07": {"total":934.39, "2013-07-05":265.43, "2013-07-10":668.96},
 			"2013-08": {"total":1232.04, "Childrens Services":1232.04},
 			"2013-10": {"total":370.86, "Childrens Services":370.86},
@@ -393,7 +393,7 @@
 			"2014-07": {"total":273.61, "Childrens Services":273.61},
 			"2014-11": {"total":377.38, "Childrens Services":377.38},
 			"2015-01": {"total":301.54, "Childrens Services":301.54},
-			"2016-04": {"total":10542.00, "Childrens Services":464.00, "Environment & Regeneration":10078.00},
+			"2016-04": {"total":10542.00, "Environment & Regeneration":10078.00, "Childrens Services":464.00},
 			"2016-05": {"total":1179.00, "Childrens Services":1179.00},
 			"2016-06": {"total":386.90, "Childrens Services":386.90}
 		}
@@ -426,10 +426,10 @@
 		"name": "THE HUMAN OFFICE LTD",
 		"total": 24994.1,
 		"monthly": {
-			"2010-04": {"total":7548.65, "Chief Executives":2917.20, "Childrens Services":1269.00, "Environment & Regeneration":3362.45},
+			"2010-04": {"total":7548.65, "Childrens Services":1269.00, "Environment & Regeneration":3362.45, "Chief Executives":2917.20},
 			"2010-05": {"total":725.78, "Adult and Culture":725.78},
 			"2010-06": {"total":557.48, "City Service":557.48},
-			"2011-03": {"total":1362.86, "Childrens Services":672.86, "Adult and Culture":690.00},
+			"2011-03": {"total":1362.86, "Adult and Culture":690.00, "Childrens Services":672.86},
 			"2011-04": {"total":1159.74, "Chief Executive's":1159.74},
 			"2012-01": {"total":490.00, "Chief Executive's":490.00},
 			"2012-05": {"total":458.20, "Chief Executive's":458.20},
@@ -438,7 +438,7 @@
 			"2012-10": {"total":1121.58, "2012-10-19":1121.58},
 			"2012-11": {"total":603.14, "2012-11-30":603.14},
 			"2012-12": {"total":339.63, "2012-12-09":339.63},
-			"2013-02": {"total":818.71, "2013-02-18":347.64, "2013-02-26":471.07},
+			"2013-02": {"total":818.71, "2013-02-26":471.07, "2013-02-18":347.64},
 			"2013-05": {"total":252.25, "2013-05-31":252.25},
 			"2014-01": {"total":405.60, "Chief Executive's":405.60},
 			"2014-07": {"total":405.60, "Chief Executive's":405.60},
@@ -446,7 +446,7 @@
 			"2014-11": {"total":1479.90, "Chief Executive's":1479.90},
 			"2015-04": {"total":2663.82, "Environment & Regeneration":2663.82},
 			"2015-06": {"total":1242.10, "Childrens Services":1242.10},
-			"2016-06": {"total":617.44, "Environment & Regeneration":284.94, "Adult and Culture":332.50},
+			"2016-06": {"total":617.44, "Adult and Culture":332.50, "Environment & Regeneration":284.94},
 			"2016-09": {"total":284.94, "Environment & Regeneration":284.94},
 			"2016-10": {"total":339.20, "Childrens Services":339.20}
 		}
@@ -463,8 +463,8 @@
 			"2012-02": {"total":3905.00, "Adult and Culture":3905.00},
 			"2012-03": {"total":9253.38, "Adult and Culture":9253.38},
 			"2012-05": {"total":4986.36, "Adult and Culture":4986.36},
-			"2012-06": {"total":28703.84, "Adult and Culture":3503.84, "Childrens Services":25200.00},
-			"2012-07": {"total":29024.28, "Childrens Services":25254.60, "Adult & Culture":3769.68},
+			"2012-06": {"total":28703.84, "Childrens Services":25200.00, "Adult and Culture":3503.84},
+			"2012-07": {"total":29024.28, "Adult & Culture":3769.68, "Childrens Services":25254.60},
 			"2012-08": {"total":23520.00, "Childrens Services":23520.00},
 			"2012-09": {"total":11875.00, "2012-09-28":11875.00},
 			"2012-10": {"total":11875.00, "2012-10-31":11875.00},
@@ -576,7 +576,7 @@
 		"monthly": {
 			"2011-03": {"total":1682.33, "Environment & Regeneration":683.33, "Chief Executives":999.00},
 			"2011-04": {"total":475.00, "Environment & Regeneration":475.00},
-			"2011-05": {"total":1774.00, "Environment & Regeneration":625.00, "Chief Executive's":1149.00},
+			"2011-05": {"total":1774.00, "Chief Executive's":1149.00, "Environment & Regeneration":625.00},
 			"2011-06": {"total":625.00, "Chief Executive's":625.00},
 			"2011-07": {"total":625.00, "Chief Executive's":625.00},
 			"2011-11": {"total":689.00, "Childrens Services":689.00},
@@ -606,7 +606,7 @@
 			"2012-12": {"total":299.15, "2012-12-28":299.15},
 			"2013-01": {"total":364.60, "2013-01-11":364.60},
 			"2013-03": {"total":399.10, "2013-03-20":399.10},
-			"2013-04": {"total":707.40, "2013-04-10":398.90, "2013-04-25":308.50},
+			"2013-04": {"total":707.40, "2013-04-25":308.50, "2013-04-10":398.90},
 			"2013-05": {"total":736.90, "2013-05-28":736.90},
 			"2013-07": {"total":577.90, "2013-07-23":577.90},
 			"2013-08": {"total":1099.40, "Adult and Culture":1099.40},
