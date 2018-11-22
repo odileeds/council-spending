@@ -46,7 +46,7 @@
 			"2014-01": {"total":975.00, "Facilities Management":975.00},
 			"2014-02": {"total":2623.21, "Facilities Management":2623.21},
 			"2014-05": {"total":900.00, "Facilities Management":900.00},
-			"2014-06": {"total":15098.35, "Business Services":10700.35, "Facilities Management":2288.00, "Housing":2110.00},
+			"2014-06": {"total":15098.35, "Facilities Management":2288.00, "Business Services":10700.35, "Housing":2110.00},
 			"2014-07": {"total":905.00, "Facilities Management":905.00},
 			"2014-08": {"total":2756.91, "Housing":0.00, "Facilities Management":2756.91},
 			"2014-09": {"total":670.00, "Facilities Management":670.00},
@@ -81,7 +81,7 @@
 			"2013-10": {"total":1637.60, "Emp Relations & Resourcing":500.00, "Localities":1137.60},
 			"2013-11": {"total":1208.00, "Localities":708.00, "Emp Relations & Resourcing":500.00},
 			"2013-12": {"total":1500.00, "Emp Relations & Resourcing":1500.00},
-			"2014-02": {"total":2208.00, "Localities":708.00, "Emp Relations & Resourcing":1500.00},
+			"2014-02": {"total":2208.00, "Emp Relations & Resourcing":1500.00, "Localities":708.00},
 			"2014-03": {"total":2000.00, "Emp Relations & Resourcing":2000.00},
 			"2014-04": {"total":1758.00, "Emp Relations & Resourcing":1050.00, "Localities":708.00},
 			"2014-05": {"total":1000.00, "Emp Relations & Resourcing":1000.00},
@@ -264,10 +264,10 @@
 		"name": "CTRACK LTD",
 		"total": 277711.88,
 		"monthly": {
-			"2016-06": {"total":33443.08, "Highways Asset Management":29057.60, "Housing":2976.60, "Facilities Management":704.44, "St Scene & Waste Man":704.44},
-			"2016-07": {"total":126056.58, "St Scene & Waste Man":83395.17, "Revenues & Benefits":1997.76, "Facilities Management":17002.04, "Landscape":23661.61},
-			"2016-08": {"total":8929.66, "Adult & Community Services":8241.66, "Facilities Management":688.00},
-			"2016-09": {"total":2367.32, "IT Services":704.44, "Neighbourhood Service":504.00, "Regeneration":1158.88},
+			"2016-06": {"total":33443.08, "Highways Asset Management":29057.60, "St Scene & Waste Man":704.44, "Housing":2976.60, "Facilities Management":704.44},
+			"2016-07": {"total":126056.58, "Landscape":23661.61, "Revenues & Benefits":1997.76, "St Scene & Waste Man":83395.17, "Facilities Management":17002.04},
+			"2016-08": {"total":8929.66, "Facilities Management":688.00, "Adult & Community Services":8241.66},
+			"2016-09": {"total":2367.32, "Regeneration":1158.88, "Neighbourhood Service":504.00, "IT Services":704.44},
 			"2016-10": {"total":30500.00, "St Scene & Waste Man":30500.00},
 			"2016-11": {"total":22570.00, "St Scene & Waste Man":20487.50, "Landscape":2082.50},
 			"2016-12": {"total":2103.75, "Highways Asset Management":2103.75},
@@ -373,7 +373,7 @@
 			"2015-10": {"total":4621.76, "Ed Contract Services":511.35, "Childrens Services":4110.41},
 			"2015-11": {"total":555.00, "Ed Contract Services":555.00},
 			"2016-01": {"total":9695.84, "Childrens Services":9695.84},
-			"2016-04": {"total":23310.78, "Childrens Services":1280.78, "Education Buildings Team":22030.00}
+			"2016-04": {"total":23310.78, "Education Buildings Team":22030.00, "Childrens Services":1280.78}
 		}
 	},
 	"2628": {
@@ -459,7 +459,7 @@
 			"2016-01": {"total":15135.20, "Adult & Community Services":15135.20},
 			"2016-02": {"total":22548.34, "Adult & Community Services":22548.34},
 			"2016-03": {"total":17698.13, "Adult & Community Services":17698.13},
-			"2016-04": {"total":20347.89, "Adult & Community Services":16282.56, "Adult & Community Service":4065.33},
+			"2016-04": {"total":20347.89, "Adult & Community Service":4065.33, "Adult & Community Services":16282.56},
 			"2016-05": {"total":16735.88, "Adult & Community Services":16735.88},
 			"2016-06": {"total":36422.98, "Adult & Community Services":36422.98},
 			"2016-07": {"total":51826.14, "Adult and Community Services":51826.14},
@@ -512,12 +512,12 @@
 			"2016-01": {"total":5675.00, "Facilities Management":5675.00},
 			"2016-04": {"total":7500.00, "Economic Development Service":7500.00},
 			"2016-05": {"total":7500.00, "Regeneration":7500.00},
-			"2016-08": {"total":4264.00, "Economic Development Service":2764.00, "Facilities Management":1500.00},
-			"2016-09": {"total":8170.00, "Facilities Management":5970.00, "Economic Development Service":2200.00},
+			"2016-08": {"total":4264.00, "Facilities Management":1500.00, "Economic Development Service":2764.00},
+			"2016-09": {"total":8170.00, "Economic Development Service":2200.00, "Facilities Management":5970.00},
 			"2016-10": {"total":1430.00, "Facilities Management":1430.00},
 			"2016-11": {"total":2035.00, "Facilities Management":2035.00},
 			"2016-12": {"total":678.57, "Facilities Management":678.57},
-			"2017-01": {"total":38022.96, "Education Buildings Team":750.00, "Facilities Management":37272.96},
+			"2017-01": {"total":38022.96, "Facilities Management":37272.96, "Education Buildings Team":750.00},
 			"2017-02": {"total":2035.00, "Facilities Management":2035.00},
 			"2017-03": {"total":5500.00, "Facilities Management":5500.00},
 			"2017-05": {"total":7157.09, "Facilities Management":7157.09},
@@ -532,7 +532,7 @@
 		"total": 20000,
 		"monthly": {
 			"2016-03": {"total":7500.00, "Economic Development Service":7500.00},
-			"2016-04": {"total":12500.00, "Economic Development Service":7500.00, "Plans & Performance":5000.00}
+			"2016-04": {"total":12500.00, "Plans & Performance":5000.00, "Economic Development Service":7500.00}
 		}
 	},
 	"2636": {
@@ -680,7 +680,7 @@
 			"2014-07": {"total":2500.00, "Plans & Performance":2500.00},
 			"2015-02": {"total":885.00, "Emp Relations & Resourcing":885.00},
 			"2015-04": {"total":720.00, "Sports and Leisure":720.00},
-			"2016-11": {"total":480.00, "Neighbourhood Service":480.00, "Human Resources":0.00}
+			"2016-11": {"total":480.00, "Human Resources":0.00, "Neighbourhood Service":480.00}
 		}
 	},
 	"2648": {
