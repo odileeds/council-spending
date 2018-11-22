@@ -2,821 +2,669 @@
 	"range": ["2013-04","2017-12"],
 	"data": {
 	"5100": {
+		"name": "IN CONTROL",
+		"total": 22550,
+		"monthly": {
+			"2014-01": {"total":5500.00, "Soc Serv Children & Young Peop":5500.00},
+			"2014-04": {"total":550.00, "Soc Serv Children & Young Peop":550.00},
+			"2015-02": {"total":5500.00, "Soc Serv Children & Young Peop":5500.00},
+			"2015-08": {"total":5500.00, "Soc Serv Adults":5500.00},
+			"2017-01": {"total":5500.00, "Health & Wellbeing":5500.00}
+		}
+	},
+	"5101": {
+		"name": "IN2CHANGE SOUTH YORKSHIRE LTD",
+		"total": 116786,
+		"monthly": {
+			"2014-09": {"total":43800.00, "Neighbourhood Service":43800.00},
+			"2014-10": {"total":19200.00, "Envir & Spor":19200.00},
+			"2014-11": {"total":11500.00, "Envir & Spor":11500.00},
+			"2014-12": {"total":32000.00, "Envir & Spor":32000.00},
+			"2015-03": {"total":10286.00, "Env & Sport":10286.00}
+		}
+	},
+	"5102": {
+		"name": "INAYAH'S QUEST",
+		"total": 1246,
+		"monthly": {
+			"2015-08": {"total":590.00, "Localities":590.00},
+			"2015-09": {"total":656.00, "Localities":656.00}
+		}
+	},
+	"5103": {
+		"name": "INBBA",
+		"total": 1488.6,
+		"monthly": {
+			"2015-04": {"total":705.60, "CT&S":705.60},
+			"2015-11": {"total":783.00, "CT&S":783.00}
+		}
+	},
+	"5104": {
+		"name": "INCENTIVE PLUS LTD",
+		"total": 1690.12,
+		"monthly": {
+			"2014-07": {"total":1690.12, "Localities":1690.12}
+		}
+	},
+	"5105": {
+		"name": "INCISIVE FINANCIAL PUBLISHING LTD",
+		"total": 3644,
+		"monthly": {
+			"2013-12": {"total":898.00, "Pensions & Investments":898.00},
+			"2014-12": {"total":898.00, "Pensions & Investments":898.00},
+			"2016-01": {"total":898.00, "Pensions & Investments":898.00},
+			"2017-01": {"total":950.00, "Pensions & Investments":950.00}
+		}
+	},
+	"5106": {
+		"name": "INCLUSION NORTH",
+		"total": 30634,
+		"monthly": {
+			"2013-05": {"total":15317.00, "Soc Serv Adults":15317.00},
+			"2014-05": {"total":15317.00, "Soc Serv Adults":15317.00}
+		}
+	},
+	"5107": {
+		"name": "INCLUSION NORTH CIC",
+		"total": 73882,
+		"monthly": {
+			"2015-05": {"total":30634.00, "Soc Serv Adults":30634.00},
+			"2017-04": {"total":43248.00, "Health & Wellbeing":43248.00}
+		}
+	},
+	"5108": {
+		"name": "INCOMMUNITIES",
+		"total": 11825409.42,
+		"monthly": {
+			"2013-04": {"total":123062.15, "Facilities Management":4670.00, "Housing":113392.15, "Economic Development Service":5000.00},
+			"2013-05": {"total":121805.92, "Housing":117705.92, "Facilities Management":4100.00},
+			"2013-06": {"total":149074.95, "Housing":147474.95, "Facilities Management":1600.00},
+			"2013-07": {"total":118691.57, "Housing":114509.42, "Asset Management":4182.15},
+			"2013-08": {"total":213130.35, "Housing":210930.35, "Facilities Management":2200.00},
+			"2013-09": {"total":549826.95, "Housing":546968.26, "Soc Serv Adults":2858.69},
+			"2013-10": {"total":554125.16, "Facilities Management":2900.00, "Housing":420965.67, "Soc Serv Adults":130259.49},
+			"2013-11": {"total":259601.17, "Soc Serv Adults":10776.65, "Housing":248824.52},
+			"2013-12": {"total":302346.56, "Facilities Management":900.00, "Housing":296653.92, "Soc Serv Adults":4792.64},
+			"2014-01": {"total":186244.62, "Housing":173804.27, "Soc Serv Adults":12440.35},
+			"2014-02": {"total":394618.00, "Facilities Management":1500.00, "Housing":393118.00},
+			"2014-03": {"total":461590.54, "Facilities Management":1200.00, "Housing":460390.54},
+			"2014-04": {"total":305837.74, "Facilities Management":500.00, "Housing":253538.98, "Soc Serv Adults":51798.76},
+			"2014-05": {"total":75921.37, "Soc Serv Adults":38159.79, "Regen & Cult":12609.40, "Soc Serv Children & Young Peop":10552.18, "Facilities Management":14600.00},
+			"2014-06": {"total":94694.03, "Asset Management":4349.28, "Soc Serv Adults":52687.30, "Regen & Cult":32769.24, "Facilities Management":1200.00, "Housing":3688.21},
+			"2014-07": {"total":709355.21, "Soc Serv Adults":38159.79, "Facilities Management":1850.00, "Housing":669345.42},
+			"2014-08": {"total":272165.50, "Housing":227573.95, "Soc Serv Adults":38159.79, "Soc Serv Children & Young Peop":6431.76},
+			"2014-09": {"total":644671.94, "Soc Serv Adults":1139.80, "Housing":643532.14},
+			"2014-10": {"total":333926.90, "Facilities Management":1000.00, "Housing":263036.30, "Soc Serv Adults":69890.60},
+			"2014-11": {"total":360414.79, "Regen & Cult":20394.50, "Soc Serv Adults":34886.85, "Housing":294383.44, "Envir & Spor":10750.00},
+			"2014-12": {"total":286836.02, "Soc Serv Adults":41161.02, "Housing":245675.00},
+			"2015-01": {"total":274745.85, "Housing":238384.00, "Facilities Management":1475.00, "Soc Serv Adults":34886.85},
+			"2015-02": {"total":139909.96, "Housing":105023.11, "Soc Serv Adults":34886.85},
+			"2015-03": {"total":190261.09, "Soc  Serv  Adults":34886.85, "Housing":96429.00, "Soc Serv Adults":11059.00, "Soc Serv Children & Young Peop":12146.10, "Climate, Housing, Employment & Skills":17320.42, "Regen & Cult":18419.72},
+			"2015-04": {"total":316206.66, "Soc Serv Adults":34886.85, "Facilities Management":3100.00, "Housing":278219.81},
+			"2015-05": {"total":300669.82, "Soc Serv Adults":37283.69, "Soc Serv Children & Young Peop":8595.70, "Housing":254790.43},
+			"2015-06": {"total":196365.10, "Housing":156510.00, "Facilities Management":550.00, "Soc Serv Adults":39305.10},
+			"2015-07": {"total":177491.83, "Soc Serv Children & Young Peop":4329.48, "Soc Serv Adults":48019.35, "Housing":123943.00, "Facilities Management":1200.00},
+			"2015-08": {"total":1010421.30, "Soc Serv Adults":56012.19, "Housing":954409.11},
+			"2015-09": {"total":91833.84, "Housing":53347.00, "Facilities Management":3600.00, "Adults & Comm":34886.84},
+			"2015-10": {"total":390401.65, "Childrens Services":6421.80, "Education Buildings Team":4443.36, "Housing":314129.78, "Adult & Comm":65406.71},
+			"2015-11": {"total":250428.78, "Plans & Performance":2200.00, "Adult & Community Services":37370.38, "Childrens Services":560.64, "Housing":209097.76, "Facilities Management":1200.00},
+			"2015-12": {"total":31922.69, "Adult & Community Services":31922.69},
+			"2016-01": {"total":70517.74, "Adult & Community Services":31922.69, "Facilities Management":800.00, "Housing":37795.05},
+			"2016-02": {"total":110329.43, "Housing":62131.22, "Childrens Services":12875.55, "Adult & Community Services":35322.66},
+			"2016-03": {"total":113665.17, "Housing":72165.53, "Adult & Community Services":41499.64},
+			"2016-04": {"total":51765.76, "Housing":13839.63, "Facilities Management":700.00, "Adult & Community Services":37226.13},
+			"2016-05": {"total":40270.15, "Adult & Community Services":31922.69, "Childrens Services":8347.46},
+			"2016-06": {"total":25082.11, "Adult & Community Services":25082.11},
+			"2016-07": {"total":84807.00, "Housing":84807.00},
+			"2016-08": {"total":102518.00, "Housing":101072.00, "Adult & Community Services":1446.00},
+			"2016-09": {"total":256112.86, "Adult & Community Services":236200.86, "Housing":19912.00},
+			"2016-10": {"total":47024.66, "Adult and Community Services":47024.66},
+			"2016-11": {"total":64125.39, "Childrens Services":1357.73, "Health & Wellbeing":47024.66, "Housing":15743.00},
+			"2016-12": {"total":47024.66, "Health & Wellbeing":47024.66},
+			"2017-01": {"total":52579.82, "Childrens Services":1141.56, "Health & Wellbeing":47024.66, "Education Buildings Team":4413.60},
+			"2017-02": {"total":103681.74, "Health & Wellbeing":94049.32, "Housing":9000.00, "Facilities Management":632.42},
+			"2017-03": {"total":55715.50, "Health & Wellbeing":54481.20, "Childrens Services":1234.30},
+			"2017-04": {"total":61024.66, "Health & Wellbeing":47024.66, "Housing":14000.00},
+			"2017-05": {"total":4320.00, "Housing":4320.00},
+			"2017-06": {"total":72873.41, "Housing":14789.75, "Health & Wellbeing":58083.66},
+			"2017-07": {"total":47024.66, "Health & Wellbeing":47024.66},
+			"2017-08": {"total":99684.76, "Health & Wellbeing":94861.16, "Childrens Services":1613.60, "Housing":3210.00},
+			"2017-09": {"total":137226.78, "Childrens Services":862.12, "Health & Wellbeing":47024.66, "Housing":34825.00, "Skills for Work":54515.00},
+			"2017-10": {"total":166737.60, "Skills for Work":115458.00, "Health & Wellbeing":47024.66, "Childrens Services":4254.94},
+			"2017-11": {"total":122697.55, "Health & Wellbeing":47024.66, "Skills for Work":75672.89}
+		}
+	},
+	"5109": {
+		"name": "INCOMMUNITIES / SWAN PROJECT",
+		"total": 16945,
+		"monthly": {
+			"2014-04": {"total":820.00, "Education Client Team":820.00},
+			"2015-07": {"total":5375.00, "Envir & Spor":5375.00},
+			"2015-10": {"total":5375.00, "Envir & Spor":5375.00},
+			"2016-01": {"total":5375.00, "Environment & Sport":5375.00}
+		}
+	},
+	"5110": {
+		"name": "INCOMMUNITIES T/A PROPERTY SOLUTION",
+		"total": 1517212.04,
+		"monthly": {
+			"2013-04": {"total":21806.84, "Housing":21806.84},
+			"2013-05": {"total":4488.31, "Housing":4488.31},
+			"2013-06": {"total":4053.58, "Housing":4053.58},
+			"2013-07": {"total":27387.52, "Housing":27387.52},
+			"2013-08": {"total":42127.74, "Housing":42127.74},
+			"2013-10": {"total":20589.05, "Housing":20589.05},
+			"2013-11": {"total":19057.14, "Soc Serv Children & Young Peop":1077.48, "Housing":17979.66},
+			"2013-12": {"total":30803.28, "Housing":29720.52, "Soc Serv Children & Young Peop":1082.76},
+			"2014-02": {"total":36321.48, "Housing":36321.48},
+			"2014-03": {"total":120855.67, "Housing":120855.67},
+			"2014-04": {"total":3018.58, "Housing":3018.58},
+			"2014-05": {"total":27087.48, "Housing":27087.48},
+			"2014-06": {"total":42356.44, "Housing":42356.44},
+			"2014-07": {"total":10091.20, "Housing":10091.20},
+			"2014-08": {"total":32262.05, "Housing":32262.05},
+			"2014-09": {"total":16455.57, "Housing":16455.57},
+			"2014-10": {"total":42503.74, "Housing":30401.74, "Neighbourhood Service":12102.00},
+			"2014-11": {"total":45325.90, "Housing":45325.90},
+			"2015-01": {"total":31533.54, "Housing":29533.54, "Environ & Ne":2000.00},
+			"2015-02": {"total":49900.95, "Housing":49900.95},
+			"2015-03": {"total":36264.67, "Climate, Housing, Employment & Skills":36264.67},
+			"2015-04": {"total":95593.93, "Housing":83491.93, "Neighbourhood Service":12102.00},
+			"2015-05": {"total":86190.87, "Housing":80815.87, "Envir & Spor":5375.00},
+			"2015-06": {"total":2905.99, "Housing":2905.99},
+			"2015-07": {"total":35302.92, "Housing":35302.92},
+			"2015-08": {"total":80182.76, "Housing":80182.76},
+			"2015-09": {"total":51918.85, "Housing":51918.85},
+			"2015-10": {"total":61042.25, "Housing":61042.25},
+			"2015-11": {"total":69139.03, "Housing":69139.03},
+			"2015-12": {"total":44309.90, "Housing":44309.90},
+			"2016-01": {"total":60753.25, "Housing":60753.25},
+			"2016-02": {"total":47125.30, "Housing":47125.30},
+			"2016-03": {"total":91015.93, "Housing":91015.93},
+			"2016-04": {"total":49406.63, "Housing":49406.63},
+			"2016-05": {"total":59355.82, "Housing":59355.82},
+			"2016-06": {"total":18677.88, "Housing":18677.88}
+		}
+	},
+	"5111": {
+		"name": "INDEPENDENCE",
+		"total": 48596.49,
+		"monthly": {
+			"2013-04": {"total":11544.60, "Soc Serv Children & Young Peop":11544.60},
+			"2013-05": {"total":11520.00, "Soc Serv Children & Young Peop":11520.00},
+			"2013-06": {"total":5760.00, "Soc Serv Children & Young Peop":5760.00},
+			"2013-08": {"total":5367.00, "Soc Serv Children & Young Peop":5367.00},
+			"2013-10": {"total":13772.89, "Soc Serv Children & Young Peop":13772.89},
+			"2013-11": {"total":632.00, "Soc Serv Children & Young Peop":632.00}
+		}
+	},
+	"5112": {
+		"name": "INDEPENDENCE MOBILITY LTD",
+		"total": 54910.16,
+		"monthly": {
+			"2013-06": {"total":761.00, "Soc Serv Adults":761.00},
+			"2013-09": {"total":3336.00, "Soc Serv Adults":3336.00},
+			"2013-10": {"total":735.00, "Soc Serv Adults":735.00},
+			"2013-11": {"total":1600.00, "Soc Serv Adults":1600.00},
+			"2014-01": {"total":2896.58, "Soc Serv Adults":2896.58},
+			"2014-02": {"total":603.00, "Soc Serv Adults":603.00},
+			"2014-03": {"total":3262.58, "Soc Serv Adults":3262.58},
+			"2014-05": {"total":2360.00, "Soc Serv Adults":2360.00},
+			"2014-06": {"total":6872.00, "Soc Serv Adults":6872.00},
+			"2014-10": {"total":4054.00, "Soc Serv Adults":4054.00},
+			"2015-02": {"total":2424.00, "Soc Serv Adults":2424.00},
+			"2015-03": {"total":550.00, "Soc Serv Adults":550.00},
+			"2015-06": {"total":2449.00, "Soc Serv Adults":2449.00},
+			"2015-08": {"total":1180.00, "Soc Serv Adults":1180.00},
+			"2015-10": {"total":1340.00, "Adult & Comm":1340.00},
+			"2015-11": {"total":3339.00, "Adult & Community Services":3339.00},
+			"2015-12": {"total":1380.00, "Adult & Community Services":1380.00},
+			"2016-03": {"total":3505.00, "Adult & Community Services":3505.00},
+			"2016-05": {"total":2870.00, "Adult & Community Services":2870.00},
+			"2016-06": {"total":985.00, "Adult & Community Services":985.00},
+			"2016-09": {"total":3128.00, "Adult & Community Services":3128.00},
+			"2016-10": {"total":1910.00, "Adult and Community Services":1910.00},
+			"2017-11": {"total":3370.00, "Health & Wellbeing":3370.00}
+		}
+	},
+	"5113": {
+		"name": "INDEPENDENT ACCESS ENGINEERING",
+		"total": 2431.8,
+		"monthly": {
+			"2013-07": {"total":585.00, "Theatres, Arts & Festivals":585.00},
+			"2013-08": {"total":580.50, "Theatres, Arts & Festivals":580.50},
+			"2014-03": {"total":681.30, "Theatres, Arts & Festivals":681.30},
+			"2014-09": {"total":585.00, "Theatres, Arts & Festivals":585.00}
+		}
+	},
+	"5114": {
+		"name": "INDEPENDENT EQUIPMENT COMPANY",
+		"total": 7693.7,
+		"monthly": {
+			"2013-06": {"total":591.75, "AHL Policy Res & Dev":591.75},
+			"2014-05": {"total":591.75, "AHL Policy Res & Dev":591.75},
+			"2015-05": {"total":591.75, "AHL Policy Res & Dev":591.75},
+			"2016-05": {"total":4734.95, "Sports and Leisure":4734.95},
+			"2016-06": {"total":591.75, "AHL Policy Res & Dev":591.75},
+			"2017-06": {"total":591.75, "AHL Policy Res & Dev":591.75}
+		}
+	},
+	"5115": {
+		"name": "INDEPENDENT LIVING FUND",
+		"total": 14897.1,
+		"monthly": {
+			"2014-08": {"total":14897.10, "Soc Serv Adults":14897.10}
+		}
+	},
+	"5116": {
+		"name": "INDEPENDENT LIVING PROJECT LTD",
+		"total": 640290.120000001,
+		"monthly": {
+			"2013-04": {"total":150.05, "Soc Serv Children & Young Peop":150.05},
+			"2013-05": {"total":11264.29, "Soc Serv Children & Young Peop":11264.29},
+			"2013-06": {"total":3320.00, "Soc Serv Children & Young Peop":3320.00},
+			"2013-07": {"total":5454.28, "Soc Serv Children & Young Peop":5454.28},
+			"2013-08": {"total":2820.00, "Soc Serv Children & Young Peop":2820.00},
+			"2013-09": {"total":6434.29, "Soc Serv Children & Young Peop":6434.29},
+			"2013-10": {"total":10789.99, "Soc Serv Children & Young Peop":10789.99},
+			"2013-11": {"total":1660.00, "Soc Serv Children & Young Peop":1660.00},
+			"2013-12": {"total":7422.15, "Soc Serv Children & Young Peop":7422.15},
+			"2014-01": {"total":19770.00, "Soc Serv Children & Young Peop":19770.00},
+			"2014-02": {"total":12950.00, "Soc Serv Children & Young Peop":12950.00},
+			"2014-03": {"total":19564.29, "Soc Serv Children & Young Peop":19564.29},
+			"2014-05": {"total":27077.62, "Soc Serv Children & Young Peop":27077.62},
+			"2014-06": {"total":22054.02, "Soc Serv Children & Young Peop":22054.02},
+			"2014-07": {"total":20156.90, "Soc Serv Children & Young Peop":20156.90},
+			"2014-08": {"total":18378.35, "Soc Serv Children & Young Peop":18378.35},
+			"2014-09": {"total":19533.35, "Soc Serv Children & Young Peop":19533.35},
+			"2014-10": {"total":22991.06, "Soc Serv Children & Young Peop":22991.06},
+			"2014-11": {"total":20756.66, "Soc Serv Children & Young Peop":20756.66},
+			"2014-12": {"total":33210.34, "Soc Serv Children & Young Peop":33210.34},
+			"2015-01": {"total":16187.68, "Soc Serv Children & Young Peop":16187.68},
+			"2015-02": {"total":3675.67, "Soc Serv Children & Young Peop":3675.67},
+			"2015-03": {"total":12635.57, "Soc Serv Children & Young Peop":12635.57},
+			"2015-04": {"total":11852.01, "Soc Serv Children & Young Peop":11852.01},
+			"2015-05": {"total":15678.70, "Soc Serv Children & Young Peop":15678.70},
+			"2015-06": {"total":13270.87, "Soc Serv Children & Young Peop":13270.87},
+			"2015-07": {"total":20859.50, "Soc Serv Children & Young Peop":20859.50},
+			"2015-08": {"total":7107.17, "Soc Serv Children & Young Peop":7107.17},
+			"2015-09": {"total":16381.45, "Soc Serv Children & Young Peop":16381.45},
+			"2015-11": {"total":17396.76, "Childrens Services":17396.76},
+			"2015-12": {"total":7999.06, "Childrens Services":7999.06},
+			"2016-01": {"total":8281.96, "Childrens Services":8281.96},
+			"2016-03": {"total":7496.16, "Childrens Services":7496.16},
+			"2016-04": {"total":13625.16, "Children's services":13625.16},
+			"2016-06": {"total":8281.96, "Childrens Services":8281.96},
+			"2016-07": {"total":8564.80, "Childrens Services":8564.80},
+			"2016-08": {"total":8281.96, "Childrens Services":8281.96},
+			"2016-09": {"total":16296.76, "Childrens Services":16296.76},
+			"2016-10": {"total":8281.96, "Childrens Services":8281.96},
+			"2016-12": {"total":14525.90, "Soc Serv Children & Young Peop":14525.90},
+			"2017-01": {"total":5281.26, "Childrens Services":5281.26},
+			"2017-02": {"total":4140.98, "Childrens Services":4140.98},
+			"2017-03": {"total":16964.66, "Childrens Services":16964.66},
+			"2017-05": {"total":4007.40, "Childrens Services":4007.40},
+			"2017-06": {"total":21464.95, "Childrens Services":21464.95},
+			"2017-07": {"total":11459.15, "Soc Serv Children & Young Peop":11459.15},
+			"2017-08": {"total":8281.96, "Childrens Services":8281.96},
+			"2017-09": {"total":17830.67, "Childrens Services":17830.67},
+			"2017-10": {"total":8014.80, "Childrens Services":8014.80},
+			"2017-11": {"total":8249.81, "Childrens Services":8249.81},
+			"2017-12": {"total":12155.78, "Childrens Services":12155.78}
+		}
+	},
+	"5117": {
+		"name": "INDEPENDENT PARTS & SERVICE LTD",
+		"alternate-names": [
+			"INDEPENDENT PARTS & SERVICE LIMITED"
+		],
+		"total": 1278,
+		"monthly": {
+			"2013-05": {"total":639.00, "Museums, Galleries & Heritage":639.00},
+			"2014-05": {"total":639.00, "Museums, Galleries & Heritage":639.00}
+		}
+	},
+	"5118": {
+		"name": "INDEPENDENT PLAYGROUND INSPECTION",
+		"total": 30795,
+		"monthly": {
+			"2013-09": {"total":6530.00, "Landscape":6530.00},
+			"2014-08": {"total":6670.00, "Landscape":6670.00},
+			"2014-12": {"total":700.00, "Landscape":700.00},
+			"2015-07": {"total":5670.00, "Landscape":5670.00},
+			"2016-03": {"total":700.00, "Landscape":700.00},
+			"2016-08": {"total":4890.00, "Landscape":4890.00},
+			"2017-08": {"total":5635.00, "Landscape":5635.00}
+		}
+	},
+	"5119": {
+		"name": "INDEPENDENT PSYCHIATRIC REPORTS LTD",
+		"total": 5756.91,
+		"monthly": {
+			"2014-05": {"total":1520.28, "Legal Services":1520.28},
+			"2014-09": {"total":2321.50, "Legal Services":2321.50},
+			"2016-02": {"total":1915.13, "Legal Services":1915.13}
+		}
+	},
+	"5120": {
+		"name": "INDICI LTD",
+		"total": 2800,
+		"monthly": {
+			"2015-03": {"total":2800.00, "Soc Serv Children & Young Peop":2800.00}
+		}
+	},
+	"5121": {
+		"name": "INDIGO DIVERSITY LTD",
+		"total": 21021.53,
+		"monthly": {
+			"2013-05": {"total":716.00, "Emp Relations & Resourcing":716.00},
+			"2013-10": {"total":2768.90, "Emp Relations & Resourcing":2768.90},
+			"2013-11": {"total":3218.10, "Emp Relations & Resourcing":3218.10},
+			"2014-04": {"total":10924.10, "Emp Relations & Resourcing":10924.10},
+			"2014-05": {"total":1582.50, "Emp Relations & Resourcing":1582.50},
+			"2014-06": {"total":1811.93, "Emp Relations & Resourcing":1811.93}
+		}
+	},
+	"5122": {
+		"name": "INDIVIDUAL ENTERTAINMENT LTD",
+		"total": 2026.64,
+		"monthly": {
+			"2015-12": {"total":2026.64, "CT&S":2026.64}
+		}
+	},
+	"5123": {
+		"name": "INDIVIDUAL ENTS LTD",
+		"total": 2985.39,
+		"monthly": {
+			"2014-12": {"total":2985.39, "CT&S":2985.39}
+		}
+	},
+	"5124": {
+		"name": "INDIYA'S DESIGN SOLUTIONS",
+		"total": 2000,
+		"monthly": {
+			"2014-11": {"total":2000.00, "Traffic & Highways Management":2000.00}
+		}
+	},
+	"5125": {
+		"name": "INDUSTRIAL & MOTOR COMPONENTS LTD",
+		"total": 24375.84,
+		"monthly": {
+			"2013-04": {"total":3578.93, "Landscape":3578.93},
+			"2013-05": {"total":3425.60, "Landscape":3425.60},
+			"2013-06": {"total":505.00, "Landscape":505.00},
+			"2013-11": {"total":545.16, "Highways Asset Management":545.16},
+			"2014-05": {"total":849.05, "Highways Asset Management":849.05},
+			"2014-07": {"total":954.00, "Landscape":954.00},
+			"2014-08": {"total":645.52, "Landscape":645.52},
+			"2014-10": {"total":1112.85, "Landscape":1112.85},
+			"2015-07": {"total":552.97, "Landscape":552.97},
+			"2015-08": {"total":560.00, "Highways Asset Management":560.00},
+			"2015-09": {"total":699.54, "Landscape":699.54},
+			"2015-10": {"total":551.18, "Highways Asset Management":551.18},
+			"2015-12": {"total":1465.56, "Landscape":923.78, "Highways Asset Management":541.78},
+			"2016-03": {"total":718.29, "Landscape":718.29},
+			"2016-09": {"total":1834.21, "Highways Asset Management":1834.21},
+			"2016-10": {"total":511.80, "Landscape":511.80},
+			"2017-02": {"total":521.30, "Highways Asset Management":521.30},
+			"2017-03": {"total":719.98, "Landscape":719.98},
+			"2017-04": {"total":525.07, "Highways Asset Management":525.07},
+			"2017-10": {"total":1397.72, "Landscape":536.50, "Highways Asset Management":861.22},
+			"2017-11": {"total":2702.11, "Highways Asset Management":2702.11}
+		}
+	},
+	"5126": {
+		"name": "INDUSTRIAL CHEMICAL ENTERPRISES",
+		"total": 679.88,
+		"monthly": {
+			"2014-04": {"total":679.88, "St Scene & Waste Man":679.88}
+		}
+	},
+	"5127": {
+		"name": "INDUSTRY MUSIC GROUP LTD",
+		"total": 11500,
+		"monthly": {
+			"2013-04": {"total":5000.00, "Landscape":5000.00},
+			"2013-07": {"total":5000.00, "Landscape":5000.00},
+			"2015-04": {"total":750.00, "Landscape":750.00},
+			"2015-08": {"total":750.00, "Landscape":750.00}
+		}
+	},
+	"5128": {
+		"name": "INDY SAGU",
+		"total": 2000,
+		"monthly": {
+			"2015-04": {"total":1000.00, "Soc Serv Children & Young Peop":1000.00},
+			"2015-11": {"total":1000.00, "Childrens Services":1000.00}
+		}
+	},
+	"5129": {
+		"name": "INENCO GROUP LTD",
+		"total": 27308,
+		"monthly": {
+			"2015-08": {"total":7560.00, "Facilities Management":7560.00},
+			"2016-09": {"total":9848.00, "Landscape":9848.00},
+			"2017-09": {"total":4190.00, "Landscape":4190.00},
+			"2017-10": {"total":5710.00, "Landscape":5710.00}
+		}
+	},
+	"5130": {
+		"name": "INFO DISPLAY",
+		"total": 5131.7,
+		"monthly": {
+			"2013-06": {"total":541.00, "Theatres, Arts & Festivals":541.00},
+			"2014-07": {"total":2264.50, "Theatres, Arts & Festivals":2264.50},
+			"2015-07": {"total":598.00, "Theatres, Arts & Festivals":598.00},
+			"2016-02": {"total":568.80, "Theatres, Arts & Festivals":568.80},
+			"2016-05": {"total":579.20, "Theatres, Arts & Festivals":579.20},
+			"2016-08": {"total":580.20, "Theatres, Arts & Festivals":580.20}
+		}
+	},
+	"5131": {
+		"name": "INFO GROUP",
+		"total": 4935,
+		"monthly": {
+			"2015-03": {"total":4935.00, "Libraries, Archives & Info":4935.00}
+		}
+	},
+	"5132": {
+		"name": "INFO TECHNOLOGY SUPPLY LTD",
+		"total": 637.5,
+		"monthly": {
+			"2015-11": {"total":637.50, "Libraries, Archives & Info":637.50}
+		}
+	},
+	"5133": {
+		"name": "INFOGROUP",
+		"total": 4935,
+		"monthly": {
+			"2013-11": {"total":4935.00, "Libraries, Archives & Info":4935.00}
+		}
+	},
+	"5134": {
+		"name": "INFOJAM LTD",
+		"alternate-names": [
+			"INFOJAM LIMITED"
+		],
+		"total": 3875,
+		"monthly": {
+			"2017-03": {"total":3875.00, "Childrens Services":3875.00}
+		}
+	},
+	"5135": {
+		"name": "INFORM CPI LTD",
+		"total": 7500,
+		"monthly": {
+			"2017-04": {"total":7500.00, "Revenues & Benefits":7500.00}
+		}
+	},
+	"5136": {
+		"name": "INFORMATION COMMISSIONER",
+		"total": 9205,
+		"monthly": {
+			"2014-05": {"total":1050.00, "Democratic Services":1050.00},
+			"2014-06": {"total":560.00, "Democratic":560.00},
+			"2014-10": {"total":700.00, "Democratic Services":700.00},
+			"2015-05": {"total":2135.00, "Democratic Services":2135.00},
+			"2015-10": {"total":525.00, "Democratic Services":525.00},
+			"2016-04": {"total":1400.00, "Democratic":1400.00},
+			"2016-05": {"total":875.00, "Democratic Services Services":875.00},
+			"2017-04": {"total":1960.00, "Health & Wellbeing":1960.00}
+		}
+	},
+	"5137": {
+		"name": "ING LEASE (UK) LTD",
+		"total": 7741.75,
+		"monthly": {
+			"2013-04": {"total":694.25, "Ed Contract Services":694.25},
+			"2013-07": {"total":694.25, "Ed Contract Services":694.25},
+			"2013-10": {"total":729.25, "Ed Contract Services":729.25},
+			"2013-12": {"total":694.25, "Ed Contract Services":694.25},
+			"2014-03": {"total":694.25, "Ed Contract Services":694.25},
+			"2014-07": {"total":694.25, "Ed Contract Services":694.25},
+			"2014-10": {"total":729.25, "Ed Contract Services":729.25},
+			"2015-01": {"total":694.25, "Ed Contract Services":694.25},
+			"2015-04": {"total":694.25, "Ed Contract Services":694.25},
+			"2015-06": {"total":694.25, "Ed Contract Services":694.25},
+			"2015-08": {"total":729.25, "Ed Contract Services":729.25}
+		}
+	},
+	"5138": {
+		"name": "INGEUS",
+		"total": 33570.85,
+		"monthly": {
+			"2014-11": {"total":7094.82, "Skills for Work":7094.82},
+			"2014-12": {"total":4184.11, "Skills for Work":4184.11},
+			"2015-02": {"total":978.62, "Skills for Work":978.62},
+			"2015-04": {"total":0.00, "Skills for Work":0.00},
+			"2015-06": {"total":2191.80, "Skills for Work":2191.80},
+			"2016-04": {"total":4620.37, "Housing":4620.37},
+			"2016-09": {"total":10562.73, "Skills for Work":10562.73},
+			"2017-01": {"total":3938.40, "Education Client Team":3938.40}
+		}
+	},
+	"5139": {
+		"name": "INGLESPORT LTD",
+		"total": 40050.48,
+		"monthly": {
+			"2013-09": {"total":562.17, "Soc Serv Children & Young Peop":562.17},
+			"2016-05": {"total":1339.39, "Sports and Leisure":1339.39},
+			"2016-07": {"total":28632.50, "Sports and Leisure":28632.50},
+			"2016-08": {"total":1135.09, "Sports and Leisure":1135.09},
+			"2016-09": {"total":574.65, "Childrens Services":574.65},
+			"2016-10": {"total":635.84, "Childrens Services":635.84},
+			"2017-01": {"total":2965.75, "Childrens Services":2965.75},
+			"2017-04": {"total":1161.00, "Neighbourhood Service":1161.00},
+			"2017-06": {"total":893.97, "Childrens Services":893.97},
+			"2017-07": {"total":518.55, "Soc Serv Children & Young Peop":518.55},
+			"2017-08": {"total":1631.57, "Sports and Leisure":1631.57}
+		}
+	},
+	"5140": {
+		"name": "INGRAM IMAGE LTD",
+		"total": 2609,
+		"monthly": {
+			"2015-04": {"total":659.00, "Emp Relations & Resourcing":659.00},
+			"2016-07": {"total":1000.00, "Human Resources":1000.00},
+			"2017-07": {"total":950.00, "Human Resources":950.00}
+		}
+	},
+	"5141": {
+		"name": "INGROW PRIMARY SCHOOL",
+		"total": 31744.44,
+		"monthly": {
+			"2014-07": {"total":13297.18, "Ed Contract Services":515.34, "Asset Management":12781.84},
+			"2014-09": {"total":723.45, "Ed Contract Services":723.45},
+			"2014-12": {"total":1268.82, "Ed Contract Services":1268.82},
+			"2015-03": {"total":1405.00, "Childrens Service":1405.00},
+			"2015-05": {"total":2334.15, "Ed Contract Services":2334.15},
+			"2015-07": {"total":1608.81, "Ed Contract Services":1608.81},
+			"2015-10": {"total":1366.05, "Ed Contract Services":1366.05},
+			"2015-12": {"total":8871.16, "Childrens Services":7323.25, "Ed Contract Services":1547.91},
+			"2016-02": {"total":869.82, "Ed Contract Services":869.82}
+		}
+	},
+	"5142": {
+		"name": "INGS HOUSE NURSING HOME",
+		"total": 5733.41,
+		"monthly": {
+			"2013-08": {"total":1917.95, "Soc Serv Adults":1917.95},
+			"2015-07": {"total":3164.04, "Soc Serv Adults":3164.04},
+			"2015-08": {"total":651.42, "Soc Serv Adults":651.42}
+		}
+	},
+	"5143": {
+		"name": "INGWOOD NURSING HOME",
+		"total": 19577.94,
+		"monthly": {
+			"2014-01": {"total":15203.94, "Soc Serv Adults":15203.94},
+			"2015-09": {"total":1880.82, "Adults & Comm":1880.82},
+			"2015-10": {"total":2493.18, "Adult & Comm":2493.18}
+		}
+	},
+	"5144": {
+		"name": "INITIAL WASHROOM SOLUTIONS",
+		"total": 12827.12,
+		"monthly": {
+			"2013-08": {"total":1419.65, "Ed Contract Services":1419.65},
+			"2013-09": {"total":1294.86, "Ed Contract Services":1294.86},
+			"2013-10": {"total":1988.00, "Soc Serv Children & Young Peop":1988.00},
+			"2013-11": {"total":570.69, "Ed Contract Services":570.69},
+			"2014-05": {"total":0.00, "Soc Serv Children & Young Peop":0.00},
+			"2014-08": {"total":1487.30, "Ed Contract Services":1487.30},
+			"2014-09": {"total":572.52, "Ed Contract Services":572.52},
+			"2014-10": {"total":722.34, "Ed Contract Services":722.34},
+			"2015-08": {"total":1558.27, "Ed Contract Services":1558.27},
+			"2015-09": {"total":1294.86, "Ed Contract Services":1294.86},
+			"2016-03": {"total":0.00, "Ed Contract Services":0.00},
+			"2016-12": {"total":1918.63, "Procurement":1336.30, "Education Contract Services":582.33}
+		}
+	},
+	"5145": {
+		"name": "INN CHURCHES",
+		"total": 147588,
+		"monthly": {
+			"2014-08": {"total":2750.00, "Soc Serv Adults":2750.00},
+			"2014-11": {"total":35000.00, "Soc Serv Children & Young Peop":35000.00},
+			"2015-01": {"total":40500.00, "Soc Serv Children & Young Peop":40500.00},
+			"2016-03": {"total":8788.00, "Public Health":8788.00},
+			"2016-04": {"total":25550.00, "Housing":550.00, "Public Health":25000.00},
+			"2017-03": {"total":35000.00, "Public Health":35000.00}
+		}
+	},
+	"5146": {
+		"name": "INNERCITY ROOFING YORKSHIRE",
+		"total": 221843,
+		"monthly": {
+			"2016-09": {"total":1835.00, "Facilities Management":1835.00},
+			"2016-11": {"total":27413.00, "Facilities Management":27413.00},
+			"2017-02": {"total":6651.75, "Facilities Management":6651.75},
+			"2017-05": {"total":96399.50, "Facilities Management":96399.50},
+			"2017-07": {"total":2717.25, "Facilities Management":2717.25},
+			"2017-10": {"total":71972.50, "Facilities Management":71972.50},
+			"2017-11": {"total":14854.00, "Facilities Management":14854.00}
+		}
+	},
+	"5147": {
+		"name": "INNOSYS LTD",
+		"total": 3300,
+		"monthly": {
+			"2015-12": {"total":3300.00, "Asset Management":3300.00}
+		}
+	},
+	"5148": {
+		"name": "INNOTEC SUPPLIES (UK) LTD",
+		"total": 794.88,
+		"monthly": {
+			"2016-08": {"total":794.88, "St Scene & Waste Man":794.88}
+		}
+	},
+	"5149": {
 		"name": "INNOTEC SUPPLIES UK LTD",
 		"total": 1588.77,
 		"monthly": {
 			"2013-12": {"total":952.29, "St Scene & Waste Man":952.29},
 			"2014-10": {"total":636.48, "St Scene & Waste Man":636.48}
-		}
-	},
-	"5101": {
-		"name": "INNOVYZE LTD",
-		"total": 670,
-		"monthly": {
-			"2013-07": {"total":670.00, "Building Control":670.00}
-		}
-	},
-	"5102": {
-		"name": "INSIDE HOUSING SOLUTIONS",
-		"total": 9000,
-		"monthly": {
-			"2014-10": {"total":4500.00, "Housing":4500.00},
-			"2015-02": {"total":4500.00, "Housing":4500.00}
-		}
-	},
-	"5103": {
-		"name": "INSIGHT CERTIFICATION LTD",
-		"alternate-names": [
-			"INSIGHT CERTIFICATION LIMITED"
-		],
-		"total": 1415,
-		"monthly": {
-			"2014-04": {"total":890.00, "Soc Serv Adults":890.00},
-			"2015-05": {"total":525.00, "Soc Serv Adults":525.00}
-		}
-	},
-	"5104": {
-		"name": "INSIGHT DIRECT (UK) LTD",
-		"total": 997178.26,
-		"monthly": {
-			"2013-05": {"total":6592.30, "Business Services":6592.30},
-			"2013-07": {"total":1612.69, "Pensions & Investments":1612.69},
-			"2013-08": {"total":7423.65, "Business Services":3910.35, "Education Buildings Team":3513.30},
-			"2013-10": {"total":1188.39, "Pensions & Investments":1188.39},
-			"2013-11": {"total":524.58, "Pensions & Investments":524.58},
-			"2014-03": {"total":587.98, "Democratic Services":587.98},
-			"2014-05": {"total":900.18, "Pensions & Investments":900.18},
-			"2014-07": {"total":935.76, "Pensions & Investments":935.76},
-			"2014-09": {"total":3436.40, "Pensions & Investments":3436.40},
-			"2014-12": {"total":1703.70, "Pensions & Investments":1703.70},
-			"2015-02": {"total":2446.71, "Pensions & Investments":2446.71},
-			"2015-06": {"total":1778.68, "Pensions & Investments":1778.68},
-			"2015-07": {"total":548.12, "ICT & Information Services":548.12},
-			"2015-08": {"total":53729.98, "IT Services":53729.98},
-			"2015-10": {"total":32221.46, "IT Services":30632.22, "Pensions & Investments":1589.24},
-			"2015-11": {"total":222328.72, "Pensions & Investments":3112.00, "IT Services":219216.72},
-			"2015-12": {"total":519.00, "Customer Relations":519.00},
-			"2016-01": {"total":2492.72, "Facilities Management":662.60, "Revenues & Benefits":1326.00, "Pensions & Investments":504.12},
-			"2016-02": {"total":2384.00, "IT Services":525.00, "Facilities Management":1859.00},
-			"2016-03": {"total":19000.00, "IT Services":19000.00},
-			"2016-04": {"total":2652.00, "Customer Relations":2652.00},
-			"2016-05": {"total":8460.00, "IT Services":8460.00},
-			"2016-07": {"total":3100.00, "IT Services":3100.00},
-			"2016-08": {"total":5178.63, "IT Services":5178.63},
-			"2016-09": {"total":43087.40, "IT Services":43087.40},
-			"2016-10": {"total":75505.36, "IT Services":75505.36},
-			"2016-11": {"total":128481.52, "IT Services":128481.52},
-			"2016-12": {"total":103940.40, "IT Services":103940.40},
-			"2017-01": {"total":4200.00, "IT Services":2250.00, "St Scene & Waste Man":1950.00},
-			"2017-06": {"total":1790.00, "Business Services":1790.00},
-			"2017-07": {"total":1310.80, "IT Services":1310.80},
-			"2017-08": {"total":25156.00, "IT Services":25156.00},
-			"2017-10": {"total":109487.30, "IT Services":109487.30},
-			"2017-11": {"total":122473.83, "IT Services":122473.83}
-		}
-	},
-	"5105": {
-		"name": "INSIGHT MANAGEMENT SOLUTIONS LTD",
-		"total": 23559.84,
-		"monthly": {
-			"2013-09": {"total":920.00, "Emp Relations & Resourcing":920.00},
-			"2014-01": {"total":2645.00, "Procurement":2645.00},
-			"2014-03": {"total":10720.00, "Emp Relations & Resourcing":10720.00},
-			"2014-08": {"total":6000.00, "Emp Relations & Resourcing":6000.00},
-			"2014-11": {"total":800.00, "Soc Serv Children & Young Peop":800.00},
-			"2014-12": {"total":843.68, "Emp Relations & Resourcing":843.68},
-			"2015-01": {"total":813.86, "Emp Relations & Resourcing":813.86},
-			"2015-03": {"total":817.30, "Emp Relations & Resourcing":817.30}
-		}
-	},
-	"5106": {
-		"name": "INSPIRAL DESIGN LTD",
-		"total": 5090,
-		"monthly": {
-			"2015-04": {"total":3590.00, "Museums, Galleries & Heritage":3590.00},
-			"2015-05": {"total":1500.00, "Museums, Galleries & Heritage":1500.00}
-		}
-	},
-	"5107": {
-		"name": "INSPIRE ACADEMY LTD",
-		"alternate-names": [
-			"INSPIRE ACADEMY LIMITED"
-		],
-		"total": 42620,
-		"monthly": {
-			"2017-07": {"total":20405.00, "Childrens Services":20405.00},
-			"2017-11": {"total":22215.00, "Childrens Services":22215.00}
-		}
-	},
-	"5108": {
-		"name": "INSPIRED",
-		"total": 560,
-		"monthly": {
-			"2015-08": {"total":560.00, "Soc Serv Children & Young Peop":560.00}
-		}
-	},
-	"5109": {
-		"name": "INSPIRED NEIGHBOURHOODS",
-		"total": 39431,
-		"monthly": {
-			"2016-04": {"total":4625.00, "Libraries, Archives & Info":4625.00},
-			"2016-05": {"total":2500.00, "Libraries, Archives & Info":2500.00},
-			"2016-06": {"total":11306.00, "Libraries, Archives & Info":11306.00},
-			"2016-11": {"total":9250.00, "Libraries, Archives & Info":9250.00},
-			"2016-12": {"total":7125.00, "Libraries, Archives & Info":7125.00},
-			"2017-03": {"total":4625.00, "Libraries, Archives & Info":4625.00}
-		}
-	},
-	"5110": {
-		"name": "INSPIRED NEIGHBOURHOODS CIC",
-		"total": 380570.06,
-		"monthly": {
-			"2013-11": {"total":1500.00, "Skills for Work":1500.00},
-			"2014-05": {"total":4119.91, "Regen & Cult":4119.91},
-			"2014-06": {"total":3493.07, "Regen & Cult":3493.07},
-			"2014-07": {"total":4465.88, "Economic Development Service":4465.88},
-			"2014-09": {"total":7721.64, "Economic Development Service":7721.64},
-			"2014-10": {"total":10000.00, "Soc Serv Adults":10000.00},
-			"2014-11": {"total":8961.00, "Public Health":8961.00},
-			"2015-01": {"total":23198.61, "Regen & Cult":16998.61, "Soc Serv Children & Young Peop":6200.00},
-			"2015-03": {"total":4370.10, "Regen & Cult":4370.10},
-			"2015-04": {"total":5000.00, "Soc Serv Adults":5000.00},
-			"2015-05": {"total":13126.83, "Regen & Cult":13126.83},
-			"2015-07": {"total":8716.49, "Regen & Cult":8716.49},
-			"2015-10": {"total":5000.00, "Adult & Comm":5000.00},
-			"2015-11": {"total":4377.02, "Regen & Cult":4377.02},
-			"2015-12": {"total":4323.00, "Neighbourhoo":4323.00},
-			"2016-02": {"total":14468.04, "Regeneration":14468.04},
-			"2016-03": {"total":27225.00, "Public Health":27225.00},
-			"2016-04": {"total":25010.34, "Regen & Cult":6058.59, "Childrens Services":11451.75, "Public Health":7500.00},
-			"2016-05": {"total":6346.61, "Regeneration":6346.61},
-			"2016-08": {"total":15211.75, "Childrens Services":11451.75, "Neighbourhood Service":3760.00},
-			"2016-09": {"total":2500.00, "Public Health":2500.00},
-			"2016-10": {"total":12426.75, "Childrens Services":11451.75, "Public Health":975.00},
-			"2016-11": {"total":6254.00, "Childrens Services":2491.00, "Neighbourhood Service":3763.00},
-			"2017-01": {"total":13450.00, "Health & Wellbeing":13450.00},
-			"2017-02": {"total":2491.00, "Childrens Services":2491.00},
-			"2017-03": {"total":11451.75, "Health & Wellbeing":11451.75},
-			"2017-05": {"total":4725.00, "Childrens Services":4725.00},
-			"2017-07": {"total":51369.40, "Regeneration":51369.40},
-			"2017-08": {"total":20246.75, "Childrens Services":15551.75, "Libraries, Archives & Info":4695.00},
-			"2017-10": {"total":54325.12, "Neighbourhood Service":7298.37, "Health & Wellbeing":26900.00, "Childrens Services":10826.75, "Libraries, Archives & Info":9300.00},
-			"2017-11": {"total":4695.00, "Libraries, Archives & Info":4695.00}
-		}
-	},
-	"5111": {
-		"name": "INSPIRED NEIGHBOURHOODS WRIGHT WATS",
-		"total": 462324.6,
-		"monthly": {
-			"2014-07": {"total":135098.62, "Economic Development Service":135098.62},
-			"2014-12": {"total":104247.68, "Regen & Cult":104247.68},
-			"2015-04": {"total":13112.05, "Regen & Cult":13112.05},
-			"2015-05": {"total":21649.18, "Regen & Cult":21649.18},
-			"2015-06": {"total":65338.99, "Regeneration & Culture":65338.99},
-			"2015-07": {"total":43616.31, "Regen & Cult":43616.31},
-			"2015-08": {"total":79261.77, "Regen & Cult":79261.77}
-		}
-	},
-	"5112": {
-		"name": "INSTANT MARQUEES LTD",
-		"total": 9680.03,
-		"monthly": {
-			"2013-10": {"total":1320.00, "Markets":1320.00},
-			"2014-12": {"total":2625.00, "Markets":2625.00},
-			"2015-01": {"total":3120.00, "Markets":3120.00},
-			"2015-11": {"total":2075.00, "Markets":2075.00},
-			"2017-03": {"total":540.03, "Localities":540.03}
-		}
-	},
-	"5113": {
-		"name": "INSTARMAC GROUP PLC",
-		"total": 45077.2,
-		"monthly": {
-			"2013-04": {"total":1064.00, "St Scene & Waste Man":1064.00},
-			"2013-06": {"total":1064.00, "St Scene & Waste Man":1064.00},
-			"2013-07": {"total":3688.16, "St Scene & Waste Man":3688.16},
-			"2013-08": {"total":3034.08, "St Scene & Waste Man":3034.08},
-			"2013-09": {"total":2128.00, "Highways Asset Management":2128.00},
-			"2013-10": {"total":3156.16, "Highways Asset Management":3156.16},
-			"2013-11": {"total":1986.88, "Highways Asset Management":1986.88},
-			"2013-12": {"total":2128.00, "Highways Asset Management":2128.00},
-			"2014-02": {"total":3126.48, "Highways Asset Management":3126.48},
-			"2014-03": {"total":1096.48, "Highways Asset Management":1096.48},
-			"2014-04": {"total":3251.36, "Highways Asset Management":3251.36},
-			"2014-06": {"total":2703.12, "Highways Asset Management":2703.12},
-			"2014-07": {"total":2046.24, "Highways Asset Management":2046.24},
-			"2014-08": {"total":2722.16, "Highways Asset Management":2722.16},
-			"2014-10": {"total":4004.00, "Highways Asset Management":4004.00},
-			"2014-12": {"total":2173.92, "Highways Asset Management":2173.92},
-			"2015-02": {"total":2198.56, "Highways Asset Management":2198.56},
-			"2015-04": {"total":1307.04, "Highways Asset Management":1307.04},
-			"2015-05": {"total":2198.56, "Highways Asset Management":2198.56}
-		}
-	},
-	"5114": {
-		"name": "INSTEP UK LTD",
-		"alternate-names": [
-			"INSTEP UK LIMITED"
-		],
-		"total": 1524,
-		"monthly": {
-			"2017-11": {"total":1524.00, "Human Resources":1524.00}
-		}
-	},
-	"5115": {
-		"name": "INSTITUTE OF CUSTOMER SERVICE",
-		"total": 1000,
-		"monthly": {
-			"2014-04": {"total":1000.00, "Emp Relations & Resourcing":1000.00}
-		}
-	},
-	"5116": {
-		"name": "INSTITUTE OF LEADERSHIP AND MANAG",
-		"total": 7229,
-		"monthly": {
-			"2013-12": {"total":2005.00, "Skills for Work":2005.00},
-			"2014-09": {"total":4580.00, "Skills for Work":4580.00},
-			"2014-10": {"total":644.00, "Skills for Work":644.00}
-		}
-	},
-	"5117": {
-		"name": "INSTITUTE OF SWIMMING",
-		"total": 17220,
-		"monthly": {
-			"2015-01": {"total":3300.00, "Sports and Leisure":3300.00},
-			"2016-04": {"total":12330.00, "Sports and Leisure":12330.00},
-			"2016-05": {"total":500.00, "Sports and Leisure":500.00},
-			"2016-08": {"total":1090.00, "Sports and Leisure":1090.00}
-		}
-	},
-	"5118": {
-		"name": "INSTITUTE OF SWIMMING LTD",
-		"alternate-names": [
-			"INSTITUTE OF SWIMMING LIMITED"
-		],
-		"total": 1577,
-		"monthly": {
-			"2016-12": {"total":897.00, "Sports and Leisure":897.00},
-			"2017-02": {"total":680.00, "Sports and Leisure":680.00}
-		}
-	},
-	"5119": {
-		"name": "INSTITUTION OF MECHANICAL ENGINEERS",
-		"total": 9125.5,
-		"monthly": {
-			"2013-10": {"total":995.00, "Housing":995.00},
-			"2013-12": {"total":998.00, "Housing":998.00},
-			"2014-04": {"total":2299.00, "Housing":2299.00},
-			"2015-05": {"total":1197.50, "Housing":1197.50},
-			"2015-07": {"total":0.00, "Housing":0.00},
-			"2015-12": {"total":1790.00, "Housing":1790.00},
-			"2016-08": {"total":1846.00, "Housing":1846.00}
-		}
-	},
-	"5120": {
-		"name": "INTEGRA BUILDINGS LTD",
-		"total": 322004.29,
-		"monthly": {
-			"2014-05": {"total":135000.00, "Landscape":135000.00},
-			"2014-06": {"total":123301.00, "Facilities Management":123301.00},
-			"2014-07": {"total":26125.29, "Landscape":26125.29},
-			"2015-04": {"total":30634.80, "Landscape":30634.80},
-			"2015-06": {"total":6943.20, "Landscape":6943.20}
-		}
-	},
-	"5121": {
-		"name": "INTEGRAL MEMORY PLC",
-		"total": 18714.5,
-		"monthly": {
-			"2014-01": {"total":14240.50, "Soc Serv Children & Young Peop":14240.50},
-			"2014-02": {"total":773.00, "Soc Serv Children & Young Peop":773.00},
-			"2014-03": {"total":773.00, "Soc Serv Children & Young Peop":773.00},
-			"2014-08": {"total":540.90, "Soc Serv Children & Young Peop":540.90},
-			"2014-10": {"total":704.20, "Soc Serv Children & Young Peop":704.20},
-			"2014-11": {"total":986.90, "Soc Serv Children & Young Peop":986.90},
-			"2015-06": {"total":696.00, "Soc Serv Children & Young Peop":696.00}
-		}
-	},
-	"5122": {
-		"name": "INTEGRAL UK LTD",
-		"total": 5116.1,
-		"monthly": {
-			"2013-04": {"total":1147.80, "Facilities Management":1147.80},
-			"2013-05": {"total":1845.60, "Housing":1845.60},
-			"2014-03": {"total":2122.70, "Facilities Management":2122.70}
-		}
-	},
-	"5123": {
-		"name": "INTEGRATE FAMILIES",
-		"total": 81547.25,
-		"monthly": {
-			"2014-07": {"total":530.00, "Soc Serv Children & Young Peop":530.00},
-			"2014-10": {"total":540.00, "Soc Serv Children & Young Peop":540.00},
-			"2014-11": {"total":810.00, "Soc Serv Children & Young Peop":810.00},
-			"2014-12": {"total":1012.50, "Soc Serv Children & Young Peop":1012.50},
-			"2015-01": {"total":1200.00, "Soc Serv Children & Young Peop":1200.00},
-			"2015-02": {"total":990.00, "Soc Serv Children & Young Peop":990.00},
-			"2015-10": {"total":4380.00, "Childrens Services":4380.00},
-			"2015-11": {"total":4450.00, "Childrens Services":4450.00},
-			"2016-01": {"total":1755.45, "Childrens Services":1755.45},
-			"2016-04": {"total":9530.40, "Children's services":9530.40},
-			"2016-05": {"total":3474.30, "Childrens Services":3474.30},
-			"2016-06": {"total":7165.00, "Childrens Services":7165.00},
-			"2016-08": {"total":8602.20, "Childrens Services":8602.20},
-			"2016-09": {"total":1205.25, "Childrens Services":1205.25},
-			"2016-10": {"total":4921.75, "Childrens Services":4921.75},
-			"2016-11": {"total":5046.75, "Childrens Services":5046.75},
-			"2017-03": {"total":11390.15, "Childrens Services":11390.15},
-			"2017-06": {"total":1173.00, "Childrens Services":1173.00},
-			"2017-07": {"total":1450.00, "Soc Serv Children & Young Peop":1450.00},
-			"2017-08": {"total":4900.00, "Childrens Services":4900.00},
-			"2017-09": {"total":650.00, "Childrens Services":650.00},
-			"2017-10": {"total":5520.50, "Childrens Services":5520.50},
-			"2017-11": {"total":850.00, "Childrens Services":850.00}
-		}
-	},
-	"5124": {
-		"name": "INTEGRATE LIFE AND SAFETY LTD",
-		"alternate-names": [
-			"INTEGRATE LIFE AND SAFETY LIMITED"
-		],
-		"total": 1027.09,
-		"monthly": {
-			"2016-08": {"total":1027.09, "Childrens Services":1027.09}
-		}
-	},
-	"5125": {
-		"name": "INTEGRATED BRADFORD LEP LTD",
-		"total": 26548653.54,
-		"monthly": {
-			"2013-04": {"total":3379503.36, "Education Buildings Team":3379503.36},
-			"2013-05": {"total":2296558.75, "Education Buildings Team":2296558.75},
-			"2013-06": {"total":971438.77, "Education Buildings Team":971438.77},
-			"2013-07": {"total":757975.24, "Education Buildings Team":757975.24},
-			"2013-08": {"total":1612929.75, "Education Buildings Team":1612929.75},
-			"2013-09": {"total":238121.25, "Education Buildings Team":238121.25},
-			"2013-10": {"total":789959.31, "Education Buildings Team":789959.31},
-			"2013-11": {"total":731996.35, "Education Buildings Team":731996.35},
-			"2013-12": {"total":344571.75, "Education Buildings Team":344571.75},
-			"2014-01": {"total":243547.98, "Education Buildings Team":243547.98},
-			"2014-02": {"total":149503.01, "Education Buildings Team":149503.01},
-			"2014-03": {"total":156269.52, "Education Buildings Team":156269.52},
-			"2014-04": {"total":659590.00, "Education Buildings Team":659590.00},
-			"2014-05": {"total":940808.39, "Education Buildings Team":940808.39},
-			"2014-06": {"total":762996.23, "Education Buildings Team":762996.23},
-			"2014-07": {"total":1187038.35, "Education Buildings Team":1187038.35},
-			"2014-08": {"total":156119.66, "Education Buildings Team":156119.66},
-			"2014-09": {"total":1975774.36, "Education Buildings Team":1975774.36},
-			"2014-10": {"total":994724.21, "Education Buildings Team":994724.21},
-			"2014-11": {"total":735227.62, "Education Buildings Team":735227.62},
-			"2014-12": {"total":968720.89, "Education Buildings Team":968720.89},
-			"2015-01": {"total":1022319.89, "Education Buildings Team":1022319.89},
-			"2015-02": {"total":292610.20, "Education Buildings Team":292610.20},
-			"2015-03": {"total":2271116.72, "Childrens Service":2133390.14, "Education Buildings Team":137726.58},
-			"2015-04": {"total":1280683.07, "Education Buildings Team":1280683.07},
-			"2015-05": {"total":871539.89, "Education Buildings Team":871539.89},
-			"2015-06": {"total":325201.07, "Education Buildings Team":325201.07},
-			"2015-07": {"total":155949.42, "Education Buildings Team":155949.42},
-			"2015-08": {"total":219858.72, "Education Buildings Team":219858.72},
-			"2017-10": {"total":55999.81, "Education Buildings Team":55999.81}
-		}
-	},
-	"5126": {
-		"name": "INTEGRATED BRADFORD SPV 2 LTD",
-		"alternate-names": [
-			"INTEGRATED BRADFORD SPV 2 LIMITED"
-		],
-		"total": 123248506.88,
-		"monthly": {
-			"2013-04": {"total":2686687.92, "Education Buildings Team":2686687.92},
-			"2013-05": {"total":2040228.48, "Education Buildings Team":2040228.48},
-			"2013-06": {"total":2044164.78, "Education Buildings Team":2044164.78},
-			"2013-07": {"total":2058534.50, "Education Buildings Team":2058534.50},
-			"2013-08": {"total":2083209.59, "Education Buildings Team":2083209.59},
-			"2013-09": {"total":2064454.22, "Education Buildings Team":2064454.22},
-			"2013-10": {"total":2065285.36, "Education Buildings Team":2065285.36},
-			"2013-11": {"total":2064494.37, "Education Buildings Team":2064494.37},
-			"2013-12": {"total":2133520.90, "Education Buildings Team":2133520.90},
-			"2014-01": {"total":2684088.11, "Education Buildings Team":2684088.11},
-			"2014-02": {"total":2053744.27, "Education Buildings Team":2053744.27},
-			"2014-03": {"total":2710990.18, "Education Buildings Team":2710990.18},
-			"2014-04": {"total":2139983.81, "Education Buildings Team":2139983.81},
-			"2014-05": {"total":2098764.47, "Education Buildings Team":2098764.47},
-			"2014-06": {"total":2119814.65, "Education Buildings Team":2119814.65},
-			"2014-07": {"total":2095779.99, "Education Buildings Team":2095779.99},
-			"2014-08": {"total":2104994.65, "Education Buildings Team":2104994.65},
-			"2014-09": {"total":2090251.12, "Education Buildings Team":2090251.12},
-			"2014-10": {"total":2807050.74, "Education Buildings Team":2807050.74},
-			"2014-11": {"total":2096909.58, "Education Buildings Team":2096909.58},
-			"2014-12": {"total":2102231.28, "Education Buildings Team":2102231.28},
-			"2015-01": {"total":2091911.61, "Education Buildings Team":2091911.61},
-			"2015-02": {"total":2087094.42, "Education Buildings Team":2087094.42},
-			"2015-03": {"total":2728053.24, "Education Buildings Team":2728053.24},
-			"2015-04": {"total":2081641.89, "Education Buildings Team":2081641.89},
-			"2015-05": {"total":2129554.38, "Education Buildings Team":2129554.38},
-			"2015-06": {"total":2103852.86, "Education Buildings Team":2103852.86},
-			"2015-07": {"total":2091674.89, "Education Buildings Team":2091674.89},
-			"2015-08": {"total":2096381.69, "Education Buildings Team":2096381.69},
-			"2015-09": {"total":2096845.23, "Education Buildings Team":2096845.23},
-			"2015-10": {"total":2114454.94, "Education Buildings Team":2114454.94},
-			"2015-11": {"total":2744714.64, "Education Buildings Team":2744714.64},
-			"2015-12": {"total":4483972.10, "Education Buildings Team":4483972.10},
-			"2016-01": {"total":2090321.37, "Education Buildings Team":2090321.37},
-			"2016-02": {"total":2107191.19, "Education Buildings Team":2107191.19},
-			"2016-03": {"total":2135107.63, "Education Buildings Team":2135107.63},
-			"2016-04": {"total":2778644.96, "Education Buildings Team":2778644.96},
-			"2016-05": {"total":2111543.94, "Education Buildings Team":2111543.94},
-			"2016-06": {"total":2112132.22, "Education Buildings Team":2112132.22},
-			"2016-07": {"total":2086712.74, "Education Buildings Team":2086712.74},
-			"2016-08": {"total":2081987.78, "Education Buildings Team":2081987.78},
-			"2016-09": {"total":2089244.64, "Education Buildings Team":2089244.64},
-			"2016-10": {"total":2119713.12, "Education Buildings Team":2119713.12},
-			"2016-11": {"total":2370061.33, "Education Buildings Team":2370061.33},
-			"2016-12": {"total":2489805.43, "Education Buildings Team":2489805.43},
-			"2017-01": {"total":2081013.05, "Education Buildings Team":2081013.05},
-			"2017-02": {"total":2085541.25, "Education Buildings Team":2085541.25},
-			"2017-03": {"total":2088372.03, "Education Buildings Team":2088372.03},
-			"2017-05": {"total":2127027.44, "Education Buildings Team":2127027.44},
-			"2017-06": {"total":2123488.49, "Education Buildings Team":2123488.49},
-			"2017-07": {"total":2110257.43, "Education Buildings Team":2110257.43},
-			"2017-08": {"total":2120134.20, "Education Buildings Team":2120134.20},
-			"2017-09": {"total":2149267.75, "Education Buildings Team":2149267.75},
-			"2017-10": {"total":2499061.33, "Education Buildings Team":2499061.33},
-			"2017-11": {"total":2096542.70, "Education Buildings Team":2096542.70}
-		}
-	},
-	"5127": {
-		"name": "INTEGRATED BRADFORD SPVONE LTD",
-		"total": 58821382.84,
-		"monthly": {
-			"2013-04": {"total":1389898.42, "Education Buildings Team":1389898.42},
-			"2013-05": {"total":938324.22, "Education Buildings Team":938324.22},
-			"2013-06": {"total":988473.20, "Education Buildings Team":988473.20},
-			"2013-07": {"total":975258.49, "Education Buildings Team":975258.49},
-			"2013-08": {"total":979755.54, "Education Buildings Team":979755.54},
-			"2013-09": {"total":977761.25, "Education Buildings Team":977761.25},
-			"2013-10": {"total":1011309.05, "Education Buildings Team":1011309.05},
-			"2013-11": {"total":1011409.12, "Education Buildings Team":1011409.12},
-			"2013-12": {"total":986641.27, "Education Buildings Team":986641.27},
-			"2014-01": {"total":1411288.62, "Education Buildings Team":1411288.62},
-			"2014-02": {"total":1036002.68, "Education Buildings Team":1036002.68},
-			"2014-03": {"total":1451462.24, "Education Buildings Team":1451462.24},
-			"2014-04": {"total":163710.55, "Education Buildings Team":163710.55},
-			"2014-05": {"total":1025059.99, "Education Buildings Team":1025059.99},
-			"2014-06": {"total":1004602.68, "Education Buildings Team":1004602.68},
-			"2014-07": {"total":1018221.14, "Education Buildings Team":1018221.14},
-			"2014-08": {"total":1004547.27, "Education Buildings Team":1004547.27},
-			"2014-09": {"total":1000440.98, "Education Buildings Team":1000440.98},
-			"2014-10": {"total":1466494.29, "Education Buildings Team":1466494.29},
-			"2014-11": {"total":952664.87, "Education Buildings Team":952664.87},
-			"2014-12": {"total":992610.62, "Education Buildings Team":992610.62},
-			"2015-01": {"total":989952.63, "Education Buildings Team":989952.63},
-			"2015-02": {"total":1024258.80, "Education Buildings Team":1024258.80},
-			"2015-03": {"total":1410794.25, "Education Buildings Team":1410794.25},
-			"2015-04": {"total":986340.68, "Education Buildings Team":986340.68},
-			"2015-05": {"total":1093934.61, "Education Buildings Team":1093934.61},
-			"2015-06": {"total":1018660.26, "Education Buildings Team":1018660.26},
-			"2015-07": {"total":1008010.52, "Education Buildings Team":1008010.52},
-			"2015-08": {"total":1010782.56, "Education Buildings Team":1010782.56},
-			"2015-09": {"total":1022752.34, "Education Buildings Team":1022752.34},
-			"2015-10": {"total":1023384.55, "Education Buildings Team":1023384.55},
-			"2015-11": {"total":1594486.91, "Education Buildings Team":1594486.91},
-			"2015-12": {"total":1130064.53, "Education Buildings Team":1130064.53},
-			"2016-01": {"total":982934.13, "Education Buildings Team":982934.13},
-			"2016-02": {"total":1019116.80, "Education Buildings Team":1019116.80},
-			"2016-03": {"total":1002744.69, "Education Buildings Team":1002744.69},
-			"2016-04": {"total":1429417.14, "Education Buildings Team":1429417.14},
-			"2016-05": {"total":991547.87, "Education Buildings Team":991547.87},
-			"2016-06": {"total":1076125.99, "Education Buildings Team":1076125.99},
-			"2016-07": {"total":1007018.17, "Education Buildings Team":1007018.17},
-			"2016-08": {"total":1000355.23, "Education Buildings Team":1000355.23},
-			"2016-09": {"total":1025500.67, "Education Buildings Team":1025500.67},
-			"2016-10": {"total":1010348.00, "Education Buildings Team":1010348.00},
-			"2016-11": {"total":1187901.50, "Education Buildings Team":1187901.50},
-			"2016-12": {"total":1305221.43, "Education Buildings Team":1305221.43},
-			"2017-01": {"total":1020283.89, "Education Buildings Team":1020283.89},
-			"2017-02": {"total":1025149.50, "Education Buildings Team":1025149.50},
-			"2017-03": {"total":1029862.92, "Education Buildings Team":1029862.92},
-			"2017-05": {"total":1047271.04, "Education Buildings Team":1047271.04},
-			"2017-06": {"total":1037119.56, "Education Buildings Team":1037119.56},
-			"2017-07": {"total":1032116.59, "Education Buildings Team":1032116.59},
-			"2017-08": {"total":1027063.12, "Education Buildings Team":1027063.12},
-			"2017-09": {"total":1028262.41, "Education Buildings Team":1028262.41},
-			"2017-10": {"total":1276919.54, "Education Buildings Team":1276919.54},
-			"2017-11": {"total":1159743.52, "Childrens Services":121560.00, "Education Buildings Team":1038183.52}
-		}
-	},
-	"5128": {
-		"name": "INTEGRATED SKILLS (UK) LTD",
-		"alternate-names": [
-			"INTEGRATED SKILLS (UK) LIMITED"
-		],
-		"total": 23560,
-		"monthly": {
-			"2016-03": {"total":8000.00, "St Scene & Waste Man":8000.00},
-			"2017-01": {"total":2800.00, "St Scene & Waste Man":2800.00},
-			"2017-02": {"total":11000.00, "St Scene & Waste Man":11000.00},
-			"2017-09": {"total":1760.00, "St Scene & Waste Man":1760.00}
-		}
-	},
-	"5129": {
-		"name": "INTEGRATED UTILITY SERVICES LTD",
-		"total": 22004.08,
-		"monthly": {
-			"2013-05": {"total":579.72, "Facilities Management":579.72},
-			"2013-07": {"total":579.72, "Facilities Management":579.72},
-			"2013-11": {"total":4428.12, "Facilities Management":4428.12},
-			"2013-12": {"total":579.72, "Facilities Management":579.72},
-			"2014-05": {"total":1180.36, "Facilities Management":1180.36},
-			"2014-07": {"total":1201.18, "Facilities Management":1201.18},
-			"2014-11": {"total":600.59, "Facilities Management":600.59},
-			"2014-12": {"total":1939.30, "Facilities Management":1939.30},
-			"2015-05": {"total":1218.00, "Facilities Management":1218.00},
-			"2015-06": {"total":0.00, "Facilities Management":0.00},
-			"2015-08": {"total":1234.82, "Facilities Management":1234.82},
-			"2015-11": {"total":617.41, "Facilities Management":617.41},
-			"2016-05": {"total":2469.69, "Facilities Management":2469.69},
-			"2016-07": {"total":617.41, "Facilities Management":617.41},
-			"2016-09": {"total":2288.40, "Facilities Management":2288.40},
-			"2017-05": {"total":2469.64, "Facilities Management":2469.64}
-		}
-	},
-	"5130": {
-		"name": "INTEGREAT PLUS",
-		"total": 14556.7,
-		"monthly": {
-			"2013-04": {"total":1500.00, "Plans & Performance":1500.00},
-			"2013-07": {"total":1050.00, "Plans & Performance":1050.00},
-			"2013-08": {"total":1500.00, "Plans & Performance":1500.00},
-			"2013-09": {"total":1500.00, "Plans & Performance":1500.00},
-			"2013-10": {"total":2250.00, "Plans & Performance":2250.00},
-			"2013-11": {"total":600.00, "Plans & Performance":600.00},
-			"2015-01": {"total":2625.00, "Emp Relations & Resourcing":2625.00},
-			"2015-07": {"total":1975.00, "Plans & Performance":1975.00},
-			"2015-08": {"total":1556.70, "Emp Relations & Resourcing":1556.70}
-		}
-	},
-	"5131": {
-		"name": "INTELLIGENCE CORPORATE SERVICES LTD",
-		"total": 17846.09,
-		"monthly": {
-			"2014-01": {"total":5926.72, "Economic Development Service":5926.72},
-			"2015-11": {"total":3633.33, "Economic Development Service":3633.33},
-			"2016-09": {"total":8286.04, "Economic Development Service":8286.04}
-		}
-	},
-	"5132": {
-		"name": "INTELLIGENT DATA SYSTEMS",
-		"total": 42878,
-		"monthly": {
-			"2013-04": {"total":1328.75, "St Scene & Waste Man":1328.75},
-			"2013-05": {"total":1458.25, "St Scene & Waste Man":1458.25},
-			"2013-06": {"total":1270.50, "St Scene & Waste Man":1270.50},
-			"2013-07": {"total":986.00, "St Scene & Waste Man":986.00},
-			"2013-08": {"total":1056.25, "St Scene & Waste Man":1056.25},
-			"2013-09": {"total":2040.25, "St Scene & Waste Man":2040.25},
-			"2013-10": {"total":1482.50, "St Scene & Waste Man":1482.50},
-			"2013-11": {"total":2156.75, "St Scene & Waste Man":2156.75},
-			"2013-12": {"total":1815.75, "St Scene & Waste Man":1815.75},
-			"2014-01": {"total":1406.50, "St Scene & Waste Man":1406.50},
-			"2014-02": {"total":2026.50, "St Scene & Waste Man":2026.50},
-			"2014-03": {"total":1096.00, "St Scene & Waste Man":1096.00},
-			"2014-06": {"total":2749.50, "St Scene & Waste Man":2749.50},
-			"2014-07": {"total":1418.50, "St Scene & Waste Man":1418.50},
-			"2014-08": {"total":1356.00, "St Scene & Waste Man":1356.00},
-			"2014-09": {"total":1669.25, "St Scene & Waste Man":1669.25},
-			"2014-10": {"total":2981.00, "St Scene & Waste Man":2981.00},
-			"2014-11": {"total":1454.25, "St Scene & Waste Man":1454.25},
-			"2014-12": {"total":1601.25, "St Scene & Waste Man":1601.25},
-			"2015-01": {"total":1266.50, "St Scene & Waste Man":1266.50},
-			"2015-02": {"total":1282.00, "St Scene & Waste Man":1282.00},
-			"2015-04": {"total":543.00, "St Scene & Waste Man":543.00},
-			"2015-05": {"total":1337.75, "St Scene & Waste Man":1337.75},
-			"2015-06": {"total":2385.75, "St Scene & Waste Man":2385.75},
-			"2015-07": {"total":1271.00, "St Scene & Waste Man":1271.00},
-			"2015-08": {"total":1392.75, "St Scene & Waste Man":1392.75},
-			"2015-10": {"total":2045.50, "St Scene & Waste Man":2045.50}
-		}
-	},
-	"5133": {
-		"name": "INTER COUNTRY ADOPTION CENTRE",
-		"total": 29700,
-		"monthly": {
-			"2016-11": {"total":29700.00, "Childrens Services":29700.00}
-		}
-	},
-	"5134": {
-		"name": "INTER-FACE TRAINING AND CONSULTANCY",
-		"total": 13865.74,
-		"monthly": {
-			"2013-04": {"total":4089.50, "Soc Serv Children & Young Peop":4089.50},
-			"2013-08": {"total":600.00, "Emp Relations & Resourcing":600.00},
-			"2014-01": {"total":2334.08, "Emp Relations & Resourcing":2334.08},
-			"2014-02": {"total":6242.16, "Soc Serv Children & Young Peop":2085.50, "Emp Relations & Resourcing":4156.66},
-			"2014-07": {"total":600.00, "Emp Relations & Resourcing":600.00}
-		}
-	},
-	"5135": {
-		"name": "INTERACT",
-		"total": 1560,
-		"monthly": {
-			"2016-07": {"total":810.00, "Childrens Services":810.00},
-			"2017-11": {"total":750.00, "Childrens Services":750.00}
-		}
-	},
-	"5136": {
-		"name": "INTERACTIVE DATA (EUROPE) LTD",
-		"total": 4342.4,
-		"monthly": {
-			"2015-10": {"total":2069.48, "Pensions & Investments":2069.48},
-			"2017-01": {"total":2272.92, "Pensions & Investments":2272.92}
-		}
-	},
-	"5137": {
-		"name": "INTERCLEAN (HYGIENE PRODUCTS) LTD",
-		"total": 2922,
-		"monthly": {
-			"2016-09": {"total":1221.10, "Landscape":1221.10},
-			"2017-09": {"total":1700.90, "Landscape":1700.90}
-		}
-	},
-	"5138": {
-		"name": "INTERCONNECTIVE LTD",
-		"total": 3082.35,
-		"monthly": {
-			"2014-12": {"total":1500.00, "Revenues & Benefits":1500.00},
-			"2016-01": {"total":660.00, "Revenues & Benefits":660.00},
-			"2017-05": {"total":922.35, "Revenues & Benefits":922.35}
-		}
-	},
-	"5139": {
-		"name": "INTERGRATED SKILLS (uk) lTD",
-		"total": 2705,
-		"monthly": {
-			"2016-08": {"total":2705.00, "St Scene & Waste Man":2705.00}
-		}
-	},
-	"5140": {
-		"name": "INTERNATIONAL TALENT BOOKING",
-		"total": 16000,
-		"monthly": {
-			"2013-04": {"total":5000.00, "Landscape":5000.00},
-			"2013-07": {"total":5000.00, "Landscape":5000.00},
-			"2013-08": {"total":500.00, "Landscape":500.00},
-			"2015-08": {"total":2000.00, "Landscape":2000.00},
-			"2016-09": {"total":500.00, "Landscape":500.00},
-			"2017-08": {"total":3000.00, "Landscape":3000.00}
-		}
-	},
-	"5141": {
-		"name": "INTERSERVE HEALTHCARE LTD",
-		"alternate-names": [
-			"INTERSERVE HEALTHCARE LIMITED"
-		],
-		"total": 762908.14,
-		"monthly": {
-			"2015-08": {"total":1686.84, "Soc Serv Adults":1686.84},
-			"2015-09": {"total":2662.20, "Adults & Comm":2662.20},
-			"2015-10": {"total":3327.75, "Adult & Comm":3327.75},
-			"2015-11": {"total":7443.45, "Adult & Community Services":7443.45},
-			"2015-12": {"total":26084.40, "Adult & Community Services":26084.40},
-			"2016-01": {"total":17914.20, "Adult & Community Services":17914.20},
-			"2016-02": {"total":23885.60, "Adult & Community Services":23885.60},
-			"2016-03": {"total":29857.00, "Adult & Community Services":29857.00},
-			"2016-04": {"total":23910.80, "Adult & Community Services":23910.80},
-			"2016-05": {"total":23885.60, "Adult & Community Services":23885.60},
-			"2016-06": {"total":29857.00, "Adult & Community Services":29857.00},
-			"2016-07": {"total":40968.30, "Adult and Community Services":40968.30},
-			"2016-08": {"total":31400.00, "Adult & Community Services":31400.00},
-			"2016-09": {"total":11058.50, "Adult & Community Services":11058.50},
-			"2016-11": {"total":59501.00, "Health & Wellbeing":59501.00},
-			"2016-12": {"total":37296.30, "Health & Wellbeing":37296.30},
-			"2017-01": {"total":60442.95, "Health & Wellbeing":60442.95},
-			"2017-02": {"total":30486.60, "Health & Wellbeing":30486.60},
-			"2017-03": {"total":22864.95, "Health & Wellbeing":22864.95},
-			"2017-05": {"total":23090.80, "Health & Wellbeing":23090.80},
-			"2017-06": {"total":28303.90, "Health & Wellbeing":28303.90},
-			"2017-07": {"total":65832.48, "Health & Wellbeing":65832.48},
-			"2017-08": {"total":50358.60, "Health & Wellbeing":50358.60},
-			"2017-09": {"total":50358.60, "Health & Wellbeing":50358.60},
-			"2017-10": {"total":40286.88, "Health & Wellbeing":40286.88},
-			"2017-11": {"total":20143.44, "Health & Wellbeing":20143.44}
-		}
-	},
-	"5142": {
-		"name": "INTERTEK",
-		"total": 3500,
-		"monthly": {
-			"2015-03": {"total":3500.00, "Housing":3500.00}
-		}
-	},
-	"5143": {
-		"name": "INTIMUS INTERNATIONAL LTD",
-		"total": 138691.89,
-		"monthly": {
-			"2014-01": {"total":31374.00, "Facilities Management":31374.00},
-			"2014-02": {"total":3269.00, "Facilities Management":3269.00},
-			"2014-03": {"total":6791.00, "Facilities Management":6791.00},
-			"2014-06": {"total":2670.00, "Facilities Management":2670.00},
-			"2014-07": {"total":7180.00, "Facilities Management":7180.00},
-			"2014-08": {"total":3590.00, "Facilities Management":3590.00},
-			"2014-09": {"total":3590.00, "Facilities Management":3590.00},
-			"2014-10": {"total":8975.00, "Facilities Management":8975.00},
-			"2014-12": {"total":1750.00, "Facilities Management":1750.00},
-			"2015-01": {"total":1750.00, "Facilities Management":1750.00},
-			"2015-03": {"total":3565.00, "Facilities Management":3565.00},
-			"2015-06": {"total":1750.00, "Soc Serv Children & Young Peop":1750.00},
-			"2016-05": {"total":3590.00, "Facilities Management":3590.00},
-			"2016-06": {"total":3590.00, "Facilities Management":3590.00},
-			"2016-07": {"total":800.00, "Facilities Management":800.00},
-			"2016-08": {"total":1040.84, "Facilities Management":1040.84},
-			"2016-10": {"total":1795.00, "Facilities Management":1795.00},
-			"2016-11": {"total":1795.00, "Facilities Management":1795.00},
-			"2016-12": {"total":49300.00, "IT Services":49300.00},
-			"2017-01": {"total":527.05, "Facilities Management":527.05}
-		}
-	},
-	"5144": {
-		"name": "INTUMESCENT SYSTEMS LTD",
-		"total": 28178.81,
-		"monthly": {
-			"2013-04": {"total":2042.51, "Housing":2042.51},
-			"2013-06": {"total":1301.22, "Housing":1301.22},
-			"2013-07": {"total":1725.95, "Housing":1725.95},
-			"2013-08": {"total":999.80, "Housing":999.80},
-			"2013-09": {"total":1136.06, "Housing":1136.06},
-			"2013-11": {"total":1110.85, "Housing":1110.85},
-			"2013-12": {"total":3418.64, "Housing":3418.64},
-			"2014-03": {"total":1479.70, "Housing":1479.70},
-			"2014-04": {"total":1582.68, "Housing":1582.68},
-			"2014-09": {"total":614.05, "Housing":614.05},
-			"2015-02": {"total":1789.79, "Housing":1789.79},
-			"2015-08": {"total":523.46, "Housing":523.46},
-			"2015-10": {"total":690.57, "Housing":690.57},
-			"2016-01": {"total":1358.95, "Housing":1358.95},
-			"2016-03": {"total":678.70, "Housing":678.70},
-			"2016-04": {"total":1922.13, "Housing":1922.13},
-			"2016-06": {"total":844.75, "Housing":844.75},
-			"2016-12": {"total":1648.70, "Housing":1648.70},
-			"2017-02": {"total":861.70, "Housing":861.70},
-			"2017-03": {"total":704.50, "Housing":704.50},
-			"2017-06": {"total":652.90, "Housing":652.90},
-			"2017-08": {"total":1091.20, "Housing":1091.20}
-		}
-	},
-	"5145": {
-		"name": "INTXT HOURGLASS",
-		"total": 549.4,
-		"monthly": {
-			"2014-12": {"total":549.40, "Sports and Leisure":549.40}
-		}
-	},
-	"5146": {
-		"name": "INVACARE LTD",
-		"total": 17045,
-		"monthly": {
-			"2013-08": {"total":3720.00, "Soc Serv Adults":3720.00},
-			"2013-11": {"total":1425.00, "Soc Serv Adults":1425.00},
-			"2014-08": {"total":3570.00, "Soc Serv Adults":3570.00},
-			"2014-11": {"total":3570.00, "Soc Serv Adults":3570.00},
-			"2014-12": {"total":2360.00, "Soc Serv Adults":2360.00},
-			"2015-01": {"total":2400.00, "Soc Serv Adults":2400.00}
-		}
-	},
-	"5147": {
-		"name": "INVALIFTS LTD",
-		"total": 16125,
-		"monthly": {
-			"2016-08": {"total":8287.50, "Facilities Management":8287.50},
-			"2016-11": {"total":7837.50, "Facilities Management":7837.50}
-		}
-	},
-	"5148": {
-		"name": "INVENTRY LTD",
-		"total": 1000,
-		"monthly": {
-			"2016-06": {"total":500.00, "Childrens Services":500.00},
-			"2016-08": {"total":500.00, "Childrens Services":500.00}
-		}
-	},
-	"5149": {
-		"name": "INVESTEC ASSET FINANCE PLC",
-		"total": 11178,
-		"monthly": {
-			"2013-04": {"total":700.00, "Localities":700.00},
-			"2013-11": {"total":864.50, "Ed Contract Services":864.50},
-			"2014-01": {"total":739.50, "Ed Contract Services":739.50},
-			"2014-04": {"total":739.50, "Ed Contract Services":739.50},
-			"2014-07": {"total":739.50, "Ed Contract Services":739.50},
-			"2014-11": {"total":739.50, "Ed Contract Services":739.50},
-			"2015-02": {"total":739.50, "Ed Contract Services":739.50},
-			"2015-06": {"total":739.50, "Ed Contract Services":739.50},
-			"2015-07": {"total":739.50, "Ed Contract Services":739.50},
-			"2015-10": {"total":1479.00, "Ed Contract Services":1479.00},
-			"2016-01": {"total":739.50, "Ed Contract Services":739.50},
-			"2016-04": {"total":739.50, "Ed Contract Services":739.50},
-			"2016-07": {"total":739.50, "Ed Contract Services":739.50},
-			"2016-10": {"total":739.50, "Education Contract Services":739.50}
 		}
 	}
 	}
