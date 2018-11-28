@@ -2,52 +2,396 @@
 	"range": ["2015-04","2018-09"],
 	"data": {
 	"2250": {
+		"name": "REDACTED - COMMERCIAL SENSITIVITY",
+		"total": 72140,
+		"monthly": {
+			"2016-02": {"total":52500.00, "HIC":52500.00},
+			"2017-02": {"total":19140.00, "HIC":19140.00},
+			"2017-10": {"total":500.00, "HCC":500.00}
+		}
+	},
+	"2251": {
+		"name": "REDACTED - PERSONAL DATA",
+		"total": 186208.05,
+		"monthly": {
+			"2015-04": {"total":2899.45, "Community":899.45, "Economy & Culture":2000.00},
+			"2015-09": {"total":3517.36, "Community":947.36, "Corporate Affairs":2570.00},
+			"2015-11": {"total":835.40, "Community":835.40},
+			"2016-01": {"total":41000.00, "Community":41000.00},
+			"2016-02": {"total":20500.00, "Community":20500.00},
+			"2016-07": {"total":8814.60, "Corporate Affairs":5814.60, "Community":3000.00},
+			"2016-08": {"total":11760.06, "Community":2956.56, "Corporate Affairs":2500.00, "Economy & Culture":6303.50},
+			"2016-09": {"total":10055.40, "Economy & Culture":1030.00, "Community":9025.40},
+			"2016-10": {"total":502.51, "Corporate Affairs":502.51},
+			"2017-04": {"total":1820.00, "HIC":500.00, "Economy & Culture":720.00, "Community":600.00},
+			"2017-05": {"total":13301.15, "Community":13301.15},
+			"2017-07": {"total":370.10, "Corporate Affairs":370.10},
+			"2017-08": {"total":2348.99, "Community":1510.00, "Economy & Culture":530.00, "Corporate Affairs":308.99},
+			"2017-09": {"total":1408.20, "Community":350.00, "Economy & Culture":1058.20},
+			"2017-10": {"total":22253.00, "Community":1928.00, "Economy & Culture":20000.00, "Corporate Affairs":325.00},
+			"2017-11": {"total":2536.80, "Community":1690.00, "Corporate Affairs":846.80},
+			"2018-01": {"total":500.00, "Corporate Affairs":500.00},
+			"2018-02": {"total":1453.99, "Corporate Affairs":775.78, "Community":678.21},
+			"2018-03": {"total":32400.00, "Economy & Culture":250.00, "Corporate Affairs":2150.00, "Community":30000.00},
+			"2018-04": {"total":843.82, "Community":843.82},
+			"2018-05": {"total":2042.92, "Corporate Affairs":275.00, "Community":1767.92},
+			"2018-06": {"total":1017.30, "Community":1017.30},
+			"2018-07": {"total":312.00, "Corporate Affairs":312.00},
+			"2018-08": {"total":1515.00, "Corporate Affairs":300.00, "Economy & Culture":715.00, "HCC":500.00},
+			"2018-09": {"total":2200.00, "Economy & Culture":2200.00}
+		}
+	},
+	"2252": {
+		"name": "REDACTED COMMERCIAL SENSITIVITY",
+		"total": 2160,
+		"monthly": {
+			"2016-03": {"total":2160.00, "Corporate Affairs":2160.00}
+		}
+	},
+	"2253": {
+		"name": "REDACTED PERSONAL DATA",
+		"total": 53030.45,
+		"monthly": {
+			"2015-05": {"total":490.00, "Corporate Affairs":490.00},
+			"2015-06": {"total":1350.00, "Corporate Affairs":1350.00},
+			"2015-07": {"total":3300.50, "Economy & Culture":2679.50, "Corporate Affairs":360.00, "Community":261.00},
+			"2015-08": {"total":2820.00, "Economy & Culture":2400.00, "Corporate Affairs":420.00},
+			"2015-12": {"total":8382.50, "Economy & Culture":750.00, "Community":7632.50},
+			"2016-03": {"total":11008.46, "Community":9623.93, "Economy & Culture":266.00, "Corporate Affairs":1118.53},
+			"2016-05": {"total":13056.00, "Corporate Affairs":1920.00, "Economy & Culture":2950.00, "Community":8186.00},
+			"2016-06": {"total":11363.00, "Economy & Culture":4525.55, "Corporate Affairs":4815.00, "Community":2022.45},
+			"2016-11": {"total":1259.99, "Community":300.00, "Economy & Culture":959.99}
+		}
+	},
+	"2254": {
+		"name": "REDACTED-PERSONAL DATA",
+		"total": 12250,
+		"monthly": {
+			"2016-02": {"total":12250.00, "Economy & Culture":12250.00}
+		}
+	},
+	"2255": {
+		"name": "REDACTIVE MEDIA SALES LTD",
+		"alternate-names": [
+			"REDACTIVE MEDIA SALES LIMITED"
+		],
+		"total": 600,
+		"monthly": {
+			"2016-03": {"total":600.00, "Economy & Culture":600.00}
+		}
+	},
+	"2256": {
+		"name": "REDACTIVE PUBLISHING LTD",
+		"alternate-names": [
+			"REDACTIVE PUBLISHING LIMITED"
+		],
+		"total": 3000,
+		"monthly": {
+			"2015-09": {"total":500.00, "Corporate Affairs":500.00},
+			"2017-08": {"total":1000.00, "Corporate Affairs":1000.00},
+			"2017-10": {"total":1000.00, "Corporate Affairs":1000.00},
+			"2018-04": {"total":500.00, "Corporate Affairs":500.00}
+		}
+	},
+	"2257": {
+		"name": "REDCENTRIC SOLUTIONS LTD",
+		"alternate-names": [
+			"REDCENTRIC SOLUTIONS LIMITED"
+		],
+		"total": 88643.4000000001,
+		"monthly": {
+			"2015-04": {"total":1571.00, "HIC":1571.00},
+			"2015-05": {"total":1571.00, "HIC":1571.00},
+			"2015-06": {"total":1571.00, "HIC":1571.00},
+			"2015-07": {"total":1571.00, "HIC":1571.00},
+			"2015-08": {"total":1571.00, "HIC":1571.00},
+			"2015-09": {"total":1571.00, "HIC":1571.00},
+			"2015-10": {"total":1571.00, "HIC":1571.00},
+			"2015-11": {"total":1571.00, "HIC":1571.00},
+			"2015-12": {"total":1571.00, "HIC":1571.00},
+			"2016-01": {"total":1571.00, "HIC":1571.00},
+			"2016-02": {"total":1571.00, "HIC":1571.00},
+			"2016-03": {"total":1571.00, "HIC":1571.00},
+			"2016-05": {"total":2492.55, "HIC":2492.55},
+			"2016-06": {"total":2492.55, "HIC":2492.55},
+			"2016-07": {"total":2492.55, "HIC":2492.55},
+			"2016-08": {"total":2492.55, "HIC":2492.55},
+			"2016-09": {"total":2492.55, "HIC":2492.55},
+			"2016-10": {"total":2492.55, "HIC":2492.55},
+			"2016-11": {"total":2492.55, "HIC":2492.55},
+			"2017-01": {"total":2492.55, "HIC":2492.55},
+			"2017-02": {"total":2492.55, "HIC":2492.55},
+			"2017-03": {"total":2492.55, "HIC":2492.55},
+			"2017-04": {"total":2492.55, "HIC":2492.55},
+			"2017-05": {"total":2492.55, "HIC":2492.55},
+			"2017-06": {"total":2492.55, "HIC":2492.55},
+			"2017-07": {"total":2492.55, "HIC":2492.55},
+			"2017-08": {"total":2492.55, "HCC":2492.55},
+			"2017-09": {"total":2492.55, "HCC":2492.55},
+			"2017-10": {"total":2492.55, "HCC":2492.55},
+			"2017-11": {"total":2492.55, "HCC":2492.55},
+			"2018-01": {"total":4985.10, "HCC":4985.10},
+			"2018-02": {"total":2492.55, "HCC":2492.55},
+			"2018-03": {"total":2492.55, "HCC":2492.55},
+			"2018-04": {"total":2492.55, "HCC":2492.55},
+			"2018-05": {"total":2492.55, "HCC":2492.55},
+			"2018-06": {"total":2492.55, "HCC":2492.55},
+			"2018-07": {"total":2492.55, "HCC":2492.55},
+			"2018-08": {"total":2492.55, "HCC":2492.55},
+			"2018-09": {"total":2492.55, "HCC":2492.55}
+		}
+	},
+	"2258": {
+		"name": "REDFERN TRAVEL LTD",
+		"total": 52592.43,
+		"monthly": {
+			"2015-04": {"total":1334.97, "Community":150.16, "Economy & Culture":240.66, "Corporate Affairs":124.36, "HIC":819.79},
+			"2015-06": {"total":430.23, "HIC":107.93, "Corporate Affairs":170.57, "Economy & Culture":84.70, "Community":67.03},
+			"2015-07": {"total":487.38, "Community":157.44, "Economy & Culture":135.61, "Corporate Affairs":194.33},
+			"2015-10": {"total":2262.85, "Community":450.36, "Economy & Culture":535.83, "Corporate Affairs":1276.66},
+			"2015-11": {"total":1960.22, "HIC":552.72, "Corporate Affairs":1059.94, "Economy & Culture":168.79, "Community":178.77},
+			"2015-12": {"total":1486.36, "HIC":569.76, "Community":126.62, "Economy & Culture":548.18, "Corporate Affairs":241.80},
+			"2016-01": {"total":1123.45, "HIC":280.97, "Community":171.56, "Economy & Culture":487.06, "Corporate Affairs":183.86},
+			"2016-03": {"total":4565.23, "Community":463.81, "Corporate Affairs":608.56, "Economy & Culture":1372.37, "HIC":2120.49},
+			"2016-05": {"total":1655.93, "Community":339.24, "Corporate Affairs":1062.73, "Economy & Culture":84.73, "HIC":169.23},
+			"2016-08": {"total":3759.84, "HIC":872.88, "Economy & Culture":199.31, "Corporate Affairs":1259.02, "Community":1428.63},
+			"2016-09": {"total":1095.91, "Community":180.13, "Corporate Affairs":915.78},
+			"2016-11": {"total":2329.03, "Community":954.31, "Corporate Affairs":1018.84, "Economy & Culture":355.88},
+			"2017-01": {"total":672.15, "Community":434.18, "Economy & Culture":69.95, "Corporate Affairs":168.02},
+			"2017-03": {"total":1424.62, "HIC":362.47, "Community":206.79, "Corporate Affairs":696.76, "Economy & Culture":158.60},
+			"2017-04": {"total":1373.73, "Community":515.13, "Economy & Culture":642.00, "Corporate Affairs":216.60},
+			"2017-05": {"total":1001.50, "Community":91.20, "Corporate Affairs":698.50, "Economy & Culture":211.80},
+			"2017-06": {"total":1545.96, "Community":337.50, "Economy & Culture":321.05, "Corporate Affairs":887.41},
+			"2017-07": {"total":2173.15, "HIC":285.20, "Community":583.60, "Corporate Affairs":1110.35, "Economy & Culture":194.00},
+			"2017-09": {"total":1105.40, "Corporate Affairs":284.00, "Economy & Culture":347.50, "Community":172.00, "HCC":301.90},
+			"2017-10": {"total":2311.65, "Economy & Culture":696.25, "Corporate Affairs":1371.70, "Community":243.70},
+			"2017-11": {"total":2482.49, "HCC":414.80, "Community":686.50, "Economy & Culture":655.64, "Corporate Affairs":725.55},
+			"2018-01": {"total":2067.97, "Community":797.97, "Economy & Culture":1150.90, "Corporate Affairs":119.10},
+			"2018-02": {"total":3384.84, "Corporate Affairs":1416.98, "Economy & Culture":1272.89, "Community":694.97},
+			"2018-03": {"total":3375.75, "Community":1094.93, "Economy & Culture":1054.50, "Corporate Affairs":1226.32},
+			"2018-04": {"total":301.65, "Community":208.15, "Corporate Affairs":93.50},
+			"2018-05": {"total":1597.40, "Corporate Affairs":1019.20, "Economy & Culture":146.50, "Community":431.70},
+			"2018-06": {"total":2235.02, "Community":635.62, "Corporate Affairs":759.30, "Economy & Culture":840.10},
+			"2018-07": {"total":1383.13, "Corporate Affairs":921.33, "Economy & Culture":226.20, "Community":235.60},
+			"2018-08": {"total":1030.92, "Community":483.26, "Economy & Culture":43.40, "Corporate Affairs":504.26},
+			"2018-09": {"total":633.70, "Corporate Affairs":61.90, "Economy & Culture":290.60, "Community":281.20}
+		}
+	},
+	"2259": {
+		"name": "REDMAN PARTNERSHIP LLP",
+		"total": 7500,
+		"monthly": {
+			"2018-02": {"total":7500.00, "Economy & Culture":7500.00}
+		}
+	},
+	"2260": {
+		"name": "REDWORTH ASSOCIATES",
+		"total": 4400,
+		"monthly": {
+			"2018-06": {"total":4400.00, "Economy & Culture":4400.00}
+		}
+	},
+	"2261": {
+		"name": "REED BUSINESS INFORMATION LTD",
+		"total": 1513.8,
+		"monthly": {
+			"2018-05": {"total":1513.80, "Economy & Culture":1513.80}
+		}
+	},
+	"2262": {
+		"name": "REED SPECIALIST RECRUITMENT LTD",
+		"total": 19098.8,
+		"monthly": {
+			"2015-04": {"total":6924.92, "Corporate Affairs":6924.92},
+			"2015-05": {"total":2329.32, "Corporate Affairs":2329.32},
+			"2015-06": {"total":2329.32, "Corporate Affairs":2329.32},
+			"2015-07": {"total":1222.48, "Corporate Affairs":1222.48},
+			"2015-08": {"total":2692.76, "Corporate Affairs":2692.76},
+			"2018-09": {"total":3600.00, "Community":3600.00}
+		}
+	},
+	"2263": {
+		"name": "REFRESHMENT SYSTEMS LTD",
+		"total": 864.48,
+		"monthly": {
+			"2015-05": {"total":216.12, "Economy & Culture":216.12},
+			"2015-09": {"total":216.12, "Economy & Culture":216.12},
+			"2015-12": {"total":216.12, "Economy & Culture":216.12},
+			"2016-05": {"total":216.12, "Economy & Culture":216.12}
+		}
+	},
+	"2264": {
+		"name": "RELATE MID-YORKSHIRE",
+		"total": 19646.1,
+		"monthly": {
+			"2015-04": {"total":3646.10, "Corporate Affairs":3646.10},
+			"2017-05": {"total":8000.00, "Corporate Affairs":8000.00},
+			"2018-04": {"total":8000.00, "Corporate Affairs":8000.00}
+		}
+	},
+	"2265": {
+		"name": "RENAISSANCE KNARESBOROUGH",
+		"total": 948,
+		"monthly": {
+			"2016-05": {"total":358.00, "Economy & Culture":358.00},
+			"2017-10": {"total":590.00, "Economy & Culture":590.00}
+		}
+	},
+	"2266": {
+		"name": "RENTOKIL INITIAL UK LTD",
+		"total": 1368,
+		"monthly": {
+			"2018-05": {"total":1368.00, "Economy & Culture":1368.00}
+		}
+	},
+	"2267": {
+		"name": "RENUE UK LTD",
+		"total": 6170,
+		"monthly": {
+			"2016-03": {"total":2395.00, "Economy & Culture":2395.00},
+			"2016-06": {"total":775.00, "Economy & Culture":775.00},
+			"2017-06": {"total":3000.00, "Economy & Culture":3000.00}
+		}
+	},
+	"2268": {
+		"name": "REPEAT REPEAT LTD",
+		"total": 246.8,
+		"monthly": {
+			"2018-08": {"total":246.80, "Economy & Culture":246.80}
+		}
+	},
+	"2269": {
+		"name": "RESTAURANT BAR & GRILL LTD",
+		"total": 952.57,
+		"monthly": {
+			"2016-07": {"total":318.02, "Economy & Culture":318.02},
+			"2016-09": {"total":259.46, "Economy & Culture":259.46},
+			"2017-03": {"total":375.09, "Economy & Culture":375.09}
+		}
+	},
+	"2270": {
+		"name": "RESTAURANT DESIGN ASSOCIATES LTD",
+		"alternate-names": [
+			"RESTAURANT DESIGN ASSOCIATES LIMITED"
+		],
+		"total": 4713,
+		"monthly": {
+			"2018-04": {"total":4713.00, "HCC":4713.00}
+		}
+	},
+	"2271": {
+		"name": "REVOLUTION MARKETING (UK) LTD",
+		"total": 23030,
+		"monthly": {
+			"2016-05": {"total":3600.00, "Economy & Culture":3600.00},
+			"2016-06": {"total":6725.00, "Economy & Culture":6725.00},
+			"2016-08": {"total":1062.50, "Economy & Culture":1062.50},
+			"2016-09": {"total":4800.00, "Economy & Culture":4800.00},
+			"2016-10": {"total":1922.50, "Economy & Culture":1922.50},
+			"2017-05": {"total":3020.00, "Economy & Culture":3020.00},
+			"2017-08": {"total":700.00, "Economy & Culture":700.00},
+			"2017-12": {"total":1200.00, "Economy & Culture":1200.00}
+		}
+	},
+	"2272": {
+		"name": "RGA UK LTD",
+		"total": 2050,
+		"monthly": {
+			"2016-08": {"total":1025.00, "HIC":1025.00},
+			"2016-09": {"total":1025.00, "HIC":1025.00}
+		}
+	},
+	"2273": {
+		"name": "RICARDO-AEA LTD",
+		"alternate-names": [
+			"RICARDO-AEA LIMITED"
+		],
+		"total": 6112,
+		"monthly": {
+			"2015-04": {"total":1650.00, "Community":1650.00},
+			"2016-07": {"total":428.00, "Community":428.00},
+			"2017-01": {"total":300.00, "Community":300.00},
+			"2017-06": {"total":1293.00, "Community":1293.00},
+			"2017-07": {"total":1700.00, "Community":1700.00},
+			"2018-04": {"total":741.00, "Community":741.00}
+		}
+	},
+	"2274": {
+		"name": "RICHARD & JANICE KNIGHT",
+		"total": 1250,
+		"monthly": {
+			"2018-07": {"total":1250.00, "Community":1250.00}
+		}
+	},
+	"2275": {
+		"name": "RICHARD COUZENS",
+		"total": 1050,
+		"monthly": {
+			"2018-04": {"total":1050.00, "Community":1050.00}
+		}
+	},
+	"2276": {
+		"name": "RICHARD DARN MEDIA",
+		"total": 2172,
+		"monthly": {
+			"2018-09": {"total":2172.00, "Economy & Culture":2172.00}
+		}
+	},
+	"2277": {
+		"name": "RICHARD GREEN",
+		"total": 2000,
+		"monthly": {
+			"2017-04": {"total":1000.00, "Economy & Culture":1000.00},
+			"2018-05": {"total":1000.00, "Economy & Culture":1000.00}
+		}
+	},
+	"2278": {
 		"name": "RICHARD HAWORTH LTD",
 		"total": 1250,
 		"monthly": {
 			"2016-10": {"total":1250.00, "HIC":1250.00}
 		}
 	},
-	"2251": {
+	"2279": {
 		"name": "RICHARD JEMISON PHOTOGRAPHY LTD",
 		"alternate-names": [
 			"RICHARD JEMISON PHOTOGRAPHY LIMITED"
 		],
 		"total": 1645,
 		"monthly": {
-			"2017-02": {"total":1245.00, "Corporate Affairs":845.00, "Economy & Culture":400.00},
+			"2017-02": {"total":1245.00, "Economy & Culture":400.00, "Corporate Affairs":845.00},
 			"2017-12": {"total":400.00, "Corporate Affairs":400.00}
 		}
 	},
-	"2252": {
+	"2280": {
 		"name": "RICHARD LANG & SON LTD",
 		"total": 318.24,
 		"monthly": {
 			"2015-06": {"total":318.24, "Economy & Culture":318.24}
 		}
 	},
-	"2253": {
+	"2281": {
 		"name": "RICHARD LANGHAM",
 		"total": 1200,
 		"monthly": {
 			"2016-06": {"total":1200.00, "Corporate Affairs":1200.00}
 		}
 	},
-	"2254": {
+	"2282": {
 		"name": "RICHARD LIGHT",
 		"total": 325.2,
 		"monthly": {
 			"2018-04": {"total":325.20, "Economy & Culture":325.20}
 		}
 	},
-	"2255": {
+	"2283": {
 		"name": "RICHARD THROWER",
 		"total": 1190,
 		"monthly": {
 			"2017-10": {"total":1190.00, "Community":1190.00}
 		}
 	},
-	"2256": {
+	"2284": {
 		"name": "RICHARD WOOD ASSOCIATES LTD",
 		"alternate-names": [
 			"RICHARD WOOD ASSOCIATES LIMITED"
@@ -60,32 +404,33 @@
 			"2018-08": {"total":4836.90, "Economy & Culture":4836.90}
 		}
 	},
-	"2257": {
+	"2285": {
 		"name": "RICS",
-		"total": 13165.5,
+		"total": 14380.5,
 		"monthly": {
 			"2015-09": {"total":685.00, "Economy & Culture":685.00},
-			"2015-10": {"total":1700.00, "Community":560.00, "Economy & Culture":1140.00},
+			"2015-10": {"total":1700.00, "Economy & Culture":1140.00, "Community":560.00},
 			"2015-11": {"total":1527.00, "Economy & Culture":1527.00},
 			"2015-12": {"total":1792.50, "Economy & Culture":1018.00, "Community":774.50},
 			"2016-01": {"total":255.00, "Economy & Culture":255.00},
 			"2016-10": {"total":1645.00, "Economy & Culture":1055.00, "Community":590.00},
 			"2016-11": {"total":512.00, "Community":512.00},
+			"2017-09": {"total":1215.00, "Community":1215.00},
 			"2017-10": {"total":465.00, "Economy & Culture":465.00},
 			"2017-12": {"total":1976.00, "Economy & Culture":1976.00},
 			"2018-01": {"total":519.00, "Community":519.00},
-			"2018-03": {"total":1014.00, "Community":754.00, "Economy & Culture":260.00},
+			"2018-03": {"total":1014.00, "Economy & Culture":260.00, "Community":754.00},
 			"2018-08": {"total":1075.00, "Community":1075.00}
 		}
 	},
-	"2258": {
+	"2286": {
 		"name": "RIDER LEVETT BUCKNALL",
 		"total": 2325,
 		"monthly": {
 			"2015-06": {"total":2325.00, "Corporate Affairs":2325.00}
 		}
 	},
-	"2259": {
+	"2287": {
 		"name": "RIDGE EMPLOYEE RELATIONS LTD",
 		"alternate-names": [
 			"RIDGE EMPLOYEE RELATIONS LIMITED"
@@ -96,7 +441,7 @@
 			"2018-09": {"total":510.35, "Economy & Culture":510.35}
 		}
 	},
-	"2260": {
+	"2288": {
 		"name": "RING A TILL",
 		"total": 1594,
 		"monthly": {
@@ -106,43 +451,44 @@
 			"2018-04": {"total":364.00, "Community":364.00}
 		}
 	},
-	"2261": {
+	"2289": {
 		"name": "RIPLEY CASTLE",
 		"total": 1701,
 		"monthly": {
 			"2018-03": {"total":1701.00, "Economy & Culture":1701.00}
 		}
 	},
-	"2262": {
+	"2290": {
 		"name": "RIPLEY PARISH COUNCIL",
-		"total": 7717.33,
+		"total": 8917.33,
 		"monthly": {
 			"2015-04": {"total":1200.00, "Corporate Affairs":1200.00},
 			"2015-09": {"total":1200.00, "Corporate Affairs":1200.00},
 			"2016-05": {"total":527.33, "Community":527.33},
 			"2016-09": {"total":1190.00, "Corporate Affairs":1190.00},
 			"2017-04": {"total":1200.00, "Corporate Affairs":1200.00},
+			"2017-09": {"total":1200.00, "Corporate Affairs":1200.00},
 			"2018-04": {"total":1200.00, "Corporate Affairs":1200.00},
 			"2018-09": {"total":1200.00, "Corporate Affairs":1200.00}
 		}
 	},
-	"2263": {
+	"2291": {
 		"name": "RIPON AMATEUR OPERATIC SOCIETY JUNIOR SECTION",
 		"total": 1500,
 		"monthly": {
 			"2015-10": {"total":1500.00, "Economy & Culture":1500.00}
 		}
 	},
-	"2264": {
+	"2292": {
 		"name": "RIPON CITY ALLOTMENT SOCIETY",
 		"total": 307.72,
 		"monthly": {
 			"2018-01": {"total":307.72, "Community":307.72}
 		}
 	},
-	"2265": {
+	"2293": {
 		"name": "RIPON CITY COUNCIL",
-		"total": 763299.42,
+		"total": 918799.42,
 		"monthly": {
 			"2015-04": {"total":86793.00, "Corporate Affairs":86793.00},
 			"2015-09": {"total":78961.00, "Corporate Affairs":78961.00},
@@ -150,34 +496,36 @@
 			"2016-09": {"total":109356.00, "Corporate Affairs":109356.00},
 			"2016-11": {"total":6500.00, "Community":6500.00},
 			"2017-04": {"total":146698.00, "Corporate Affairs":146698.00},
+			"2017-09": {"total":155500.00, "Corporate Affairs":152500.00, "Community":3000.00},
 			"2018-03": {"total":19238.42, "Community":6500.00, "Corporate Affairs":12738.42},
 			"2018-04": {"total":150127.00, "Corporate Affairs":150127.00},
 			"2018-08": {"total":3000.00, "Community":3000.00},
 			"2018-09": {"total":150126.00, "Corporate Affairs":150126.00}
 		}
 	},
-	"2266": {
+	"2294": {
 		"name": "RIPON CIVIC SOCIETY",
 		"total": 337.5,
 		"monthly": {
 			"2018-08": {"total":337.50, "Economy & Culture":337.50}
 		}
 	},
-	"2267": {
+	"2295": {
 		"name": "RIPON COMMUNITY HOUSE LTD",
 		"total": 212.5,
 		"monthly": {
 			"2015-07": {"total":212.50, "Economy & Culture":212.50}
 		}
 	},
-	"2268": {
+	"2296": {
 		"name": "RIPON COMMUNITY INTEREST COMPANY",
-		"total": 2192,
+		"total": 2782,
 		"monthly": {
-			"2017-03": {"total":2192.00, "Economy & Culture":2192.00}
+			"2017-03": {"total":2192.00, "Economy & Culture":2192.00},
+			"2017-09": {"total":590.00, "Economy & Culture":590.00}
 		}
 	},
-	"2269": {
+	"2297": {
 		"name": "RIPON FARM SERVICES LTD",
 		"total": 2810,
 		"monthly": {
@@ -185,354 +533,19 @@
 			"2018-08": {"total":360.00, "Community":360.00}
 		}
 	},
-	"2270": {
+	"2298": {
 		"name": "RIPON IN BLOOM",
 		"total": 464.4,
 		"monthly": {
 			"2017-02": {"total":464.40, "Community":464.40}
 		}
 	},
-	"2271": {
+	"2299": {
 		"name": "RIPON INTERNATIONAL FESTIVAL",
 		"total": 6000,
 		"monthly": {
 			"2015-11": {"total":3000.00, "Economy & Culture":3000.00},
 			"2017-10": {"total":3000.00, "Economy & Culture":3000.00}
-		}
-	},
-	"2272": {
-		"name": "RIPON MUSEUM TRUST",
-		"total": 2298.22,
-		"monthly": {
-			"2017-05": {"total":893.22, "Corporate Affairs":893.22},
-			"2017-10": {"total":660.00, "Economy & Culture":660.00},
-			"2018-03": {"total":300.00, "Corporate Affairs":300.00},
-			"2018-04": {"total":445.00, "Economy & Culture":445.00}
-		}
-	},
-	"2273": {
-		"name": "RIPON MUSEUM TRUST PROJECT ACCOUNT",
-		"total": 2654.49,
-		"monthly": {
-			"2017-10": {"total":2191.49, "Corporate Affairs":2191.49},
-			"2018-05": {"total":463.00, "Corporate Affairs":463.00}
-		}
-	},
-	"2274": {
-		"name": "RIPON WALLED GARDEN",
-		"total": 2986,
-		"monthly": {
-			"2017-10": {"total":2986.00, "Corporate Affairs":2986.00}
-		}
-	},
-	"2275": {
-		"name": "RIVER STREET EVENTS LTD",
-		"alternate-names": [
-			"RIVER STREET EVENTS LIMITED"
-		],
-		"total": 1000,
-		"monthly": {
-			"2017-05": {"total":1000.00, "HIC":1000.00}
-		}
-	},
-	"2276": {
-		"name": "RIX PETROLEUM (HULL) LTD",
-		"alternate-names": [
-			"RIX PETROLEUM (HULL) LIMITED"
-		],
-		"total": 1331449.95,
-		"monthly": {
-			"2015-12": {"total":9836.80, "Community":9836.80},
-			"2016-01": {"total":27179.59, "Community":27179.59},
-			"2016-02": {"total":35833.10, "Community":35833.10},
-			"2016-03": {"total":42205.50, "Community":42205.50},
-			"2016-05": {"total":36082.06, "Community":36082.06},
-			"2016-06": {"total":50067.06, "Community":50067.06},
-			"2016-07": {"total":43233.36, "Community":43233.36},
-			"2016-08": {"total":55552.36, "Community":55552.36},
-			"2016-09": {"total":38027.22, "Community":38027.22},
-			"2016-10": {"total":40842.84, "Community":40842.84},
-			"2016-11": {"total":52412.51, "Economy & Culture":3488.00, "Community":48924.51},
-			"2017-01": {"total":41514.33, "Economy & Culture":2808.00, "Community":38706.33},
-			"2017-02": {"total":37527.52, "Community":37527.52},
-			"2017-03": {"total":45445.66, "Community":45445.66},
-			"2017-04": {"total":36457.08, "Community":36457.08},
-			"2017-05": {"total":48407.73, "Community":48407.73},
-			"2017-06": {"total":18766.66, "Community":18766.66},
-			"2017-08": {"total":50070.16, "Community":50070.16},
-			"2017-10": {"total":40575.98, "Community":40575.98},
-			"2017-11": {"total":56715.20, "Community":53249.59, "Economy & Culture":3465.61},
-			"2017-12": {"total":51589.59, "Community":44349.41, "Economy & Culture":7240.18},
-			"2018-01": {"total":56503.21, "Economy & Culture":4193.79, "Community":52309.42},
-			"2018-02": {"total":48736.33, "Community":46341.88, "Economy & Culture":2394.45},
-			"2018-03": {"total":44035.48, "Economy & Culture":4063.10, "Community":39972.38},
-			"2018-04": {"total":44018.33, "Economy & Culture":5791.49, "Community":38226.84},
-			"2018-05": {"total":60536.25, "Economy & Culture":8446.00, "Community":52090.25},
-			"2018-06": {"total":44357.08, "Community":40182.98, "Economy & Culture":4174.10},
-			"2018-07": {"total":60957.24, "Community":60957.24},
-			"2018-08": {"total":63268.94, "Economy & Culture":3487.02, "Community":59781.92},
-			"2018-09": {"total":50694.78, "Community":50694.78}
-		}
-	},
-	"2277": {
-		"name": "RJH TECHNICAL CONSULTANCY LTD",
-		"total": 3475,
-		"monthly": {
-			"2018-04": {"total":3475.00, "Community":3475.00}
-		}
-	},
-	"2278": {
-		"name": "RLSS UK ENTERPRISES LTD",
-		"total": 14331.93,
-		"monthly": {
-			"2015-04": {"total":522.85, "Economy & Culture":522.85},
-			"2015-05": {"total":479.51, "Economy & Culture":479.51},
-			"2015-07": {"total":483.00, "Economy & Culture":483.00},
-			"2015-08": {"total":1278.00, "Economy & Culture":1278.00},
-			"2015-09": {"total":340.00, "Economy & Culture":340.00},
-			"2015-11": {"total":642.00, "Economy & Culture":642.00},
-			"2016-06": {"total":779.22, "Economy & Culture":779.22},
-			"2016-07": {"total":642.00, "Economy & Culture":642.00},
-			"2016-08": {"total":642.00, "Economy & Culture":642.00},
-			"2016-10": {"total":1061.63, "Economy & Culture":1061.63},
-			"2017-02": {"total":430.00, "Economy & Culture":430.00},
-			"2017-03": {"total":432.00, "Economy & Culture":432.00},
-			"2017-04": {"total":390.00, "Economy & Culture":390.00},
-			"2017-05": {"total":960.00, "Economy & Culture":960.00},
-			"2017-07": {"total":648.00, "Economy & Culture":648.00},
-			"2017-10": {"total":417.50, "Economy & Culture":417.50},
-			"2017-11": {"total":324.00, "Economy & Culture":324.00},
-			"2018-01": {"total":825.00, "Economy & Culture":825.00},
-			"2018-02": {"total":993.77, "Economy & Culture":993.77},
-			"2018-04": {"total":739.00, "Economy & Culture":739.00},
-			"2018-05": {"total":370.50, "Economy & Culture":370.50},
-			"2018-08": {"total":648.00, "Economy & Culture":648.00},
-			"2018-09": {"total":283.95, "Economy & Culture":283.95}
-		}
-	},
-	"2279": {
-		"name": "RMH ROOFERS & BUILDERS",
-		"total": 1705.26,
-		"monthly": {
-			"2015-04": {"total":276.99, "Community":276.99},
-			"2015-05": {"total":1128.27, "Community":1128.27},
-			"2015-06": {"total":300.00, "Economy & Culture":300.00}
-		}
-	},
-	"2280": {
-		"name": "RNS PUBLICATIONS",
-		"total": 695,
-		"monthly": {
-			"2015-05": {"total":695.00, "Community":695.00}
-		}
-	},
-	"2281": {
-		"name": "ROB PEAKER",
-		"total": 250,
-		"monthly": {
-			"2017-11": {"total":250.00, "Community":250.00}
-		}
-	},
-	"2282": {
-		"name": "ROBERT HILL HAULAGE",
-		"total": 345.1,
-		"monthly": {
-			"2015-08": {"total":345.10, "Economy & Culture":345.10}
-		}
-	},
-	"2283": {
-		"name": "ROBERT LEES",
-		"total": 1400,
-		"monthly": {
-			"2018-06": {"total":1400.00, "Economy & Culture":1400.00}
-		}
-	},
-	"2284": {
-		"name": "ROBERT LIGHT",
-		"total": 6990.5,
-		"monthly": {
-			"2017-11": {"total":1230.00, "Economy & Culture":1230.00},
-			"2017-12": {"total":1517.00, "Economy & Culture":1517.00},
-			"2018-01": {"total":1435.00, "Economy & Culture":1435.00},
-			"2018-03": {"total":1578.50, "Economy & Culture":1578.50},
-			"2018-04": {"total":1230.00, "Economy & Culture":1230.00}
-		}
-	},
-	"2285": {
-		"name": "ROBERT PENFOLD",
-		"total": 4233.25,
-		"monthly": {
-			"2018-05": {"total":1087.90, "HCC":1087.90},
-			"2018-08": {"total":1395.35, "HCC":1395.35},
-			"2018-09": {"total":1750.00, "HCC":1750.00}
-		}
-	},
-	"2286": {
-		"name": "ROBINSON BOBCAT HIRE",
-		"total": 1700,
-		"monthly": {
-			"2015-05": {"total":1700.00, "Community":1700.00}
-		}
-	},
-	"2287": {
-		"name": "ROBINSONS FACILITIES SERVICES",
-		"total": 97395.72,
-		"monthly": {
-			"2017-01": {"total":567.20, "Economy & Culture":567.20},
-			"2017-07": {"total":770.00, "Community":770.00},
-			"2017-08": {"total":893.66, "HCC":298.35, "Community":595.31},
-			"2017-10": {"total":4837.83, "Economy & Culture":4396.62, "Community":441.21},
-			"2017-11": {"total":12321.40, "Community":7210.45, "Economy & Culture":5110.95},
-			"2017-12": {"total":3663.06, "Economy & Culture":3398.06, "Community":265.00},
-			"2018-01": {"total":2233.82, "Economy & Culture":2233.82},
-			"2018-02": {"total":3166.38, "Economy & Culture":2216.82, "Community":949.56},
-			"2018-03": {"total":24421.17, "Economy & Culture":15807.14, "Community":8614.03},
-			"2018-04": {"total":9061.61, "Economy & Culture":8404.76, "Community":656.85},
-			"2018-05": {"total":12009.44, "Economy & Culture":12009.44},
-			"2018-06": {"total":4327.93, "Economy & Culture":3147.13, "Community":1180.80},
-			"2018-07": {"total":6288.49, "Economy & Culture":6288.49},
-			"2018-08": {"total":5417.69, "Economy & Culture":5417.69},
-			"2018-09": {"total":7416.04, "Community":1741.76, "Economy & Culture":5674.28}
-		}
-	},
-	"2288": {
-		"name": "ROBINSONS LIGHTING & ELECTRICAL",
-		"total": 26089.29,
-		"monthly": {
-			"2015-04": {"total":1023.00, "Economy & Culture":1023.00},
-			"2015-06": {"total":2368.29, "Economy & Culture":2368.29},
-			"2016-08": {"total":13629.18, "Economy & Culture":13629.18},
-			"2016-09": {"total":2454.90, "Economy & Culture":2454.90},
-			"2016-10": {"total":475.00, "Economy & Culture":475.00},
-			"2017-10": {"total":1455.00, "Economy & Culture":1455.00},
-			"2017-11": {"total":4683.92, "Economy & Culture":4683.92}
-		}
-	},
-	"2289": {
-		"name": "ROBINSONS LIGHTING LTD",
-		"total": 36441.02,
-		"monthly": {
-			"2018-01": {"total":12489.78, "Economy & Culture":6416.78, "Community":6073.00},
-			"2018-02": {"total":1450.00, "Economy & Culture":1450.00},
-			"2018-03": {"total":1417.97, "Economy & Culture":1417.97},
-			"2018-04": {"total":4973.00, "Economy & Culture":4973.00},
-			"2018-05": {"total":5486.12, "Economy & Culture":1606.12, "Community":3880.00},
-			"2018-06": {"total":2855.00, "Economy & Culture":2855.00},
-			"2018-07": {"total":1235.00, "Economy & Culture":1235.00},
-			"2018-08": {"total":3943.38, "Economy & Culture":3943.38},
-			"2018-09": {"total":2590.77, "Economy & Culture":2590.77}
-		}
-	},
-	"2290": {
-		"name": "ROBINSONS MECHANICAL & ELECTRICAL LTD",
-		"total": 15378.54,
-		"monthly": {
-			"2015-06": {"total":4659.00, "Economy & Culture":3264.00, "HIC":1395.00},
-			"2015-12": {"total":482.15, "Economy & Culture":482.15},
-			"2016-06": {"total":795.00, "HIC":795.00},
-			"2017-01": {"total":845.00, "HIC":845.00},
-			"2017-07": {"total":795.00, "HIC":795.00},
-			"2017-12": {"total":1369.62, "Economy & Culture":1369.62},
-			"2018-01": {"total":5382.77, "HCC":795.00, "Economy & Culture":4587.77},
-			"2018-05": {"total":1050.00, "HCC":1050.00}
-		}
-	},
-	"2291": {
-		"name": "ROBINSONS OF HARROGATE",
-		"total": 1600,
-		"monthly": {
-			"2018-08": {"total":1600.00, "Community":1600.00}
-		}
-	},
-	"2292": {
-		"name": "ROCKET HOSPITALITY",
-		"total": 1993,
-		"monthly": {
-			"2017-02": {"total":996.50, "HIC":996.50},
-			"2017-03": {"total":996.50, "HIC":996.50}
-		}
-	},
-	"2293": {
-		"name": "ROECLIFFE & WESTWICK GROUPED PARISH",
-		"total": 13757.91,
-		"monthly": {
-			"2015-04": {"total":1777.00, "Corporate Affairs":1777.00},
-			"2015-09": {"total":1777.00, "Corporate Affairs":1777.00},
-			"2015-12": {"total":396.19, "Community":396.19},
-			"2016-09": {"total":1523.00, "Corporate Affairs":1523.00},
-			"2016-11": {"total":403.72, "Community":403.72},
-			"2017-04": {"total":1572.00, "Corporate Affairs":1572.00},
-			"2018-04": {"total":3155.00, "Corporate Affairs":3155.00},
-			"2018-09": {"total":3154.00, "Corporate Affairs":3154.00}
-		}
-	},
-	"2294": {
-		"name": "ROOFTOP MORTGAGES",
-		"total": 3349.8,
-		"monthly": {
-			"2016-07": {"total":3349.80, "Community":3349.80}
-		}
-	},
-	"2295": {
-		"name": "ROPE ASSEMBLIES LTD",
-		"total": 4766.99,
-		"monthly": {
-			"2016-02": {"total":1211.84, "HIC":1211.84},
-			"2017-02": {"total":3203.15, "HIC":3203.15},
-			"2017-04": {"total":352.00, "HIC":352.00}
-		}
-	},
-	"2296": {
-		"name": "ROSSE SYSTEMS",
-		"total": 49807.84,
-		"monthly": {
-			"2015-04": {"total":3040.00, "Economy & Culture":3040.00},
-			"2015-05": {"total":5724.00, "Economy & Culture":5724.00},
-			"2015-06": {"total":209.25, "Economy & Culture":209.25},
-			"2015-08": {"total":2140.45, "Economy & Culture":2140.45},
-			"2015-09": {"total":2685.00, "Economy & Culture":2685.00},
-			"2015-10": {"total":562.90, "Economy & Culture":562.90},
-			"2015-11": {"total":215.00, "Economy & Culture":215.00},
-			"2015-12": {"total":3991.90, "Economy & Culture":3991.90},
-			"2016-01": {"total":578.30, "Economy & Culture":578.30},
-			"2016-02": {"total":1350.02, "Economy & Culture":1350.02},
-			"2016-03": {"total":595.00, "Economy & Culture":595.00},
-			"2017-05": {"total":595.00, "Economy & Culture":595.00},
-			"2017-10": {"total":235.05, "Economy & Culture":235.05},
-			"2017-11": {"total":581.70, "Economy & Culture":581.70},
-			"2017-12": {"total":4078.50, "Corporate Affairs":249.00, "Economy & Culture":3829.50},
-			"2018-01": {"total":255.30, "Economy & Culture":255.30},
-			"2018-02": {"total":2995.87, "Economy & Culture":2995.87},
-			"2018-03": {"total":4432.25, "Economy & Culture":4432.25},
-			"2018-04": {"total":1592.00, "Economy & Culture":300.00, "HCC":1292.00},
-			"2018-05": {"total":1712.00, "Economy & Culture":1712.00},
-			"2018-07": {"total":1898.75, "Economy & Culture":1898.75},
-			"2018-08": {"total":10086.60, "Economy & Culture":10086.60},
-			"2018-09": {"total":253.00, "Economy & Culture":253.00}
-		}
-	},
-	"2297": {
-		"name": "ROSSETT LOCAL NATURE RESERVE GROUP",
-		"total": 1915,
-		"monthly": {
-			"2017-10": {"total":1340.50, "Corporate Affairs":1340.50},
-			"2018-09": {"total":574.50, "Corporate Affairs":574.50}
-		}
-	},
-	"2298": {
-		"name": "ROSTEK UK LTD",
-		"total": 2669,
-		"monthly": {
-			"2015-09": {"total":849.00, "Community":849.00},
-			"2017-07": {"total":910.00, "Community":910.00},
-			"2018-08": {"total":910.00, "Community":910.00}
-		}
-	},
-	"2299": {
-		"name": "ROTHERHAM METROPOLITAN DISTRICT COUNCIL",
-		"total": 504.35,
-		"monthly": {
-			"2015-12": {"total":504.35, "Corporate Affairs":504.35}
 		}
 	}
 	}
