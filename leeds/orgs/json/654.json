@@ -2,11 +2,50 @@
 	"range": ["2010-10","2018-09"],
 	"data": {
 	"32700": {
+		"name": "Street Head Caravan Park",
+		"total": 74.16,
+		"monthly": {
+			"2015-06": {"total":74.16, "Childrens Services":74.16}
+		}
+	},
+	"32701": {
+		"name": "Street Lane Practice",
+		"total": 105955.83,
+		"monthly": {
+			"2013-02": {"total":1400.00, "Adult Social Care":1400.00},
+			"2013-09": {"total":2955.36, "Central & Corporate":2955.36},
+			"2013-12": {"total":6097.55, "Central & Corporate":6097.55},
+			"2014-03": {"total":5751.31, "Central & Corporate":5751.31},
+			"2014-04": {"total":50.00, "Central & Corporate":50.00},
+			"2014-05": {"total":50.00, "Central & Corporate":50.00},
+			"2014-06": {"total":5833.48, "Central & Corporate":5833.48},
+			"2014-09": {"total":6197.26, "Central & Corporate":6197.26},
+			"2014-12": {"total":5271.73, "Central & Corporate":5271.73},
+			"2015-02": {"total":50.00, "Central & Corporate":50.00},
+			"2015-03": {"total":6538.49, "Central & Corporate":6538.49},
+			"2015-06": {"total":5482.17, "Central & Corporate":5482.17},
+			"2015-08": {"total":30.00, "Central & Corporate":30.00},
+			"2015-09": {"total":4231.36, "Central & Corporate":4231.36},
+			"2015-12": {"total":3702.84, "Central & Corporate":3702.84},
+			"2016-03": {"total":6543.66, "Central & Corporate":50.00, "Public Health":6493.66},
+			"2016-06": {"total":5709.06, "Public Health":5709.06},
+			"2016-09": {"total":4200.35, "Public Health":4200.35},
+			"2016-11": {"total":4687.66, "Public Health":4687.66},
+			"2017-02": {"total":5170.91, "Public Health":5170.91},
+			"2017-05": {"total":6145.10, "Adults and Health":6145.10},
+			"2017-07": {"total":10.00, "Insurance":10.00},
+			"2017-09": {"total":4703.99, "Resources and Housing":30.00, "Adults and Health":4673.99},
+			"2017-10": {"total":100.00, "Resources and Housing":100.00},
+			"2017-11": {"total":4528.79, "Adults and Health":4528.79},
+			"2018-02": {"total":2313.60, "Adults and Health":2313.60},
+			"2018-06": {"total":6676.16, "Adults and Health":6676.16}
+		}
+	},
+	"32702": {
 		"name": "Street Sites",
 		"total": 43796.5,
 		"monthly": {
 			"2011-06": {"total":2204.00, "City Development":2204.00},
-			"2011-08": {"total":525.00, "City Development":525.00},
 			"2012-07": {"total":1015.00, "City Development":1015.00},
 			"2012-12": {"total":1665.00, "City Development":1665.00},
 			"2013-01": {"total":650.00, "City Development":650.00},
@@ -19,7 +58,7 @@
 			"2014-04": {"total":1110.00, "City Development":70.00, "Central & Corporate":1040.00},
 			"2014-07": {"total":412.50, "City Development":412.50},
 			"2014-10": {"total":1485.00, "City Development":1485.00},
-			"2014-11": {"total":1895.00, "City Development":855.00, "Adult Social Care":1040.00},
+			"2014-11": {"total":1895.00, "Adult Social Care":1040.00, "City Development":855.00},
 			"2014-12": {"total":425.00, "City Development":425.00},
 			"2015-01": {"total":1237.50, "City Development":1237.50},
 			"2015-05": {"total":2892.00, "City Development":2892.00},
@@ -40,21 +79,21 @@
 			"2018-04": {"total":700.00, "City Development":700.00}
 		}
 	},
-	"32701": {
+	"32703": {
 		"name": "Street Style Surgery",
 		"total": 370,
 		"monthly": {
 			"2014-12": {"total":370.00, "Childrens Services":370.00}
 		}
 	},
-	"32702": {
+	"32704": {
 		"name": "Street Wise Love Leeds",
 		"total": 2000,
 		"monthly": {
 			"2014-02": {"total":2000.00, "Central & Corporate":2000.00}
 		}
 	},
-	"32703": {
+	"32705": {
 		"name": "Street Work Soccer Academy",
 		"total": 5170,
 		"monthly": {
@@ -63,7 +102,7 @@
 			"2014-07": {"total":250.00, "Central & Corporate":250.00}
 		}
 	},
-	"32704": {
+	"32706": {
 		"name": "Street Work Soccer Academy Ltd",
 		"total": 158715.72,
 		"monthly": {
@@ -77,7 +116,7 @@
 			"2015-05": {"total":23800.00, "Strategic Landlord":23800.00},
 			"2015-07": {"total":20636.00, "Central & Corporate":10740.00, "Strategic Landlord":9896.00},
 			"2015-09": {"total":3840.00, "Central & Corporate":3840.00},
-			"2016-01": {"total":750.00, "Strategic Accounts":250.00, "Citizens and Communities":500.00},
+			"2016-01": {"total":750.00, "Citizens and Communities":500.00, "Strategic Accounts":250.00},
 			"2016-02": {"total":5370.00, "Citizens and Communities":5370.00},
 			"2016-03": {"total":5370.00, "Citizens and Communities":5370.00},
 			"2016-06": {"total":4900.00, "Citizens and Communities":4900.00},
@@ -92,19 +131,17 @@
 			"2017-11": {"total":5760.00, "Communities and Environment":5760.00},
 			"2018-01": {"total":3000.00, "Communities and Environment":3000.00},
 			"2018-04": {"total":5940.00, "Communities and Environment":5940.00},
-			"2018-06": {"total":3000.00, "Communities and Environment":3000.00},
-			"2018-07": {"total":5000.00, "Communities and Environment":5000.00}
+			"2018-06": {"total":3000.00, "Communities and Environment":3000.00}
 		}
 	},
-	"32705": {
+	"32707": {
 		"name": "Street Works Soccer",
 		"total": 3000,
 		"monthly": {
-			"2017-07": {"total":2000.00, "Strategic Landlord":2000.00},
-			"2018-08": {"total":1000.00, "Strategic Landlord":1000.00}
+			"2017-07": {"total":2000.00, "Strategic Landlord":2000.00}
 		}
 	},
-	"32706": {
+	"32708": {
 		"name": "Streetscape (Products & Services) Ltd",
 		"total": 98228,
 		"monthly": {
@@ -115,14 +152,14 @@
 			"2018-04": {"total":4760.00, "Communities and Environment":4760.00}
 		}
 	},
-	"32707": {
+	"32709": {
 		"name": "Streetspace Group",
 		"total": 36348,
 		"monthly": {
-			"2018-08": {"total":36348.00, "Communities and Environment":36348.00}
+
 		}
 	},
-	"32708": {
+	"32710": {
 		"name": "Streetwise Services Ltd",
 		"total": 47535,
 		"monthly": {
@@ -134,7 +171,7 @@
 			"2018-06": {"total":4440.00, "City Development":4440.00}
 		}
 	},
-	"32709": {
+	"32711": {
 		"name": "Streetwise Soccer Cic",
 		"total": 1629.93,
 		"monthly": {
@@ -142,19 +179,17 @@
 			"2013-04": {"total":679.93, "City Development":679.93}
 		}
 	},
-	"32710": {
+	"32712": {
 		"name": "Streetwise Uk Management Ltd",
 		"total": 52590.04,
 		"monthly": {
 			"2015-12": {"total":2525.00, "City Development":2525.00},
 			"2018-04": {"total":4010.00, "City Development":4010.00},
 			"2018-06": {"total":770.00, "City Development":770.00},
-			"2018-07": {"total":595.00, "City Development":595.00},
-			"2018-08": {"total":24547.79, "City Development":24547.79},
 			"2018-09": {"total":20142.25, "City Development":20142.25}
 		}
 	},
-	"32711": {
+	"32713": {
 		"name": "Streetwork Soccer Academy",
 		"total": 12560,
 		"monthly": {
@@ -164,14 +199,14 @@
 			"2014-09": {"total":3420.00, "Central & Corporate":3420.00}
 		}
 	},
-	"32712": {
+	"32714": {
 		"name": "Stress Check Ltd",
 		"total": 121.2,
 		"monthly": {
 			"2016-04": {"total":121.20, "City Development":121.20}
 		}
 	},
-	"32713": {
+	"32715": {
 		"name": "Stretch",
 		"total": 5600,
 		"monthly": {
@@ -181,25 +216,25 @@
 			"2015-08": {"total":2000.00, "Childrens Services":2000.00}
 		}
 	},
-	"32714": {
+	"32716": {
 		"name": "Stri Ltd",
 		"total": 2240,
 		"monthly": {
-			"2018-07": {"total":2240.00, "Communities and Environment":2240.00}
+
 		}
 	},
-	"32715": {
+	"32717": {
 		"name": "Strictly Tables & Chairs Ltd",
 		"total": 9244.2,
 		"monthly": {
 			"2013-10": {"total":512.40, "East - North East":512.40},
 			"2014-01": {"total":2167.50, "Central & Corporate":2167.50},
-			"2014-03": {"total":2384.30, "Environment & Housing":216.80, "Central & Corporate":2167.50},
+			"2014-03": {"total":2384.30, "Central & Corporate":2167.50, "Environment & Housing":216.80},
 			"2016-04": {"total":2087.50, "City Development":2087.50},
 			"2017-10": {"total":2092.50, "City Development":2092.50}
 		}
 	},
-	"32716": {
+	"32718": {
 		"name": "Striking Ideas",
 		"total": 2500,
 		"monthly": {
@@ -207,21 +242,21 @@
 			"2012-04": {"total":1250.00, "Central & Corporate Functions":1250.00}
 		}
 	},
-	"32717": {
+	"32719": {
 		"name": "Striking Ideas Ltd",
 		"total": 2500,
 		"monthly": {
 			"2011-03": {"total":2500.00, "Central & Corporate Functions":2500.00}
 		}
 	},
-	"32718": {
+	"32720": {
 		"name": "Stringsdirect.Couk",
 		"total": 54.12,
 		"monthly": {
 			"2014-09": {"total":54.12, "Childrens Services":54.12}
 		}
 	},
-	"32719": {
+	"32721": {
 		"name": "Stripe",
 		"total": 219,
 		"monthly": {
@@ -229,21 +264,20 @@
 			"2017-11": {"total":199.00, "Communities and Environment":199.00}
 		}
 	},
-	"32720": {
+	"32722": {
 		"name": "Stripes Solicitors",
 		"total": 2636,
 		"monthly": {
 			"2015-11": {"total":2636.00, "Insurance":2636.00}
 		}
 	},
-	"32721": {
+	"32723": {
 		"name": "Stroke Association",
-		"total": 88000,
+		"total": 43000,
 		"monthly": {
 			"2010-12": {"total":1000.00, "Adult Social Care":1000.00},
 			"2011-02": {"total":1000.00, "Adult Social Care":1000.00},
 			"2011-04": {"total":15000.00, "Adult Social Care":15000.00},
-			"2011-08": {"total":45000.00, "Adult Social Care":45000.00},
 			"2011-09": {"total":1000.00, "Adult Social Care":1000.00},
 			"2011-11": {"total":1000.00, "Adult Social Care":1000.00},
 			"2012-01": {"total":16000.00, "Adult Social Care":16000.00},
@@ -253,17 +287,16 @@
 			"2012-11": {"total":1000.00, "Adult Social Care":1000.00}
 		}
 	},
-	"32722": {
+	"32724": {
 		"name": "Stroke Of Genius Big Band",
 		"total": 1800,
 		"monthly": {
 			"2015-09": {"total":200.00, "City Development":200.00},
 			"2016-08": {"total":400.00, "City Development":400.00},
-			"2017-09": {"total":600.00, "City Development":600.00},
-			"2018-08": {"total":600.00, "City Development":600.00}
+			"2017-09": {"total":600.00, "City Development":600.00}
 		}
 	},
-	"32723": {
+	"32725": {
 		"name": "Stroma Accreditation Ltd",
 		"total": 3690,
 		"monthly": {
@@ -271,7 +304,7 @@
 			"2011-04": {"total":2650.00, "City Development":2650.00}
 		}
 	},
-	"32724": {
+	"32726": {
 		"name": "Stroma Certification Ltd",
 		"alternate-names": [
 			"Stroma Certification Limited"
@@ -280,11 +313,11 @@
 		"monthly": {
 			"2012-10": {"total":980.00, "City Development":980.00},
 			"2014-01": {"total":167.33, "Environment & Housing":167.33},
-			"2014-02": {"total":511.28, "Environment & Housing":11.54, "City Development":499.74},
+			"2014-02": {"total":511.28, "City Development":499.74, "Environment & Housing":11.54},
 			"2014-03": {"total":784.82, "Environment & Housing":265.42, "City Development":519.40},
 			"2014-04": {"total":537.39, "City Development":537.39},
 			"2014-05": {"total":663.08, "City Development":663.08},
-			"2014-07": {"total":2539.87, "City Development":2345.47, "Environment & Housing":194.40},
+			"2014-07": {"total":2539.87, "Environment & Housing":194.40, "City Development":2345.47},
 			"2014-09": {"total":1684.19, "City Development":1684.19},
 			"2014-10": {"total":1654.67, "City Development":1654.67},
 			"2014-11": {"total":845.58, "City Development":845.58},
@@ -299,14 +332,14 @@
 			"2016-02": {"total":48.47, "City Development":48.47}
 		}
 	},
-	"32725": {
+	"32727": {
 		"name": "Structadene Ltd",
 		"total": 500,
 		"monthly": {
 			"2010-12": {"total":500.00, "City Development":500.00}
 		}
 	},
-	"32726": {
+	"32728": {
 		"name": "Structural Adhesives Ltd",
 		"alternate-names": [
 			"Structural Adhesives Limited"
@@ -319,21 +352,21 @@
 			"2015-04": {"total":421.00, "Strategic Landlord":421.00}
 		}
 	},
-	"32727": {
+	"32729": {
 		"name": "Structural Healthcare",
 		"total": 6560,
 		"monthly": {
 			"2011-03": {"total":6560.00, "City Development":6560.00}
 		}
 	},
-	"32728": {
+	"32730": {
 		"name": "Structural Healthcare Ltd",
 		"total": 8352.78,
 		"monthly": {
-			"2018-07": {"total":8352.78, "Resources and Housing":8352.78}
+
 		}
 	},
-	"32729": {
+	"32731": {
 		"name": "Structural Soils Ltd",
 		"alternate-names": [
 			"Structural Soils Limited"
@@ -343,21 +376,21 @@
 			"2015-10": {"total":225.00, "City Development":225.00}
 		}
 	},
-	"32730": {
+	"32732": {
 		"name": "Structured Acquisitions Ltd",
 		"total": 2230,
 		"monthly": {
 			"2014-01": {"total":2230.00, "City Development":2230.00}
 		}
 	},
-	"32731": {
+	"32733": {
 		"name": "Sts Touring Prod",
 		"total": 210,
 		"monthly": {
 			"2017-06": {"total":210.00, "Resources and Housing":210.00}
 		}
 	},
-	"32732": {
+	"32734": {
 		"name": "Sts Touring Productions Ltd",
 		"total": 4177,
 		"monthly": {
@@ -367,7 +400,7 @@
 			"2013-08": {"total":1734.00, "City Development":1734.00}
 		}
 	},
-	"32733": {
+	"32735": {
 		"name": "Stuart & Ann Collridge",
 		"total": 3475.29,
 		"monthly": {
@@ -382,7 +415,7 @@
 			"2018-05": {"total":648.22, "Resources and Housing":648.22}
 		}
 	},
-	"32734": {
+	"32736": {
 		"name": "Stuart Bailey",
 		"total": 1375,
 		"monthly": {
@@ -391,21 +424,21 @@
 			"2016-01": {"total":150.00, "Environment & Housing":150.00}
 		}
 	},
-	"32735": {
+	"32737": {
 		"name": "Stuart D. Berry Heritage Services",
 		"total": 99.3,
 		"monthly": {
 			"2015-12": {"total":99.30, "City Development":99.30}
 		}
 	},
-	"32736": {
+	"32738": {
 		"name": "Stuart Gardiner Design",
 		"total": 233.6,
 		"monthly": {
 			"2018-03": {"total":233.60, "City Development":233.60}
 		}
 	},
-	"32737": {
+	"32739": {
 		"name": "Stuart Gordon",
 		"total": 15171.46,
 		"monthly": {
@@ -422,35 +455,35 @@
 			"2017-02": {"total":399.75, "Childrens Services":399.75}
 		}
 	},
-	"32738": {
+	"32740": {
 		"name": "Stuart Green",
 		"total": 500,
 		"monthly": {
 			"2013-10": {"total":500.00, "City Development":500.00}
 		}
 	},
-	"32739": {
+	"32741": {
 		"name": "Stuart H Somerscales Ltd",
 		"total": 430,
 		"monthly": {
 			"2012-05": {"total":430.00, "City Development":430.00}
 		}
 	},
-	"32740": {
+	"32742": {
 		"name": "Stuart Hirst Ltd",
 		"total": 595,
 		"monthly": {
 			"2011-11": {"total":595.00, "Adult Social Care":595.00}
 		}
 	},
-	"32741": {
+	"32743": {
 		"name": "Stuart Jamieson",
 		"total": 329.8,
 		"monthly": {
 			"2018-01": {"total":329.80, "Children and Families":329.80}
 		}
 	},
-	"32742": {
+	"32744": {
 		"name": "Stuart Jenner",
 		"total": 103470,
 		"monthly": {
@@ -507,12 +540,10 @@
 			"2018-04": {"total":1325.00, "City Development":1325.00},
 			"2018-05": {"total":2360.00, "City Development":2360.00},
 			"2018-06": {"total":1890.00, "City Development":1890.00},
-			"2018-07": {"total":1595.00, "City Development":1595.00},
-			"2018-08": {"total":1970.00, "City Development":1970.00},
 			"2018-09": {"total":1120.00, "City Development":1120.00}
 		}
 	},
-	"32743": {
+	"32745": {
 		"name": "Stuart Langley",
 		"total": 1949.42,
 		"monthly": {
@@ -522,14 +553,14 @@
 			"2017-11": {"total":1099.42, "City Development":1099.42}
 		}
 	},
-	"32744": {
+	"32746": {
 		"name": "Stuart M Bailey",
 		"total": 150,
 		"monthly": {
 			"2014-07": {"total":150.00, "Environment & Housing":150.00}
 		}
 	},
-	"32745": {
+	"32747": {
 		"name": "Stuart Martin",
 		"total": 1629.05,
 		"monthly": {
@@ -539,19 +570,18 @@
 			"2017-09": {"total":300.09, "Children and Families":300.09}
 		}
 	},
-	"32746": {
+	"32748": {
 		"name": "Stuart Road Surgery",
 		"total": 30,
 		"monthly": {
 			"2016-12": {"total":30.00, "Central & Corporate":30.00}
 		}
 	},
-	"32747": {
+	"32749": {
 		"name": "Stuart Rowbottom",
-		"total": 74284.5,
+		"total": 71239.5,
 		"monthly": {
 			"2011-07": {"total":2325.00, "East - North East":2325.00},
-			"2011-08": {"total":3045.00, "East - North East":3045.00},
 			"2011-11": {"total":4860.00, "East - North East":4860.00},
 			"2012-05": {"total":16320.00, "East - North East":16320.00},
 			"2012-06": {"total":5700.00, "East - North East":5700.00},
@@ -562,30 +592,6 @@
 			"2013-09": {"total":3480.00, "East - North East":3480.00},
 			"2013-10": {"total":3037.50, "East - North East":3037.50},
 			"2014-06": {"total":8820.00, "Environment & Housing":8820.00}
-		}
-	},
-	"32748": {
-		"name": "Stuart Thompson Plant Hire Ltd",
-		"alternate-names": [
-			"Stuart Thompson Plant Hire Limited"
-		],
-		"total": 15400,
-		"monthly": {
-			"2015-11": {"total":300.00, "Civic Enterprise Leeds":300.00},
-			"2015-12": {"total":1640.00, "Civic Enterprise Leeds":1640.00},
-			"2016-02": {"total":2460.00, "Civic Enterprise Leeds":2460.00},
-			"2016-07": {"total":1400.00, "Civic Enterprise Leeds":1400.00},
-			"2016-08": {"total":4460.00, "Civic Enterprise Leeds":4460.00},
-			"2016-11": {"total":3640.00, "Civic Enterprise Leeds":3640.00},
-			"2017-01": {"total":1500.00, "Civic Enterprise Leeds":1500.00}
-		}
-	},
-	"32749": {
-		"name": "Stuart Williams",
-		"total": 3214.58,
-		"monthly": {
-			"2011-02": {"total":2530.15, "Adult Social Care":2530.15},
-			"2011-06": {"total":684.43, "Adult Social Care":684.43}
 		}
 	}
 	}

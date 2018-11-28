@@ -2,10 +2,16 @@
 	"range": ["2010-10","2018-09"],
 	"data": {
 	"6450": {
-		"name": "Cemex Uk Cement Ltd",
-		"total": 207137.82,
+		"name": "Cemex UK Operations Lt",
+		"total": 501.66,
 		"monthly": {
-			"2011-08": {"total":1341.36, "City Development":1341.36},
+			"2016-03": {"total":501.66, "Environment & Housing":501.66}
+		}
+	},
+	"6451": {
+		"name": "Cemex Uk Cement Ltd",
+		"total": 205796.46,
+		"monthly": {
 			"2012-10": {"total":1452.36, "City Development":1452.36},
 			"2012-11": {"total":2904.72, "City Development":2904.72},
 			"2012-12": {"total":1452.36, "City Development":1452.36},
@@ -16,7 +22,7 @@
 			"2013-07": {"total":1504.20, "City Development":1504.20},
 			"2013-08": {"total":1503.60, "City Development":1503.60},
 			"2013-09": {"total":2219.94, "City Development":2219.94},
-			"2013-10": {"total":3156.66, "City Development":2222.46, "Environment & Housing":934.20},
+			"2013-10": {"total":3156.66, "Environment & Housing":934.20, "City Development":2222.46},
 			"2013-11": {"total":2223.90, "City Development":2223.90},
 			"2013-12": {"total":2221.56, "City Development":2221.56},
 			"2014-02": {"total":2304.18, "City Development":2304.18},
@@ -26,16 +32,16 @@
 			"2014-06": {"total":2304.18, "City Development":2304.18},
 			"2014-09": {"total":7200.82, "City Development":7200.82},
 			"2014-10": {"total":2832.69, "Environment & Housing":474.51, "City Development":2358.18},
-			"2014-11": {"total":3986.86, "City Development":2358.18, "Environment & Housing":1628.68},
+			"2014-11": {"total":3986.86, "Environment & Housing":1628.68, "City Development":2358.18},
 			"2015-01": {"total":2358.18, "City Development":2358.18},
 			"2015-02": {"total":200.12, "Environment & Housing":200.12},
 			"2015-03": {"total":3181.20, "City Development":3181.20},
 			"2015-04": {"total":3181.20, "City Development":3181.20},
 			"2015-06": {"total":3181.20, "City Development":3181.20},
-			"2015-07": {"total":7150.48, "City Development":6362.40, "Environment & Housing":788.08},
+			"2015-07": {"total":7150.48, "Environment & Housing":788.08, "City Development":6362.40},
 			"2015-09": {"total":6362.40, "City Development":6362.40},
 			"2015-10": {"total":6621.19, "Environment & Housing":258.79, "City Development":6362.40},
-			"2015-11": {"total":6919.08, "Environment & Housing":556.68, "City Development":6362.40},
+			"2015-11": {"total":6919.08, "City Development":6362.40, "Environment & Housing":556.68},
 			"2015-12": {"total":6362.40, "City Development":6362.40},
 			"2016-01": {"total":6362.40, "City Development":6362.40},
 			"2016-02": {"total":3301.20, "City Development":3301.20},
@@ -57,12 +63,10 @@
 			"2017-08": {"total":3409.20, "City Development":3409.20},
 			"2017-09": {"total":6818.40, "City Development":6818.40},
 			"2017-12": {"total":6818.40, "City Development":6818.40},
-			"2018-01": {"total":3409.20, "City Development":3409.20},
-			"2018-07": {"total":3529.20, "City Development":3529.20},
-			"2018-08": {"total":3529.20, "City Development":3529.20}
+			"2018-01": {"total":3409.20, "City Development":3409.20}
 		}
 	},
-	"6451": {
+	"6452": {
 		"name": "Cemex Uk Materials Ltd",
 		"total": 55823.97,
 		"monthly": {
@@ -105,14 +109,14 @@
 			"2015-03": {"total":199.90, "Environment & Housing":199.90},
 			"2015-04": {"total":1245.07, "Environment & Housing":1245.07},
 			"2015-05": {"total":193.06, "Environment & Housing":193.06},
-			"2015-06": {"total":353.64, "Environment & Housing":310.51, "City Development":43.13},
+			"2015-06": {"total":353.64, "City Development":43.13, "Environment & Housing":310.51},
 			"2015-07": {"total":163.89, "Environment & Housing":163.89},
 			"2015-08": {"total":86.31, "Environment & Housing":86.31},
 			"2015-09": {"total":164.07, "Environment & Housing":164.07},
 			"2015-10": {"total":78.22, "Environment & Housing":78.22},
 			"2016-02": {"total":178.44, "Environment & Housing":178.44},
 			"2016-03": {"total":303.35, "Environment & Housing":303.35},
-			"2016-04": {"total":3479.64, "Environment & Housing":178.44, "City Development":3301.20},
+			"2016-04": {"total":3479.64, "City Development":3301.20, "Environment & Housing":178.44},
 			"2016-06": {"total":131.18, "Environment & Housing":131.18},
 			"2016-07": {"total":34.98, "Environment & Housing":34.98},
 			"2016-08": {"total":44.62, "Environment & Housing":44.62},
@@ -121,7 +125,7 @@
 			"2017-02": {"total":87.52, "Environment & Housing":87.52}
 		}
 	},
-	"6452": {
+	"6453": {
 		"name": "Cemex Uk Operations Ltd",
 		"total": 20220.59,
 		"monthly": {
@@ -136,19 +140,17 @@
 			"2018-03": {"total":3965.45, "Communities and Environment":436.25, "City Development":3529.20},
 			"2018-05": {"total":2628.00, "Communities and Environment":2628.00},
 			"2018-06": {"total":1057.00, "Communities and Environment":1057.00},
-			"2018-07": {"total":85.00, "Communities and Environment":85.00},
-			"2018-08": {"total":2373.18, "Communities and Environment":2373.18},
 			"2018-09": {"total":2947.63, "Communities and Environment":2947.63}
 		}
 	},
-	"6453": {
+	"6454": {
 		"name": "Cenex",
 		"total": 30000,
 		"monthly": {
 			"2017-04": {"total":30000.00, "Environment & Housing":30000.00}
 		}
 	},
-	"6454": {
+	"6455": {
 		"name": "Cengage Learning (Emea) Ltd",
 		"total": 86911.68,
 		"monthly": {
@@ -167,14 +169,14 @@
 			"2018-04": {"total":7773.16, "Communities and Environment":7773.16}
 		}
 	},
-	"6455": {
+	"6456": {
 		"name": "Cengage Learning Services",
 		"total": 10155,
 		"monthly": {
 			"2011-02": {"total":10155.00, "City Development":10155.00}
 		}
 	},
-	"6456": {
+	"6457": {
 		"name": "Centara Ltd",
 		"total": 51517.18,
 		"monthly": {
@@ -190,7 +192,7 @@
 			"2018-09": {"total":7725.00, "City Development":5925.00, "Resources and Housing":1800.00}
 		}
 	},
-	"6457": {
+	"6458": {
 		"name": "Centaur Communications Ltd",
 		"total": 69222.56,
 		"monthly": {
@@ -204,14 +206,14 @@
 			"2018-05": {"total":12150.00, "City Development":12150.00}
 		}
 	},
-	"6458": {
+	"6459": {
 		"name": "Centenary House",
 		"total": 1000,
 		"monthly": {
 			"2017-06": {"total":1000.00, "Communities and Environment":1000.00}
 		}
 	},
-	"6459": {
+	"6460": {
 		"name": "Center Parcs Ltd",
 		"total": 2344.5,
 		"monthly": {
@@ -219,14 +221,14 @@
 			"2014-02": {"total":1119.00, "Childrens Services":1119.00}
 		}
 	},
-	"6460": {
+	"6461": {
 		"name": "Centerparcs",
 		"total": 510,
 		"monthly": {
 			"2013-03": {"total":510.00, "Adult Social Care":510.00}
 		}
 	},
-	"6461": {
+	"6462": {
 		"name": "Centerplate",
 		"total": 1478.67,
 		"monthly": {
@@ -234,7 +236,7 @@
 			"2017-11": {"total":1312.00, "City Development":1312.00}
 		}
 	},
-	"6462": {
+	"6463": {
 		"name": "Centerplate Uk Ltd",
 		"alternate-names": [
 			"Centerplate Uk Limited"
@@ -244,14 +246,14 @@
 			"2015-07": {"total":595.42, "Central & Corporate":595.42}
 		}
 	},
-	"6463": {
+	"6464": {
 		"name": "Centotre Ltd",
 		"total": 270.37,
 		"monthly": {
 			"2016-04": {"total":270.37, "City Development":270.37}
 		}
 	},
-	"6464": {
+	"6465": {
 		"name": "Central & North West London Nhs Ft",
 		"total": 5230.97,
 		"monthly": {
@@ -263,32 +265,31 @@
 			"2016-07": {"total":936.02, "Public Health":936.02},
 			"2016-08": {"total":451.71, "Public Health":451.71},
 			"2016-11": {"total":301.14, "Public Health":301.14},
-			"2017-01": {"total":454.41, "Public Health":454.41},
-			"2018-08": {"total":488.74, "Adults and Health":488.74}
-		}
-	},
-	"6465": {
-		"name": "Central Av Ltd",
-		"total": 104,
-		"monthly": {
-			"2018-05": {"total":104.00, "Children and Families":104.00}
+			"2017-01": {"total":454.41, "Public Health":454.41}
 		}
 	},
 	"6466": {
+		"name": "Central Av Ltd",
+		"total": 104,
+		"monthly": {
+
+		}
+	},
+	"6467": {
 		"name": "Central Bedfordshire Council",
 		"total": 2000,
 		"monthly": {
 			"2014-03": {"total":2000.00, "City Development":2000.00}
 		}
 	},
-	"6467": {
+	"6468": {
 		"name": "Central Books Ltd",
 		"total": 6,
 		"monthly": {
 			"2014-05": {"total":6.00, "Central & Corporate":6.00}
 		}
 	},
-	"6468": {
+	"6469": {
 		"name": "Central Cars",
 		"total": 153464.79,
 		"monthly": {
@@ -300,7 +301,6 @@
 			"2011-05": {"total":1732.80, "Central & Corporate Functions":1732.80},
 			"2011-06": {"total":6877.10, "Central & Corporate Functions":6877.10},
 			"2011-07": {"total":6874.90, "Central & Corporate Functions":6874.90},
-			"2011-08": {"total":4478.30, "Central & Corporate Functions":4478.30},
 			"2011-09": {"total":960.00, "Central & Corporate Functions":960.00},
 			"2011-10": {"total":5018.30, "Central & Corporate Functions":5018.30},
 			"2011-12": {"total":9317.50, "Central & Corporate Functions":9317.50},
@@ -341,7 +341,7 @@
 			"2015-05": {"total":360.00, "Central & Corporate":360.00}
 		}
 	},
-	"6469": {
+	"6470": {
 		"name": "Central Conference Consultants Ltd",
 		"total": 1635.84,
 		"monthly": {
@@ -354,7 +354,7 @@
 			"2018-06": {"total":325.00, "Children and Families":325.00}
 		}
 	},
-	"6470": {
+	"6471": {
 		"name": "Central Eng Coop",
 		"total": 70.38,
 		"monthly": {
@@ -373,7 +373,7 @@
 			"2018-01": {"total":4.54, "Children and Families":4.54}
 		}
 	},
-	"6471": {
+	"6472": {
 		"name": "Central Flooring Services Ltd",
 		"alternate-names": [
 			"Central Flooring Services Limited"
@@ -383,7 +383,7 @@
 			"2017-10": {"total":3990.80, "City Development":3990.80}
 		}
 	},
-	"6472": {
+	"6473": {
 		"name": "Central Foods Ltd",
 		"total": 196624.82,
 		"monthly": {
@@ -396,28 +396,28 @@
 			"2011-06": {"total":5425.09, "Central & Corporate Functions":5425.09}
 		}
 	},
-	"6473": {
+	"6474": {
 		"name": "Central Garage",
 		"total": 10.17,
 		"monthly": {
 			"2015-05": {"total":10.17, "Environment & Housing":10.17}
 		}
 	},
-	"6474": {
+	"6475": {
 		"name": "Central Hotel",
 		"total": 45,
 		"monthly": {
 			"2014-03": {"total":45.00, "City Development":45.00}
 		}
 	},
-	"6475": {
+	"6476": {
 		"name": "Central House",
 		"total": 169,
 		"monthly": {
 			"2014-11": {"total":169.00, "Central & Corporate":169.00}
 		}
 	},
-	"6476": {
+	"6477": {
 		"name": "Central Laundry Ltd",
 		"total": 484853.03,
 		"monthly": {
@@ -438,7 +438,7 @@
 			"2017-02": {"total":13097.56, "Adult Social Care":13097.56},
 			"2017-03": {"total":26696.17, "Adult Social Care":26696.17},
 			"2017-04": {"total":4732.50, "Adult Social Care":4732.50},
-			"2017-05": {"total":23736.48, "Adults and Health":8372.50, "Adult Social Care":15363.98},
+			"2017-05": {"total":23736.48, "Adult Social Care":15363.98, "Adults and Health":8372.50},
 			"2017-06": {"total":14956.81, "Adults and Health":14956.81},
 			"2017-08": {"total":19679.92, "Adults and Health":19679.92},
 			"2017-09": {"total":10313.67, "Adults and Health":10313.67},
@@ -448,23 +448,21 @@
 			"2018-03": {"total":23326.63, "Communities and Environment":0.00, "Adults and Health":23326.63},
 			"2018-05": {"total":21321.49, "Adults and Health":21321.49},
 			"2018-06": {"total":13379.85, "Adults and Health":13379.85},
-			"2018-08": {"total":19424.80, "Adults and Health":19424.80},
 			"2018-09": {"total":13196.53, "Adults and Health":13196.53}
 		}
 	},
-	"6477": {
+	"6478": {
 		"name": "Central Law Training Ltd",
 		"total": 8884.69,
 		"monthly": {
-			"2011-08": {"total":650.00, "Central & Corporate Functions":650.00},
 			"2013-07": {"total":650.00, "Central & Corporate":650.00},
 			"2016-01": {"total":601.84, "Environment & Housing":300.92, "City Development":300.92},
-			"2016-02": {"total":2407.36, "Environment & Housing":902.76, "Central & Corporate":601.84, "City Development":300.92, "Citizens and Communities":601.84},
-			"2016-05": {"total":3050.32, "Environment & Housing":2141.29, "Citizens and Communities":909.03},
-			"2016-06": {"total":1525.17, "Environment & Housing":1127.30, "Citizens and Communities":397.87}
+			"2016-02": {"total":2407.36, "City Development":300.92, "Central & Corporate":601.84, "Citizens and Communities":601.84, "Environment & Housing":902.76},
+			"2016-05": {"total":3050.32, "Citizens and Communities":909.03, "Environment & Housing":2141.29},
+			"2016-06": {"total":1525.17, "Citizens and Communities":397.87, "Environment & Housing":1127.30}
 		}
 	},
-	"6478": {
+	"6479": {
 		"name": "Central London Community Healthcare Nhs",
 		"total": 4696,
 		"monthly": {
@@ -479,11 +477,10 @@
 			"2018-02": {"total":134.00, "Adults and Health":134.00},
 			"2018-04": {"total":344.00, "Adults and Health":344.00},
 			"2018-05": {"total":239.00, "Adults and Health":239.00},
-			"2018-08": {"total":101.00, "Adults and Health":101.00},
 			"2018-09": {"total":262.00, "Adults and Health":262.00}
 		}
 	},
-	"6479": {
+	"6480": {
 		"name": "Central Manchester University Hospitals",
 		"total": 19474.76,
 		"monthly": {
@@ -518,7 +515,7 @@
 			"2017-11": {"total":1292.00, "Adults and Health":1292.00}
 		}
 	},
-	"6480": {
+	"6481": {
 		"name": "Central Park Residents Group",
 		"total": 200,
 		"monthly": {
@@ -526,7 +523,7 @@
 			"2016-01": {"total":100.00, "Strategic Accounts":100.00}
 		}
 	},
-	"6481": {
+	"6482": {
 		"name": "Central Prop(Leeds)ltd",
 		"total": 1655.17,
 		"monthly": {
@@ -535,7 +532,7 @@
 			"2014-06": {"total":425.18, "Childrens Services":425.18}
 		}
 	},
-	"6482": {
+	"6483": {
 		"name": "Central Properties",
 		"total": 1651.2,
 		"monthly": {
@@ -545,7 +542,7 @@
 			"2014-04": {"total":412.80, "Childrens Services":412.80}
 		}
 	},
-	"6483": {
+	"6484": {
 		"name": "Central Source Ltd",
 		"total": 5654.31,
 		"monthly": {
@@ -555,35 +552,34 @@
 			"2017-05": {"total":136.80, "City Development":136.80},
 			"2017-08": {"total":608.96, "City Development":608.96},
 			"2017-09": {"total":470.40, "Communities and Environment":470.40},
-			"2017-10": {"total":1307.45, "Adults and Health":464.52, "Communities and Environment":842.93},
+			"2017-10": {"total":1307.45, "Communities and Environment":842.93, "Adults and Health":464.52},
 			"2018-02": {"total":270.10, "Communities and Environment":270.10},
 			"2018-03": {"total":126.00, "Communities and Environment":126.00},
-			"2018-04": {"total":564.48, "Communities and Environment":564.48},
-			"2018-06": {"total":93.00, "Communities and Environment":93.00}
+			"2018-04": {"total":564.48, "Communities and Environment":564.48}
 		}
 	},
-	"6484": {
+	"6485": {
 		"name": "Central Ymca",
 		"total": 129,
 		"monthly": {
 			"2015-11": {"total":129.00, "City Development":129.00}
 		}
 	},
-	"6485": {
+	"6486": {
 		"name": "Central Yorkshire Jamboree",
 		"total": 300,
 		"monthly": {
 			"2014-10": {"total":300.00, "Strategic Accounts":300.00}
 		}
 	},
-	"6486": {
+	"6487": {
 		"name": "Centre Florists",
 		"total": 64.17,
 		"monthly": {
 			"2014-08": {"total":64.17, "Central & Corporate":64.17}
 		}
 	},
-	"6487": {
+	"6488": {
 		"name": "Centre For Ageing Better Ltd",
 		"alternate-names": [
 			"Centre For Ageing Better Limited"
@@ -593,7 +589,7 @@
 			"2017-04": {"total":1000.00, "Public Health":1000.00}
 		}
 	},
-	"6488": {
+	"6489": {
 		"name": "Centre For Assessment",
 		"total": 8125,
 		"monthly": {
@@ -603,14 +599,14 @@
 			"2018-03": {"total":1625.00, "Resources and Housing":1625.00}
 		}
 	},
-	"6489": {
+	"6490": {
 		"name": "Centre For Assessment & Recognition Ltd",
 		"total": 2750,
 		"monthly": {
 			"2014-04": {"total":2750.00, "Central & Corporate":2750.00}
 		}
 	},
-	"6490": {
+	"6491": {
 		"name": "Centre For Cities",
 		"total": 17921.39,
 		"monthly": {
@@ -620,7 +616,7 @@
 			"2017-06": {"total":3000.00, "City Development":3000.00}
 		}
 	},
-	"6491": {
+	"6492": {
 		"name": "Centre For Education And Finance",
 		"total": 95830.09,
 		"monthly": {
@@ -630,43 +626,43 @@
 			"2014-05": {"total":19872.93, "Childrens Services":19872.93}
 		}
 	},
-	"6492": {
+	"6493": {
 		"name": "Centre For Housing & Support",
 		"total": 12662,
 		"monthly": {
 			"2012-03": {"total":1750.00, "Aire Valley Homes Leeds":1750.00},
-			"2012-04": {"total":10912.00, "East - North East":5209.00, "Aire Valley Homes Leeds":5703.00}
+			"2012-04": {"total":10912.00, "Aire Valley Homes Leeds":5703.00, "East - North East":5209.00}
 		}
 	},
-	"6493": {
+	"6494": {
 		"name": "Centre For Literacy In Primary Education",
 		"total": 1200,
 		"monthly": {
 			"2013-04": {"total":1200.00, "Childrens Services":1200.00}
 		}
 	},
-	"6494": {
+	"6495": {
 		"name": "Centre For Local Economic Strategies",
 		"total": 200,
 		"monthly": {
 			"2014-12": {"total":200.00, "City Development":200.00}
 		}
 	},
-	"6495": {
+	"6496": {
 		"name": "Centre For Low Carbon Futures",
 		"total": 54956,
 		"monthly": {
 			"2012-12": {"total":54956.00, "Central & Corporate Functions":54956.00}
 		}
 	},
-	"6496": {
+	"6497": {
 		"name": "Centre For Partnership Llp",
 		"total": 1400,
 		"monthly": {
 			"2011-03": {"total":1400.00, "East - North East":1400.00}
 		}
 	},
-	"6497": {
+	"6498": {
 		"name": "Centre For Public Scrutiny",
 		"total": 703.96,
 		"monthly": {
@@ -676,19 +672,11 @@
 			"2018-01": {"total":199.00, "Resources and Housing":199.00}
 		}
 	},
-	"6498": {
+	"6499": {
 		"name": "Centre For Sexual Health",
 		"total": 100,
 		"monthly": {
 			"2014-11": {"total":100.00, "Childrens Services":100.00}
-		}
-	},
-	"6499": {
-		"name": "Centre For The Moving Image",
-		"total": 120,
-		"monthly": {
-			"2014-05": {"total":60.00, "City Development":60.00},
-			"2016-04": {"total":60.00, "City Development":60.00}
 		}
 	}
 	}

@@ -127,9 +127,9 @@
 		"name": "Angel Springs Ltd",
 		"total": 8612.18,
 		"monthly": {
-			"2014-01": {"total":204.82, "City Development":34.48, "Environment & Housing":170.34},
+			"2014-01": {"total":204.82, "Environment & Housing":170.34, "City Development":34.48},
 			"2014-02": {"total":34.48, "City Development":34.48},
-			"2014-03": {"total":87.30, "City Development":34.48, "Environment & Housing":52.82},
+			"2014-03": {"total":87.30, "Environment & Housing":52.82, "City Development":34.48},
 			"2014-04": {"total":34.48, "City Development":34.48},
 			"2014-06": {"total":35.48, "City Development":35.48},
 			"2014-07": {"total":302.57, "City Development":35.48, "Environment & Housing":267.09},
@@ -141,21 +141,21 @@
 			"2015-06": {"total":170.57, "Environment & Housing":170.57},
 			"2015-08": {"total":55.36, "Environment & Housing":55.36},
 			"2015-10": {"total":110.72, "Environment & Housing":110.72},
-			"2015-11": {"total":158.86, "City Development":103.50, "Environment & Housing":55.36},
-			"2015-12": {"total":158.86, "Strategic Landlord":103.50, "Environment & Housing":55.36},
-			"2016-01": {"total":158.86, "Strategic Landlord":103.50, "Environment & Housing":55.36},
-			"2016-02": {"total":158.86, "Strategic Landlord":103.50, "Environment & Housing":55.36},
-			"2016-03": {"total":262.36, "City Development":103.50, "Strategic Landlord":103.50, "Environment & Housing":55.36},
+			"2015-11": {"total":158.86, "Environment & Housing":55.36, "City Development":103.50},
+			"2015-12": {"total":158.86, "Environment & Housing":55.36, "Strategic Landlord":103.50},
+			"2016-01": {"total":158.86, "Environment & Housing":55.36, "Strategic Landlord":103.50},
+			"2016-02": {"total":158.86, "Environment & Housing":55.36, "Strategic Landlord":103.50},
+			"2016-03": {"total":262.36, "Environment & Housing":55.36, "Strategic Landlord":103.50, "City Development":103.50},
 			"2016-04": {"total":265.04, "Environment & Housing":58.04, "Citizens and Communities":207.00},
 			"2016-06": {"total":323.08, "Environment & Housing":116.08, "Strategic Landlord":207.00},
-			"2016-07": {"total":161.54, "City Development":103.50, "Environment & Housing":58.04},
+			"2016-07": {"total":161.54, "Environment & Housing":58.04, "City Development":103.50},
 			"2016-08": {"total":679.04, "City Development":103.50, "Environment & Housing":472.04, "Strategic Landlord":103.50},
 			"2016-09": {"total":274.04, "Environment & Housing":58.04, "Strategic Landlord":216.00},
 			"2016-10": {"total":58.04, "Environment & Housing":58.04},
-			"2016-11": {"total":781.06, "City Development":103.50, "Strategic Landlord":310.50, "Environment & Housing":367.06},
+			"2016-11": {"total":781.06, "City Development":103.50, "Environment & Housing":367.06, "Strategic Landlord":310.50},
 			"2017-02": {"total":103.50, "Strategic Landlord":103.50},
-			"2017-04": {"total":424.35, "City Development":103.50, "Citizens and Communities":217.35, "Strategic Landlord":103.50},
-			"2017-05": {"total":543.36, "Strategic Landlord":108.66, "Environment & Housing":434.70},
+			"2017-04": {"total":424.35, "City Development":103.50, "Strategic Landlord":103.50, "Citizens and Communities":217.35},
+			"2017-05": {"total":543.36, "Environment & Housing":434.70, "Strategic Landlord":108.66},
 			"2017-06": {"total":217.32, "Strategic Landlord":108.66, "City Development":108.66},
 			"2017-07": {"total":20.08, "City Development":20.08},
 			"2017-08": {"total":237.40, "City Development":128.74, "Strategic Landlord":108.66},
@@ -166,10 +166,8 @@
 			"2018-02": {"total":340.90, "Strategic Landlord":212.16, "City Development":128.74},
 			"2018-03": {"total":313.44, "Strategic Landlord":108.66, "City Development":204.78},
 			"2018-04": {"total":21.87, "City Development":21.87},
-			"2018-05": {"total":247.26, "City Development":133.14, "Strategic Landlord":114.12},
+			"2018-05": {"total":247.26, "Strategic Landlord":114.12, "City Development":133.14},
 			"2018-06": {"total":133.14, "City Development":19.02, "Strategic Landlord":114.12},
-			"2018-07": {"total":19.02, "City Development":19.02},
-			"2018-08": {"total":247.26, "City Development":133.14, "Strategic Landlord":114.12},
 			"2018-09": {"total":133.14, "Strategic Landlord":114.12, "City Development":19.02}
 		}
 	},
@@ -186,8 +184,7 @@
 		"total": 531,
 		"monthly": {
 			"2018-05": {"total":86.70, "Communities and Environment":86.70},
-			"2018-06": {"total":312.00, "Communities and Environment":312.00},
-			"2018-08": {"total":132.30, "Communities and Environment":132.30}
+			"2018-06": {"total":312.00, "Communities and Environment":312.00}
 		}
 	},
 	"2115": {
@@ -237,8 +234,7 @@
 			"2016-07": {"total":88.92, "Childrens Services":88.92},
 			"2017-07": {"total":819.00, "Children and Families":819.00},
 			"2017-09": {"total":282.24, "Children and Families":282.24},
-			"2018-04": {"total":260.16, "Children and Families":260.16},
-			"2018-07": {"total":754.80, "Children and Families":754.80}
+			"2018-04": {"total":260.16, "Children and Families":260.16}
 		}
 	},
 	"2118": {
@@ -335,14 +331,13 @@
 	},
 	"2129": {
 		"name": "Angels Home Care Services",
-		"total": 756221.73,
+		"total": 745628.33,
 		"monthly": {
 			"2011-02": {"total":8419.52, "Adult Social Care":8419.52},
 			"2011-03": {"total":29537.27, "Adult Social Care":29537.27},
 			"2011-04": {"total":15375.02, "Adult Social Care":15375.02},
 			"2011-06": {"total":20444.84, "Adult Social Care":20444.84},
 			"2011-07": {"total":32860.80, "Adult Social Care":32860.80},
-			"2011-08": {"total":12753.80, "Adult Social Care":12753.80},
 			"2011-10": {"total":32952.46, "Adult Social Care":32952.46},
 			"2011-11": {"total":6449.80, "Adult Social Care":6449.80},
 			"2011-12": {"total":23573.92, "Adult Social Care":23573.92},
@@ -404,15 +399,14 @@
 	},
 	"2131": {
 		"name": "Angels Housekeeping Cic Ltd",
-		"total": 292753.94,
+		"total": 283153.94,
 		"monthly": {
 			"2011-02": {"total":14518.00, "Environment & Neighbourhoods":14518.00},
 			"2011-03": {"total":19626.50, "Environment & Neighbourhoods":4892.00, "Adult Social Care":14734.50},
 			"2011-04": {"total":25769.95, "Environment & Neighbourhoods":13831.00, "Adult Social Care":11938.95},
-			"2011-05": {"total":22338.95, "Adult Social Care":13938.95, "Environment & Neighbourhoods":8400.00},
+			"2011-05": {"total":22338.95, "Environment & Neighbourhoods":8400.00, "Adult Social Care":13938.95},
 			"2011-06": {"total":6515.00, "Environment & Neighbourhoods":6515.00},
 			"2011-07": {"total":10349.00, "Environment & Neighbourhoods":10349.00},
-			"2011-08": {"total":9600.00, "Environment & Neighbourhoods":9600.00},
 			"2011-10": {"total":6800.00, "Environment & Neighbourhoods":6800.00},
 			"2011-11": {"total":2427.00, "Environment & Neighbourhoods":2427.00},
 			"2012-07": {"total":450.00, "Childrens Services":450.00},
@@ -426,20 +420,20 @@
 			"2015-01": {"total":283.50, "Adult Social Care":283.50},
 			"2015-02": {"total":5897.31, "Adult Social Care":229.50, "Social Services Pooled Budgets":5667.81},
 			"2015-03": {"total":9108.98, "Adult Social Care":857.25, "Social Services Pooled Budgets":8251.73},
-			"2015-04": {"total":3960.29, "Social Services Pooled Budgets":3703.79, "Adult Social Care":256.50},
+			"2015-04": {"total":3960.29, "Adult Social Care":256.50, "Social Services Pooled Budgets":3703.79},
 			"2015-05": {"total":3933.29, "Social Services Pooled Budgets":3703.79, "Adult Social Care":229.50},
 			"2015-06": {"total":3872.54, "Adult Social Care":168.75, "Social Services Pooled Budgets":3703.79},
-			"2015-07": {"total":4533.54, "Adult Social Care":829.75, "Social Services Pooled Budgets":3703.79},
+			"2015-07": {"total":4533.54, "Social Services Pooled Budgets":3703.79, "Adult Social Care":829.75},
 			"2015-08": {"total":4041.29, "Social Services Pooled Budgets":3703.79, "Adult Social Care":337.50},
 			"2015-09": {"total":3703.79, "Social Services Pooled Budgets":3703.79},
-			"2015-10": {"total":3832.04, "Social Services Pooled Budgets":3703.79, "Adult Social Care":128.25},
+			"2015-10": {"total":3832.04, "Adult Social Care":128.25, "Social Services Pooled Budgets":3703.79},
 			"2015-11": {"total":3946.79, "Adult Social Care":243.00, "Social Services Pooled Budgets":3703.79},
 			"2015-12": {"total":3811.79, "Adult Social Care":108.00, "Social Services Pooled Budgets":3703.79},
-			"2016-01": {"total":4169.54, "Social Services Pooled Budgets":3703.79, "Adult Social Care":465.75},
-			"2016-02": {"total":3784.79, "Adult Social Care":81.00, "Social Services Pooled Budgets":3703.79},
+			"2016-01": {"total":4169.54, "Adult Social Care":465.75, "Social Services Pooled Budgets":3703.79},
+			"2016-02": {"total":3784.79, "Social Services Pooled Budgets":3703.79, "Adult Social Care":81.00},
 			"2016-03": {"total":3838.79, "Adult Social Care":135.00, "Social Services Pooled Budgets":3703.79},
 			"2016-04": {"total":3703.79, "Social Services Pooled Budgets":3703.79},
-			"2016-05": {"total":3919.29, "Adult Social Care":215.50, "Social Services Pooled Budgets":3703.79},
+			"2016-05": {"total":3919.29, "Social Services Pooled Budgets":3703.79, "Adult Social Care":215.50},
 			"2016-06": {"total":3703.79, "Social Services Pooled Budgets":3703.79},
 			"2016-07": {"total":3703.79, "Social Services Pooled Budgets":3703.79},
 			"2016-08": {"total":3703.79, "Social Services Pooled Budgets":3703.79},
@@ -461,8 +455,7 @@
 			"2018-02": {"total":3703.19, "Social Services Pooled Budgets":3703.19},
 			"2018-03": {"total":3748.19, "Social Services Pooled Budgets":3703.19, "Adults and Health":45.00},
 			"2018-04": {"total":6120.59, "Social Services Pooled Budgets":6120.59},
-			"2018-06": {"total":2386.00, "Social Services Pooled Budgets":2386.00},
-			"2018-07": {"total":13588.67, "Social Services Pooled Budgets":13588.67}
+			"2018-06": {"total":2386.00, "Social Services Pooled Budgets":2386.00}
 		}
 	},
 	"2132": {
@@ -530,7 +523,6 @@
 			"2018-03": {"total":4996.20, "Children and Families":4996.20},
 			"2018-04": {"total":23735.40, "Children and Families":23735.40},
 			"2018-06": {"total":1125.67, "Children and Families":1125.67},
-			"2018-07": {"total":6982.05, "Children and Families":6982.05},
 			"2018-09": {"total":18392.09, "Children and Families":18392.09}
 		}
 	},
@@ -538,8 +530,7 @@
 		"name": "Angels Of Freedom",
 		"total": 300,
 		"monthly": {
-			"2018-07": {"total":200.00, "Strategic Accounts":200.00},
-			"2018-08": {"total":100.00, "Strategic Accounts":100.00}
+
 		}
 	},
 	"2134": {
@@ -705,8 +696,6 @@
 			"2018-04": {"total":3013.00, "Resources and Housing":3013.00},
 			"2018-05": {"total":1895.00, "Resources and Housing":1895.00},
 			"2018-06": {"total":3120.00, "Resources and Housing":3120.00},
-			"2018-07": {"total":2215.00, "Resources and Housing":2215.00},
-			"2018-08": {"total":3948.00, "Resources and Housing":3948.00},
 			"2018-09": {"total":4319.00, "Resources and Housing":4319.00}
 		}
 	},

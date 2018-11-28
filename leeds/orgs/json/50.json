@@ -33,7 +33,7 @@
 			"2013-05": {"total":11196.00, "Childrens Services":11196.00},
 			"2013-07": {"total":11196.00, "Childrens Services":11196.00},
 			"2013-09": {"total":11196.00, "Childrens Services":11196.00},
-			"2014-01": {"total":11286.00, "Childrens Services":11196.00, "Central & Corporate":90.00},
+			"2014-01": {"total":11286.00, "Central & Corporate":90.00, "Childrens Services":11196.00},
 			"2014-04": {"total":1710.00, "Childrens Services":1710.00},
 			"2014-06": {"total":430.00, "Central & Corporate":430.00},
 			"2014-10": {"total":11196.00, "Childrens Services":11196.00},
@@ -62,7 +62,7 @@
 			"2014-02": {"total":50.00, "Strategic Accounts":50.00},
 			"2014-04": {"total":11196.00, "Childrens Services":11196.00},
 			"2014-05": {"total":4942.00, "Central & Corporate":4942.00},
-			"2014-07": {"total":16138.00, "Central & Corporate":4942.00, "Childrens Services":11196.00},
+			"2014-07": {"total":16138.00, "Childrens Services":11196.00, "Central & Corporate":4942.00},
 			"2014-08": {"total":75.00, "Central & Corporate":75.00},
 			"2014-10": {"total":4942.00, "Central & Corporate":4942.00},
 			"2014-11": {"total":3890.32, "Central & Corporate":3890.32},
@@ -79,11 +79,10 @@
 			"2017-05": {"total":3775.90, "Children and Families":1263.90, "Communities and Environment":2512.00},
 			"2017-06": {"total":12016.50, "Children and Families":9516.50, "Communities and Environment":2500.00},
 			"2017-07": {"total":12028.50, "Children and Families":9516.50, "Communities and Environment":2512.00},
-			"2017-09": {"total":12028.50, "Communities and Environment":2512.00, "Children and Families":9516.50},
+			"2017-09": {"total":12028.50, "Children and Families":9516.50, "Communities and Environment":2512.00},
 			"2017-12": {"total":2857.00, "Communities and Environment":2512.00, "Strategic Accounts":345.00},
 			"2018-01": {"total":9516.50, "Children and Families":9516.50},
 			"2018-05": {"total":10576.50, "Communities and Environment":1060.00, "Children and Families":9516.50},
-			"2018-07": {"total":9516.50, "Children and Families":9516.50},
 			"2018-09": {"total":9516.50, "Children and Families":9516.50}
 		}
 	},
@@ -118,7 +117,7 @@
 			"2016-05": {"total":38.87, "City Development":38.87},
 			"2016-11": {"total":16.67, "City Development":16.67},
 			"2016-12": {"total":19.20, "City Development":19.20},
-			"2017-02": {"total":43.87, "Childrens Services":27.00, "City Development":16.87},
+			"2017-02": {"total":43.87, "City Development":16.87, "Childrens Services":27.00},
 			"2017-03": {"total":21.55, "City Development":21.55},
 			"2017-05": {"total":30.25, "City Development":30.25},
 			"2017-06": {"total":16.79, "City Development":16.79},
@@ -163,8 +162,7 @@
 			"2017-11": {"total":5008.39, "Adults and Health":5008.39},
 			"2018-02": {"total":6476.80, "Adults and Health":6476.80},
 			"2018-04": {"total":161.15, "Resources and Housing":161.15},
-			"2018-06": {"total":5659.94, "Adults and Health":5659.94},
-			"2018-08": {"total":826.00, "Adults and Health":826.00}
+			"2018-06": {"total":5659.94, "Adults and Health":5659.94}
 		}
 	},
 	"2507": {
@@ -174,7 +172,6 @@
 			"2017-03": {"total":30.68, "Childrens Services":30.68},
 			"2017-07": {"total":45.04, "Children and Families":45.04},
 			"2018-03": {"total":36.99, "Children and Families":36.99},
-			"2018-08": {"total":40.75, "Children and Families":40.75},
 			"2018-09": {"total":41.08, "Children and Families":41.08}
 		}
 	},
@@ -251,8 +248,8 @@
 		"name": "Armstrong Priestley Ltd",
 		"total": 1186071.54,
 		"monthly": {
-			"2011-04": {"total":26905.48, "Other Education Services Managed By E.L.":26265.48, "Central & Corporate Functions":640.00},
-			"2011-06": {"total":40038.23, "Other Education Services":39398.23, "Central & Corporate Functions":640.00},
+			"2011-04": {"total":26905.48, "Central & Corporate Functions":640.00, "Other Education Services Managed By E.L.":26265.48},
+			"2011-06": {"total":40038.23, "Central & Corporate Functions":640.00, "Other Education Services":39398.23},
 			"2011-07": {"total":1400.00, "Environment & Neighbourhoods":1400.00},
 			"2011-09": {"total":1159.00, "Other Education Services":1159.00},
 			"2011-12": {"total":640.00, "Central & Corporate Functions":640.00},
@@ -263,9 +260,9 @@
 			"2013-09": {"total":2265.00, "Other Education Services":2265.00},
 			"2013-10": {"total":700.98, "City Development":700.98},
 			"2014-01": {"total":40195.00, "Environment & Housing":38600.00, "City Development":1595.00},
-			"2014-02": {"total":32269.00, "Environment & Housing":29550.00, "City Development":2719.00},
-			"2014-03": {"total":1827.90, "Central & Corporate":1280.00, "City Development":547.90},
-			"2014-04": {"total":13123.25, "Environment & Housing":13000.00, "City Development":123.25},
+			"2014-02": {"total":32269.00, "City Development":2719.00, "Environment & Housing":29550.00},
+			"2014-03": {"total":1827.90, "City Development":547.90, "Central & Corporate":1280.00},
+			"2014-04": {"total":13123.25, "City Development":123.25, "Environment & Housing":13000.00},
 			"2014-06": {"total":327.20, "Central & Corporate":327.20},
 			"2014-09": {"total":1688.00, "Central & Corporate":1688.00},
 			"2014-10": {"total":98.60, "Central & Corporate":98.60},
@@ -277,7 +274,7 @@
 			"2015-07": {"total":56650.00, "Environment & Housing":56300.00, "Central & Corporate":350.00},
 			"2015-08": {"total":24800.00, "Environment & Housing":24800.00},
 			"2015-09": {"total":22000.00, "Environment & Housing":22000.00},
-			"2015-10": {"total":21100.00, "Central & Corporate":600.00, "Environment & Housing":20500.00},
+			"2015-10": {"total":21100.00, "Environment & Housing":20500.00, "Central & Corporate":600.00},
 			"2015-11": {"total":465.00, "Central & Corporate":465.00},
 			"2015-12": {"total":4400.00, "Environment & Housing":4400.00},
 			"2016-03": {"total":1280.00, "Central & Corporate":1280.00},
@@ -297,8 +294,6 @@
 			"2018-03": {"total":137850.00, "Resources and Housing":137850.00},
 			"2018-04": {"total":104840.00, "Resources and Housing":104840.00},
 			"2018-05": {"total":108765.00, "Resources and Housing":108765.00},
-			"2018-07": {"total":43795.00, "Resources and Housing":43795.00},
-			"2018-08": {"total":97000.00, "Resources and Housing":97000.00},
 			"2018-09": {"total":14315.00, "Resources and Housing":14315.00}
 		}
 	},
@@ -346,7 +341,6 @@
 			"2011-02": {"total":1721.44, "Central & Corporate Functions":1721.44},
 			"2011-03": {"total":472.16, "Central & Corporate Functions":472.16},
 			"2011-04": {"total":2678.41, "Central & Corporate Functions":2678.41},
-			"2011-08": {"total":494.18, "Central & Corporate Functions":494.18},
 			"2011-11": {"total":440.00, "Central & Corporate Functions":440.00},
 			"2012-01": {"total":440.00, "Central & Corporate Functions":440.00},
 			"2012-03": {"total":1995.92, "Central & Corporate Functions":1995.92},
@@ -367,88 +361,83 @@
 			"2016-11": {"total":41.07, "Civic Enterprise Leeds":41.07},
 			"2017-08": {"total":293.13, "Civic Enterprise Leeds":293.13},
 			"2018-03": {"total":132.89, "Resources and Housing":132.89},
-			"2018-07": {"total":105.00, "Communities and Environment":105.00},
-			"2018-08": {"total":419.32, "Resources and Housing":419.32},
 			"2018-09": {"total":1269.27, "Resources and Housing":1269.27}
 		}
 	},
 	"2522": {
 		"name": "Arnold Laver & Co Ltd",
-		"total": 119134.14,
+		"total": 117425.17,
 		"monthly": {
 			"2011-02": {"total":3222.88, "East - North East":1039.83, "City Development":2183.05},
 			"2011-03": {"total":3250.79, "Central & Corporate Functions":662.23, "East - North East":1984.91, "City Development":603.65},
-			"2011-04": {"total":3216.56, "City Development":904.72, "East - North East":1851.36, "Central & Corporate Functions":460.48},
-			"2011-05": {"total":2387.51, "East - North East":1784.28, "Central & Corporate Functions":603.23},
-			"2011-06": {"total":3276.20, "Central & Corporate Functions":595.22, "City Development":879.65, "East - North East":1801.33},
-			"2011-07": {"total":6299.75, "East - North East":4557.29, "City Development":1742.46},
-			"2011-08": {"total":3549.18, "Central & Corporate Functions":497.49, "City Development":1723.72, "East - North East":1327.97},
-			"2011-09": {"total":3148.72, "Central & Corporate Functions":538.15, "East - North East":1920.57, "City Development":690.00},
+			"2011-04": {"total":3216.56, "Central & Corporate Functions":460.48, "East - North East":1851.36, "City Development":904.72},
+			"2011-05": {"total":2387.51, "Central & Corporate Functions":603.23, "East - North East":1784.28},
+			"2011-06": {"total":3276.20, "Central & Corporate Functions":595.22, "East - North East":1801.33, "City Development":879.65},
+			"2011-07": {"total":6299.75, "City Development":1742.46, "East - North East":4557.29},
+			"2011-09": {"total":3148.72, "East - North East":1920.57, "Central & Corporate Functions":538.15, "City Development":690.00},
 			"2011-10": {"total":2893.82, "East - North East":2893.82},
 			"2011-11": {"total":3157.94, "East - North East":2506.13, "Central & Corporate Functions":651.81},
 			"2011-12": {"total":2260.55, "East - North East":2260.55},
-			"2012-01": {"total":2741.17, "Central & Corporate Functions":492.45, "East - North East":2248.72},
-			"2012-02": {"total":3549.16, "East - North East":2423.76, "City Development":594.22, "Central & Corporate Functions":531.18},
+			"2012-01": {"total":2741.17, "East - North East":2248.72, "Central & Corporate Functions":492.45},
+			"2012-02": {"total":3549.16, "City Development":594.22, "Central & Corporate Functions":531.18, "East - North East":2423.76},
 			"2012-03": {"total":3406.69, "East - North East":3406.69},
 			"2012-04": {"total":3054.43, "East - North East":3054.43},
 			"2012-05": {"total":3367.66, "East - North East":2773.44, "City Development":594.22},
-			"2012-06": {"total":4366.94, "East - North East":3329.36, "City Development":589.50, "Central & Corporate Functions":448.08},
+			"2012-06": {"total":4366.94, "City Development":589.50, "East - North East":3329.36, "Central & Corporate Functions":448.08},
 			"2012-07": {"total":2540.12, "East - North East":2540.12},
-			"2012-08": {"total":6722.06, "Central & Corporate Functions":525.72, "City Development":870.22, "East - North East":5326.12},
+			"2012-08": {"total":6722.06, "Central & Corporate Functions":525.72, "East - North East":5326.12, "City Development":870.22},
 			"2012-09": {"total":4083.57, "East - North East":2843.72, "City Development":1239.85},
 			"2012-10": {"total":2396.77, "Central & Corporate Functions":659.23, "East - North East":1737.54},
 			"2012-11": {"total":1240.73, "East - North East":1240.73},
-			"2012-12": {"total":3942.26, "City Development":1902.42, "East - North East":2039.84},
+			"2012-12": {"total":3942.26, "East - North East":2039.84, "City Development":1902.42},
 			"2013-01": {"total":471.74, "Central & Corporate":471.74},
-			"2013-03": {"total":1837.66, "Central & Corporate":798.74, "City Development":1038.92},
+			"2013-03": {"total":1837.66, "City Development":1038.92, "Central & Corporate":798.74},
 			"2013-04": {"total":2273.74, "City Development":2273.74},
 			"2013-06": {"total":1481.14, "Central & Corporate":1481.14},
 			"2013-09": {"total":3668.45, "City Development":2245.51, "Central & Corporate":1422.94},
 			"2013-10": {"total":424.00, "Central & Corporate":424.00},
-			"2013-12": {"total":1673.17, "City Development":801.68, "Central & Corporate":871.49},
+			"2013-12": {"total":1673.17, "Central & Corporate":871.49, "City Development":801.68},
 			"2014-01": {"total":1218.09, "Central & Corporate":1218.09},
-			"2014-02": {"total":1822.85, "Central & Corporate":1270.47, "City Development":552.38},
+			"2014-02": {"total":1822.85, "City Development":552.38, "Central & Corporate":1270.47},
 			"2014-03": {"total":248.83, "City Development":248.83},
 			"2014-04": {"total":2249.50, "City Development":2249.50},
 			"2014-06": {"total":918.17, "City Development":918.17},
 			"2014-07": {"total":902.80, "City Development":902.80},
 			"2014-08": {"total":29.50, "Central & Corporate":29.50},
-			"2014-09": {"total":433.37, "Central & Corporate":87.05, "City Development":346.32},
+			"2014-09": {"total":433.37, "City Development":346.32, "Central & Corporate":87.05},
 			"2014-10": {"total":1487.54, "Central & Corporate":276.34, "City Development":1211.20},
 			"2014-11": {"total":427.51, "Central & Corporate":41.10, "City Development":386.41},
-			"2014-12": {"total":434.59, "Central & Corporate":119.50, "City Development":315.09},
+			"2014-12": {"total":434.59, "City Development":315.09, "Central & Corporate":119.50},
 			"2015-01": {"total":283.96, "Central & Corporate":283.96},
 			"2015-02": {"total":35.44, "Central & Corporate":35.44},
 			"2015-03": {"total":57.35, "Central & Corporate":57.35},
-			"2015-04": {"total":421.30, "City Development":276.36, "Central & Corporate":144.94},
-			"2015-06": {"total":1084.35, "Central & Corporate":13.13, "City Development":1071.22},
+			"2015-04": {"total":421.30, "Central & Corporate":144.94, "City Development":276.36},
+			"2015-06": {"total":1084.35, "City Development":1071.22, "Central & Corporate":13.13},
 			"2015-07": {"total":139.06, "Central & Corporate":41.10, "City Development":97.96},
-			"2015-08": {"total":2241.81, "City Development":2127.13, "Central & Corporate":114.68},
-			"2015-09": {"total":1543.85, "City Development":1466.88, "Central & Corporate":76.97},
-			"2015-10": {"total":1225.39, "City Development":1172.33, "Central & Corporate":53.06},
+			"2015-08": {"total":2241.81, "Central & Corporate":114.68, "City Development":2127.13},
+			"2015-09": {"total":1543.85, "Central & Corporate":76.97, "City Development":1466.88},
+			"2015-10": {"total":1225.39, "Central & Corporate":53.06, "City Development":1172.33},
 			"2015-11": {"total":454.62, "Central & Corporate":454.62},
-			"2015-12": {"total":411.68, "City Development":278.46, "Central & Corporate":133.22},
+			"2015-12": {"total":411.68, "Central & Corporate":133.22, "City Development":278.46},
 			"2016-01": {"total":261.82, "Central & Corporate":261.82},
 			"2016-02": {"total":189.12, "City Development":189.12},
 			"2016-03": {"total":1398.66, "Central & Corporate":56.16, "City Development":1342.50},
-			"2016-04": {"total":277.56, "City Development":151.03, "Environment & Housing":126.53},
+			"2016-04": {"total":277.56, "Environment & Housing":126.53, "City Development":151.03},
 			"2016-05": {"total":157.44, "Environment & Housing":157.44},
-			"2016-06": {"total":1047.76, "City Development":666.36, "Environment & Housing":381.40},
-			"2016-07": {"total":674.42, "City Development":499.57, "Environment & Housing":174.85},
+			"2016-06": {"total":1047.76, "Environment & Housing":381.40, "City Development":666.36},
+			"2016-07": {"total":674.42, "Environment & Housing":174.85, "City Development":499.57},
 			"2016-08": {"total":95.36, "Environment & Housing":95.36},
 			"2017-01": {"total":83.98, "Environment & Housing":16.77, "City Development":67.21},
 			"2017-03": {"total":1041.30, "Environment & Housing":135.62, "City Development":905.68},
 			"2017-04": {"total":409.62, "City Development":52.50, "Environment & Housing":357.12},
 			"2017-05": {"total":338.67, "City Development":338.67},
-			"2017-06": {"total":707.09, "Environment & Housing":48.59, "City Development":658.50},
+			"2017-06": {"total":707.09, "City Development":658.50, "Environment & Housing":48.59},
 			"2017-10": {"total":705.91, "Resources and Housing":612.91, "City Development":93.00},
 			"2017-11": {"total":623.42, "City Development":623.42},
 			"2018-01": {"total":38.25, "Resources and Housing":38.25},
-			"2018-03": {"total":250.35, "Resources and Housing":22.86, "City Development":227.49},
+			"2018-03": {"total":250.35, "City Development":227.49, "Resources and Housing":22.86},
 			"2018-04": {"total":390.21, "City Development":390.21},
-			"2018-06": {"total":884.36, "City Development":884.36},
-			"2018-07": {"total":526.82, "City Development":526.82},
-			"2018-08": {"total":1055.10, "City Development":1055.10}
+			"2018-06": {"total":884.36, "City Development":884.36}
 		}
 	},
 	"2523": {
@@ -550,8 +539,6 @@
 			"2018-04": {"total":682.20, "Communities and Environment":682.20},
 			"2018-05": {"total":96.20, "Communities and Environment":96.20},
 			"2018-06": {"total":685.12, "Communities and Environment":685.12},
-			"2018-07": {"total":200.65, "Communities and Environment":200.65},
-			"2018-08": {"total":786.80, "Communities and Environment":786.80},
 			"2018-09": {"total":395.16, "Communities and Environment":395.16}
 		}
 	},
@@ -568,7 +555,7 @@
 			"2014-03": {"total":1665.90, "City Development":1665.90},
 			"2014-06": {"total":149.46, "City Development":149.46},
 			"2014-07": {"total":476.70, "City Development":476.70},
-			"2014-11": {"total":2154.39, "Childrens Services":303.39, "City Development":1851.00},
+			"2014-11": {"total":2154.39, "City Development":1851.00, "Childrens Services":303.39},
 			"2014-12": {"total":95.61, "City Development":95.61},
 			"2015-02": {"total":151.20, "Childrens Services":151.20},
 			"2015-03": {"total":280.10, "City Development":280.10},
@@ -628,7 +615,7 @@
 	},
 	"2535": {
 		"name": "Arrigadeen Nursing Home",
-		"total": 104875.94,
+		"total": 103528.74,
 		"monthly": {
 			"2010-12": {"total":1367.92, "Adult Social Care":1367.92},
 			"2011-01": {"total":1367.92, "Adult Social Care":1367.92},
@@ -638,7 +625,6 @@
 			"2011-05": {"total":1328.48, "Adult Social Care":1328.48},
 			"2011-06": {"total":1348.20, "Adult Social Care":1348.20},
 			"2011-07": {"total":1344.20, "Adult Social Care":1344.20},
-			"2011-08": {"total":1347.20, "Adult Social Care":1347.20},
 			"2011-09": {"total":2694.40, "Adult Social Care":2694.40},
 			"2011-10": {"total":1347.20, "Adult Social Care":1347.20},
 			"2011-11": {"total":1347.20, "Adult Social Care":1347.20},
@@ -708,9 +694,7 @@
 		"total": 72,
 		"monthly": {
 			"2018-04": {"total":14.40, "Children and Families":14.40},
-			"2018-05": {"total":14.40, "Children and Families":14.40},
-			"2018-06": {"total":14.40, "Children and Families":14.40},
-			"2018-07": {"total":28.80, "Children and Families":28.80}
+			"2018-05": {"total":14.40, "Children and Families":14.40}
 		}
 	},
 	"2537": {
@@ -741,8 +725,7 @@
 			"2017-05": {"total":4700.00, "City Development":4700.00},
 			"2017-06": {"total":2320.00, "City Development":2320.00},
 			"2017-11": {"total":5395.00, "City Development":5395.00},
-			"2018-06": {"total":9000.00, "City Development":9000.00},
-			"2018-08": {"total":602.00, "City Development":602.00}
+			"2018-06": {"total":9000.00, "City Development":9000.00}
 		}
 	},
 	"2540": {
@@ -781,7 +764,7 @@
 	},
 	"2542": {
 		"name": "Arrow Commercial Centre Huddersfield Ltd",
-		"total": 289886.73,
+		"total": 289850.73,
 		"monthly": {
 			"2015-08": {"total":343.01, "Central & Corporate":343.01},
 			"2015-09": {"total":586.09, "Central & Corporate":586.09},
@@ -806,18 +789,16 @@
 			"2017-05": {"total":1103.50, "Civic Enterprise Leeds":1103.50},
 			"2017-06": {"total":19370.25, "Civic Enterprise Leeds":19370.25},
 			"2017-08": {"total":14935.86, "Civic Enterprise Leeds":14935.86},
-			"2017-09": {"total":12345.39, "Civic Enterprise Leeds":12322.19, "Children and Families":23.20},
+			"2017-09": {"total":12345.39, "Children and Families":23.20, "Civic Enterprise Leeds":12322.19},
 			"2017-10": {"total":2718.70, "Resources and Housing":2718.70},
 			"2017-11": {"total":13145.90, "Resources and Housing":13145.90},
 			"2017-12": {"total":5151.85, "Resources and Housing":5151.85},
 			"2018-01": {"total":393.84, "Resources and Housing":393.84},
 			"2018-02": {"total":17058.90, "Resources and Housing":17058.90},
-			"2018-03": {"total":14898.37, "Children and Families":236.50, "Resources and Housing":14661.87},
+			"2018-03": {"total":14898.37, "Resources and Housing":14661.87, "Children and Families":236.50},
 			"2018-04": {"total":5970.39, "Resources and Housing":5970.39},
 			"2018-05": {"total":9056.98, "Resources and Housing":9056.98},
-			"2018-06": {"total":9707.80, "Resources and Housing":9113.98, "Children and Families":593.82},
-			"2018-07": {"total":28459.26, "Resources and Housing":28459.26},
-			"2018-08": {"total":8478.65, "Resources and Housing":8478.65},
+			"2018-06": {"total":9707.80, "Children and Families":593.82, "Resources and Housing":9113.98},
 			"2018-09": {"total":2563.53, "Resources and Housing":2563.53}
 		}
 	},
@@ -838,7 +819,7 @@
 		"total": 90372.68,
 		"monthly": {
 			"2014-11": {"total":30699.62, "Central & Corporate":30699.62},
-			"2014-12": {"total":36805.54, "Central & Corporate":36611.24, "Strategic Landlord":194.30},
+			"2014-12": {"total":36805.54, "Strategic Landlord":194.30, "Central & Corporate":36611.24},
 			"2015-01": {"total":22867.52, "Strategic Landlord":160.90, "Central & Corporate":22706.62}
 		}
 	},
@@ -888,7 +869,7 @@
 		"total": 1003.33,
 		"monthly": {
 			"2017-03": {"total":83.33, "Environment & Housing":83.33},
-			"2017-12": {"total":920.00, "Communities and Environment":100.00, "Resources and Housing":820.00}
+			"2017-12": {"total":920.00, "Resources and Housing":820.00, "Communities and Environment":100.00}
 		}
 	}
 	}

@@ -2,20 +2,77 @@
 	"range": ["2010-10","2018-09"],
 	"data": {
 	"30150": {
+		"name": "Salford Toytown",
+		"total": 36.68,
+		"monthly": {
+			"2018-01": {"total":36.68, "Children and Families":36.68}
+		}
+	},
+	"30151": {
+		"name": "Salford Van Hire",
+		"total": 469079.760000001,
+		"monthly": {
+			"2011-02": {"total":881.00, "Central & Corporate Functions":881.00},
+			"2011-03": {"total":3138.00, "Central & Corporate Functions":3138.00},
+			"2011-04": {"total":993.42, "City Development":993.42},
+			"2011-05": {"total":1476.75, "Central & Corporate Functions":1476.75},
+			"2011-06": {"total":3014.00, "Central & Corporate Functions":3014.00},
+			"2011-07": {"total":424.00, "City Development":424.00},
+			"2011-10": {"total":1006.00, "Central & Corporate Functions":1006.00},
+			"2011-11": {"total":1156.00, "Central & Corporate Functions":1156.00},
+			"2011-12": {"total":1172.38, "Central & Corporate Functions":1172.38},
+			"2012-02": {"total":420.00, "Central & Corporate Functions":420.00},
+			"2012-03": {"total":581.68, "Central & Corporate Functions":581.68},
+			"2012-04": {"total":509.40, "Central & Corporate Functions":509.40},
+			"2012-05": {"total":1595.71, "Central & Corporate Functions":1595.71},
+			"2012-06": {"total":3742.33, "Central & Corporate Functions":3742.33},
+			"2012-07": {"total":1276.95, "Central & Corporate Functions":1276.95},
+			"2012-08": {"total":2062.62, "Central & Corporate Functions":2062.62},
+			"2012-09": {"total":967.08, "Central & Corporate Functions":967.08},
+			"2012-10": {"total":5339.10, "Central & Corporate Functions":3486.62, "City Development":1852.48},
+			"2012-11": {"total":1788.82, "Central & Corporate Functions":1788.82},
+			"2012-12": {"total":1272.00, "Central & Corporate Functions":1272.00},
+			"2013-01": {"total":1282.00, "Central & Corporate":1282.00},
+			"2013-02": {"total":5633.88, "Central & Corporate":5633.88},
+			"2013-03": {"total":2590.90, "Central & Corporate":2590.90},
+			"2013-04": {"total":452.97, "Central & Corporate":452.97},
+			"2013-05": {"total":3847.29, "Central & Corporate":3847.29},
+			"2013-06": {"total":475.00, "Central & Corporate":475.00},
+			"2013-07": {"total":3487.27, "Central & Corporate":3487.27},
+			"2013-08": {"total":2577.83, "Central & Corporate":2577.83},
+			"2013-09": {"total":4611.50, "Central & Corporate":4611.50},
+			"2013-10": {"total":2798.12, "City Development":841.64, "Central & Corporate":1956.48},
+			"2013-11": {"total":6435.47, "Central & Corporate":6435.47},
+			"2013-12": {"total":4281.76, "Central & Corporate":4281.76},
+			"2014-01": {"total":25205.52, "Central & Corporate":25205.52},
+			"2014-02": {"total":41432.71, "Central & Corporate":41432.71},
+			"2014-03": {"total":28560.96, "Central & Corporate":28560.96},
+			"2014-04": {"total":34881.42, "Central & Corporate":34881.42},
+			"2014-05": {"total":27801.49, "Central & Corporate":27801.49},
+			"2014-06": {"total":30906.96, "Central & Corporate":30690.96, "Childrens Services":216.00},
+			"2014-07": {"total":29155.29, "Central & Corporate":28939.29, "Childrens Services":216.00},
+			"2014-08": {"total":38461.72, "Central & Corporate":38461.72},
+			"2014-09": {"total":28100.16, "Central & Corporate":28100.16},
+			"2014-10": {"total":39911.15, "Central & Corporate":36223.76, "City Development":2916.09, "Environment & Housing":771.30},
+			"2014-11": {"total":39152.47, "Central & Corporate":38381.17, "Environment & Housing":771.30},
+			"2014-12": {"total":33798.68, "Environment & Housing":922.07, "Central & Corporate":32876.61}
+		}
+	},
+	"30152": {
 		"name": "Salford Van Hire Leeds",
 		"total": 156,
 		"monthly": {
 			"2016-12": {"total":156.00, "Childrens Services":156.00}
 		}
 	},
-	"30151": {
+	"30153": {
 		"name": "Salford Van Hire Ltd",
 		"alternate-names": [
 			"Salford Van Hire Limited"
 		],
 		"total": 1546813.65,
 		"monthly": {
-			"2015-01": {"total":32732.82, "Central & Corporate":32697.82, "City Development":35.00},
+			"2015-01": {"total":32732.82, "City Development":35.00, "Central & Corporate":32697.82},
 			"2015-02": {"total":30914.93, "Central & Corporate":30914.93},
 			"2015-03": {"total":41967.20, "Central & Corporate":41967.20},
 			"2015-04": {"total":42264.04, "Central & Corporate":42264.04},
@@ -24,7 +81,7 @@
 			"2015-07": {"total":77169.78, "Central & Corporate":77169.78},
 			"2015-08": {"total":25032.63, "Central & Corporate":25032.63},
 			"2015-09": {"total":31116.06, "Central & Corporate":31086.06, "Environment & Housing":30.00},
-			"2015-10": {"total":45496.07, "City Development":3672.99, "Civic Enterprise Leeds":41823.08},
+			"2015-10": {"total":45496.07, "Civic Enterprise Leeds":41823.08, "City Development":3672.99},
 			"2015-11": {"total":54774.33, "Insurance":11970.00, "Civic Enterprise Leeds":42804.33},
 			"2015-12": {"total":49394.81, "Environment & Housing":628.57, "Civic Enterprise Leeds":48766.24},
 			"2016-01": {"total":24625.65, "Civic Enterprise Leeds":24625.65},
@@ -50,19 +107,17 @@
 			"2017-09": {"total":22026.84, "Civic Enterprise Leeds":22026.84},
 			"2017-10": {"total":26083.19, "City Development":5228.96, "Resources and Housing":20854.23},
 			"2017-11": {"total":36002.14, "Resources and Housing":35790.14, "City Development":212.00},
-			"2017-12": {"total":26886.23, "Communities and Environment":838.30, "City Development":369.56, "Resources and Housing":25678.37},
-			"2018-01": {"total":35145.05, "City Development":636.00, "Resources and Housing":34509.05},
-			"2018-02": {"total":67544.77, "Resources and Housing":36067.02, "City Development":212.00, "Insurance":31265.75},
+			"2017-12": {"total":26886.23, "Resources and Housing":25678.37, "Communities and Environment":838.30, "City Development":369.56},
+			"2018-01": {"total":35145.05, "Resources and Housing":34509.05, "City Development":636.00},
+			"2018-02": {"total":67544.77, "Insurance":31265.75, "Resources and Housing":36067.02, "City Development":212.00},
 			"2018-03": {"total":24609.66, "Resources and Housing":24594.66, "City Development":15.00},
 			"2018-04": {"total":38669.25, "Resources and Housing":38669.25},
 			"2018-05": {"total":8719.98, "Resources and Housing":8719.98},
 			"2018-06": {"total":38747.55, "Resources and Housing":38747.55},
-			"2018-07": {"total":49010.00, "Resources and Housing":49010.00},
-			"2018-08": {"total":42731.07, "Resources and Housing":42731.07},
 			"2018-09": {"total":20198.96, "Resources and Housing":20198.96}
 		}
 	},
-	"30152": {
+	"30154": {
 		"name": "Salisbury Nhs Foundation Trust",
 		"total": 2543,
 		"monthly": {
@@ -82,7 +137,7 @@
 			"2018-02": {"total":101.00, "Adults and Health":101.00}
 		}
 	},
-	"30153": {
+	"30155": {
 		"name": "Salix Fiance",
 		"total": 444803.05,
 		"monthly": {
@@ -97,39 +152,37 @@
 			"2014-09": {"total":31405.67, "City Development":31405.67}
 		}
 	},
-	"30154": {
+	"30156": {
 		"name": "Salix River & Wetland Services Ltd",
 		"total": 16727.82,
 		"monthly": {
-			"2014-11": {"total":4569.00, "Environment & Housing":4569.00},
-			"2018-07": {"total":10644.32, "Communities and Environment":10644.32},
-			"2018-08": {"total":1514.50, "Communities and Environment":1514.50}
+			"2014-11": {"total":4569.00, "Environment & Housing":4569.00}
 		}
 	},
-	"30155": {
+	"30157": {
 		"name": "Salix Schools",
 		"total": 95899,
 		"monthly": {
 			"2017-02": {"total":42899.00, "Central & Corporate":39399.00, "Childrens Services":3500.00},
 			"2017-06": {"total":28000.00, "Resources and Housing":24000.00, "Children and Families":4000.00},
-			"2018-03": {"total":25000.00, "Children and Families":2000.00, "Resources and Housing":23000.00}
+			"2018-03": {"total":25000.00, "Resources and Housing":23000.00, "Children and Families":2000.00}
 		}
 	},
-	"30156": {
+	"30158": {
 		"name": "Sallie Wareham",
 		"total": 500,
 		"monthly": {
 			"2014-11": {"total":500.00, "Environment & Housing":500.00}
 		}
 	},
-	"30157": {
+	"30159": {
 		"name": "Sally Ann Shepherdson",
 		"total": 500,
 		"monthly": {
 			"2012-02": {"total":500.00, "City Development":500.00}
 		}
 	},
-	"30158": {
+	"30160": {
 		"name": "Sally Beaumont",
 		"total": 32424.24,
 		"monthly": {
@@ -143,24 +196,22 @@
 			"2017-04": {"total":5080.35, "Childrens Services":5080.35},
 			"2017-09": {"total":1830.89, "Children and Families":1830.89},
 			"2017-10": {"total":2293.19, "Children and Families":2293.19},
-			"2017-11": {"total":4259.85, "Children and Families":3910.00, "Resources and Housing":349.85},
+			"2017-11": {"total":4259.85, "Resources and Housing":349.85, "Children and Families":3910.00},
 			"2017-12": {"total":939.23, "Children and Families":939.23},
 			"2018-02": {"total":789.85, "Children and Families":789.85},
 			"2018-05": {"total":948.00, "Children and Families":948.00},
 			"2018-06": {"total":2200.50, "Children and Families":2200.50},
-			"2018-07": {"total":2066.61, "Children and Families":2066.61},
-			"2018-08": {"total":699.69, "Children and Families":699.69},
 			"2018-09": {"total":1727.98, "Children and Families":1727.98}
 		}
 	},
-	"30159": {
+	"30161": {
 		"name": "Sally Bradley",
 		"total": 11747.15,
 		"monthly": {
 			"2011-01": {"total":11747.15, "Childrens Services":11747.15}
 		}
 	},
-	"30160": {
+	"30162": {
 		"name": "Sally Brown",
 		"total": 4200,
 		"monthly": {
@@ -169,7 +220,7 @@
 			"2011-04": {"total":2200.00, "Education Leeds":2200.00}
 		}
 	},
-	"30161": {
+	"30163": {
 		"name": "Sally Bryant",
 		"total": 162,
 		"monthly": {
@@ -177,7 +228,7 @@
 			"2015-11": {"total":132.00, "City Development":132.00}
 		}
 	},
-	"30162": {
+	"30164": {
 		"name": "Sally Deacon",
 		"total": 4067.5,
 		"monthly": {
@@ -185,21 +236,21 @@
 			"2011-06": {"total":1867.50, "Childrens Services":1867.50}
 		}
 	},
-	"30163": {
+	"30165": {
 		"name": "Sally Gore",
 		"total": 1550,
 		"monthly": {
 			"2012-04": {"total":1550.00, "Childrens Services":1550.00}
 		}
 	},
-	"30164": {
+	"30166": {
 		"name": "Sally Grainger",
 		"total": 590,
 		"monthly": {
 			"2011-09": {"total":590.00, "City Development":590.00}
 		}
 	},
-	"30165": {
+	"30167": {
 		"name": "Sally Morgan Enterprises Ltd",
 		"total": 84573.5,
 		"monthly": {
@@ -211,7 +262,7 @@
 			"2015-04": {"total":18738.45, "City Development":18738.45}
 		}
 	},
-	"30166": {
+	"30168": {
 		"name": "Sally Morgan Entertainments Ltd",
 		"total": 30871.8,
 		"monthly": {
@@ -219,35 +270,35 @@
 			"2017-12": {"total":14997.60, "City Development":14997.60}
 		}
 	},
-	"30167": {
+	"30169": {
 		"name": "Sally Pointer",
 		"total": 550,
 		"monthly": {
 			"2012-10": {"total":550.00, "City Development":550.00}
 		}
 	},
-	"30168": {
+	"30170": {
 		"name": "Sally Ruthworth",
 		"total": 1000,
 		"monthly": {
 			"2013-04": {"total":1000.00, "Environment & Neighbourhoods":1000.00}
 		}
 	},
-	"30169": {
+	"30171": {
 		"name": "Sally Salon Servic",
 		"total": 48.98,
 		"monthly": {
 			"2018-04": {"total":48.98, "Children and Families":48.98}
 		}
 	},
-	"30170": {
+	"30172": {
 		"name": "Sally Salon Services",
 		"total": 247.46,
 		"monthly": {
 			"2014-08": {"total":247.46, "Childrens Services":247.46}
 		}
 	},
-	"30171": {
+	"30173": {
 		"name": "Sally-Anne Deacon",
 		"total": 1430,
 		"monthly": {
@@ -255,35 +306,35 @@
 			"2018-06": {"total":1250.00, "Children and Families":1250.00}
 		}
 	},
-	"30172": {
+	"30174": {
 		"name": "Salmon & Trout Associaition",
 		"total": 175,
 		"monthly": {
 			"2016-10": {"total":175.00, "Environment & Housing":175.00}
 		}
 	},
-	"30173": {
+	"30175": {
 		"name": "Salons Direct Ltd",
 		"total": 2325.56,
 		"monthly": {
 			"2013-04": {"total":2325.56, "Childrens Services":2325.56}
 		}
 	},
-	"30174": {
+	"30176": {
 		"name": "Salonwear Direct",
 		"total": 56.15,
 		"monthly": {
 			"2015-09": {"total":56.15, "Childrens Services":56.15}
 		}
 	},
-	"30175": {
+	"30177": {
 		"name": "Salsa Celtica Ltd",
 		"total": 3500,
 		"monthly": {
 			"2011-06": {"total":3500.00, "City Development":3500.00}
 		}
 	},
-	"30176": {
+	"30178": {
 		"name": "Salsa4fun",
 		"total": 3600,
 		"monthly": {
@@ -291,27 +342,27 @@
 			"2014-07": {"total":1800.00, "Environment & Housing":1800.00}
 		}
 	},
-	"30177": {
+	"30179": {
 		"name": "Salt Pots Ceramic Stud",
 		"total": 30,
 		"monthly": {
-			"2018-06": {"total":30.00, "Children and Families":30.00}
+
 		}
 	},
-	"30178": {
+	"30180": {
 		"name": "Salt Union Ltd",
 		"total": 618399.32,
 		"monthly": {
 			"2013-09": {"total":76992.02, "City Development":76992.02},
 			"2013-10": {"total":111849.11, "City Development":111849.11},
 			"2013-11": {"total":109229.20, "City Development":109229.20},
-			"2013-12": {"total":216412.54, "City Development":215320.63, "Environment & Housing":1091.91},
+			"2013-12": {"total":216412.54, "Environment & Housing":1091.91, "City Development":215320.63},
 			"2014-01": {"total":88639.71, "City Development":88639.71},
 			"2014-02": {"total":1076.74, "Environment & Housing":1076.74},
 			"2014-06": {"total":14200.00, "City Development":14200.00}
 		}
 	},
-	"30179": {
+	"30181": {
 		"name": "Salt'S Catering Ltd",
 		"total": 1806.7,
 		"monthly": {
@@ -319,14 +370,14 @@
 			"2016-03": {"total":760.00, "City Development":760.00}
 		}
 	},
-	"30180": {
+	"30182": {
 		"name": "Saltaire Bar",
 		"total": 5.69,
 		"monthly": {
 			"2018-04": {"total":5.69, "Resources and Housing":5.69}
 		}
 	},
-	"30181": {
+	"30183": {
 		"name": "Saltaire Medical Practice",
 		"total": 303.13,
 		"monthly": {
@@ -336,28 +387,28 @@
 			"2018-01": {"total":38.00, "Resources and Housing":38.00}
 		}
 	},
-	"30182": {
+	"30184": {
 		"name": "Saltoun Surgery",
 		"total": 75.71,
 		"monthly": {
-			"2018-07": {"total":75.71, "Children and Families":75.71}
+
 		}
 	},
-	"30183": {
+	"30185": {
 		"name": "Salts Diner",
 		"total": 85.96,
 		"monthly": {
 			"2015-07": {"total":85.96, "Central & Corporate":85.96}
 		}
 	},
-	"30184": {
+	"30186": {
 		"name": "Salts Mill - Salts",
 		"total": 4.88,
 		"monthly": {
 			"2017-02": {"total":4.88, "Childrens Services":4.88}
 		}
 	},
-	"30185": {
+	"30187": {
 		"name": "Salus",
 		"total": 25616.05,
 		"monthly": {
@@ -366,7 +417,7 @@
 			"2016-12": {"total":5726.40, "Adult Social Care":5726.40}
 		}
 	},
-	"30186": {
+	"30188": {
 		"name": "Salus - Withnell Hall - Ltd",
 		"total": 28917.16,
 		"monthly": {
@@ -380,7 +431,7 @@
 			"2018-04": {"total":6232.95, "Adults and Health":6232.95}
 		}
 	},
-	"30187": {
+	"30189": {
 		"name": "Salute",
 		"total": 247.6,
 		"monthly": {
@@ -388,36 +439,33 @@
 			"2018-02": {"total":147.60, "Adults and Health":147.60}
 		}
 	},
-	"30188": {
+	"30190": {
 		"name": "Salutem Ld Bidco Iv Ltd",
 		"alternate-names": [
 			"Salutem Ld Bidco Iv Limited"
 		],
 		"total": 11978.95,
 		"monthly": {
-			"2018-07": {"total":3338.50, "Adults and Health":3338.50},
-			"2018-08": {"total":6119.50, "Social Services Pooled Budgets":3549.00, "Adults and Health":2570.50},
-			"2018-09": {"total":2520.95, "Adults and Health":2280.95, "Social Services Pooled Budgets":240.00}
+			"2018-09": {"total":2520.95, "Social Services Pooled Budgets":240.00, "Adults and Health":2280.95}
 		}
 	},
-	"30189": {
+	"30191": {
 		"name": "Salvation Army",
-		"total": 1139791.23,
+		"total": 1114282.94,
 		"monthly": {
 			"2011-02": {"total":28047.08, "Childrens Services":2538.79, "Environment & Neighbourhoods":25508.29},
 			"2011-03": {"total":60168.38, "Childrens Services":34660.09, "Environment & Neighbourhoods":25508.29},
-			"2011-04": {"total":47206.64, "Environment & Neighbourhoods":25508.29, "Childrens Services":21698.35},
+			"2011-04": {"total":47206.64, "Childrens Services":21698.35, "Environment & Neighbourhoods":25508.29},
 			"2011-05": {"total":25508.29, "Environment & Neighbourhoods":25508.29},
-			"2011-06": {"total":57360.62, "Childrens Services":31852.33, "Environment & Neighbourhoods":25508.29},
-			"2011-07": {"total":58307.65, "Environment & Neighbourhoods":25508.29, "Childrens Services":32799.36},
-			"2011-08": {"total":25508.29, "Environment & Neighbourhoods":25508.29},
-			"2011-09": {"total":58405.54, "Environment & Neighbourhoods":25508.29, "Childrens Services":32897.25},
+			"2011-06": {"total":57360.62, "Environment & Neighbourhoods":25508.29, "Childrens Services":31852.33},
+			"2011-07": {"total":58307.65, "Childrens Services":32799.36, "Environment & Neighbourhoods":25508.29},
+			"2011-09": {"total":58405.54, "Childrens Services":32897.25, "Environment & Neighbourhoods":25508.29},
 			"2011-10": {"total":27480.29, "Childrens Services":1972.00, "Environment & Neighbourhoods":25508.29},
-			"2011-11": {"total":44564.31, "Environment & Neighbourhoods":25508.29, "Childrens Services":19056.02},
-			"2011-12": {"total":61284.56, "Childrens Services":10267.98, "Environment & Neighbourhoods":51016.58},
+			"2011-11": {"total":44564.31, "Childrens Services":19056.02, "Environment & Neighbourhoods":25508.29},
+			"2011-12": {"total":61284.56, "Environment & Neighbourhoods":51016.58, "Childrens Services":10267.98},
 			"2012-01": {"total":33393.49, "Childrens Services":7885.20, "Environment & Neighbourhoods":25508.29},
-			"2012-02": {"total":32680.31, "Childrens Services":8083.03, "Environment & Neighbourhoods":24597.28},
-			"2012-03": {"total":55755.49, "Environment & Neighbourhoods":25508.29, "Childrens Services":30247.20},
+			"2012-02": {"total":32680.31, "Environment & Neighbourhoods":24597.28, "Childrens Services":8083.03},
+			"2012-03": {"total":55755.49, "Childrens Services":30247.20, "Environment & Neighbourhoods":25508.29},
 			"2012-04": {"total":33130.65, "Childrens Services":7622.36, "Environment & Neighbourhoods":25508.29},
 			"2012-05": {"total":25508.29, "Environment & Neighbourhoods":25508.29},
 			"2012-06": {"total":42330.05, "Childrens Services":16821.76, "Environment & Neighbourhoods":25508.29},
@@ -425,15 +473,15 @@
 			"2012-08": {"total":35077.54, "Childrens Services":16033.24, "Environment & Neighbourhoods":19044.30},
 			"2012-09": {"total":32162.99, "Childrens Services":21327.77, "Environment & Neighbourhoods":2884.31, "Social Services Pooled Budgets":7950.91},
 			"2012-10": {"total":2884.31, "Environment & Neighbourhoods":2884.31},
-			"2012-11": {"total":8391.29, "Childrens Services":2622.67, "Environment & Neighbourhoods":5768.62},
-			"2012-12": {"total":45333.39, "Childrens Services":37520.83, "Social Services Pooled Budgets":4928.25, "Environment & Neighbourhoods":2884.31},
-			"2013-01": {"total":17669.06, "Childrens Services":12747.74, "Social Services Pooled Budgets":2037.01, "Environment & Neighbourhoods":2884.31},
+			"2012-11": {"total":8391.29, "Environment & Neighbourhoods":5768.62, "Childrens Services":2622.67},
+			"2012-12": {"total":45333.39, "Social Services Pooled Budgets":4928.25, "Environment & Neighbourhoods":2884.31, "Childrens Services":37520.83},
+			"2013-01": {"total":17669.06, "Childrens Services":12747.74, "Environment & Neighbourhoods":2884.31, "Social Services Pooled Budgets":2037.01},
 			"2013-02": {"total":12012.27, "Childrens Services":9127.96, "Environment & Neighbourhoods":2884.31},
 			"2013-03": {"total":2884.31, "Environment & Neighbourhoods":2884.31},
-			"2013-04": {"total":23599.99, "Childrens Services":20715.68, "Environment & Neighbourhoods":2884.31},
+			"2013-04": {"total":23599.99, "Environment & Neighbourhoods":2884.31, "Childrens Services":20715.68},
 			"2013-05": {"total":16414.84, "Childrens Services":13530.53, "Environment & Housing":2884.31},
-			"2013-06": {"total":4921.32, "Childrens Services":2037.01, "Environment & Housing":2884.31},
-			"2013-07": {"total":11493.64, "Environment & Housing":2884.31, "Childrens Services":8609.33},
+			"2013-06": {"total":4921.32, "Environment & Housing":2884.31, "Childrens Services":2037.01},
+			"2013-07": {"total":11493.64, "Childrens Services":8609.33, "Environment & Housing":2884.31},
 			"2013-08": {"total":2884.31, "Environment & Housing":2884.31},
 			"2013-09": {"total":31038.93, "Environment & Housing":2884.31, "Childrens Services":28154.62},
 			"2013-10": {"total":6892.62, "Environment & Housing":2884.31, "Childrens Services":4008.31},
@@ -445,11 +493,10 @@
 			"2014-04": {"total":61360.49, "Childrens Services":61360.49},
 			"2014-09": {"total":8016.62, "Social Services Pooled Budgets":8016.62},
 			"2016-03": {"total":1000.00, "Strategic Accounts":1000.00},
-			"2017-06": {"total":200.00, "Strategic Accounts":200.00},
-			"2018-07": {"total":150.00, "Strategic Accounts":150.00}
+			"2017-06": {"total":200.00, "Strategic Accounts":200.00}
 		}
 	},
-	"30190": {
+	"30192": {
 		"name": "Salvation Army Church",
 		"total": 2170,
 		"monthly": {
@@ -464,7 +511,7 @@
 			"2016-03": {"total":378.00, "Childrens Services":378.00}
 		}
 	},
-	"30191": {
+	"30193": {
 		"name": "Salvation Army Leeds West Hunslet",
 		"total": 20190,
 		"monthly": {
@@ -475,7 +522,7 @@
 			"2015-06": {"total":3940.00, "Adult Social Care":3940.00}
 		}
 	},
-	"30192": {
+	"30194": {
 		"name": "Salvation Army South Leeds Initiative",
 		"total": 800,
 		"monthly": {
@@ -483,7 +530,7 @@
 			"2018-06": {"total":300.00, "Strategic Accounts":300.00}
 		}
 	},
-	"30193": {
+	"30195": {
 		"name": "Salvationist Publishin",
 		"total": 521.84,
 		"monthly": {
@@ -493,7 +540,7 @@
 			"2018-04": {"total":40.50, "Children and Families":40.50}
 		}
 	},
-	"30194": {
+	"30196": {
 		"name": "Salvo'S Restaurant Ltd",
 		"total": 668.75,
 		"monthly": {
@@ -501,14 +548,14 @@
 			"2016-07": {"total":500.00, "City Development":500.00}
 		}
 	},
-	"30195": {
+	"30197": {
 		"name": "Salvos",
 		"total": 90.9,
 		"monthly": {
 			"2014-03": {"total":90.90, "Childrens Services":90.90}
 		}
 	},
-	"30196": {
+	"30198": {
 		"name": "Salvus Consulting Ltd",
 		"total": 3517.5,
 		"monthly": {
@@ -517,25 +564,11 @@
 			"2013-08": {"total":1172.50, "Central & Corporate":1172.50}
 		}
 	},
-	"30197": {
+	"30199": {
 		"name": "Sam Barlow",
 		"total": 149,
 		"monthly": {
 			"2015-12": {"total":149.00, "City Development":149.00}
-		}
-	},
-	"30198": {
-		"name": "Sam Barret",
-		"total": 150,
-		"monthly": {
-			"2015-09": {"total":150.00, "City Development":150.00}
-		}
-	},
-	"30199": {
-		"name": "Sam Belinfante",
-		"total": 500,
-		"monthly": {
-			"2014-06": {"total":500.00, "City Development":500.00}
 		}
 	}
 	}
