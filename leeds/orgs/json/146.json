@@ -20,11 +20,12 @@
 		"monthly": {
 			"2011-03": {"total":1129.77, "Environment & Neighbourhoods":1129.77},
 			"2011-05": {"total":19056.35, "Environment & Neighbourhoods":795.25, "Central & Corporate Functions":18261.10},
+			"2011-08": {"total":726.33, "Central & Corporate Functions":726.33},
 			"2011-09": {"total":3500.00, "Environment & Neighbourhoods":3500.00},
 			"2011-11": {"total":16451.50, "Central & Corporate Functions":16451.50},
 			"2011-12": {"total":2550.00, "Central & Corporate Functions":2550.00},
 			"2012-01": {"total":19836.22, "Central & Corporate Functions":19836.22},
-			"2012-02": {"total":2199.18, "Central & Corporate Functions":1008.40, "Environment & Neighbourhoods":1190.78},
+			"2012-02": {"total":2199.18, "Environment & Neighbourhoods":1190.78, "Central & Corporate Functions":1008.40},
 			"2012-03": {"total":985.00, "Central & Corporate Functions":985.00},
 			"2012-04": {"total":2287.39, "Environment & Neighbourhoods":1688.19, "Central & Corporate Functions":599.20},
 			"2012-08": {"total":7846.69, "Environment & Neighbourhoods":3626.00, "Central & Corporate Functions":4220.69},
@@ -45,19 +46,19 @@
 			"2014-11": {"total":7800.00, "Central & Corporate":7800.00},
 			"2014-12": {"total":5087.50, "Environment & Housing":5087.50},
 			"2015-03": {"total":1289.83, "Environment & Housing":1289.83},
-			"2015-04": {"total":41404.00, "Environment & Housing":907.91, "Strategic Landlord":40496.09},
+			"2015-04": {"total":41404.00, "Strategic Landlord":40496.09, "Environment & Housing":907.91},
 			"2015-06": {"total":61410.00, "Central & Corporate":61410.00},
 			"2015-07": {"total":3000.00, "Adult Social Care":3000.00},
-			"2015-09": {"total":18766.64, "Environment & Housing":3600.00, "Central & Corporate":15166.64},
+			"2015-09": {"total":18766.64, "Central & Corporate":15166.64, "Environment & Housing":3600.00},
 			"2015-10": {"total":8161.35, "Environment & Housing":8161.35},
 			"2015-11": {"total":4318.46, "Environment & Housing":4318.46},
 			"2015-12": {"total":3873.85, "Environment & Housing":3873.85},
-			"2016-01": {"total":15980.00, "Environment & Housing":2000.00, "Central & Corporate":1950.00, "Citizens and Communities":12030.00},
-			"2016-04": {"total":116283.93, "Strategic Landlord":90958.66, "Citizens and Communities":11230.00, "Central & Corporate":10976.00, "Environment & Housing":3119.27},
+			"2016-01": {"total":15980.00, "Environment & Housing":2000.00, "Citizens and Communities":12030.00, "Central & Corporate":1950.00},
+			"2016-04": {"total":116283.93, "Environment & Housing":3119.27, "Citizens and Communities":11230.00, "Strategic Landlord":90958.66, "Central & Corporate":10976.00},
 			"2016-05": {"total":50000.00, "Strategic Landlord":50000.00},
 			"2016-06": {"total":26685.36, "Environment & Housing":1470.00, "Citizens and Communities":25215.36},
-			"2016-08": {"total":1510.47, "Environment & Housing":735.00, "Citizens and Communities":775.47},
-			"2016-09": {"total":19434.99, "Central & Corporate":14608.07, "Citizens and Communities":1901.92, "Environment & Housing":2925.00},
+			"2016-08": {"total":1510.47, "Citizens and Communities":775.47, "Environment & Housing":735.00},
+			"2016-09": {"total":19434.99, "Environment & Housing":2925.00, "Citizens and Communities":1901.92, "Central & Corporate":14608.07},
 			"2016-10": {"total":18255.00, "Citizens and Communities":11230.00, "Civic Enterprise Leeds":7025.00},
 			"2016-11": {"total":16302.00, "Environment & Housing":5259.00, "Central & Corporate":11043.00},
 			"2017-01": {"total":11230.00, "Citizens and Communities":11230.00},
@@ -70,7 +71,7 @@
 			"2017-09": {"total":6800.00, "Resources and Housing":6800.00},
 			"2017-10": {"total":14661.44, "Communities and Environment":14661.44},
 			"2017-11": {"total":6800.00, "Resources and Housing":6800.00},
-			"2017-12": {"total":16330.00, "Communities and Environment":11230.00, "Resources and Housing":5100.00},
+			"2017-12": {"total":16330.00, "Resources and Housing":5100.00, "Communities and Environment":11230.00},
 			"2018-01": {"total":96000.00, "Communities and Environment":96000.00},
 			"2018-02": {"total":3400.00, "Resources and Housing":3400.00},
 			"2018-03": {"total":12870.00, "Resources and Housing":12870.00},
@@ -78,8 +79,8 @@
 			"2018-06": {"total":2940.08, "Communities and Environment":2940.08},
 			"2018-07": {"total":18230.00, "Communities and Environment":11230.00, "Resources and Housing":7000.00},
 			"2018-08": {"total":1410.00, "Resources and Housing":1410.00},
-			"2018-09": {"total":58706.60, "Resources and Housing":57910.97, "Communities and Environment":795.63},
-			"2018-10": {"total":19449.69, "Communities and Environment":14774.69, "Resources and Housing":4675.00}
+			"2018-09": {"total":58706.60, "Communities and Environment":795.63, "Resources and Housing":57910.97},
+			"2018-10": {"total":19449.69, "Resources and Housing":4675.00, "Communities and Environment":14774.69}
 		}
 	},
 	"7302": {
@@ -274,14 +275,15 @@
 	},
 	"7318": {
 		"name": "Claimar Care Ltd",
-		"total": 521968.47,
+		"total": 633955.24,
 		"monthly": {
 			"2011-02": {"total":111602.16, "Adult Social Care":111602.16},
 			"2011-03": {"total":76831.59, "Adult Social Care":76831.59},
 			"2011-04": {"total":76543.97, "Adult Social Care":76543.97},
 			"2011-05": {"total":74339.45, "Adult Social Care":74339.45},
 			"2011-06": {"total":106219.66, "Adult Social Care":106219.66},
-			"2011-07": {"total":74628.06, "Adult Social Care":74628.06}
+			"2011-07": {"total":74628.06, "Adult Social Care":74628.06},
+			"2011-08": {"total":113790.35, "Adult Social Care":113790.35}
 		}
 	},
 	"7319": {
@@ -289,6 +291,7 @@
 		"total": 9911.79,
 		"monthly": {
 			"2011-07": {"total":3427.34, "Insurance":3427.34},
+			"2011-08": {"total":598.63, "Insurance":598.63},
 			"2011-09": {"total":581.04, "Insurance":581.04},
 			"2016-02": {"total":1036.40, "Insurance":1036.40},
 			"2016-09": {"total":1159.52, "Insurance":1159.52},

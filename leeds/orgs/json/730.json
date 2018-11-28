@@ -43,7 +43,7 @@
 			"2015-12": {"total":1590.00, "Civic Enterprise Leeds":1590.00},
 			"2016-10": {"total":3420.00, "Civic Enterprise Leeds":3420.00},
 			"2017-04": {"total":2105.00, "Civic Enterprise Leeds":2105.00},
-			"2017-07": {"total":18613.00, "Resources and Housing":14635.00, "Civic Enterprise Leeds":3978.00}
+			"2017-07": {"total":18613.00, "Civic Enterprise Leeds":3978.00, "Resources and Housing":14635.00}
 		}
 	},
 	"36504": {
@@ -215,20 +215,20 @@
 		"total": 176942.61,
 		"monthly": {
 			"2011-03": {"total":6932.00, "Childrens Services":6932.00},
-			"2011-04": {"total":4540.00, "Education Leeds":540.00, "East - North East":4000.00},
+			"2011-04": {"total":4540.00, "East - North East":4000.00, "Education Leeds":540.00},
 			"2011-09": {"total":1260.00, "Adult Social Care":1260.00},
 			"2011-11": {"total":2520.00, "Adult Social Care":2520.00},
 			"2012-03": {"total":1500.00, "East - North East":1500.00},
 			"2012-04": {"total":8695.00, "City Development":8695.00},
 			"2012-10": {"total":14305.00, "City Development":14305.00},
 			"2012-12": {"total":9730.00, "Adult Social Care":9730.00},
-			"2013-03": {"total":10405.00, "Adult Social Care":6255.00, "City Development":4150.00},
+			"2013-03": {"total":10405.00, "City Development":4150.00, "Adult Social Care":6255.00},
 			"2013-05": {"total":1280.00, "East - North East":1280.00},
 			"2013-07": {"total":2500.00, "Adult Social Care":2500.00},
 			"2013-10": {"total":1814.41, "Childrens Services":1814.41},
-			"2013-11": {"total":2131.16, "City Development":566.75, "Childrens Services":1564.41},
+			"2013-11": {"total":2131.16, "Childrens Services":1564.41, "City Development":566.75},
 			"2013-12": {"total":695.00, "Adult Social Care":695.00},
-			"2014-02": {"total":3174.41, "Environment & Housing":1360.00, "Childrens Services":1814.41},
+			"2014-02": {"total":3174.41, "Childrens Services":1814.41, "Environment & Housing":1360.00},
 			"2014-03": {"total":1564.41, "Childrens Services":1564.41},
 			"2014-04": {"total":12285.00, "City Development":12285.00},
 			"2014-05": {"total":1042.94, "Childrens Services":1042.94},
@@ -372,9 +372,9 @@
 		"name": "University Of Huddersfield",
 		"total": 31419,
 		"monthly": {
-			"2011-02": {"total":6445.00, "Adult Social Care":4140.00, "City Development":1110.00, "Central & Corporate Functions":1195.00},
+			"2011-02": {"total":6445.00, "City Development":1110.00, "Central & Corporate Functions":1195.00, "Adult Social Care":4140.00},
 			"2011-04": {"total":432.00, "Education Leeds":432.00},
-			"2011-12": {"total":19200.00, "Childrens Services":16800.00, "West - North West":2400.00},
+			"2011-12": {"total":19200.00, "West - North West":2400.00, "Childrens Services":16800.00},
 			"2012-02": {"total":2400.00, "Childrens Services":2400.00},
 			"2013-11": {"total":2570.00, "Central & Corporate":2570.00},
 			"2015-04": {"total":372.00, "Adult Social Care":372.00}
@@ -384,7 +384,7 @@
 		"name": "University Of Huddersfield Hec",
 		"total": 16079.23,
 		"monthly": {
-			"2011-04": {"total":4079.23, "West - North West":2290.00, "Childrens Services":1789.23},
+			"2011-04": {"total":4079.23, "Childrens Services":1789.23, "West - North West":2290.00},
 			"2012-02": {"total":1220.00, "Central & Corporate Functions":1220.00},
 			"2012-03": {"total":1200.00, "Childrens Services":1200.00},
 			"2012-12": {"total":790.00, "Childrens Services":790.00},
@@ -453,8 +453,9 @@
 	},
 	"36546": {
 		"name": "University Of Manchester",
-		"total": 24897.48,
+		"total": 45897.48,
 		"monthly": {
+			"2011-08": {"total":21000.00, "Central & Corporate Functions":21000.00},
 			"2013-01": {"total":1436.00, "Childrens Services":1436.00},
 			"2014-09": {"total":180.00, "Central & Corporate":180.00},
 			"2015-08": {"total":390.00, "Central & Corporate":390.00},

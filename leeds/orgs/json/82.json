@@ -36,7 +36,7 @@
 			"2017-05": {"total":13065.75, "Resources and Housing":13065.75},
 			"2017-07": {"total":4775.33, "Resources and Housing":4775.33},
 			"2017-08": {"total":5282.19, "Resources and Housing":5282.19},
-			"2017-11": {"total":4712.33, "Resources and Housing":1528.77, "Strategic Accounts":3183.56},
+			"2017-11": {"total":4712.33, "Strategic Accounts":3183.56, "Resources and Housing":1528.77},
 			"2018-01": {"total":7260.27, "Strategic Accounts":7260.27},
 			"2018-02": {"total":416.44, "Strategic Accounts":416.44},
 			"2018-03": {"total":5731.52, "Strategic Accounts":5731.52},
@@ -88,7 +88,7 @@
 			"2014-07": {"total":44500.00, "Central & Corporate":12500.00, "Adult Social Care":32000.00},
 			"2014-08": {"total":104665.10, "Adult Social Care":72425.25, "Strategic Accounts":200.00, "Central & Corporate":32039.85},
 			"2014-09": {"total":4366.68, "Central & Corporate":4166.68, "Strategic Accounts":200.00},
-			"2014-10": {"total":103930.18, "Central & Corporate":31504.93, "Adult Social Care":72425.25},
+			"2014-10": {"total":103930.18, "Adult Social Care":72425.25, "Central & Corporate":31504.93},
 			"2015-02": {"total":99763.50, "Central & Corporate":27338.25, "Adult Social Care":72425.25},
 			"2015-05": {"total":27388.25, "Central & Corporate":27388.25},
 			"2015-06": {"total":80425.25, "Adult Social Care":80425.25},
@@ -101,7 +101,7 @@
 			"2016-09": {"total":16000.00, "Adult Social Care":16000.00},
 			"2016-10": {"total":76804.00, "Adult Social Care":76804.00},
 			"2016-12": {"total":28691.25, "Public Health":28691.25},
-			"2017-02": {"total":105495.25, "Public Health":28691.25, "Adult Social Care":76804.00},
+			"2017-02": {"total":105495.25, "Adult Social Care":76804.00, "Public Health":28691.25},
 			"2017-05": {"total":102054.75, "Adults and Health":102054.75},
 			"2017-08": {"total":102054.75, "Adults and Health":102054.75},
 			"2017-11": {"total":102054.75, "Adults and Health":102054.75},
@@ -226,9 +226,10 @@
 	},
 	"4119": {
 		"name": "Biaza",
-		"total": 40018.28,
+		"total": 43201.47,
 		"monthly": {
 			"2011-04": {"total":741.00, "City Development":741.00},
+			"2011-08": {"total":3183.19, "City Development":3183.19},
 			"2011-09": {"total":741.00, "City Development":741.00},
 			"2012-03": {"total":774.50, "City Development":774.50},
 			"2012-06": {"total":774.50, "City Development":774.50},
@@ -410,7 +411,7 @@
 			"2016-12": {"total":2500.00, "Childrens Services":2500.00},
 			"2017-02": {"total":137500.00, "Adult Social Care":137500.00},
 			"2017-03": {"total":2500.00, "Childrens Services":2500.00},
-			"2017-05": {"total":249127.00, "Adults and Health":238625.00, "Children and Families":10502.00},
+			"2017-05": {"total":249127.00, "Children and Families":10502.00, "Adults and Health":238625.00},
 			"2017-06": {"total":2500.00, "Children and Families":2500.00},
 			"2017-08": {"total":238625.00, "Adults and Health":238625.00},
 			"2017-09": {"total":10502.00, "Children and Families":10502.00},
@@ -418,7 +419,7 @@
 			"2018-04": {"total":8640.00, "Children and Families":8640.00},
 			"2018-05": {"total":7500.00, "Children and Families":7500.00},
 			"2018-07": {"total":238625.00, "Adults and Health":238625.00},
-			"2018-08": {"total":243625.00, "Children and Families":5000.00, "Adults and Health":238625.00},
+			"2018-08": {"total":243625.00, "Adults and Health":238625.00, "Children and Families":5000.00},
 			"2018-09": {"total":8640.00, "Children and Families":8640.00}
 		}
 	},
@@ -478,7 +479,7 @@
 		"alternate-names": [
 			"Biffa Waste Services Limited"
 		],
-		"total": 38905651.34,
+		"total": 39835907.4,
 		"monthly": {
 			"2011-02": {"total":322049.91, "Environment & Neighbourhoods":322049.91},
 			"2011-03": {"total":2048677.13, "Environment & Neighbourhoods":2048677.13},
@@ -486,6 +487,7 @@
 			"2011-05": {"total":430828.62, "Environment & Neighbourhoods":430828.62},
 			"2011-06": {"total":788246.00, "Environment & Neighbourhoods":788246.00},
 			"2011-07": {"total":583868.57, "Environment & Neighbourhoods":583868.57},
+			"2011-08": {"total":930256.06, "Environment & Neighbourhoods":930256.06},
 			"2011-09": {"total":456136.99, "Environment & Neighbourhoods":456136.99},
 			"2011-10": {"total":645208.89, "Environment & Neighbourhoods":645208.89},
 			"2011-11": {"total":939540.13, "Environment & Neighbourhoods":939540.13},
@@ -496,8 +498,8 @@
 			"2012-04": {"total":452103.54, "Environment & Neighbourhoods":452103.54},
 			"2012-05": {"total":480748.48, "Environment & Neighbourhoods":480748.48},
 			"2012-06": {"total":289952.86, "Environment & Neighbourhoods":289281.90, "City Development":670.96},
-			"2012-07": {"total":1175932.71, "City Development":470.99, "Environment & Neighbourhoods":1175461.72},
-			"2012-08": {"total":674931.72, "Environment & Neighbourhoods":674114.51, "City Development":817.21},
+			"2012-07": {"total":1175932.71, "Environment & Neighbourhoods":1175461.72, "City Development":470.99},
+			"2012-08": {"total":674931.72, "City Development":817.21, "Environment & Neighbourhoods":674114.51},
 			"2012-09": {"total":595030.02, "City Development":1191.76, "Environment & Neighbourhoods":593838.26},
 			"2012-10": {"total":556932.84, "Environment & Neighbourhoods":556932.84},
 			"2012-11": {"total":665125.57, "Environment & Neighbourhoods":665125.57},
@@ -506,7 +508,7 @@
 			"2013-02": {"total":757599.35, "Environment & Neighbourhoods":757599.35},
 			"2013-03": {"total":520767.90, "Environment & Neighbourhoods":520767.90},
 			"2013-04": {"total":572693.73, "Environment & Neighbourhoods":572693.73},
-			"2013-05": {"total":859779.42, "Environment & Housing":599942.09, "Environment & Neighbourhoods":259837.33},
+			"2013-05": {"total":859779.42, "Environment & Neighbourhoods":259837.33, "Environment & Housing":599942.09},
 			"2013-06": {"total":855940.45, "Environment & Housing":855940.45},
 			"2013-07": {"total":642903.81, "Environment & Housing":642903.81},
 			"2013-08": {"total":466898.00, "Environment & Housing":466898.00},
@@ -515,7 +517,7 @@
 			"2013-11": {"total":655343.60, "Environment & Housing":655343.60},
 			"2013-12": {"total":638485.68, "Environment & Housing":638485.68},
 			"2014-01": {"total":516957.85, "Environment & Housing":516957.85},
-			"2014-02": {"total":491268.83, "Environment & Housing":491209.94, "City Development":58.89},
+			"2014-02": {"total":491268.83, "City Development":58.89, "Environment & Housing":491209.94},
 			"2014-03": {"total":745297.94, "City Development":58.89, "Environment & Housing":745239.05},
 			"2014-04": {"total":814115.02, "Environment & Housing":814115.02},
 			"2014-05": {"total":688832.56, "Environment & Housing":688832.56},
@@ -640,7 +642,8 @@
 		"name": "Big Hoo Ha Co",
 		"total": 1500,
 		"monthly": {
-			"2011-05": {"total":1000.00, "City Development":1000.00}
+			"2011-05": {"total":1000.00, "City Development":1000.00},
+			"2011-08": {"total":500.00, "Central & Corporate Functions":500.00}
 		}
 	},
 	"4142": {

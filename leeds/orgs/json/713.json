@@ -84,7 +84,7 @@
 			"2014-10": {"total":1000.00, "City Development":1000.00},
 			"2014-12": {"total":4000.00, "Central & Corporate":4000.00},
 			"2015-03": {"total":1296.00, "Childrens Services":1296.00},
-			"2015-09": {"total":1245.00, "Strategic Accounts":245.00, "Childrens Services":1000.00},
+			"2015-09": {"total":1245.00, "Childrens Services":1000.00, "Strategic Accounts":245.00},
 			"2015-12": {"total":2385.00, "Childrens Services":2385.00},
 			"2016-09": {"total":2500.00, "Childrens Services":2500.00},
 			"2017-12": {"total":900.00, "City Development":900.00},
@@ -105,14 +105,14 @@
 			"2017-08": {"total":6438.60, "Social Services Pooled Budgets":6438.60},
 			"2017-09": {"total":6438.60, "Social Services Pooled Budgets":6438.60},
 			"2017-10": {"total":6438.60, "Social Services Pooled Budgets":6438.60},
-			"2017-11": {"total":6618.60, "Resources and Housing":180.00, "Social Services Pooled Budgets":6438.60},
+			"2017-11": {"total":6618.60, "Social Services Pooled Budgets":6438.60, "Resources and Housing":180.00},
 			"2018-03": {"total":19315.80, "Social Services Pooled Budgets":19315.80},
 			"2018-04": {"total":6438.60, "Social Services Pooled Budgets":6438.60},
 			"2018-05": {"total":6613.63, "Social Services Pooled Budgets":6613.63},
 			"2018-06": {"total":6613.63, "Social Services Pooled Budgets":6613.63},
 			"2018-07": {"total":6613.63, "Social Services Pooled Budgets":6613.63},
 			"2018-08": {"total":6613.63, "Social Services Pooled Budgets":6613.63},
-			"2018-09": {"total":6701.86, "Resources and Housing":88.23, "Social Services Pooled Budgets":6613.63},
+			"2018-09": {"total":6701.86, "Social Services Pooled Budgets":6613.63, "Resources and Housing":88.23},
 			"2018-10": {"total":6613.63, "Social Services Pooled Budgets":6613.63}
 		}
 	},
@@ -244,7 +244,7 @@
 			"2017-04": {"total":200.00, "Adult Social Care":200.00},
 			"2017-05": {"total":150.00, "Social Services Pooled Budgets":150.00},
 			"2017-06": {"total":300.00, "Children and Families":300.00},
-			"2017-08": {"total":775.00, "Children and Families":300.00, "City Development":175.00, "Adults and Health":300.00},
+			"2017-08": {"total":775.00, "Adults and Health":300.00, "Children and Families":300.00, "City Development":175.00},
 			"2018-03": {"total":300.00, "Adults and Health":300.00},
 			"2018-09": {"total":150.00, "City Development":150.00}
 		}
@@ -399,6 +399,7 @@
 		"total": 59595.42,
 		"monthly": {
 			"2011-02": {"total":475.00, "Environment & Neighbourhoods":475.00},
+			"2011-08": {"total":1166.67, "Environment & Neighbourhoods":1166.67},
 			"2011-09": {"total":1250.00, "Central & Corporate Functions":1250.00},
 			"2011-11": {"total":675.00, "Environment & Neighbourhoods":675.00},
 			"2012-03": {"total":1450.00, "Environment & Neighbourhoods":1450.00},
@@ -435,7 +436,7 @@
 			"2017-01": {"total":525.00, "Environment & Housing":525.00},
 			"2017-02": {"total":2175.00, "Environment & Housing":1275.00, "Strategic Landlord":900.00},
 			"2017-03": {"total":112.50, "Environment & Housing":112.50},
-			"2017-04": {"total":2375.00, "Environment & Housing":1925.00, "Strategic Landlord":450.00},
+			"2017-04": {"total":2375.00, "Strategic Landlord":450.00, "Environment & Housing":1925.00},
 			"2017-05": {"total":1425.00, "Strategic Landlord":1425.00},
 			"2017-06": {"total":1312.50, "Environment & Housing":1312.50},
 			"2017-07": {"total":537.50, "Environment & Housing":537.50},
@@ -443,7 +444,7 @@
 			"2017-10": {"total":437.50, "Strategic Landlord":437.50},
 			"2017-11": {"total":475.00, "Resources and Housing":475.00},
 			"2017-12": {"total":1725.00, "Resources and Housing":600.00, "Strategic Landlord":1125.00},
-			"2018-01": {"total":1106.25, "Resources and Housing":656.25, "Strategic Landlord":450.00},
+			"2018-01": {"total":1106.25, "Strategic Landlord":450.00, "Resources and Housing":656.25},
 			"2018-02": {"total":375.00, "Resources and Housing":375.00},
 			"2018-03": {"total":1312.50, "Strategic Landlord":1187.50, "Resources and Housing":125.00},
 			"2018-05": {"total":1943.75, "Strategic Landlord":600.00, "Resources and Housing":1343.75},
@@ -599,13 +600,13 @@
 			"2017-04": {"total":149.00, "Civic Enterprise Leeds":149.00},
 			"2017-05": {"total":149.00, "Civic Enterprise Leeds":149.00},
 			"2017-06": {"total":149.00, "Civic Enterprise Leeds":149.00},
-			"2017-07": {"total":218.09, "Civic Enterprise Leeds":149.00, "Adults and Health":69.09},
+			"2017-07": {"total":218.09, "Adults and Health":69.09, "Civic Enterprise Leeds":149.00},
 			"2017-08": {"total":261.49, "Adults and Health":112.49, "Civic Enterprise Leeds":149.00},
 			"2017-09": {"total":149.00, "Civic Enterprise Leeds":149.00},
 			"2017-10": {"total":149.00, "Resources and Housing":149.00},
 			"2017-11": {"total":149.00, "Resources and Housing":149.00},
 			"2017-12": {"total":149.00, "Resources and Housing":149.00},
-			"2018-01": {"total":278.99, "Resources and Housing":149.00, "Adults and Health":129.99},
+			"2018-01": {"total":278.99, "Adults and Health":129.99, "Resources and Housing":149.00},
 			"2018-02": {"total":149.00, "Resources and Housing":149.00},
 			"2018-03": {"total":149.00, "Resources and Housing":149.00},
 			"2018-04": {"total":149.00, "Resources and Housing":149.00},
@@ -719,7 +720,7 @@
 		"name": "Toni Wharton",
 		"total": 465,
 		"monthly": {
-
+			"2011-08": {"total":465.00, "Childrens Services":465.00}
 		}
 	}
 	}

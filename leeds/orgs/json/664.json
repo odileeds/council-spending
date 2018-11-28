@@ -345,10 +345,10 @@
 			"2018-03": {"total":193302.75, "Social Services Pooled Budgets":193302.75},
 			"2018-04": {"total":36844.82, "Social Services Pooled Budgets":24865.82, "Adults and Health":11979.00},
 			"2018-05": {"total":76882.82, "Social Services Pooled Budgets":76882.82},
-			"2018-06": {"total":83250.71, "Adults and Health":2460.00, "Social Services Pooled Budgets":80790.71},
-			"2018-07": {"total":48077.85, "Social Services Pooled Budgets":37535.10, "Adults and Health":10542.75},
+			"2018-06": {"total":83250.71, "Social Services Pooled Budgets":80790.71, "Adults and Health":2460.00},
+			"2018-07": {"total":48077.85, "Adults and Health":10542.75, "Social Services Pooled Budgets":37535.10},
 			"2018-08": {"total":58855.51, "Adults and Health":7452.00, "Social Services Pooled Budgets":51403.51},
-			"2018-09": {"total":52264.29, "Social Services Pooled Budgets":50740.29, "Adults and Health":1524.00},
+			"2018-09": {"total":52264.29, "Adults and Health":1524.00, "Social Services Pooled Budgets":50740.29},
 			"2018-10": {"total":64650.33, "Adults and Health":8329.71, "Social Services Pooled Budgets":56320.62}
 		}
 	},
@@ -377,7 +377,7 @@
 			"2017-05": {"total":717.25, "Communities and Environment":717.25},
 			"2017-06": {"total":478.00, "Communities and Environment":478.00},
 			"2017-07": {"total":739.30, "Communities and Environment":739.30},
-			"2017-08": {"total":1136.06, "Communities and Environment":1134.06, "Environment & Housing":2.00},
+			"2017-08": {"total":1136.06, "Environment & Housing":2.00, "Communities and Environment":1134.06},
 			"2017-09": {"total":855.10, "Communities and Environment":855.10},
 			"2017-10": {"total":371.50, "Communities and Environment":371.50},
 			"2017-11": {"total":245.75, "Communities and Environment":245.75},
@@ -399,13 +399,13 @@
 		"monthly": {
 			"2017-08": {"total":24.79, "City Development":24.79},
 			"2017-09": {"total":129.58, "City Development":29.98, "Children and Families":99.60},
-			"2017-10": {"total":517.18, "Children and Families":49.28, "Resources and Housing":16.65, "Adults and Health":19.99, "Communities and Environment":431.26},
+			"2017-10": {"total":517.18, "Adults and Health":19.99, "Children and Families":49.28, "Communities and Environment":431.26, "Resources and Housing":16.65},
 			"2017-11": {"total":338.93, "Children and Families":235.68, "Resources and Housing":103.25},
 			"2017-12": {"total":63.27, "Resources and Housing":63.27},
 			"2018-01": {"total":344.04, "Communities and Environment":137.38, "Children and Families":134.05, "City Development":72.61},
-			"2018-02": {"total":320.66, "Communities and Environment":244.05, "Resources and Housing":54.96, "Children and Families":21.65},
+			"2018-02": {"total":320.66, "Communities and Environment":244.05, "Children and Families":21.65, "Resources and Housing":54.96},
 			"2018-03": {"total":19.46, "Communities and Environment":19.46},
-			"2018-05": {"total":136.49, "City Development":18.73, "Children and Families":117.76},
+			"2018-05": {"total":136.49, "Children and Families":117.76, "City Development":18.73},
 			"2018-06": {"total":140.43, "Resources and Housing":108.32, "Children and Families":32.11},
 			"2018-07": {"total":47.49, "Adults and Health":33.33, "Children and Families":14.16},
 			"2018-08": {"total":9.98, "Resources and Housing":9.98},
@@ -527,14 +527,15 @@
 	},
 	"33244": {
 		"name": "Summerfield Court",
-		"total": 3100128.4,
+		"total": 3205642.48,
 		"monthly": {
-			"2011-02": {"total":32740.12, "Social Services Pooled Budgets":4109.68, "Adult Social Care":28630.44},
+			"2011-02": {"total":32740.12, "Adult Social Care":28630.44, "Social Services Pooled Budgets":4109.68},
 			"2011-03": {"total":36906.52, "Social Services Pooled Budgets":4109.68, "Adult Social Care":32796.84},
 			"2011-04": {"total":39307.63, "Adult Social Care":35197.95, "Jcs For People With Learning Disabilitie":4109.68},
 			"2011-05": {"total":32617.40, "Adult Social Care":28543.32, "Jcs For People With Learning Disabilitie":4074.08},
-			"2011-06": {"total":112273.37, "Jcs For People With Learning Disabilitie":4091.88, "Adult Social Care":108181.49},
+			"2011-06": {"total":112273.37, "Adult Social Care":108181.49, "Jcs For People With Learning Disabilitie":4091.88},
 			"2011-07": {"total":50164.76, "Jcs For People With Learning Disabilitie":4091.88, "Adult Social Care":46072.88},
+			"2011-08": {"total":106383.68, "Adult Social Care":93961.27, "Social Services Pooled Budgets":12422.41},
 			"2011-09": {"total":45907.84, "Adult Social Care":45907.84},
 			"2011-10": {"total":45907.84, "Adult Social Care":45907.84},
 			"2011-11": {"total":45907.84, "Adult Social Care":45907.84},
@@ -585,7 +586,7 @@
 	},
 	"33245": {
 		"name": "Summerfield Court Residential Home",
-		"total": 395564.22,
+		"total": 411123.26,
 		"monthly": {
 			"2011-02": {"total":7413.37, "Adult Social Care":7413.37},
 			"2011-03": {"total":8279.15, "Adult Social Care":8279.15},
@@ -593,6 +594,7 @@
 			"2011-05": {"total":7873.04, "Adult Social Care":7873.04},
 			"2011-06": {"total":4697.19, "Adult Social Care":4697.19},
 			"2011-07": {"total":6879.56, "Adult Social Care":6879.56},
+			"2011-08": {"total":15559.04, "Adult Social Care":15559.04},
 			"2011-09": {"total":6781.24, "Adult Social Care":6781.24},
 			"2011-10": {"total":6781.24, "Adult Social Care":6781.24},
 			"2011-11": {"total":6781.24, "Adult Social Care":6781.24},
@@ -695,10 +697,11 @@
 		"alternate-names": [
 			"Sumo Design Limited"
 		],
-		"total": 9079.71,
+		"total": 10229.71,
 		"monthly": {
 			"2011-03": {"total":1320.00, "City Development":1320.00},
 			"2011-04": {"total":1066.05, "City Development":1066.05},
+			"2011-08": {"total":1150.00, "City Development":1150.00},
 			"2011-09": {"total":1273.40, "City Development":1273.40},
 			"2012-03": {"total":521.20, "City Development":521.20},
 			"2014-09": {"total":2050.00, "City Development":2050.00},

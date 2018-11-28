@@ -30,7 +30,7 @@
 			"2015-04": {"total":200.00, "Environment & Housing":200.00},
 			"2015-05": {"total":500.00, "Central & Corporate":500.00},
 			"2015-08": {"total":250.00, "Central & Corporate":250.00},
-			"2015-09": {"total":1000.00, "Central & Corporate":500.00, "Childrens Services":250.00, "Environment & Housing":250.00},
+			"2015-09": {"total":1000.00, "Environment & Housing":250.00, "Childrens Services":250.00, "Central & Corporate":500.00},
 			"2015-10": {"total":750.00, "Central & Corporate":500.00, "Childrens Services":250.00},
 			"2016-01": {"total":1000.00, "Central & Corporate":1000.00},
 			"2016-05": {"total":250.00, "Central & Corporate":250.00},
@@ -69,6 +69,7 @@
 			"2011-02": {"total":1654.50, "Central & Corporate Functions":1654.50},
 			"2011-03": {"total":1424.00, "Central & Corporate Functions":1424.00},
 			"2011-05": {"total":985.00, "Central & Corporate Functions":985.00},
+			"2011-08": {"total":472.00, "Central & Corporate Functions":472.00},
 			"2011-12": {"total":620.00, "Central & Corporate Functions":620.00},
 			"2012-03": {"total":448.00, "Central & Corporate Functions":448.00},
 			"2012-04": {"total":524.00, "Central & Corporate Functions":524.00},
@@ -93,7 +94,7 @@
 		"total": 5085,
 		"monthly": {
 			"2017-10": {"total":300.00, "Resources and Housing":300.00},
-			"2018-04": {"total":290.00, "Resources and Housing":145.00, "City Development":145.00},
+			"2018-04": {"total":290.00, "City Development":145.00, "Resources and Housing":145.00},
 			"2018-05": {"total":725.00, "Resources and Housing":725.00},
 			"2018-06": {"total":870.00, "Resources and Housing":870.00},
 			"2018-08": {"total":2175.00, "Resources and Housing":2175.00},
@@ -226,6 +227,7 @@
 		"total": 2200,
 		"monthly": {
 			"2011-07": {"total":1100.00, "Childrens Services":1100.00},
+			"2011-08": {"total":550.00, "Childrens Services":550.00},
 			"2011-10": {"total":550.00, "Childrens Services":550.00}
 		}
 	},
@@ -263,11 +265,11 @@
 			"2016-11": {"total":101.13, "City Development":101.13},
 			"2017-01": {"total":58.32, "Environment & Housing":58.32},
 			"2017-03": {"total":75.00, "City Development":75.00},
-			"2017-06": {"total":160.83, "Civic Enterprise Leeds":100.00, "Environment & Housing":60.83},
+			"2017-06": {"total":160.83, "Environment & Housing":60.83, "Civic Enterprise Leeds":100.00},
 			"2017-07": {"total":23.33, "Civic Enterprise Leeds":23.33},
 			"2017-09": {"total":135.83, "City Development":90.00, "Communities and Environment":45.83},
 			"2017-10": {"total":8.33, "City Development":8.33},
-			"2017-11": {"total":145.81, "Communities and Environment":45.83, "Resources and Housing":70.00, "City Development":29.98},
+			"2017-11": {"total":145.81, "Resources and Housing":70.00, "City Development":29.98, "Communities and Environment":45.83},
 			"2017-12": {"total":66.67, "Resources and Housing":66.67},
 			"2018-01": {"total":5.00, "City Development":5.00},
 			"2018-02": {"total":18.25, "Children and Families":18.25},
@@ -299,9 +301,9 @@
 			"2014-06": {"total":2349.19, "Environment & Housing":18.32, "Childrens Services":2330.87},
 			"2014-07": {"total":122.77, "Childrens Services":122.77},
 			"2014-08": {"total":551.02, "Childrens Services":551.02},
-			"2015-01": {"total":136.63, "City Development":116.63, "Environment & Housing":20.00},
+			"2015-01": {"total":136.63, "Environment & Housing":20.00, "City Development":116.63},
 			"2015-06": {"total":60.00, "City Development":60.00},
-			"2015-07": {"total":264.57, "City Development":116.07, "Childrens Services":148.50},
+			"2015-07": {"total":264.57, "Childrens Services":148.50, "City Development":116.07},
 			"2015-09": {"total":37.49, "City Development":37.49},
 			"2016-03": {"total":49.99, "Citizens and Communities":49.99},
 			"2016-04": {"total":97.04, "City Development":97.04},
@@ -317,7 +319,7 @@
 			"2018-03": {"total":226.48, "Children and Families":226.48},
 			"2018-05": {"total":33.30, "Children and Families":33.30},
 			"2018-06": {"total":868.01, "Children and Families":868.01},
-			"2018-07": {"total":215.19, "Children and Families":185.19, "City Development":30.00}
+			"2018-07": {"total":215.19, "City Development":30.00, "Children and Families":185.19}
 		}
 	},
 	"13628": {
@@ -380,7 +382,7 @@
 			"2016-10": {"total":7458.00, "City Development":7458.00},
 			"2016-11": {"total":17143.90, "City Development":16882.90, "Environment & Housing":261.00},
 			"2016-12": {"total":4118.00, "City Development":4118.00},
-			"2017-01": {"total":13370.80, "City Development":11406.20, "Environment & Housing":1964.60},
+			"2017-01": {"total":13370.80, "Environment & Housing":1964.60, "City Development":11406.20},
 			"2017-02": {"total":8592.00, "City Development":8592.00},
 			"2017-03": {"total":3243.00, "City Development":3243.00},
 			"2017-04": {"total":1456.00, "City Development":1456.00},
@@ -411,7 +413,7 @@
 		"name": "Goals Soccer Centres",
 		"total": 12790.65,
 		"monthly": {
-			"2011-03": {"total":1195.65, "Environment & Neighbourhoods":695.65, "City Development":500.00},
+			"2011-03": {"total":1195.65, "City Development":500.00, "Environment & Neighbourhoods":695.65},
 			"2011-04": {"total":480.00, "Environment & Neighbourhoods":480.00},
 			"2012-03": {"total":450.00, "Environment & Neighbourhoods":450.00},
 			"2012-08": {"total":900.00, "Environment & Neighbourhoods":900.00},
@@ -462,7 +464,7 @@
 			"2015-12": {"total":12.10, "City Development":12.10},
 			"2016-01": {"total":34.18, "City Development":34.18},
 			"2017-04": {"total":48.99, "City Development":48.99},
-			"2018-01": {"total":87.84, "Communities and Environment":16.92, "City Development":70.92},
+			"2018-01": {"total":87.84, "City Development":70.92, "Communities and Environment":16.92},
 			"2018-02": {"total":54.99, "City Development":54.99},
 			"2018-09": {"total":229.99, "Resources and Housing":229.99}
 		}
@@ -502,16 +504,17 @@
 	},
 	"13638": {
 		"name": "Godloves Solicitors",
-		"total": 308554,
+		"total": 319029.64,
 		"monthly": {
 			"2010-12": {"total":15103.26, "Environment & Neighbourhoods":15103.26},
 			"2011-01": {"total":81035.00, "Environment & Neighbourhoods":80535.00, "Insurance":500.00},
 			"2011-02": {"total":6674.18, "Environment & Neighbourhoods":6252.55, "Insurance":421.63},
-			"2011-03": {"total":28325.00, "Insurance":18500.00, "Environment & Neighbourhoods":9825.00},
-			"2011-04": {"total":42063.97, "Insurance":8000.00, "Environment & Neighbourhoods":22797.00, "Central & Corporate Functions":10000.00, "Childrens Services":1266.97},
+			"2011-03": {"total":28325.00, "Environment & Neighbourhoods":9825.00, "Insurance":18500.00},
+			"2011-04": {"total":42063.97, "Central & Corporate Functions":10000.00, "Insurance":8000.00, "Childrens Services":1266.97, "Environment & Neighbourhoods":22797.00},
 			"2011-05": {"total":4293.40, "Environment & Neighbourhoods":3859.40, "Insurance":434.00},
-			"2011-06": {"total":17191.00, "Environment & Neighbourhoods":14066.00, "Strategic Accounts":3125.00},
+			"2011-06": {"total":17191.00, "Strategic Accounts":3125.00, "Environment & Neighbourhoods":14066.00},
 			"2011-07": {"total":29323.73, "Insurance":9750.00, "Environment & Neighbourhoods":12918.73, "Central & Corporate Functions":6655.00},
+			"2011-08": {"total":10975.64, "Environment & Neighbourhoods":10975.64},
 			"2011-09": {"total":8502.29, "Environment & Neighbourhoods":7902.29, "Insurance":600.00},
 			"2011-10": {"total":8572.56, "Environment & Neighbourhoods":8572.56},
 			"2011-11": {"total":29360.40, "Environment & Neighbourhoods":12860.40, "Insurance":16500.00},
@@ -531,13 +534,14 @@
 	},
 	"13640": {
 		"name": "Godsons Coaches",
-		"total": 26307.26,
+		"total": 28777.26,
 		"monthly": {
-			"2011-04": {"total":1855.00, "Other Education Services Managed By E.L.":625.00, "Childrens Services":1230.00},
+			"2011-04": {"total":1855.00, "Childrens Services":1230.00, "Other Education Services Managed By E.L.":625.00},
 			"2011-06": {"total":1350.00, "Childrens Services":855.00, "City Development":495.00},
 			"2011-07": {"total":1990.00, "Other Education Services":1990.00},
+			"2011-08": {"total":2905.00, "City Development":435.00, "Childrens Services":2470.00},
 			"2012-01": {"total":500.00, "City Development":500.00},
-			"2012-03": {"total":2830.00, "Childrens Services":780.00, "City Development":2050.00},
+			"2012-03": {"total":2830.00, "City Development":2050.00, "Childrens Services":780.00},
 			"2012-05": {"total":1190.00, "Childrens Services":1190.00},
 			"2012-08": {"total":1713.76, "City Development":870.00, "Childrens Services":843.76},
 			"2012-09": {"total":1433.50, "Childrens Services":1433.50},
@@ -547,11 +551,11 @@
 			"2014-03": {"total":680.00, "City Development":680.00},
 			"2014-04": {"total":760.00, "Childrens Services":760.00},
 			"2014-05": {"total":170.00, "City Development":170.00},
-			"2014-06": {"total":1560.00, "Childrens Services":1215.00, "City Development":345.00},
+			"2014-06": {"total":1560.00, "City Development":345.00, "Childrens Services":1215.00},
 			"2014-07": {"total":3505.00, "Childrens Services":3505.00},
 			"2014-08": {"total":365.00, "Childrens Services":365.00},
 			"2014-10": {"total":790.00, "Childrens Services":790.00},
-			"2014-11": {"total":915.00, "Strategic Accounts":195.00, "City Development":720.00},
+			"2014-11": {"total":915.00, "City Development":720.00, "Strategic Accounts":195.00},
 			"2014-12": {"total":225.00, "Central & Corporate":225.00}
 		}
 	},

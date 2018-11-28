@@ -5,15 +5,15 @@
 		"name": "LEEDS COMMERCIAL LTD",
 		"total": 107209.64,
 		"monthly": {
-			"2010-12": {"total":36058.58, "City Development":14941.00, "Central & Corporate Functions":10140.53, "Childrens Services":7077.05, "Adult Social Care":660.00, "Environment & Neighbourhoods":3240.00},
-			"2011-01": {"total":71151.06, "Central & Corporate Functions":48595.67, "City Development":15528.66, "Childrens Services":1950.00, "Adult Social Care":660.00, "Environment & Neighbourhoods":4416.73}
+			"2010-12": {"total":36058.58, "City Development":14941.00, "Central & Corporate Functions":10140.53, "Environment & Neighbourhoods":3240.00, "Childrens Services":7077.05, "Adult Social Care":660.00},
+			"2011-01": {"total":71151.06, "Adult Social Care":660.00, "Environment & Neighbourhoods":4416.73, "Childrens Services":1950.00, "City Development":15528.66, "Central & Corporate Functions":48595.67}
 		}
 	},
 	"19001": {
 		"name": "LEEDS FEDERATED HOUSING ASSOCIATION",
 		"total": 286639.56,
 		"monthly": {
-			"2010-12": {"total":118980.81, "Environment & Neighbourhoods":74816.81, "Social Services Pooled Budgets":44164.00},
+			"2010-12": {"total":118980.81, "Social Services Pooled Budgets":44164.00, "Environment & Neighbourhoods":74816.81},
 			"2011-01": {"total":167658.75, "Environment & Neighbourhoods":167658.75}
 		}
 	},
@@ -45,7 +45,7 @@
 		"name": "LEEDS HOUSING CONCERN",
 		"total": 647108.88,
 		"monthly": {
-			"2010-12": {"total":262314.58, "Adult Social Care":30613.00, "Environment & Neighbourhoods":229438.38, "Childrens Services":2263.20},
+			"2010-12": {"total":262314.58, "Environment & Neighbourhoods":229438.38, "Childrens Services":2263.20, "Adult Social Care":30613.00},
 			"2011-01": {"total":384794.30, "Environment & Neighbourhoods":384238.06, "Childrens Services":556.24}
 		}
 	},
@@ -95,7 +95,7 @@
 		"total": 147829.89,
 		"monthly": {
 			"2010-12": {"total":134971.94, "Adult Social Care":102422.52, "Social Services Pooled Budgets":32549.42},
-			"2011-01": {"total":12857.95, "Adult Social Care":4552.55, "Social Services Pooled Budgets":6855.40, "Childrens Services":1450.00}
+			"2011-01": {"total":12857.95, "Social Services Pooled Budgets":6855.40, "Childrens Services":1450.00, "Adult Social Care":4552.55}
 		}
 	},
 	"19012": {
@@ -161,16 +161,16 @@
 		"name": "LEEDS PARTNERSHIPS NHS FOUNDATION TRUST",
 		"total": 1789714.18,
 		"monthly": {
-			"2010-12": {"total":385786.42, "Childrens Services":1500.00, "Environment & Neighbourhoods":216960.09, "Social Services Pooled Budgets":64129.57, "Adult Social Care":103196.76},
-			"2011-01": {"total":1403927.76, "Environment & Neighbourhoods":229024.28, "Social Services Pooled Budgets":1172197.88, "Adult Social Care":2705.60}
+			"2010-12": {"total":385786.42, "Adult Social Care":103196.76, "Environment & Neighbourhoods":216960.09, "Childrens Services":1500.00, "Social Services Pooled Budgets":64129.57},
+			"2011-01": {"total":1403927.76, "Adult Social Care":2705.60, "Environment & Neighbourhoods":229024.28, "Social Services Pooled Budgets":1172197.88}
 		}
 	},
 	"19021": {
 		"name": "LEEDS PCT (5N1)",
 		"total": 554989.78,
 		"monthly": {
-			"2010-12": {"total":393080.07, "Adult Social Care":3000.00, "Environment & Neighbourhoods":15635.00, "Childrens Services":374445.07},
-			"2011-01": {"total":161909.71, "Adult Social Care":152467.06, "Childrens Services":9442.65}
+			"2010-12": {"total":393080.07, "Environment & Neighbourhoods":15635.00, "Childrens Services":374445.07, "Adult Social Care":3000.00},
+			"2011-01": {"total":161909.71, "Childrens Services":9442.65, "Adult Social Care":152467.06}
 		}
 	},
 	"19022": {
@@ -220,8 +220,8 @@
 		"name": "LEEDS SOCIETY FOR DEAF AND BLIND",
 		"total": 230468.55,
 		"monthly": {
-			"2010-12": {"total":229145.85, "Education Leeds":3052.85, "Adult Social Care":226093.00},
-			"2011-01": {"total":1322.70, "Central & Corporate Functions":762.70, "Education Leeds":560.00}
+			"2010-12": {"total":229145.85, "Adult Social Care":226093.00, "Education Leeds":3052.85},
+			"2011-01": {"total":1322.70, "Education Leeds":560.00, "Central & Corporate Functions":762.70}
 		}
 	},
 	"19029": {
@@ -245,8 +245,8 @@
 		],
 		"total": 38250.38,
 		"monthly": {
-			"2010-12": {"total":16606.90, "City Development":1494.54, "Education Leeds":10351.29, "Central & Corporate Functions":3709.75, "Childrens Services":429.51, "Adult Social Care":621.81},
-			"2011-01": {"total":21643.48, "City Development":442.06, "Education Leeds":16612.27, "Central & Corporate Functions":4096.95, "Adult Social Care":492.20}
+			"2010-12": {"total":16606.90, "Adult Social Care":621.81, "Education Leeds":10351.29, "Childrens Services":429.51, "City Development":1494.54, "Central & Corporate Functions":3709.75},
+			"2011-01": {"total":21643.48, "Adult Social Care":492.20, "Education Leeds":16612.27, "City Development":442.06, "Central & Corporate Functions":4096.95}
 		}
 	},
 	"19032": {
@@ -254,14 +254,14 @@
 		"total": 75809.14,
 		"monthly": {
 			"2010-12": {"total":40456.00, "Environment & Neighbourhoods":40456.00},
-			"2011-01": {"total":35353.14, "Childrens Services":7132.84, "Environment & Neighbourhoods":23838.00, "Adult Social Care":4382.30}
+			"2011-01": {"total":35353.14, "Adult Social Care":4382.30, "Childrens Services":7132.84, "Environment & Neighbourhoods":23838.00}
 		}
 	},
 	"19033": {
 		"name": "LEEDS TENANTS FEDERATION",
 		"total": 29415,
 		"monthly": {
-			"2010-12": {"total":29415.00, "West - North West":700.00, "Environment & Neighbourhoods":28715.00}
+			"2010-12": {"total":29415.00, "Environment & Neighbourhoods":28715.00, "West - North West":700.00}
 		}
 	},
 	"19034": {
@@ -300,7 +300,7 @@
 		],
 		"total": 3832,
 		"monthly": {
-			"2010-12": {"total":1834.00, "Strategic Accounts":1079.00, "Central & Corporate Functions":755.00},
+			"2010-12": {"total":1834.00, "Central & Corporate Functions":755.00, "Strategic Accounts":1079.00},
 			"2011-01": {"total":1998.00, "Central & Corporate Functions":1998.00}
 		}
 	},
@@ -384,8 +384,8 @@
 		"name": "LILY THOMPSON HOUSE",
 		"total": 20376.56,
 		"monthly": {
-			"2010-12": {"total":10188.28, "Adult Social Care":3180.00, "Social Services Pooled Budgets":7008.28},
-			"2011-01": {"total":10188.28, "Adult Social Care":3180.00, "Social Services Pooled Budgets":7008.28}
+			"2010-12": {"total":10188.28, "Social Services Pooled Budgets":7008.28, "Adult Social Care":3180.00},
+			"2011-01": {"total":10188.28, "Social Services Pooled Budgets":7008.28, "Adult Social Care":3180.00}
 		}
 	}
 	}
