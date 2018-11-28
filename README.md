@@ -2,7 +2,7 @@
 
 Councils in the UK are required to publish their spending over £500 as open data. The quality of the CSV files is far from perfect.
 
-This collates the files and cleans them. It then processes the data into monthly summaries and as breakdowns by recipient.
+We have [a second repo that collates the files and cleans them](https://github.com/odileeds/council-spending-data). This uses the processed data into breakdowns by recipient.
 
 ## Structure
 
