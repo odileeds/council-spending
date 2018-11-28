@@ -1,7 +1,621 @@
 {
-	"range": ["2010-10","2018-09"],
+	"range": ["2010-10","2018-10"],
 	"data": {
 	"3700": {
+		"name": "Battery Station",
+		"total": 287.02,
+		"monthly": {
+			"2016-10": {"total":35.66, "City Development":35.66},
+			"2017-09": {"total":13.28, "Children and Families":13.28},
+			"2017-11": {"total":45.83, "City Development":45.83},
+			"2018-01": {"total":25.78, "City Development":25.78},
+			"2018-02": {"total":13.95, "Strategic Landlord":13.95},
+			"2018-03": {"total":28.74, "City Development":28.74},
+			"2018-06": {"total":57.75, "Children and Families":37.42, "City Development":20.33},
+			"2018-08": {"total":17.62, "Resources and Housing":13.70, "City Development":3.92},
+			"2018-09": {"total":48.41, "Communities and Environment":48.41}
+		}
+	},
+	"3701": {
+		"name": "Battle Flatts Veterinary Clinic",
+		"total": 787.64,
+		"monthly": {
+			"2016-05": {"total":255.00, "Environment & Housing":255.00},
+			"2017-03": {"total":532.64, "Environment & Housing":532.64}
+		}
+	},
+	"3702": {
+		"name": "Battle Scars",
+		"total": 120,
+		"monthly": {
+			"2017-11": {"total":60.00, "Adults and Health":60.00},
+			"2017-12": {"total":60.00, "Communities and Environment":60.00}
+		}
+	},
+	"3703": {
+		"name": "Batty Developments Ltd",
+		"total": 9667,
+		"monthly": {
+			"2011-07": {"total":7000.00, "Environment & Neighbourhoods":7000.00},
+			"2011-12": {"total":2667.00, "Environment & Neighbourhoods":2667.00}
+		}
+	},
+	"3704": {
+		"name": "Battyeford Sporting Club",
+		"total": 1782,
+		"monthly": {
+			"2016-03": {"total":1782.00, "City Development":1782.00}
+		}
+	},
+	"3705": {
+		"name": "Bauer Consumer Media Ltd",
+		"alternate-names": [
+			"Bauer Consumer Media Limited"
+		],
+		"total": 464.9,
+		"monthly": {
+			"2011-07": {"total":464.90, "City Development":464.90}
+		}
+	},
+	"3706": {
+		"name": "Bauer Corporate Services",
+		"total": 30282.39,
+		"monthly": {
+			"2013-09": {"total":19480.00, "City Development":19480.00},
+			"2015-04": {"total":10802.39, "Childrens Services":3202.39, "City Development":7600.00}
+		}
+	},
+	"3707": {
+		"name": "Bauer Events Ltd",
+		"total": 995,
+		"monthly": {
+			"2012-08": {"total":455.00, "Childrens Services":455.00},
+			"2018-02": {"total":540.00, "City Development":540.00}
+		}
+	},
+	"3708": {
+		"name": "Bauer Radio",
+		"total": 575,
+		"monthly": {
+			"2015-09": {"total":575.00, "Childrens Services":575.00}
+		}
+	},
+	"3709": {
+		"name": "Bauer Radio Ltd",
+		"alternate-names": [
+			"Bauer Radio Limited"
+		],
+		"total": 523539.85,
+		"monthly": {
+			"2010-12": {"total":10000.00, "Education Leeds":10000.00},
+			"2011-01": {"total":21950.00, "Education Leeds":20000.00, "City Development":1950.00},
+			"2011-02": {"total":6653.23, "Environment & Neighbourhoods":1025.00, "City Development":5628.23},
+			"2011-03": {"total":7465.77, "Education Leeds":1400.00, "City Development":6065.77},
+			"2011-04": {"total":1559.04, "Education Leeds":1559.04},
+			"2011-05": {"total":8540.80, "City Development":1500.00, "Education Leeds":7040.80},
+			"2011-07": {"total":1462.64, "Environment & Neighbourhoods":1462.64},
+			"2011-09": {"total":5554.85, "City Development":5554.85},
+			"2011-10": {"total":2400.00, "Environment & Neighbourhoods":1400.00, "City Development":1000.00},
+			"2011-11": {"total":6580.00, "City Development":6580.00},
+			"2011-12": {"total":31751.01, "Childrens Services":15000.00, "City Development":16751.01},
+			"2012-01": {"total":3520.66, "Childrens Services":3520.66},
+			"2012-05": {"total":1140.90, "Childrens Services":1140.90},
+			"2012-06": {"total":2509.10, "Childrens Services":2509.10},
+			"2012-08": {"total":10512.66, "City Development":3805.66, "Childrens Services":6707.00},
+			"2012-09": {"total":2000.00, "Childrens Services":2000.00},
+			"2012-10": {"total":5842.87, "Childrens Services":4269.87, "City Development":1573.00},
+			"2012-11": {"total":5725.34, "City Development":4152.34, "Childrens Services":1573.00},
+			"2012-12": {"total":9731.20, "Childrens Services":450.23, "City Development":9280.97},
+			"2013-01": {"total":3337.77, "Childrens Services":3337.77},
+			"2013-02": {"total":2800.00, "City Development":1480.00, "Childrens Services":1320.00},
+			"2013-03": {"total":4737.00, "City Development":500.00, "Childrens Services":4237.00},
+			"2013-06": {"total":9166.00, "City Development":7749.00, "Environment & Housing":1417.00},
+			"2013-07": {"total":2626.00, "Childrens Services":2626.00},
+			"2013-08": {"total":17902.68, "Environment & Housing":4330.00, "City Development":8572.68, "Central & Corporate":5000.00},
+			"2013-09": {"total":4108.45, "City Development":4108.45},
+			"2013-10": {"total":10165.64, "Central & Corporate":3889.33, "City Development":2769.93, "Childrens Services":3506.38},
+			"2013-11": {"total":9608.22, "Central & Corporate":4809.62, "City Development":2915.60, "Childrens Services":1883.00},
+			"2013-12": {"total":5496.01, "Childrens Services":2751.00, "Central & Corporate":2745.01},
+			"2014-01": {"total":15734.44, "Central & Corporate":2994.99, "City Development":12293.40, "Childrens Services":446.05},
+			"2014-02": {"total":450.00, "Environment & Housing":450.00},
+			"2014-03": {"total":677.92, "Environment & Housing":677.92},
+			"2014-04": {"total":3797.67, "Childrens Services":857.59, "Environment & Housing":2940.08},
+			"2014-05": {"total":21293.41, "City Development":7990.00, "Central & Corporate":7178.00, "Childrens Services":6125.41},
+			"2014-06": {"total":2050.00, "Childrens Services":2050.00},
+			"2014-08": {"total":14185.00, "Adult Social Care":3061.00, "Childrens Services":1850.00, "City Development":9274.00},
+			"2014-09": {"total":4986.00, "Childrens Services":4986.00},
+			"2014-12": {"total":30295.27, "Childrens Services":30295.27},
+			"2015-01": {"total":4244.48, "Central & Corporate":3144.48, "City Development":1100.00},
+			"2015-02": {"total":4160.68, "Central & Corporate":3638.72, "Childrens Services":521.96},
+			"2015-03": {"total":13882.36, "Childrens Services":6621.04, "Central & Corporate":7261.32},
+			"2015-04": {"total":18763.86, "City Development":5697.00, "Central & Corporate":13066.86},
+			"2015-05": {"total":47.98, "Central & Corporate":47.98},
+			"2015-07": {"total":1940.00, "Central & Corporate":540.00, "Childrens Services":1400.00},
+			"2015-08": {"total":3785.61, "Childrens Services":3785.61},
+			"2015-09": {"total":1379.49, "City Development":180.00, "Childrens Services":1199.49},
+			"2015-10": {"total":3745.16, "City Development":750.00, "Childrens Services":2995.16},
+			"2015-11": {"total":3274.66, "Childrens Services":1774.66, "City Development":1500.00},
+			"2015-12": {"total":5953.81, "Childrens Services":2390.48, "City Development":3563.33},
+			"2016-01": {"total":2174.43, "City Development":2174.43},
+			"2016-02": {"total":6058.63, "City Development":1480.61, "Childrens Services":4578.02},
+			"2016-03": {"total":11471.42, "Childrens Services":9971.42, "City Development":1500.00},
+			"2016-04": {"total":2357.61, "Childrens Services":28.00, "City Development":2329.61},
+			"2016-07": {"total":5503.79, "Childrens Services":4553.79, "Citizens and Communities":950.00},
+			"2016-08": {"total":8598.03, "Citizens and Communities":7898.03, "Environment & Housing":700.00},
+			"2016-09": {"total":2215.79, "City Development":950.00, "Environment & Housing":1265.79},
+			"2016-10": {"total":5650.79, "City Development":2550.00, "Environment & Housing":3100.79},
+			"2016-11": {"total":5130.30, "City Development":750.00, "Environment & Housing":4380.30},
+			"2016-12": {"total":2593.99, "City Development":703.96, "Environment & Housing":1890.03},
+			"2017-02": {"total":5784.18, "Environment & Housing":2937.90, "Childrens Services":2400.00, "City Development":446.28},
+			"2017-03": {"total":3208.46, "Environment & Housing":3208.46},
+			"2017-04": {"total":5600.00, "Childrens Services":5600.00},
+			"2017-05": {"total":12570.87, "Children and Families":8000.00, "Environment & Housing":4570.87},
+			"2017-07": {"total":3743.00, "Children and Families":3743.00},
+			"2017-08": {"total":7160.00, "Environment & Housing":7160.00},
+			"2017-09": {"total":1000.00, "Children and Families":1000.00},
+			"2017-10": {"total":2600.00, "Children and Families":2600.00},
+			"2017-11": {"total":503.29, "Children and Families":503.29},
+			"2018-01": {"total":2761.14, "Insurance":1590.00, "Children and Families":1171.14},
+			"2018-02": {"total":813.02, "Children and Families":813.02},
+			"2018-03": {"total":7996.17, "Children and Families":3732.59, "Adults and Health":4263.58},
+			"2018-05": {"total":1467.41, "Children and Families":1467.41},
+			"2018-06": {"total":4405.82, "Resources and Housing":800.00, "Children and Families":3605.82},
+			"2018-07": {"total":4988.00, "Resources and Housing":4988.00},
+			"2018-08": {"total":16521.18, "Resources and Housing":10188.00, "Children and Families":6333.18},
+			"2018-09": {"total":11521.03, "Children and Families":1545.00, "Resources and Housing":9976.03},
+			"2018-10": {"total":9108.50, "City Development":3158.50, "Resources and Housing":5950.00}
+		}
+	},
+	"3710": {
+		"name": "Baulk Line Billiards",
+		"total": 730,
+		"monthly": {
+			"2011-04": {"total":730.00, "Childrens Services":730.00}
+		}
+	},
+	"3711": {
+		"name": "Bauman Lyons",
+		"total": 13384.98,
+		"monthly": {
+			"2011-09": {"total":2700.00, "City Development":2700.00},
+			"2011-12": {"total":2325.00, "City Development":2325.00},
+			"2013-08": {"total":6330.09, "City Development":6330.09},
+			"2014-02": {"total":1938.22, "City Development":1938.22},
+			"2015-11": {"total":91.67, "City Development":91.67}
+		}
+	},
+	"3712": {
+		"name": "Bavidge Consulting Ltd",
+		"total": 1750,
+		"monthly": {
+			"2014-12": {"total":300.00, "Central & Corporate":300.00},
+			"2015-05": {"total":900.00, "Central & Corporate":900.00},
+			"2015-11": {"total":350.00, "Central & Corporate":350.00},
+			"2016-12": {"total":200.00, "Central & Corporate":200.00}
+		}
+	},
+	"3713": {
+		"name": "Bawns And Nuttingroves Tara",
+		"total": 350,
+		"monthly": {
+			"2014-03": {"total":350.00, "Strategic Accounts":350.00}
+		}
+	},
+	"3714": {
+		"name": "Bawns Tenants And Residents Association",
+		"total": 550,
+		"monthly": {
+			"2014-02": {"total":275.00, "Environment & Housing":275.00},
+			"2015-02": {"total":275.00, "Strategic Landlord":275.00}
+		}
+	},
+	"3715": {
+		"name": "Bawtry Paintball Field",
+		"total": 4483.33,
+		"monthly": {
+			"2017-03": {"total":375.00, "Childrens Services":375.00},
+			"2017-06": {"total":500.00, "Children and Families":500.00},
+			"2017-12": {"total":750.00, "Children and Families":750.00},
+			"2018-01": {"total":900.00, "Children and Families":900.00},
+			"2018-02": {"total":266.66, "Children and Families":266.66},
+			"2018-03": {"total":666.67, "Children and Families":666.67},
+			"2018-06": {"total":775.00, "Children and Families":775.00},
+			"2018-07": {"total":250.00, "Children and Families":250.00}
+		}
+	},
+	"3716": {
+		"name": "Bax-Shop.Co.Uk",
+		"total": 195.62,
+		"monthly": {
+			"2015-11": {"total":195.62, "Childrens Services":195.62}
+		}
+	},
+	"3717": {
+		"name": "Baxi Heating Uk Ltd",
+		"total": 116761.18,
+		"monthly": {
+			"2017-09": {"total":51213.45, "Environment & Housing":51213.45},
+			"2017-10": {"total":32655.70, "Resources and Housing":32655.70},
+			"2017-11": {"total":4433.03, "Resources and Housing":4433.03},
+			"2018-02": {"total":3816.00, "Resources and Housing":3816.00},
+			"2018-03": {"total":3495.18, "Resources and Housing":3495.18},
+			"2018-04": {"total":3140.32, "Resources and Housing":3140.32},
+			"2018-09": {"total":18007.50, "Resources and Housing":18007.50}
+		}
+	},
+	"3718": {
+		"name": "Baxter Training",
+		"total": 480,
+		"monthly": {
+			"2015-08": {"total":480.00, "City Development":480.00}
+		}
+	},
+	"3719": {
+		"name": "Bay Construct Ltd",
+		"total": 351,
+		"monthly": {
+			"2015-12": {"total":351.00, "City Development":351.00}
+		}
+	},
+	"3720": {
+		"name": "Bay Media Ltd",
+		"total": 268491.9,
+		"monthly": {
+			"2011-07": {"total":2380.00, "City Development":2380.00},
+			"2012-04": {"total":4100.00, "Environment & Neighbourhoods":4100.00},
+			"2012-07": {"total":6169.00, "City Development":6169.00},
+			"2013-04": {"total":1190.00, "City Development":1190.00},
+			"2013-05": {"total":720.00, "Childrens Services":720.00},
+			"2013-06": {"total":720.00, "Childrens Services":720.00},
+			"2013-08": {"total":6169.00, "City Development":6169.00},
+			"2013-10": {"total":796.00, "City Development":796.00},
+			"2013-11": {"total":995.00, "City Development":995.00},
+			"2014-03": {"total":4710.70, "City Development":4710.70},
+			"2014-06": {"total":9160.00, "City Development":9160.00},
+			"2014-07": {"total":7431.00, "Childrens Services":2980.00, "City Development":4451.00},
+			"2014-08": {"total":14554.00, "City Development":14554.00},
+			"2014-10": {"total":2450.00, "City Development":2450.00},
+			"2015-02": {"total":398.00, "City Development":398.00},
+			"2015-05": {"total":1490.00, "Childrens Services":1490.00},
+			"2015-06": {"total":1194.00, "City Development":1194.00},
+			"2015-07": {"total":6984.00, "City Development":6984.00},
+			"2015-08": {"total":1690.00, "City Development":1690.00},
+			"2015-09": {"total":16340.50, "Childrens Services":1666.00, "City Development":14674.50},
+			"2015-10": {"total":2235.00, "City Development":2235.00},
+			"2015-11": {"total":7132.00, "City Development":7132.00},
+			"2015-12": {"total":1788.00, "City Development":1788.00},
+			"2016-05": {"total":7307.00, "Childrens Services":1937.00, "City Development":5370.00},
+			"2016-06": {"total":398.00, "City Development":398.00},
+			"2016-07": {"total":13166.00, "City Development":13166.00},
+			"2016-08": {"total":34960.00, "City Development":34960.00},
+			"2016-09": {"total":1666.00, "Childrens Services":1666.00},
+			"2016-10": {"total":13301.00, "City Development":13301.00},
+			"2017-01": {"total":27206.00, "City Development":27206.00},
+			"2017-05": {"total":1340.00, "Children and Families":1340.00},
+			"2017-06": {"total":16626.00, "City Development":12646.00, "Environment & Housing":3980.00},
+			"2017-07": {"total":3500.00, "City Development":3500.00},
+			"2017-08": {"total":13935.60, "City Development":13935.60},
+			"2017-09": {"total":1340.00, "Children and Families":1340.00},
+			"2018-02": {"total":1592.00, "City Development":1592.00},
+			"2018-05": {"total":12840.00, "Children and Families":1490.00, "City Development":11350.00},
+			"2018-06": {"total":5731.00, "Resources and Housing":5731.00},
+			"2018-07": {"total":1194.00, "City Development":1194.00},
+			"2018-09": {"total":3044.70, "City Development":3044.70},
+			"2018-10": {"total":8548.40, "Children and Families":1490.00, "City Development":7058.40}
+		}
+	},
+	"3721": {
+		"name": "Baydale Control Systems Ltd",
+		"alternate-names": [
+			"Baydale Control Systems Limited"
+		],
+		"total": 44784.72,
+		"monthly": {
+			"2014-04": {"total":44784.72, "Central & Corporate":44784.72}
+		}
+	},
+	"3722": {
+		"name": "Bayford Oil",
+		"total": 15062474.16,
+		"monthly": {
+			"2010-12": {"total":373701.97, "City Development":45254.79, "Central & Corporate Functions":325540.50, "Environment & Neighbourhoods":2906.68},
+			"2011-01": {"total":316696.01, "Childrens Services":3046.40, "Education Leeds":3622.35, "Central & Corporate Functions":289676.48, "City Development":19632.16, "Environment & Neighbourhoods":718.62},
+			"2011-02": {"total":458626.32, "Environment & Neighbourhoods":2887.95, "City Development":39598.84, "Central & Corporate Functions":413308.83, "Childrens Services":2830.70},
+			"2011-03": {"total":399752.22, "Environment & Neighbourhoods":590.90, "Education Leeds":2527.60, "City Development":50164.23, "Central & Corporate Functions":343216.89, "Childrens Services":3252.60},
+			"2011-04": {"total":530411.63, "Environment & Neighbourhoods":2999.80, "Education Leeds":2319.41, "City Development":45122.87, "Central & Corporate Functions":478041.14, "Childrens Services":1928.41},
+			"2011-05": {"total":331648.64, "City Development":52509.72, "Central & Corporate Functions":276399.54, "Environment & Neighbourhoods":2739.38},
+			"2011-06": {"total":461375.12, "Environment & Neighbourhoods":6227.01, "Childrens Services":1997.40, "City Development":58686.28, "Central & Corporate Functions":394464.43},
+			"2011-07": {"total":301228.26, "City Development":27807.19, "Central & Corporate Functions":268857.88, "Other Education Services":2755.04, "Environment & Neighbourhoods":1808.15},
+			"2011-09": {"total":364018.13, "Environment & Neighbourhoods":4997.70, "City Development":27974.28, "Central & Corporate Functions":331046.15},
+			"2011-10": {"total":411094.93, "Childrens Services":1316.99, "Central & Corporate Functions":354817.24, "City Development":54960.70},
+			"2011-11": {"total":303453.24, "Central & Corporate Functions":263299.02, "City Development":34006.12, "Environment & Neighbourhoods":6148.10},
+			"2011-12": {"total":479198.62, "Environment & Neighbourhoods":2286.44, "Childrens Services":3350.34, "City Development":45280.21, "Central & Corporate Functions":428281.63},
+			"2012-01": {"total":502589.47, "City Development":33377.84, "Central & Corporate Functions":463301.39, "Childrens Services":2784.00, "Environment & Neighbourhoods":3126.24},
+			"2012-02": {"total":378288.47, "Environment & Neighbourhoods":757.90, "Central & Corporate Functions":321245.55, "City Development":52966.77, "Childrens Services":3318.25},
+			"2012-03": {"total":605531.07, "Environment & Neighbourhoods":5438.07, "Central & Corporate Functions":560617.27, "City Development":31743.23, "Childrens Services":7732.50},
+			"2012-04": {"total":385920.49, "City Development":56790.55, "Central & Corporate Functions":321913.11, "Childrens Services":4715.25, "Environment & Neighbourhoods":2501.58},
+			"2012-05": {"total":407273.83, "City Development":44831.62, "Central & Corporate Functions":360975.71, "Environment & Neighbourhoods":1466.50},
+			"2012-06": {"total":494069.65, "Environment & Neighbourhoods":3244.20, "Childrens Services":2684.00, "City Development":59345.08, "Central & Corporate Functions":428796.37},
+			"2012-07": {"total":429080.81, "Central & Corporate Functions":381172.76, "City Development":43542.22, "Childrens Services":3494.19, "Environment & Neighbourhoods":871.64},
+			"2012-08": {"total":505750.84, "Central & Corporate Functions":456737.35, "City Development":964.68, "Environment & Neighbourhoods":48048.81},
+			"2012-09": {"total":426976.00, "Central & Corporate Functions":365270.83, "City Development":927.63, "Environment & Neighbourhoods":60777.54},
+			"2012-10": {"total":383451.14, "Central & Corporate Functions":325959.06, "Environment & Neighbourhoods":57492.08},
+			"2012-11": {"total":526708.77, "Childrens Services":4396.80, "Central & Corporate Functions":470181.58, "City Development":2141.25, "Environment & Neighbourhoods":49989.14},
+			"2012-12": {"total":356971.00, "Central & Corporate Functions":308809.92, "City Development":2573.75, "Environment & Neighbourhoods":45587.33},
+			"2013-01": {"total":439555.88, "Childrens Services":4660.52, "Central & Corporate":408768.65, "City Development":1340.00, "Environment & Neighbourhoods":24786.71},
+			"2013-02": {"total":293835.13, "Central & Corporate":253172.24, "City Development":8921.33, "Childrens Services":6398.28, "Environment & Neighbourhoods":25343.28},
+			"2013-03": {"total":504390.17, "Environment & Neighbourhoods":40593.47, "Central & Corporate":455414.50, "City Development":5617.00, "Childrens Services":2765.20},
+			"2013-04": {"total":432882.77, "Childrens Services":1944.00, "City Development":2078.68, "Central & Corporate":395400.21, "Environment & Neighbourhoods":32486.88, "Adult Social Care":973.00},
+			"2013-05": {"total":415229.24, "Environment & Neighbourhoods":14994.20, "Environment & Housing":34131.86, "Childrens Services":2611.60, "Central & Corporate":362495.37, "City Development":996.21},
+			"2013-06": {"total":425366.63, "Childrens Services":6584.70, "Central & Corporate":386358.61, "Environment & Housing":32423.32},
+			"2013-07": {"total":399359.80, "Environment & Housing":72878.96, "Central & Corporate":326480.84},
+			"2013-08": {"total":402487.90, "Environment & Housing":44293.81, "Central & Corporate":354132.15, "City Development":1613.94, "Childrens Services":2448.00},
+			"2013-09": {"total":387897.16, "Environment & Housing":63205.36, "Childrens Services":706.80, "Central & Corporate":323985.00},
+			"2013-10": {"total":465342.28, "Central & Corporate":422645.50, "City Development":1874.56, "Environment & Housing":40822.22},
+			"2013-11": {"total":270006.55, "City Development":1232.85, "Central & Corporate":213913.08, "Environment & Housing":54860.62},
+			"2013-12": {"total":304614.45, "City Development":2657.16, "Central & Corporate":280528.56, "Environment & Housing":21428.73},
+			"2014-01": {"total":13687.18, "Environment & Housing":7649.38, "Childrens Services":5218.80, "Central & Corporate":819.00},
+			"2014-02": {"total":10053.98, "Environment & Housing":638.00, "City Development":7494.18, "Central & Corporate":1921.80},
+			"2014-03": {"total":10056.71, "Environment & Housing":8475.92, "City Development":1580.79},
+			"2014-04": {"total":13185.81, "Environment & Housing":5853.34, "Childrens Services":2439.09, "City Development":4257.87, "Central & Corporate":635.51},
+			"2014-05": {"total":18407.17, "Environment & Housing":7723.21, "City Development":7011.96, "Childrens Services":3672.00},
+			"2014-06": {"total":7625.19, "Environment & Housing":5438.74, "Childrens Services":618.30, "City Development":1568.15},
+			"2014-07": {"total":10893.47, "Environment & Housing":9708.47, "City Development":1185.00},
+			"2014-08": {"total":7515.02, "Environment & Housing":7515.02},
+			"2014-09": {"total":10282.15, "Childrens Services":1750.80, "Environment & Housing":8531.35},
+			"2014-10": {"total":7536.05, "Environment & Housing":7536.05},
+			"2014-11": {"total":7832.65, "Environment & Housing":5909.35, "Childrens Services":1923.30},
+			"2014-12": {"total":13111.34, "Childrens Services":1816.50, "City Development":4972.50, "Environment & Housing":6322.34},
+			"2015-01": {"total":5932.80, "City Development":1895.94, "Environment & Housing":4036.86},
+			"2015-03": {"total":12820.57, "Childrens Services":3122.70, "City Development":6732.49, "Environment & Housing":2965.38},
+			"2015-04": {"total":7959.27, "Childrens Services":5006.95, "City Development":2952.32},
+			"2015-05": {"total":4629.27, "Environment & Housing":3081.87, "City Development":1547.40},
+			"2015-06": {"total":6459.60, "Environment & Housing":3357.90, "Childrens Services":1527.60, "City Development":1574.10},
+			"2015-07": {"total":7332.39, "Environment & Housing":3378.90, "City Development":2364.69, "Childrens Services":1588.80},
+			"2015-08": {"total":6651.75, "Environment & Housing":6651.75},
+			"2015-09": {"total":3129.00, "Environment & Housing":3129.00}
+		}
+	},
+	"3723": {
+		"name": "Baylis Place",
+		"total": 175648,
+		"monthly": {
+			"2010-12": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-01": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-02": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-03": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-04": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-05": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-06": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-07": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-09": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-10": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-11": {"total":7984.00, "Adult Social Care":7984.00},
+			"2011-12": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-01": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-02": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-03": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-04": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-05": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-06": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-07": {"total":7984.00, "Adult Social Care":7984.00},
+			"2012-08": {"total":15968.00, "Adult Social Care":15968.00},
+			"2012-09": {"total":7984.00, "Adult Social Care":7984.00}
+		}
+	},
+	"3724": {
+		"name": "Baza Noclegowa Goscini",
+		"total": 58.97,
+		"monthly": {
+			"2018-01": {"total":58.97, "Children and Families":58.97}
+		}
+	},
+	"3725": {
+		"name": "Bb Erections Ltd",
+		"alternate-names": [
+			"Bb Erections Limited"
+		],
+		"total": 15228.97,
+		"monthly": {
+			"2014-05": {"total":15228.97, "Environment & Housing":15228.97}
+		}
+	},
+	"3726": {
+		"name": "Bb Interpretive Products",
+		"total": 934,
+		"monthly": {
+			"2017-12": {"total":744.00, "City Development":744.00},
+			"2018-05": {"total":190.00, "City Development":190.00}
+		}
+	},
+	"3727": {
+		"name": "Bbc",
+		"total": 38229.47,
+		"monthly": {
+			"2012-11": {"total":15498.54, "City Development":15498.54},
+			"2012-12": {"total":22730.93, "City Development":22730.93}
+		}
+	},
+	"3728": {
+		"name": "Bbc Worldwide Ltd",
+		"total": 1000,
+		"monthly": {
+			"2013-03": {"total":1000.00, "City Development":1000.00}
+		}
+	},
+	"3729": {
+		"name": "Bbis Team",
+		"total": 4181.4,
+		"monthly": {
+			"2014-05": {"total":4181.40, "Central & Corporate":4181.40}
+		}
+	},
+	"3730": {
+		"name": "Bbn Fastnet",
+		"total": 5594.74,
+		"monthly": {
+			"2011-03": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2011-04": {"total":875.84, "Central & Corporate Functions":875.84},
+			"2011-07": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2011-09": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2011-11": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2011-12": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2012-02": {"total":437.92, "Central & Corporate Functions":437.92},
+			"2012-03": {"total":875.84, "Central & Corporate Functions":875.84},
+			"2012-05": {"total":547.40, "Central & Corporate Functions":547.40},
+			"2014-01": {"total":34.00, "Central & Corporate":34.00},
+			"2014-03": {"total":1.62, "Central & Corporate":1.62},
+			"2015-03": {"total":110.00, "Central & Corporate":110.00},
+			"2016-03": {"total":84.60, "Civic Enterprise Leeds":84.60}
+		}
+	},
+	"3731": {
+		"name": "Bbp Marketing Ltd",
+		"total": 4587.04,
+		"monthly": {
+			"2014-04": {"total":4212.96, "Central & Corporate":4212.96},
+			"2014-10": {"total":374.08, "Central & Corporate":374.08}
+		}
+	},
+	"3732": {
+		"name": "Bbq Time",
+		"total": 2500,
+		"monthly": {
+			"2016-01": {"total":2500.00, "City Development":2500.00}
+		}
+	},
+	"3733": {
+		"name": "Bbr Roofing Ltd",
+		"total": 143504.68,
+		"monthly": {
+			"2018-09": {"total":128611.78, "Children and Families":128611.78},
+			"2018-10": {"total":14892.90, "Children and Families":14892.90}
+		}
+	},
+	"3734": {
+		"name": "Bbs Building Services",
+		"total": 24041.65,
+		"monthly": {
+			"2016-04": {"total":15000.00, "Environment & Housing":15000.00},
+			"2016-08": {"total":9041.65, "Environment & Housing":9041.65}
+		}
+	},
+	"3735": {
+		"name": "Bc Legal",
+		"total": 2637.93,
+		"monthly": {
+			"2016-12": {"total":490.00, "Insurance":490.00},
+			"2017-02": {"total":610.00, "Insurance":610.00},
+			"2017-04": {"total":466.00, "Insurance":466.00},
+			"2018-09": {"total":1071.93, "Insurance":1071.93}
+		}
+	},
+	"3736": {
+		"name": "Bc.*basecamp 2459162",
+		"total": 124.77,
+		"monthly": {
+			"2014-02": {"total":12.47, "Central & Corporate Functions":12.47},
+			"2014-03": {"total":12.41, "Central & Corporate":12.41},
+			"2014-04": {"total":12.32, "Central & Corporate":12.32},
+			"2014-05": {"total":12.25, "Central & Corporate":12.25},
+			"2014-06": {"total":12.26, "Central & Corporate":12.26},
+			"2014-07": {"total":12.04, "Central & Corporate":12.04},
+			"2014-08": {"total":12.34, "Central & Corporate":12.34},
+			"2014-09": {"total":12.71, "Central & Corporate":12.71},
+			"2014-10": {"total":12.88, "Central & Corporate":12.88},
+			"2014-11": {"total":13.09, "Central & Corporate":13.09}
+		}
+	},
+	"3737": {
+		"name": "Bc.Basecamp 2 2459162",
+		"total": 185.55,
+		"monthly": {
+			"2017-01": {"total":16.01, "Central & Corporate":16.01},
+			"2017-02": {"total":16.07, "Central & Corporate":16.07},
+			"2017-03": {"total":16.04, "Central & Corporate":16.04},
+			"2017-04": {"total":15.66, "Resources and Housing":15.66},
+			"2017-05": {"total":15.47, "Resources and Housing":15.47},
+			"2017-06": {"total":15.78, "Resources and Housing":15.78},
+			"2017-07": {"total":15.38, "Resources and Housing":15.38},
+			"2017-08": {"total":15.63, "Resources and Housing":15.63},
+			"2017-10": {"total":15.26, "Resources and Housing":15.26},
+			"2017-11": {"total":15.06, "Resources and Housing":15.06},
+			"2017-12": {"total":14.99, "Resources and Housing":14.99},
+			"2018-01": {"total":14.20, "Resources and Housing":14.20}
+		}
+	},
+	"3738": {
+		"name": "Bc.Basecamp 2459162",
+		"total": 351.75,
+		"monthly": {
+			"2014-12": {"total":13.16, "Central & Corporate":13.16},
+			"2015-01": {"total":13.67, "Central & Corporate":13.67},
+			"2015-02": {"total":13.43, "Central & Corporate":13.43},
+			"2015-03": {"total":13.98, "Central & Corporate":13.98},
+			"2015-04": {"total":13.45, "Central & Corporate":13.45},
+			"2015-05": {"total":12.88, "Central & Corporate":12.88},
+			"2015-06": {"total":12.66, "Central & Corporate":12.66},
+			"2015-07": {"total":12.87, "Central & Corporate":12.87},
+			"2015-08": {"total":12.72, "Central & Corporate":12.72},
+			"2015-09": {"total":13.19, "Central & Corporate":13.19},
+			"2015-10": {"total":13.01, "Central & Corporate":13.01},
+			"2015-11": {"total":13.29, "Central & Corporate":13.29},
+			"2015-12": {"total":13.47, "Central & Corporate":13.47},
+			"2016-01": {"total":14.06, "Central & Corporate":14.06},
+			"2016-02": {"total":14.39, "Central & Corporate":14.39},
+			"2016-03": {"total":14.23, "Central & Corporate":14.23},
+			"2016-04": {"total":13.92, "Central & Corporate":13.92},
+			"2016-05": {"total":13.72, "Central & Corporate":13.72},
+			"2016-06": {"total":14.70, "Central & Corporate":14.70},
+			"2016-07": {"total":15.30, "Central & Corporate":15.30},
+			"2016-08": {"total":15.18, "Central & Corporate":15.18},
+			"2016-09": {"total":15.45, "Central & Corporate":15.45},
+			"2016-10": {"total":16.55, "Central & Corporate":16.55},
+			"2016-11": {"total":16.11, "Central & Corporate":16.11},
+			"2016-12": {"total":16.36, "Central & Corporate":16.36}
+		}
+	},
+	"3739": {
+		"name": "Bca Logistics",
+		"total": 666.97,
+		"monthly": {
+			"2017-04": {"total":666.97, "Insurance":666.97}
+		}
+	},
+	"3740": {
+		"name": "Bcc Leeds Trading Ltd",
+		"total": 2180,
+		"monthly": {
+			"2017-09": {"total":880.00, "Adults and Health":880.00},
+			"2017-12": {"total":520.00, "Communities and Environment":80.00, "Adults and Health":440.00},
+			"2018-03": {"total":300.00, "Communities and Environment":80.00, "Adults and Health":220.00},
+			"2018-04": {"total":80.00, "Communities and Environment":80.00},
+			"2018-05": {"total":200.00, "Communities and Environment":200.00},
+			"2018-06": {"total":200.00, "Communities and Environment":100.00, "Strategic Accounts":100.00}
+		}
+	},
+	"3741": {
+		"name": "Bcc Register Offic",
+		"total": 15,
+		"monthly": {
+			"2016-08": {"total":15.00, "Childrens Services":15.00}
+		}
+	},
+	"3742": {
+		"name": "Bcs Information Security Specialist Grou",
+		"total": 328,
+		"monthly": {
+			"2014-04": {"total":328.00, "Childrens Services":328.00}
+		}
+	},
+	"3743": {
+		"name": "Bcs Learing & Development Ltd",
+		"total": 1850,
+		"monthly": {
+			"2013-04": {"total":1850.00, "Childrens Services":1850.00}
+		}
+	},
+	"3744": {
 		"name": "Bct Outdoors Ltd",
 		"alternate-names": [
 			"Bct Outdoors Limited"
@@ -16,7 +630,7 @@
 			"2017-09": {"total":980.00, "Resources and Housing":980.00}
 		}
 	},
-	"3701": {
+	"3745": {
 		"name": "Bcu",
 		"total": 1163.61,
 		"monthly": {
@@ -27,32 +641,33 @@
 			"2016-03": {"total":50.00, "City Development":50.00}
 		}
 	},
-	"3702": {
+	"3746": {
 		"name": "Bcw Group Ltd",
 		"total": 175.79,
 		"monthly": {
 			"2015-02": {"total":175.79, "Childrens Services":175.79}
 		}
 	},
-	"3703": {
+	"3747": {
 		"name": "Bd & Aj Blockley",
 		"total": 250.12,
 		"monthly": {
 			"2014-05": {"total":250.12, "Environment & Housing":250.12}
 		}
 	},
-	"3704": {
+	"3748": {
 		"name": "Bd1 Brass Band",
 		"total": 1200,
 		"monthly": {
 			"2015-09": {"total":400.00, "City Development":400.00},
 			"2016-09": {"total":400.00, "City Development":400.00},
-			"2017-09": {"total":200.00, "City Development":200.00}
+			"2017-09": {"total":200.00, "City Development":200.00},
+			"2018-08": {"total":200.00, "City Development":200.00}
 		}
 	},
-	"3705": {
+	"3749": {
 		"name": "Bdc Magnetics",
-		"total": 5416.28,
+		"total": 5452.03,
 		"monthly": {
 			"2014-01": {"total":55.00, "Childrens Services":55.00},
 			"2014-03": {"total":188.10, "Childrens Services":188.10},
@@ -92,516 +707,8 @@
 			"2017-12": {"total":115.40, "Children and Families":115.40},
 			"2018-01": {"total":7.50, "Children and Families":7.50},
 			"2018-04": {"total":18.48, "Children and Families":18.48},
-			"2018-06": {"total":103.60, "Children and Families":103.60}
-		}
-	},
-	"3706": {
-		"name": "Bde Law",
-		"total": 2599.19,
-		"monthly": {
-			"2017-08": {"total":2599.19, "Insurance":2599.19}
-		}
-	},
-	"3707": {
-		"name": "Bde Law Ltd",
-		"total": 2683.08,
-		"monthly": {
-			"2018-03": {"total":2683.08, "Insurance":2683.08}
-		}
-	},
-	"3708": {
-		"name": "Bdm Technology",
-		"total": 465.01,
-		"monthly": {
-			"2012-07": {"total":465.01, "City Development":465.01}
-		}
-	},
-	"3709": {
-		"name": "Bdo Llp",
-		"total": 132554.92,
-		"monthly": {
-			"2012-04": {"total":1000.00, "Aire Valley Homes Leeds":1000.00},
-			"2012-05": {"total":1000.00, "West - North West":1000.00},
-			"2012-07": {"total":2675.00, "East - North East":2675.00},
-			"2012-08": {"total":8395.00, "West - North West":6195.00, "Aire Valley Homes Leeds":2200.00},
-			"2012-09": {"total":19509.00, "Aire Valley Homes Leeds":8817.00, "East - North East":10692.00},
-			"2012-10": {"total":11452.00, "West - North West":11452.00},
-			"2013-02": {"total":750.00, "Aire Valley Homes Leeds":750.00},
-			"2013-03": {"total":1967.00, "East - North East":1217.00, "West - North West":750.00},
-			"2013-05": {"total":934.00, "Aire Valley Homes Leeds":467.00, "West - North West":467.00},
-			"2013-07": {"total":6500.00, "West - North West":2500.00, "East - North East":2000.00, "Aire Valley Homes Leeds":2000.00},
-			"2013-09": {"total":29200.00, "West - North West":10700.00, "Aire Valley Homes Leeds":8200.00, "East - North East":10300.00},
-			"2014-01": {"total":467.00, "East - North East":467.00},
-			"2014-02": {"total":1683.00, "Aire Valley Homes Leeds":466.00, "West - North West":1217.00},
-			"2014-03": {"total":1500.00, "Environment & Housing":750.00, "East - North East":750.00},
-			"2014-07": {"total":6800.00, "Environment & Housing":6800.00},
-			"2014-08": {"total":15000.00, "Environment & Housing":15000.00},
-			"2014-12": {"total":512.50, "Environment & Housing":512.50},
-			"2015-02": {"total":10500.00, "Strategic Landlord":10500.00},
-			"2015-03": {"total":2250.00, "Strategic Landlord":2250.00},
-			"2015-05": {"total":1400.00, "Strategic Landlord":1400.00},
-			"2016-03": {"total":1537.50, "Strategic Landlord":1537.50},
-			"2016-04": {"total":2306.25, "Strategic Landlord":2306.25},
-			"2017-02": {"total":2050.00, "Environment & Housing":2050.00},
-			"2017-12": {"total":1666.67, "Resources and Housing":1666.67},
-			"2018-01": {"total":1500.00, "Resources and Housing":1500.00}
-		}
-	},
-	"3710": {
-		"name": "Bdo Stoy Hayward Llp",
-		"total": 3250,
-		"monthly": {
-			"2011-02": {"total":750.00, "West - North West":750.00},
-			"2012-01": {"total":1000.00, "East - North East":1000.00},
-			"2012-02": {"total":1500.00, "Aire Valley Homes Leeds":750.00, "West - North West":750.00}
-		}
-	},
-	"3711": {
-		"name": "Bdr Voice & Data Solutions Ltd",
-		"total": 110.68,
-		"monthly": {
-			"2014-09": {"total":32.33, "Childrens Services":32.33},
-			"2014-10": {"total":18.25, "Childrens Services":18.25},
-			"2014-11": {"total":9.69, "Childrens Services":9.69},
-			"2015-02": {"total":50.41, "Childrens Services":50.41}
-		}
-	},
-	"3712": {
-		"name": "Bdw Trading Ltd",
-		"alternate-names": [
-			"Bdw Trading Limited"
-		],
-		"total": 4690,
-		"monthly": {
-			"2012-12": {"total":1690.00, "City Development":1690.00},
-			"2016-02": {"total":3000.00, "City Development":3000.00}
-		}
-	},
-	"3713": {
-		"name": "Be Festival C.I.C",
-		"total": 1500,
-		"monthly": {
-			"2011-10": {"total":700.00, "City Development":700.00},
-			"2012-12": {"total":800.00, "City Development":800.00}
-		}
-	},
-	"3714": {
-		"name": "Be Ltd",
-		"total": 19766.26,
-		"monthly": {
-			"2015-07": {"total":19766.26, "City Development":19766.26}
-		}
-	},
-	"3715": {
-		"name": "Be Modern Ltd",
-		"total": 2575.01,
-		"monthly": {
-			"2011-11": {"total":425.00, "East - North East":425.00},
-			"2012-02": {"total":850.00, "East - North East":850.00},
-			"2012-03": {"total":450.01, "East - North East":450.01},
-			"2012-04": {"total":425.00, "East - North East":425.00},
-			"2012-11": {"total":425.00, "East - North East":425.00}
-		}
-	},
-	"3716": {
-		"name": "Bea-Owls",
-		"total": 1705,
-		"monthly": {
-			"2011-10": {"total":750.00, "Strategic Accounts":750.00},
-			"2012-07": {"total":500.00, "Central & Corporate Functions":500.00},
-			"2014-12": {"total":300.00, "Strategic Accounts":300.00},
-			"2015-02": {"total":155.00, "Strategic Accounts":155.00}
-		}
-	},
-	"3717": {
-		"name": "Beach Lawns Care Home",
-		"total": 25349.61,
-		"monthly": {
-			"2013-08": {"total":3923.69, "Adult Social Care":3923.69},
-			"2013-09": {"total":1133.92, "Adult Social Care":1133.92},
-			"2013-10": {"total":1133.92, "Adult Social Care":1133.92},
-			"2013-11": {"total":1133.92, "Adult Social Care":1133.92},
-			"2013-12": {"total":1133.92, "Adult Social Care":1133.92},
-			"2014-01": {"total":1133.92, "Adult Social Care":1133.92},
-			"2014-02": {"total":1133.92, "Adult Social Care":1133.92},
-			"2014-03": {"total":1133.92, "Adult Social Care":1133.92},
-			"2014-04": {"total":1133.92, "Adult Social Care":1133.92},
-			"2014-05": {"total":1114.16, "Adult Social Care":1114.16},
-			"2014-06": {"total":1124.04, "Adult Social Care":1124.04},
-			"2014-07": {"total":2248.08, "Adult Social Care":2248.08},
-			"2014-08": {"total":1124.04, "Adult Social Care":1124.04},
-			"2014-09": {"total":1124.04, "Adult Social Care":1124.04},
-			"2014-10": {"total":1124.04, "Adult Social Care":1124.04},
-			"2014-11": {"total":1124.04, "Adult Social Care":1124.04},
-			"2014-12": {"total":1124.04, "Adult Social Care":1124.04},
-			"2015-01": {"total":1124.04, "Adult Social Care":1124.04},
-			"2015-02": {"total":1124.04, "Adult Social Care":1124.04}
-		}
-	},
-	"3718": {
-		"name": "Beachcomber Inn",
-		"total": 76.15,
-		"monthly": {
-			"2017-04": {"total":76.15, "Children and Families":76.15}
-		}
-	},
-	"3719": {
-		"name": "Beachcroft Llp",
-		"total": 1524.5,
-		"monthly": {
-			"2012-05": {"total":1524.50, "City Development":1524.50}
-		}
-	},
-	"3720": {
-		"name": "Beachwood Solicitors Ltd",
-		"total": 2243,
-		"monthly": {
-			"2018-01": {"total":2243.00, "Children and Families":2243.00}
-		}
-	},
-	"3721": {
-		"name": "Beacon Communication Technology (North)",
-		"total": 211428.56,
-		"monthly": {
-			"2011-02": {"total":19025.00, "City Development":6260.00, "Central & Corporate Functions":12090.00, "Environment & Neighbourhoods":675.00},
-			"2011-03": {"total":20656.30, "Central & Corporate Functions":20656.30},
-			"2011-04": {"total":29702.70, "Central & Corporate Functions":27174.70, "Environment & Neighbourhoods":2528.00},
-			"2011-05": {"total":26078.50, "Central & Corporate Functions":26078.50},
-			"2011-06": {"total":19769.00, "Adult Social Care":7100.00, "Central & Corporate Functions":11479.00, "Strategic Accounts":1190.00},
-			"2011-07": {"total":15586.86, "Central & Corporate Functions":15586.86},
-			"2011-09": {"total":13828.00, "Childrens Services":1375.00, "Central & Corporate Functions":12453.00},
-			"2011-10": {"total":15650.10, "City Development":1575.00, "Environment & Neighbourhoods":1250.00, "Central & Corporate Functions":12825.10},
-			"2011-11": {"total":7364.00, "Central & Corporate Functions":5864.00, "City Development":1500.00},
-			"2011-12": {"total":18821.80, "Central & Corporate Functions":18821.80},
-			"2012-01": {"total":3006.50, "Central & Corporate Functions":3006.50},
-			"2012-03": {"total":2675.00, "Central & Corporate Functions":2675.00},
-			"2012-05": {"total":1725.00, "Central & Corporate Functions":1725.00},
-			"2012-08": {"total":13845.50, "City Development":440.00, "Central & Corporate Functions":13405.50}
-		}
-	},
-	"3722": {
-		"name": "Beacon Communication Technology Ltd",
-		"total": 850,
-		"monthly": {
-			"2013-04": {"total":850.00, "Central & Corporate":850.00}
-		}
-	},
-	"3723": {
-		"name": "Beacon Construction & Joinery Ltd",
-		"total": 150635.56,
-		"monthly": {
-			"2014-11": {"total":5162.34, "Central & Corporate":5162.34},
-			"2014-12": {"total":17844.74, "Central & Corporate":17844.74},
-			"2015-01": {"total":15090.84, "Central & Corporate":15090.84},
-			"2015-02": {"total":6015.00, "Central & Corporate":6015.00},
-			"2015-03": {"total":18117.78, "Central & Corporate":18117.78},
-			"2015-04": {"total":375.00, "Central & Corporate":375.00},
-			"2015-05": {"total":6468.00, "Central & Corporate":6468.00},
-			"2015-06": {"total":3170.55, "Central & Corporate":3170.55},
-			"2015-11": {"total":775.00, "Central & Corporate":775.00},
-			"2015-12": {"total":1897.25, "Central & Corporate":1897.25},
-			"2016-03": {"total":1435.00, "Central & Corporate":1435.00},
-			"2016-05": {"total":2515.00, "Environment & Housing":2515.00},
-			"2016-07": {"total":4290.00, "Environment & Housing":3615.00, "Central & Corporate":675.00},
-			"2016-09": {"total":2050.00, "Environment & Housing":2050.00},
-			"2016-12": {"total":1466.56, "Environment & Housing":1466.56},
-			"2017-03": {"total":2750.00, "Environment & Housing":2750.00},
-			"2017-04": {"total":1125.00, "Environment & Housing":1125.00},
-			"2017-05": {"total":14124.00, "Environment & Housing":4125.00, "Resources and Housing":9999.00},
-			"2017-08": {"total":10282.11, "City Development":4695.00, "Environment & Housing":5587.11},
-			"2017-09": {"total":1175.00, "Environment & Housing":1175.00},
-			"2017-10": {"total":1070.00, "City Development":425.00, "Resources and Housing":645.00},
-			"2017-11": {"total":675.00, "Resources and Housing":675.00},
-			"2017-12": {"total":7125.00, "Resources and Housing":7125.00},
-			"2018-02": {"total":14888.64, "Resources and Housing":14888.64},
-			"2018-04": {"total":9982.75, "Resources and Housing":9982.75},
-			"2018-06": {"total":765.00, "Communities and Environment":765.00}
-		}
-	},
-	"3724": {
-		"name": "Beacon International",
-		"total": 3866.21,
-		"monthly": {
-			"2018-02": {"total":664.71, "Resources and Housing":664.71},
-			"2018-03": {"total":449.17, "Resources and Housing":449.17},
-			"2018-04": {"total":50.10, "Resources and Housing":50.10},
-			"2018-05": {"total":107.78, "Resources and Housing":107.78},
-			"2018-06": {"total":134.00, "Resources and Housing":134.00},
-			"2018-09": {"total":1034.05, "Resources and Housing":1034.05}
-		}
-	},
-	"3725": {
-		"name": "Beacon Law Solicitors",
-		"total": 4284,
-		"monthly": {
-			"2017-08": {"total":4284.00, "Insurance":4284.00}
-		}
-	},
-	"3726": {
-		"name": "Beadsdirect",
-		"total": 81.6,
-		"monthly": {
-			"2016-06": {"total":81.60, "Citizens and Communities":81.60}
-		}
-	},
-	"3727": {
-		"name": "Beambridge Medical",
-		"total": 97.44,
-		"monthly": {
-			"2015-11": {"total":97.44, "Social Services Pooled Budgets":97.44}
-		}
-	},
-	"3728": {
-		"name": "Beamish Museum Ltd",
-		"total": 46.25,
-		"monthly": {
-			"2015-06": {"total":46.25, "Adult Social Care":46.25}
-		}
-	},
-	"3729": {
-		"name": "Beamled",
-		"total": 356.38,
-		"monthly": {
-			"2015-12": {"total":116.58, "City Development":116.58},
-			"2016-10": {"total":239.80, "City Development":239.80}
-		}
-	},
-	"3730": {
-		"name": "Bean Rochdale",
-		"total": 6.4,
-		"monthly": {
-			"2015-05": {"total":2.20, "Childrens Services":2.20},
-			"2016-09": {"total":4.20, "Childrens Services":4.20}
-		}
-	},
-	"3731": {
-		"name": "Beaneys Design",
-		"total": 1628,
-		"monthly": {
-			"2016-05": {"total":814.00, "City Development":814.00},
-			"2017-07": {"total":814.00, "City Development":814.00}
-		}
-	},
-	"3732": {
-		"name": "Beanstalk Books",
-		"total": 29.99,
-		"monthly": {
-			"2015-06": {"total":29.99, "City Development":29.99}
-		}
-	},
-	"3733": {
-		"name": "Beanstalk Nursery",
-		"total": 265660.79,
-		"monthly": {
-			"2014-07": {"total":6159.00, "Childrens Services":6159.00},
-			"2014-09": {"total":23877.00, "Childrens Services":23877.00},
-			"2014-10": {"total":6111.00, "Childrens Services":6111.00},
-			"2014-12": {"total":11527.75, "Childrens Services":11527.75},
-			"2015-03": {"total":15641.25, "Childrens Services":15641.25},
-			"2015-04": {"total":16652.25, "Childrens Services":16652.25},
-			"2015-05": {"total":486.28, "Childrens Services":486.28},
-			"2015-07": {"total":1686.75, "Childrens Services":1686.75},
-			"2015-09": {"total":15590.40, "Childrens Services":15590.40},
-			"2015-10": {"total":176.23, "Childrens Services":176.23},
-			"2015-12": {"total":203.70, "Childrens Services":203.70},
-			"2016-01": {"total":7589.40, "Childrens Services":7589.40},
-			"2016-02": {"total":176.23, "Childrens Services":176.23},
-			"2016-03": {"total":4364.25, "Childrens Services":4364.25},
-			"2016-04": {"total":12207.00, "Childrens Services":12207.00},
-			"2016-06": {"total":1253.00, "Childrens Services":1253.00},
-			"2016-07": {"total":6411.75, "Childrens Services":6411.75},
-			"2016-09": {"total":17310.72, "Childrens Services":17310.72},
-			"2016-10": {"total":1253.00, "Childrens Services":1253.00},
-			"2016-12": {"total":5445.58, "Childrens Services":5445.58},
-			"2017-01": {"total":13526.00, "Childrens Services":13526.00},
-			"2017-02": {"total":1253.00, "Childrens Services":1253.00},
-			"2017-03": {"total":7058.70, "Childrens Services":7058.70},
-			"2017-04": {"total":20997.60, "Childrens Services":20997.60},
-			"2017-06": {"total":686.79, "Children and Families":686.79},
-			"2017-07": {"total":3200.40, "Children and Families":3200.40},
-			"2017-09": {"total":19223.70, "Children and Families":19223.70},
-			"2017-10": {"total":686.79, "Children and Families":686.79},
-			"2018-01": {"total":11066.40, "Children and Families":11066.40},
-			"2018-02": {"total":686.79, "Children and Families":686.79},
-			"2018-03": {"total":4968.15, "Children and Families":4968.15},
-			"2018-04": {"total":19359.60, "Children and Families":19359.60},
-			"2018-06": {"total":1726.33, "Children and Families":1726.33},
-			"2018-09": {"total":3213.00, "Children and Families":3213.00}
-		}
-	},
-	"3734": {
-		"name": "Beardymanagement Ltd",
-		"alternate-names": [
-			"Beardymanagement Limited"
-		],
-		"total": 5000,
-		"monthly": {
-			"2015-07": {"total":5000.00, "City Development":5000.00}
-		}
-	},
-	"3735": {
-		"name": "Bearing King Ltd",
-		"total": 97.2,
-		"monthly": {
-			"2017-04": {"total":97.20, "Children and Families":97.20}
-		}
-	},
-	"3736": {
-		"name": "Beat",
-		"total": 12.99,
-		"monthly": {
-			"2014-09": {"total":12.99, "Childrens Services":12.99}
-		}
-	},
-	"3737": {
-		"name": "Beat It Music Cic",
-		"total": 24345,
-		"monthly": {
-			"2012-02": {"total":9965.00, "Adult Social Care":9965.00},
-			"2012-07": {"total":600.00, "Social Services Pooled Budgets":600.00},
-			"2012-09": {"total":1600.00, "City Development":1000.00, "Social Services Pooled Budgets":600.00},
-			"2012-10": {"total":1140.00, "Social Services Pooled Budgets":1140.00},
-			"2012-12": {"total":2160.00, "Social Services Pooled Budgets":2160.00},
-			"2013-02": {"total":3600.00, "Childrens Services":3000.00, "Social Services Pooled Budgets":600.00},
-			"2013-03": {"total":600.00, "Social Services Pooled Budgets":600.00},
-			"2013-04": {"total":2820.00, "Social Services Pooled Budgets":2820.00},
-			"2013-05": {"total":600.00, "Social Services Pooled Budgets":600.00},
-			"2013-06": {"total":1260.00, "Social Services Pooled Budgets":1260.00}
-		}
-	},
-	"3738": {
-		"name": "Beatbullying Services Ltd",
-		"total": 1250,
-		"monthly": {
-			"2011-07": {"total":1250.00, "Other Education Services":1250.00}
-		}
-	},
-	"3739": {
-		"name": "Beaton Business Consultants Ltd",
-		"total": 100,
-		"monthly": {
-			"2016-03": {"total":50.00, "City Development":50.00},
-			"2016-07": {"total":50.00, "City Development":50.00}
-		}
-	},
-	"3740": {
-		"name": "Beau Business Media Ltd",
-		"total": 1045,
-		"monthly": {
-			"2014-04": {"total":200.00, "City Development":200.00},
-			"2015-01": {"total":425.00, "City Development":425.00},
-			"2015-05": {"total":195.00, "City Development":195.00},
-			"2016-04": {"total":225.00, "City Development":225.00}
-		}
-	},
-	"3741": {
-		"name": "Beaucare Ltd",
-		"total": 4067.63,
-		"monthly": {
-			"2012-04": {"total":512.77, "Adult Social Care":512.77},
-			"2012-10": {"total":773.57, "Adult Social Care":773.57},
-			"2014-06": {"total":660.00, "Childrens Services":660.00},
-			"2015-01": {"total":356.90, "Adult Social Care":356.90},
-			"2015-11": {"total":750.00, "Childrens Services":750.00},
-			"2016-12": {"total":9.19, "Adult Social Care":9.19},
-			"2017-08": {"total":1005.20, "Children and Families":1005.20}
-		}
-	},
-	"3742": {
-		"name": "Beaucare Medical Ltd",
-		"total": 55609.44,
-		"monthly": {
-			"2011-02": {"total":674.40, "Adult Social Care":674.40},
-			"2011-04": {"total":685.00, "Adult Social Care":685.00},
-			"2011-05": {"total":656.90, "Adult Social Care":656.90},
-			"2011-06": {"total":659.95, "Adult Social Care":659.95},
-			"2011-10": {"total":603.10, "Adult Social Care":603.10},
-			"2012-11": {"total":641.72, "Adult Social Care":641.72},
-			"2012-12": {"total":539.50, "Adult Social Care":539.50},
-			"2013-02": {"total":459.41, "Adult Social Care":459.41},
-			"2013-04": {"total":659.90, "Adult Social Care":659.90},
-			"2013-05": {"total":689.86, "Adult Social Care":689.86},
-			"2013-06": {"total":440.76, "Adult Social Care":440.76},
-			"2013-07": {"total":520.35, "Adult Social Care":520.35},
-			"2013-09": {"total":519.42, "Adult Social Care":519.42},
-			"2013-11": {"total":545.96, "Adult Social Care":545.96},
-			"2014-01": {"total":2691.63, "Adult Social Care":2691.63},
-			"2014-02": {"total":1565.75, "Adult Social Care":1565.75},
-			"2014-03": {"total":1422.05, "Adult Social Care":1408.05, "Childrens Services":14.00},
-			"2014-04": {"total":797.81, "Adult Social Care":797.81},
-			"2014-05": {"total":1273.53, "Adult Social Care":1273.53},
-			"2014-06": {"total":991.05, "Adult Social Care":991.05},
-			"2014-07": {"total":3337.64, "Adult Social Care":3321.74, "Childrens Services":15.90},
-			"2014-08": {"total":1984.40, "Adult Social Care":1984.40},
-			"2014-09": {"total":707.56, "Adult Social Care":707.56},
-			"2014-10": {"total":1209.28, "Adult Social Care":1209.28},
-			"2014-11": {"total":1924.93, "Adult Social Care":1924.93},
-			"2014-12": {"total":343.72, "Adult Social Care":343.72},
-			"2015-01": {"total":961.82, "Adult Social Care":961.82},
-			"2015-02": {"total":809.18, "Adult Social Care":809.18},
-			"2015-03": {"total":2967.98, "Adult Social Care":2967.98},
-			"2015-04": {"total":1767.51, "Adult Social Care":1767.51},
-			"2015-05": {"total":1739.52, "Adult Social Care":1739.52},
-			"2015-06": {"total":2241.26, "Adult Social Care":2241.26},
-			"2015-07": {"total":2590.69, "Adult Social Care":2590.69},
-			"2015-08": {"total":2427.97, "Adult Social Care":2427.97},
-			"2015-09": {"total":7432.17, "Adult Social Care":7432.17},
-			"2015-10": {"total":4613.43, "Adult Social Care":4613.43},
-			"2015-12": {"total":165.00, "Adult Social Care":165.00},
-			"2016-07": {"total":110.00, "Adult Social Care":110.00},
-			"2016-08": {"total":486.00, "Adult Social Care":486.00},
-			"2017-01": {"total":92.99, "Adult Social Care":92.99}
-		}
-	},
-	"3743": {
-		"name": "Beaucare ltd",
-		"total": 695.68,
-		"monthly": {
-
-		}
-	},
-	"3744": {
-		"name": "Beaumont Carpets Ltd",
-		"total": 784,
-		"monthly": {
-			"2011-03": {"total":784.00, "Environment & Neighbourhoods":784.00}
-		}
-	},
-	"3745": {
-		"name": "Beaumont Legal",
-		"total": 98,
-		"monthly": {
-			"2015-08": {"total":49.00, "Central & Corporate":49.00},
-			"2015-12": {"total":49.00, "Citizens and Communities":49.00}
-		}
-	},
-	"3746": {
-		"name": "Beaumont Partnership",
-		"total": 46,
-		"monthly": {
-			"2015-07": {"total":46.00, "Central & Corporate":46.00}
-		}
-	},
-	"3747": {
-		"name": "Beaver Corporate Clothing Ltd",
-		"total": 523.35,
-		"monthly": {
-			"2011-03": {"total":523.35, "City Development":523.35}
-		}
-	},
-	"3748": {
-		"name": "Beaver Plant",
-		"total": 1465,
-		"monthly": {
-			"2015-02": {"total":1350.00, "Central & Corporate":1350.00},
-			"2015-03": {"total":115.00, "Central & Corporate":115.00}
-		}
-	},
-	"3749": {
-		"name": "Beaver Plant Ltd",
-		"total": 1056,
-		"monthly": {
-			"2012-12": {"total":1056.00, "Central & Corporate Functions":1056.00}
+			"2018-06": {"total":103.60, "Children and Families":103.60},
+			"2018-10": {"total":35.75, "Children and Families":35.75}
 		}
 	}
 	}

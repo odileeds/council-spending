@@ -1,16 +1,659 @@
 {
-	"range": ["2010-10","2018-09"],
+	"range": ["2010-10","2018-10"],
 	"data": {
 	"3500": {
+		"name": "Balmers Gm Ltd",
+		"alternate-names": [
+			"Balmers Gm Limited"
+		],
+		"total": 19016.3,
+		"monthly": {
+			"2013-04": {"total":521.90, "City Development":521.90},
+			"2013-05": {"total":2784.00, "City Development":2784.00},
+			"2013-06": {"total":2784.00, "City Development":2784.00},
+			"2013-07": {"total":960.00, "City Development":960.00},
+			"2013-09": {"total":960.00, "City Development":960.00},
+			"2013-10": {"total":960.00, "City Development":960.00},
+			"2013-11": {"total":4284.00, "City Development":4284.00},
+			"2014-02": {"total":2880.00, "City Development":2880.00},
+			"2014-03": {"total":960.00, "Environment & Housing":960.00},
+			"2014-04": {"total":360.00, "Environment & Housing":360.00},
+			"2014-05": {"total":800.00, "Environment & Housing":800.00},
+			"2014-06": {"total":372.40, "Environment & Housing":372.40},
+			"2017-11": {"total":390.00, "Communities and Environment":390.00}
+		}
+	},
+	"3501": {
+		"name": "Balsam Hill",
+		"total": 445.01,
+		"monthly": {
+			"2014-08": {"total":178.00, "City Development":178.00},
+			"2014-09": {"total":267.01, "City Development":267.01}
+		}
+	},
+	"3502": {
+		"name": "Balsamiq",
+		"total": 119.93,
+		"monthly": {
+			"2015-04": {"total":61.11, "Central & Corporate":61.11},
+			"2015-05": {"total":58.82, "Central & Corporate":58.82}
+		}
+	},
+	"3503": {
+		"name": "Baltica",
+		"total": 4405.6,
+		"monthly": {
+			"2012-02": {"total":1000.00, "Childrens Services":1000.00},
+			"2014-03": {"total":400.00, "Childrens Services":400.00},
+			"2014-12": {"total":379.60, "Childrens Services":379.60},
+			"2017-02": {"total":1000.00, "Childrens Services":1000.00},
+			"2018-02": {"total":1626.00, "Children and Families":1626.00}
+		}
+	},
+	"3504": {
+		"name": "Balvac Ltd",
+		"total": 275168.45,
+		"monthly": {
+			"2011-03": {"total":245489.58, "City Development":245489.58},
+			"2011-07": {"total":6449.71, "Environment & Neighbourhoods":6449.71},
+			"2011-10": {"total":14767.10, "City Development":14767.10},
+			"2012-04": {"total":8462.06, "City Development":8462.06}
+		}
+	},
+	"3505": {
+		"name": "Bam Construction Ltd",
+		"total": 72009416.01,
+		"monthly": {
+			"2010-12": {"total":551933.40, "City Development":551933.40},
+			"2011-02": {"total":343236.24, "City Development":343236.24},
+			"2011-04": {"total":740720.87, "City Development":740720.87},
+			"2011-05": {"total":1467125.17, "City Development":1467125.17},
+			"2011-10": {"total":1518363.31, "City Development":1518363.31},
+			"2012-03": {"total":4226267.56, "City Development":4226267.56},
+			"2012-04": {"total":3480942.00, "City Development":3480942.00},
+			"2012-05": {"total":4214747.00, "City Development":4214747.00},
+			"2012-06": {"total":4201846.00, "City Development":4201846.00},
+			"2012-07": {"total":2984085.51, "City Development":2984085.51},
+			"2012-08": {"total":3631292.00, "City Development":3631292.00},
+			"2012-09": {"total":3732851.00, "City Development":3732851.00},
+			"2012-10": {"total":3188002.00, "City Development":3188002.00},
+			"2012-11": {"total":2845980.00, "City Development":2845980.00},
+			"2012-12": {"total":3053234.00, "City Development":3053234.00},
+			"2013-01": {"total":2052811.00, "City Development":2052811.00},
+			"2013-02": {"total":1177095.00, "City Development":1177095.00},
+			"2013-03": {"total":899578.00, "City Development":899578.00},
+			"2013-04": {"total":1609584.77, "City Development":1609584.77},
+			"2013-06": {"total":66461.45, "City Development":66461.45},
+			"2013-08": {"total":259888.42, "Childrens Services":259888.42},
+			"2013-09": {"total":413079.92, "Childrens Services":413079.92},
+			"2013-10": {"total":417152.91, "Childrens Services":417152.91},
+			"2013-11": {"total":1057367.43, "Childrens Services":1057367.43},
+			"2013-12": {"total":1675276.95, "Childrens Services":1675276.95},
+			"2014-02": {"total":495745.27, "Childrens Services":495745.27},
+			"2014-03": {"total":869685.48, "Childrens Services":869685.48},
+			"2014-04": {"total":565846.73, "Childrens Services":565846.73},
+			"2014-05": {"total":876539.74, "Childrens Services":876539.74},
+			"2014-06": {"total":2090244.03, "Childrens Services":1218131.30, "City Development":872112.73},
+			"2014-07": {"total":948730.42, "Childrens Services":948730.42},
+			"2014-08": {"total":430570.83, "Childrens Services":430570.83},
+			"2014-09": {"total":541254.87, "Childrens Services":541254.87},
+			"2014-10": {"total":677706.66, "Childrens Services":677706.66},
+			"2014-11": {"total":403759.36, "Childrens Services":403759.36},
+			"2014-12": {"total":45310.85, "Childrens Services":45310.85},
+			"2015-01": {"total":35267.99, "Childrens Services":35267.99},
+			"2015-02": {"total":11137.00, "Childrens Services":11137.00},
+			"2015-03": {"total":49037.25, "Childrens Services":49037.25},
+			"2015-04": {"total":76417.91, "Childrens Services":76417.91},
+			"2015-05": {"total":94560.60, "Childrens Services":94560.60},
+			"2015-06": {"total":69530.59, "Childrens Services":69530.59},
+			"2015-07": {"total":74051.00, "Childrens Services":74051.00},
+			"2015-08": {"total":268514.56, "Childrens Services":268514.56},
+			"2016-05": {"total":231645.96, "Childrens Services":231645.96},
+			"2017-05": {"total":179790.00, "Children and Families":179790.00},
+			"2017-08": {"total":496121.53, "Children and Families":496121.53},
+			"2017-09": {"total":297752.34, "Children and Families":297594.44, "City Development":157.90},
+			"2017-10": {"total":299944.65, "Children and Families":299944.65},
+			"2017-11": {"total":479982.94, "Children and Families":479982.94},
+			"2017-12": {"total":695899.78, "Children and Families":695899.78},
+			"2018-01": {"total":1139999.22, "Children and Families":1029994.99, "City Development":110004.23},
+			"2018-02": {"total":1154945.73, "Children and Families":1081651.43, "City Development":73294.30},
+			"2018-03": {"total":899180.58, "City Development":73452.20, "Children and Families":825728.38},
+			"2018-04": {"total":1108404.00, "Children and Families":1091639.98, "City Development":16764.02},
+			"2018-05": {"total":1021345.94, "Children and Families":936088.92, "City Development":85257.02},
+			"2018-06": {"total":1042190.76, "City Development":121945.46, "Children and Families":920245.30},
+			"2018-07": {"total":1274456.71, "Strategic Accounts":7761.51, "Children and Families":969382.66, "City Development":297312.54},
+			"2018-08": {"total":1020026.90, "Children and Families":579273.85, "City Development":440753.05},
+			"2018-09": {"total":663584.76, "City Development":663584.76},
+			"2018-10": {"total":1571311.16, "Children and Families":155024.77, "City Development":1416286.39}
+		}
+	},
+	"3506": {
+		"name": "Bam Nuttall Ltd",
+		"total": 2132138.81,
+		"monthly": {
+			"2014-03": {"total":120320.38, "City Development":120320.38},
+			"2014-04": {"total":282609.83, "City Development":282609.83},
+			"2014-05": {"total":813624.34, "City Development":813624.34},
+			"2014-07": {"total":322443.76, "City Development":322443.76},
+			"2014-08": {"total":432823.32, "City Development":432823.32},
+			"2014-10": {"total":46856.91, "City Development":46856.91},
+			"2015-03": {"total":60219.56, "City Development":60219.56},
+			"2015-12": {"total":52103.62, "City Development":52103.62},
+			"2016-02": {"total":1137.09, "City Development":1137.09}
+		}
+	},
+	"3507": {
+		"name": "Bambach Saddle Seat (Eur) Ltd",
+		"total": 5829,
+		"monthly": {
+			"2011-07": {"total":755.00, "Other Education Services":755.00},
+			"2011-09": {"total":731.00, "Childrens Services":731.00},
+			"2011-12": {"total":798.00, "Social Services Pooled Budgets":798.00},
+			"2012-02": {"total":906.00, "Childrens Services":906.00},
+			"2012-12": {"total":839.00, "Childrens Services":839.00},
+			"2013-03": {"total":839.00, "Social Services Pooled Budgets":839.00},
+			"2016-12": {"total":961.00, "Social Services Pooled Budgets":961.00}
+		}
+	},
+	"3508": {
+		"name": "Bambino Planet",
+		"total": 539.9,
+		"monthly": {
+			"2018-06": {"total":539.90, "City Development":539.90}
+		}
+	},
+	"3509": {
+		"name": "Bamboo Tamboo Ltd",
+		"total": 3162.33,
+		"monthly": {
+			"2013-10": {"total":1087.50, "Childrens Services":1087.50},
+			"2014-04": {"total":479.00, "Childrens Services":479.00},
+			"2014-10": {"total":166.67, "Childrens Services":166.67},
+			"2014-12": {"total":100.00, "Childrens Services":100.00},
+			"2015-07": {"total":100.00, "Childrens Services":100.00},
+			"2017-01": {"total":491.67, "Childrens Services":491.67},
+			"2018-04": {"total":737.49, "Children and Families":737.49}
+		}
+	},
+	"3510": {
+		"name": "Bame & Older Peoples Services",
+		"total": 60,
+		"monthly": {
+			"2018-03": {"total":60.00, "Communities and Environment":60.00}
+		}
+	},
+	"3511": {
+		"name": "Banagher Precast Concrete Ltd",
+		"total": 77138.59,
+		"monthly": {
+			"2011-04": {"total":58235.00, "City Development":58235.00},
+			"2012-04": {"total":18903.59, "City Development":18903.59}
+		}
+	},
+	"3512": {
+		"name": "Banana Kick Ltd",
+		"total": 107409.69,
+		"monthly": {
+			"2011-01": {"total":825.00, "City Development":825.00},
+			"2011-02": {"total":680.00, "City Development":680.00},
+			"2012-04": {"total":7958.00, "City Development":7958.00},
+			"2013-08": {"total":2600.00, "Adult Social Care":2600.00},
+			"2013-09": {"total":450.00, "Adult Social Care":450.00},
+			"2013-11": {"total":3512.00, "Adult Social Care":3512.00},
+			"2013-12": {"total":1045.00, "Adult Social Care":1045.00},
+			"2014-01": {"total":5725.00, "City Development":5725.00},
+			"2014-04": {"total":6255.00, "City Development":6255.00},
+			"2014-05": {"total":1230.00, "Adult Social Care":1230.00},
+			"2014-07": {"total":1310.00, "City Development":1310.00},
+			"2014-08": {"total":1556.00, "City Development":1556.00},
+			"2014-09": {"total":5934.43, "City Development":5934.43},
+			"2014-11": {"total":4009.43, "City Development":4009.43},
+			"2014-12": {"total":5858.50, "City Development":5858.50},
+			"2015-01": {"total":8900.00, "City Development":8900.00},
+			"2015-02": {"total":1700.00, "City Development":1700.00},
+			"2015-03": {"total":1700.00, "City Development":1700.00},
+			"2015-04": {"total":1700.00, "City Development":1700.00},
+			"2015-07": {"total":6800.00, "City Development":6800.00},
+			"2015-08": {"total":4000.00, "City Development":4000.00},
+			"2015-09": {"total":2155.00, "City Development":2155.00},
+			"2015-10": {"total":1700.00, "City Development":1700.00},
+			"2015-11": {"total":969.00, "City Development":969.00},
+			"2015-12": {"total":3400.00, "City Development":3400.00},
+			"2017-03": {"total":540.00, "Childrens Services":540.00},
+			"2017-05": {"total":333.33, "City Development":333.33},
+			"2017-08": {"total":9000.00, "City Development":9000.00},
+			"2017-11": {"total":4846.00, "Communities and Environment":4846.00},
+			"2017-12": {"total":10718.00, "Communities and Environment":10718.00}
+		}
+	},
+	"3513": {
+		"name": "Banana Moon Day Nursery",
+		"total": 335572.43,
+		"monthly": {
+			"2016-03": {"total":16000.00, "Childrens Services":16000.00},
+			"2016-07": {"total":5323.00, "Childrens Services":5323.00},
+			"2016-09": {"total":11765.60, "Childrens Services":11765.60},
+			"2016-11": {"total":2520.00, "Childrens Services":2520.00},
+			"2016-12": {"total":8145.20, "Childrens Services":8145.20},
+			"2017-01": {"total":20114.60, "Childrens Services":20114.60},
+			"2017-03": {"total":5322.35, "Childrens Services":5322.35},
+			"2017-04": {"total":28899.00, "Childrens Services":28899.00},
+			"2017-06": {"total":222.74, "Children and Families":222.74},
+			"2017-07": {"total":7986.00, "Children and Families":7986.00},
+			"2017-09": {"total":35968.80, "Children and Families":35968.80},
+			"2017-10": {"total":6054.74, "Children and Families":6054.74},
+			"2017-12": {"total":13131.34, "Children and Families":13131.34},
+			"2018-01": {"total":36770.68, "Children and Families":36770.68},
+			"2018-02": {"total":222.74, "Children and Families":222.74},
+			"2018-03": {"total":6874.34, "Children and Families":6874.34},
+			"2018-04": {"total":77361.30, "Children and Families":77361.30},
+			"2018-05": {"total":1063.04, "Children and Families":1063.04},
+			"2018-06": {"total":1174.00, "Children and Families":1174.00},
+			"2018-07": {"total":11784.45, "Children and Families":11784.45},
+			"2018-08": {"total":615.00, "Children and Families":615.00},
+			"2018-09": {"total":22679.39, "Children and Families":22679.39},
+			"2018-10": {"total":15574.12, "Children and Families":15574.12}
+		}
+	},
+	"3514": {
+		"name": "Banbury Boarding Kennels And Cattery",
+		"total": 525,
+		"monthly": {
+			"2014-10": {"total":525.00, "Adult Social Care":525.00}
+		}
+	},
+	"3515": {
+		"name": "Band Supplies",
+		"total": 1482.2,
+		"monthly": {
+			"2014-07": {"total":66.37, "Childrens Services":66.37},
+			"2015-03": {"total":1415.83, "Childrens Services":1415.83}
+		}
+	},
+	"3516": {
+		"name": "Band Supplies Ltd",
+		"total": 2574,
+		"monthly": {
+			"2016-07": {"total":2574.00, "City Development":2574.00}
+		}
+	},
+	"3517": {
+		"name": "Bandbazi",
+		"total": 1000,
+		"monthly": {
+			"2013-05": {"total":1000.00, "City Development":1000.00}
+		}
+	},
+	"3518": {
+		"name": "Bando Construction",
+		"total": 31655,
+		"monthly": {
+			"2014-07": {"total":8962.30, "Environment & Housing":8962.30},
+			"2014-08": {"total":8962.30, "Environment & Housing":8962.30},
+			"2015-03": {"total":5357.30, "Environment & Housing":5357.30},
+			"2015-04": {"total":3000.00, "Social Services Pooled Budgets":3000.00},
+			"2016-05": {"total":5373.10, "Environment & Housing":5373.10}
+		}
+	},
+	"3519": {
+		"name": "Bangladesh Centre Leeds.",
+		"total": 45394,
+		"monthly": {
+			"2011-01": {"total":7500.00, "Environment & Neighbourhoods":7500.00},
+			"2011-03": {"total":17849.00, "Childrens Services":17849.00},
+			"2011-04": {"total":6700.00, "Environment & Neighbourhoods":6700.00},
+			"2011-05": {"total":3750.00, "Environment & Neighbourhoods":3750.00},
+			"2011-10": {"total":1250.00, "Environment & Neighbourhoods":1250.00},
+			"2012-01": {"total":1250.00, "Environment & Neighbourhoods":1250.00},
+			"2012-03": {"total":1250.00, "Environment & Neighbourhoods":1250.00},
+			"2012-05": {"total":1250.00, "Environment & Neighbourhoods":1250.00},
+			"2013-05": {"total":2880.00, "Childrens Services":2880.00},
+			"2014-02": {"total":30.00, "Central & Corporate":30.00},
+			"2014-10": {"total":560.00, "Central & Corporate":560.00},
+			"2015-03": {"total":45.00, "Central & Corporate":45.00},
+			"2015-09": {"total":40.00, "Childrens Services":40.00},
+			"2016-04": {"total":210.00, "Citizens and Communities":210.00},
+			"2017-07": {"total":300.00, "Communities and Environment":300.00},
+			"2018-07": {"total":30.00, "Children and Families":30.00},
+			"2018-08": {"total":250.00, "Strategic Accounts":250.00},
+			"2018-10": {"total":250.00, "Strategic Accounts":250.00}
+		}
+	},
+	"3520": {
+		"name": "Bangladeshi Centre",
+		"total": 550,
+		"monthly": {
+			"2014-03": {"total":300.00, "Strategic Accounts":300.00},
+			"2015-09": {"total":250.00, "Strategic Accounts":250.00}
+		}
+	},
+	"3521": {
+		"name": "Bangladeshi Elderly Group",
+		"total": 1135,
+		"monthly": {
+			"2014-03": {"total":175.00, "Strategic Accounts":175.00},
+			"2015-01": {"total":960.00, "Central & Corporate":960.00}
+		}
+	},
+	"3522": {
+		"name": "Bangor University",
+		"total": 14869.93,
+		"monthly": {
+			"2014-11": {"total":1500.00, "Central & Corporate":1500.00},
+			"2015-09": {"total":300.00, "Childrens Services":300.00},
+			"2016-06": {"total":6100.00, "Childrens Services":6100.00},
+			"2016-07": {"total":1716.00, "Childrens Services":1716.00},
+			"2017-01": {"total":5253.93, "Childrens Services":5253.93}
+		}
+	},
+	"3523": {
+		"name": "Bank Fashion",
+		"total": 30,
+		"monthly": {
+			"2014-02": {"total":20.00, "Childrens Services":20.00},
+			"2014-09": {"total":10.00, "Childrens Services":10.00}
+		}
+	},
+	"3524": {
+		"name": "Bank Fashion 489",
+		"total": 171.5,
+		"monthly": {
+			"2014-06": {"total":40.00, "Childrens Services":40.00},
+			"2014-09": {"total":43.00, "Childrens Services":43.00},
+			"2014-11": {"total":50.00, "Childrens Services":50.00},
+			"2015-02": {"total":38.50, "Childrens Services":38.50}
+		}
+	},
+	"3525": {
+		"name": "Bank Of Scotland Equipment Finance",
+		"total": 3400,
+		"monthly": {
+			"2011-03": {"total":3400.00, "Central & Corporate Functions":3400.00}
+		}
+	},
+	"3526": {
+		"name": "Bank Rec Repaid Cheques",
+		"total": 30105,
+		"monthly": {
+			"2015-07": {"total":25.00, "Insurance":25.00},
+			"2015-09": {"total":25.00, "Insurance":25.00},
+			"2016-10": {"total":50.00, "Insurance":50.00},
+			"2018-01": {"total":5.00, "Insurance":5.00},
+			"2018-09": {"total":30000.00, "Insurance":30000.00}
+		}
+	},
+	"3527": {
+		"name": "Banner Batons",
+		"total": 79.21,
+		"monthly": {
+			"2017-11": {"total":79.21, "City Development":79.21}
+		}
+	},
+	"3528": {
+		"name": "Banner Box",
+		"total": 862.76,
+		"monthly": {
+			"2013-03": {"total":862.76, "City Development":862.76}
+		}
+	},
+	"3529": {
+		"name": "Banner Buzz",
+		"total": 26.85,
+		"monthly": {
+			"2017-02": {"total":26.85, "Civic Enterprise Leeds":26.85}
+		}
+	},
+	"3530": {
+		"name": "Banner Group Ltd",
+		"total": 203.2,
+		"monthly": {
+			"2017-01": {"total":145.20, "City Development":145.20},
+			"2018-04": {"total":58.00, "Communities and Environment":58.00}
+		}
+	},
+	"3531": {
+		"name": "Banner Plant Ltd",
+		"total": 169883.93,
+		"monthly": {
+			"2011-05": {"total":1325.00, "City Development":1325.00},
+			"2012-06": {"total":2064.00, "City Development":2064.00},
+			"2013-01": {"total":18487.60, "Environment & Neighbourhoods":18487.60},
+			"2013-03": {"total":528.00, "Environment & Neighbourhoods":528.00},
+			"2013-04": {"total":704.00, "Environment & Neighbourhoods":704.00},
+			"2013-10": {"total":4550.00, "City Development":4550.00},
+			"2014-01": {"total":2249.83, "City Development":1455.00, "Environment & Housing":794.83},
+			"2014-02": {"total":2064.32, "City Development":1304.00, "Environment & Housing":760.32},
+			"2014-03": {"total":2440.62, "City Development":1432.00, "Environment & Housing":1008.62},
+			"2014-04": {"total":2366.33, "Environment & Housing":1066.33, "City Development":1300.00},
+			"2014-05": {"total":2196.90, "Environment & Housing":1228.90, "City Development":968.00},
+			"2014-06": {"total":1867.33, "City Development":324.00, "Environment & Housing":1543.33},
+			"2014-07": {"total":1760.13, "Environment & Housing":352.13, "City Development":1408.00},
+			"2014-08": {"total":2431.69, "City Development":1570.23, "Environment & Housing":861.46},
+			"2014-09": {"total":1730.40, "Environment & Housing":230.60, "City Development":1499.80},
+			"2014-10": {"total":4432.59, "Environment & Housing":1597.99, "City Development":2834.60},
+			"2014-11": {"total":1332.80, "Environment & Housing":765.20, "City Development":567.60},
+			"2014-12": {"total":3696.88, "Environment & Housing":1209.48, "City Development":2487.40},
+			"2015-01": {"total":1901.56, "Environment & Housing":1079.61, "City Development":821.95},
+			"2015-02": {"total":1680.34, "City Development":1322.85, "Strategic Landlord":87.49, "Environment & Housing":270.00},
+			"2015-03": {"total":4495.34, "City Development":1292.00, "Strategic Landlord":840.08, "Environment & Housing":2363.26},
+			"2015-04": {"total":5021.26, "Environment & Housing":1493.36, "City Development":3527.90},
+			"2015-05": {"total":2136.38, "City Development":1447.60, "Environment & Housing":688.78},
+			"2015-06": {"total":2603.30, "City Development":1642.80, "Environment & Housing":960.50},
+			"2015-07": {"total":2785.45, "Environment & Housing":618.90, "City Development":2166.55},
+			"2015-08": {"total":758.29, "Environment & Housing":758.29},
+			"2015-09": {"total":2442.06, "Environment & Housing":1261.06, "City Development":1181.00},
+			"2015-10": {"total":3194.22, "Environment & Housing":865.62, "City Development":2328.60},
+			"2015-11": {"total":825.70, "City Development":79.20, "Environment & Housing":746.50},
+			"2015-12": {"total":2782.61, "Environment & Housing":773.40, "City Development":2009.21},
+			"2016-01": {"total":298.65, "Environment & Housing":298.65},
+			"2016-02": {"total":3401.88, "Environment & Housing":2374.08, "City Development":1027.80},
+			"2016-03": {"total":1826.90, "Environment & Housing":873.50, "City Development":953.40},
+			"2016-04": {"total":2189.25, "City Development":957.60, "Environment & Housing":1231.65},
+			"2016-05": {"total":1792.01, "City Development":1015.20, "Environment & Housing":776.81},
+			"2016-06": {"total":1884.12, "City Development":987.55, "Environment & Housing":896.57},
+			"2016-07": {"total":2269.52, "City Development":1058.40, "Environment & Housing":1211.12},
+			"2016-08": {"total":1709.92, "Environment & Housing":712.22, "City Development":997.70},
+			"2016-09": {"total":1692.10, "Environment & Housing":696.71, "City Development":995.39},
+			"2016-10": {"total":2857.20, "City Development":1336.80, "Environment & Housing":1520.40},
+			"2016-11": {"total":1731.95, "Environment & Housing":807.95, "City Development":924.00},
+			"2016-12": {"total":2266.45, "Environment & Housing":1142.55, "City Development":1123.90},
+			"2017-01": {"total":3024.90, "Environment & Housing":1754.90, "City Development":1270.00},
+			"2017-02": {"total":5773.60, "City Development":983.40, "Environment & Housing":4790.20},
+			"2017-03": {"total":3015.36, "City Development":976.80, "Environment & Housing":2038.56},
+			"2017-04": {"total":1710.90, "City Development":888.00, "Environment & Housing":822.90},
+			"2017-05": {"total":1899.50, "Environment & Housing":502.90, "City Development":1396.60},
+			"2017-06": {"total":1256.51, "City Development":836.00, "Environment & Housing":420.51},
+			"2017-07": {"total":1677.07, "City Development":1123.40, "Environment & Housing":553.67},
+			"2017-08": {"total":1726.99, "City Development":990.85, "Environment & Housing":736.14},
+			"2017-09": {"total":1956.08, "City Development":1057.80, "Environment & Housing":898.28},
+			"2017-10": {"total":2077.40, "Communities and Environment":1116.00, "City Development":961.40},
+			"2017-11": {"total":2095.90, "City Development":1214.80, "Communities and Environment":881.10},
+			"2017-12": {"total":3301.46, "Communities and Environment":3301.46},
+			"2018-01": {"total":2280.95, "City Development":1839.20, "Communities and Environment":441.75},
+			"2018-02": {"total":1889.72, "Communities and Environment":1011.92, "City Development":877.80},
+			"2018-03": {"total":3727.05, "City Development":1837.65, "Children and Families":110.00, "Communities and Environment":1779.40},
+			"2018-04": {"total":158.16, "Communities and Environment":158.16},
+			"2018-05": {"total":3205.95, "City Development":2224.40, "Communities and Environment":981.55},
+			"2018-06": {"total":1722.95, "City Development":1311.40, "Communities and Environment":411.55},
+			"2018-07": {"total":1193.69, "Communities and Environment":1193.69},
+			"2018-08": {"total":5283.85, "Communities and Environment":1969.55, "City Development":3314.30},
+			"2018-09": {"total":569.47, "City Development":334.65, "Communities and Environment":234.82},
+			"2018-10": {"total":9561.59, "Children and Families":140.00, "City Development":5967.95, "Communities and Environment":3453.64}
+		}
+	},
+	"3532": {
+		"name": "Bannerbridge Plc",
+		"total": 884.4,
+		"monthly": {
+			"2011-11": {"total":884.40, "Aire Valley Homes Leeds":884.40}
+		}
+	},
+	"3533": {
+		"name": "Bannergrouplimited",
+		"total": 31284.2,
+		"monthly": {
+			"2018-07": {"total":89.92, "Children and Families":89.92},
+			"2018-08": {"total":57.12, "Resources and Housing":57.12},
+			"2018-09": {"total":31137.16, "Children and Families":62.20, "Resources and Housing":31074.96}
+		}
+	},
+	"3534": {
+		"name": "Banners And Mash Ltd",
+		"alternate-names": [
+			"Banners And Mash Limited"
+		],
+		"total": 17567.55,
+		"monthly": {
+			"2014-06": {"total":55.00, "Central & Corporate":55.00},
+			"2014-07": {"total":1140.00, "Central & Corporate":1140.00},
+			"2014-08": {"total":2590.00, "City Development":2590.00},
+			"2014-11": {"total":680.00, "Central & Corporate":440.00, "City Development":240.00},
+			"2014-12": {"total":440.00, "Central & Corporate":440.00},
+			"2015-02": {"total":1200.00, "Central & Corporate":1200.00},
+			"2015-09": {"total":3814.87, "Environment & Housing":64.87, "City Development":3750.00},
+			"2016-05": {"total":82.00, "Environment & Housing":82.00},
+			"2016-06": {"total":6368.00, "City Development":6368.00},
+			"2016-08": {"total":600.00, "City Development":600.00},
+			"2016-10": {"total":156.00, "Environment & Housing":156.00},
+			"2017-07": {"total":234.00, "Adults and Health":234.00},
+			"2017-10": {"total":81.84, "City Development":81.84},
+			"2018-04": {"total":81.84, "Adults and Health":81.84},
+			"2018-08": {"total":44.00, "City Development":44.00}
+		}
+	},
+	"3535": {
+		"name": "Banson Tool Hire Ltd",
+		"alternate-names": [
+			"Banson Tool Hire Limited"
+		],
+		"total": 32.4,
+		"monthly": {
+			"2014-06": {"total":32.40, "Environment & Housing":32.40}
+		}
+	},
+	"3536": {
+		"name": "Banya Family Placement",
+		"total": 63741.44,
+		"monthly": {
+			"2014-02": {"total":7285.52, "Childrens Services":7285.52},
+			"2014-03": {"total":3321.34, "Childrens Services":3321.34},
+			"2014-04": {"total":3647.74, "Childrens Services":3321.34, "Adult Social Care":326.40},
+			"2014-05": {"total":3214.20, "Childrens Services":3214.20},
+			"2014-07": {"total":9861.86, "Adult Social Care":326.40, "Childrens Services":9535.46},
+			"2014-08": {"total":3321.34, "Childrens Services":3321.34},
+			"2014-09": {"total":3321.34, "Childrens Services":3321.34},
+			"2014-10": {"total":3214.20, "Childrens Services":3214.20},
+			"2014-12": {"total":6535.54, "Childrens Services":6535.54},
+			"2015-01": {"total":3321.34, "Childrens Services":3321.34},
+			"2015-03": {"total":3321.34, "Childrens Services":3321.34},
+			"2015-04": {"total":2999.92, "Childrens Services":2999.92},
+			"2015-06": {"total":3214.20, "Childrens Services":3214.20},
+			"2015-07": {"total":7161.56, "Childrens Services":7161.56}
+		}
+	},
+	"3537": {
+		"name": "Banya Family Placement Agency Ltd",
+		"total": 277043.24,
+		"monthly": {
+			"2015-08": {"total":13634.11, "Childrens Services":13634.11},
+			"2015-09": {"total":23476.93, "Childrens Services":23476.93},
+			"2015-10": {"total":21470.57, "Childrens Services":21470.57},
+			"2015-11": {"total":12277.19, "Childrens Services":12277.19},
+			"2015-12": {"total":8727.90, "Childrens Services":8727.90},
+			"2016-02": {"total":9018.83, "Childrens Services":9018.83},
+			"2016-03": {"total":17455.80, "Childrens Services":17455.80},
+			"2016-04": {"total":9018.83, "Childrens Services":9018.83},
+			"2016-06": {"total":8727.80, "Childrens Services":8727.80},
+			"2016-07": {"total":8902.46, "Childrens Services":8902.46},
+			"2016-08": {"total":14255.63, "Childrens Services":14255.63},
+			"2016-09": {"total":12626.30, "Childrens Services":12626.30},
+			"2016-11": {"total":8727.90, "Childrens Services":8727.90},
+			"2016-12": {"total":17746.73, "Childrens Services":17746.73},
+			"2017-02": {"total":9018.83, "Childrens Services":9018.83},
+			"2017-03": {"total":9018.83, "Childrens Services":9018.83},
+			"2017-04": {"total":17164.87, "Childrens Services":17164.87},
+			"2017-06": {"total":17746.73, "Children and Families":17746.73},
+			"2017-08": {"total":16524.81, "Children and Families":16524.81},
+			"2017-10": {"total":3607.47, "Children and Families":3607.47},
+			"2017-11": {"total":3491.10, "Children and Families":3491.10},
+			"2017-12": {"total":232.74, "Children and Families":232.74},
+			"2018-07": {"total":3985.56, "Children and Families":3985.56},
+			"2018-08": {"total":3321.30, "Children and Families":3321.30},
+			"2018-09": {"total":3432.01, "Children and Families":3432.01},
+			"2018-10": {"total":3432.01, "Children and Families":3432.01}
+		}
+	},
+	"3538": {
+		"name": "Bapp International",
+		"total": 317.69,
+		"monthly": {
+			"2017-10": {"total":88.44, "Communities and Environment":88.44},
+			"2018-02": {"total":16.16, "Communities and Environment":16.16},
+			"2018-05": {"total":184.19, "Communities and Environment":184.19},
+			"2018-06": {"total":28.90, "Communities and Environment":28.90}
+		}
+	},
+	"3539": {
+		"name": "Bar Hire Solutions",
+		"total": 25276,
+		"monthly": {
+			"2013-05": {"total":5373.00, "City Development":5373.00},
+			"2013-11": {"total":1930.00, "City Development":1930.00},
+			"2014-10": {"total":4955.00, "City Development":4955.00},
+			"2015-01": {"total":1989.60, "City Development":1989.60},
+			"2015-03": {"total":688.00, "City Development":688.00},
+			"2015-06": {"total":1162.40, "City Development":1162.40},
+			"2015-11": {"total":5753.00, "City Development":5753.00},
+			"2015-12": {"total":330.00, "City Development":330.00},
+			"2016-12": {"total":1205.00, "City Development":1205.00},
+			"2017-11": {"total":1890.00, "City Development":1890.00}
+		}
+	},
+	"3540": {
+		"name": "Bar Soba",
+		"total": 1815,
+		"monthly": {
+			"2017-11": {"total":940.00, "Resources and Housing":940.00},
+			"2018-03": {"total":500.00, "Resources and Housing":500.00},
+			"2018-09": {"total":375.00, "Resources and Housing":375.00}
+		}
+	},
+	"3541": {
+		"name": "Barbara Coultas",
+		"total": 600,
+		"monthly": {
+			"2016-11": {"total":200.00, "City Development":200.00},
+			"2017-09": {"total":200.00, "City Development":200.00},
+			"2018-08": {"total":200.00, "City Development":200.00}
+		}
+	},
+	"3542": {
+		"name": "Barbara Craven",
+		"total": 2620,
+		"monthly": {
+			"2013-04": {"total":2500.00, "West - North West":2500.00},
+			"2014-10": {"total":120.00, "Environment & Housing":120.00}
+		}
+	},
+	"3543": {
+		"name": "Barbara Hemmingway",
+		"total": 1737,
+		"monthly": {
+			"2011-02": {"total":579.00, "Adult Social Care":579.00},
+			"2011-03": {"total":579.00, "Adult Social Care":579.00},
+			"2011-04": {"total":579.00, "Adult Social Care":579.00}
+		}
+	},
+	"3544": {
 		"name": "Barbara Lisicki",
 		"total": 1524.95,
 		"monthly": {
 			"2017-08": {"total":1524.95, "Resources and Housing":1524.95}
 		}
 	},
-	"3501": {
+	"3545": {
 		"name": "Barbara Szabacsi",
-		"total": 10715,
+		"total": 11139.55,
 		"monthly": {
 			"2016-02": {"total":78.30, "Citizens and Communities":78.30},
 			"2016-03": {"total":80.05, "Citizens and Communities":80.05},
@@ -36,66 +679,72 @@
 			"2018-04": {"total":489.75, "Communities and Environment":489.75},
 			"2018-05": {"total":257.50, "Communities and Environment":257.50},
 			"2018-06": {"total":601.75, "Communities and Environment":601.75},
-			"2018-09": {"total":582.25, "Communities and Environment":582.25}
+			"2018-07": {"total":472.80, "Communities and Environment":472.80},
+			"2018-08": {"total":679.15, "Communities and Environment":679.15},
+			"2018-09": {"total":582.25, "Communities and Environment":582.25},
+			"2018-10": {"total":424.55, "Communities and Environment":424.55}
 		}
 	},
-	"3502": {
+	"3546": {
 		"name": "Barbelles Ltd",
 		"total": 2170,
 		"monthly": {
 			"2016-02": {"total":2170.00, "City Development":2170.00}
 		}
 	},
-	"3503": {
+	"3547": {
 		"name": "Barburrito Ltd",
 		"total": 15.3,
 		"monthly": {
 			"2015-11": {"total":15.30, "Childrens Services":15.30}
 		}
 	},
-	"3504": {
+	"3548": {
 		"name": "Barca - Leeds",
-		"total": 2101408.18,
+		"total": 2177711.36,
 		"monthly": {
-			"2016-01": {"total":7050.11, "Childrens Services":6250.00, "Citizens and Communities":800.11},
+			"2016-01": {"total":7050.11, "Citizens and Communities":800.11, "Childrens Services":6250.00},
 			"2016-02": {"total":105896.67, "Childrens Services":54166.67, "Public Health":51730.00},
-			"2016-03": {"total":101833.34, "Citizens and Communities":6000.00, "Childrens Services":95833.34},
-			"2016-04": {"total":74478.65, "Strategic Landlord":17142.55, "Childrens Services":41574.00, "Citizens and Communities":15762.10},
+			"2016-03": {"total":101833.34, "Childrens Services":95833.34, "Citizens and Communities":6000.00},
+			"2016-04": {"total":74478.65, "Strategic Landlord":17142.55, "Citizens and Communities":15762.10, "Childrens Services":41574.00},
 			"2016-05": {"total":43386.05, "Citizens and Communities":3802.72, "Childrens Services":39583.33},
-			"2016-06": {"total":108775.49, "Public Health":49142.50, "Citizens and Communities":4112.16, "Childrens Services":55520.83},
+			"2016-06": {"total":108775.49, "Public Health":49142.50, "Childrens Services":55520.83, "Citizens and Communities":4112.16},
 			"2016-07": {"total":53272.30, "Citizens and Communities":6129.34, "Childrens Services":47142.96},
 			"2016-08": {"total":99350.83, "Public Health":49142.50, "Childrens Services":50208.33},
 			"2016-09": {"total":44895.83, "Childrens Services":44895.83},
-			"2016-10": {"total":84818.18, "Strategic Landlord":2735.00, "Citizens and Communities":19487.35, "Childrens Services":62395.83, "Strategic Accounts":200.00},
-			"2016-11": {"total":50847.50, "City Development":1705.00, "Public Health":49142.50},
-			"2016-12": {"total":104215.07, "Strategic Landlord":17777.84, "Childrens Services":84479.16, "Citizens and Communities":1958.07},
+			"2016-10": {"total":84818.18, "Strategic Landlord":2735.00, "Strategic Accounts":200.00, "Citizens and Communities":19487.35, "Childrens Services":62395.83},
+			"2016-11": {"total":50847.50, "Public Health":49142.50, "City Development":1705.00},
+			"2016-12": {"total":104215.07, "Citizens and Communities":1958.07, "Strategic Landlord":17777.84, "Childrens Services":84479.16},
 			"2017-01": {"total":19417.07, "Citizens and Communities":1917.07, "Childrens Services":17500.00},
-			"2017-02": {"total":109442.55, "Public Health":49142.50, "Citizens and Communities":10091.72, "Childrens Services":50208.33},
-			"2017-03": {"total":108954.43, "Strategic Landlord":16126.00, "Childrens Services":89791.66, "Citizens and Communities":2991.77, "Public Health":45.00},
+			"2017-02": {"total":109442.55, "Citizens and Communities":10091.72, "Childrens Services":50208.33, "Public Health":49142.50},
+			"2017-03": {"total":108954.43, "Childrens Services":89791.66, "Public Health":45.00, "Strategic Landlord":16126.00, "Citizens and Communities":2991.77},
 			"2017-04": {"total":73666.13, "Childrens Services":68225.33, "Citizens and Communities":5440.80},
-			"2017-05": {"total":49827.50, "Communities and Environment":8750.00, "Adults and Health":35765.00, "Children and Families":5312.50},
+			"2017-05": {"total":49827.50, "Children and Families":5312.50, "Adults and Health":35765.00, "Communities and Environment":8750.00},
 			"2017-06": {"total":61979.16, "Children and Families":61979.16},
-			"2017-07": {"total":6063.46, "Children and Families":5312.50, "Communities and Environment":750.96},
+			"2017-07": {"total":6063.46, "Communities and Environment":750.96, "Children and Families":5312.50},
 			"2017-08": {"total":100744.16, "Children and Families":64979.16, "Adults and Health":35765.00},
-			"2017-09": {"total":34565.00, "Strategic Landlord":2440.00, "Children and Families":32125.00},
+			"2017-09": {"total":34565.00, "Children and Families":32125.00, "Strategic Landlord":2440.00},
 			"2017-10": {"total":47247.83, "Children and Families":47247.83},
 			"2017-11": {"total":67291.66, "Children and Families":67291.66},
-			"2017-12": {"total":69510.83, "Strategic Accounts":100.00, "Children and Families":33645.83, "Adults and Health":35765.00},
-			"2018-01": {"total":30191.29, "Communities and Environment":2234.04, "Children and Families":27957.25},
+			"2017-12": {"total":69510.83, "Children and Families":33645.83, "Strategic Accounts":100.00, "Adults and Health":35765.00},
+			"2018-01": {"total":30191.29, "Children and Families":27957.25, "Communities and Environment":2234.04},
 			"2018-02": {"total":80978.24, "Communities and Environment":1567.41, "Adults and Health":35765.00, "Children and Families":43645.83},
 			"2018-03": {"total":87291.66, "Children and Families":87291.66},
 			"2018-04": {"total":57790.58, "Children and Families":57790.58},
-			"2018-05": {"total":41077.50, "Adults and Health":35765.00, "Children and Families":5312.50},
+			"2018-05": {"total":41077.50, "Children and Families":5312.50, "Adults and Health":35765.00},
 			"2018-06": {"total":7357.50, "Children and Families":7357.50},
-			"2018-09": {"total":10000.00, "Children and Families":10000.00}
+			"2018-07": {"total":92801.61, "Communities and Environment":2489.11, "Children and Families":90312.50},
+			"2018-08": {"total":66390.00, "Children and Families":30625.00, "Adults and Health":35765.00},
+			"2018-09": {"total":10000.00, "Children and Families":10000.00},
+			"2018-10": {"total":76303.18, "Adults and Health":35765.00, "Children and Families":35533.68, "Strategic Landlord":5004.50}
 		}
 	},
-	"3505": {
+	"3549": {
 		"name": "Barca Leeds",
 		"total": 2635800.55,
 		"monthly": {
-			"2011-02": {"total":138436.33, "Environment & Neighbourhoods":55526.75, "Childrens Services":78290.25, "City Development":4619.33},
-			"2011-03": {"total":30876.99, "Childrens Services":2718.25, "Environment & Neighbourhoods":18920.08, "City Development":9238.66},
+			"2011-02": {"total":138436.33, "Environment & Neighbourhoods":55526.75, "City Development":4619.33, "Childrens Services":78290.25},
+			"2011-03": {"total":30876.99, "City Development":9238.66, "Childrens Services":2718.25, "Environment & Neighbourhoods":18920.08},
 			"2011-04": {"total":5289.50, "Childrens Services":5289.50},
 			"2011-05": {"total":103318.50, "Environment & Neighbourhoods":52998.75, "Childrens Services":50319.75},
 			"2011-06": {"total":18920.08, "Central & Corporate Functions":18920.08},
@@ -111,618 +760,44 @@
 			"2012-05": {"total":65260.25, "Environment & Neighbourhoods":52760.25, "Childrens Services":12500.00},
 			"2012-06": {"total":6250.00, "Childrens Services":6250.00},
 			"2012-07": {"total":22697.00, "Central & Corporate Functions":16447.00, "Childrens Services":6250.00},
-			"2012-08": {"total":59010.25, "Environment & Neighbourhoods":52760.25, "Childrens Services":6250.00},
+			"2012-08": {"total":59010.25, "Childrens Services":6250.00, "Environment & Neighbourhoods":52760.25},
 			"2012-09": {"total":6250.00, "Childrens Services":6250.00},
-			"2012-10": {"total":74229.25, "Central & Corporate Functions":15219.00, "Environment & Neighbourhoods":52760.25, "Childrens Services":6250.00},
+			"2012-10": {"total":74229.25, "Environment & Neighbourhoods":52760.25, "Central & Corporate Functions":15219.00, "Childrens Services":6250.00},
 			"2012-11": {"total":6250.00, "Childrens Services":6250.00},
-			"2012-12": {"total":7900.00, "City Development":1650.00, "Childrens Services":6250.00},
+			"2012-12": {"total":7900.00, "Childrens Services":6250.00, "City Development":1650.00},
 			"2013-01": {"total":56094.25, "Central & Corporate":3334.00, "Environment & Neighbourhoods":52760.25},
 			"2013-02": {"total":6250.00, "Childrens Services":6250.00},
 			"2013-03": {"total":12500.00, "Childrens Services":12500.00},
-			"2013-05": {"total":74010.25, "Central & Corporate":15000.00, "Childrens Services":6250.00, "Environment & Housing":52760.25},
+			"2013-05": {"total":74010.25, "Environment & Housing":52760.25, "Childrens Services":6250.00, "Central & Corporate":15000.00},
 			"2013-06": {"total":6250.00, "Childrens Services":6250.00},
 			"2013-07": {"total":21250.00, "Childrens Services":6250.00, "Central & Corporate":15000.00},
 			"2013-08": {"total":62010.25, "Central & Corporate":3000.00, "Childrens Services":6250.00, "Environment & Housing":52760.25},
 			"2013-09": {"total":6250.00, "Childrens Services":6250.00},
-			"2013-10": {"total":35375.00, "West - North West":2437.50, "Central & Corporate":18000.00, "Childrens Services":12500.00, "Environment & Housing":2437.50},
+			"2013-10": {"total":35375.00, "Environment & Housing":2437.50, "West - North West":2437.50, "Childrens Services":12500.00, "Central & Corporate":18000.00},
 			"2013-11": {"total":52760.25, "Environment & Housing":52760.25},
 			"2013-12": {"total":6250.00, "Childrens Services":6250.00},
 			"2014-01": {"total":87347.75, "Central & Corporate":19650.00, "Childrens Services":12500.00, "Environment & Housing":55197.75},
 			"2014-02": {"total":300.00, "Central & Corporate":300.00},
-			"2014-04": {"total":19587.50, "Environment & Housing":2437.50, "Childrens Services":12500.00, "Central & Corporate":4650.00},
+			"2014-04": {"total":19587.50, "Childrens Services":12500.00, "Central & Corporate":4650.00, "Environment & Housing":2437.50},
 			"2014-05": {"total":104489.75, "Environment & Housing":52760.25, "Central & Corporate":51729.50},
 			"2014-06": {"total":13391.00, "Childrens Services":12500.00, "Central & Corporate":891.00},
-			"2014-07": {"total":111239.75, "Environment & Housing":52760.25, "Childrens Services":6250.00, "Central & Corporate":51729.50, "Strategic Accounts":500.00},
+			"2014-07": {"total":111239.75, "Childrens Services":6250.00, "Strategic Accounts":500.00, "Central & Corporate":51729.50, "Environment & Housing":52760.25},
 			"2014-08": {"total":6562.50, "Central & Corporate":312.50, "Childrens Services":6250.00},
-			"2014-10": {"total":110739.75, "Environment & Housing":52760.25, "Childrens Services":6250.00, "Central & Corporate":51729.50},
+			"2014-10": {"total":110739.75, "Childrens Services":6250.00, "Central & Corporate":51729.50, "Environment & Housing":52760.25},
 			"2014-11": {"total":47034.38, "Childrens Services":41667.00, "Central & Corporate":5367.38},
-			"2014-12": {"total":97666.16, "Central & Corporate":1832.16, "Childrens Services":95834.00},
+			"2014-12": {"total":97666.16, "Childrens Services":95834.00, "Central & Corporate":1832.16},
 			"2015-01": {"total":42367.00, "Central & Corporate":700.00, "Childrens Services":41667.00},
-			"2015-02": {"total":110739.75, "Childrens Services":6250.00, "Environment & Housing":52760.25, "Central & Corporate":51729.50},
+			"2015-02": {"total":110739.75, "Central & Corporate":51729.50, "Childrens Services":6250.00, "Environment & Housing":52760.25},
 			"2015-03": {"total":53277.36, "Childrens Services":47917.00, "Central & Corporate":5360.36},
 			"2015-04": {"total":89582.00, "Childrens Services":89582.00},
-			"2015-05": {"total":112898.91, "Environment & Housing":52760.25, "Childrens Services":6250.00, "Central & Corporate":53888.66},
+			"2015-05": {"total":112898.91, "Environment & Housing":52760.25, "Central & Corporate":53888.66, "Childrens Services":6250.00},
 			"2015-06": {"total":54166.67, "Childrens Services":54166.67},
 			"2015-07": {"total":95038.67, "Childrens Services":41666.67, "Central & Corporate":53372.00},
-			"2015-08": {"total":85411.34, "Childrens Services":83333.34, "Strategic Landlord":2078.00},
+			"2015-08": {"total":85411.34, "Strategic Landlord":2078.00, "Childrens Services":83333.34},
 			"2015-09": {"total":66666.67, "Childrens Services":66666.67},
-			"2015-10": {"total":51613.20, "Strategic Landlord":696.53, "Childrens Services":47916.67, "Citizens and Communities":3000.00},
-			"2015-11": {"total":95688.12, "Central & Corporate":51730.00, "Childrens Services":41666.67, "Citizens and Communities":2291.45},
+			"2015-10": {"total":51613.20, "Childrens Services":47916.67, "Citizens and Communities":3000.00, "Strategic Landlord":696.53},
+			"2015-11": {"total":95688.12, "Childrens Services":41666.67, "Citizens and Communities":2291.45, "Central & Corporate":51730.00},
 			"2015-12": {"total":47916.67, "Childrens Services":47916.67}
-		}
-	},
-	"3506": {
-		"name": "Barca Leeds Youth Inc",
-		"total": 7510.86,
-		"monthly": {
-			"2013-08": {"total":500.00, "West - North West":500.00},
-			"2014-06": {"total":450.00, "Central & Corporate":350.00, "City Development":100.00},
-			"2015-05": {"total":300.00, "Central & Corporate":300.00},
-			"2015-12": {"total":2661.62, "Citizens and Communities":2661.62},
-			"2016-05": {"total":350.00, "Citizens and Communities":350.00},
-			"2017-06": {"total":375.00, "Communities and Environment":375.00},
-			"2018-05": {"total":400.00, "Communities and Environment":400.00}
-		}
-	},
-	"3507": {
-		"name": "Barcham Trees Plc",
-		"total": 14769.2,
-		"monthly": {
-			"2012-07": {"total":1011.20, "City Development":1011.20},
-			"2014-04": {"total":13758.00, "Environment & Housing":13758.00}
-		}
-	},
-	"3508": {
-		"name": "Barchams Trees Plc",
-		"total": 2229.12,
-		"monthly": {
-			"2012-12": {"total":2229.12, "City Development":2229.12}
-		}
-	},
-	"3509": {
-		"name": "Barclay Electrical & Solar",
-		"total": 22800,
-		"monthly": {
-			"2014-03": {"total":15960.00, "City Development":15960.00},
-			"2014-04": {"total":6840.00, "City Development":6840.00}
-		}
-	},
-	"3510": {
-		"name": "Barclay House",
-		"total": 178073.73,
-		"monthly": {
-			"2017-12": {"total":81327.60, "Adults and Health":81327.60},
-			"2018-01": {"total":9067.05, "Adults and Health":9067.05},
-			"2018-02": {"total":9742.12, "Adults and Health":9742.12},
-			"2018-03": {"total":9742.12, "Adults and Health":9742.12},
-			"2018-04": {"total":9742.12, "Adults and Health":9742.12},
-			"2018-05": {"total":19484.24, "Adults and Health":19484.24},
-			"2018-06": {"total":9742.12, "Adults and Health":9742.12},
-			"2018-09": {"total":9742.12, "Adults and Health":9742.12}
-		}
-	},
-	"3511": {
-		"name": "Barclays Partner Finance",
-		"total": 6040,
-		"monthly": {
-			"2016-01": {"total":6040.00, "Insurance":6040.00}
-		}
-	},
-	"3512": {
-		"name": "Bard Ltd",
-		"alternate-names": [
-			"Bard Limited"
-		],
-		"total": 297,
-		"monthly": {
-			"2014-06": {"total":99.00, "Social Services Pooled Budgets":99.00},
-			"2014-12": {"total":99.00, "Social Services Pooled Budgets":99.00},
-			"2015-04": {"total":99.00, "Social Services Pooled Budgets":99.00}
-		}
-	},
-	"3513": {
-		"name": "Bardons Environmental",
-		"total": 8000,
-		"monthly": {
-			"2013-05": {"total":8000.00, "Adult Social Care":8000.00}
-		}
-	},
-	"3514": {
-		"name": "Bardsey Bowling Club",
-		"total": 3549,
-		"monthly": {
-			"2015-11": {"total":1458.00, "Strategic Accounts":1458.00},
-			"2018-05": {"total":2091.00, "Communities and Environment":2091.00}
-		}
-	},
-	"3515": {
-		"name": "Bardsey Building Contractors Ltd",
-		"total": 8330.9,
-		"monthly": {
-			"2011-10": {"total":5441.90, "Other Education Services":5441.90},
-			"2012-04": {"total":2889.00, "Other Education Services":2889.00}
-		}
-	},
-	"3516": {
-		"name": "Bardsey Cubs",
-		"total": 1000,
-		"monthly": {
-			"2015-05": {"total":500.00, "Strategic Accounts":500.00},
-			"2015-07": {"total":500.00, "Strategic Accounts":500.00}
-		}
-	},
-	"3517": {
-		"name": "Bardsey Mills Ltd",
-		"total": 15.33,
-		"monthly": {
-			"2018-05": {"total":15.33, "Communities and Environment":15.33}
-		}
-	},
-	"3518": {
-		"name": "Bardsey Nursery Group",
-		"total": 188297.63,
-		"monthly": {
-			"2011-04": {"total":9040.51, "Childrens Services":9040.51},
-			"2011-07": {"total":2405.78, "Childrens Services":2405.78},
-			"2011-09": {"total":7299.14, "Childrens Services":7299.14},
-			"2011-12": {"total":3273.70, "Childrens Services":3273.70},
-			"2012-03": {"total":9990.00, "Childrens Services":9990.00},
-			"2012-07": {"total":11746.02, "Childrens Services":11746.02},
-			"2012-09": {"total":3729.60, "Childrens Services":3729.60},
-			"2012-12": {"total":10416.24, "Childrens Services":10416.24},
-			"2013-07": {"total":10799.91, "Childrens Services":10799.91},
-			"2013-09": {"total":3150.00, "Childrens Services":3150.00},
-			"2013-12": {"total":1160.78, "Childrens Services":1160.78},
-			"2014-03": {"total":5737.88, "Childrens Services":5737.88},
-			"2014-04": {"total":194.00, "Childrens Services":194.00},
-			"2014-05": {"total":175.00, "Childrens Services":175.00},
-			"2014-07": {"total":7452.41, "Childrens Services":7452.41},
-			"2014-10": {"total":175.00, "Childrens Services":175.00},
-			"2014-12": {"total":7467.00, "Childrens Services":7467.00},
-			"2015-02": {"total":175.00, "Childrens Services":175.00},
-			"2015-03": {"total":7649.40, "Childrens Services":7649.40},
-			"2015-05": {"total":117.43, "Childrens Services":117.43},
-			"2015-07": {"total":11905.40, "Childrens Services":11905.40},
-			"2015-10": {"total":117.43, "Childrens Services":117.43},
-			"2015-12": {"total":8029.48, "Childrens Services":8029.48},
-			"2016-02": {"total":117.43, "Childrens Services":117.43},
-			"2016-03": {"total":8519.68, "Childrens Services":8519.68},
-			"2016-06": {"total":139.67, "Childrens Services":139.67},
-			"2016-07": {"total":11609.00, "Childrens Services":11609.00},
-			"2016-10": {"total":139.67, "Childrens Services":139.67},
-			"2016-12": {"total":5346.60, "Childrens Services":5346.60},
-			"2017-02": {"total":139.67, "Childrens Services":139.67},
-			"2017-03": {"total":4848.80, "Childrens Services":4848.80},
-			"2017-07": {"total":9487.80, "Children and Families":9487.80},
-			"2017-12": {"total":7879.20, "Children and Families":7879.20},
-			"2018-03": {"total":7476.00, "Children and Families":7476.00}
-		}
-	},
-	"3519": {
-		"name": "Bardsey Parish Council",
-		"total": 265498,
-		"monthly": {
-			"2011-04": {"total":28500.00, "Strategic Accounts":28500.00},
-			"2011-11": {"total":500.00, "Strategic Accounts":500.00},
-			"2012-04": {"total":30000.00, "Strategic Accounts":30000.00},
-			"2013-04": {"total":32099.00, "Strategic Accounts":32099.00},
-			"2014-04": {"total":31968.00, "Strategic Accounts":31968.00},
-			"2015-04": {"total":32399.00, "Strategic Accounts":32399.00},
-			"2015-05": {"total":50.00, "Environment & Housing":50.00},
-			"2016-04": {"total":33068.00, "Strategic Accounts":33068.00},
-			"2017-04": {"total":32981.00, "Strategic Accounts":32981.00},
-			"2018-01": {"total":10000.00, "Communities and Environment":10000.00},
-			"2018-04": {"total":33933.00, "Strategic Accounts":33933.00}
-		}
-	},
-	"3520": {
-		"name": "Bardsey Primary School Fund",
-		"total": 1321.23,
-		"monthly": {
-			"2018-02": {"total":1321.23, "Strategic Accounts":1321.23}
-		}
-	},
-	"3521": {
-		"name": "Bardsey Scout Group",
-		"total": 850,
-		"monthly": {
-			"2014-03": {"total":500.00, "Strategic Accounts":500.00},
-			"2016-03": {"total":350.00, "Strategic Accounts":350.00}
-		}
-	},
-	"3522": {
-		"name": "Bardsey Sports Club",
-		"total": 2500,
-		"monthly": {
-			"2011-06": {"total":500.00, "Strategic Accounts":500.00},
-			"2012-04": {"total":2000.00, "East - North East":2000.00}
-		}
-	},
-	"3523": {
-		"name": "Bardsey Tree Services",
-		"total": 5960,
-		"monthly": {
-			"2011-05": {"total":4560.00, "City Development":4560.00},
-			"2017-10": {"total":1400.00, "Children and Families":1400.00}
-		}
-	},
-	"3524": {
-		"name": "Bardsey Village Hall",
-		"total": 6773,
-		"monthly": {
-			"2014-02": {"total":23.00, "Central & Corporate":23.00},
-			"2014-06": {"total":250.00, "Central & Corporate":250.00},
-			"2015-02": {"total":5000.00, "Central & Corporate":5000.00},
-			"2015-05": {"total":250.00, "Central & Corporate":250.00},
-			"2016-05": {"total":250.00, "Citizens and Communities":250.00},
-			"2016-07": {"total":250.00, "Citizens and Communities":250.00},
-			"2017-06": {"total":250.00, "Communities and Environment":250.00},
-			"2017-10": {"total":250.00, "Communities and Environment":250.00},
-			"2018-05": {"total":250.00, "Communities and Environment":250.00}
-		}
-	},
-	"3525": {
-		"name": "Barefoot Coaching Ltd",
-		"total": 3645,
-		"monthly": {
-			"2014-10": {"total":2585.00, "Central & Corporate":2585.00},
-			"2018-04": {"total":1060.00, "Resources and Housing":1060.00}
-		}
-	},
-	"3526": {
-		"name": "Barenbrug Uk Ltd",
-		"total": 4352.2,
-		"monthly": {
-			"2011-03": {"total":928.80, "City Development":928.80},
-			"2011-09": {"total":1255.00, "City Development":1255.00},
-			"2011-10": {"total":581.40, "City Development":581.40},
-			"2012-04": {"total":1587.00, "City Development":1587.00}
-		}
-	},
-	"3527": {
-		"name": "Barfit Ltd",
-		"total": 107.6,
-		"monthly": {
-			"2014-08": {"total":107.60, "City Development":107.60}
-		}
-	},
-	"3528": {
-		"name": "Bargain Booze 140",
-		"total": 82,
-		"monthly": {
-			"2017-01": {"total":61.00, "Childrens Services":61.00},
-			"2017-07": {"total":21.00, "Children and Families":21.00}
-		}
-	},
-	"3529": {
-		"name": "Bargain Booze 350",
-		"total": 4.17,
-		"monthly": {
-			"2016-06": {"total":4.17, "Childrens Services":4.17}
-		}
-	},
-	"3530": {
-		"name": "Bargain Booze Plus",
-		"total": 22.2,
-		"monthly": {
-			"2016-11": {"total":22.20, "Childrens Services":22.20}
-		}
-	},
-	"3531": {
-		"name": "Bargain Pets Ltd",
-		"total": 2500,
-		"monthly": {
-			"2016-02": {"total":2500.00, "City Development":2500.00}
-		}
-	},
-	"3532": {
-		"name": "Bargain Tools Ltd",
-		"total": 905.55,
-		"monthly": {
-			"2015-07": {"total":83.28, "City Development":83.28},
-			"2015-10": {"total":111.83, "City Development":111.83},
-			"2015-11": {"total":59.16, "City Development":59.16},
-			"2016-02": {"total":63.41, "City Development":63.41},
-			"2016-03": {"total":195.00, "City Development":195.00},
-			"2016-05": {"total":72.54, "City Development":72.54},
-			"2016-06": {"total":46.94, "City Development":46.94},
-			"2016-11": {"total":5.97, "City Development":5.97},
-			"2016-12": {"total":5.97, "City Development":5.97},
-			"2017-01": {"total":72.42, "City Development":72.42},
-			"2017-02": {"total":11.65, "City Development":11.65},
-			"2017-03": {"total":9.38, "City Development":9.38},
-			"2017-04": {"total":11.23, "City Development":11.23},
-			"2017-05": {"total":61.82, "City Development":61.82},
-			"2017-06": {"total":15.48, "City Development":15.48},
-			"2017-07": {"total":8.24, "Environment & Housing":8.24},
-			"2017-08": {"total":11.23, "City Development":11.23},
-			"2017-11": {"total":27.48, "Resources and Housing":27.48},
-			"2018-08": {"total":8.32, "Communities and Environment":8.32}
-		}
-	},
-	"3533": {
-		"name": "Barisons Productions Ltd",
-		"total": 1618.4,
-		"monthly": {
-			"2013-01": {"total":1618.40, "City Development":1618.40}
-		}
-	},
-	"3534": {
-		"name": "Barkat Continental",
-		"total": 32.56,
-		"monthly": {
-			"2015-09": {"total":32.56, "Childrens Services":32.56}
-		}
-	},
-	"3535": {
-		"name": "Barker & Stonehous",
-		"total": 9680,
-		"monthly": {
-			"2015-01": {"total":5030.00, "Childrens Services":5030.00},
-			"2016-01": {"total":2875.00, "Childrens Services":2875.00}
-		}
-	},
-	"3536": {
-		"name": "Barkerandstonehous",
-		"total": 1486.65,
-		"monthly": {
-			"2016-12": {"total":194.65, "Childrens Services":194.65},
-			"2017-02": {"total":375.00, "Childrens Services":375.00}
-		}
-	},
-	"3537": {
-		"name": "Barkers Curtain Corner",
-		"total": 26.99,
-		"monthly": {
-			"2018-02": {"total":26.99, "Resources and Housing":26.99}
-		}
-	},
-	"3538": {
-		"name": "Barking Havering & Redbridge Nhs Trust",
-		"total": 1641,
-		"monthly": {
-			"2014-03": {"total":523.00, "Central & Corporate":523.00},
-			"2014-08": {"total":211.00, "Central & Corporate":211.00},
-			"2015-01": {"total":154.00, "Central & Corporate":154.00},
-			"2015-04": {"total":49.00, "Central & Corporate":49.00},
-			"2015-05": {"total":104.00, "Central & Corporate":104.00},
-			"2016-02": {"total":252.00, "Public Health":252.00},
-			"2016-07": {"total":192.00, "Public Health":192.00},
-			"2018-09": {"total":156.00, "Adults and Health":156.00}
-		}
-	},
-	"3539": {
-		"name": "Barkston Plastics Ltd",
-		"total": 3750.1,
-		"monthly": {
-			"2011-02": {"total":1123.96, "Central & Corporate Functions":1123.96},
-			"2013-05": {"total":561.88, "Central & Corporate":561.88},
-			"2014-05": {"total":68.00, "Central & Corporate":68.00},
-			"2014-10": {"total":1376.10, "Central & Corporate":1376.10},
-			"2014-12": {"total":330.00, "Central & Corporate":330.00},
-			"2015-02": {"total":16.67, "Central & Corporate":16.67},
-			"2015-10": {"total":10.00, "Central & Corporate":10.00},
-			"2015-11": {"total":85.60, "Central & Corporate":85.60},
-			"2016-08": {"total":20.85, "Environment & Housing":20.85},
-			"2017-10": {"total":65.54, "Resources and Housing":65.54},
-			"2018-04": {"total":91.50, "City Development":91.50}
-		}
-	},
-	"3540": {
-		"name": "Barley Lettings And Management",
-		"total": 525,
-		"monthly": {
-			"2011-01": {"total":525.00, "Environment & Neighbourhoods":525.00}
-		}
-	},
-	"3541": {
-		"name": "Barley Studio Ltd",
-		"total": 95,
-		"monthly": {
-			"2017-04": {"total":95.00, "Childrens Services":95.00}
-		}
-	},
-	"3542": {
-		"name": "Barlow Robbins Llp",
-		"total": 14500,
-		"monthly": {
-			"2011-06": {"total":7500.00, "Strategic Accounts":7500.00},
-			"2011-10": {"total":7000.00, "Insurance":7000.00}
-		}
-	},
-	"3543": {
-		"name": "Barnaby Lionel Booth Choreography",
-		"total": 440,
-		"monthly": {
-			"2015-09": {"total":200.00, "City Development":200.00},
-			"2015-10": {"total":150.00, "City Development":150.00},
-			"2015-12": {"total":90.00, "City Development":90.00}
-		}
-	},
-	"3544": {
-		"name": "Barnado'S North West",
-		"total": 550,
-		"monthly": {
-			"2013-07": {"total":550.00, "Childrens Services":550.00}
-		}
-	},
-	"3545": {
-		"name": "Barnados",
-		"total": 38955.41,
-		"monthly": {
-			"2013-04": {"total":2456.66, "City Development":2456.66},
-			"2013-05": {"total":5548.25, "Central & Corporate":5548.25},
-			"2013-08": {"total":3210.00, "Childrens Services":3210.00},
-			"2014-08": {"total":11096.50, "Central & Corporate":11096.50},
-			"2014-11": {"total":5548.25, "Central & Corporate":5548.25},
-			"2015-02": {"total":5548.25, "Central & Corporate":5548.25},
-			"2015-06": {"total":5547.50, "Central & Corporate":5547.50}
-		}
-	},
-	"3546": {
-		"name": "Barnardo Services Ltd",
-		"total": 6474595.71,
-		"monthly": {
-			"2011-02": {"total":284511.47, "Adult Social Care":29759.25, "Social Services Pooled Budgets":2340.00, "Childrens Services":252412.22},
-			"2011-03": {"total":106680.87, "Childrens Services":106680.87},
-			"2011-05": {"total":26063.00, "Adult Social Care":26063.00},
-			"2011-10": {"total":27381.33, "Childrens Services":27381.33},
-			"2011-11": {"total":63335.84, "Childrens Services":37272.84, "Adult Social Care":26063.00},
-			"2011-12": {"total":2340.00, "Social Services Pooled Budgets":2340.00},
-			"2012-01": {"total":27381.33, "Childrens Services":27381.33},
-			"2012-02": {"total":44941.17, "Social Services Pooled Budgets":2340.00, "Adult Social Care":26063.00, "Childrens Services":16538.17},
-			"2012-04": {"total":27381.33, "Childrens Services":27381.33},
-			"2012-05": {"total":18000.00, "Childrens Services":18000.00},
-			"2012-06": {"total":110719.67, "Childrens Services":84656.67, "Adult Social Care":26063.00},
-			"2012-07": {"total":22144.00, "Childrens Services":22144.00},
-			"2012-08": {"total":134127.00, "Adult Social Care":26063.00, "Childrens Services":108064.00},
-			"2012-09": {"total":84491.25, "Childrens Services":83951.25, "Social Services Pooled Budgets":540.00},
-			"2012-10": {"total":759.00, "Adult Social Care":759.00},
-			"2012-11": {"total":327128.95, "Adult Social Care":26822.00, "Social Services Pooled Budgets":495.00, "Childrens Services":299811.95},
-			"2013-01": {"total":56800.00, "Childrens Services":56800.00},
-			"2013-02": {"total":262614.60, "Childrens Services":235741.60, "Adult Social Care":26063.00, "Social Services Pooled Budgets":810.00},
-			"2013-03": {"total":1100.00, "Childrens Services":1100.00},
-			"2013-04": {"total":129880.64, "Childrens Services":129880.64},
-			"2013-05": {"total":41508.45, "Social Services Pooled Budgets":1170.00, "Adult Social Care":26063.00, "Childrens Services":14275.45},
-			"2013-07": {"total":42826.35, "Childrens Services":42826.35},
-			"2013-08": {"total":123231.25, "Adult Social Care":26063.00, "Childrens Services":97168.25},
-			"2013-09": {"total":36863.75, "Social Services Pooled Budgets":1170.00, "Childrens Services":35693.75},
-			"2013-10": {"total":202321.83, "Childrens Services":202321.83},
-			"2013-11": {"total":55783.90, "Adult Social Care":26063.00, "Social Services Pooled Budgets":1170.00, "Childrens Services":28550.90},
-			"2013-12": {"total":76062.00, "Childrens Services":76062.00},
-			"2014-02": {"total":302464.22, "Social Services Pooled Budgets":1170.00, "Adult Social Care":26063.00, "Childrens Services":275231.22},
-			"2014-04": {"total":330819.10, "Childrens Services":330819.10},
-			"2014-05": {"total":42150.50, "Adult Social Care":26063.00, "Social Services Pooled Budgets":1170.00, "Childrens Services":14917.50},
-			"2014-07": {"total":257525.00, "Childrens Services":257525.00},
-			"2014-08": {"total":27713.00, "Adult Social Care":26063.00, "Childrens Services":1650.00},
-			"2014-09": {"total":40368.25, "Childrens Services":40368.25},
-			"2014-10": {"total":17519.83, "Social Services Pooled Budgets":1170.00, "Childrens Services":16349.83},
-			"2014-11": {"total":296168.08, "Adult Social Care":26063.00, "Childrens Services":270105.08},
-			"2014-12": {"total":7972.53, "Social Services Pooled Budgets":1215.00, "Childrens Services":6757.53},
-			"2015-01": {"total":12454.42, "Childrens Services":12454.42},
-			"2015-02": {"total":279537.85, "Childrens Services":253474.85, "Adult Social Care":26063.00},
-			"2015-03": {"total":46968.70, "Childrens Services":46968.70},
-			"2015-04": {"total":248952.99, "Childrens Services":248952.99},
-			"2015-06": {"total":31308.66, "Childrens Services":31308.66},
-			"2015-07": {"total":181392.08, "Adult Social Care":26063.00, "Childrens Services":155329.08},
-			"2015-08": {"total":120080.74, "Childrens Services":88470.24, "Adult Social Care":26063.00, "Central & Corporate":5547.50},
-			"2015-09": {"total":255353.97, "Childrens Services":255353.97},
-			"2015-10": {"total":80024.31, "Environment & Housing":7500.00, "Childrens Services":72524.31},
-			"2015-11": {"total":98562.97, "Childrens Services":72499.97, "Adult Social Care":26063.00},
-			"2015-12": {"total":7691.44, "Childrens Services":7691.44},
-			"2016-01": {"total":64138.16, "Childrens Services":64138.16},
-			"2016-02": {"total":127699.43, "Childrens Services":97886.43, "Adult Social Care":26063.00, "Environment & Housing":3750.00},
-			"2016-03": {"total":256.40, "Childrens Services":256.40},
-			"2016-04": {"total":97619.87, "Environment & Housing":3750.00, "Childrens Services":93869.87},
-			"2016-05": {"total":2824.25, "Childrens Services":2824.25},
-			"2016-06": {"total":26063.00, "Adult Social Care":26063.00},
-			"2016-08": {"total":122546.17, "Adult Social Care":26063.00, "Childrens Services":96483.17},
-			"2016-10": {"total":553.01, "City Development":40.21, "Childrens Services":512.80},
-			"2016-11": {"total":124806.75, "Childrens Services":98743.75, "Adult Social Care":26063.00},
-			"2017-02": {"total":119928.31, "Adult Social Care":26063.00, "Childrens Services":93865.31},
-			"2017-04": {"total":93005.09, "Childrens Services":93005.09},
-			"2017-05": {"total":10468.97, "Children and Families":10468.97},
-			"2017-06": {"total":26063.00, "Adults and Health":26063.00},
-			"2017-07": {"total":1768.55, "Children and Families":1768.55},
-			"2017-08": {"total":112408.50, "Children and Families":86345.50, "Adults and Health":26063.00},
-			"2017-09": {"total":1800.00, "Children and Families":1800.00},
-			"2017-11": {"total":119508.83, "Children and Families":93445.83, "Adults and Health":26063.00},
-			"2017-12": {"total":2812.66, "Children and Families":2812.66},
-			"2018-01": {"total":86345.50, "Children and Families":86345.50},
-			"2018-02": {"total":26890.24, "Adults and Health":26063.00, "Children and Families":827.24},
-			"2018-03": {"total":81132.65, "Children and Families":81132.65},
-			"2018-04": {"total":46077.25, "Children and Families":46077.25}
-		}
-	},
-	"3547": {
-		"name": "Barnardo'S",
-		"total": 1750,
-		"monthly": {
-			"2013-08": {"total":750.00, "Childrens Services":750.00},
-			"2014-04": {"total":1000.00, "City Development":1000.00}
-		}
-	},
-	"3548": {
-		"name": "Barnardo'S East",
-		"total": 2882.95,
-		"monthly": {
-			"2017-09": {"total":993.55, "Children and Families":993.55},
-			"2017-10": {"total":106.00, "Children and Families":106.00},
-			"2018-03": {"total":1249.95, "Children and Families":1249.95},
-			"2018-06": {"total":288.45, "Children and Families":288.45}
-		}
-	},
-	"3549": {
-		"name": "Barnardos",
-		"total": 3570910.80999999,
-		"monthly": {
-			"2011-03": {"total":127263.00, "Childrens Services":127263.00},
-			"2011-12": {"total":8500.00, "City Development":8500.00},
-			"2012-05": {"total":1300.00, "Childrens Services":1300.00},
-			"2012-09": {"total":44000.00, "Childrens Services":44000.00},
-			"2013-06": {"total":18000.00, "Childrens Services":18000.00},
-			"2013-07": {"total":1500.00, "Childrens Services":1500.00},
-			"2013-08": {"total":750.00, "Childrens Services":750.00},
-			"2013-09": {"total":972.00, "Childrens Services":972.00},
-			"2013-10": {"total":1500.00, "Childrens Services":1500.00},
-			"2013-11": {"total":750.00, "Childrens Services":750.00},
-			"2013-12": {"total":750.00, "Childrens Services":750.00},
-			"2014-01": {"total":750.00, "Childrens Services":750.00},
-			"2014-02": {"total":1348.50, "Childrens Services":1348.50},
-			"2014-03": {"total":550.00, "Childrens Services":550.00},
-			"2014-04": {"total":1500.00, "Childrens Services":1500.00},
-			"2014-05": {"total":35217.70, "Central & Corporate":98.50, "Childrens Services":35119.20},
-			"2014-06": {"total":27122.09, "Childrens Services":27122.09},
-			"2014-07": {"total":112230.40, "Central & Corporate":80.00, "Childrens Services":112150.40},
-			"2014-08": {"total":63215.53, "Childrens Services":63215.53},
-			"2014-09": {"total":34425.53, "Childrens Services":34425.53},
-			"2014-10": {"total":67721.19, "Childrens Services":67721.19},
-			"2014-11": {"total":176506.52, "Childrens Services":165256.52, "Environment & Housing":11250.00},
-			"2014-12": {"total":62893.61, "Childrens Services":62893.61},
-			"2015-01": {"total":25734.33, "Childrens Services":25734.33},
-			"2015-02": {"total":74159.81, "Environment & Housing":3750.00, "Childrens Services":70409.81},
-			"2015-03": {"total":22788.40, "Childrens Services":22788.40},
-			"2015-04": {"total":88961.25, "Childrens Services":88961.25},
-			"2015-05": {"total":14994.55, "Childrens Services":14994.55},
-			"2015-06": {"total":27595.17, "Childrens Services":27595.17},
-			"2015-07": {"total":16907.60, "Childrens Services":16907.60},
-			"2015-08": {"total":85260.34, "Central & Corporate":200.00, "Childrens Services":85060.34},
-			"2015-09": {"total":45390.95, "Childrens Services":45390.95},
-			"2015-10": {"total":38325.60, "Adult Social Care":6202.86, "Childrens Services":32122.74},
-			"2015-11": {"total":135331.19, "Adult Social Care":961.50, "Childrens Services":128822.19, "Central & Corporate":5547.50},
-			"2015-12": {"total":27385.08, "Adult Social Care":993.55, "Childrens Services":26391.53},
-			"2016-01": {"total":19440.15, "Childrens Services":18478.65, "Adult Social Care":961.50},
-			"2016-02": {"total":91293.42, "Childrens Services":84752.37, "Adult Social Care":993.55, "Public Health":5547.50},
-			"2016-03": {"total":33155.50, "Adult Social Care":993.55, "Childrens Services":32161.95},
-			"2016-04": {"total":80934.24, "Childrens Services":80004.79, "Adult Social Care":929.45},
-			"2016-05": {"total":13415.09, "Childrens Services":12211.54, "Adult Social Care":1203.55},
-			"2016-06": {"total":58373.92, "Childrens Services":56835.52, "Adult Social Care":1538.40},
-			"2016-07": {"total":28765.37, "Childrens Services":28345.37, "Adult Social Care":420.00},
-			"2016-08": {"total":105519.54, "Childrens Services":104994.54, "Adult Social Care":525.00},
-			"2016-09": {"total":23776.77, "Environment & Housing":3562.50, "Adult Social Care":420.00, "Childrens Services":19794.27},
-			"2016-10": {"total":55104.30, "Adult Social Care":525.00, "Childrens Services":54579.30},
-			"2016-11": {"total":115150.31, "Childrens Services":111377.81, "Adult Social Care":210.00, "Environment & Housing":3562.50},
-			"2016-12": {"total":31709.00, "Childrens Services":31709.00},
-			"2017-01": {"total":35604.59, "Childrens Services":35604.59},
-			"2017-02": {"total":104487.77, "Environment & Housing":3562.50, "Childrens Services":100925.27},
-			"2017-03": {"total":24633.82, "Childrens Services":24633.82},
-			"2017-04": {"total":101056.23, "Children and Families":4.21, "Environment & Housing":3562.50, "Childrens Services":97489.52},
-			"2017-05": {"total":38833.00, "Children and Families":38833.00},
-			"2017-06": {"total":69883.96, "Children and Families":69883.96},
-			"2017-07": {"total":41712.90, "Children and Families":41712.90},
-			"2017-08": {"total":105701.23, "Children and Families":102138.73, "Environment & Housing":3562.50},
-			"2017-09": {"total":34146.98, "Children and Families":34146.98},
-			"2017-10": {"total":141510.95, "Children and Families":141510.95},
-			"2017-11": {"total":46519.64, "Children and Families":42957.14, "Resources and Housing":3562.50},
-			"2017-12": {"total":58528.24, "Children and Families":58528.24},
-			"2018-01": {"total":64626.59, "Children and Families":64626.59},
-			"2018-02": {"total":137622.65, "Children and Families":137622.65},
-			"2018-03": {"total":66922.95, "Children and Families":66677.95, "Resources and Housing":245.00},
-			"2018-04": {"total":98921.23, "Children and Families":95347.78, "Resources and Housing":3573.45},
-			"2018-05": {"total":54692.97, "Children and Families":54692.97},
-			"2018-06": {"total":56308.16, "Children and Families":56308.16},
-			"2018-08": {"total":996.55, "Resources and Housing":3.00, "Children and Families":993.55},
-			"2018-09": {"total":65878.25, "Children and Families":65878.25}
 		}
 	}
 	}

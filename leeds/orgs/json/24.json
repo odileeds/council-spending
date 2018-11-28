@@ -1,14 +1,382 @@
 {
-	"range": ["2010-10","2018-09"],
+	"range": ["2010-10","2018-10"],
 	"data": {
 	"1200": {
+		"name": "Afd Medical Services",
+		"total": 769.98,
+		"monthly": {
+			"2017-04": {"total":769.98, "Childrens Services":769.98}
+		}
+	},
+	"1201": {
+		"name": "Affinity Seven Law",
+		"total": 10192,
+		"monthly": {
+			"2017-09": {"total":9092.00, "Insurance":9092.00},
+			"2017-10": {"total":1100.00, "Insurance":1100.00}
+		}
+	},
+	"1202": {
+		"name": "Affinity Sutton",
+		"total": 620,
+		"monthly": {
+			"2016-07": {"total":310.00, "Citizens and Communities":310.00},
+			"2017-09": {"total":155.00, "Communities and Environment":155.00},
+			"2018-05": {"total":155.00, "Communities and Environment":155.00}
+		}
+	},
+	"1203": {
+		"name": "Affinity Sutton Homes Ltd",
+		"total": 595985,
+		"monthly": {
+			"2017-04": {"total":418634.00, "Environment & Housing":418634.00},
+			"2018-02": {"total":177351.00, "Resources and Housing":177351.00}
+		}
+	},
+	"1204": {
+		"name": "Affinity Trust",
+		"total": 9971353.46000003,
+		"monthly": {
+			"2010-12": {"total":22084.03, "Social Services Pooled Budgets":22084.03},
+			"2011-03": {"total":21603.94, "Social Services Pooled Budgets":21603.94},
+			"2011-04": {"total":69474.64, "Jcs For People With Learning Disabilitie":62705.95, "Adult Social Care":6768.69},
+			"2011-05": {"total":2346.40, "Jcs For People With Learning Disabilitie":2346.40},
+			"2011-06": {"total":441063.92, "Jcs For People With Learning Disabilitie":434401.81, "Adult Social Care":6662.11},
+			"2011-07": {"total":50881.78, "Adult Social Care":6228.89, "Jcs For People With Learning Disabilitie":44652.89},
+			"2011-09": {"total":84143.20, "Social Services Pooled Budgets":72010.19, "Adult Social Care":12133.01},
+			"2011-10": {"total":37011.08, "Social Services Pooled Budgets":35291.33, "Adult Social Care":1719.75},
+			"2011-11": {"total":477369.43, "Jcs For People With Learning Disabilitie":469540.59, "Adult Social Care":7828.84},
+			"2011-12": {"total":70952.90, "Adult Social Care":7470.14, "Social Services Pooled Budgets":63482.76},
+			"2012-01": {"total":65829.98, "Adult Social Care":6265.42, "Social Services Pooled Budgets":59564.56},
+			"2012-02": {"total":64313.83, "Social Services Pooled Budgets":62275.69, "Adult Social Care":2038.14},
+			"2012-03": {"total":398634.91, "Adult Social Care":6884.19, "Social Services Pooled Budgets":391750.72},
+			"2012-04": {"total":250478.57, "Adult Social Care":6720.18, "Social Services Pooled Budgets":243758.39},
+			"2012-05": {"total":50436.38, "Social Services Pooled Budgets":37388.41, "Adult Social Care":13047.97},
+			"2012-06": {"total":2192.85, "Adult Social Care":2192.85},
+			"2012-07": {"total":384938.35, "Adult Social Care":13305.39, "Social Services Pooled Budgets":371632.96},
+			"2012-08": {"total":472437.09, "Social Services Pooled Budgets":463130.66, "Adult Social Care":9306.43},
+			"2012-09": {"total":271743.07, "Social Services Pooled Budgets":264598.06, "Adult Social Care":7145.01},
+			"2012-10": {"total":204217.52, "Social Services Pooled Budgets":191773.12, "Adult Social Care":12444.40},
+			"2012-11": {"total":200654.36, "Social Services Pooled Budgets":190578.54, "Adult Social Care":10075.82},
+			"2012-12": {"total":97550.81, "Adult Social Care":6509.97, "Social Services Pooled Budgets":91040.84},
+			"2013-01": {"total":41495.26, "Social Services Pooled Budgets":34242.29, "Adult Social Care":7252.97},
+			"2013-02": {"total":569501.38, "Social Services Pooled Budgets":561092.53, "Adult Social Care":8408.85},
+			"2013-03": {"total":170200.98, "Social Services Pooled Budgets":163469.70, "Adult Social Care":6731.28},
+			"2013-04": {"total":101408.53, "Social Services Pooled Budgets":93800.67, "Adult Social Care":7607.86},
+			"2013-05": {"total":138347.79, "Social Services Pooled Budgets":128651.39, "Adult Social Care":9696.40},
+			"2013-06": {"total":57876.62, "Central & Corporate":479.40, "Social Services Pooled Budgets":46926.45, "Adult Social Care":10470.77},
+			"2013-07": {"total":85497.04, "Adult Social Care":10535.25, "Social Services Pooled Budgets":74961.79},
+			"2013-08": {"total":126789.23, "Social Services Pooled Budgets":113149.93, "Adult Social Care":13639.30},
+			"2013-09": {"total":99868.12, "Social Services Pooled Budgets":83040.02, "Adult Social Care":16828.10},
+			"2013-10": {"total":122401.24, "Social Services Pooled Budgets":102521.53, "Adult Social Care":19879.71},
+			"2013-11": {"total":50076.32, "Social Services Pooled Budgets":46868.20, "Adult Social Care":3208.12},
+			"2013-12": {"total":96518.13, "Adult Social Care":8288.10, "Social Services Pooled Budgets":88230.03},
+			"2014-01": {"total":82621.93, "Social Services Pooled Budgets":70994.57, "Adult Social Care":11627.36},
+			"2014-02": {"total":98191.39, "Adult Social Care":17646.69, "Social Services Pooled Budgets":80544.70},
+			"2014-03": {"total":94473.65, "Social Services Pooled Budgets":85213.30, "Adult Social Care":9260.35},
+			"2014-04": {"total":75921.57, "Social Services Pooled Budgets":65790.67, "Adult Social Care":10130.90},
+			"2014-05": {"total":89033.21, "Social Services Pooled Budgets":77776.71, "Adult Social Care":11256.50},
+			"2014-06": {"total":102259.24, "Adult Social Care":10055.63, "Social Services Pooled Budgets":92203.61},
+			"2014-07": {"total":63487.93, "Adult Social Care":11339.93, "Social Services Pooled Budgets":52148.00},
+			"2014-08": {"total":78846.48, "Adult Social Care":11158.03, "Social Services Pooled Budgets":67688.45},
+			"2014-09": {"total":163012.17, "Social Services Pooled Budgets":151964.40, "Adult Social Care":11047.77},
+			"2014-10": {"total":73008.47, "Social Services Pooled Budgets":63620.79, "Adult Social Care":9387.68},
+			"2014-11": {"total":62948.18, "Social Services Pooled Budgets":52822.34, "Adult Social Care":10125.84},
+			"2014-12": {"total":66147.98, "Adult Social Care":12155.56, "Social Services Pooled Budgets":53992.42},
+			"2015-01": {"total":106663.39, "Social Services Pooled Budgets":98571.41, "Adult Social Care":8091.98},
+			"2015-02": {"total":102985.76, "Adult Social Care":18434.03, "Social Services Pooled Budgets":84551.73},
+			"2015-03": {"total":75496.76, "Social Services Pooled Budgets":65609.67, "Adult Social Care":9887.09},
+			"2015-04": {"total":72912.31, "Social Services Pooled Budgets":64814.99, "Adult Social Care":8097.32},
+			"2015-05": {"total":36573.68, "Social Services Pooled Budgets":25368.46, "Adult Social Care":11205.22},
+			"2015-06": {"total":105450.26, "Adult Social Care":7685.23, "Social Services Pooled Budgets":97765.03},
+			"2015-07": {"total":59531.24, "Social Services Pooled Budgets":49537.62, "Adult Social Care":9993.62},
+			"2015-08": {"total":126201.28, "Adult Social Care":7515.81, "Social Services Pooled Budgets":118685.47},
+			"2015-09": {"total":101839.47, "Adult Social Care":10667.60, "Social Services Pooled Budgets":91171.87},
+			"2015-10": {"total":68962.36, "Social Services Pooled Budgets":62111.76, "Adult Social Care":6850.60},
+			"2015-11": {"total":107496.31, "Adult Social Care":10225.40, "Social Services Pooled Budgets":97270.91},
+			"2015-12": {"total":83790.08, "Social Services Pooled Budgets":75594.92, "Adult Social Care":8195.16},
+			"2016-01": {"total":69112.85, "Social Services Pooled Budgets":61907.94, "Adult Social Care":7204.91},
+			"2016-02": {"total":73867.22, "Social Services Pooled Budgets":67062.53, "Adult Social Care":6804.69},
+			"2016-03": {"total":119030.64, "Adult Social Care":7715.01, "Social Services Pooled Budgets":109751.88, "Childrens Services":1563.75},
+			"2016-04": {"total":62078.75, "Social Services Pooled Budgets":53685.56, "Adult Social Care":8393.19},
+			"2016-05": {"total":18598.05, "Childrens Services":5895.00, "Social Services Pooled Budgets":6438.99, "Adult Social Care":6264.06},
+			"2016-06": {"total":77224.02, "Childrens Services":2430.00, "Adult Social Care":12191.00, "Social Services Pooled Budgets":62603.02},
+			"2016-07": {"total":99071.56, "Social Services Pooled Budgets":96572.46, "Adult Social Care":837.85, "Childrens Services":1661.25},
+			"2016-08": {"total":53696.02, "Social Services Pooled Budgets":38006.67, "Adult Social Care":12625.60, "Childrens Services":3063.75},
+			"2016-09": {"total":8540.49, "Social Services Pooled Budgets":8101.04, "Adult Social Care":439.45},
+			"2016-10": {"total":1729.71, "Social Services Pooled Budgets":541.79, "Adult Social Care":1187.92},
+			"2016-11": {"total":160749.22, "Adult Social Care":13954.37, "Social Services Pooled Budgets":141957.35, "Childrens Services":4837.50},
+			"2016-12": {"total":122900.87, "Adult Social Care":3566.20, "Social Services Pooled Budgets":119334.67},
+			"2017-01": {"total":3966.03, "Adult Social Care":3966.03},
+			"2017-02": {"total":2195.42, "Adult Social Care":1719.26, "Social Services Pooled Budgets":476.16},
+			"2017-03": {"total":93958.35, "Adult Social Care":6623.66, "Social Services Pooled Budgets":86089.69, "Childrens Services":1245.00},
+			"2017-04": {"total":130275.93, "Social Services Pooled Budgets":126200.14, "Adult Social Care":4075.79},
+			"2017-05": {"total":99653.67, "Social Services Pooled Budgets":95460.99, "Adults and Health":4192.68},
+			"2017-06": {"total":27120.27, "Adults and Health":5825.98, "Social Services Pooled Budgets":21294.29},
+			"2017-07": {"total":134518.82, "Social Services Pooled Budgets":128951.39, "Adults and Health":5567.43},
+			"2017-08": {"total":69810.55, "Social Services Pooled Budgets":61454.44, "Adults and Health":8356.11},
+			"2017-09": {"total":124323.86, "Social Services Pooled Budgets":117172.62, "Adults and Health":7151.24},
+			"2017-10": {"total":65719.52, "Social Services Pooled Budgets":62087.74, "Adults and Health":3631.78},
+			"2017-11": {"total":66287.56, "Social Services Pooled Budgets":56651.32, "Adults and Health":9636.24},
+			"2017-12": {"total":61406.33, "Adults and Health":3026.04, "Social Services Pooled Budgets":58380.29},
+			"2018-01": {"total":98350.79, "Adults and Health":3421.31, "Social Services Pooled Budgets":94929.48},
+			"2018-02": {"total":91577.95, "Social Services Pooled Budgets":85514.32, "Adults and Health":6063.63},
+			"2018-03": {"total":70002.06, "Resources and Housing":1546.44, "Adults and Health":4743.89, "Social Services Pooled Budgets":63711.73},
+			"2018-04": {"total":25952.20, "Adults and Health":8917.05, "Social Services Pooled Budgets":17035.15},
+			"2018-05": {"total":42672.05, "Social Services Pooled Budgets":38392.85, "Adults and Health":4279.20},
+			"2018-06": {"total":125090.41, "Adults and Health":6617.24, "Social Services Pooled Budgets":118473.17},
+			"2018-07": {"total":20323.58, "Adults and Health":1864.99, "Social Services Pooled Budgets":18458.59},
+			"2018-08": {"total":137366.95, "Social Services Pooled Budgets":129499.87, "Adults and Health":7867.08},
+			"2018-09": {"total":53894.45, "Social Services Pooled Budgets":50028.56, "Adults and Health":3865.89},
+			"2018-10": {"total":52791.33, "Social Services Pooled Budgets":44577.69, "Adults and Health":8213.64}
+		}
+	},
+	"1205": {
+		"name": "Affinity Trust North Divisional Office",
+		"total": 10631302.68,
+		"monthly": {
+			"2010-12": {"total":459139.36, "Adult Social Care":12805.32, "Social Services Pooled Budgets":446334.04},
+			"2011-01": {"total":21906.73, "Adult Social Care":1119.22, "Social Services Pooled Budgets":20787.51},
+			"2011-02": {"total":474233.01, "Social Services Pooled Budgets":463926.06, "Adult Social Care":10306.95},
+			"2011-03": {"total":182687.72, "Social Services Pooled Budgets":175648.96, "Adult Social Care":7038.76},
+			"2011-04": {"total":52586.41, "Jcs For People With Learning Disabilitie":52081.81, "Adult Social Care":504.60},
+			"2011-05": {"total":10718.22, "Jcs For People With Learning Disabilitie":10718.22},
+			"2011-06": {"total":44865.72, "Adult Social Care":526.68, "Jcs For People With Learning Disabilitie":44339.04},
+			"2011-07": {"total":5155.53, "Jcs For People With Learning Disabilitie":4628.85, "Adult Social Care":526.68},
+			"2011-09": {"total":5953.47, "Social Services Pooled Budgets":5953.47},
+			"2011-11": {"total":48010.69, "Jcs For People With Learning Disabilitie":48010.69},
+			"2011-12": {"total":483.66, "Social Services Pooled Budgets":483.66},
+			"2012-02": {"total":3510.27, "Social Services Pooled Budgets":3510.27},
+			"2012-08": {"total":5353.56, "Social Services Pooled Budgets":4826.88, "Adult Social Care":526.68},
+			"2012-10": {"total":2374.68, "Social Services Pooled Budgets":1848.00, "Adult Social Care":526.68},
+			"2012-11": {"total":1120.35, "Social Services Pooled Budgets":462.00, "Adult Social Care":658.35},
+			"2012-12": {"total":643.50, "Social Services Pooled Budgets":643.50},
+			"2013-02": {"total":2235.91, "Social Services Pooled Budgets":1781.77, "Adult Social Care":454.14},
+			"2013-04": {"total":268794.70, "Social Services Pooled Budgets":268794.70},
+			"2013-05": {"total":98791.92, "Social Services Pooled Budgets":98791.92},
+			"2013-06": {"total":98791.92, "Social Services Pooled Budgets":98791.92},
+			"2013-07": {"total":211052.12, "Social Services Pooled Budgets":211052.12},
+			"2013-08": {"total":177041.40, "Social Services Pooled Budgets":177041.40},
+			"2013-09": {"total":114612.64, "Social Services Pooled Budgets":114612.64},
+			"2013-10": {"total":139725.49, "Social Services Pooled Budgets":139725.49},
+			"2013-11": {"total":122467.48, "Social Services Pooled Budgets":122467.48},
+			"2013-12": {"total":122467.48, "Social Services Pooled Budgets":122467.48},
+			"2014-01": {"total":122467.48, "Social Services Pooled Budgets":122467.48},
+			"2014-02": {"total":110404.15, "Social Services Pooled Budgets":110404.15},
+			"2014-03": {"total":117572.48, "Social Services Pooled Budgets":117572.48},
+			"2014-04": {"total":121818.70, "Social Services Pooled Budgets":121818.70},
+			"2014-05": {"total":118344.52, "Social Services Pooled Budgets":118344.52},
+			"2014-06": {"total":113365.43, "Social Services Pooled Budgets":113365.43},
+			"2014-07": {"total":236689.04, "Social Services Pooled Budgets":236689.04},
+			"2014-08": {"total":130850.78, "Social Services Pooled Budgets":130850.78},
+			"2014-09": {"total":120249.82, "Social Services Pooled Budgets":120249.82},
+			"2014-10": {"total":128770.96, "Social Services Pooled Budgets":128770.96},
+			"2014-11": {"total":128770.96, "Social Services Pooled Budgets":128770.96},
+			"2014-12": {"total":128770.96, "Social Services Pooled Budgets":128770.96},
+			"2015-01": {"total":128770.96, "Social Services Pooled Budgets":128770.96},
+			"2015-02": {"total":114737.65, "Social Services Pooled Budgets":114737.65},
+			"2015-03": {"total":122222.08, "Social Services Pooled Budgets":122222.08},
+			"2015-04": {"total":122222.08, "Social Services Pooled Budgets":122222.08},
+			"2015-05": {"total":106494.34, "Social Services Pooled Budgets":106494.34},
+			"2015-06": {"total":117160.28, "Social Services Pooled Budgets":117160.28},
+			"2015-07": {"total":239924.70, "Social Services Pooled Budgets":239924.70},
+			"2015-08": {"total":117160.28, "Social Services Pooled Budgets":102347.48, "Adult Social Care":14812.80},
+			"2015-09": {"total":117160.28, "Social Services Pooled Budgets":102347.48, "Adult Social Care":14812.80},
+			"2015-10": {"total":117160.28, "Adult Social Care":4895.00, "Social Services Pooled Budgets":112265.28},
+			"2015-11": {"total":117160.28, "Social Services Pooled Budgets":112265.28, "Adult Social Care":4895.00},
+			"2015-12": {"total":144218.54, "Adult Social Care":4895.00, "Social Services Pooled Budgets":139323.54},
+			"2016-01": {"total":120547.20, "Adult Social Care":4895.00, "Social Services Pooled Budgets":115652.20},
+			"2016-02": {"total":103410.40, "Social Services Pooled Budgets":103410.40},
+			"2016-03": {"total":86044.14, "Social Services Pooled Budgets":86044.14},
+			"2016-04": {"total":196786.59, "Social Services Pooled Budgets":196786.59},
+			"2016-05": {"total":241241.80, "Social Services Pooled Budgets":241241.80},
+			"2016-06": {"total":100863.11, "Social Services Pooled Budgets":100863.11},
+			"2016-07": {"total":103667.19, "Social Services Pooled Budgets":103667.19},
+			"2016-08": {"total":99222.08, "Social Services Pooled Budgets":99222.08},
+			"2016-09": {"total":151315.59, "Social Services Pooled Budgets":151315.59},
+			"2016-10": {"total":106555.80, "Social Services Pooled Budgets":106555.80},
+			"2016-11": {"total":106555.80, "Social Services Pooled Budgets":106555.80},
+			"2016-12": {"total":86768.76, "Social Services Pooled Budgets":86768.76},
+			"2017-01": {"total":97410.01, "Social Services Pooled Budgets":97410.01},
+			"2017-02": {"total":169486.39, "Social Services Pooled Budgets":169486.39},
+			"2017-03": {"total":288981.73, "Social Services Pooled Budgets":288981.73},
+			"2017-04": {"total":127409.32, "Social Services Pooled Budgets":127409.32},
+			"2017-05": {"total":237011.07, "Social Services Pooled Budgets":237011.07},
+			"2017-06": {"total":120933.84, "Social Services Pooled Budgets":120933.84},
+			"2017-07": {"total":140473.33, "Social Services Pooled Budgets":140473.33},
+			"2017-08": {"total":99033.39, "Social Services Pooled Budgets":99033.39},
+			"2017-09": {"total":152692.05, "Social Services Pooled Budgets":152692.05},
+			"2017-10": {"total":125862.72, "Social Services Pooled Budgets":125862.72},
+			"2017-11": {"total":115300.83, "Social Services Pooled Budgets":115300.83},
+			"2017-12": {"total":174202.39, "Social Services Pooled Budgets":174202.39},
+			"2018-01": {"total":117300.01, "Social Services Pooled Budgets":117300.01},
+			"2018-02": {"total":193906.63, "Social Services Pooled Budgets":193906.63},
+			"2018-03": {"total":129373.93, "Social Services Pooled Budgets":129373.93},
+			"2018-04": {"total":127925.36, "Social Services Pooled Budgets":127925.36},
+			"2018-05": {"total":219485.30, "Social Services Pooled Budgets":219485.30},
+			"2018-06": {"total":114145.64, "Social Services Pooled Budgets":114145.64},
+			"2018-07": {"total":146815.64, "Social Services Pooled Budgets":146815.64},
+			"2018-08": {"total":155230.64, "Social Services Pooled Budgets":155230.64},
+			"2018-09": {"total":113866.89, "Social Services Pooled Budgets":113866.89},
+			"2018-10": {"total":141798.04, "Social Services Pooled Budgets":141798.04}
+		}
+	},
+	"1206": {
+		"name": "Affleck Care Ltd",
+		"total": 7590,
+		"monthly": {
+			"2017-01": {"total":1800.00, "Adult Social Care":1800.00},
+			"2017-03": {"total":885.00, "Adult Social Care":885.00},
+			"2017-04": {"total":900.00, "Adult Social Care":900.00},
+			"2017-11": {"total":4005.00, "Adults and Health":4005.00}
+		}
+	},
+	"1207": {
+		"name": "Affordable Webbs",
+		"total": 104,
+		"monthly": {
+			"2016-07": {"total":104.00, "Childrens Services":104.00}
+		}
+	},
+	"1208": {
+		"name": "Afi Uplift Ltd",
+		"total": 221808.91,
+		"monthly": {
+			"2013-04": {"total":950.00, "Environment & Neighbourhoods":950.00},
+			"2013-05": {"total":4268.00, "Environment & Housing":4268.00},
+			"2013-06": {"total":2964.00, "City Development":2964.00},
+			"2013-07": {"total":9424.08, "City Development":9424.08},
+			"2013-08": {"total":1140.00, "City Development":1140.00},
+			"2013-09": {"total":10478.40, "City Development":10478.40},
+			"2013-10": {"total":4560.00, "City Development":4560.00},
+			"2013-11": {"total":4104.00, "City Development":4104.00},
+			"2013-12": {"total":2300.00, "Environment & Housing":1875.00, "City Development":425.00},
+			"2014-02": {"total":6044.10, "City Development":4164.10, "Environment & Housing":1880.00},
+			"2014-03": {"total":3648.00, "Environment & Housing":3648.00},
+			"2014-04": {"total":1949.00, "Environment & Housing":1949.00},
+			"2014-05": {"total":2150.00, "Environment & Housing":2150.00},
+			"2014-06": {"total":1900.00, "Environment & Housing":1900.00},
+			"2014-07": {"total":4560.00, "Environment & Housing":4560.00},
+			"2014-08": {"total":3230.00, "Environment & Housing":3230.00},
+			"2014-10": {"total":8875.00, "City Development":325.00, "Environment & Housing":8550.00},
+			"2014-11": {"total":2660.00, "Environment & Housing":2660.00},
+			"2014-12": {"total":10206.25, "Environment & Housing":10206.25},
+			"2015-01": {"total":1619.37, "Environment & Housing":1619.37},
+			"2015-03": {"total":5970.32, "Environment & Housing":5970.32},
+			"2015-04": {"total":4279.85, "Central & Corporate":4279.85},
+			"2015-05": {"total":3420.00, "Environment & Housing":3420.00},
+			"2015-07": {"total":7936.66, "Environment & Housing":7936.66},
+			"2015-08": {"total":360.00, "Childrens Services":360.00},
+			"2015-09": {"total":9395.57, "Environment & Housing":9395.57},
+			"2015-11": {"total":7308.81, "Environment & Housing":7308.81},
+			"2015-12": {"total":6325.00, "Environment & Housing":6325.00},
+			"2016-02": {"total":2280.00, "Environment & Housing":2280.00},
+			"2016-08": {"total":6840.00, "Environment & Housing":6840.00},
+			"2016-09": {"total":5145.40, "Environment & Housing":5145.40},
+			"2016-10": {"total":4500.00, "Environment & Housing":4500.00},
+			"2016-11": {"total":5962.10, "Environment & Housing":5962.10},
+			"2016-12": {"total":873.00, "Environment & Housing":873.00},
+			"2017-01": {"total":4940.00, "Environment & Housing":4940.00},
+			"2017-03": {"total":7600.00, "Environment & Housing":7600.00},
+			"2017-04": {"total":3800.00, "Environment & Housing":3800.00},
+			"2017-05": {"total":6460.00, "Environment & Housing":6460.00},
+			"2017-07": {"total":4750.00, "Environment & Housing":4750.00},
+			"2017-08": {"total":4750.00, "Environment & Housing":4750.00},
+			"2017-09": {"total":6650.00, "Communities and Environment":6650.00},
+			"2017-10": {"total":2850.00, "Communities and Environment":2850.00},
+			"2017-11": {"total":5700.00, "Communities and Environment":5700.00},
+			"2017-12": {"total":1900.00, "Communities and Environment":1900.00},
+			"2018-01": {"total":3382.00, "Communities and Environment":3382.00},
+			"2018-07": {"total":2850.00, "Communities and Environment":2850.00},
+			"2018-08": {"total":5700.00, "Communities and Environment":5700.00},
+			"2018-09": {"total":2850.00, "Communities and Environment":2850.00}
+		}
+	},
+	"1209": {
+		"name": "Afi-Uplift Ltd",
+		"alternate-names": [
+			"Afi-Uplift Limited"
+		],
+		"total": 23953,
+		"monthly": {
+			"2016-04": {"total":406.00, "Environment & Housing":406.00},
+			"2016-11": {"total":406.00, "Environment & Housing":406.00},
+			"2017-01": {"total":304.00, "Environment & Housing":304.00},
+			"2017-12": {"total":1575.00, "Communities and Environment":1575.00},
+			"2018-02": {"total":950.00, "Communities and Environment":950.00},
+			"2018-03": {"total":5700.00, "Communities and Environment":5700.00},
+			"2018-04": {"total":3800.00, "Communities and Environment":3800.00},
+			"2018-05": {"total":4750.00, "Communities and Environment":4750.00},
+			"2018-06": {"total":3800.00, "Communities and Environment":3800.00},
+			"2018-07": {"total":1900.00, "Communities and Environment":1900.00},
+			"2018-09": {"total":362.00, "City Development":362.00}
+		}
+	},
+	"1210": {
+		"name": "Afk Estates",
+		"total": 6246,
+		"monthly": {
+			"2012-12": {"total":425.00, "Environment & Neighbourhoods":425.00},
+			"2013-02": {"total":921.00, "Environment & Neighbourhoods":921.00},
+			"2013-04": {"total":600.00, "Environment & Neighbourhoods":600.00},
+			"2013-05": {"total":910.00, "Environment & Housing":910.00},
+			"2013-08": {"total":650.00, "Environment & Housing":650.00},
+			"2013-12": {"total":650.00, "Environment & Housing":650.00},
+			"2014-02": {"total":440.00, "Environment & Housing":440.00},
+			"2014-03": {"total":600.00, "Environment & Housing":600.00},
+			"2014-12": {"total":520.00, "Environment & Housing":520.00},
+			"2016-09": {"total":530.00, "Environment & Housing":530.00}
+		}
+	},
+	"1211": {
+		"name": "Afk Estates.",
+		"total": 1180,
+		"monthly": {
+			"2016-12": {"total":700.00, "Environment & Housing":700.00},
+			"2017-06": {"total":480.00, "Environment & Housing":480.00}
+		}
+	},
+	"1212": {
+		"name": "Afm Europe Ltd",
+		"total": 2093.1,
+		"monthly": {
+			"2013-07": {"total":524.15, "Central & Corporate":524.15},
+			"2016-04": {"total":1008.30, "Civic Enterprise Leeds":1008.30},
+			"2018-05": {"total":560.65, "Resources and Housing":560.65}
+		}
+	},
+	"1213": {
+		"name": "Aford Awards",
+		"total": 868.16,
+		"monthly": {
+			"2014-07": {"total":805.38, "City Development":805.38},
+			"2014-08": {"total":36.95, "City Development":36.95},
+			"2015-09": {"total":25.83, "City Development":25.83}
+		}
+	},
+	"1214": {
+		"name": "Afrikan People Forum",
+		"total": 1750,
+		"monthly": {
+			"2012-07": {"total":1250.00, "East - North East":1250.00},
+			"2012-11": {"total":500.00, "Central & Corporate Functions":500.00}
+		}
+	},
+	"1215": {
+		"name": "Afro Samba",
+		"total": 540,
+		"monthly": {
+			"2011-06": {"total":540.00, "City Development":540.00}
+		}
+	},
+	"1216": {
 		"name": "Afrolatino Cic",
 		"total": 1000,
 		"monthly": {
 			"2012-06": {"total":1000.00, "City Development":1000.00}
 		}
 	},
-	"1201": {
+	"1217": {
 		"name": "Afs Animal Care Lt",
 		"total": 64.89,
 		"monthly": {
@@ -16,7 +384,7 @@
 			"2016-02": {"total":40.24, "Environment & Housing":40.24}
 		}
 	},
-	"1202": {
+	"1218": {
 		"name": "After Adoption",
 		"total": 637689.34,
 		"monthly": {
@@ -54,7 +422,7 @@
 			"2017-05": {"total":5492.46, "Children and Families":5492.46}
 		}
 	},
-	"1203": {
+	"1219": {
 		"name": "After Adoption Yorkshire",
 		"total": 292315,
 		"monthly": {
@@ -79,7 +447,7 @@
 			"2014-09": {"total":22500.00, "Childrens Services":22500.00}
 		}
 	},
-	"1204": {
+	"1220": {
 		"name": "After Hours",
 		"total": 800,
 		"monthly": {
@@ -88,14 +456,14 @@
 			"2017-10": {"total":200.00, "City Development":200.00}
 		}
 	},
-	"1205": {
+	"1221": {
 		"name": "Aftongreen Retail Ltd",
 		"total": 480,
 		"monthly": {
 			"2018-05": {"total":480.00, "Resources and Housing":480.00}
 		}
 	},
-	"1206": {
+	"1222": {
 		"name": "Afzal & Co",
 		"total": 30000,
 		"monthly": {
@@ -105,51 +473,53 @@
 			"2017-09": {"total":10000.00, "Resources and Housing":10000.00}
 		}
 	},
-	"1207": {
+	"1223": {
 		"name": "Ag Channels",
 		"total": 445.07,
 		"monthly": {
 			"2015-12": {"total":445.07, "Environment & Housing":445.07}
 		}
 	},
-	"1208": {
+	"1224": {
 		"name": "Aga International Nl",
 		"total": 60,
 		"monthly": {
 			"2014-09": {"total":60.00, "Childrens Services":60.00}
 		}
 	},
-	"1209": {
+	"1225": {
 		"name": "Agam Jung",
 		"total": 325,
 		"monthly": {
-			"2016-04": {"total":225.00, "Central & Corporate":225.00}
+			"2016-04": {"total":225.00, "Central & Corporate":225.00},
+			"2018-08": {"total":100.00, "Resources and Housing":100.00}
 		}
 	},
-	"1210": {
+	"1226": {
 		"name": "Agd Systems Ltd",
 		"total": 8799,
 		"monthly": {
+			"2018-08": {"total":2800.00, "City Development":2800.00},
 			"2018-09": {"total":5999.00, "City Development":5999.00}
 		}
 	},
-	"1211": {
+	"1227": {
 		"name": "Age Concern Leeds",
 		"total": 86103.92,
 		"monthly": {
 			"2010-12": {"total":40546.24, "Environment & Neighbourhoods":4385.24, "Adult Social Care":31661.00, "Central & Corporate Functions":4500.00},
-			"2011-01": {"total":41391.70, "Environment & Neighbourhoods":6217.70, "Adult Social Care":26174.00, "Central & Corporate Functions":9000.00},
+			"2011-01": {"total":41391.70, "Central & Corporate Functions":9000.00, "Adult Social Care":26174.00, "Environment & Neighbourhoods":6217.70},
 			"2011-02": {"total":4165.98, "Environment & Neighbourhoods":4165.98}
 		}
 	},
-	"1212": {
+	"1228": {
 		"name": "Age Luncheon Club",
 		"total": 3257.75,
 		"monthly": {
 			"2011-06": {"total":3257.75, "Adult Social Care":3257.75}
 		}
 	},
-	"1213": {
+	"1229": {
 		"name": "Age Uk",
 		"total": 13140,
 		"monthly": {
@@ -158,79 +528,79 @@
 			"2012-10": {"total":5268.00, "Adult Social Care":5268.00}
 		}
 	},
-	"1214": {
+	"1230": {
 		"name": "Age Uk Leeds",
-		"total": 1362098.95,
+		"total": 1365374.06,
 		"monthly": {
-			"2011-03": {"total":15415.98, "Central & Corporate Functions":9000.00, "Adult Social Care":2250.00, "Environment & Neighbourhoods":4165.98},
-			"2011-04": {"total":35257.71, "Environment & Neighbourhoods":12943.71, "Adult Social Care":22314.00},
+			"2011-03": {"total":15415.98, "Adult Social Care":2250.00, "Environment & Neighbourhoods":4165.98, "Central & Corporate Functions":9000.00},
+			"2011-04": {"total":35257.71, "Adult Social Care":22314.00, "Environment & Neighbourhoods":12943.71},
 			"2011-05": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
 			"2011-06": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2011-07": {"total":34889.18, "Adult Social Care":23394.00, "Central & Corporate Functions":4500.00, "Environment & Neighbourhoods":6995.18},
-			"2011-09": {"total":71925.68, "Environment & Neighbourhoods":3957.68, "Adult Social Care":58968.00, "Central & Corporate Functions":9000.00},
+			"2011-07": {"total":34889.18, "Central & Corporate Functions":4500.00, "Environment & Neighbourhoods":6995.18, "Adult Social Care":23394.00},
+			"2011-09": {"total":71925.68, "Adult Social Care":58968.00, "Environment & Neighbourhoods":3957.68, "Central & Corporate Functions":9000.00},
 			"2011-10": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2011-11": {"total":34580.18, "Environment & Neighbourhoods":30080.18, "Central & Corporate Functions":4500.00},
-			"2011-12": {"total":64123.86, "Environment & Neighbourhoods":7915.36, "Adult Social Care":47208.50, "Central & Corporate Functions":9000.00},
+			"2011-11": {"total":34580.18, "Central & Corporate Functions":4500.00, "Environment & Neighbourhoods":30080.18},
+			"2011-12": {"total":64123.86, "Central & Corporate Functions":9000.00, "Adult Social Care":47208.50, "Environment & Neighbourhoods":7915.36},
 			"2012-01": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2012-02": {"total":8316.33, "Central & Corporate Functions":4500.00, "Environment & Neighbourhoods":3816.33},
-			"2012-03": {"total":37471.68, "Environment & Neighbourhoods":3957.68, "Central & Corporate Functions":13500.00, "Adult Social Care":20014.00},
+			"2012-02": {"total":8316.33, "Environment & Neighbourhoods":3816.33, "Central & Corporate Functions":4500.00},
+			"2012-03": {"total":37471.68, "Central & Corporate Functions":13500.00, "Adult Social Care":20014.00, "Environment & Neighbourhoods":3957.68},
 			"2012-04": {"total":43958.68, "Environment & Neighbourhoods":17322.68, "Adult Social Care":26636.00},
 			"2012-05": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2012-06": {"total":60166.18, "Adult Social Care":47208.50, "Central & Corporate Functions":9000.00, "Environment & Neighbourhoods":3957.68},
+			"2012-06": {"total":60166.18, "Central & Corporate Functions":9000.00, "Adult Social Care":47208.50, "Environment & Neighbourhoods":3957.68},
 			"2012-07": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2012-08": {"total":40572.68, "Environment & Neighbourhoods":3957.68, "Central & Corporate Functions":4500.00, "Adult Social Care":20572.50, "City Development":11542.50},
+			"2012-08": {"total":40572.68, "Adult Social Care":20572.50, "Environment & Neighbourhoods":3957.68, "Central & Corporate Functions":4500.00, "City Development":11542.50},
 			"2012-09": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2012-10": {"total":30593.68, "Environment & Neighbourhoods":3957.68, "Adult Social Care":26636.00},
-			"2012-11": {"total":21415.36, "Central & Corporate Functions":13500.00, "Environment & Neighbourhoods":7915.36},
-			"2012-12": {"total":55666.18, "Central & Corporate Functions":4500.00, "Adult Social Care":47208.50, "Environment & Neighbourhoods":3957.68},
-			"2013-01": {"total":17570.18, "Environment & Neighbourhoods":3957.68, "Central & Corporate":4500.00, "City Development":9112.50},
+			"2012-10": {"total":30593.68, "Adult Social Care":26636.00, "Environment & Neighbourhoods":3957.68},
+			"2012-11": {"total":21415.36, "Environment & Neighbourhoods":7915.36, "Central & Corporate Functions":13500.00},
+			"2012-12": {"total":55666.18, "Central & Corporate Functions":4500.00, "Environment & Neighbourhoods":3957.68, "Adult Social Care":47208.50},
+			"2013-01": {"total":17570.18, "Central & Corporate":4500.00, "City Development":9112.50, "Environment & Neighbourhoods":3957.68},
 			"2013-02": {"total":3957.68, "Environment & Neighbourhoods":3957.68},
-			"2013-03": {"total":33530.18, "Central & Corporate":9000.00, "Environment & Neighbourhoods":3957.68, "Adult Social Care":20572.50},
-			"2013-04": {"total":16482.68, "Environment & Neighbourhoods":3957.68, "Adult Social Care":8025.00, "Central & Corporate":4500.00},
-			"2013-05": {"total":14082.68, "City Development":10125.00, "Environment & Housing":3957.68},
-			"2013-06": {"total":8457.68, "Environment & Housing":3957.68, "Central & Corporate":4500.00},
+			"2013-03": {"total":33530.18, "Environment & Neighbourhoods":3957.68, "Adult Social Care":20572.50, "Central & Corporate":9000.00},
+			"2013-04": {"total":16482.68, "Central & Corporate":4500.00, "Environment & Neighbourhoods":3957.68, "Adult Social Care":8025.00},
+			"2013-05": {"total":14082.68, "Environment & Housing":3957.68, "City Development":10125.00},
+			"2013-06": {"total":8457.68, "Central & Corporate":4500.00, "Environment & Housing":3957.68},
 			"2013-07": {"total":32555.18, "Adult Social Care":28597.50, "Environment & Housing":3957.68},
 			"2013-08": {"total":17457.68, "Environment & Housing":3957.68, "Central & Corporate":13500.00},
 			"2013-09": {"total":3957.68, "Environment & Housing":3957.68},
-			"2013-10": {"total":11982.68, "Environment & Housing":3957.68, "Adult Social Care":8025.00},
-			"2013-11": {"total":28487.86, "Environment & Housing":7915.36, "Adult Social Care":20572.50},
-			"2013-12": {"total":32907.68, "City Development":20925.00, "Adult Social Care":8025.00, "Environment & Housing":3957.68},
+			"2013-10": {"total":11982.68, "Adult Social Care":8025.00, "Environment & Housing":3957.68},
+			"2013-11": {"total":28487.86, "Adult Social Care":20572.50, "Environment & Housing":7915.36},
+			"2013-12": {"total":32907.68, "Environment & Housing":3957.68, "Adult Social Care":8025.00, "City Development":20925.00},
 			"2014-01": {"total":24530.18, "Environment & Housing":3957.68, "Adult Social Care":20572.50},
 			"2014-02": {"total":3957.68, "Environment & Housing":3957.68},
 			"2014-03": {"total":15095.18, "Environment & Housing":3957.68, "City Development":11137.50},
-			"2014-04": {"total":57284.27, "City Development":12910.00, "Central & Corporate":11417.00, "Environment & Housing":3957.68, "Adult Social Care":28999.59},
+			"2014-04": {"total":57284.27, "Environment & Housing":3957.68, "Adult Social Care":28999.59, "City Development":12910.00, "Central & Corporate":11417.00},
 			"2014-05": {"total":3957.68, "Environment & Housing":3957.68},
 			"2014-06": {"total":3957.68, "Environment & Housing":3957.68},
-			"2014-07": {"total":22377.68, "City Development":10395.00, "Environment & Housing":3957.68, "Adult Social Care":8025.00},
+			"2014-07": {"total":22377.68, "City Development":10395.00, "Adult Social Care":8025.00, "Environment & Housing":3957.68},
 			"2014-08": {"total":3957.68, "Environment & Housing":3957.68},
 			"2014-09": {"total":3957.68, "Environment & Housing":3957.68},
-			"2014-10": {"total":15940.36, "Environment & Housing":7915.36, "Adult Social Care":8025.00},
+			"2014-10": {"total":15940.36, "Adult Social Care":8025.00, "Environment & Housing":7915.36},
 			"2014-11": {"total":3957.68, "Environment & Housing":3957.68},
-			"2014-12": {"total":21635.18, "City Development":9652.50, "Environment & Housing":3957.68, "Adult Social Care":8025.00},
+			"2014-12": {"total":21635.18, "Environment & Housing":3957.68, "Adult Social Care":8025.00, "City Development":9652.50},
 			"2015-01": {"total":3957.68, "Environment & Housing":3957.68},
 			"2015-02": {"total":3957.68, "Environment & Housing":3957.68},
-			"2015-03": {"total":15374.68, "Environment & Housing":3957.68, "Central & Corporate":11417.00},
+			"2015-03": {"total":15374.68, "Central & Corporate":11417.00, "Environment & Housing":3957.68},
 			"2015-04": {"total":11982.68, "Environment & Housing":3957.68, "Adult Social Care":8025.00},
 			"2015-05": {"total":3957.68, "Environment & Housing":3957.68},
 			"2015-06": {"total":3957.68, "Environment & Housing":3957.68},
 			"2015-07": {"total":37182.68, "Environment & Housing":3957.68, "Adult Social Care":8025.00, "Childrens Services":25200.00},
 			"2015-08": {"total":3957.68, "Environment & Housing":3957.68},
-			"2015-09": {"total":4677.68, "City Development":720.00, "Environment & Housing":3957.68},
-			"2015-10": {"total":15940.36, "Environment & Housing":7915.36, "Adult Social Care":8025.00},
+			"2015-09": {"total":4677.68, "Environment & Housing":3957.68, "City Development":720.00},
+			"2015-10": {"total":15940.36, "Adult Social Care":8025.00, "Environment & Housing":7915.36},
 			"2015-11": {"total":14757.68, "Environment & Housing":3957.68, "Childrens Services":10800.00},
-			"2015-12": {"total":11982.68, "Adult Social Care":8025.00, "Environment & Housing":3957.68},
+			"2015-12": {"total":11982.68, "Environment & Housing":3957.68, "Adult Social Care":8025.00},
 			"2016-01": {"total":3957.68, "Environment & Housing":3957.68},
 			"2016-02": {"total":3957.68, "Environment & Housing":3957.68},
 			"2016-03": {"total":3816.33, "Environment & Housing":3816.33},
-			"2016-04": {"total":23398.43, "Public Health":11416.00, "Environment & Housing":3957.68, "Adult Social Care":8024.75},
+			"2016-04": {"total":23398.43, "Adult Social Care":8024.75, "Environment & Housing":3957.68, "Public Health":11416.00},
 			"2016-05": {"total":4852.16, "Environment & Housing":3957.68, "City Development":894.48},
 			"2016-06": {"total":3957.68, "Environment & Housing":3957.68},
 			"2016-07": {"total":23682.43, "Environment & Housing":3957.68, "Adult Social Care":8024.75, "Childrens Services":11700.00},
-			"2016-08": {"total":6667.68, "Environment & Housing":3957.68, "Public Health":2710.00},
-			"2016-09": {"total":32514.95, "Public Health":1000.00, "Environment & Housing":7915.36, "Adult Social Care":8024.75, "Childrens Services":11550.00, "City Development":4024.84},
+			"2016-08": {"total":6667.68, "Public Health":2710.00, "Environment & Housing":3957.68},
+			"2016-09": {"total":32514.95, "Childrens Services":11550.00, "Public Health":1000.00, "City Development":4024.84, "Adult Social Care":8024.75, "Environment & Housing":7915.36},
 			"2016-10": {"total":3957.68, "Environment & Housing":3957.68},
 			"2016-11": {"total":11157.68, "Childrens Services":7200.00, "Environment & Housing":3957.68},
-			"2016-12": {"total":14722.43, "Childrens Services":30.00, "Environment & Housing":3957.68, "Adult Social Care":8024.75, "Public Health":2710.00},
+			"2016-12": {"total":14722.43, "Adult Social Care":8024.75, "Environment & Housing":3957.68, "Childrens Services":30.00, "Public Health":2710.00},
 			"2017-03": {"total":5420.00, "Public Health":5420.00},
 			"2017-04": {"total":9900.00, "Childrens Services":9900.00},
 			"2017-05": {"total":5976.34, "City Development":5976.34},
@@ -241,26 +611,30 @@
 			"2018-03": {"total":4715.59, "City Development":4715.59},
 			"2018-04": {"total":9900.00, "City Development":9900.00},
 			"2018-06": {"total":10599.75, "Adults and Health":10599.75},
-			"2018-09": {"total":20672.16, "City Development":10072.41, "Adults and Health":10599.75}
+			"2018-07": {"total":8100.00, "City Development":8100.00},
+			"2018-08": {"total":3211.90, "City Development":3211.90},
+			"2018-09": {"total":20672.16, "Adults and Health":10599.75, "City Development":10072.41},
+			"2018-10": {"total":3275.11, "City Development":3275.11}
 		}
 	},
-	"1215": {
+	"1231": {
 		"name": "Age Uk Leeds Enterprises",
 		"total": 58012.84,
 		"monthly": {
-			"2017-01": {"total":4067.68, "Environment & Housing":3957.68, "Adult Social Care":110.00},
+			"2017-01": {"total":4067.68, "Adult Social Care":110.00, "Environment & Housing":3957.68},
 			"2017-02": {"total":6643.30, "Environment & Housing":6643.30},
 			"2017-03": {"total":1515.73, "Childrens Services":1515.73},
-			"2017-04": {"total":8399.72, "Childrens Services":374.97, "Adult Social Care":8024.75},
+			"2017-04": {"total":8399.72, "Adult Social Care":8024.75, "Childrens Services":374.97},
 			"2017-06": {"total":8024.75, "Adults and Health":8024.75},
 			"2017-07": {"total":100.00, "Adults and Health":100.00},
 			"2017-09": {"total":8024.75, "Adults and Health":8024.75},
 			"2017-11": {"total":150.00, "Adults and Health":150.00},
 			"2017-12": {"total":8024.75, "Adults and Health":8024.75},
-			"2018-04": {"total":11089.75, "Adults and Health":10989.75, "City Development":100.00}
+			"2018-04": {"total":11089.75, "Adults and Health":10989.75, "City Development":100.00},
+			"2018-08": {"total":1972.41, "City Development":1972.41}
 		}
 	},
-	"1216": {
+	"1232": {
 		"name": "Age Uk Training",
 		"total": 6873,
 		"monthly": {
@@ -280,7 +654,7 @@
 			"2016-02": {"total":1598.00, "Citizens and Communities":1598.00}
 		}
 	},
-	"1217": {
+	"1233": {
 		"name": "Ageas",
 		"total": 6770.98,
 		"monthly": {
@@ -291,7 +665,7 @@
 			"2016-02": {"total":1348.00, "Insurance":1348.00}
 		}
 	},
-	"1218": {
+	"1234": {
 		"name": "Ageas Insurance Ltd",
 		"alternate-names": [
 			"Ageas Insurance Limited"
@@ -304,7 +678,7 @@
 			"2018-04": {"total":2763.02, "Insurance":2763.02}
 		}
 	},
-	"1219": {
+	"1235": {
 		"name": "Agency Group",
 		"total": 7400,
 		"monthly": {
@@ -314,7 +688,7 @@
 			"2016-07": {"total":2500.00, "City Development":2500.00}
 		}
 	},
-	"1220": {
+	"1236": {
 		"name": "Agere Learning",
 		"total": 32439,
 		"monthly": {
@@ -340,7 +714,7 @@
 			"2018-03": {"total":1000.00, "City Development":1000.00}
 		}
 	},
-	"1221": {
+	"1237": {
 		"name": "Aggregate Industries Uk Ltd",
 		"total": 2044211.84,
 		"monthly": {
@@ -360,17 +734,18 @@
 			"2012-07": {"total":744.00, "City Development":744.00},
 			"2012-08": {"total":3076.00, "City Development":3076.00},
 			"2012-11": {"total":25563.00, "City Development":25563.00},
-			"2013-04": {"total":35752.27, "City Development":35752.27}
+			"2013-04": {"total":35752.27, "City Development":35752.27},
+			"2018-07": {"total":504420.63, "City Development":504420.63}
 		}
 	},
-	"1222": {
+	"1238": {
 		"name": "Aglo Energy Ltd",
 		"total": 300,
 		"monthly": {
 			"2015-11": {"total":300.00, "Civic Enterprise Leeds":300.00}
 		}
 	},
-	"1223": {
+	"1239": {
 		"name": "Agm Joinery And Building Contractors",
 		"total": 19445,
 		"monthly": {
@@ -379,7 +754,7 @@
 			"2014-09": {"total":3845.00, "Childrens Services":3845.00}
 		}
 	},
-	"1224": {
+	"1240": {
 		"name": "Agnis Smallwood",
 		"total": 3507.94,
 		"monthly": {
@@ -388,17 +763,18 @@
 			"2016-04": {"total":175.00, "City Development":175.00},
 			"2016-08": {"total":54.02, "City Development":54.02},
 			"2017-01": {"total":370.00, "City Development":370.00},
-			"2018-03": {"total":1000.00, "City Development":1000.00}
+			"2018-03": {"total":1000.00, "City Development":1000.00},
+			"2018-08": {"total":235.00, "City Development":235.00}
 		}
 	},
-	"1225": {
+	"1241": {
 		"name": "Agora Publications",
 		"total": 53.98,
 		"monthly": {
 			"2018-03": {"total":53.98, "Adults and Health":53.98}
 		}
 	},
-	"1226": {
+	"1242": {
 		"name": "Agricola House",
 		"total": 452080.050000001,
 		"monthly": {
@@ -480,42 +856,42 @@
 			"2017-04": {"total":5408.28, "Adult Social Care":5408.28}
 		}
 	},
-	"1227": {
+	"1243": {
 		"name": "Agro Business Cons",
 		"total": 35,
 		"monthly": {
 			"2016-01": {"total":35.00, "City Development":35.00}
 		}
 	},
-	"1228": {
+	"1244": {
 		"name": "Agro Business Consults",
 		"total": 47,
 		"monthly": {
 			"2017-01": {"total":47.00, "City Development":47.00}
 		}
 	},
-	"1229": {
+	"1245": {
 		"name": "Ah To Go 5865",
 		"total": 5.55,
 		"monthly": {
 			"2016-01": {"total":5.55, "City Development":5.55}
 		}
 	},
-	"1230": {
+	"1246": {
 		"name": "Ah To Go 5873",
 		"total": 4.41,
 		"monthly": {
 			"2016-01": {"total":4.41, "City Development":4.41}
 		}
 	},
-	"1231": {
+	"1247": {
 		"name": "Ahallad Hussain",
 		"total": 250,
 		"monthly": {
 			"2015-10": {"total":250.00, "Citizens and Communities":250.00}
 		}
 	},
-	"1232": {
+	"1248": {
 		"name": "Ahamad Hassan",
 		"total": 475,
 		"monthly": {
@@ -526,184 +902,11 @@
 			"2017-11": {"total":100.00, "Resources and Housing":100.00}
 		}
 	},
-	"1233": {
+	"1249": {
 		"name": "Ahdb.Org.Uk",
 		"total": 307.38,
 		"monthly": {
 			"2016-02": {"total":307.38, "Environment & Housing":307.38}
-		}
-	},
-	"1234": {
-		"name": "Ahead Partnership Ltd",
-		"total": 58941,
-		"monthly": {
-			"2014-01": {"total":3024.00, "Environment & Housing":500.00, "Central & Corporate":2524.00},
-			"2014-02": {"total":5048.00, "Central & Corporate":5048.00},
-			"2014-03": {"total":2524.00, "Central & Corporate":2524.00},
-			"2014-04": {"total":10000.00, "City Development":10000.00},
-			"2014-07": {"total":2500.00, "Central & Corporate":2500.00},
-			"2014-11": {"total":2500.00, "Central & Corporate":2500.00},
-			"2015-01": {"total":500.00, "City Development":500.00},
-			"2015-02": {"total":2500.00, "Central & Corporate":2500.00},
-			"2015-03": {"total":3250.00, "City Development":3250.00},
-			"2015-04": {"total":3750.00, "City Development":1250.00, "Central & Corporate":2500.00},
-			"2017-03": {"total":120.00, "Central & Corporate":120.00},
-			"2017-11": {"total":5000.00, "City Development":5000.00},
-			"2017-12": {"total":225.00, "Resources and Housing":225.00},
-			"2018-04": {"total":10000.00, "City Development":10000.00},
-			"2018-05": {"total":4000.00, "City Development":4000.00},
-			"2018-09": {"total":4000.00, "City Development":4000.00}
-		}
-	},
-	"1235": {
-		"name": "Ahern Rudden Quigley Solicitors",
-		"total": 296,
-		"monthly": {
-
-		}
-	},
-	"1236": {
-		"name": "Ahm Flooring",
-		"total": 658.34,
-		"monthly": {
-			"2018-04": {"total":658.34, "Strategic Landlord":658.34}
-		}
-	},
-	"1237": {
-		"name": "Ahm Installations",
-		"total": 3200,
-		"monthly": {
-			"2017-12": {"total":3200.00, "Resources and Housing":3200.00}
-		}
-	},
-	"1238": {
-		"name": "Ahmad Khouja Ltd",
-		"alternate-names": [
-			"Ahmad Khouja Limited"
-		],
-		"total": 3920,
-		"monthly": {
-			"2011-07": {"total":3920.00, "Adult Social Care":3920.00}
-		}
-	},
-	"1239": {
-		"name": "Ahmad N&M A1 Builders",
-		"total": 20000,
-		"monthly": {
-			"2014-10": {"total":10000.00, "Environment & Housing":10000.00},
-			"2014-12": {"total":10000.00, "Environment & Housing":10000.00}
-		}
-	},
-	"1240": {
-		"name": "Ahmedia Ltd",
-		"total": 495,
-		"monthly": {
-			"2013-02": {"total":495.00, "Childrens Services":495.00}
-		}
-	},
-	"1241": {
-		"name": "Ahvla",
-		"total": 389.33,
-		"monthly": {
-			"2014-09": {"total":71.50, "Environment & Housing":71.50},
-			"2015-05": {"total":146.00, "Environment & Housing":146.00},
-			"2015-09": {"total":146.00, "Environment & Housing":146.00}
-		}
-	},
-	"1242": {
-		"name": "Ai Claims SolutionsLtd",
-		"total": 1217.74,
-		"monthly": {
-			"2010-12": {"total":1217.74, "Insurance":1217.74}
-		}
-	},
-	"1243": {
-		"name": "Ai Claims Solutionsltd",
-		"total": 10767.59,
-		"monthly": {
-			"2011-03": {"total":2096.04, "Insurance":2096.04},
-			"2011-07": {"total":7411.53, "Insurance":7411.53},
-			"2011-10": {"total":1260.02, "Insurance":1260.02}
-		}
-	},
-	"1244": {
-		"name": "Ai Lyn Tan",
-		"total": 50,
-		"monthly": {
-			"2018-06": {"total":50.00, "Resources and Housing":50.00}
-		}
-	},
-	"1245": {
-		"name": "Aib Electrical Services",
-		"total": 1395,
-		"monthly": {
-			"2015-09": {"total":1395.00, "City Development":1395.00}
-		}
-	},
-	"1246": {
-		"name": "Aid Training & Operations Ltd",
-		"total": 4952.14,
-		"monthly": {
-			"2015-09": {"total":1190.00, "Childrens Services":1190.00},
-			"2016-03": {"total":21.91, "Childrens Services":21.91},
-			"2016-05": {"total":39.44, "Childrens Services":39.44},
-			"2016-06": {"total":35.94, "Childrens Services":35.94},
-			"2016-09": {"total":32.44, "Childrens Services":32.44},
-			"2016-10": {"total":237.44, "Childrens Services":237.44},
-			"2016-11": {"total":70.94, "Childrens Services":70.94},
-			"2017-01": {"total":134.82, "Childrens Services":134.82},
-			"2017-02": {"total":1233.44, "Childrens Services":1233.44},
-			"2017-03": {"total":225.00, "Childrens Services":225.00},
-			"2017-04": {"total":84.38, "Childrens Services":84.38},
-			"2017-05": {"total":143.10, "Children and Families":46.26, "Childrens Services":96.84},
-			"2017-06": {"total":43.46, "Children and Families":43.46},
-			"2017-07": {"total":92.38, "Children and Families":92.38},
-			"2017-08": {"total":334.91, "Children and Families":334.91},
-			"2017-10": {"total":172.30, "Children and Families":172.30},
-			"2017-11": {"total":56.92, "Children and Families":56.92},
-			"2017-12": {"total":74.42, "Children and Families":74.42},
-			"2018-01": {"total":84.38, "Children and Families":84.38},
-			"2018-02": {"total":225.00, "Children and Families":225.00},
-			"2018-03": {"total":69.42, "Children and Families":69.42},
-			"2018-05": {"total":188.52, "Children and Families":188.52},
-			"2018-06": {"total":38.52, "Children and Families":38.52},
-			"2018-09": {"total":36.02, "Children and Families":36.02}
-		}
-	},
-	"1247": {
-		"name": "Aid-Call Ltd",
-		"total": 771.29,
-		"monthly": {
-			"2014-03": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2014-06": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2014-09": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2014-12": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2015-03": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2015-06": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2015-09": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2015-12": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2016-03": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2016-07": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2016-10": {"total":54.90, "Social Services Pooled Budgets":54.90},
-			"2017-06": {"total":109.80, "Social Services Pooled Budgets":109.80},
-			"2018-06": {"total":57.59, "Social Services Pooled Budgets":57.59}
-		}
-	},
-	"1248": {
-		"name": "Aid-Training.Co.Uk",
-		"total": 115.95,
-		"monthly": {
-			"2016-01": {"total":115.95, "Childrens Services":115.95}
-		}
-	},
-	"1249": {
-		"name": "Aidan Harrington",
-		"total": 4400,
-		"monthly": {
-			"2012-08": {"total":600.00, "Childrens Services":600.00},
-			"2012-10": {"total":800.00, "Childrens Services":800.00},
-			"2012-12": {"total":800.00, "Childrens Services":800.00},
-			"2013-04": {"total":2200.00, "Childrens Services":2200.00}
 		}
 	}
 	}
