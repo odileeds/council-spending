@@ -1,28 +1,681 @@
 {
-	"range": ["2010-12","2018-07"],
+	"range": ["2010-12","2018-10"],
 	"data": {
 	"2500": {
+		"name": "FABRIKAT (NOTTINGHAM) LTD",
+		"total": 74368.67,
+		"monthly": {
+			"2010-12": {"total":421.30, "Local Environmental Services":421.30},
+			"2011-02": {"total":774.44, "Local Environmental Services":774.44},
+			"2011-05": {"total":560.16, "Local Environmental Services":560.16},
+			"2011-06": {"total":521.28, "Local Environmental Services":521.28},
+			"2011-07": {"total":443.94, "Supplies and Services":443.94},
+			"2011-08": {"total":797.02, "Supplies and Services":797.02},
+			"2011-10": {"total":1767.73, "Supplies and Services":1767.73},
+			"2012-01": {"total":2529.70, "unknown":2529.70},
+			"2012-07": {"total":15882.05, "Supplies and Services":14462.75, "unknown":1419.30},
+			"2012-08": {"total":347.50, "Supplies and Services":347.50},
+			"2012-10": {"total":692.50, "Supplies and Services":692.50},
+			"2012-11": {"total":4891.90, "unknown":4891.90},
+			"2013-09": {"total":2365.50, "Supplies and Services":2365.50},
+			"2014-01": {"total":792.50, "Supplies and Services":792.50},
+			"2014-03": {"total":356.00, "Supplies and Services":356.00},
+			"2015-12": {"total":4866.18, "Supplies and Services":4866.18},
+			"2016-03": {"total":7262.63, "Supplies and Services":7262.63},
+			"2016-06": {"total":797.00, "Supplies and Services":797.00},
+			"2016-07": {"total":1666.50, "Supplies and Services":1666.50},
+			"2016-09": {"total":1833.15, "Supplies and Services":1833.15},
+			"2016-11": {"total":3333.00, "Supplies and Services":3333.00},
+			"2017-02": {"total":666.60, "Supplies and Services":666.60},
+			"2017-03": {"total":4446.24, "Supplies and Services":4446.24},
+			"2017-06": {"total":1497.20, "Supplies and Services":1497.20},
+			"2017-12": {"total":847.60, "Supplies and Services":847.60},
+			"2018-02": {"total":4149.00, "Supplies and Services":4149.00},
+			"2018-04": {"total":5574.05, "Supplies and Services":5574.05},
+			"2018-07": {"total":2118.00, "Supplies and Services":2118.00},
+			"2018-08": {"total":2168.00, "Supplies and Services":2168.00}
+		}
+	},
+	"2501": {
+		"name": "FABULOCKS",
+		"total": 857.71,
+		"monthly": {
+			"2011-08": {"total":857.71, "Supplies and Services":857.71}
+		}
+	},
+	"2502": {
+		"name": "FACELIFT (GB) LTD",
+		"total": 14371.5,
+		"monthly": {
+			"2011-01": {"total":715.00, "Local Environmental Services":715.00},
+			"2011-03": {"total":715.00, "Local Environmental Services":715.00},
+			"2011-07": {"total":360.00, "Supplies and Services":360.00},
+			"2011-10": {"total":1120.00, "Supplies and Services":1120.00},
+			"2011-11": {"total":2132.50, "Transport":1390.00, "Supplies and Services":742.50},
+			"2011-12": {"total":1765.00, "Supplies and Services":1765.00},
+			"2012-02": {"total":650.00, "Third Party Payments":650.00},
+			"2012-05": {"total":360.00, "Supplies and Services":360.00},
+			"2012-07": {"total":360.00, "Supplies and Services":360.00},
+			"2012-08": {"total":900.00, "Supplies and Services":900.00},
+			"2012-09": {"total":840.00, "Supplies and Services":480.00, "Transport":360.00},
+			"2013-01": {"total":550.00, "Third Party Payments":550.00},
+			"2013-03": {"total":650.00, "Supplies and Services":650.00},
+			"2013-08": {"total":1100.00, "Supplies and Services":1100.00},
+			"2014-06": {"total":860.00, "Transport":860.00},
+			"2018-06": {"total":1294.00, "Supplies and Services":1294.00}
+		}
+	},
+	"2503": {
+		"name": "FACULTATIEVE TECHNOLOGIES LTD",
+		"total": 1016125.07,
+		"monthly": {
+			"2011-01": {"total":12734.00, "Local Environmental Services":12734.00},
+			"2011-03": {"total":2164.00, "Local Environmental Services":2164.00},
+			"2011-08": {"total":3086.24, "Premises":3086.24},
+			"2011-12": {"total":1238.00, "Supplies and Services":1238.00},
+			"2012-01": {"total":635.08, "Premises":635.08},
+			"2012-02": {"total":497.97, "Supplies and Services":497.97},
+			"2012-03": {"total":3088.48, "Supplies and Services":3088.48},
+			"2012-05": {"total":1086.48, "Supplies and Services":1086.48},
+			"2012-10": {"total":144142.93, "Third Party Payments":144142.93},
+			"2012-11": {"total":451290.18, "Supplies and Services":451290.18},
+			"2013-03": {"total":2212.68, "Supplies and Services":2212.68},
+			"2013-05": {"total":91318.56, "Supplies and Services":91318.56},
+			"2013-10": {"total":66608.77, "Supplies and Services":66608.77},
+			"2013-12": {"total":2505.54, "Supplies and Services":2505.54},
+			"2014-04": {"total":1281.64, "Supplies and Services":446.46, "Premises":835.18},
+			"2014-05": {"total":19825.27, "Supplies and Services":19825.27},
+			"2014-08": {"total":3734.06, "Supplies and Services":3734.06},
+			"2014-09": {"total":4228.50, "Supplies and Services":4228.50},
+			"2015-01": {"total":742.71, "Supplies and Services":742.71},
+			"2015-03": {"total":51168.88, "Supplies and Services":51168.88},
+			"2015-10": {"total":4228.50, "Supplies and Services":4228.50},
+			"2015-11": {"total":3555.46, "Supplies and Services":3555.46},
+			"2016-01": {"total":4625.06, "Supplies and Services":4625.06},
+			"2016-02": {"total":799.00, "Supplies and Services":799.00},
+			"2016-03": {"total":15930.00, "Supplies and Services":15930.00},
+			"2016-08": {"total":635.31, "Supplies and Services":635.31},
+			"2016-10": {"total":724.92, "Supplies and Services":724.92},
+			"2016-11": {"total":355.04, "Premises":355.04},
+			"2016-12": {"total":863.32, "Premises":863.32},
+			"2017-01": {"total":2186.56, "Premises":993.60, "Supplies and Services":1192.96},
+			"2017-02": {"total":692.15, "Supplies and Services":692.15},
+			"2017-03": {"total":17903.34, "Supplies and Services":17903.34},
+			"2017-07": {"total":2251.99, "Supplies and Services":2251.99},
+			"2017-11": {"total":3729.76, "Supplies and Services":3729.76},
+			"2018-03": {"total":47299.39, "Supplies and Services":47299.39},
+			"2018-04": {"total":709.52, "Supplies and Services":709.52},
+			"2018-08": {"total":5776.15, "Supplies and Services":5776.15},
+			"2018-09": {"total":1730.63, "Supplies and Services":1730.63},
+			"2018-10": {"total":38539.00, "Supplies and Services":38539.00}
+		}
+	},
+	"2504": {
+		"name": "FACULTY SERVICES LTD",
+		"alternate-names": [
+			"FACULTY SERVICES LIMITED"
+		],
+		"total": 500,
+		"monthly": {
+			"2018-08": {"total":500.00, "Supplies and Services":500.00}
+		}
+	},
+	"2505": {
+		"name": "FAGANS",
+		"total": 1500,
+		"monthly": {
+			"2017-01": {"total":1500.00, "Third Party Payments":1500.00}
+		}
+	},
+	"2506": {
+		"name": "FAIRBAIRN MARQUEES",
+		"total": 9316,
+		"monthly": {
+			"2015-08": {"total":2230.00, "Transport":2230.00},
+			"2015-10": {"total":1231.00, "Supplies and Services":1231.00},
+			"2016-04": {"total":360.00, "Supplies and Services":360.00},
+			"2016-09": {"total":1190.00, "Transport":1190.00},
+			"2016-11": {"total":856.00, "Supplies and Services":856.00},
+			"2016-12": {"total":1085.00, "Supplies and Services":1085.00},
+			"2018-01": {"total":980.00, "Supplies and Services":980.00},
+			"2018-07": {"total":488.00, "Supplies and Services":488.00},
+			"2018-08": {"total":450.00, "Supplies and Services":450.00},
+			"2018-10": {"total":446.00, "Supplies and Services":446.00}
+		}
+	},
+	"2507": {
+		"name": "FAIRBRIDGE IN TYNE AND WEAR",
+		"total": 2300,
+		"monthly": {
+			"2011-04": {"total":2300.00, "Learning and Children":2300.00}
+		}
+	},
+	"2508": {
+		"name": "FAIRHURST",
+		"total": 11322.18,
+		"monthly": {
+			"2016-03": {"total":550.00, "unknown":550.00},
+			"2017-03": {"total":5780.88, "unknown":5780.88},
+			"2018-04": {"total":4991.30, "Consultants":4991.30}
+		}
+	},
+	"2509": {
+		"name": "FAIRLY FAMOUS FAMILY",
+		"total": 9290,
+		"monthly": {
+			"2011-08": {"total":1950.00, "Supplies and Services":1950.00},
+			"2011-11": {"total":1290.00, "Supplies and Services":1290.00},
+			"2012-08": {"total":2000.00, "Supplies and Services":2000.00},
+			"2015-02": {"total":680.00, "Supplies and Services":680.00},
+			"2016-01": {"total":710.00, "Supplies and Services":710.00},
+			"2018-08": {"total":665.00, "Supplies and Services":665.00},
+			"2018-10": {"total":1995.00, "Supplies and Services":1995.00}
+		}
+	},
+	"2510": {
+		"name": "FAIRMAN CHEMISTS LTD T/A NUMARK PHARMACY",
+		"total": 35708.35,
+		"monthly": {
+			"2013-05": {"total":842.00, "Third Party Payments":842.00},
+			"2013-07": {"total":2358.31, "Third Party Payments":2358.31},
+			"2013-09": {"total":1366.61, "Third Party Payments":1366.61},
+			"2013-10": {"total":1793.99, "Third Party Payments":1793.99},
+			"2014-01": {"total":3061.76, "Third Party Payments":3061.76},
+			"2014-02": {"total":1295.52, "Third Party Payments":1295.52},
+			"2014-04": {"total":2432.61, "Third Party Payments":2432.61},
+			"2014-05": {"total":667.00, "Third Party Payments":667.00},
+			"2014-06": {"total":623.55, "Third Party Payments":623.55},
+			"2015-02": {"total":1182.76, "Third Party Payments":1182.76},
+			"2015-03": {"total":4009.74, "Third Party Payments":4009.74},
+			"2015-05": {"total":1149.21, "Third Party Payments":1149.21},
+			"2015-06": {"total":491.14, "Third Party Payments":491.14},
+			"2015-08": {"total":1205.50, "Third Party Payments":1205.50},
+			"2015-09": {"total":1629.52, "Third Party Payments":1629.52},
+			"2015-11": {"total":1185.76, "Third Party Payments":1185.76},
+			"2016-01": {"total":483.51, "Third Party Payments":483.51},
+			"2016-02": {"total":693.50, "Third Party Payments":693.50},
+			"2016-04": {"total":472.00, "Third Party Payments":472.00},
+			"2016-05": {"total":631.08, "Third Party Payments":631.08},
+			"2016-12": {"total":519.50, "Third Party Payments":519.50},
+			"2017-01": {"total":2298.89, "Third Party Payments":2298.89},
+			"2017-02": {"total":1273.58, "Third Party Payments":1273.58},
+			"2017-03": {"total":1057.72, "Third Party Payments":1057.72},
+			"2017-04": {"total":1306.76, "Third Party Payments":1306.76},
+			"2017-09": {"total":548.50, "Third Party Payments":548.50},
+			"2017-12": {"total":1128.33, "Third Party Payments":1128.33}
+		}
+	},
+	"2511": {
+		"name": "FAIRMAY PROPERTY LTD",
+		"total": 500,
+		"monthly": {
+			"2011-03": {"total":500.00, "Community Based Services":500.00}
+		}
+	},
+	"2512": {
+		"name": "FAIRPORT CONTAINERS",
+		"total": 34337.37,
+		"monthly": {
+			"2013-02": {"total":7360.00, "Works":7360.00},
+			"2013-03": {"total":1020.00, "Works":1020.00},
+			"2013-07": {"total":2490.00, "Works":2490.00},
+			"2013-09": {"total":541.67, "Works":541.67},
+			"2014-05": {"total":6841.44, "Works":6841.44},
+			"2014-06": {"total":3446.64, "Works":3446.64},
+			"2014-07": {"total":6711.72, "Works":6711.72},
+			"2014-10": {"total":5077.20, "Works":5077.20},
+			"2014-12": {"total":848.70, "Works":848.70}
+		}
+	},
+	"2513": {
+		"name": "FAIRWAYS",
+		"total": 1080371.94,
+		"monthly": {
+			"2010-12": {"total":21491.84, "Community Based Services":21491.84},
+			"2011-01": {"total":21491.84, "Community Based Services":21491.84},
+			"2011-02": {"total":21491.84, "Community Based Services":21491.84},
+			"2011-03": {"total":42983.68, "Community Based Services":42983.68},
+			"2011-04": {"total":21538.64, "Community Based Services":21538.64},
+			"2011-05": {"total":21554.24, "Community Based Services":21554.24},
+			"2011-06": {"total":21554.24, "Community Based Services":21554.24},
+			"2011-07": {"total":21554.24, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1770.00},
+			"2011-08": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2011-09": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2011-10": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2011-11": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2011-12": {"total":21554.24, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1770.00},
+			"2012-01": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2012-02": {"total":43108.48, "Third Party Payments":39568.48, "Income: Customer and Client Receipts":3540.00},
+			"2012-03": {"total":21554.24, "Income: Customer and Client Receipts":1770.00, "Third Party Payments":19784.24},
+			"2012-04": {"total":21628.04, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1843.80},
+			"2012-05": {"total":21652.64, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1868.40},
+			"2012-06": {"total":21652.64, "Income: Customer and Client Receipts":1868.40, "Third Party Payments":19784.24},
+			"2012-07": {"total":21652.64, "Income: Customer and Client Receipts":1868.40, "Third Party Payments":19784.24},
+			"2012-08": {"total":21652.64, "Income: Customer and Client Receipts":1868.40, "Third Party Payments":19784.24},
+			"2012-09": {"total":21652.64, "Income: Customer and Client Receipts":1868.40, "Third Party Payments":19784.24},
+			"2012-10": {"total":21652.64, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1868.40},
+			"2012-11": {"total":21652.64, "Income: Customer and Client Receipts":1868.40, "Third Party Payments":19784.24},
+			"2013-01": {"total":43305.28, "Third Party Payments":39568.48, "Income: Customer and Client Receipts":3736.80},
+			"2013-02": {"total":21652.64, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1868.40},
+			"2013-03": {"total":21652.64, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1868.40},
+			"2013-04": {"total":21669.74, "Third Party Payments":19784.24, "Income: Customer and Client Receipts":1885.50},
+			"2013-05": {"total":23676.81, "Third Party Payments":21652.96, "Income: Customer and Client Receipts":2023.85},
+			"2013-06": {"total":24047.24, "Third Party Payments":22080.24, "Income: Customer and Client Receipts":1967.00},
+			"2013-07": {"total":24047.24, "Income: Customer and Client Receipts":1967.00, "Third Party Payments":22080.24},
+			"2013-08": {"total":24047.24, "Third Party Payments":22080.24, "Income: Customer and Client Receipts":1967.00},
+			"2013-09": {"total":14953.10, "Third Party Payments":12758.41, "Income: Customer and Client Receipts":2194.69},
+			"2013-10": {"total":17939.36, "Third Party Payments":16363.36, "Income: Customer and Client Receipts":1576.00},
+			"2013-12": {"total":85153.08, "Third Party Payments":77385.66, "Income: Fees and Charges":7767.42},
+			"2014-01": {"total":13742.52, "Third Party Payments":12481.72, "Income: Fees and Charges":1260.80},
+			"2014-02": {"total":13742.52, "Income: Fees and Charges":1260.80, "Third Party Payments":12481.72},
+			"2014-03": {"total":11434.28, "Income: Fees and Charges":1087.44, "Third Party Payments":10346.84},
+			"2014-04": {"total":13755.12, "Income: Fees and Charges":1273.40, "Third Party Payments":12481.72},
+			"2014-05": {"total":13759.32, "Income: Fees and Charges":1277.60, "Third Party Payments":12481.72},
+			"2014-06": {"total":13759.32, "Income: Fees and Charges":1277.60, "Third Party Payments":12481.72},
+			"2014-07": {"total":13759.32, "Income: Fees and Charges":1277.60, "Third Party Payments":12481.72},
+			"2014-08": {"total":13759.32, "Income: Fees and Charges":1277.60, "Third Party Payments":12481.72},
+			"2014-09": {"total":13759.32, "Third Party Payments":12481.72, "Income: Fees and Charges":1277.60},
+			"2014-10": {"total":9460.81, "Income: Fees and Charges":967.33, "Third Party Payments":8493.48},
+			"2014-11": {"total":9111.60, "Income: Fees and Charges":958.20, "Third Party Payments":8153.40},
+			"2014-12": {"total":10185.69, "Income: Fees and Charges":1083.68, "Third Party Payments":9102.01},
+			"2015-01": {"total":15717.73, "Third Party Payments":14052.29, "Income: Fees and Charges":1665.44},
+			"2015-03": {"total":31435.46, "Income: Fees and Charges":3330.88, "Third Party Payments":28104.58}
+		}
+	},
+	"2514": {
+		"name": "FAITH IN FAMILIES",
+		"total": 27750,
+		"monthly": {
+			"2014-10": {"total":19524.19, "Third Party Payments":19524.19},
+			"2014-12": {"total":750.00, "Third Party Payments":750.00},
+			"2015-01": {"total":1500.00, "Third Party Payments":1500.00},
+			"2015-02": {"total":750.00, "Third Party Payments":750.00},
+			"2015-03": {"total":1500.00, "Third Party Payments":1500.00},
+			"2015-04": {"total":750.00, "Third Party Payments":750.00},
+			"2015-06": {"total":750.00, "Third Party Payments":750.00},
+			"2015-11": {"total":2225.81, "Third Party Payments":2225.81}
+		}
+	},
+	"2515": {
+		"name": "FAITHFUL & GOULD",
+		"total": 3120.19,
+		"monthly": {
+			"2011-07": {"total":1537.79, "Supplies and Services":1537.79},
+			"2012-06": {"total":1582.40, "Supplies and Services":1582.40}
+		}
+	},
+	"2516": {
+		"name": "FALCK NUTEC LTD",
+		"total": 500,
+		"monthly": {
+			"2011-05": {"total":500.00, "Development & Enterprise":500.00}
+		}
+	},
+	"2517": {
+		"name": "FALCON COPIERS",
+		"total": 1797,
+		"monthly": {
+			"2012-07": {"total":1797.00, "Supplies and Services":1797.00}
+		}
+	},
+	"2518": {
+		"name": "FALCON FOODSERVICE EQUIPMENT",
+		"total": 75613,
+		"monthly": {
+			"2013-10": {"total":1669.00, "Supplies and Services":1669.00},
+			"2014-06": {"total":2407.00, "Supplies and Services":2407.00},
+			"2014-07": {"total":4806.00, "Works":4806.00},
+			"2014-09": {"total":2450.00, "Works":2450.00},
+			"2014-11": {"total":2110.00, "Supplies and Services":2110.00},
+			"2014-12": {"total":1055.00, "Supplies and Services":1055.00},
+			"2015-03": {"total":39728.00, "Works":39728.00},
+			"2015-04": {"total":6083.00, "Supplies and Services":6083.00},
+			"2015-11": {"total":2290.00, "Supplies and Services":2290.00},
+			"2016-03": {"total":1950.00, "Supplies and Services":1950.00},
+			"2016-04": {"total":9765.00, "Supplies and Services":9765.00},
+			"2018-06": {"total":1300.00, "Supplies and Services":1300.00}
+		}
+	},
+	"2519": {
+		"name": "FALCON FOODSERVICE EQUIPMENT LTD",
+		"total": 1825,
+		"monthly": {
+			"2011-07": {"total":1825.00, "Supplies and Services":1825.00}
+		}
+	},
+	"2520": {
+		"name": "FALL PROTECTION UK LTD",
+		"total": 3634.8,
+		"monthly": {
+			"2011-06": {"total":1856.40, "Local Environmental Services":1856.40},
+			"2011-09": {"total":1778.40, "Supplies and Services":1778.40}
+		}
+	},
+	"2521": {
+		"name": "FALSTONE MANOR CARE HOME",
+		"total": 38539.34,
+		"monthly": {
+			"2011-12": {"total":3325.26, "Third Party Payments":2610.00, "Income: Customer and Client Receipts":715.26},
+			"2012-01": {"total":2216.84, "Income: Customer and Client Receipts":476.84, "Third Party Payments":1740.00},
+			"2012-02": {"total":4433.68, "Income: Customer and Client Receipts":953.68, "Third Party Payments":3480.00},
+			"2012-03": {"total":2216.84, "Third Party Payments":1740.00, "Income: Customer and Client Receipts":476.84},
+			"2012-04": {"total":2224.34, "Income: Customer and Client Receipts":484.34, "Third Party Payments":1740.00},
+			"2012-05": {"total":2226.84, "Third Party Payments":1740.00, "Income: Customer and Client Receipts":486.84},
+			"2012-06": {"total":2226.84, "Third Party Payments":1740.00, "Income: Customer and Client Receipts":486.84},
+			"2012-07": {"total":2226.84, "Income: Customer and Client Receipts":486.84, "Third Party Payments":1740.00},
+			"2012-08": {"total":2226.84, "Third Party Payments":1740.00, "Income: Customer and Client Receipts":486.84},
+			"2012-09": {"total":2226.84, "Income: Customer and Client Receipts":486.84, "Third Party Payments":1740.00},
+			"2012-10": {"total":2226.84, "Income: Customer and Client Receipts":486.84, "Third Party Payments":1740.00},
+			"2012-11": {"total":2226.84, "Third Party Payments":1740.00, "Income: Customer and Client Receipts":486.84},
+			"2013-01": {"total":6494.09, "Third Party Payments":5033.57, "Income: Customer and Client Receipts":1460.52},
+			"2013-02": {"total":2040.41, "Third Party Payments":1553.57, "Income: Customer and Client Receipts":486.84}
+		}
+	},
+	"2522": {
+		"name": "FAMILY CARE",
+		"total": 27000,
+		"monthly": {
+			"2017-12": {"total":27000.00, "Third Party Payments":27000.00}
+		}
+	},
+	"2523": {
+		"name": "FAMILY CARE SOCIETY",
+		"total": 182043,
+		"monthly": {
+			"2013-12": {"total":115710.00, "Third Party Payments":115710.00},
+			"2014-05": {"total":9000.00, "Third Party Payments":9000.00},
+			"2014-10": {"total":14333.00, "Third Party Payments":14333.00},
+			"2016-08": {"total":28667.00, "Third Party Payments":28667.00},
+			"2017-06": {"total":14333.00, "Third Party Payments":14333.00}
+		}
+	},
+	"2524": {
+		"name": "FAMILY FOSTERCARE",
+		"total": 10074.04,
+		"monthly": {
+			"2012-02": {"total":6442.70, "Third Party Payments":6442.70},
+			"2012-03": {"total":3631.34, "Third Party Payments":3631.34}
+		}
+	},
+	"2525": {
+		"name": "FAMILY FUTURES CONSORTIUM LTD",
+		"total": 800,
+		"monthly": {
+			"2012-07": {"total":400.00, "Supplies and Services":400.00},
+			"2013-03": {"total":400.00, "Supplies and Services":400.00}
+		}
+	},
+	"2526": {
+		"name": "FAMILY GATEWAY",
+		"total": 20566.8,
+		"monthly": {
+			"2018-02": {"total":12000.00, "Third Party Payments":12000.00},
+			"2018-10": {"total":8566.80, "Third Party Payments":8566.80}
+		}
+	},
+	"2527": {
+		"name": "FAMILY LINKS",
+		"total": 28372.5,
+		"monthly": {
+			"2011-02": {"total":2548.50, "Learning and Children":2548.50},
+			"2011-10": {"total":493.50, "Supplies and Services":493.50},
+			"2012-02": {"total":622.50, "Supplies and Services":622.50},
+			"2013-09": {"total":2486.50, "Supplies and Services":2486.50},
+			"2016-03": {"total":653.00, "Supplies and Services":653.00},
+			"2017-01": {"total":2200.00, "Employees":2200.00},
+			"2017-02": {"total":1478.00, "Supplies and Services":1478.00},
+			"2017-03": {"total":1600.00, "Supplies and Services":1600.00},
+			"2018-03": {"total":653.00, "Supplies and Services":653.00},
+			"2018-10": {"total":15637.50, "Supplies and Services":15637.50}
+		}
+	},
+	"2528": {
+		"name": "FANE LTD",
+		"total": 495,
+		"monthly": {
+			"2015-07": {"total":495.00, "Employees":495.00}
+		}
+	},
+	"2529": {
+		"name": "FANTOME LINE LTD",
+		"total": 1025,
+		"monthly": {
+			"2012-04": {"total":1025.00, "Supplies and Services":1025.00}
+		}
+	},
+	"2530": {
+		"name": "FAR NORTH LTD.",
+		"total": 900,
+		"monthly": {
+			"2018-10": {"total":900.00, "Employees":900.00}
+		}
+	},
+	"2531": {
+		"name": "FARM FORESTRY",
+		"total": 966,
+		"monthly": {
+			"2012-11": {"total":966.00, "Supplies and Services":966.00}
+		}
+	},
+	"2532": {
+		"name": "FARNACRES LTD T/A RUTHERFORD AFC",
+		"total": 4704.21,
+		"monthly": {
+			"2011-11": {"total":959.80, "Supplies and Services":959.80},
+			"2011-12": {"total":729.60, "Supplies and Services":729.60},
+			"2012-01": {"total":757.61, "Supplies and Services":757.61},
+			"2012-02": {"total":752.40, "Supplies and Services":752.40},
+			"2012-03": {"total":1504.80, "Supplies and Services":1504.80}
+		}
+	},
+	"2533": {
+		"name": "FARONICS (EMEA) LTD",
+		"total": 1499.3,
+		"monthly": {
+			"2018-01": {"total":1499.30, "Supplies and Services":1499.30}
+		}
+	},
+	"2534": {
+		"name": "FARRINGTONS COMMERCIALS LTD",
+		"total": 98250,
+		"monthly": {
+			"2016-11": {"total":50000.00, "Transport":23000.00, "unknown":27000.00},
+			"2017-11": {"total":48250.00, "unknown":48250.00}
+		}
+	},
+	"2535": {
+		"name": "FAST CORPORATE SERVICES LTD",
+		"total": 5825,
+		"monthly": {
+			"2011-11": {"total":2250.00, "Supplies and Services":2250.00},
+			"2012-03": {"total":1190.00, "Employees":1190.00},
+			"2012-09": {"total":2385.00, "Supplies and Services":2385.00}
+		}
+	},
+	"2536": {
+		"name": "FAST FORWARD NOW LTD",
+		"total": 5500,
+		"monthly": {
+			"2012-01": {"total":2000.00, "Employees":2000.00},
+			"2012-03": {"total":500.00, "Employees":500.00},
+			"2013-02": {"total":1500.00, "Supplies and Services":1500.00},
+			"2013-03": {"total":1500.00, "Supplies and Services":1500.00}
+		}
+	},
+	"2537": {
+		"name": "FAST LANE CONSULTING",
+		"total": 8518.76,
+		"monthly": {
+			"2011-07": {"total":5400.00, "Purchase of Equipment":5400.00},
+			"2018-01": {"total":3118.76, "Employees":3118.76}
+		}
+	},
+	"2538": {
+		"name": "FASTGLOBE (MASTICS) LTD",
+		"total": 1999.2,
+		"monthly": {
+			"2011-08": {"total":639.54, "Supplies and Services":639.54},
+			"2012-01": {"total":1359.66, "Supplies and Services":1359.66}
+		}
+	},
+	"2539": {
+		"name": "FAT HIPPO TO GO LTD",
+		"total": 1633.33,
+		"monthly": {
+			"2017-01": {"total":583.33, "Supplies and Services":583.33},
+			"2018-07": {"total":1050.00, "Supplies and Services":1050.00}
+		}
+	},
+	"2540": {
+		"name": "FAWDINGTON LTD",
+		"total": 1000,
+		"monthly": {
+			"2010-12": {"total":1000.00, "Local Environmental Services":1000.00}
+		}
+	},
+	"2541": {
+		"name": "FEARWORKS MEDIA",
+		"total": 8202.5,
+		"monthly": {
+			"2011-02": {"total":8202.50, "Learning and Children":8202.50}
+		}
+	},
+	"2542": {
+		"name": "FED. OF BURIAL & CREMATION AUTHORITIES",
+		"total": 7551.5,
+		"monthly": {
+			"2011-02": {"total":703.00, "Local Environmental Services":703.00},
+			"2012-01": {"total":740.00, "Supplies and Services":740.00},
+			"2013-01": {"total":780.40, "Supplies and Services":780.40},
+			"2014-06": {"total":822.40, "Supplies and Services":822.40},
+			"2015-01": {"total":860.10, "Supplies and Services":860.10},
+			"2016-01": {"total":906.10, "Supplies and Services":906.10},
+			"2017-06": {"total":916.70, "Supplies and Services":916.70},
+			"2018-02": {"total":1822.80, "Supplies and Services":1822.80}
+		}
+	},
+	"2543": {
+		"name": "FEDERAL SPECIALIST VEHICLES",
+		"total": 43000,
+		"monthly": {
+			"2017-02": {"total":43000.00, "unknown":43000.00}
+		}
+	},
+	"2544": {
+		"name": "FEDERATION FOR INDUSTRY SECTOR SKILLS AND STANDARDS",
+		"total": 17820,
+		"monthly": {
+			"2014-01": {"total":440.00, "Supplies and Services":440.00},
+			"2014-05": {"total":1320.00, "Supplies and Services":1320.00},
+			"2014-11": {"total":1320.00, "Supplies and Services":1320.00},
+			"2015-02": {"total":880.00, "Supplies and Services":880.00},
+			"2015-08": {"total":1320.00, "Supplies and Services":1320.00},
+			"2016-01": {"total":1320.00, "Supplies and Services":1320.00},
+			"2016-04": {"total":1320.00, "Supplies and Services":1320.00},
+			"2016-09": {"total":1320.00, "Supplies and Services":1320.00},
+			"2017-02": {"total":660.00, "Supplies and Services":660.00},
+			"2017-05": {"total":660.00, "Supplies and Services":660.00},
+			"2017-09": {"total":660.00, "Supplies and Services":660.00},
+			"2017-11": {"total":660.00, "Supplies and Services":660.00},
+			"2017-12": {"total":660.00, "Supplies and Services":660.00},
+			"2018-02": {"total":1320.00, "Supplies and Services":1320.00},
+			"2018-03": {"total":660.00, "Supplies and Services":660.00},
+			"2018-05": {"total":660.00, "Supplies and Services":660.00},
+			"2018-07": {"total":660.00, "Supplies and Services":660.00},
+			"2018-08": {"total":660.00, "Supplies and Services":660.00},
+			"2018-09": {"total":660.00, "Supplies and Services":660.00},
+			"2018-10": {"total":660.00, "Supplies and Services":660.00}
+		}
+	},
+	"2545": {
+		"name": "FELICITY HUNTER NOTT",
+		"total": 464.84,
+		"monthly": {
+			"2014-03": {"total":464.84, "Supplies and Services":464.84}
+		}
+	},
+	"2546": {
+		"name": "FELL COTTAGE SURGERY",
+		"total": 105328.79,
+		"monthly": {
+			"2012-07": {"total":2964.64, "Supplies and Services":2964.64},
+			"2013-07": {"total":1040.00, "Third Party Payments":1040.00},
+			"2013-09": {"total":690.00, "Third Party Payments":690.00},
+			"2013-10": {"total":4478.18, "Third Party Payments":4478.18},
+			"2014-01": {"total":3263.18, "Third Party Payments":3263.18},
+			"2014-03": {"total":915.00, "Third Party Payments":915.00},
+			"2014-04": {"total":3577.46, "Third Party Payments":3577.46},
+			"2014-05": {"total":1672.00, "Third Party Payments":1672.00},
+			"2014-08": {"total":2858.60, "Third Party Payments":2858.60},
+			"2014-09": {"total":1185.00, "Third Party Payments":1185.00},
+			"2014-11": {"total":3408.74, "Third Party Payments":3408.74},
+			"2014-12": {"total":1015.00, "Third Party Payments":1015.00},
+			"2015-02": {"total":758.88, "Third Party Payments":758.88},
+			"2015-03": {"total":1830.00, "Third Party Payments":1830.00},
+			"2015-04": {"total":4038.88, "Third Party Payments":4038.88},
+			"2015-06": {"total":2190.00, "Third Party Payments":2190.00},
+			"2015-07": {"total":853.74, "Third Party Payments":853.74},
+			"2015-08": {"total":3320.50, "Third Party Payments":3320.50},
+			"2015-10": {"total":853.74, "Third Party Payments":853.74},
+			"2015-11": {"total":1300.00, "Third Party Payments":1300.00},
+			"2016-01": {"total":758.88, "Third Party Payments":758.88},
+			"2016-02": {"total":3850.00, "Third Party Payments":3850.00},
+			"2016-05": {"total":6775.23, "Supplies and Services":2681.35, "Third Party Payments":4093.88},
+			"2016-08": {"total":5758.88, "Third Party Payments":5758.88},
+			"2016-11": {"total":8328.60, "Third Party Payments":8328.60},
+			"2017-02": {"total":5863.74, "Third Party Payments":5863.74},
+			"2017-05": {"total":5199.74, "Third Party Payments":5199.74},
+			"2017-09": {"total":1020.00, "Third Party Payments":1020.00},
+			"2017-11": {"total":2655.00, "Third Party Payments":2655.00},
+			"2018-01": {"total":3546.92, "Third Party Payments":3546.92},
+			"2018-02": {"total":4600.00, "Third Party Payments":4600.00},
+			"2018-04": {"total":875.00, "Third Party Payments":875.00},
+			"2018-05": {"total":9303.26, "Third Party Payments":6568.46, "Supplies and Services":2734.80},
+			"2018-08": {"total":4580.00, "Third Party Payments":4580.00}
+		}
+	},
+	"2547": {
+		"name": "FELL HOUSE",
+		"total": 561747.74,
+		"monthly": {
+			"2010-12": {"total":45866.23, "Community Based Services":45866.23},
+			"2011-01": {"total":42424.63, "Community Based Services":42424.63},
+			"2011-02": {"total":36045.72, "Community Based Services":36045.72},
+			"2011-03": {"total":75706.08, "Community Based Services":75706.08},
+			"2011-04": {"total":33154.75, "Community Based Services":33154.75},
+			"2011-05": {"total":174320.47, "Community Based Services":174320.47},
+			"2011-06": {"total":30172.30, "Community Based Services":30172.30},
+			"2011-07": {"total":34257.31, "Income: Customer and Client Receipts":8219.62, "Third Party Payments":26037.69},
+			"2011-08": {"total":25648.32, "Third Party Payments":19920.00, "Income: Customer and Client Receipts":5728.32},
+			"2011-09": {"total":26088.00, "Income: Customer and Client Receipts":5812.29, "Third Party Payments":20275.71},
+			"2011-10": {"total":24806.55, "Third Party Payments":18319.29, "Income: Customer and Client Receipts":6487.26},
+			"2011-11": {"total":11490.46, "Third Party Payments":9130.00, "Income: Customer and Client Receipts":2360.46},
+			"2012-02": {"total":883.46, "Income: Customer and Client Receipts":883.46},
+			"2012-04": {"total":883.46, "Supplies and Services":883.46}
+		}
+	},
+	"2548": {
 		"name": "FELL HOUSE CARE HOME",
 		"total": 254218.37,
 		"monthly": {
 			"2011-12": {"total":37253.00, "Third Party Payments":29761.43, "Income: Customer and Client Receipts":7491.57},
-			"2012-01": {"total":21723.17, "Income: Customer and Client Receipts":4990.47, "Third Party Payments":16732.70},
-			"2012-02": {"total":41657.36, "Income: Customer and Client Receipts":8457.36, "Third Party Payments":33200.00},
+			"2012-01": {"total":21723.17, "Third Party Payments":16732.70, "Income: Customer and Client Receipts":4990.47},
+			"2012-02": {"total":41657.36, "Third Party Payments":33200.00, "Income: Customer and Client Receipts":8457.36},
 			"2012-03": {"total":16786.20, "Income: Customer and Client Receipts":3209.77, "Third Party Payments":13576.43},
-			"2012-04": {"total":18984.48, "Third Party Payments":15177.14, "Income: Customer and Client Receipts":3807.34},
-			"2012-05": {"total":17100.97, "Income: Customer and Client Receipts":3465.26, "Third Party Payments":13635.71},
-			"2012-06": {"total":14666.19, "Third Party Payments":12272.15, "Income: Customer and Client Receipts":2394.04},
+			"2012-04": {"total":18984.48, "Income: Customer and Client Receipts":3807.34, "Third Party Payments":15177.14},
+			"2012-05": {"total":17100.97, "Third Party Payments":13635.71, "Income: Customer and Client Receipts":3465.26},
+			"2012-06": {"total":14666.19, "Income: Customer and Client Receipts":2394.04, "Third Party Payments":12272.15},
 			"2012-07": {"total":20062.09, "Income: Customer and Client Receipts":7493.52, "Third Party Payments":12568.57},
-			"2012-08": {"total":15756.02, "Income: Customer and Client Receipts":3246.73, "Third Party Payments":12509.29},
+			"2012-08": {"total":15756.02, "Third Party Payments":12509.29, "Income: Customer and Client Receipts":3246.73},
 			"2012-09": {"total":21338.26, "Income: Customer and Client Receipts":4797.55, "Third Party Payments":16540.71},
 			"2012-10": {"total":14130.13, "Income: Customer and Client Receipts":1233.95, "Third Party Payments":12896.18},
-			"2012-11": {"total":11179.12, "Third Party Payments":8892.86, "Income: Customer and Client Receipts":2286.26},
+			"2012-11": {"total":11179.12, "Income: Customer and Client Receipts":2286.26, "Third Party Payments":8892.86},
 			"2013-01": {"total":3581.38, "Third Party Payments":2667.86, "Income: Customer and Client Receipts":913.52}
 		}
 	},
-	"2501": {
+	"2549": {
 		"name": "FELL TOWER MEDICAL CENTRE",
-		"total": 39174.5,
+		"total": 43184.5,
 		"monthly": {
 			"2013-10": {"total":2615.00, "Third Party Payments":2615.00},
 			"2014-01": {"total":3075.00, "Third Party Payments":3075.00},
@@ -31,7 +684,7 @@
 			"2014-05": {"total":1760.00, "Third Party Payments":1760.00},
 			"2014-09": {"total":490.00, "Third Party Payments":490.00},
 			"2014-12": {"total":1315.00, "Third Party Payments":1315.00},
-			"2015-03": {"total":1600.00, "Third Party Payments":1600.00},
+			"2015-03": {"total":3200.00, "Third Party Payments":3200.00},
 			"2015-06": {"total":3183.00, "Third Party Payments":3183.00},
 			"2015-08": {"total":1720.00, "Third Party Payments":1720.00},
 			"2015-11": {"total":1805.00, "Third Party Payments":1805.00},
@@ -42,569 +695,9 @@
 			"2017-02": {"total":1095.00, "Third Party Payments":1095.00},
 			"2017-04": {"total":1500.00, "Third Party Payments":1500.00},
 			"2017-05": {"total":1915.00, "Third Party Payments":1915.00},
-			"2017-08": {"total":1975.00, "Third Party Payments":1975.00},
-			"2017-10": {"total":1500.00, "Third Party Payments":1500.00},
 			"2017-11": {"total":2130.00, "Third Party Payments":2130.00},
-			"2018-02": {"total":3150.00, "Third Party Payments":3150.00}
-		}
-	},
-	"2502": {
-		"name": "FELLGATE PRIMARY SCHOOL",
-		"total": 3000,
-		"monthly": {
-			"2014-11": {"total":1500.00, "Third Party Payments":1500.00},
-			"2015-05": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"2503": {
-		"name": "FELLING ACTIVITY PROJECT",
-		"total": 5000,
-		"monthly": {
-			"2012-08": {"total":5000.00, "Supplies and Services":5000.00}
-		}
-	},
-	"2504": {
-		"name": "FELLING ART GROUP",
-		"total": 1650,
-		"monthly": {
-			"2011-02": {"total":1150.00, "Community Based Services":1150.00},
-			"2013-03": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"2505": {
-		"name": "FELLING COMMUNITY ASSOCIATION",
-		"total": 12781.94,
-		"monthly": {
-			"2011-06": {"total":4140.00, "Community Based Services":4140.00},
-			"2012-07": {"total":3726.00, "Supplies and Services":3726.00},
-			"2013-07": {"total":4415.94, "Supplies and Services":4415.94},
-			"2016-01": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"2506": {
-		"name": "FELLING MAGPIES FC",
-		"total": 500,
-		"monthly": {
-			"2017-03": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"2507": {
-		"name": "FELLING MAGPIES YPC",
-		"total": 1912.51,
-		"monthly": {
-			"2013-06": {"total":962.51, "Third Party Payments":962.51},
-			"2015-05": {"total":500.00, "Supplies and Services":500.00},
-			"2015-09": {"total":450.00, "Supplies and Services":450.00}
-		}
-	},
-	"2508": {
-		"name": "FELLING METHODIST CHURCH - NO.2 ACCOUNT",
-		"total": 16400,
-		"monthly": {
-			"2011-05": {"total":5000.00, "Community Based Services":5000.00},
-			"2012-02": {"total":650.00, "Supplies and Services":650.00},
-			"2012-05": {"total":2000.00, "Supplies and Services":2000.00},
-			"2013-05": {"total":2000.00, "Supplies and Services":2000.00},
-			"2014-02": {"total":2250.00, "Supplies and Services":2250.00},
-			"2015-01": {"total":2250.00, "Supplies and Services":2250.00},
-			"2016-03": {"total":2250.00, "Supplies and Services":2250.00}
-		}
-	},
-	"2509": {
-		"name": "FELLING WARRIORS ACADAMY",
-		"total": 10817.76,
-		"monthly": {
-			"2014-05": {"total":7500.00, "Supplies and Services":7500.00},
-			"2015-01": {"total":495.00, "Supplies and Services":495.00},
-			"2015-02": {"total":2822.76, "Supplies and Services":2822.76}
-		}
-	},
-	"2510": {
-		"name": "FELLINGATE CARE CENTRE LTD",
-		"total": 15665738.47,
-		"monthly": {
-			"2011-01": {"total":11485.16, "Community Based Services":11485.16},
-			"2011-02": {"total":39800.14, "Community Based Services":39800.14},
-			"2011-03": {"total":115033.01, "Community Based Services":115033.01},
-			"2011-04": {"total":65876.66, "Community Based Services":65876.66},
-			"2011-05": {"total":77406.16, "Community Based Services":77406.16},
-			"2011-06": {"total":104704.63, "Community Based Services":104704.63},
-			"2011-07": {"total":135489.68, "Third Party Payments":100205.55, "Income: Customer and Client Receipts":35284.13},
-			"2011-08": {"total":134099.37, "Income: Customer and Client Receipts":34118.31, "Third Party Payments":99981.06},
-			"2011-09": {"total":109307.33, "Income: Customer and Client Receipts":25098.88, "Third Party Payments":84208.45},
-			"2011-10": {"total":125785.75, "Third Party Payments":96173.50, "Income: Customer and Client Receipts":29612.25},
-			"2011-11": {"total":161080.70, "Income: Customer and Client Receipts":38024.91, "Third Party Payments":123055.79},
-			"2011-12": {"total":155574.11, "Third Party Payments":119691.83, "Income: Customer and Client Receipts":35882.28},
-			"2012-01": {"total":160602.56, "Third Party Payments":104706.90, "Income: Customer and Client Receipts":55895.66},
-			"2012-02": {"total":341581.58, "Income: Customer and Client Receipts":87994.26, "Third Party Payments":253587.32},
-			"2012-03": {"total":204049.66, "Income: Customer and Client Receipts":35166.34, "Third Party Payments":168883.32},
-			"2012-04": {"total":146089.37, "Income: Customer and Client Receipts":31315.28, "Third Party Payments":114774.09},
-			"2012-05": {"total":141701.91, "Third Party Payments":110358.23, "Income: Customer and Client Receipts":31343.68},
-			"2012-06": {"total":145303.42, "Income: Customer and Client Receipts":37247.35, "Third Party Payments":108056.07},
-			"2012-07": {"total":195898.55, "Third Party Payments":151747.63, "Income: Customer and Client Receipts":44150.92},
-			"2012-08": {"total":156418.29, "Third Party Payments":117776.29, "Income: Customer and Client Receipts":38642.00},
-			"2012-09": {"total":142261.25, "Income: Customer and Client Receipts":24345.85, "Third Party Payments":117915.40},
-			"2012-10": {"total":135256.28, "Third Party Payments":103440.62, "Income: Customer and Client Receipts":31815.66},
-			"2012-11": {"total":145400.21, "Third Party Payments":113193.41, "Income: Customer and Client Receipts":32206.80},
-			"2013-01": {"total":301902.38, "Third Party Payments":236272.64, "Income: Customer and Client Receipts":65629.74},
-			"2013-02": {"total":128015.99, "Income: Customer and Client Receipts":28037.00, "Third Party Payments":99978.99},
-			"2013-03": {"total":164189.18, "Third Party Payments":129741.97, "Income: Customer and Client Receipts":34447.21},
-			"2013-04": {"total":125184.99, "Income: Customer and Client Receipts":25788.52, "Third Party Payments":99396.47},
-			"2013-05": {"total":134130.06, "Income: Customer and Client Receipts":27624.01, "Third Party Payments":106506.05},
-			"2013-06": {"total":131260.90, "Income: Customer and Client Receipts":28075.60, "Third Party Payments":103185.30},
-			"2013-07": {"total":160927.53, "Income: Customer and Client Receipts":35732.89, "Third Party Payments":125194.64},
-			"2013-08": {"total":199358.28, "Third Party Payments":170306.31, "Income: Customer and Client Receipts":29051.97},
-			"2013-09": {"total":139952.02, "Third Party Payments":109516.29, "Income: Customer and Client Receipts":30435.73},
-			"2013-10": {"total":141361.43, "Third Party Payments":113583.79, "Income: Customer and Client Receipts":27777.64},
-			"2013-12": {"total":973951.74, "Third Party Payments":776814.57, "Income: Fees and Charges":197137.17},
-			"2014-01": {"total":153046.15, "Third Party Payments":123002.06, "Income: Fees and Charges":30044.09},
-			"2014-02": {"total":125972.83, "Income: Fees and Charges":24409.37, "Third Party Payments":101563.46},
-			"2014-03": {"total":146356.75, "Third Party Payments":115961.14, "Income: Fees and Charges":30395.61},
-			"2014-04": {"total":164306.15, "Third Party Payments":131017.81, "Income: Fees and Charges":33288.34},
-			"2014-05": {"total":149416.13, "Income: Fees and Charges":33658.38, "Third Party Payments":115757.75},
-			"2014-06": {"total":148974.60, "Income: Fees and Charges":30383.78, "Third Party Payments":118590.82},
-			"2014-07": {"total":144813.16, "Third Party Payments":114946.74, "Income: Fees and Charges":29866.42},
-			"2014-08": {"total":145774.88, "Third Party Payments":117237.04, "Income: Fees and Charges":28537.84},
-			"2014-09": {"total":145688.86, "Third Party Payments":116262.27, "Income: Fees and Charges":29426.59},
-			"2014-10": {"total":152012.23, "Income: Fees and Charges":33023.55, "Third Party Payments":118988.68},
-			"2014-11": {"total":147038.10, "Income: Fees and Charges":30493.88, "Third Party Payments":116544.22},
-			"2014-12": {"total":338356.77, "Third Party Payments":267851.71, "Income: Fees and Charges":70505.06},
-			"2015-01": {"total":147483.25, "Third Party Payments":115009.59, "Income: Fees and Charges":32473.66},
-			"2015-02": {"total":149123.49, "Income: Fees and Charges":31409.00, "Third Party Payments":117714.49},
-			"2015-03": {"total":184001.07, "Income: Fees and Charges":36417.55, "Third Party Payments":147583.52},
-			"2015-04": {"total":164800.80, "Income: Fees and Charges":30511.45, "Third Party Payments":134289.35},
-			"2015-05": {"total":201342.85, "Third Party Payments":157986.21, "Income: Fees and Charges":43356.64},
-			"2015-06": {"total":135014.70, "Third Party Payments":104836.75, "Income: Fees and Charges":30177.95},
-			"2015-07": {"total":166882.94, "Third Party Payments":127725.95, "Income: Fees and Charges":39156.99},
-			"2015-08": {"total":198665.67, "Third Party Payments":158262.29, "Income: Fees and Charges":40403.38},
-			"2015-09": {"total":160855.63, "Income: Fees and Charges":43149.02, "Third Party Payments":117706.61},
-			"2015-10": {"total":181112.18, "Income: Fees and Charges":43764.45, "Third Party Payments":137347.73},
-			"2015-11": {"total":201270.12, "Income: Fees and Charges":45829.01, "Third Party Payments":155441.11},
-			"2015-12": {"total":379009.78, "Income: Fees and Charges":90762.23, "Third Party Payments":288247.55},
-			"2016-01": {"total":178454.47, "Income: Fees and Charges":43695.39, "Third Party Payments":134759.08},
-			"2016-02": {"total":176772.45, "Income: Fees and Charges":39800.88, "Third Party Payments":136971.57},
-			"2016-03": {"total":168992.06, "Third Party Payments":129113.15, "Income: Fees and Charges":39878.91},
-			"2016-04": {"total":183358.36, "Income: Fees and Charges":42866.91, "Third Party Payments":140491.45},
-			"2016-05": {"total":177124.56, "Income: Fees and Charges":40799.99, "Third Party Payments":136324.57},
-			"2016-06": {"total":173633.96, "Income: Fees and Charges":47695.76, "Third Party Payments":125938.20},
-			"2016-07": {"total":181792.70, "Third Party Payments":140953.83, "Income: Fees and Charges":40838.87},
-			"2016-08": {"total":168233.61, "Third Party Payments":130944.00, "Income: Fees and Charges":37289.61},
-			"2016-09": {"total":160004.13, "Income: Fees and Charges":35385.70, "Third Party Payments":124618.43},
-			"2016-10": {"total":230967.39, "Third Party Payments":185837.85, "Income: Fees and Charges":45129.54},
-			"2016-11": {"total":349940.26, "Income: Fees and Charges":76726.13, "Third Party Payments":273214.13},
-			"2016-12": {"total":206882.20, "Third Party Payments":167120.26, "Income: Fees and Charges":39761.94},
-			"2017-01": {"total":179727.04, "Income: Fees and Charges":37192.97, "Third Party Payments":142534.07},
-			"2017-02": {"total":182319.09, "Third Party Payments":142321.44, "Income: Fees and Charges":39997.65},
-			"2017-03": {"total":182980.97, "Third Party Payments":142572.79, "Income: Fees and Charges":40408.18},
-			"2017-04": {"total":190315.60, "Third Party Payments":150273.47, "Income: Fees and Charges":40042.13},
-			"2017-05": {"total":315066.96, "Third Party Payments":224225.16, "Income: Fees and Charges":90841.80},
-			"2017-06": {"total":191621.80, "Third Party Payments":147428.24, "Income: Fees and Charges":44193.56},
-			"2017-07": {"total":225437.92, "Third Party Payments":175348.56, "Income: Fees and Charges":50089.36},
-			"2017-08": {"total":187022.90, "Third Party Payments":138021.39, "Income: Fees and Charges":49001.51},
-			"2017-09": {"total":186639.81, "Third Party Payments":150454.68, "Income: Fees and Charges":36185.13},
-			"2017-10": {"total":202300.20, "Third Party Payments":161584.87, "Income: Fees and Charges":40715.33},
-			"2017-11": {"total":375473.15, "Third Party Payments":296762.64, "Income: Fees and Charges":78710.51},
-			"2017-12": {"total":184198.94, "Third Party Payments":144800.04, "Income: Fees and Charges":39398.90},
-			"2018-01": {"total":190059.58, "Third Party Payments":151799.46, "Income: Fees and Charges":38260.12},
-			"2018-02": {"total":169047.22, "Third Party Payments":133549.23, "Income: Fees and Charges":35497.99},
-			"2018-06": {"total":176770.75, "Income: Fees and Charges":39478.45, "Third Party Payments":137292.30},
-			"2018-07": {"total":188841.02, "Third Party Payments":155793.26, "Income: Fees and Charges":33047.76}
-		}
-	},
-	"2511": {
-		"name": "FENIX PROPERTY",
-		"total": 2103.33,
-		"monthly": {
-			"2013-02": {"total":1030.00, "Transfer Payments":1030.00},
-			"2017-07": {"total":1073.33, "Supplies and Services":1073.33}
-		}
-	},
-	"2512": {
-		"name": "FENLAND LAUNDRIES LIMITED (MICRONCLEAN)",
-		"total": 2188,
-		"monthly": {
-			"2017-05": {"total":432.00, "Supplies and Services":432.00},
-			"2017-07": {"total":426.00, "Supplies and Services":426.00},
-			"2017-08": {"total":420.00, "Supplies and Services":420.00},
-			"2017-11": {"total":450.00, "Supplies and Services":450.00},
-			"2018-06": {"total":460.00, "Supplies and Services":460.00}
-		}
-	},
-	"2513": {
-		"name": "FENLAND LEISURE PRODUCTS LTD (ONLINE PLAYGROUNDS DIVISION)",
-		"total": 580,
-		"monthly": {
-			"2015-11": {"total":580.00, "Supplies and Services":580.00}
-		}
-	},
-	"2514": {
-		"name": "FENWICK ELLIOTT SOLICITORS",
-		"total": 357.5,
-		"monthly": {
-			"2011-01": {"total":357.50, "Central Services":357.50}
-		}
-	},
-	"2515": {
-		"name": "FENWICK LTD",
-		"total": 1094.99,
-		"monthly": {
-			"2011-03": {"total":721.66, "Community Based Services":721.66},
-			"2011-08": {"total":373.33, "Purchase of Equipment":373.33}
-		}
-	},
-	"2516": {
-		"name": "FENWICK TRAINING SERVICES",
-		"total": 20193.33,
-		"monthly": {
-			"2010-12": {"total":740.00, "Community Based Services":740.00},
-			"2011-03": {"total":925.00, "Local Environmental Services":925.00},
-			"2011-04": {"total":740.00, "Community Based Services":740.00},
-			"2011-07": {"total":370.00, "Employees":370.00},
-			"2011-08": {"total":555.00, "Employees":555.00},
-			"2012-07": {"total":1048.33, "Employees":1048.33},
-			"2012-08": {"total":740.00, "Employees":740.00},
-			"2013-03": {"total":555.00, "Employees":555.00},
-			"2014-09": {"total":660.00, "Employees":660.00},
-			"2014-12": {"total":660.00, "Employees":660.00},
-			"2015-02": {"total":660.00, "Employees":660.00},
-			"2015-06": {"total":1760.00, "Employees":1760.00},
-			"2015-11": {"total":440.00, "Employees":440.00},
-			"2016-12": {"total":660.00, "Employees":660.00},
-			"2017-12": {"total":440.00, "Supplies and Services":440.00},
-			"2018-01": {"total":6600.00, "Employees":6600.00},
-			"2018-02": {"total":2640.00, "Employees":2640.00}
-		}
-	},
-	"2517": {
-		"name": "FERGUSON LODGE RESIDENTIAL HOME",
-		"total": 15500.54,
-		"monthly": {
-			"2016-03": {"total":15500.54, "Third Party Payments":12502.30, "Income: Fees and Charges":2998.24}
-		}
-	},
-	"2518": {
-		"name": "FERNCROSS",
-		"total": 32775.12,
-		"monthly": {
-			"2010-12": {"total":2948.36, "Community Based Services":2948.36},
-			"2011-01": {"total":2948.36, "Community Based Services":2948.36},
-			"2011-02": {"total":2948.36, "Community Based Services":2948.36},
-			"2011-03": {"total":5896.72, "Community Based Services":5896.72},
-			"2011-04": {"total":2993.12, "Community Based Services":2993.12},
-			"2011-05": {"total":3008.04, "Community Based Services":3008.04},
-			"2011-06": {"total":3008.04, "Community Based Services":3008.04},
-			"2011-07": {"total":3008.04, "Third Party Payments":1684.00, "Income: Customer and Client Receipts":1324.04},
-			"2011-08": {"total":3008.04, "Third Party Payments":1684.00, "Income: Customer and Client Receipts":1324.04},
-			"2011-09": {"total":3008.04, "Income: Customer and Client Receipts":1324.04, "Third Party Payments":1684.00}
-		}
-	},
-	"2519": {
-		"name": "FERROLI  LTD",
-		"total": 2193,
-		"monthly": {
-			"2015-05": {"total":2193.00, "Supplies and Services":2193.00}
-		}
-	},
-	"2520": {
-		"name": "FERRYHILL LADDER CENTRE",
-		"total": 15000,
-		"monthly": {
-			"2016-11": {"total":9000.00, "Third Party Payments":9000.00},
-			"2018-02": {"total":6000.00, "Third Party Payments":6000.00}
-		}
-	},
-	"2521": {
-		"name": "FFT EDUCATION LTD",
-		"total": 58966,
-		"monthly": {
-			"2013-03": {"total":5772.00, "Supplies and Services":5772.00},
-			"2014-03": {"total":12880.00, "Supplies and Services":12880.00},
-			"2015-03": {"total":12920.00, "Supplies and Services":12920.00},
-			"2016-03": {"total":12960.00, "Supplies and Services":12960.00},
-			"2017-02": {"total":14434.00, "Supplies and Services":14434.00}
-		}
-	},
-	"2522": {
-		"name": "FG MARSHALL LTD",
-		"total": 18296.26,
-		"monthly": {
-			"2011-02": {"total":1076.36, "Local Environmental Services":1076.36},
-			"2011-06": {"total":805.36, "Local Environmental Services":805.36},
-			"2011-07": {"total":1017.88, "Supplies and Services":1017.88},
-			"2011-12": {"total":1053.50, "Supplies and Services":1053.50},
-			"2012-08": {"total":545.00, "Supplies and Services":545.00},
-			"2012-11": {"total":6087.00, "Premises":6087.00},
-			"2013-09": {"total":1062.15, "Supplies and Services":1062.15},
-			"2014-01": {"total":423.71, "Supplies and Services":423.71},
-			"2014-07": {"total":588.00, "Supplies and Services":588.00},
-			"2014-09": {"total":1050.00, "Supplies and Services":1050.00},
-			"2015-06": {"total":382.33, "Supplies and Services":382.33},
-			"2015-07": {"total":588.00, "Supplies and Services":588.00},
-			"2016-01": {"total":495.68, "Supplies and Services":495.68},
-			"2016-08": {"total":982.35, "Supplies and Services":982.35},
-			"2017-01": {"total":522.07, "Supplies and Services":522.07},
-			"2017-07": {"total":1160.76, "Supplies and Services":1160.76},
-			"2018-02": {"total":456.11, "Supplies and Services":456.11}
-		}
-	},
-	"2523": {
-		"name": "FGF ORGANISATION",
-		"total": 13562.76,
-		"monthly": {
-			"2011-02": {"total":396.22, "Local Environmental Services":396.22},
-			"2012-05": {"total":633.36, "Supplies and Services":633.36},
-			"2013-06": {"total":429.78, "Supplies and Services":429.78},
-			"2014-05": {"total":12103.40, "Supplies and Services":12103.40}
-		}
-	},
-	"2524": {
-		"name": "FIAYC AFRICAN YOUTH CLUB",
-		"total": 2850,
-		"monthly": {
-			"2011-06": {"total":2850.00, "Community Based Services":2850.00}
-		}
-	},
-	"2525": {
-		"name": "FIBERWEB GEOSYNTHETICS LTD",
-		"total": 750,
-		"monthly": {
-			"2014-02": {"total":750.00, "Supplies and Services":750.00}
-		}
-	},
-	"2526": {
-		"name": "FIBONACCI LTD",
-		"total": 105200,
-		"monthly": {
-			"2011-09": {"total":41000.00, "Purchase of Equipment":30000.00, "Supplies and Services":11000.00},
-			"2012-06": {"total":18000.00, "Supplies and Services":6000.00, "Purchase of Equipment":12000.00},
-			"2012-10": {"total":23000.00, "Purchase of Equipment":23000.00},
-			"2015-11": {"total":12000.00, "Purchase of Equipment":12000.00},
-			"2017-02": {"total":9600.00, "Supplies and Services":9600.00},
-			"2018-01": {"total":1600.00, "Supplies and Services":1600.00}
-		}
-	},
-	"2527": {
-		"name": "FIBREGRID LTD",
-		"total": 470.35,
-		"monthly": {
-			"2014-03": {"total":470.35, "Supplies and Services":470.35}
-		}
-	},
-	"2528": {
-		"name": "FIFE COUNCIL",
-		"total": 809,
-		"monthly": {
-			"2011-06": {"total":809.00, "Community Based Services":809.00}
-		}
-	},
-	"2529": {
-		"name": "FIFI INTERNATIONAL AFRICAN YOUTH CLUB",
-		"total": 1000,
-		"monthly": {
-			"2012-05": {"total":1000.00, "Third Party Payments":1000.00}
-		}
-	},
-	"2530": {
-		"name": "FIGHTERS ONLY LTD",
-		"total": 1500,
-		"monthly": {
-			"2014-08": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"2531": {
-		"name": "FIGHTING ALL CANCERS TOGETHER",
-		"total": 33474.8,
-		"monthly": {
-			"2011-09": {"total":2899.04, "Supplies and Services":2899.04},
-			"2013-01": {"total":1500.00, "Third Party Payments":1500.00},
-			"2013-09": {"total":1500.00, "Third Party Payments":1500.00},
-			"2013-10": {"total":6272.50, "Third Party Payments":6272.50},
-			"2014-01": {"total":8460.00, "Third Party Payments":8460.00},
-			"2014-05": {"total":2000.00, "Supplies and Services":2000.00},
-			"2014-08": {"total":2772.50, "Third Party Payments":2772.50},
-			"2015-07": {"total":1073.76, "Income: Customer and Client Receipts":1073.76},
-			"2017-07": {"total":600.00, "Supplies and Services":600.00},
-			"2018-07": {"total":6397.00, "Third Party Payments":6397.00}
-		}
-	},
-	"2532": {
-		"name": "FIGHTING CHANCE PROMOTIONS LTD",
-		"total": 1200,
-		"monthly": {
-			"2015-12": {"total":1200.00, "Third Party Payments":1200.00}
-		}
-	},
-	"2533": {
-		"name": "FILEMAKER INTERNATIONAL",
-		"total": 3987.57,
-		"monthly": {
-			"2014-08": {"total":430.00, "Supplies and Services":430.00},
-			"2015-08": {"total":652.20, "Supplies and Services":652.20},
-			"2016-07": {"total":925.37, "Supplies and Services":925.37},
-			"2017-08": {"total":990.00, "Supplies and Services":990.00},
-			"2018-07": {"total":990.00, "Supplies and Services":990.00}
-		}
-	},
-	"2534": {
-		"name": "FILM SHIELD UK LTD",
-		"total": 6202,
-		"monthly": {
-			"2010-12": {"total":625.00, "Local Environmental Services":625.00},
-			"2011-02": {"total":1156.00, "Local Environmental Services":1156.00},
-			"2013-08": {"total":595.00, "Supplies and Services":595.00},
-			"2014-02": {"total":1170.00, "Premises":1170.00},
-			"2015-01": {"total":1040.00, "Premises":1040.00},
-			"2015-03": {"total":1616.00, "Supplies and Services":1616.00}
-		}
-	},
-	"2535": {
-		"name": "FINCHDALE PROPERTIES LTD",
-		"total": 500,
-		"monthly": {
-			"2011-02": {"total":500.00, "Community Based Services":500.00}
-		}
-	},
-	"2536": {
-		"name": "FINDLAY IRVINE LTD",
-		"total": 33195.55,
-		"monthly": {
-			"2011-03": {"total":7821.52, "Development & Enterprise":7821.52},
-			"2012-03": {"total":18485.27, "Supplies and Services":18485.27},
-			"2013-08": {"total":1225.00, "Supplies and Services":1225.00},
-			"2014-07": {"total":5663.76, "Supplies and Services":5663.76}
-		}
-	},
-	"2537": {
-		"name": "FINDSPACE LTD",
-		"alternate-names": [
-			"FINDSPACE LIMITED"
-		],
-		"total": 2650.66,
-		"monthly": {
-			"2017-10": {"total":1323.33, "Supplies and Services":1323.33},
-			"2018-01": {"total":1327.33, "Transfer Payments":1327.33}
-		}
-	},
-	"2538": {
-		"name": "FINE CUTS DUNSTON LTD",
-		"total": 1500,
-		"monthly": {
-			"2016-06": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"2539": {
-		"name": "FINGERSHIELD HUMBERSIDE",
-		"total": 414.5,
-		"monthly": {
-			"2012-03": {"total":414.50, "Supplies and Services":414.50}
-		}
-	},
-	"2540": {
-		"name": "FINLEY VENTURES LTD",
-		"alternate-names": [
-			"FINLEY VENTURES LIMITED"
-		],
-		"total": 880,
-		"monthly": {
-			"2013-10": {"total":880.00, "Supplies and Services":880.00}
-		}
-	},
-	"2541": {
-		"name": "FIONA RUTHERFORD TEXTILE ARTIST",
-		"total": 1200,
-		"monthly": {
-			"2013-02": {"total":700.00, "Supplies and Services":700.00},
-			"2013-03": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"2542": {
-		"name": "FIRE INDUSTRY ASSOCIATION",
-		"total": 2250,
-		"monthly": {
-			"2011-03": {"total":2250.00, "Local Environmental Services":2250.00}
-		}
-	},
-	"2543": {
-		"name": "FIRE LINING SYSTEMS LTD",
-		"total": 381814.25,
-		"monthly": {
-			"2012-01": {"total":7113.60, "Third Party Payments":7113.60},
-			"2012-02": {"total":8002.80, "Third Party Payments":8002.80},
-			"2012-03": {"total":22021.59, "Third Party Payments":22021.59},
-			"2012-05": {"total":74714.08, "Third Party Payments":74714.08},
-			"2012-07": {"total":31555.45, "Third Party Payments":31555.45},
-			"2012-10": {"total":10994.59, "Third Party Payments":10994.59},
-			"2013-01": {"total":2173.00, "Third Party Payments":2173.00},
-			"2013-04": {"total":8690.48, "Third Party Payments":7803.67, "Full Authority":886.81},
-			"2013-07": {"total":2541.00, "Third Party Payments":2541.00},
-			"2013-09": {"total":5600.00, "Third Party Payments":5600.00},
-			"2013-10": {"total":6752.36, "Third Party Payments":6752.36},
-			"2013-12": {"total":39069.57, "Third Party Payments":35359.59, "unknown":3709.98},
-			"2014-01": {"total":13945.87, "Third Party Payments":12995.29, "unknown":950.58},
-			"2014-03": {"total":25463.70, "unknown":2187.04, "Third Party Payments":23276.66},
-			"2014-04": {"total":47419.39, "Third Party Payments":43833.79, "unknown":3585.60},
-			"2015-02": {"total":5520.00, "Third Party Payments":5520.00},
-			"2015-05": {"total":4959.77, "Third Party Payments":4959.77},
-			"2016-03": {"total":710.00, "Third Party Payments":710.00},
-			"2017-01": {"total":500.00, "Third Party Payments":500.00},
-			"2017-02": {"total":640.00, "Third Party Payments":640.00},
-			"2017-03": {"total":500.00, "Supplies and Services":500.00},
-			"2017-06": {"total":13300.00, "Supplies and Services":2100.00, "Third Party Payments":10600.00, "unknown":600.00},
-			"2017-07": {"total":47007.00, "unknown":1000.00, "Third Party Payments":10500.00, "Supplies and Services":35507.00},
-			"2017-09": {"total":1200.00, "Third Party Payments":1200.00},
-			"2017-12": {"total":1420.00, "Third Party Payments":1420.00}
-		}
-	},
-	"2544": {
-		"name": "FIRE LOGISTICS LTD",
-		"total": 5853.8,
-		"monthly": {
-			"2011-03": {"total":1132.00, "Local Environmental Services":1132.00},
-			"2011-06": {"total":520.00, "Local Environmental Services":520.00},
-			"2012-07": {"total":460.80, "Third Party Payments":460.80},
-			"2013-08": {"total":408.00, "Supplies and Services":408.00},
-			"2014-10": {"total":384.00, "Supplies and Services":384.00},
-			"2015-11": {"total":480.00, "Supplies and Services":480.00},
-			"2017-08": {"total":1232.00, "Supplies and Services":1232.00},
-			"2017-10": {"total":1237.00, "Supplies and Services":1237.00}
-		}
-	},
-	"2545": {
-		"name": "FIRECO LTD",
-		"total": 6233,
-		"monthly": {
-			"2011-03": {"total":1433.00, "Local Environmental Services":1433.00},
-			"2018-01": {"total":4800.00, "Supplies and Services":4800.00}
-		}
-	},
-	"2546": {
-		"name": "FIREWORKS INTERNATIONAL LTD",
-		"total": 36205.82,
-		"monthly": {
-			"2011-11": {"total":10761.56, "Supplies and Services":10761.56},
-			"2012-11": {"total":14406.75, "Supplies and Services":14406.75},
-			"2014-12": {"total":11037.51, "Supplies and Services":11037.51}
-		}
-	},
-	"2547": {
-		"name": "FIRST 4 PLAYGROUNDS",
-		"total": 2810,
-		"monthly": {
-			"2017-10": {"total":2810.00, "Supplies and Services":2810.00}
-		}
-	},
-	"2548": {
-		"name": "FIRST AID NURSING ENTERPRISES",
-		"total": 400,
-		"monthly": {
-			"2010-12": {"total":400.00, "Development & Enterprise":400.00}
-		}
-	},
-	"2549": {
-		"name": "FIRST CALL HEALTHCARE",
-		"total": 2786,
-		"monthly": {
-			"2017-12": {"total":2786.00, "Third Party Payments":2786.00}
+			"2018-02": {"total":6300.00, "Third Party Payments":6300.00},
+			"2018-05": {"total":2735.00, "Third Party Payments":2735.00}
 		}
 	}
 	}
