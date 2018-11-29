@@ -1,14 +1,71 @@
 {
-	"range": ["2010-12","2018-02"],
+	"range": ["2010-12","2018-07"],
 	"data": {
 	"200": {
+		"name": "ADVANCED CHILDCARE",
+		"total": 433250.03,
+		"monthly": {
+			"2013-03": {"total":29500.00, "Third Party Payments":29500.00},
+			"2013-04": {"total":15000.00, "Third Party Payments":15000.00},
+			"2013-05": {"total":15500.00, "Third Party Payments":15500.00},
+			"2013-06": {"total":15000.00, "Third Party Payments":15000.00},
+			"2013-07": {"total":15500.00, "Third Party Payments":15500.00},
+			"2013-08": {"total":15500.00, "Third Party Payments":15500.00},
+			"2013-10": {"total":15500.00, "Third Party Payments":15500.00},
+			"2013-12": {"total":102600.00, "Third Party Payments":102600.00},
+			"2014-01": {"total":22000.00, "Third Party Payments":22000.00},
+			"2014-02": {"total":12000.00, "Third Party Payments":12000.00},
+			"2014-03": {"total":16800.00, "Third Party Payments":16800.00},
+			"2014-04": {"total":4500.00, "Third Party Payments":4500.00},
+			"2014-05": {"total":37400.00, "Third Party Payments":37400.00},
+			"2014-06": {"total":30500.00, "Third Party Payments":30500.00},
+			"2014-07": {"total":15500.00, "Third Party Payments":15500.00},
+			"2014-09": {"total":33535.57, "Transfer Payments":8000.00, "Third Party Payments":7500.00, "Supplies and Services":18035.57},
+			"2014-10": {"total":5357.10, "Transfer Payments":5357.10},
+			"2014-12": {"total":31557.36, "Third Party Payments":31557.36}
+		}
+	},
+	"201": {
+		"name": "ADVANCED COMMUNICATION SOLUTIONS LTD",
+		"alternate-names": [
+			"ADVANCED COMMUNICATION SOLUTIONS LIMITED"
+		],
+		"total": 2041.4,
+		"monthly": {
+			"2015-02": {"total":797.76, "Supplies and Services":797.76},
+			"2015-03": {"total":502.35, "Supplies and Services":502.35},
+			"2017-12": {"total":741.29, "Supplies and Services":741.29}
+		}
+	},
+	"202": {
+		"name": "ADVANCED HEALTH AND CARE LTD",
+		"total": 2250,
+		"monthly": {
+			"2013-06": {"total":2250.00, "Third Party Payments":2250.00}
+		}
+	},
+	"203": {
+		"name": "ADVANCED INDUSTRIAL REWINDS LTD",
+		"total": 696.5,
+		"monthly": {
+			"2018-06": {"total":696.50, "Supplies and Services":696.50}
+		}
+	},
+	"204": {
+		"name": "ADVANCED INSPECTION & MARINE SERVICES LTD",
+		"total": 1500,
+		"monthly": {
+			"2016-02": {"total":1500.00, "Third Party Payments":1500.00}
+		}
+	},
+	"205": {
 		"name": "ADVANCED LEARNING",
 		"total": 5000,
 		"monthly": {
 			"2013-05": {"total":5000.00, "Supplies and Services":5000.00}
 		}
 	},
-	"201": {
+	"206": {
 		"name": "ADVANCED PAYMENT  SOLUTIONS LTD",
 		"total": 16848.53,
 		"monthly": {
@@ -18,7 +75,7 @@
 			"2016-07": {"total":974.60, "Support Services":974.60},
 			"2016-08": {"total":1067.00, "Support Services":1067.00},
 			"2016-09": {"total":1848.59, "Support Services":1848.59},
-			"2016-11": {"total":2800.30, "Supplies and Services":1881.75, "Support Services":918.55},
+			"2016-11": {"total":2800.30, "Support Services":918.55, "Supplies and Services":1881.75},
 			"2016-12": {"total":906.65, "Supplies and Services":906.65},
 			"2017-01": {"total":642.50, "Supplies and Services":642.50},
 			"2017-02": {"total":1641.35, "Supplies and Services":1641.35},
@@ -26,7 +83,7 @@
 			"2017-05": {"total":1077.80, "Supplies and Services":1077.80}
 		}
 	},
-	"202": {
+	"207": {
 		"name": "ADVANCED PAYMENT SOLUTIONS",
 		"total": 28800,
 		"monthly": {
@@ -36,10 +93,11 @@
 			"2017-03": {"total":5000.00, "Third Party Payments":5000.00}
 		}
 	},
-	"203": {
+	"208": {
 		"name": "ADVANCED RADIATORS LTD",
-		"total": 8555,
+		"total": 8980,
 		"monthly": {
+			"2011-01": {"total":950.00, "Local Environmental Services":950.00},
 			"2011-10": {"total":395.00, "Transport":395.00},
 			"2011-11": {"total":395.00, "Transport":395.00},
 			"2012-01": {"total":395.00, "Transport":395.00},
@@ -53,10 +111,11 @@
 			"2017-02": {"total":770.00, "Transport":770.00},
 			"2017-10": {"total":520.00, "Transport":520.00},
 			"2018-01": {"total":620.00, "Transport":620.00},
-			"2018-02": {"total":550.00, "Transport":550.00}
+			"2018-02": {"total":550.00, "Transport":550.00},
+			"2018-06": {"total":425.00, "Transport":425.00}
 		}
 	},
-	"204": {
+	"209": {
 		"name": "ADVANTAGE UTILITIES SERVICES LTD",
 		"alternate-names": [
 			"ADVANTAGE UTILITIES SERVICES LIMITED"
@@ -66,11 +125,11 @@
 			"2014-01": {"total":944.00, "Supplies and Services":944.00}
 		}
 	},
-	"205": {
+	"210": {
 		"name": "ADVANTEX NETWORK SOLUTIONS LTD",
 		"total": 99853.75,
 		"monthly": {
-			"2011-10": {"total":4492.16, "Third Party Payments":2786.58, "Supplies and Services":1705.58},
+			"2011-10": {"total":4492.16, "Supplies and Services":1705.58, "Third Party Payments":2786.58},
 			"2012-03": {"total":4074.61, "Supplies and Services":4074.61},
 			"2012-04": {"total":9955.83, "Supplies and Services":9955.83},
 			"2012-05": {"total":2473.37, "Supplies and Services":2473.37},
@@ -87,14 +146,14 @@
 			"2014-01": {"total":3091.01, "Purchase of Equipment":3091.01},
 			"2014-11": {"total":2794.84, "Purchase of Equipment":2794.84},
 			"2015-10": {"total":6484.00, "Supplies and Services":6484.00},
-			"2015-11": {"total":6965.40, "Supplies and Services":5113.05, "Purchase of Equipment":1852.35},
+			"2015-11": {"total":6965.40, "Purchase of Equipment":1852.35, "Supplies and Services":5113.05},
 			"2016-06": {"total":2035.88, "Supplies and Services":2035.88},
 			"2016-07": {"total":2924.00, "Supplies and Services":2924.00},
 			"2016-11": {"total":11318.96, "Supplies and Services":11318.96},
 			"2017-01": {"total":1775.24, "Supplies and Services":1775.24}
 		}
 	},
-	"206": {
+	"211": {
 		"name": "ADVENTURE ACTIVITY ASSOCIATES",
 		"total": 1500,
 		"monthly": {
@@ -102,7 +161,7 @@
 			"2014-08": {"total":750.00, "Supplies and Services":750.00}
 		}
 	},
-	"207": {
+	"212": {
 		"name": "ADVENTURE VALLEY",
 		"total": 3150.09,
 		"monthly": {
@@ -111,7 +170,7 @@
 			"2014-02": {"total":876.09, "Supplies and Services":876.09}
 		}
 	},
-	"208": {
+	"213": {
 		"name": "ADVOCATE EDUCATION LLP",
 		"total": 21937.01,
 		"monthly": {
@@ -120,7 +179,7 @@
 			"2016-11": {"total":710.12, "Third Party Payments":710.12}
 		}
 	},
-	"209": {
+	"214": {
 		"name": "ADVOCATE RECRUITMENT LTD",
 		"alternate-names": [
 			"ADVOCATE RECRUITMENT LIMITED"
@@ -134,7 +193,7 @@
 			"2018-01": {"total":1752.45, "Third Party Payments":1752.45}
 		}
 	},
-	"210": {
+	"215": {
 		"name": "AEA (ASSOCIATION OF ELECTORAL ADMINISTRATORS LTD)",
 		"total": 5542,
 		"monthly": {
@@ -144,29 +203,30 @@
 			"2016-09": {"total":3080.00, "Income: Customer and Client Receipts":3080.00}
 		}
 	},
-	"211": {
+	"216": {
 		"name": "AECOM",
-		"total": 1767827.66,
+		"total": 1824175.53,
 		"monthly": {
 			"2010-12": {"total":18699.62, "Development & Enterprise":18699.62},
+			"2011-01": {"total":118544.71, "Development & Enterprise":118544.71},
 			"2011-02": {"total":16113.42, "Development & Enterprise":16113.42},
 			"2011-03": {"total":15577.06, "Development & Enterprise":15577.06},
 			"2011-04": {"total":8969.22, "Development & Enterprise":8969.22},
 			"2011-05": {"total":17253.14, "Development & Enterprise":17253.14},
 			"2011-06": {"total":25891.99, "Development & Enterprise":25891.99},
-			"2011-07": {"total":30022.15, "Supplies and Services":18500.00, "Consultants":11522.15},
+			"2011-07": {"total":30022.15, "Consultants":11522.15, "Supplies and Services":18500.00},
 			"2011-08": {"total":14025.65, "Consultants":14025.65},
-			"2011-09": {"total":57625.30, "Consultants":4029.40, "Supplies and Services":53595.90},
+			"2011-09": {"total":57625.30, "Supplies and Services":53595.90, "Consultants":4029.40},
 			"2011-11": {"total":2000.00, "Supplies and Services":2000.00},
 			"2011-12": {"total":18050.00, "Supplies and Services":18050.00},
-			"2012-01": {"total":10972.47, "Supplies and Services":8486.00, "Consultants":2486.47},
+			"2012-01": {"total":10972.47, "Consultants":2486.47, "Supplies and Services":8486.00},
 			"2012-02": {"total":11161.30, "Consultants":11161.30},
 			"2012-03": {"total":1308.97, "Consultants":1308.97},
 			"2012-04": {"total":3137.87, "Works":3137.87},
 			"2013-01": {"total":8490.00, "Purchase of Equipment":5990.00, "Consultants":2500.00},
 			"2013-03": {"total":40041.11, "Consultants":40041.11},
 			"2013-04": {"total":52793.00, "Supplies and Services":2793.00, "Works":50000.00},
-			"2013-06": {"total":9850.20, "Consultants":2472.65, "Land and Buildings":7377.55},
+			"2013-06": {"total":9850.20, "Land and Buildings":7377.55, "Consultants":2472.65},
 			"2013-07": {"total":40498.07, "Land and Buildings":38617.94, "Consultants":1880.13},
 			"2013-10": {"total":8725.05, "Land and Buildings":8725.05},
 			"2014-01": {"total":43865.92, "Purchase of Equipment":3020.00, "Works":40845.92},
@@ -174,7 +234,7 @@
 			"2014-03": {"total":23036.60, "Consultants":23036.60},
 			"2014-04": {"total":71945.17, "Works":65673.67, "Consultants":6271.50},
 			"2014-06": {"total":55577.62, "Works":55577.62},
-			"2014-07": {"total":59188.84, "Consultants":5612.67, "Works":53576.17},
+			"2014-07": {"total":59188.84, "Works":53576.17, "Consultants":5612.67},
 			"2014-09": {"total":1405.91, "Consultants":1405.91},
 			"2014-10": {"total":13369.58, "Income: Fees and Charges":419.58, "Consultants":12950.00},
 			"2015-01": {"total":74324.01, "Works":74324.01},
@@ -185,7 +245,7 @@
 			"2015-07": {"total":47263.68, "Works":47263.68},
 			"2015-08": {"total":29226.64, "Works":13064.00, "Consultants":16162.64},
 			"2015-09": {"total":5968.92, "Consultants":5968.92},
-			"2015-10": {"total":47955.53, "Works":42889.22, "Consultants":5066.31},
+			"2015-10": {"total":47955.53, "Consultants":5066.31, "Works":42889.22},
 			"2016-01": {"total":15713.80, "unknown":15713.80},
 			"2016-03": {"total":49991.77, "unknown":49991.77},
 			"2016-04": {"total":6320.79, "Supplies and Services":6320.79},
@@ -200,15 +260,17 @@
 			"2017-05": {"total":12493.32, "Supplies and Services":12493.32},
 			"2017-06": {"total":84163.42, "unknown":74462.86, "Third Party Payments":9700.56},
 			"2017-07": {"total":11147.17, "unknown":11147.17},
-			"2017-08": {"total":39648.48, "Third Party Payments":4419.08, "unknown":35229.40},
-			"2017-09": {"total":31548.70, "Consultants":2008.50, "Works":18743.51, "Third Party Payments":10796.69},
+			"2017-08": {"total":39648.48, "unknown":35229.40, "Third Party Payments":4419.08},
+			"2017-09": {"total":31548.70, "Third Party Payments":10796.69, "Consultants":2008.50, "Works":18743.51},
 			"2017-10": {"total":18957.59, "Consultants":5836.00, "Works":7233.29, "Third Party Payments":5438.30, "Supplies and Services":450.00},
-			"2017-11": {"total":3807.24, "Supplies and Services":500.00, "unknown":3307.24},
-			"2018-01": {"total":16858.67, "unknown":1578.63, "Third Party Payments":14630.04, "Supplies and Services":650.00},
-			"2018-02": {"total":11348.17, "Consultants":900.00, "Third Party Payments":7398.17, "Supplies and Services":3050.00}
+			"2017-11": {"total":3807.24, "unknown":3307.24, "Supplies and Services":500.00},
+			"2017-12": {"total":2267.67, "unknown":2267.67},
+			"2018-01": {"total":16858.67, "unknown":1578.63, "Supplies and Services":650.00, "Third Party Payments":14630.04},
+			"2018-02": {"total":11348.17, "Consultants":900.00, "Third Party Payments":7398.17, "Supplies and Services":3050.00},
+			"2018-06": {"total":19304.00, "Supplies and Services":17712.00, "Works":1592.00}
 		}
 	},
-	"212": {
+	"217": {
 		"name": "AECOM INFRASTRUCTURE AND ENVIRONMENT LTD",
 		"total": 45971.58,
 		"monthly": {
@@ -217,33 +279,34 @@
 			"2016-04": {"total":5336.82, "Supplies and Services":5336.82}
 		}
 	},
-	"213": {
+	"218": {
 		"name": "AEGIS ENGINEERING LTD",
 		"total": 3096,
 		"monthly": {
 			"2011-12": {"total":3096.00, "Supplies and Services":3096.00}
 		}
 	},
-	"214": {
+	"219": {
 		"name": "AEP NE BRANCH",
 		"total": 702.9,
 		"monthly": {
 			"2011-06": {"total":702.90, "Learning and Children":702.90}
 		}
 	},
-	"215": {
+	"220": {
 		"name": "AERECO VENTILATION LTD",
 		"alternate-names": [
 			"AERECO VENTILATION LIMITED"
 		],
 		"total": 3131.82,
 		"monthly": {
+			"2011-01": {"total":877.16, "Local Environmental Services":877.16},
 			"2011-03": {"total":716.33, "Local Environmental Services":716.33},
 			"2011-06": {"total":943.84, "Local Environmental Services":943.84},
 			"2012-02": {"total":594.49, "Supplies and Services":594.49}
 		}
 	},
-	"216": {
+	"221": {
 		"name": "AEROVISION UK  LTD",
 		"total": 13540,
 		"monthly": {
@@ -260,15 +323,16 @@
 			"2017-04": {"total":955.00, "Supplies and Services":955.00}
 		}
 	},
-	"217": {
+	"222": {
 		"name": "AFD SOFTWARE LTD",
-		"total": 3500,
+		"total": 6900,
 		"monthly": {
 			"2016-10": {"total":1750.00, "Supplies and Services":1750.00},
-			"2017-08": {"total":1750.00, "Supplies and Services":1750.00}
+			"2017-08": {"total":1750.00, "Supplies and Services":1750.00},
+			"2018-07": {"total":3400.00, "Supplies and Services":3400.00}
 		}
 	},
-	"218": {
+	"223": {
 		"name": "AFI UPLIFT",
 		"total": 6386.4,
 		"monthly": {
@@ -284,16 +348,16 @@
 			"2014-04": {"total":450.00, "Employees":450.00}
 		}
 	},
-	"219": {
+	"224": {
 		"name": "AFRICAN WOMEN'S CARE",
 		"total": 530,
 		"monthly": {
 			"2015-07": {"total":530.00, "Supplies and Services":530.00}
 		}
 	},
-	"220": {
+	"225": {
 		"name": "AFTER ADOPTION",
-		"total": 221380,
+		"total": 227380,
 		"monthly": {
 			"2011-04": {"total":14090.00, "Learning and Children":14090.00},
 			"2011-09": {"total":14090.00, "Third Party Payments":14090.00},
@@ -310,38 +374,40 @@
 			"2016-09": {"total":16908.00, "Third Party Payments":16908.00},
 			"2017-01": {"total":2394.00, "Transfer Payments":2394.00},
 			"2017-04": {"total":16908.00, "Third Party Payments":16908.00},
-			"2017-09": {"total":14090.00, "Third Party Payments":14090.00}
+			"2017-09": {"total":14090.00, "Third Party Payments":14090.00},
+			"2017-12": {"total":6000.00, "Employees":6000.00}
 		}
 	},
-	"221": {
+	"226": {
 		"name": "AG BARR",
 		"total": 416.32,
 		"monthly": {
 			"2015-01": {"total":416.32, "Supplies and Services":416.32}
 		}
 	},
-	"222": {
+	"227": {
 		"name": "AGE CONCERN",
 		"total": 140273.52,
 		"monthly": {
 			"2010-12": {"total":11801.92, "Community Based Services":11801.92},
+			"2011-01": {"total":22715.33, "Development & Enterprise":550.60, "Community Based Services":22164.73},
 			"2011-04": {"total":17120.45, "Community Based Services":17120.45},
 			"2011-05": {"total":6321.08, "Community Based Services":6321.08},
 			"2011-06": {"total":3160.54, "Community Based Services":3160.54},
 			"2011-07": {"total":17120.45, "Third Party Payments":17120.45},
 			"2011-08": {"total":3160.54, "Third Party Payments":3160.54},
 			"2011-09": {"total":3160.54, "Third Party Payments":3160.54},
-			"2011-10": {"total":18222.17, "Supplies and Services":1101.72, "Third Party Payments":17120.45},
+			"2011-10": {"total":18222.17, "Third Party Payments":17120.45, "Supplies and Services":1101.72},
 			"2011-11": {"total":3811.79, "Third Party Payments":3811.79},
-			"2011-12": {"total":10979.56, "Third Party Payments":6321.08, "Supplies and Services":4658.48},
+			"2011-12": {"total":10979.56, "Supplies and Services":4658.48, "Third Party Payments":6321.08},
 			"2012-01": {"total":13959.91, "Third Party Payments":13959.91},
 			"2012-02": {"total":6321.06, "Third Party Payments":6321.06},
 			"2012-03": {"total":2418.18, "Supplies and Services":2418.18}
 		}
 	},
-	"223": {
+	"228": {
 		"name": "AGE UK GATESHEAD",
-		"total": 555998.44,
+		"total": 651481.94,
 		"monthly": {
 			"2012-02": {"total":4132.19, "Supplies and Services":4132.19},
 			"2012-03": {"total":13331.00, "Supplies and Services":2000.00, "Third Party Payments":11331.00},
@@ -370,15 +436,17 @@
 			"2017-04": {"total":20241.75, "Third Party Payments":20241.75},
 			"2017-06": {"total":20241.75, "Third Party Payments":20241.75},
 			"2017-07": {"total":27500.00, "Third Party Payments":27500.00},
-			"2017-09": {"total":47741.75, "Third Party Payments":47741.75}
+			"2017-09": {"total":47741.75, "Third Party Payments":47741.75},
+			"2017-12": {"total":47741.75, "Third Party Payments":47741.75},
+			"2018-06": {"total":47741.75, "Third Party Payments":47741.75}
 		}
 	},
-	"224": {
+	"229": {
 		"name": "AGGREGATE INDUSTRIES UK LTD",
 		"alternate-names": [
 			"AGGREGATE INDUSTRIES UK LIMITED"
 		],
-		"total": 6942.33,
+		"total": 109224.89,
 		"monthly": {
 			"2012-10": {"total":390.00, "Supplies and Services":390.00},
 			"2013-02": {"total":1800.00, "Supplies and Services":1800.00},
@@ -386,10 +454,11 @@
 			"2013-05": {"total":1387.50, "Supplies and Services":1387.50},
 			"2013-06": {"total":712.50, "Supplies and Services":712.50},
 			"2013-08": {"total":637.50, "Supplies and Services":637.50},
-			"2014-08": {"total":396.73, "Supplies and Services":396.73}
+			"2014-08": {"total":396.73, "Supplies and Services":396.73},
+			"2018-06": {"total":102282.56, "Supplies and Services":102282.56}
 		}
 	},
-	"225": {
+	"230": {
 		"name": "AGGREGATES R US LTD",
 		"alternate-names": [
 			"AGGREGATES R US LIMITED"
@@ -399,38 +468,39 @@
 			"2011-10": {"total":9882.00, "Premises":9882.00}
 		}
 	},
-	"226": {
+	"231": {
 		"name": "AGNE LTD - T/A ALPHAGRAPHICS",
 		"total": 719,
 		"monthly": {
 			"2012-03": {"total":719.00, "Supplies and Services":719.00}
 		}
 	},
-	"227": {
+	"232": {
 		"name": "AGUDAS ISRAEL HOUSING ASSOC",
-		"total": 199401.31,
+		"total": 201166.11,
 		"monthly": {
 			"2010-12": {"total":5895.20, "Community Based Services":5895.20},
+			"2011-01": {"total":5895.20, "Community Based Services":5895.20},
 			"2011-02": {"total":5895.20, "Community Based Services":5895.20},
 			"2011-03": {"total":11790.40, "Community Based Services":11790.40},
 			"2011-04": {"total":5921.90, "Community Based Services":5921.90},
 			"2011-05": {"total":5930.80, "Community Based Services":5930.80},
 			"2011-06": {"total":5930.80, "Community Based Services":5930.80},
 			"2011-07": {"total":5930.80, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":918.00},
-			"2011-08": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
-			"2011-09": {"total":5930.80, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":918.00},
-			"2011-10": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
+			"2011-08": {"total":5930.80, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":918.00},
+			"2011-09": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
+			"2011-10": {"total":5930.80, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":918.00},
 			"2011-11": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
-			"2011-12": {"total":5930.80, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":918.00},
+			"2011-12": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
 			"2012-01": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
-			"2012-02": {"total":20345.88, "Income: Customer and Client Receipts":2166.42, "Third Party Payments":18179.46},
+			"2012-02": {"total":20345.88, "Third Party Payments":18179.46, "Income: Customer and Client Receipts":2166.42},
 			"2012-03": {"total":5930.80, "Income: Customer and Client Receipts":918.00, "Third Party Payments":5012.80},
 			"2012-04": {"total":5957.50, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":944.70},
 			"2012-05": {"total":5966.40, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":953.60},
 			"2012-06": {"total":5966.40, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":953.60},
-			"2012-07": {"total":5966.40, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":953.60},
-			"2012-08": {"total":5966.40, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":953.60},
-			"2012-09": {"total":5966.40, "Income: Customer and Client Receipts":953.60, "Third Party Payments":5012.80},
+			"2012-07": {"total":5966.40, "Income: Customer and Client Receipts":953.60, "Third Party Payments":5012.80},
+			"2012-08": {"total":5966.40, "Income: Customer and Client Receipts":953.60, "Third Party Payments":5012.80},
+			"2012-09": {"total":5966.40, "Third Party Payments":5012.80, "Income: Customer and Client Receipts":953.60},
 			"2012-10": {"total":5966.40, "Income: Customer and Client Receipts":953.60, "Third Party Payments":5012.80},
 			"2012-11": {"total":5966.40, "Income: Customer and Client Receipts":953.60, "Third Party Payments":5012.80},
 			"2013-01": {"total":11819.43, "Third Party Payments":9929.26, "Income: Customer and Client Receipts":1890.17},
@@ -439,13 +509,13 @@
 			"2013-04": {"total":2799.06, "Income: Customer and Client Receipts":483.70, "Third Party Payments":2315.36},
 			"2013-05": {"total":2801.36, "Income: Customer and Client Receipts":486.00, "Third Party Payments":2315.36},
 			"2013-06": {"total":2801.36, "Income: Customer and Client Receipts":486.00, "Third Party Payments":2315.36},
-			"2013-07": {"total":2801.36, "Income: Customer and Client Receipts":486.00, "Third Party Payments":2315.36},
+			"2013-07": {"total":2801.36, "Third Party Payments":2315.36, "Income: Customer and Client Receipts":486.00},
 			"2013-08": {"total":4254.11, "Income: Customer and Client Receipts":781.07, "Third Party Payments":3473.04},
 			"2013-09": {"total":1276.92, "Third Party Payments":1276.92},
-			"2014-02": {"total":4254.11, "Income: Fees and Charges":781.07, "Third Party Payments":3473.04}
+			"2014-02": {"total":4254.11, "Third Party Payments":3473.04, "Income: Fees and Charges":781.07}
 		}
 	},
-	"228": {
+	"233": {
 		"name": "AH BUILDING SERVICES LTD",
 		"total": 498586.81,
 		"monthly": {
@@ -455,9 +525,9 @@
 			"2011-07": {"total":463.95, "Third Party Payments":463.95},
 			"2011-08": {"total":4325.04, "Supplies and Services":3548.18, "Other Costs":776.86},
 			"2011-09": {"total":4889.24, "Other Costs":4889.24},
-			"2011-10": {"total":20715.40, "Other Costs":5483.60, "Third Party Payments":15231.80},
+			"2011-10": {"total":20715.40, "Third Party Payments":15231.80, "Other Costs":5483.60},
 			"2011-11": {"total":5865.08, "Other Costs":5865.08},
-			"2011-12": {"total":7008.70, "Supplies and Services":5008.00, "Other Costs":2000.70},
+			"2011-12": {"total":7008.70, "Other Costs":2000.70, "Supplies and Services":5008.00},
 			"2012-01": {"total":9236.26, "Other Costs":9236.26},
 			"2012-02": {"total":26806.03, "Other Costs":24623.03, "Supplies and Services":2183.00},
 			"2012-03": {"total":9802.88, "Other Costs":9802.88},
@@ -468,40 +538,40 @@
 			"2012-08": {"total":26444.18, "Supplies and Services":4437.00, "Other Costs":22007.18},
 			"2012-09": {"total":11028.06, "Supplies and Services":2640.00, "Other Costs":8388.06},
 			"2012-10": {"total":22638.32, "Other Costs":22638.32},
-			"2012-11": {"total":13556.91, "Other Costs":9066.91, "Supplies and Services":4490.00},
-			"2013-01": {"total":18078.11, "Third Party Payments":1050.00, "Other Costs":14698.11, "Supplies and Services":2330.00},
+			"2012-11": {"total":13556.91, "Supplies and Services":4490.00, "Other Costs":9066.91},
+			"2013-01": {"total":18078.11, "Other Costs":14698.11, "Supplies and Services":2330.00, "Third Party Payments":1050.00},
 			"2013-02": {"total":15739.21, "Other Costs":15739.21},
 			"2013-03": {"total":32059.39, "Other Costs":26596.39, "Third Party Payments":1263.00, "Supplies and Services":4200.00},
 			"2013-05": {"total":20550.08, "Other Costs":20550.08},
 			"2013-06": {"total":26222.30, "Other Costs":18693.76, "Supplies and Services":7528.54},
 			"2013-07": {"total":13920.77, "Other Costs":13040.77, "Supplies and Services":880.00},
 			"2013-08": {"total":12465.31, "Other Costs":11021.67, "Supplies and Services":1443.64},
-			"2013-09": {"total":11328.00, "Other Costs":6394.18, "Third Party Payments":2473.82, "Supplies and Services":2460.00},
-			"2013-10": {"total":15428.41, "Supplies and Services":3876.00, "Other Costs":11552.41},
-			"2013-12": {"total":21558.87, "Other Costs":15933.87, "Supplies and Services":5625.00},
+			"2013-09": {"total":11328.00, "Other Costs":6394.18, "Supplies and Services":2460.00, "Third Party Payments":2473.82},
+			"2013-10": {"total":15428.41, "Other Costs":11552.41, "Supplies and Services":3876.00},
+			"2013-12": {"total":21558.87, "Supplies and Services":5625.00, "Other Costs":15933.87},
 			"2014-01": {"total":6193.21, "Supplies and Services":2705.00, "Other Costs":3488.21},
 			"2014-02": {"total":9639.61, "Other Costs":7104.61, "Supplies and Services":2535.00},
-			"2014-03": {"total":8256.49, "Supplies and Services":2290.00, "Other Costs":5966.49},
+			"2014-03": {"total":8256.49, "Other Costs":5966.49, "Supplies and Services":2290.00},
 			"2014-04": {"total":7406.41, "Supplies and Services":3345.00, "Other Costs":4061.41},
 			"2014-05": {"total":6761.03, "Other Costs":6001.03, "Supplies and Services":760.00},
 			"2014-06": {"total":9267.10, "Other Costs":1719.30, "Supplies and Services":7547.80},
 			"2014-07": {"total":2250.00, "Supplies and Services":2250.00},
-			"2014-09": {"total":13013.08, "Supplies and Services":5765.00, "Other Costs":7248.08},
+			"2014-09": {"total":13013.08, "Other Costs":7248.08, "Supplies and Services":5765.00},
 			"2014-10": {"total":2975.65, "Supplies and Services":380.00, "Other Costs":2595.65},
 			"2014-11": {"total":1122.80, "Other Costs":1122.80},
 			"2015-01": {"total":2960.63, "Other Costs":2960.63}
 		}
 	},
-	"229": {
+	"234": {
 		"name": "AHMAD KHOUJA LTD",
 		"total": 1525,
 		"monthly": {
 			"2011-10": {"total":1525.00, "Supplies and Services":1525.00}
 		}
 	},
-	"230": {
+	"235": {
 		"name": "AIKEN FLOORING CONTRACTS LTD",
-		"total": 99719.34,
+		"total": 100993.26,
 		"monthly": {
 			"2010-12": {"total":411.87, "Development & Enterprise":411.87},
 			"2011-10": {"total":2389.14, "Premises":2389.14},
@@ -528,24 +598,27 @@
 			"2016-08": {"total":2917.24, "Supplies and Services":2917.24},
 			"2016-09": {"total":1424.55, "Supplies and Services":1424.55},
 			"2016-11": {"total":3044.11, "Supplies and Services":3044.11},
-			"2017-01": {"total":4327.97, "Supplies and Services":4327.97}
+			"2017-01": {"total":4327.97, "Supplies and Services":4327.97},
+			"2018-07": {"total":1273.92, "Supplies and Services":1273.92}
 		}
 	},
-	"231": {
+	"236": {
 		"name": "AIKO DESIGN 2012 LTD",
 		"total": 1260,
 		"monthly": {
 			"2015-08": {"total":1260.00, "Transport":1260.00}
 		}
 	},
-	"232": {
+	"237": {
 		"name": "AIM PROJECT",
-		"total": 550,
+		"total": 4530.36,
 		"monthly": {
-			"2016-03": {"total":550.00, "Employees":550.00}
+			"2016-03": {"total":550.00, "Employees":550.00},
+			"2018-06": {"total":1994.18, "Employees":1994.18},
+			"2018-07": {"total":1986.18, "Employees":1986.18}
 		}
 	},
-	"233": {
+	"238": {
 		"name": "AIM TO RECYCLE",
 		"total": 1764.94,
 		"monthly": {
@@ -553,7 +626,7 @@
 			"2014-09": {"total":1213.28, "Transport":1213.28}
 		}
 	},
-	"234": {
+	"239": {
 		"name": "AIMEDIACOMMS",
 		"total": 11424,
 		"monthly": {
@@ -565,11 +638,12 @@
 			"2017-06": {"total":1904.00, "Supplies and Services":1904.00}
 		}
 	},
-	"235": {
+	"240": {
 		"name": "AIMGO LTD",
-		"total": 62875.51,
+		"total": 64889.91,
 		"monthly": {
 			"2010-12": {"total":6059.20, "Community Based Services":6059.20},
+			"2011-01": {"total":6059.20, "Community Based Services":6059.20},
 			"2011-02": {"total":5436.06, "Community Based Services":5436.06},
 			"2011-03": {"total":7618.40, "Community Based Services":7618.40},
 			"2011-04": {"total":5954.91, "Community Based Services":5954.91},
@@ -578,45 +652,47 @@
 			"2011-07": {"total":6713.86, "Income: Customer and Client Receipts":459.00, "Third Party Payments":6254.86},
 			"2011-08": {"total":6713.86, "Third Party Payments":6254.86, "Income: Customer and Client Receipts":459.00},
 			"2011-09": {"total":3827.00, "Third Party Payments":3368.00, "Income: Customer and Client Receipts":459.00},
-			"2011-10": {"total":3827.00, "Income: Customer and Client Receipts":459.00, "Third Party Payments":3368.00},
-			"2011-11": {"total":2553.26, "Income: Customer and Client Receipts":147.54, "Third Party Payments":2405.72},
+			"2011-10": {"total":3827.00, "Third Party Payments":3368.00, "Income: Customer and Client Receipts":459.00},
+			"2011-11": {"total":2553.26, "Third Party Payments":2405.72, "Income: Customer and Client Receipts":147.54},
 			"2011-12": {"total":1684.00, "Third Party Payments":1684.00}
 		}
 	},
-	"236": {
+	"241": {
 		"name": "AIR SUPPLY  (NORTH EAST)",
 		"total": 1258.46,
 		"monthly": {
 			"2011-04": {"total":1258.46, "Local Environmental Services":1258.46}
 		}
 	},
-	"237": {
+	"242": {
 		"name": "AIR SUPPLY (NORTH EAST)",
 		"total": 1136.25,
 		"monthly": {
 			"2013-12": {"total":1136.25, "Supplies and Services":1136.25}
 		}
 	},
-	"238": {
+	"243": {
 		"name": "AIREDALE  CATERING EQUIPMENT LTD",
-		"total": 23394,
+		"total": 26629,
 		"monthly": {
 			"2012-04": {"total":874.00, "Supplies and Services":874.00},
 			"2016-06": {"total":2395.00, "Supplies and Services":2395.00},
-			"2016-09": {"total":20125.00, "Supplies and Services":20125.00}
+			"2016-09": {"total":20125.00, "Supplies and Services":20125.00},
+			"2018-07": {"total":3235.00, "Supplies and Services":3235.00}
 		}
 	},
-	"239": {
+	"244": {
 		"name": "AIREDALE FORESTRY LTD",
-		"total": 5467,
+		"total": 10707,
 		"monthly": {
 			"2010-12": {"total":490.00, "Development & Enterprise":490.00},
 			"2012-10": {"total":597.00, "Premises":597.00},
 			"2013-01": {"total":450.00, "Premises":450.00},
-			"2016-11": {"total":3930.00, "Premises":3930.00}
+			"2016-11": {"total":3930.00, "Premises":3930.00},
+			"2017-12": {"total":5240.00, "unknown":5240.00}
 		}
 	},
-	"240": {
+	"245": {
 		"name": "AIRFOTOS LTD",
 		"total": 1225,
 		"monthly": {
@@ -624,82 +700,34 @@
 			"2017-07": {"total":840.00, "Supplies and Services":840.00}
 		}
 	},
-	"241": {
+	"246": {
 		"name": "AIROWTECH ELECTRICAL DISTRIBUTORS LTD",
 		"total": 1500,
 		"monthly": {
 			"2013-08": {"total":1500.00, "Third Party Payments":1500.00}
 		}
 	},
-	"242": {
+	"247": {
 		"name": "AIRQUEE LTD",
 		"total": 3070,
 		"monthly": {
 			"2010-12": {"total":3070.00, "Community Based Services":3070.00}
 		}
 	},
-	"243": {
+	"248": {
 		"name": "AJ TAXI SERVICES",
 		"total": 853.1,
 		"monthly": {
-			"2011-02": {"total":428.40, "Community Based Services":370.40, "Learning and Children":58.00},
+			"2011-02": {"total":428.40, "Learning and Children":58.00, "Community Based Services":370.40},
 			"2011-10": {"total":424.70, "Transport":424.70}
 		}
 	},
-	"244": {
+	"249": {
 		"name": "AJB ENVIRONMENTAL LTD",
 		"total": 2580,
 		"monthly": {
 			"2012-05": {"total":1080.00, "Premises":1080.00},
 			"2016-12": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"245": {
-		"name": "AJM FIXINGS AND POWER TOOLS LTD",
-		"alternate-names": [
-			"AJM FIXINGS AND POWER TOOLS LIMITED"
-		],
-		"total": 351.3,
-		"monthly": {
-			"2012-11": {"total":351.30, "unknown":351.30}
-		}
-	},
-	"246": {
-		"name": "AJTC THEATRE COMPANY",
-		"total": 2675,
-		"monthly": {
-			"2011-03": {"total":600.00, "Community Based Services":600.00},
-			"2012-01": {"total":1475.00, "Supplies and Services":1475.00},
-			"2014-05": {"total":600.00, "Supplies and Services":600.00}
-		}
-	},
-	"247": {
-		"name": "AK  LIGHTING & SIGNS  LTD",
-		"total": 128601.49,
-		"monthly": {
-			"2016-04": {"total":21490.82, "Supplies and Services":21490.82},
-			"2016-05": {"total":7383.75, "Supplies and Services":7383.75},
-			"2016-06": {"total":2789.83, "Supplies and Services":2789.83},
-			"2016-07": {"total":26599.27, "Supplies and Services":26599.27},
-			"2016-08": {"total":31216.89, "Supplies and Services":31216.89},
-			"2016-09": {"total":27257.81, "Supplies and Services":27257.81},
-			"2016-11": {"total":11863.12, "Supplies and Services":11863.12}
-		}
-	},
-	"248": {
-		"name": "AK SCAFFOLD",
-		"total": 2880,
-		"monthly": {
-			"2013-09": {"total":380.00, "Supplies and Services":380.00},
-			"2013-10": {"total":2000.00, "Supplies and Services":2000.00},
-			"2014-01": {"total":500.00, "Third Party Payments":500.00}
-		}
-	},
-	"249": {
-		"name": "AKAMAS CARE & EDUCATION",
-		"total": 860,
-		"monthly": {
-			"2012-08": {"total":860.00, "Supplies and Services":860.00}
 		}
 	}
 	}

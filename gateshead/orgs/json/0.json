@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","2018-02"],
+	"range": ["2010-12","2018-07"],
 	"data": {
 	"0": {
 		"name": ""ALERTER GROUP PLC,"",
@@ -34,6 +34,7 @@
 		"name": ""NORTHUMBERLAND, TYNE & WEAR  NHS TRUST"",
 		"total": 24099.16,
 		"monthly": {
+			"2011-01": {"total":19000.00, "Learning and Children":19000.00},
 			"2011-04": {"total":1031.25, "Learning and Children":1031.25},
 			"2011-06": {"total":4067.91, "Community Based Services":4067.91}
 		}
@@ -77,24 +78,25 @@
 	},
 	"9": {
 		"name": ""ST JOSEPH'S, SISTERS OF THE POOR"",
-		"total": 113256.44,
+		"total": 114138.84,
 		"monthly": {
 			"2010-12": {"total":2101.20, "Community Based Services":2101.20},
+			"2011-01": {"total":2101.20, "Community Based Services":2101.20},
 			"2011-02": {"total":2101.20, "Community Based Services":2101.20},
 			"2011-03": {"total":7580.03, "Community Based Services":7580.03},
 			"2011-04": {"total":4216.15, "Community Based Services":4216.15},
 			"2011-05": {"total":4250.35, "Community Based Services":4250.35},
 			"2011-06": {"total":4237.60, "Community Based Services":4237.60},
-			"2011-07": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
+			"2011-07": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
 			"2011-08": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
-			"2011-09": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
+			"2011-09": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
 			"2011-10": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
 			"2011-11": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
 			"2011-12": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
-			"2012-01": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
+			"2012-01": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
 			"2012-02": {"total":10235.20, "Third Party Payments":8400.00, "Income: Customer and Client Receipts":1835.20},
 			"2012-03": {"total":4557.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3640.00},
-			"2012-04": {"total":4578.60, "Income: Customer and Client Receipts":938.60, "Third Party Payments":3640.00},
+			"2012-04": {"total":4578.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":938.60},
 			"2012-05": {"total":4585.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":945.60},
 			"2012-06": {"total":4585.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":945.60},
 			"2012-07": {"total":4585.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":945.60},
@@ -104,7 +106,7 @@
 			"2012-11": {"total":2288.80, "Income: Customer and Client Receipts":468.80, "Third Party Payments":1820.00},
 			"2013-01": {"total":4577.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":937.60},
 			"2013-02": {"total":2288.80, "Third Party Payments":1820.00, "Income: Customer and Client Receipts":468.80},
-			"2013-03": {"total":2288.80, "Income: Customer and Client Receipts":468.80, "Third Party Payments":1820.00}
+			"2013-03": {"total":2288.80, "Third Party Payments":1820.00, "Income: Customer and Client Receipts":468.80}
 		}
 	},
 	"10": {
@@ -167,6 +169,7 @@
 		"name": "1NG LTD",
 		"total": 636500,
 		"monthly": {
+			"2011-01": {"total":174000.00, "Development & Enterprise":174000.00},
 			"2011-05": {"total":150000.00, "Development & Enterprise":150000.00},
 			"2011-08": {"total":157500.00, "Other Costs":157500.00},
 			"2011-10": {"total":155000.00, "Other Costs":155000.00}
@@ -244,10 +247,11 @@
 	},
 	"26": {
 		"name": "2 WAY TENANCY SOLUTIONS CIC",
-		"total": 10497.23,
+		"total": 11258.23,
 		"monthly": {
 			"2017-06": {"total":8997.23, "Third Party Payments":8997.23},
-			"2018-02": {"total":1500.00, "Third Party Payments":1500.00}
+			"2018-02": {"total":1500.00, "Third Party Payments":1500.00},
+			"2018-07": {"total":761.00, "Third Party Payments":761.00}
 		}
 	},
 	"27": {
@@ -279,12 +283,12 @@
 		"name": "25TH GATESHEAD BROWNIE UNIT",
 		"total": 595,
 		"monthly": {
-
+			"2011-01": {"total":595.00, "Community Based Services":595.00}
 		}
 	},
 	"31": {
 		"name": "2ND HOME CHILDCARE @ CHOWDENE",
-		"total": 78647.86,
+		"total": 94878.55,
 		"monthly": {
 			"2014-06": {"total":473.42, "Supplies and Services":473.42},
 			"2014-12": {"total":945.15, "Supplies and Services":945.15},
@@ -300,20 +304,22 @@
 			"2017-04": {"total":9448.99, "Supplies and Services":9448.99},
 			"2017-07": {"total":4430.40, "Supplies and Services":4430.40},
 			"2017-09": {"total":10567.69, "Supplies and Services":10567.69},
+			"2017-12": {"total":4789.20, "Supplies and Services":4789.20},
 			"2018-01": {"total":11672.65, "Supplies and Services":11672.65},
-			"2018-02": {"total":3300.98, "Supplies and Services":3300.98}
+			"2018-02": {"total":3300.98, "Supplies and Services":3300.98},
+			"2018-07": {"total":11441.49, "Supplies and Services":11441.49}
 		}
 	},
 	"32": {
 		"name": "2ND HOME CHILDCARE LTD",
-		"total": 721944.2,
+		"total": 764948.5,
 		"monthly": {
 			"2012-02": {"total":5000.00, "Supplies and Services":5000.00},
 			"2012-03": {"total":520.00, "Transfer Payments":520.00},
 			"2012-04": {"total":3505.98, "Supplies and Services":3505.98},
 			"2012-05": {"total":1190.00, "Transfer Payments":1190.00},
-			"2012-06": {"total":3144.60, "Transfer Payments":536.00, "Supplies and Services":2608.60},
-			"2012-08": {"total":4579.88, "Transfer Payments":1592.00, "Supplies and Services":2987.88},
+			"2012-06": {"total":3144.60, "Supplies and Services":2608.60, "Transfer Payments":536.00},
+			"2012-08": {"total":4579.88, "Supplies and Services":2987.88, "Transfer Payments":1592.00},
 			"2012-10": {"total":1726.50, "Transfer Payments":1726.50},
 			"2012-11": {"total":496.00, "Transfer Payments":496.00},
 			"2013-02": {"total":936.00, "Transfer Payments":936.00},
@@ -356,8 +362,10 @@
 			"2017-07": {"total":4555.20, "Supplies and Services":4555.20},
 			"2017-09": {"total":44195.81, "Supplies and Services":44195.81},
 			"2017-11": {"total":14424.77, "Supplies and Services":14424.77},
+			"2017-12": {"total":11388.00, "Supplies and Services":11388.00},
 			"2018-01": {"total":38452.02, "Supplies and Services":38452.02},
-			"2018-02": {"total":22332.09, "Supplies and Services":22332.09}
+			"2018-02": {"total":22332.09, "Supplies and Services":22332.09},
+			"2018-07": {"total":31616.30, "Supplies and Services":31616.30}
 		}
 	},
 	"33": {
@@ -376,6 +384,7 @@
 		"total": 3246497.8,
 		"monthly": {
 			"2010-12": {"total":56248.30, "Community Based Services":56248.30},
+			"2011-01": {"total":55750.27, "Community Based Services":55750.27},
 			"2011-02": {"total":55583.30, "Community Based Services":55583.30},
 			"2011-03": {"total":110095.29, "Community Based Services":110095.29},
 			"2011-05": {"total":114368.18, "Community Based Services":114368.18},
@@ -426,6 +435,7 @@
 		"name": "3663",
 		"total": 30955.21,
 		"monthly": {
+			"2011-01": {"total":3245.73, "Local Environmental Services":3245.73},
 			"2011-05": {"total":1201.62, "Local Environmental Services":1201.62},
 			"2011-07": {"total":474.92, "Supplies and Services":474.92},
 			"2011-08": {"total":427.04, "Supplies and Services":427.04},
@@ -498,16 +508,16 @@
 		"name": "4 CHILDREN GATESHEAD NURSERIES",
 		"total": 1814640.5,
 		"monthly": {
-			"2011-11": {"total":27925.89, "Supplies and Services":27682.89, "unknown":243.00},
-			"2012-01": {"total":23823.96, "Supplies and Services":22700.96, "Transfer Payments":1123.00},
+			"2011-11": {"total":27925.89, "unknown":243.00, "Supplies and Services":27682.89},
+			"2012-01": {"total":23823.96, "Transfer Payments":1123.00, "Supplies and Services":22700.96},
 			"2012-02": {"total":2853.50, "Transfer Payments":2853.50},
-			"2012-03": {"total":29341.08, "Supplies and Services":26313.58, "Income: Customer and Client Receipts":3027.50},
+			"2012-03": {"total":29341.08, "Income: Customer and Client Receipts":3027.50, "Supplies and Services":26313.58},
 			"2012-04": {"total":32783.24, "Supplies and Services":32783.24},
 			"2012-05": {"total":1100.00, "Supplies and Services":1100.00},
 			"2012-06": {"total":62216.79, "Transfer Payments":1048.50, "Supplies and Services":61168.29},
-			"2012-07": {"total":1741.00, "Income: Customer and Client Receipts":486.00, "Supplies and Services":550.00, "Transfer Payments":705.00},
-			"2012-08": {"total":24979.27, "Supplies and Services":24421.27, "Transfer Payments":558.00},
-			"2012-09": {"total":4096.80, "Supplies and Services":2541.80, "Transfer Payments":1555.00},
+			"2012-07": {"total":1741.00, "Supplies and Services":550.00, "Transfer Payments":705.00, "Income: Customer and Client Receipts":486.00},
+			"2012-08": {"total":24979.27, "Transfer Payments":558.00, "Supplies and Services":24421.27},
+			"2012-09": {"total":4096.80, "Transfer Payments":1555.00, "Supplies and Services":2541.80},
 			"2012-10": {"total":687.50, "Supplies and Services":687.50},
 			"2012-11": {"total":68133.97, "Supplies and Services":68133.97},
 			"2013-01": {"total":1990.60, "Supplies and Services":1990.60},
@@ -559,7 +569,7 @@
 	},
 	"45": {
 		"name": "4IMPRINT",
-		"total": 5663.95,
+		"total": 6237.8,
 		"monthly": {
 			"2012-04": {"total":1048.85, "Supplies and Services":1048.85},
 			"2013-09": {"total":436.00, "Supplies and Services":436.00},
@@ -568,7 +578,8 @@
 			"2015-03": {"total":400.65, "Supplies and Services":400.65},
 			"2016-02": {"total":461.45, "Supplies and Services":461.45},
 			"2016-10": {"total":451.80, "Supplies and Services":451.80},
-			"2017-02": {"total":1558.85, "Supplies and Services":1558.85}
+			"2017-02": {"total":1558.85, "Supplies and Services":1558.85},
+			"2017-12": {"total":573.85, "Supplies and Services":573.85}
 		}
 	},
 	"46": {
@@ -587,17 +598,17 @@
 		}
 	},
 	"48": {
+		"name": "64 MILLION ARTISTS",
+		"total": 500,
+		"monthly": {
+			"2018-07": {"total":500.00, "Supplies and Services":500.00}
+		}
+	},
+	"49": {
 		"name": "72 ENGR REGIMENT (V)",
 		"total": 510.09,
 		"monthly": {
 			"2013-07": {"total":510.09, "Supplies and Services":510.09}
-		}
-	},
-	"49": {
-		"name": "7BR",
-		"total": 1680,
-		"monthly": {
-			"2017-10": {"total":1680.00, "Supplies and Services":1680.00}
 		}
 	}
 	}
