@@ -2,60 +2,810 @@
 	"range": ["2010-12","2018-10"],
 	"data": {
 	"7450": {
+		"name": "VSC PLUS LTD",
+		"total": 1500,
+		"monthly": {
+			"2017-04": {"total":1500.00, "Employees":1500.00}
+		}
+	},
+	"7451": {
+		"name": "VUE",
+		"total": 2670,
+		"monthly": {
+			"2018-04": {"total":2670.00, "Supplies and Services":2670.00}
+		}
+	},
+	"7452": {
+		"name": "VULCAN FIRE TRAINING CO. LTD",
+		"total": 2900,
+		"monthly": {
+			"2017-07": {"total":2900.00, "Employees":2900.00}
+		}
+	},
+	"7453": {
+		"name": "VULCANA GAS APPLIANCES LTD",
+		"total": 2448,
+		"monthly": {
+			"2014-01": {"total":1102.00, "Supplies and Services":1102.00},
+			"2014-03": {"total":508.00, "Supplies and Services":508.00},
+			"2016-09": {"total":838.00, "Supplies and Services":838.00}
+		}
+	},
+	"7454": {
+		"name": "W & M WHOLESALE LTD",
+		"total": 2889.55,
+		"monthly": {
+			"2011-08": {"total":883.80, "Supplies and Services":883.80},
+			"2012-05": {"total":436.00, "Supplies and Services":436.00},
+			"2015-08": {"total":1569.75, "Supplies and Services":1569.75}
+		}
+	},
+	"7455": {
+		"name": "W ARMSTRONG & SON",
+		"total": 1430,
+		"monthly": {
+			"2013-02": {"total":990.00, "Transport":990.00},
+			"2013-03": {"total":440.00, "Transport":440.00}
+		}
+	},
+	"7456": {
+		"name": "W BRADSHAW",
+		"total": 2672.52,
+		"monthly": {
+			"2017-09": {"total":1361.41, "Supplies and Services":1361.41},
+			"2018-01": {"total":600.60, "Supplies and Services":600.60},
+			"2018-07": {"total":710.51, "Supplies and Services":710.51}
+		}
+	},
+	"7457": {
+		"name": "W BRAITHWAITE & SONS",
+		"total": 3297.81,
+		"monthly": {
+			"2015-06": {"total":2796.67, "Works":2796.67},
+			"2015-09": {"total":501.14, "Works":501.14}
+		}
+	},
+	"7458": {
+		"name": "W D DAVISON & SONS",
+		"total": 950305.44,
+		"monthly": {
+			"2010-12": {"total":15724.48, "Local Environmental Services":15724.48},
+			"2011-01": {"total":14982.25, "Local Environmental Services":14982.25},
+			"2011-02": {"total":26760.50, "Local Environmental Services":26760.50},
+			"2011-03": {"total":13982.87, "Local Environmental Services":13982.87},
+			"2011-04": {"total":8667.07, "Local Environmental Services":8667.07},
+			"2011-05": {"total":3261.84, "Local Environmental Services":3261.84},
+			"2011-06": {"total":8745.29, "Gateshead Trading Company":2315.62, "Local Environmental Services":6429.67},
+			"2011-07": {"total":26123.24, "Third Party Payments":26123.24},
+			"2011-08": {"total":15210.91, "Third Party Payments":15210.91},
+			"2011-09": {"total":16468.44, "Third Party Payments":16468.44},
+			"2011-10": {"total":7918.87, "unknown":1394.00, "Third Party Payments":6524.87},
+			"2011-11": {"total":14018.52, "Private Contractor CIS Materials":1468.00, "Private Contractor CIS Labour":4103.49, "Third Party Payments":8447.03},
+			"2011-12": {"total":1911.00, "Third Party Payments":1911.00},
+			"2012-01": {"total":12445.06, "Third Party Payments":12445.06},
+			"2012-02": {"total":16554.22, "Third Party Payments":16554.22},
+			"2012-03": {"total":10604.06, "Third Party Payments":10604.06},
+			"2012-05": {"total":51980.65, "Third Party Payments":51980.65},
+			"2012-06": {"total":14152.65, "Third Party Payments":14152.65},
+			"2012-07": {"total":3241.87, "Third Party Payments":3241.87},
+			"2012-08": {"total":3514.56, "Third Party Payments":3514.56},
+			"2012-09": {"total":26979.38, "Third Party Payments":26979.38},
+			"2012-10": {"total":20548.37, "Third Party Payments":20548.37},
+			"2012-11": {"total":4933.56, "Third Party Payments":4933.56},
+			"2013-01": {"total":6090.83, "Third Party Payments":6090.83},
+			"2013-02": {"total":9959.98, "Third Party Payments":9959.98},
+			"2013-03": {"total":7792.46, "Third Party Payments":7792.46},
+			"2013-04": {"total":12133.02, "Full Authority":1205.77, "Third Party Payments":10927.25},
+			"2013-05": {"total":8830.29, "Full Authority":1392.12, "Third Party Payments":7438.17},
+			"2013-06": {"total":10552.66, "Full Authority":1273.04, "Third Party Payments":9279.62},
+			"2013-07": {"total":4527.40, "unknown":485.89, "Third Party Payments":4041.51},
+			"2013-08": {"total":33026.91, "unknown":4542.94, "Third Party Payments":28483.97},
+			"2013-09": {"total":3893.02, "Supplies and Services":370.00, "unknown":555.65, "Third Party Payments":2967.37},
+			"2013-10": {"total":4907.82, "Third Party Payments":4517.82, "Supplies and Services":390.00},
+			"2013-12": {"total":89326.32, "Third Party Payments":77811.84, "unknown":11514.48},
+			"2014-01": {"total":9251.44, "Third Party Payments":8773.22, "unknown":478.22},
+			"2014-02": {"total":1461.23, "Third Party Payments":1461.23},
+			"2014-03": {"total":2286.34, "Third Party Payments":2286.34},
+			"2014-04": {"total":12127.72, "unknown":1560.50, "Third Party Payments":10567.22},
+			"2014-05": {"total":5190.18, "unknown":530.80, "Third Party Payments":4659.38},
+			"2014-06": {"total":1349.85, "Third Party Payments":1349.85},
+			"2014-08": {"total":17802.69, "Third Party Payments":16036.48, "unknown":1766.21},
+			"2014-09": {"total":5388.28, "Third Party Payments":5388.28},
+			"2014-10": {"total":6229.78, "Third Party Payments":5557.50, "unknown":672.28},
+			"2014-11": {"total":9658.78, "CIS Tax Deduction Account":753.47, "Third Party Payments":8905.31},
+			"2014-12": {"total":1838.50, "Third Party Payments":1838.50},
+			"2015-01": {"total":2513.43, "Third Party Payments":1028.43, "Supplies and Services":1485.00},
+			"2015-02": {"total":12296.40, "Third Party Payments":10484.68, "unknown":1811.72},
+			"2015-03": {"total":37392.94, "Third Party Payments":32179.26, "unknown":5213.68},
+			"2015-04": {"total":1088.28, "Third Party Payments":1088.28},
+			"2015-05": {"total":7122.80, "Third Party Payments":6504.06, "unknown":618.74},
+			"2015-06": {"total":37088.60, "unknown":7714.56, "Third Party Payments":29374.04},
+			"2015-07": {"total":4499.32, "Third Party Payments":4499.32},
+			"2015-08": {"total":8251.61, "Third Party Payments":7261.19, "unknown":990.42},
+			"2015-09": {"total":1797.35, "Third Party Payments":1797.35},
+			"2015-10": {"total":353.00, "Third Party Payments":353.00},
+			"2016-02": {"total":10497.03, "unknown":966.17, "Third Party Payments":9530.86},
+			"2016-03": {"total":50251.46, "Third Party Payments":47138.53, "unknown":3112.93},
+			"2016-04": {"total":41052.75, "unknown":3445.31, "Third Party Payments":37607.44},
+			"2016-05": {"total":969.47, "Third Party Payments":969.47},
+			"2016-08": {"total":13128.32, "unknown":864.12, "Third Party Payments":12264.20},
+			"2016-09": {"total":11084.81, "Supplies and Services":10524.16, "Third Party Payments":560.65},
+			"2016-11": {"total":20766.63, "Third Party Payments":17933.51, "unknown":2833.12},
+			"2016-12": {"total":3047.53, "Third Party Payments":3047.53},
+			"2017-01": {"total":1865.75, "Third Party Payments":1865.75},
+			"2017-02": {"total":8130.76, "Third Party Payments":8130.76},
+			"2017-03": {"total":2700.00, "Third Party Payments":2700.00},
+			"2017-05": {"total":748.00, "Third Party Payments":748.00},
+			"2017-06": {"total":3948.09, "Third Party Payments":3948.09},
+			"2017-08": {"total":12982.00, "Third Party Payments":11085.00, "unknown":1897.00},
+			"2017-10": {"total":12095.81, "Third Party Payments":7449.57, "unknown":4646.24},
+			"2018-01": {"total":671.10, "unknown":671.10},
+			"2018-02": {"total":3685.14, "Third Party Payments":3685.14},
+			"2018-03": {"total":25717.02, "unknown":2293.62, "Third Party Payments":23423.40},
+			"2018-04": {"total":3039.75, "Third Party Payments":3039.75},
+			"2018-05": {"total":4290.00, "Third Party Payments":3636.00, "unknown":654.00},
+			"2018-06": {"total":417.69, "Third Party Payments":417.69},
+			"2018-07": {"total":562.20, "Third Party Payments":562.20},
+			"2018-09": {"total":1597.80, "Third Party Payments":1597.80},
+			"2018-10": {"total":2297.44, "Third Party Payments":2297.44}
+		}
+	},
+	"7459": {
+		"name": "W D M LTD",
+		"total": 1281.67,
+		"monthly": {
+			"2011-01": {"total":1281.67, "Development & Enterprise":1281.67}
+		}
+	},
+	"7460": {
+		"name": "W G H GODWIN",
+		"total": 11004,
+		"monthly": {
+			"2018-04": {"total":11004.00, "Land and Buildings":11004.00}
+		}
+	},
+	"7461": {
+		"name": "W KELLY & SONS",
+		"total": 260190,
+		"monthly": {
+			"2010-12": {"total":25434.00, "Local Environmental Services":25434.00},
+			"2011-01": {"total":808.00, "Local Environmental Services":808.00},
+			"2011-02": {"total":17954.00, "Local Environmental Services":17954.00},
+			"2011-03": {"total":34461.00, "Local Environmental Services":34461.00},
+			"2011-04": {"total":4056.00, "Local Environmental Services":4056.00},
+			"2011-05": {"total":28500.00, "Local Environmental Services":28500.00},
+			"2011-06": {"total":19541.00, "Local Environmental Services":19541.00},
+			"2011-07": {"total":11524.00, "Transport":11524.00},
+			"2011-09": {"total":13999.00, "Transport":13999.00},
+			"2011-10": {"total":15434.00, "Transport":15434.00},
+			"2011-11": {"total":19649.00, "Transport":19649.00},
+			"2011-12": {"total":24762.00, "Transport":24762.00},
+			"2012-01": {"total":19088.00, "Transport":19088.00},
+			"2012-03": {"total":14410.00, "Transport":14410.00},
+			"2012-04": {"total":7606.00, "Transport":7606.00},
+			"2012-05": {"total":2964.00, "Transport":2964.00}
+		}
+	},
+	"7462": {
+		"name": "W L PIERCE T/A SELF EXPLODING ARTS",
+		"total": 10386,
+		"monthly": {
+			"2011-01": {"total":2500.00, "Learning and Children":2500.00},
+			"2011-12": {"total":2000.00, "Consultants":2000.00},
+			"2013-03": {"total":1200.00, "Supplies and Services":1200.00},
+			"2013-09": {"total":2020.00, "Supplies and Services":2020.00},
+			"2014-10": {"total":892.00, "Supplies and Services":892.00},
+			"2015-10": {"total":874.00, "Supplies and Services":874.00},
+			"2018-04": {"total":900.00, "Supplies and Services":900.00}
+		}
+	},
+	"7463": {
+		"name": "W MCGOVERN & CO LTD",
+		"total": 59574.28,
+		"monthly": {
+			"2011-02": {"total":549.12, "Local Environmental Services":549.12},
+			"2011-04": {"total":1699.05, "Local Environmental Services":1699.05},
+			"2012-03": {"total":4273.42, "Supplies and Services":4273.42},
+			"2012-08": {"total":2931.20, "Supplies and Services":2931.20},
+			"2012-10": {"total":4043.60, "Supplies and Services":4043.60},
+			"2013-06": {"total":570.00, "Supplies and Services":570.00},
+			"2014-01": {"total":1679.60, "Supplies and Services":1679.60},
+			"2014-05": {"total":390.08, "Supplies and Services":390.08},
+			"2014-07": {"total":1520.00, "Supplies and Services":1520.00},
+			"2014-08": {"total":5773.05, "Supplies and Services":5773.05},
+			"2014-10": {"total":763.28, "Supplies and Services":763.28},
+			"2014-11": {"total":1880.00, "Supplies and Services":1880.00},
+			"2015-03": {"total":693.92, "Supplies and Services":693.92},
+			"2015-08": {"total":1254.00, "Supplies and Services":1254.00},
+			"2015-09": {"total":720.00, "Supplies and Services":720.00},
+			"2015-10": {"total":550.16, "Supplies and Services":550.16},
+			"2016-02": {"total":869.84, "Supplies and Services":869.84},
+			"2016-05": {"total":6463.48, "Supplies and Services":6463.48},
+			"2016-06": {"total":592.00, "Supplies and Services":592.00},
+			"2016-07": {"total":1476.81, "Supplies and Services":1476.81},
+			"2016-09": {"total":440.00, "Supplies and Services":440.00},
+			"2016-10": {"total":11019.44, "Supplies and Services":11019.44},
+			"2016-11": {"total":3006.72, "Supplies and Services":3006.72},
+			"2017-01": {"total":5351.51, "Supplies and Services":5351.51},
+			"2017-02": {"total":1064.00, "Supplies and Services":1064.00}
+		}
+	},
+	"7464": {
+		"name": "W O  SILMON LTD",
+		"total": 82697.53,
+		"monthly": {
+			"2011-04": {"total":58713.00, "Local Environmental Services":58713.00},
+			"2012-01": {"total":7130.00, "Third Party Payments":7130.00},
+			"2012-09": {"total":4841.26, "Supplies and Services":4841.26},
+			"2013-07": {"total":495.34, "Premises":495.34},
+			"2014-02": {"total":1443.99, "Premises":1443.99},
+			"2014-04": {"total":664.26, "Premises":664.26},
+			"2015-02": {"total":1234.00, "Premises":1234.00},
+			"2015-03": {"total":1905.68, "Premises":1905.68},
+			"2016-02": {"total":1500.00, "Premises":1500.00},
+			"2017-02": {"total":1590.00, "Premises":1590.00},
+			"2018-02": {"total":3180.00, "Premises":3180.00}
+		}
+	},
+	"7465": {
+		"name": "W R G STEEL SERVICES",
+		"total": 617146.59,
+		"monthly": {
+			"2010-12": {"total":1933.58, "Local Environmental Services":1933.58},
+			"2011-03": {"total":2297.70, "Local Environmental Services":2297.70},
+			"2011-04": {"total":1857.97, "Local Environmental Services":1857.97},
+			"2011-05": {"total":6642.50, "Local Environmental Services":6642.50},
+			"2011-10": {"total":348.00, "Supplies and Services":348.00},
+			"2012-03": {"total":14495.16, "Supplies and Services":14495.16},
+			"2012-10": {"total":17053.15, "Supplies and Services":17053.15},
+			"2013-05": {"total":32156.98, "Supplies and Services":32156.98},
+			"2014-02": {"total":1571.93, "Supplies and Services":1571.93},
+			"2014-06": {"total":1540.00, "Supplies and Services":1540.00},
+			"2015-01": {"total":480.00, "Supplies and Services":480.00},
+			"2015-02": {"total":371.25, "Supplies and Services":371.25},
+			"2015-03": {"total":1200.00, "Supplies and Services":1200.00},
+			"2015-10": {"total":3976.34, "Supplies and Services":3976.34},
+			"2016-03": {"total":8029.42, "Supplies and Services":8029.42},
+			"2016-04": {"total":148071.79, "Supplies and Services":148071.79},
+			"2016-06": {"total":65830.03, "Supplies and Services":65830.03},
+			"2016-07": {"total":67784.50, "Supplies and Services":67784.50},
+			"2016-08": {"total":56658.59, "Supplies and Services":56658.59},
+			"2016-09": {"total":980.00, "Supplies and Services":980.00},
+			"2016-10": {"total":60874.38, "Supplies and Services":60874.38},
+			"2016-11": {"total":64458.90, "Supplies and Services":64458.90},
+			"2016-12": {"total":40448.25, "Supplies and Services":40448.25},
+			"2017-02": {"total":11859.77, "Supplies and Services":11859.77},
+			"2017-03": {"total":2968.60, "Supplies and Services":2968.60},
+			"2017-06": {"total":845.50, "Supplies and Services":845.50},
+			"2018-01": {"total":1327.70, "Supplies and Services":1327.70},
+			"2018-02": {"total":1084.60, "Supplies and Services":1084.60}
+		}
+	},
+	"7466": {
+		"name": "W S HODGSON & CO LTD",
+		"total": 516.6,
+		"monthly": {
+			"2011-10": {"total":516.60, "Supplies and Services":516.60}
+		}
+	},
+	"7467": {
+		"name": "W S SPRAGUE & COMPANY LTD",
+		"alternate-names": [
+			"W S SPRAGUE & COMPANY LIMITED"
+		],
+		"total": 22692,
+		"monthly": {
+			"2012-11": {"total":1720.00, "Supplies and Services":1720.00},
+			"2013-01": {"total":525.00, "Supplies and Services":525.00},
+			"2013-02": {"total":440.00, "Supplies and Services":440.00},
+			"2013-05": {"total":1480.00, "Supplies and Services":1480.00},
+			"2013-06": {"total":2167.00, "Supplies and Services":2167.00},
+			"2013-10": {"total":640.00, "Supplies and Services":640.00},
+			"2014-01": {"total":460.00, "Supplies and Services":460.00},
+			"2014-02": {"total":960.00, "Supplies and Services":960.00},
+			"2014-03": {"total":530.00, "Supplies and Services":530.00},
+			"2014-05": {"total":2270.00, "Supplies and Services":2270.00},
+			"2014-07": {"total":685.00, "Supplies and Services":685.00},
+			"2014-08": {"total":675.00, "Supplies and Services":675.00},
+			"2014-11": {"total":1960.00, "Supplies and Services":1960.00},
+			"2015-01": {"total":1160.00, "Supplies and Services":1160.00},
+			"2015-02": {"total":480.00, "Supplies and Services":480.00},
+			"2015-03": {"total":4010.00, "Supplies and Services":4010.00},
+			"2015-04": {"total":910.00, "Supplies and Services":910.00},
+			"2015-06": {"total":1620.00, "Supplies and Services":1620.00}
+		}
+	},
+	"7468": {
+		"name": "W T INTERIORS",
+		"total": 78385.33,
+		"monthly": {
+			"2010-12": {"total":2761.95, "Local Environmental Services":2761.95},
+			"2011-02": {"total":515.00, "Local Environmental Services":515.00},
+			"2011-03": {"total":12138.70, "Local Environmental Services":12138.70},
+			"2011-04": {"total":5890.10, "Local Environmental Services":5890.10},
+			"2011-05": {"total":5846.10, "Local Environmental Services":5846.10},
+			"2011-08": {"total":2951.05, "Third Party Payments":2951.05},
+			"2012-04": {"total":14788.20, "Third Party Payments":14788.20},
+			"2012-05": {"total":8900.50, "Third Party Payments":8900.50},
+			"2012-06": {"total":705.00, "Third Party Payments":705.00},
+			"2012-07": {"total":6309.76, "Third Party Payments":6309.76},
+			"2012-08": {"total":13793.01, "Third Party Payments":13793.01},
+			"2012-10": {"total":467.91, "Third Party Payments":467.91},
+			"2012-11": {"total":1262.25, "Third Party Payments":1262.25},
+			"2013-10": {"total":1320.80, "Third Party Payments":1320.80},
+			"2014-09": {"total":735.00, "Third Party Payments":735.00}
+		}
+	},
+	"7469": {
+		"name": "W V HOWE LTD",
+		"total": 12374.96,
+		"monthly": {
+			"2016-11": {"total":992.50, "Supplies and Services":992.50},
+			"2016-12": {"total":547.62, "Supplies and Services":547.62},
+			"2017-03": {"total":7097.44, "Supplies and Services":7097.44},
+			"2017-07": {"total":573.90, "Supplies and Services":573.90},
+			"2017-10": {"total":1050.00, "Supplies and Services":1050.00},
+			"2018-03": {"total":1146.00, "Supplies and Services":1146.00},
+			"2018-06": {"total":418.00, "Supplies and Services":418.00},
+			"2018-10": {"total":549.50, "Supplies and Services":549.50}
+		}
+	},
+	"7470": {
+		"name": "W&M  THOMPSON (EARTHWORKS) LTD",
+		"total": 56061.89,
+		"monthly": {
+			"2010-12": {"total":14598.85, "Local Environmental Services":14598.85},
+			"2011-01": {"total":17380.43, "Local Environmental Services":17380.43},
+			"2011-02": {"total":24082.61, "Local Environmental Services":24082.61}
+		}
+	},
+	"7471": {
+		"name": "W&M  THOMPSON (QUARRIES) LTD",
+		"total": 57074.1,
+		"monthly": {
+			"2011-02": {"total":1453.36, "Local Environmental Services":1453.36},
+			"2011-03": {"total":730.01, "Local Environmental Services":730.01},
+			"2011-10": {"total":747.94, "Supplies and Services":747.94},
+			"2011-11": {"total":543.51, "Supplies and Services":543.51},
+			"2012-02": {"total":1357.65, "Supplies and Services":1357.65},
+			"2012-11": {"total":1391.79, "Supplies and Services":1391.79},
+			"2013-01": {"total":384.74, "Supplies and Services":384.74},
+			"2013-03": {"total":1595.27, "Supplies and Services":1595.27},
+			"2013-05": {"total":681.99, "Supplies and Services":681.99},
+			"2013-09": {"total":1119.16, "Supplies and Services":1119.16},
+			"2014-03": {"total":1540.95, "Supplies and Services":1540.95},
+			"2014-04": {"total":2384.12, "Supplies and Services":2384.12},
+			"2014-05": {"total":3609.52, "Supplies and Services":3609.52},
+			"2014-07": {"total":3180.78, "Supplies and Services":3180.78},
+			"2014-08": {"total":3349.55, "Supplies and Services":3349.55},
+			"2014-09": {"total":1178.96, "Supplies and Services":1178.96},
+			"2014-10": {"total":1998.34, "Supplies and Services":1998.34},
+			"2014-11": {"total":6731.20, "Supplies and Services":6731.20},
+			"2014-12": {"total":999.18, "Supplies and Services":999.18},
+			"2015-01": {"total":1821.00, "Supplies and Services":1821.00},
+			"2016-03": {"total":963.04, "Supplies and Services":963.04},
+			"2016-05": {"total":360.00, "Supplies and Services":360.00},
+			"2016-10": {"total":455.17, "Supplies and Services":455.17},
+			"2016-11": {"total":446.89, "Supplies and Services":446.89},
+			"2017-01": {"total":1661.28, "Supplies and Services":1661.28},
+			"2017-02": {"total":6535.11, "Supplies and Services":6535.11},
+			"2017-03": {"total":1227.24, "Supplies and Services":1227.24},
+			"2017-04": {"total":1445.15, "Supplies and Services":1445.15},
+			"2017-07": {"total":1568.96, "Supplies and Services":1568.96},
+			"2017-08": {"total":2987.76, "Supplies and Services":2987.76},
+			"2017-09": {"total":720.00, "Supplies and Services":720.00},
+			"2017-10": {"total":673.88, "Supplies and Services":673.88},
+			"2018-07": {"total":1230.60, "Supplies and Services":1230.60}
+		}
+	},
+	"7472": {
+		"name": "WA OLD & SON",
+		"total": 1440,
+		"monthly": {
+			"2013-01": {"total":1440.00, "Supplies and Services":1440.00}
+		}
+	},
+	"7473": {
+		"name": "WA OLD & SON LTD",
+		"total": 93077,
+		"monthly": {
+			"2011-02": {"total":1596.00, "Local Environmental Services":1596.00},
+			"2011-03": {"total":399.00, "Local Environmental Services":399.00},
+			"2011-04": {"total":855.00, "Local Environmental Services":855.00},
+			"2011-05": {"total":418.00, "Local Environmental Services":418.00},
+			"2011-07": {"total":380.00, "Transport":380.00},
+			"2011-09": {"total":437.00, "Transport":437.00},
+			"2011-10": {"total":437.00, "Transport":437.00},
+			"2011-11": {"total":760.00, "Transport":760.00},
+			"2011-12": {"total":1482.00, "Transport":1482.00},
+			"2012-01": {"total":418.00, "Transport":418.00},
+			"2012-02": {"total":437.00, "Transport":437.00},
+			"2012-03": {"total":779.00, "Transport":779.00},
+			"2012-04": {"total":1235.00, "Transport":1235.00},
+			"2012-06": {"total":1710.00, "Transport":1710.00},
+			"2012-07": {"total":798.00, "Transport":798.00},
+			"2012-09": {"total":779.00, "Transport":779.00},
+			"2012-10": {"total":2014.00, "Transport":418.00, "unknown":1596.00},
+			"2013-01": {"total":2675.00, "Supplies and Services":1440.00, "Transport":1235.00},
+			"2013-02": {"total":1216.00, "Transport":1216.00},
+			"2013-03": {"total":1235.00, "Transport":1235.00},
+			"2013-04": {"total":437.00, "Transport":437.00},
+			"2013-05": {"total":1311.00, "Transport":1311.00},
+			"2013-06": {"total":1710.00, "Transport":1710.00},
+			"2013-07": {"total":1653.00, "Transport":1653.00},
+			"2013-08": {"total":437.00, "Transport":437.00},
+			"2013-10": {"total":418.00, "Transport":418.00},
+			"2013-12": {"total":1197.00, "Transport":1197.00},
+			"2014-01": {"total":2337.00, "Transport":2337.00},
+			"2014-03": {"total":836.00, "Transport":836.00},
+			"2014-04": {"total":1292.00, "Transport":1292.00},
+			"2014-06": {"total":2603.00, "Transport":2603.00},
+			"2014-07": {"total":874.00, "Transport":874.00},
+			"2014-08": {"total":418.00, "Transport":418.00},
+			"2014-09": {"total":380.00, "Transport":380.00},
+			"2014-10": {"total":1216.00, "Transport":1216.00},
+			"2014-11": {"total":874.00, "Transport":874.00},
+			"2015-01": {"total":2451.00, "Transport":2451.00},
+			"2015-02": {"total":874.00, "Transport":874.00},
+			"2015-03": {"total":3277.00, "Transport":3277.00},
+			"2015-04": {"total":989.00, "Transport":989.00},
+			"2015-05": {"total":860.00, "Transport":860.00},
+			"2015-06": {"total":946.00, "Transport":946.00},
+			"2015-07": {"total":408.50, "Transport":408.50},
+			"2015-08": {"total":1698.50, "Transport":1698.50},
+			"2015-09": {"total":1964.00, "Supplies and Services":760.00, "Transport":1204.00},
+			"2015-10": {"total":430.00, "Transport":430.00},
+			"2015-11": {"total":935.00, "Transport":935.00},
+			"2016-01": {"total":2300.50, "Transport":2300.50},
+			"2016-02": {"total":1096.50, "Transport":1096.50},
+			"2016-03": {"total":1892.00, "Transport":1892.00},
+			"2016-04": {"total":494.50, "Transport":494.50},
+			"2016-06": {"total":2021.00, "Transport":2021.00},
+			"2016-07": {"total":4443.00, "Supplies and Services":1562.00, "Transport":2881.00},
+			"2016-08": {"total":1032.00, "Transport":1032.00},
+			"2016-10": {"total":494.50, "Transport":494.50},
+			"2016-11": {"total":989.00, "Transport":989.00},
+			"2017-01": {"total":2064.00, "Transport":2064.00},
+			"2017-02": {"total":1600.50, "Transport":1600.50},
+			"2017-03": {"total":2450.00, "Transport":2450.00},
+			"2017-05": {"total":516.00, "Transport":516.00},
+			"2017-06": {"total":1155.00, "Transport":1155.00},
+			"2017-07": {"total":1643.50, "Transport":1643.50},
+			"2017-08": {"total":473.00, "Transport":473.00},
+			"2017-09": {"total":660.00, "Transport":660.00},
+			"2017-10": {"total":473.00, "Transport":473.00},
+			"2017-12": {"total":2097.50, "Transport":2097.50},
+			"2018-01": {"total":1268.50, "Transport":1268.50},
+			"2018-02": {"total":3053.00, "Transport":3053.00},
+			"2018-03": {"total":2009.50, "Transport":2009.50},
+			"2018-05": {"total":1182.00, "Transport":1182.00},
+			"2018-06": {"total":1526.00, "Transport":1526.00},
+			"2018-07": {"total":473.00, "Transport":473.00},
+			"2018-08": {"total":1170.00, "Transport":1170.00},
+			"2018-09": {"total":537.50, "Transport":537.50},
+			"2018-10": {"total":1076.00, "Transport":516.00, "Supplies and Services":560.00}
+		}
+	},
+	"7474": {
+		"name": "WAAGNER BIRO LTD",
+		"total": 21061,
+		"monthly": {
+			"2012-06": {"total":6821.00, "Works":6821.00},
+			"2015-11": {"total":14240.00, "Premises":14240.00}
+		}
+	},
+	"7475": {
+		"name": "WADDS LTD",
+		"total": 1950,
+		"monthly": {
+			"2016-03": {"total":1950.00, "Premises":1950.00}
+		}
+	},
+	"7476": {
+		"name": "WADE INTERNATIONAL LTD",
+		"total": 1706.1,
+		"monthly": {
+			"2013-06": {"total":1706.10, "Supplies and Services":1706.10}
+		}
+	},
+	"7477": {
+		"name": "WADSWORTH ELECTRONICS LTD",
+		"total": 428.87,
+		"monthly": {
+			"2011-08": {"total":428.87, "Purchase of Equipment":428.87}
+		}
+	},
+	"7478": {
+		"name": "WAGSTAFF GROUP",
+		"total": 1499,
+		"monthly": {
+			"2011-04": {"total":1499.00, "Development & Enterprise":1499.00}
+		}
+	},
+	"7479": {
+		"name": "WAKEFIELD CITY ACADEMY",
+		"total": 13238,
+		"monthly": {
+			"2011-09": {"total":3750.00, "Supplies and Services":3750.00},
+			"2012-03": {"total":1332.00, "Supplies and Services":1332.00},
+			"2012-08": {"total":1327.00, "Supplies and Services":1327.00},
+			"2012-09": {"total":1332.00, "Supplies and Services":1332.00},
+			"2013-01": {"total":667.00, "Supplies and Services":667.00},
+			"2013-02": {"total":666.00, "Supplies and Services":666.00},
+			"2013-03": {"total":1332.00, "Supplies and Services":1332.00},
+			"2014-04": {"total":2832.00, "Supplies and Services":2832.00}
+		}
+	},
+	"7480": {
+		"name": "WAKEFIELD MBC",
+		"total": 3800,
+		"monthly": {
+			"2011-02": {"total":3800.00, "Learning and Children":3800.00}
+		}
+	},
+	"7481": {
+		"name": "WAKEFIELDS CHARTERED BUILDING SURVEYORS",
+		"total": 700,
+		"monthly": {
+			"2012-08": {"total":700.00, "Land and Buildings":700.00}
+		}
+	},
+	"7482": {
+		"name": "WALK THE PLANK",
+		"total": 50000,
+		"monthly": {
+			"2011-08": {"total":50000.00, "Supplies and Services":50000.00}
+		}
+	},
+	"7483": {
+		"name": "WALKER & MORRELL",
+		"total": 3060,
+		"monthly": {
+			"2014-12": {"total":3060.00, "Supplies and Services":3060.00}
+		}
+	},
+	"7484": {
+		"name": "WALLACE HOUSE",
+		"total": 3433.33,
+		"monthly": {
+			"2014-03": {"total":3433.33, "Other Costs":3433.33}
+		}
+	},
+	"7485": {
+		"name": "WALLDENE COURT",
+		"total": 60174.36,
+		"monthly": {
+			"2013-10": {"total":3740.69, "Third Party Payments":3740.69},
+			"2013-12": {"total":26495.91, "Third Party Payments":10302.24, "Income: Fees and Charges":16193.67},
+			"2014-01": {"total":2942.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1225.76},
+			"2014-02": {"total":2942.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1225.76},
+			"2014-03": {"total":2942.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1225.76},
+			"2014-04": {"total":2941.30, "Income: Fees and Charges":1224.26, "Third Party Payments":1717.04},
+			"2014-05": {"total":2940.80, "Income: Fees and Charges":1223.76, "Third Party Payments":1717.04},
+			"2014-06": {"total":2940.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1223.76},
+			"2014-07": {"total":2940.80, "Income: Fees and Charges":1223.76, "Third Party Payments":1717.04},
+			"2014-08": {"total":2940.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1223.76},
+			"2014-09": {"total":2940.80, "Third Party Payments":1717.04, "Income: Fees and Charges":1223.76},
+			"2014-10": {"total":3464.06, "Income: Fees and Charges":1223.76, "Third Party Payments":2240.30}
+		}
+	},
+	"7486": {
+		"name": "WALTONS MARQUEES",
+		"total": 3437,
+		"monthly": {
+			"2011-07": {"total":2237.00, "Supplies and Services":2237.00},
+			"2018-01": {"total":600.00, "Supplies and Services":600.00},
+			"2018-03": {"total":600.00, "Supplies and Services":600.00}
+		}
+	},
+	"7487": {
+		"name": "WARCUP SKENE SOLICITORS",
+		"total": 772,
+		"monthly": {
+			"2012-02": {"total":772.00, "Land and Buildings":772.00}
+		}
+	},
+	"7488": {
+		"name": "WARD HADAWAY LAW FIRM",
+		"total": 36240.52,
+		"monthly": {
+			"2011-02": {"total":546.50, "Learning and Children":546.50},
+			"2011-12": {"total":427.78, "Income: Customer and Client Receipts":427.78},
+			"2012-04": {"total":370.83, "Income: Customer and Client Receipts":370.83},
+			"2013-05": {"total":927.08, "Income: Fees and Charges":927.08},
+			"2013-10": {"total":370.83, "Income: Fees and Charges":370.83},
+			"2016-04": {"total":33597.50, "Supplies and Services":33597.50}
+		}
+	},
+	"7489": {
+		"name": "WARD HADAWAY SOLICITORS",
+		"total": 57909.95,
+		"monthly": {
+			"2011-01": {"total":7079.70, "Learning and Children":7079.70},
+			"2011-04": {"total":2293.00, "Learning and Children":2293.00},
+			"2011-05": {"total":664.00, "Learning and Children":664.00},
+			"2011-07": {"total":2300.00, "Supplies and Services":2300.00},
+			"2012-03": {"total":2500.00, "Land and Buildings":2500.00},
+			"2012-07": {"total":10000.00, "Supplies and Services":10000.00},
+			"2016-04": {"total":15335.00, "Supplies and Services":15335.00},
+			"2016-06": {"total":11951.35, "Supplies and Services":11951.35},
+			"2017-12": {"total":804.40, "unknown":804.40},
+			"2018-05": {"total":2350.00, "Supplies and Services":2350.00},
+			"2018-10": {"total":2632.50, "Supplies and Services":2632.50}
+		}
+	},
+	"7490": {
+		"name": "WARDAIR DIRECT LTD",
+		"total": 3174,
+		"monthly": {
+			"2011-07": {"total":890.00, "Supplies and Services":890.00},
+			"2011-08": {"total":722.00, "Supplies and Services":722.00},
+			"2011-10": {"total":769.00, "Supplies and Services":769.00},
+			"2012-01": {"total":793.00, "Supplies and Services":793.00}
+		}
+	},
+	"7491": {
+		"name": "WARDELL AMRSTRONG LLP",
+		"total": 1033.2,
+		"monthly": {
+			"2017-01": {"total":1033.20, "unknown":1033.20}
+		}
+	},
+	"7492": {
+		"name": "WARDLEY COACHES",
+		"total": 667041.2,
+		"monthly": {
+			"2010-12": {"total":12201.50, "Learning and Children":12201.50},
+			"2011-01": {"total":6563.50, "Learning and Children":6563.50},
+			"2011-02": {"total":11640.00, "Learning and Children":11640.00},
+			"2011-03": {"total":8553.00, "Learning and Children":8553.00},
+			"2011-04": {"total":13369.00, "Learning and Children":13369.00},
+			"2011-05": {"total":6402.00, "Learning and Children":6402.00},
+			"2011-06": {"total":10663.00, "Learning and Children":10663.00},
+			"2011-07": {"total":11187.00, "Transport":11187.00},
+			"2011-08": {"total":8236.00, "Transport":8236.00},
+			"2011-10": {"total":11118.00, "Transport":11118.00},
+			"2011-11": {"total":8978.00, "Transport":8978.00},
+			"2011-12": {"total":12550.00, "Transport":12550.00},
+			"2012-01": {"total":7044.00, "Transport":7044.00},
+			"2012-02": {"total":12222.00, "Transport":12222.00},
+			"2012-03": {"total":9195.00, "Transport":9195.00},
+			"2012-04": {"total":12310.00, "Transport":12310.00},
+			"2012-05": {"total":6244.00, "Transport":6244.00},
+			"2012-06": {"total":12341.00, "Transport":12341.00},
+			"2012-07": {"total":9263.00, "Transport":9263.00},
+			"2012-08": {"total":8483.00, "Transport":8483.00},
+			"2012-10": {"total":11058.00, "Transport":11058.00},
+			"2012-11": {"total":11640.00, "Transport":11640.00},
+			"2013-01": {"total":8730.00, "Transport":8730.00},
+			"2013-02": {"total":10697.50, "Transport":10697.50},
+			"2013-03": {"total":8860.00, "Transport":8860.00},
+			"2013-04": {"total":11640.00, "Transport":11640.00},
+			"2013-05": {"total":6984.00, "Transport":6984.00},
+			"2013-06": {"total":9657.00, "Transport":9657.00},
+			"2013-07": {"total":11640.00, "Transport":11640.00},
+			"2013-08": {"total":8483.00, "Transport":8483.00},
+			"2013-10": {"total":5638.00, "Transport":5638.00},
+			"2013-12": {"total":17262.00, "Transport":17262.00},
+			"2014-01": {"total":4320.00, "Transport":4320.00},
+			"2014-02": {"total":5752.00, "Transport":5752.00},
+			"2014-03": {"total":4380.00, "Transport":4380.00},
+			"2014-04": {"total":6096.00, "Transport":6096.00},
+			"2014-05": {"total":3150.00, "Transport":3150.00},
+			"2014-06": {"total":4494.00, "Transport":4494.00},
+			"2014-07": {"total":5710.00, "Transport":5710.00},
+			"2014-08": {"total":1066.00, "Transport":1066.00},
+			"2014-10": {"total":5380.00, "Transport":5380.00},
+			"2014-11": {"total":4436.00, "Transport":4436.00},
+			"2014-12": {"total":5120.00, "Transport":5120.00},
+			"2015-01": {"total":3840.00, "Transport":3840.00},
+			"2015-02": {"total":4946.00, "Transport":4946.00},
+			"2015-03": {"total":9180.00, "Transport":9180.00},
+			"2015-04": {"total":5632.00, "Transport":5632.00},
+			"2015-05": {"total":2730.00, "Transport":2730.00},
+			"2015-06": {"total":3588.00, "Transport":3588.00},
+			"2015-07": {"total":5632.00, "Transport":5632.00},
+			"2015-08": {"total":3328.00, "Transport":3328.00},
+			"2015-10": {"total":8084.00, "Transport":8084.00},
+			"2015-11": {"total":6506.00, "Transport":6506.00},
+			"2015-12": {"total":8143.00, "Transport":8143.00},
+			"2016-01": {"total":4712.00, "Transport":4712.00},
+			"2016-02": {"total":9498.00, "Transport":9498.00},
+			"2016-03": {"total":16801.00, "Transport":16801.00},
+			"2016-05": {"total":6360.00, "Transport":6360.00},
+			"2016-06": {"total":7991.00, "Transport":7991.00},
+			"2016-07": {"total":7812.20, "Transport":7812.20},
+			"2016-08": {"total":5908.00, "Transport":5908.00},
+			"2016-10": {"total":8058.00, "Transport":8058.00},
+			"2016-11": {"total":6992.00, "Transport":6992.00},
+			"2016-12": {"total":9614.00, "Transport":9614.00},
+			"2017-01": {"total":5244.00, "Transport":5244.00},
+			"2017-02": {"total":9113.00, "Transport":9113.00},
+			"2017-03": {"total":33212.00, "Transport":33212.00},
+			"2017-05": {"total":4118.00, "Transport":4118.00},
+			"2017-06": {"total":8303.00, "Transport":8303.00},
+			"2017-07": {"total":8488.00, "Transport":8488.00},
+			"2017-08": {"total":6367.00, "Transport":6367.00},
+			"2017-10": {"total":6747.00, "Transport":6747.00},
+			"2017-12": {"total":8250.00, "Transport":8250.00},
+			"2018-01": {"total":6000.00, "Transport":6000.00},
+			"2018-02": {"total":13312.00, "Transport":13312.00},
+			"2018-03": {"total":12468.50, "Transport":12468.50},
+			"2018-05": {"total":3937.00, "Transport":3937.00},
+			"2018-06": {"total":6562.00, "Transport":6562.00},
+			"2018-07": {"total":7500.00, "Transport":7500.00},
+			"2018-08": {"total":5625.00, "Transport":5625.00},
+			"2018-10": {"total":5683.00, "Transport":5683.00}
+		}
+	},
+	"7493": {
+		"name": "WARDLEY COMMUNITY FOR CHANGE",
+		"total": 5512.3,
+		"monthly": {
+			"2014-10": {"total":1009.85, "Supplies and Services":1009.85},
+			"2014-11": {"total":1009.85, "Supplies and Services":1009.85},
+			"2015-07": {"total":500.00, "Supplies and Services":500.00},
+			"2015-11": {"total":1075.60, "Supplies and Services":1075.60},
+			"2017-05": {"total":936.00, "Supplies and Services":936.00},
+			"2017-12": {"total":981.00, "Supplies and Services":981.00}
+		}
+	},
+	"7494": {
 		"name": "WARDLEY FOOTBALL CLUB",
 		"total": 986,
 		"monthly": {
 			"2012-03": {"total":986.00, "Supplies and Services":986.00}
 		}
 	},
-	"7451": {
+	"7495": {
 		"name": "WARDLEY GATE CARE CENTRE",
-		"total": 6975741.73000001,
+		"total": 6849851.55000001,
 		"monthly": {
 			"2015-04": {"total":30516.96, "Third Party Payments":25068.44, "Income: Fees and Charges":5448.52},
-			"2015-05": {"total":47085.59, "Income: Fees and Charges":10667.16, "Supplies and Services":1000.00, "Third Party Payments":35418.43},
+			"2015-05": {"total":47085.59, "Supplies and Services":1000.00, "Third Party Payments":35418.43, "Income: Fees and Charges":10667.16},
 			"2015-06": {"total":59726.94, "Third Party Payments":45417.72, "Income: Fees and Charges":14309.22},
 			"2015-07": {"total":98717.49, "Income: Fees and Charges":22562.07, "Third Party Payments":76155.42},
 			"2015-08": {"total":127386.92, "Third Party Payments":97367.17, "Income: Fees and Charges":30019.75},
-			"2015-09": {"total":101341.14, "Income: Fees and Charges":22557.53, "Third Party Payments":78783.61},
-			"2015-10": {"total":112052.14, "Third Party Payments":79975.87, "Income: Fees and Charges":32076.27},
-			"2015-11": {"total":260396.71, "Income: Fees and Charges":62321.77, "Third Party Payments":198074.94},
+			"2015-09": {"total":101341.14, "Third Party Payments":78783.61, "Income: Fees and Charges":22557.53},
+			"2015-10": {"total":112052.14, "Income: Fees and Charges":32076.27, "Third Party Payments":79975.87},
+			"2015-11": {"total":260396.71, "Third Party Payments":198074.94, "Income: Fees and Charges":62321.77},
 			"2015-12": {"total":303142.10, "Third Party Payments":229780.56, "Income: Fees and Charges":73361.54},
-			"2016-01": {"total":125185.18, "Third Party Payments":96961.82, "Income: Fees and Charges":28223.36},
-			"2016-02": {"total":154164.76, "Income: Fees and Charges":33159.51, "Third Party Payments":121005.25},
-			"2016-03": {"total":170617.51, "Income: Fees and Charges":38530.63, "Third Party Payments":132086.88},
+			"2016-01": {"total":125185.18, "Income: Fees and Charges":28223.36, "Third Party Payments":96961.82},
+			"2016-02": {"total":154164.76, "Third Party Payments":121005.25, "Income: Fees and Charges":33159.51},
+			"2016-03": {"total":170617.51, "Third Party Payments":132086.88, "Income: Fees and Charges":38530.63},
 			"2016-04": {"total":154887.34, "Income: Fees and Charges":33358.19, "Third Party Payments":121529.15},
-			"2016-05": {"total":164076.01, "Third Party Payments":126667.45, "Income: Fees and Charges":37408.56},
+			"2016-05": {"total":164076.01, "Income: Fees and Charges":37408.56, "Third Party Payments":126667.45},
 			"2016-06": {"total":137664.95, "Income: Fees and Charges":38465.96, "Third Party Payments":99198.99},
 			"2016-07": {"total":160672.65, "Third Party Payments":130602.51, "Income: Fees and Charges":30070.14},
 			"2016-08": {"total":206031.34, "Third Party Payments":156693.30, "Income: Fees and Charges":49338.04},
-			"2016-09": {"total":156921.02, "Third Party Payments":114201.23, "Income: Fees and Charges":42719.79},
-			"2016-10": {"total":142645.66, "Third Party Payments":106657.57, "Income: Fees and Charges":35988.09},
+			"2016-09": {"total":156921.02, "Income: Fees and Charges":42719.79, "Third Party Payments":114201.23},
+			"2016-10": {"total":142645.66, "Income: Fees and Charges":35988.09, "Third Party Payments":106657.57},
 			"2016-11": {"total":310247.36, "Third Party Payments":251608.30, "Income: Fees and Charges":58639.06},
-			"2016-12": {"total":171545.86, "Third Party Payments":138931.25, "Income: Fees and Charges":32614.61},
-			"2017-01": {"total":154278.37, "Third Party Payments":120179.86, "Income: Fees and Charges":34098.51},
+			"2016-12": {"total":171545.86, "Income: Fees and Charges":32614.61, "Third Party Payments":138931.25},
+			"2017-01": {"total":154278.37, "Income: Fees and Charges":34098.51, "Third Party Payments":120179.86},
 			"2017-02": {"total":165100.86, "Third Party Payments":124781.14, "Income: Fees and Charges":40319.72},
 			"2017-03": {"total":275883.74, "Income: Fees and Charges":62539.74, "Third Party Payments":213344.00},
 			"2017-04": {"total":132550.14, "Income: Fees and Charges":29868.82, "Third Party Payments":102681.32},
-			"2017-05": {"total":137935.26, "Income: Fees and Charges":30298.11, "Third Party Payments":107637.15},
+			"2017-05": {"total":137935.26, "Third Party Payments":107637.15, "Income: Fees and Charges":30298.11},
 			"2017-06": {"total":149045.04, "Income: Fees and Charges":35853.10, "Third Party Payments":113191.94},
 			"2017-07": {"total":186154.63, "Third Party Payments":149534.99, "Income: Fees and Charges":36619.64},
+			"2017-08": {"total":151384.51, "Third Party Payments":116039.56, "Income: Fees and Charges":35344.95},
 			"2017-09": {"total":153100.92, "Third Party Payments":120403.00, "Income: Fees and Charges":32697.92},
-			"2017-11": {"total":291280.54, "Income: Fees and Charges":70150.41, "Third Party Payments":221130.13},
+			"2017-10": {"total":150375.79, "Third Party Payments":114162.85, "Income: Fees and Charges":36212.94},
 			"2017-12": {"total":140716.69, "Income: Fees and Charges":34107.69, "Third Party Payments":106609.00},
-			"2018-01": {"total":272739.88, "Income: Fees and Charges":53811.02, "Third Party Payments":218928.86},
-			"2018-02": {"total":300743.68, "Income: Fees and Charges":61350.18, "Third Party Payments":239393.50},
+			"2018-01": {"total":136369.94, "Income: Fees and Charges":26905.51, "Third Party Payments":109464.43},
+			"2018-02": {"total":300743.68, "Third Party Payments":239393.50, "Income: Fees and Charges":61350.18},
 			"2018-03": {"total":154706.95, "Income: Fees and Charges":34293.08, "Third Party Payments":120413.87},
-			"2018-04": {"total":149097.64, "Third Party Payments":116388.57, "Income: Fees and Charges":32709.07},
+			"2018-04": {"total":149097.64, "Income: Fees and Charges":32709.07, "Third Party Payments":116388.57},
 			"2018-05": {"total":152217.02, "Third Party Payments":116988.45, "Income: Fees and Charges":35228.57},
 			"2018-06": {"total":169008.04, "Third Party Payments":124569.43, "Income: Fees and Charges":44438.61},
-			"2018-07": {"total":170300.79, "Third Party Payments":138362.84, "Income: Fees and Charges":31937.95},
+			"2018-07": {"total":170300.79, "Income: Fees and Charges":31937.95, "Third Party Payments":138362.84},
 			"2018-08": {"total":143987.06, "Income: Fees and Charges":30137.33, "Third Party Payments":113849.73},
 			"2018-09": {"total":143463.92, "Income: Fees and Charges":31134.92, "Third Party Payments":112329.00},
-			"2018-10": {"total":338404.93, "Third Party Payments":267004.58, "Income: Fees and Charges":71400.35}
+			"2018-10": {"total":338404.93, "Income: Fees and Charges":71400.35, "Third Party Payments":267004.58}
 		}
 	},
-	"7452": {
+	"7496": {
 		"name": "WARDLEY PRIMARY SCHOOL",
 		"total": 3000,
 		"monthly": {
@@ -63,7 +813,7 @@
 			"2017-06": {"total":1500.00, "Third Party Payments":1500.00}
 		}
 	},
-	"7453": {
+	"7497": {
 		"name": "WARDLEY WOMENS SOCIAL CLUB",
 		"total": 2252.89,
 		"monthly": {
@@ -71,14 +821,14 @@
 			"2012-02": {"total":1185.00, "Supplies and Services":1185.00}
 		}
 	},
-	"7454": {
+	"7498": {
 		"name": "WARM GLASS",
 		"total": 427.12,
 		"monthly": {
 			"2011-10": {"total":427.12, "Supplies and Services":427.12}
 		}
 	},
-	"7455": {
+	"7499": {
 		"name": "WARM ZONE LTD",
 		"total": 544419.56,
 		"monthly": {
@@ -99,699 +849,6 @@
 			"2013-10": {"total":15331.47, "Works":15331.47},
 			"2014-02": {"total":21194.14, "Works":21194.14},
 			"2016-05": {"total":5000.00, "Third Party Payments":5000.00}
-		}
-	},
-	"7456": {
-		"name": "WARMHOMES INSULATION LTD",
-		"total": 3000,
-		"monthly": {
-			"2017-04": {"total":3000.00, "Third Party Payments":3000.00}
-		}
-	},
-	"7457": {
-		"name": "WARMSEAL WINDOWS (NEWCASTLE) LTD",
-		"total": 5184850.69,
-		"monthly": {
-			"2010-12": {"total":194226.93, "Local Environmental Services":194226.93},
-			"2011-01": {"total":145461.02, "Local Environmental Services":145461.02},
-			"2011-02": {"total":227719.22, "Local Environmental Services":227719.22},
-			"2011-03": {"total":319852.04, "Local Environmental Services":319852.04},
-			"2011-04": {"total":152421.18, "Local Environmental Services":152421.18},
-			"2011-05": {"total":188319.80, "Local Environmental Services":188319.80},
-			"2011-06": {"total":290629.43, "Local Environmental Services":290629.43},
-			"2011-07": {"total":167044.24, "Supplies and Services":167044.24},
-			"2011-08": {"total":125147.11, "Third Party Payments":2997.60, "Supplies and Services":122149.51},
-			"2011-09": {"total":397131.07, "Third Party Payments":5653.16, "Supplies and Services":391477.91},
-			"2011-10": {"total":631851.36, "Supplies and Services":631851.36},
-			"2011-11": {"total":656826.17, "Third Party Payments":4499.04, "Supplies and Services":652327.13},
-			"2011-12": {"total":563974.17, "Supplies and Services":563974.17},
-			"2012-01": {"total":366782.40, "Supplies and Services":338774.69, "Third Party Payments":28007.71},
-			"2012-02": {"total":63012.78, "Supplies and Services":63012.78},
-			"2012-03": {"total":25301.81, "Supplies and Services":25301.81},
-			"2012-04": {"total":38097.01, "Third Party Payments":7766.72, "Supplies and Services":30330.29},
-			"2012-06": {"total":29945.18, "Supplies and Services":29945.18},
-			"2012-07": {"total":21945.97, "Supplies and Services":20656.77, "Premises":1289.20},
-			"2012-08": {"total":4869.34, "Supplies and Services":4869.34},
-			"2012-09": {"total":11956.03, "Supplies and Services":11956.03},
-			"2012-10": {"total":5216.85, "Supplies and Services":2352.88, "Premises":2863.97},
-			"2012-11": {"total":12469.27, "Supplies and Services":5847.63, "Third Party Payments":6621.64},
-			"2013-01": {"total":571.98, "Supplies and Services":571.98},
-			"2013-02": {"total":55825.59, "Supplies and Services":55825.59},
-			"2013-03": {"total":37867.66, "Supplies and Services":37867.66},
-			"2013-04": {"total":50183.80, "Supplies and Services":50183.80},
-			"2013-05": {"total":130189.88, "Supplies and Services":130189.88},
-			"2013-06": {"total":14300.76, "Supplies and Services":14300.76},
-			"2013-07": {"total":15031.62, "Third Party Payments":1345.67, "Supplies and Services":13685.95},
-			"2013-08": {"total":4384.50, "Supplies and Services":4384.50},
-			"2013-09": {"total":8112.30, "Supplies and Services":8112.30},
-			"2013-10": {"total":12244.15, "Supplies and Services":12244.15},
-			"2013-12": {"total":49726.20, "Supplies and Services":49726.20},
-			"2014-01": {"total":3510.20, "Supplies and Services":3510.20},
-			"2014-02": {"total":17123.63, "Supplies and Services":17123.63},
-			"2014-03": {"total":23635.83, "Supplies and Services":23635.83},
-			"2014-04": {"total":2508.93, "Supplies and Services":2508.93},
-			"2014-05": {"total":2007.61, "Supplies and Services":2007.61},
-			"2014-06": {"total":47733.74, "Supplies and Services":47733.74},
-			"2014-07": {"total":6785.04, "Supplies and Services":6785.04},
-			"2014-08": {"total":18107.63, "Supplies and Services":18107.63},
-			"2014-09": {"total":668.50, "Supplies and Services":668.50},
-			"2014-11": {"total":5621.84, "Supplies and Services":5621.84},
-			"2014-12": {"total":13675.66, "Supplies and Services":13675.66},
-			"2015-01": {"total":2044.81, "Supplies and Services":2044.81},
-			"2015-03": {"total":6571.08, "Supplies and Services":6571.08},
-			"2015-04": {"total":2533.45, "Supplies and Services":2533.45},
-			"2015-05": {"total":1794.43, "Premises":1794.43},
-			"2015-06": {"total":2302.60, "Supplies and Services":2302.60},
-			"2015-07": {"total":8738.55, "Supplies and Services":8738.55},
-			"2015-08": {"total":848.34, "Supplies and Services":848.34}
-		}
-	},
-	"7458": {
-		"name": "WARREN ACCESS",
-		"total": 9593.62,
-		"monthly": {
-			"2011-09": {"total":595.00, "Transport":595.00},
-			"2011-11": {"total":1015.00, "Employees":1015.00},
-			"2011-12": {"total":1954.44, "Transport":1954.44},
-			"2012-01": {"total":865.00, "Transport":865.00},
-			"2012-02": {"total":513.00, "Transport":513.00},
-			"2012-03": {"total":1778.28, "Transport":1313.28, "Employees":465.00},
-			"2012-05": {"total":788.40, "Transport":788.40},
-			"2012-06": {"total":750.50, "Transport":750.50},
-			"2012-07": {"total":914.00, "Transport":914.00},
-			"2012-09": {"total":420.00, "Transport":420.00}
-		}
-	},
-	"7459": {
-		"name": "WARREN ACCESS LTD",
-		"total": 106097.73,
-		"monthly": {
-			"2012-11": {"total":570.00, "Employees":570.00},
-			"2013-01": {"total":1270.00, "Transport":700.00, "Employees":570.00},
-			"2013-02": {"total":700.00, "Transport":700.00},
-			"2013-03": {"total":700.00, "Transport":700.00},
-			"2013-05": {"total":3273.06, "Transport":3273.06},
-			"2013-10": {"total":1360.00, "Transport":1360.00},
-			"2014-01": {"total":3215.31, "Transport":3215.31},
-			"2014-02": {"total":3331.32, "Transport":3331.32},
-			"2014-03": {"total":1928.94, "Transport":1928.94},
-			"2014-04": {"total":1632.50, "Transport":1282.50, "Employees":350.00},
-			"2014-05": {"total":923.00, "Transport":923.00},
-			"2014-06": {"total":2818.00, "Transport":2293.00, "Supplies and Services":525.00},
-			"2014-07": {"total":1370.00, "Transport":1370.00},
-			"2014-08": {"total":3010.00, "Transport":2210.00, "Employees":800.00},
-			"2014-09": {"total":1920.00, "Supplies and Services":1920.00},
-			"2014-12": {"total":1420.00, "Supplies and Services":461.00, "Transport":959.00},
-			"2015-01": {"total":5300.10, "Transport":5300.10},
-			"2015-02": {"total":1670.00, "Employees":710.00, "Transport":960.00},
-			"2015-03": {"total":2192.00, "Transport":2192.00},
-			"2015-04": {"total":576.00, "Transport":576.00},
-			"2015-05": {"total":576.00, "Transport":576.00},
-			"2015-06": {"total":2169.00, "Transport":2169.00},
-			"2015-07": {"total":1740.00, "Transport":1740.00},
-			"2015-08": {"total":968.00, "Transport":968.00},
-			"2015-09": {"total":1040.00, "Transport":1040.00},
-			"2015-10": {"total":2460.00, "Transport":2460.00},
-			"2015-11": {"total":3035.00, "Employees":1200.00, "Transport":1835.00},
-			"2016-02": {"total":2750.00, "Employees":780.00, "Transport":1620.00, "Supplies and Services":350.00},
-			"2016-03": {"total":3939.00, "Transport":3159.00, "Employees":780.00},
-			"2016-04": {"total":1985.00, "Transport":685.00, "Employees":1300.00},
-			"2016-05": {"total":4811.00, "Employees":910.00, "Transport":3901.00},
-			"2016-06": {"total":3591.00, "Transport":3591.00},
-			"2016-07": {"total":4014.00, "Transport":4014.00},
-			"2016-08": {"total":1700.00, "Transport":1260.00, "Employees":440.00},
-			"2016-09": {"total":4149.00, "Employees":610.00, "Transport":3539.00},
-			"2016-10": {"total":2246.00, "Employees":705.00, "Transport":1541.00},
-			"2016-11": {"total":420.00, "Transport":420.00},
-			"2016-12": {"total":890.00, "Employees":470.00, "Transport":420.00},
-			"2017-01": {"total":1390.00, "Employees":1390.00},
-			"2017-02": {"total":2001.00, "Transport":2001.00},
-			"2017-03": {"total":2232.80, "Employees":860.00, "Transport":1372.80},
-			"2017-05": {"total":686.40, "Transport":686.40},
-			"2017-07": {"total":1830.40, "Transport":1830.40},
-			"2017-09": {"total":1105.00, "Transport":1105.00},
-			"2017-11": {"total":3897.90, "Transport":3897.90},
-			"2017-12": {"total":1370.00, "Transport":1370.00},
-			"2018-01": {"total":3570.00, "Transport":1370.00, "Employees":2200.00},
-			"2018-03": {"total":1545.00, "Transport":1545.00},
-			"2018-04": {"total":975.00, "Transport":975.00},
-			"2018-05": {"total":420.00, "Transport":420.00},
-			"2018-06": {"total":646.00, "Transport":646.00},
-			"2018-07": {"total":1690.00, "Transport":1690.00},
-			"2018-10": {"total":1075.00, "Transport":1075.00}
-		}
-	},
-	"7460": {
-		"name": "WARWICK I C SYSTEMS LTD",
-		"total": 36216.6,
-		"monthly": {
-			"2011-07": {"total":4293.00, "Supplies and Services":4293.00},
-			"2012-06": {"total":4631.00, "Supplies and Services":4631.00},
-			"2013-07": {"total":4765.00, "Supplies and Services":4765.00},
-			"2014-08": {"total":4040.00, "Supplies and Services":4040.00},
-			"2015-07": {"total":4172.00, "Supplies and Services":4172.00},
-			"2016-06": {"total":4295.00, "Supplies and Services":4295.00},
-			"2017-06": {"total":4467.00, "Supplies and Services":4467.00},
-			"2018-08": {"total":5553.60, "Supplies and Services":5553.60}
-		}
-	},
-	"7461": {
-		"name": "WARWICKSHIRE C.C.",
-		"total": 20678.21,
-		"monthly": {
-			"2013-02": {"total":8758.66, "Third Party Payments":8758.66},
-			"2014-06": {"total":2919.55, "Third Party Payments":2919.55},
-			"2015-10": {"total":9000.00, "Third Party Payments":9000.00}
-		}
-	},
-	"7462": {
-		"name": "WASHINGTON DIRECT MAIL",
-		"total": 46537.99,
-		"monthly": {
-			"2016-04": {"total":1499.43, "Supplies and Services":1499.43},
-			"2016-05": {"total":4217.66, "Supplies and Services":4217.66},
-			"2017-06": {"total":4267.02, "Supplies and Services":4267.02},
-			"2017-12": {"total":11159.95, "Supplies and Services":11159.95},
-			"2018-01": {"total":9281.86, "Supplies and Services":9281.86},
-			"2018-02": {"total":2423.80, "Supplies and Services":2423.80},
-			"2018-03": {"total":11494.78, "Supplies and Services":11494.78},
-			"2018-05": {"total":672.38, "Supplies and Services":672.38},
-			"2018-09": {"total":1521.11, "Supplies and Services":1521.11}
-		}
-	},
-	"7463": {
-		"name": "WASHINGTON LODGE CARE HOME",
-		"total": 115711.49,
-		"monthly": {
-			"2011-12": {"total":7505.70, "Income: Customer and Client Receipts":1639.50, "Third Party Payments":5866.20},
-			"2012-01": {"total":5003.80, "Income: Customer and Client Receipts":1093.00, "Third Party Payments":3910.80},
-			"2012-02": {"total":10007.60, "Third Party Payments":7821.60, "Income: Customer and Client Receipts":2186.00},
-			"2012-03": {"total":5003.80, "Third Party Payments":3910.80, "Income: Customer and Client Receipts":1093.00},
-			"2012-06": {"total":15135.15, "Income: Customer and Client Receipts":3402.75, "Third Party Payments":11732.40},
-			"2012-07": {"total":7040.30, "Income: Customer and Client Receipts":3129.50, "Third Party Payments":3910.80},
-			"2012-08": {"total":4007.23, "Third Party Payments":4007.23},
-			"2012-09": {"total":7784.39, "Third Party Payments":3857.54, "Income: Customer and Client Receipts":3926.85},
-			"2012-10": {"total":4344.46, "Income: Customer and Client Receipts":1444.78, "Third Party Payments":2899.68},
-			"2012-11": {"total":2222.80, "Third Party Payments":2222.80},
-			"2013-01": {"total":4445.60, "Third Party Payments":4445.60},
-			"2013-02": {"total":2222.80, "Third Party Payments":2222.80},
-			"2013-03": {"total":4445.60, "Third Party Payments":4445.60},
-			"2013-10": {"total":4445.60, "Supplies and Services":4445.60},
-			"2015-03": {"total":4026.70, "Third Party Payments":3014.28, "Income: Fees and Charges":1012.42},
-			"2016-07": {"total":9129.48, "Third Party Payments":6761.20, "Income: Fees and Charges":2368.28},
-			"2016-08": {"total":2367.56, "Income: Fees and Charges":613.08, "Third Party Payments":1754.48},
-			"2016-09": {"total":2367.56, "Income: Fees and Charges":613.08, "Third Party Payments":1754.48},
-			"2016-10": {"total":2367.56, "Third Party Payments":1754.48, "Income: Fees and Charges":613.08},
-			"2016-11": {"total":4735.12, "Income: Fees and Charges":1226.16, "Third Party Payments":3508.96},
-			"2016-12": {"total":2367.56, "Third Party Payments":1754.48, "Income: Fees and Charges":613.08},
-			"2017-01": {"total":2367.56, "Income: Fees and Charges":613.08, "Third Party Payments":1754.48},
-			"2017-02": {"total":2367.56, "Income: Fees and Charges":613.08, "Third Party Payments":1754.48}
-		}
-	},
-	"7464": {
-		"name": "WASHINGTON MANOR CARE HOME",
-		"total": 53507.38,
-		"monthly": {
-			"2011-08": {"total":5566.54, "Third Party Payments":4259.29, "Income: Customer and Client Receipts":1307.25},
-			"2011-09": {"total":2346.24, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":566.24},
-			"2011-11": {"total":4692.48, "Third Party Payments":3560.00, "Income: Customer and Client Receipts":1132.48},
-			"2011-12": {"total":2346.24, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":566.24},
-			"2012-01": {"total":2346.24, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":566.24},
-			"2012-02": {"total":4692.48, "Income: Customer and Client Receipts":1132.48, "Third Party Payments":3560.00},
-			"2012-03": {"total":2346.24, "Income: Customer and Client Receipts":566.24, "Third Party Payments":1780.00},
-			"2012-04": {"total":2362.71, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":582.71},
-			"2012-05": {"total":2368.20, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":588.20},
-			"2012-06": {"total":2372.58, "Income: Customer and Client Receipts":592.58, "Third Party Payments":1780.00},
-			"2012-07": {"total":2362.36, "Income: Customer and Client Receipts":582.36, "Third Party Payments":1780.00},
-			"2012-08": {"total":2362.36, "Income: Customer and Client Receipts":582.36, "Third Party Payments":1780.00},
-			"2012-09": {"total":2362.36, "Third Party Payments":1780.00, "Income: Customer and Client Receipts":582.36},
-			"2012-10": {"total":337.48, "Third Party Payments":254.29, "Income: Customer and Client Receipts":83.19},
-			"2018-06": {"total":3825.66, "Third Party Payments":3174.23, "Income: Fees and Charges":651.43},
-			"2018-07": {"total":2677.96, "Third Party Payments":2221.96, "Income: Fees and Charges":456.00},
-			"2018-08": {"total":2677.96, "Income: Fees and Charges":456.00, "Third Party Payments":2221.96},
-			"2018-09": {"total":3085.97, "Third Party Payments":2221.96, "Income: Fees and Charges":864.01},
-			"2018-10": {"total":2375.32, "Third Party Payments":1780.00, "Income: Fees and Charges":595.32}
-		}
-	},
-	"7465": {
-		"name": "WASHINGTON METALWORKS LTD",
-		"total": 6595.64,
-		"monthly": {
-			"2011-03": {"total":367.68, "Community Based Services":367.68},
-			"2011-09": {"total":595.25, "Supplies and Services":595.25},
-			"2011-11": {"total":1329.30, "Supplies and Services":1329.30},
-			"2012-03": {"total":537.32, "Supplies and Services":537.32},
-			"2013-05": {"total":550.00, "Supplies and Services":550.00},
-			"2013-07": {"total":2861.09, "Supplies and Services":2861.09},
-			"2013-08": {"total":355.00, "Supplies and Services":355.00}
-		}
-	},
-	"7466": {
-		"name": "WASHINGTON MIND",
-		"total": 31625,
-		"monthly": {
-			"2014-03": {"total":13355.00, "Employees":1905.00, "Third Party Payments":11450.00},
-			"2014-05": {"total":1125.00, "Employees":1125.00},
-			"2014-06": {"total":1270.00, "Employees":1270.00},
-			"2014-07": {"total":2540.00, "Employees":2540.00},
-			"2014-11": {"total":1270.00, "Employees":1270.00},
-			"2014-12": {"total":635.00, "Employees":635.00},
-			"2015-01": {"total":1905.00, "Employees":1905.00},
-			"2015-02": {"total":1905.00, "Employees":1905.00},
-			"2015-04": {"total":635.00, "Employees":635.00},
-			"2016-01": {"total":2540.00, "Supplies and Services":2540.00},
-			"2016-12": {"total":4445.00, "Supplies and Services":4445.00}
-		}
-	},
-	"7467": {
-		"name": "WASHINGWELL COMM. PRE-SCHOOL",
-		"total": 594139.33,
-		"monthly": {
-			"2010-12": {"total":14455.64, "Learning and Children":14455.64},
-			"2011-02": {"total":13978.41, "Learning and Children":13978.41},
-			"2011-05": {"total":23941.61, "Learning and Children":23941.61},
-			"2011-06": {"total":5942.67, "Learning and Children":5942.67},
-			"2011-09": {"total":21675.22, "Supplies and Services":21675.22},
-			"2011-10": {"total":3000.00, "Supplies and Services":3000.00},
-			"2011-11": {"total":21678.21, "Supplies and Services":21678.21},
-			"2012-01": {"total":18331.73, "Supplies and Services":18331.73},
-			"2012-03": {"total":7932.45, "Supplies and Services":7932.45},
-			"2012-04": {"total":18847.85, "Supplies and Services":18847.85},
-			"2012-06": {"total":8077.65, "Supplies and Services":8077.65},
-			"2012-08": {"total":14711.45, "Supplies and Services":14711.45},
-			"2012-09": {"total":3200.00, "Supplies and Services":3200.00},
-			"2012-11": {"total":5045.11, "Supplies and Services":5045.11},
-			"2013-03": {"total":7425.91, "Supplies and Services":7425.91},
-			"2013-04": {"total":17541.08, "Supplies and Services":17541.08},
-			"2013-06": {"total":7705.34, "Supplies and Services":7705.34},
-			"2013-09": {"total":13605.22, "Supplies and Services":13605.22},
-			"2013-12": {"total":54817.29, "Supplies and Services":54817.29},
-			"2014-03": {"total":8500.36, "Supplies and Services":8500.36},
-			"2014-04": {"total":18740.95, "Supplies and Services":18740.95},
-			"2014-06": {"total":8701.16, "Supplies and Services":8701.16},
-			"2014-08": {"total":19884.55, "Supplies and Services":19884.55},
-			"2014-11": {"total":7026.87, "Supplies and Services":7026.87},
-			"2014-12": {"total":23426.19, "Supplies and Services":23426.19},
-			"2015-03": {"total":20695.04, "Supplies and Services":20695.04},
-			"2015-04": {"total":23641.60, "Supplies and Services":23641.60},
-			"2015-06": {"total":11180.38, "Supplies and Services":11180.38},
-			"2015-08": {"total":17638.13, "Supplies and Services":17638.13},
-			"2015-10": {"total":8321.30, "Supplies and Services":8321.30},
-			"2015-12": {"total":17378.33, "Supplies and Services":17378.33},
-			"2016-03": {"total":9378.96, "Supplies and Services":9378.96},
-			"2016-04": {"total":25660.26, "Supplies and Services":25660.26},
-			"2016-06": {"total":7351.34, "Supplies and Services":7351.34},
-			"2016-09": {"total":17741.76, "Supplies and Services":17741.76},
-			"2016-11": {"total":3830.84, "Supplies and Services":3830.84},
-			"2017-01": {"total":20737.12, "Supplies and Services":20737.12},
-			"2017-02": {"total":8023.50, "Supplies and Services":8023.50},
-			"2017-04": {"total":23923.94, "Supplies and Services":23923.94},
-			"2017-06": {"total":10443.91, "Supplies and Services":10443.91}
-		}
-	},
-	"7468": {
-		"name": "WASHINTON DIRECT MAIL",
-		"total": 55270.83,
-		"monthly": {
-			"2012-02": {"total":2182.34, "Supplies and Services":2182.34},
-			"2012-03": {"total":893.00, "Supplies and Services":893.00},
-			"2012-07": {"total":1373.00, "Supplies and Services":1373.00},
-			"2012-09": {"total":548.00, "Supplies and Services":548.00},
-			"2013-01": {"total":1840.00, "Supplies and Services":1840.00},
-			"2013-02": {"total":2808.61, "Supplies and Services":2808.61},
-			"2013-05": {"total":1152.20, "Supplies and Services":1152.20},
-			"2013-08": {"total":2196.80, "Supplies and Services":2196.80},
-			"2013-09": {"total":572.95, "Supplies and Services":572.95},
-			"2014-01": {"total":1845.44, "Supplies and Services":1845.44},
-			"2014-02": {"total":440.00, "Supplies and Services":440.00},
-			"2014-03": {"total":5282.87, "Supplies and Services":5282.87},
-			"2014-04": {"total":3313.78, "Supplies and Services":3313.78},
-			"2014-05": {"total":2085.58, "Supplies and Services":2085.58},
-			"2014-09": {"total":578.09, "Supplies and Services":578.09},
-			"2014-12": {"total":1453.92, "Supplies and Services":1453.92},
-			"2015-02": {"total":3084.20, "Supplies and Services":3084.20},
-			"2015-03": {"total":2423.26, "Supplies and Services":2423.26},
-			"2015-04": {"total":18373.00, "Supplies and Services":18373.00},
-			"2016-01": {"total":818.79, "Supplies and Services":818.79},
-			"2016-02": {"total":2005.00, "Supplies and Services":2005.00}
-		}
-	},
-	"7469": {
-		"name": "WASTE ACTION RESOURCE EFFICIENCY LTD",
-		"total": 1700,
-		"monthly": {
-			"2012-03": {"total":1700.00, "Supplies and Services":1700.00}
-		}
-	},
-	"7470": {
-		"name": "WASTE CARE",
-		"total": 2741,
-		"monthly": {
-			"2011-10": {"total":1346.00, "Purchase of Equipment":1346.00},
-			"2012-04": {"total":1395.00, "Purchase of Equipment":1395.00}
-		}
-	},
-	"7471": {
-		"name": "WASTE WATCH",
-		"total": 51199,
-		"monthly": {
-			"2010-12": {"total":14531.00, "Local Environmental Services":14531.00},
-			"2011-02": {"total":22700.00, "Local Environmental Services":22700.00},
-			"2011-03": {"total":13968.00, "Local Environmental Services":13968.00}
-		}
-	},
-	"7472": {
-		"name": "WASTEPARTS UK LTD",
-		"total": 9063.72,
-		"monthly": {
-			"2014-01": {"total":665.00, "Transport":665.00},
-			"2015-01": {"total":1118.12, "Transport":1118.12},
-			"2015-05": {"total":646.36, "Transport":646.36},
-			"2015-06": {"total":646.36, "Transport":646.36},
-			"2015-10": {"total":540.90, "Transport":540.90},
-			"2016-08": {"total":705.98, "Transport":705.98},
-			"2016-10": {"total":646.36, "Transport":646.36},
-			"2016-11": {"total":1408.64, "Transport":1408.64},
-			"2017-03": {"total":2036.00, "Transport":2036.00},
-			"2017-11": {"total":650.00, "Transport":650.00}
-		}
-	},
-	"7473": {
-		"name": "WATER MANAGEMENT SOCIETY",
-		"total": 798,
-		"monthly": {
-			"2011-11": {"total":388.00, "Employees":388.00},
-			"2014-08": {"total":410.00, "Employees":410.00}
-		}
-	},
-	"7474": {
-		"name": "WATERCOOLERSDIRECT.COM LTD",
-		"total": 8245.05,
-		"monthly": {
-			"2014-09": {"total":352.89, "Supplies and Services":352.89},
-			"2015-10": {"total":400.00, "Supplies and Services":400.00},
-			"2015-11": {"total":600.00, "Premises":600.00},
-			"2016-01": {"total":488.94, "Premises":488.94},
-			"2016-03": {"total":1116.00, "Supplies and Services":1116.00},
-			"2016-09": {"total":1316.00, "Supplies and Services":716.00, "Premises":600.00},
-			"2017-02": {"total":516.95, "Premises":516.95},
-			"2017-11": {"total":612.00, "Premises":612.00},
-			"2017-12": {"total":737.48, "Premises":737.48},
-			"2018-09": {"total":1241.95, "Premises":1241.95},
-			"2018-10": {"total":862.84, "Supplies and Services":862.84}
-		}
-	},
-	"7475": {
-		"name": "WATERLOO HOUSE REST HOME",
-		"total": 21780.84,
-		"monthly": {
-			"2011-12": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-02": {"total":5303.16, "Third Party Payments":5303.16},
-			"2012-03": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-04": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-05": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-06": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-07": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-09": {"total":3535.44, "Third Party Payments":3535.44},
-			"2012-10": {"total":1767.72, "Third Party Payments":1767.72},
-			"2012-11": {"total":568.20, "Third Party Payments":568.20}
-		}
-	},
-	"7476": {
-		"name": "WATERMARK INVESTMENTS LTD",
-		"total": 82742.12,
-		"monthly": {
-			"2013-10": {"total":27673.64, "Premises":27673.64},
-			"2014-02": {"total":1356.16, "Premises":1356.16},
-			"2014-03": {"total":26856.16, "Premises":26856.16},
-			"2014-05": {"total":25500.00, "Premises":25500.00},
-			"2014-08": {"total":1356.16, "Premises":1356.16}
-		}
-	},
-	"7477": {
-		"name": "WATERSEAL LTD",
-		"total": 9444.3,
-		"monthly": {
-			"2010-12": {"total":536.20, "Local Environmental Services":536.20},
-			"2011-09": {"total":630.00, "Supplies and Services":630.00},
-			"2012-02": {"total":654.60, "Supplies and Services":654.60},
-			"2012-11": {"total":667.50, "Supplies and Services":667.50},
-			"2013-01": {"total":1811.00, "Supplies and Services":1811.00},
-			"2013-03": {"total":1095.00, "Supplies and Services":1095.00},
-			"2014-03": {"total":2000.00, "Supplies and Services":2000.00},
-			"2014-10": {"total":1150.00, "Supplies and Services":1150.00},
-			"2016-02": {"total":900.00, "Supplies and Services":900.00}
-		}
-	},
-	"7478": {
-		"name": "WATERSTONES BOOKSELLERS LTD",
-		"total": 6421.32,
-		"monthly": {
-			"2011-03": {"total":428.90, "Community Based Services":428.90},
-			"2011-11": {"total":1191.18, "Supplies and Services":1191.18},
-			"2013-05": {"total":424.79, "Supplies and Services":424.79},
-			"2013-10": {"total":504.19, "Supplies and Services":504.19},
-			"2014-02": {"total":613.63, "Supplies and Services":613.63},
-			"2014-03": {"total":869.51, "Supplies and Services":869.51},
-			"2015-03": {"total":1758.40, "Supplies and Services":1758.40},
-			"2015-06": {"total":630.72, "Employees":630.72}
-		}
-	},
-	"7479": {
-		"name": "WATKINS HIRE LTD",
-		"alternate-names": [
-			"WATKINS HIRE LIMITED"
-		],
-		"total": 38769,
-		"monthly": {
-			"2015-12": {"total":3248.50, "Supplies and Services":3248.50},
-			"2016-01": {"total":2626.08, "Supplies and Services":2626.08},
-			"2016-02": {"total":6720.40, "Supplies and Services":6720.40},
-			"2016-04": {"total":5170.40, "Supplies and Services":5170.40},
-			"2016-05": {"total":738.54, "Supplies and Services":738.54},
-			"2017-02": {"total":6144.00, "Supplies and Services":6144.00},
-			"2017-03": {"total":10488.00, "Supplies and Services":10488.00},
-			"2017-05": {"total":3633.08, "Supplies and Services":3633.08}
-		}
-	},
-	"7480": {
-		"name": "WATKISS AUTOMATION SALES LTD",
-		"total": 6510.24,
-		"monthly": {
-			"2013-09": {"total":461.65, "Supplies and Services":461.65},
-			"2014-09": {"total":515.96, "Supplies and Services":515.96},
-			"2015-06": {"total":635.67, "Supplies and Services":635.67},
-			"2016-06": {"total":720.50, "Supplies and Services":720.50},
-			"2016-09": {"total":1350.47, "Supplies and Services":1350.47},
-			"2017-12": {"total":2374.92, "Supplies and Services":2374.92},
-			"2018-09": {"total":451.07, "Supplies and Services":451.07}
-		}
-	},
-	"7481": {
-		"name": "WATSON BURTON",
-		"total": 3048.42,
-		"monthly": {
-			"2012-07": {"total":850.00, "Premises":850.00},
-			"2015-06": {"total":498.42, "Consultants":498.42},
-			"2015-07": {"total":1700.00, "Consultants":450.00, "Income: Customer and Client Receipts":1250.00}
-		}
-	},
-	"7482": {
-		"name": "WAUGH & CO",
-		"total": 1758.53,
-		"monthly": {
-			"2013-01": {"total":1758.53, "Premises":1758.53}
-		}
-	},
-	"7483": {
-		"name": "WAVERLEY LODGE CARE HOME",
-		"total": 18832.56,
-		"monthly": {
-			"2017-11": {"total":7738.90, "Third Party Payments":6359.33, "Income: Fees and Charges":1379.57},
-			"2017-12": {"total":2490.68, "Income: Fees and Charges":444.00, "Third Party Payments":2046.68},
-			"2018-01": {"total":7630.14, "Third Party Payments":6140.04, "Income: Fees and Charges":1490.10},
-			"2018-05": {"total":972.84, "Third Party Payments":762.76, "Income: Fees and Charges":210.08}
-		}
-	},
-	"7484": {
-		"name": "WAVERLEY TBS LTD",
-		"total": 2705.51,
-		"monthly": {
-			"2011-09": {"total":923.97, "Supplies and Services":923.97},
-			"2011-10": {"total":1781.54, "Supplies and Services":1781.54}
-		}
-	},
-	"7485": {
-		"name": "WAYMARKS",
-		"total": 431818.58,
-		"monthly": {
-			"2015-01": {"total":2154.00, "Third Party Payments":2154.00},
-			"2015-02": {"total":2154.00, "Third Party Payments":2154.00},
-			"2015-11": {"total":14365.12, "Third Party Payments":14365.12},
-			"2016-03": {"total":10017.00, "Third Party Payments":10017.00},
-			"2016-04": {"total":6551.86, "Third Party Payments":6551.86},
-			"2016-05": {"total":5654.04, "Third Party Payments":5654.04},
-			"2016-08": {"total":52391.36, "Third Party Payments":52391.36},
-			"2016-09": {"total":12339.04, "Third Party Payments":12339.04},
-			"2016-10": {"total":23278.08, "Third Party Payments":23278.08},
-			"2016-11": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-01": {"total":22438.08, "Third Party Payments":22438.08},
-			"2017-03": {"total":44876.16, "Third Party Payments":44876.16},
-			"2017-04": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-05": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-06": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-07": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-09": {"total":11219.04, "Third Party Payments":11219.04},
-			"2017-12": {"total":11219.04, "Third Party Payments":11219.04},
-			"2018-01": {"total":44876.16, "Third Party Payments":44876.16},
-			"2018-02": {"total":22438.08, "Third Party Payments":22438.08},
-			"2018-03": {"total":22438.08, "Third Party Payments":22438.08},
-			"2018-04": {"total":11219.04, "Third Party Payments":11219.04},
-			"2018-06": {"total":22438.08, "Third Party Payments":22438.08},
-			"2018-08": {"total":22438.08, "Third Party Payments":22438.08},
-			"2018-10": {"total":11219.04, "Third Party Payments":11219.04}
-		}
-	},
-	"7486": {
-		"name": "WAYOUT IN GATESHEAD",
-		"total": 53409.5,
-		"monthly": {
-			"2011-01": {"total":1900.00, "Learning and Children":1900.00},
-			"2011-02": {"total":20000.00, "Learning and Children":20000.00},
-			"2011-03": {"total":3090.50, "Learning and Children":3090.50},
-			"2011-04": {"total":1900.00, "Learning and Children":1900.00},
-			"2011-09": {"total":2640.00, "Supplies and Services":2640.00},
-			"2011-11": {"total":5312.00, "Employees":5312.00},
-			"2013-02": {"total":3000.00, "Supplies and Services":3000.00},
-			"2013-05": {"total":580.00, "Supplies and Services":580.00},
-			"2013-08": {"total":1750.00, "Third Party Payments":1750.00},
-			"2013-10": {"total":1500.00, "Third Party Payments":1500.00},
-			"2014-03": {"total":1000.00, "Supplies and Services":1000.00},
-			"2014-07": {"total":1750.00, "Supplies and Services":1750.00},
-			"2015-03": {"total":2000.00, "Supplies and Services":2000.00},
-			"2016-05": {"total":1000.00, "Supplies and Services":1000.00},
-			"2018-04": {"total":1247.00, "Third Party Payments":1247.00},
-			"2018-05": {"total":500.00, "Third Party Payments":500.00},
-			"2018-06": {"total":1870.00, "Third Party Payments":1870.00},
-			"2018-08": {"total":2370.00, "Third Party Payments":2370.00}
-		}
-	},
-	"7487": {
-		"name": "WD BLAIR ASSOCIATES LTD",
-		"total": 991.67,
-		"monthly": {
-			"2014-11": {"total":991.67, "Supplies and Services":991.67}
-		}
-	},
-	"7488": {
-		"name": "WEARSIDE AUDI",
-		"total": 2705.45,
-		"monthly": {
-			"2012-05": {"total":997.67, "Transport":997.67},
-			"2012-09": {"total":1162.28, "Transport":1162.28},
-			"2013-02": {"total":545.50, "Transport":545.50}
-		}
-	},
-	"7489": {
-		"name": "WEARSIDE FENCING LTD",
-		"total": 26918.6,
-		"monthly": {
-			"2012-03": {"total":9100.96, "Supplies and Services":9100.96},
-			"2012-05": {"total":724.51, "Premises":724.51},
-			"2012-07": {"total":14656.36, "unknown":14656.36},
-			"2013-03": {"total":349.58, "Premises":349.58},
-			"2013-08": {"total":505.43, "Supplies and Services":505.43},
-			"2014-07": {"total":981.79, "Supplies and Services":981.79},
-			"2014-12": {"total":599.97, "Premises":599.97}
-		}
-	},
-	"7490": {
-		"name": "WEARSIDE WOMEN IN NEED",
-		"total": 1680,
-		"monthly": {
-			"2012-03": {"total":980.00, "Transfer Payments":980.00},
-			"2012-04": {"total":700.00, "Transfer Payments":700.00}
-		}
-	},
-	"7491": {
-		"name": "WEATHERPROOFING ADVISORS",
-		"total": 24515.7,
-		"monthly": {
-			"2011-12": {"total":7780.94, "Premises":7780.94},
-			"2012-01": {"total":1943.57, "Premises":1943.57},
-			"2012-05": {"total":3195.00, "Premises":3195.00},
-			"2012-07": {"total":3867.00, "Premises":3867.00},
-			"2012-11": {"total":3371.00, "Premises":3371.00},
-			"2013-03": {"total":540.75, "Premises":540.75},
-			"2016-05": {"total":1821.00, "Premises":1821.00},
-			"2016-11": {"total":1996.44, "Premises":1996.44}
-		}
-	},
-	"7492": {
-		"name": "WEB SOLUTIONS NORTH EAST",
-		"total": 1500,
-		"monthly": {
-			"2012-07": {"total":750.00, "Third Party Payments":750.00},
-			"2012-09": {"total":750.00, "Third Party Payments":750.00}
-		}
-	},
-	"7493": {
-		"name": "WEB WE DO",
-		"total": 3000,
-		"monthly": {
-			"2016-12": {"total":1500.00, "Third Party Payments":1500.00},
-			"2017-06": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"7494": {
-		"name": "WEBFUSION LTD",
-		"total": 9359.4,
-		"monthly": {
-			"2013-03": {"total":2519.88, "Supplies and Services":2519.88},
-			"2014-01": {"total":1079.91, "Supplies and Services":1079.91},
-			"2014-03": {"total":2519.88, "Supplies and Services":2519.88},
-			"2015-01": {"total":1079.91, "Supplies and Services":1079.91},
-			"2016-01": {"total":1079.91, "Supplies and Services":1079.91},
-			"2017-01": {"total":1079.91, "Supplies and Services":1079.91}
-		}
-	},
-	"7495": {
-		"name": "WEBSTER ASSOCIATES D&T LTD",
-		"total": 1266.83,
-		"monthly": {
-			"2011-02": {"total":1266.83, "Learning and Children":1266.83}
-		}
-	},
-	"7496": {
-		"name": "WEBSTER PLANT HAULAGE",
-		"total": 1380,
-		"monthly": {
-			"2015-06": {"total":690.00, "Transport":690.00},
-			"2015-08": {"total":690.00, "Transport":690.00}
-		}
-	},
-	"7497": {
-		"name": "WEEDINGTECH LTD",
-		"alternate-names": [
-			"WEEDINGTECH LIMITED"
-		],
-		"total": 750,
-		"monthly": {
-			"2013-08": {"total":750.00, "Premises":750.00}
-		}
-	},
-	"7498": {
-		"name": "WEIGHING EQUIPMENT & SERVICES",
-		"total": 2450,
-		"monthly": {
-			"2010-12": {"total":2450.00, "Development & Enterprise":2450.00}
-		}
-	},
-	"7499": {
-		"name": "WEIGHT 2 GO BLANKETS",
-		"total": 1070,
-		"monthly": {
-			"2015-07": {"total":1070.00, "Supplies and Services":1070.00}
 		}
 	}
 	}

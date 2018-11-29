@@ -2,28 +2,150 @@
 	"range": ["2010-12","2018-10"],
 	"data": {
 	"1100": {
+		"name": "BROXAP LTD",
+		"total": 115639.58,
+		"monthly": {
+			"2010-12": {"total":472.00, "Community Based Services":472.00},
+			"2011-02": {"total":500.00, "Local Environmental Services":500.00},
+			"2011-03": {"total":6327.50, "Local Environmental Services":6327.50},
+			"2011-04": {"total":6996.75, "Local Environmental Services":6996.75},
+			"2011-12": {"total":1988.00, "Supplies and Services":1988.00},
+			"2012-02": {"total":800.00, "Third Party Payments":800.00},
+			"2012-07": {"total":8944.00, "Supplies and Services":8944.00},
+			"2012-10": {"total":820.00, "Supplies and Services":820.00},
+			"2012-11": {"total":368.25, "Supplies and Services":368.25},
+			"2013-01": {"total":1997.00, "Supplies and Services":1997.00},
+			"2013-06": {"total":6034.73, "Supplies and Services":6034.73},
+			"2013-07": {"total":3585.25, "Supplies and Services":3585.25},
+			"2013-08": {"total":3757.29, "Supplies and Services":3757.29},
+			"2013-09": {"total":746.34, "Supplies and Services":746.34},
+			"2013-10": {"total":2187.00, "Supplies and Services":2187.00},
+			"2014-03": {"total":7003.47, "Supplies and Services":7003.47},
+			"2014-04": {"total":11899.79, "Supplies and Services":11899.79},
+			"2014-07": {"total":498.00, "Supplies and Services":498.00},
+			"2014-09": {"total":460.00, "Supplies and Services":460.00},
+			"2014-10": {"total":4370.00, "Supplies and Services":4370.00},
+			"2014-12": {"total":3024.00, "Supplies and Services":3024.00},
+			"2015-04": {"total":550.39, "Supplies and Services":550.39},
+			"2015-06": {"total":2754.00, "Supplies and Services":2754.00},
+			"2015-07": {"total":750.00, "Supplies and Services":750.00},
+			"2015-10": {"total":1048.00, "Supplies and Services":1048.00},
+			"2015-11": {"total":2870.00, "Supplies and Services":2870.00},
+			"2016-03": {"total":356.00, "Supplies and Services":356.00},
+			"2016-05": {"total":11495.42, "Supplies and Services":1559.42, "unknown":9936.00},
+			"2016-06": {"total":9936.00, "Purchase of Equipment":9936.00},
+			"2016-10": {"total":3346.00, "Supplies and Services":3346.00},
+			"2016-11": {"total":768.00, "Supplies and Services":768.00},
+			"2017-01": {"total":3240.00, "unknown":3240.00},
+			"2017-08": {"total":1087.00, "Supplies and Services":1087.00},
+			"2017-10": {"total":716.00, "Works":716.00},
+			"2018-01": {"total":828.00, "Supplies and Services":828.00},
+			"2018-03": {"total":523.00, "Supplies and Services":523.00},
+			"2018-06": {"total":1131.40, "Supplies and Services":1131.40},
+			"2018-08": {"total":1461.00, "unknown":1461.00}
+		}
+	},
+	"1101": {
+		"name": "BRUEL & KJAER UK LTD",
+		"total": 17525.75,
+		"monthly": {
+			"2010-12": {"total":8298.76, "Development & Enterprise":8298.76},
+			"2013-06": {"total":1642.00, "Supplies and Services":1642.00},
+			"2013-08": {"total":1624.78, "Supplies and Services":1624.78},
+			"2014-01": {"total":398.00, "Supplies and Services":398.00},
+			"2014-02": {"total":606.00, "Supplies and Services":606.00},
+			"2014-04": {"total":363.60, "Supplies and Services":363.60},
+			"2015-09": {"total":812.50, "Supplies and Services":812.50},
+			"2016-02": {"total":3116.91, "Supplies and Services":3116.91},
+			"2018-01": {"total":663.20, "Supplies and Services":663.20}
+		}
+	},
+	"1102": {
+		"name": "BRUNSWICK HOUSE",
+		"total": 90691.32,
+		"monthly": {
+			"2011-12": {"total":4673.24, "Income: Customer and Client Receipts":1041.24, "Third Party Payments":3632.00},
+			"2012-01": {"total":4673.24, "Third Party Payments":3632.00, "Income: Customer and Client Receipts":1041.24},
+			"2012-02": {"total":10182.48, "Income: Customer and Client Receipts":2082.48, "Third Party Payments":8100.00},
+			"2012-03": {"total":4825.24, "Third Party Payments":3784.00, "Income: Customer and Client Receipts":1041.24},
+			"2012-04": {"total":4852.69, "Income: Customer and Client Receipts":1068.69, "Third Party Payments":3784.00},
+			"2012-05": {"total":4861.84, "Income: Customer and Client Receipts":1077.84, "Third Party Payments":3784.00},
+			"2012-06": {"total":5852.33, "Third Party Payments":4031.00, "Income: Customer and Client Receipts":1821.33},
+			"2012-07": {"total":5132.20, "Income: Customer and Client Receipts":1348.20, "Third Party Payments":3784.00},
+			"2012-08": {"total":5132.20, "Third Party Payments":3784.00, "Income: Customer and Client Receipts":1348.20},
+			"2012-09": {"total":3440.20, "Third Party Payments":2432.57, "Income: Customer and Client Receipts":1007.63},
+			"2012-10": {"total":2763.40, "Income: Customer and Client Receipts":871.40, "Third Party Payments":1892.00},
+			"2012-11": {"total":2763.40, "Third Party Payments":1892.00, "Income: Customer and Client Receipts":871.40},
+			"2013-01": {"total":5526.80, "Income: Customer and Client Receipts":1742.80, "Third Party Payments":3784.00},
+			"2013-02": {"total":2763.40, "Income: Customer and Client Receipts":871.40, "Third Party Payments":1892.00},
+			"2013-03": {"total":2763.40, "Income: Customer and Client Receipts":871.40, "Third Party Payments":1892.00},
+			"2013-04": {"total":2778.19, "Income: Customer and Client Receipts":886.19, "Third Party Payments":1892.00},
+			"2013-05": {"total":2783.12, "Income: Customer and Client Receipts":891.12, "Third Party Payments":1892.00},
+			"2013-06": {"total":2783.12, "Third Party Payments":1892.00, "Income: Customer and Client Receipts":891.12},
+			"2013-07": {"total":2783.12, "Income: Customer and Client Receipts":891.12, "Third Party Payments":1892.00},
+			"2013-08": {"total":3081.31, "Income: Customer and Client Receipts":986.60, "Third Party Payments":2094.71},
+			"2013-10": {"total":6276.40, "Third Party Payments":6276.40}
+		}
+	},
+	"1103": {
+		"name": "BRUSH TECHNOLOGY LTD",
+		"total": 30691.83,
+		"monthly": {
+			"2013-05": {"total":1745.72, "Supplies and Services":1745.72},
+			"2016-01": {"total":2641.03, "Premises":2641.03},
+			"2016-03": {"total":1546.56, "Premises":1546.56},
+			"2016-04": {"total":1498.50, "Premises":1498.50},
+			"2016-07": {"total":1628.15, "Supplies and Services":1628.15},
+			"2016-08": {"total":2511.38, "Supplies and Services":2511.38},
+			"2016-12": {"total":3711.85, "Supplies and Services":3711.85},
+			"2017-01": {"total":427.68, "Supplies and Services":427.68},
+			"2017-05": {"total":6095.89, "Supplies and Services":6095.89},
+			"2017-07": {"total":2350.19, "Supplies and Services":2350.19},
+			"2017-09": {"total":1692.90, "Supplies and Services":1692.90},
+			"2018-04": {"total":1692.90, "Supplies and Services":1692.90},
+			"2018-07": {"total":3149.08, "Supplies and Services":3149.08}
+		}
+	},
+	"1104": {
+		"name": "BRUYNZEEL STORAGE SYSTEMS",
+		"total": 4800,
+		"monthly": {
+			"2015-03": {"total":4800.00, "Supplies and Services":4800.00}
+		}
+	},
+	"1105": {
+		"name": "BRYAN CRISP & SON SPECIALIST SERVICES LTD",
+		"total": 15542,
+		"monthly": {
+			"2018-01": {"total":10112.00, "Supplies and Services":10112.00},
+			"2018-03": {"total":2390.00, "Supplies and Services":2390.00},
+			"2018-05": {"total":3040.00, "Supplies and Services":3040.00}
+		}
+	},
+	"1106": {
 		"name": "BRYAN ROSS PERFORMANCE GOLF COACHING",
-		"total": 14937.5,
+		"total": 14837.5,
 		"monthly": {
 			"2016-12": {"total":1010.00, "Supplies and Services":1010.00},
 			"2017-01": {"total":720.00, "Supplies and Services":720.00},
 			"2017-04": {"total":840.00, "Supplies and Services":840.00},
+			"2017-08": {"total":1125.00, "Supplies and Services":1125.00},
 			"2017-12": {"total":1775.00, "Supplies and Services":1775.00},
-			"2018-01": {"total":2450.00, "Supplies and Services":2450.00},
+			"2018-01": {"total":1225.00, "Supplies and Services":1225.00},
 			"2018-03": {"total":1475.00, "Supplies and Services":1475.00},
 			"2018-06": {"total":2487.50, "Supplies and Services":2487.50},
 			"2018-07": {"total":2275.00, "Supplies and Services":2275.00},
 			"2018-10": {"total":1905.00, "Supplies and Services":1905.00}
 		}
 	},
-	"1101": {
+	"1107": {
 		"name": "BRYAN WILSON SERVICES",
 		"total": 534.2,
 		"monthly": {
 			"2012-11": {"total":534.20, "Supplies and Services":534.20}
 		}
 	},
-	"1102": {
+	"1108": {
 		"name": "BRYDEN EDUCATION CONSULTANTS",
 		"total": 33248,
 		"monthly": {
@@ -33,14 +155,14 @@
 			"2013-04": {"total":3198.00, "Supplies and Services":3198.00}
 		}
 	},
-	"1103": {
+	"1109": {
 		"name": "BRYTAFLOR & DUNSTON FURNISHING",
 		"total": 15172.12,
 		"monthly": {
 			"2010-12": {"total":957.04, "Community Based Services":957.04},
 			"2011-01": {"total":2516.01, "Community Based Services":1523.06, "Learning and Children":992.95},
 			"2011-02": {"total":1949.37, "Community Based Services":1949.37},
-			"2011-03": {"total":1655.05, "Community Based Services":1260.69, "Learning and Children":394.36},
+			"2011-03": {"total":1655.05, "Learning and Children":394.36, "Community Based Services":1260.69},
 			"2011-04": {"total":360.43, "Community Based Services":360.43},
 			"2011-05": {"total":484.90, "Community Based Services":484.90},
 			"2011-06": {"total":803.82, "Community Based Services":803.82},
@@ -50,14 +172,14 @@
 			"2012-01": {"total":2702.67, "Supplies and Services":2702.67}
 		}
 	},
-	"1104": {
+	"1110": {
 		"name": "BSB  ENGINEERING SERVICES LTD",
 		"total": 9072,
 		"monthly": {
 			"2015-09": {"total":9072.00, "Supplies and Services":9072.00}
 		}
 	},
-	"1105": {
+	"1111": {
 		"name": "BSD (UK) LTD",
 		"total": 17948,
 		"monthly": {
@@ -65,9 +187,9 @@
 			"2011-04": {"total":6260.00, "Learning and Children":6260.00}
 		}
 	},
-	"1106": {
+	"1112": {
 		"name": "BSI MANAGEMENT SYSTEMS",
-		"total": 23946,
+		"total": 22498,
 		"monthly": {
 			"2011-04": {"total":2352.00, "Local Environmental Services":2352.00},
 			"2011-09": {"total":510.00, "Supplies and Services":510.00},
@@ -76,7 +198,7 @@
 			"2013-01": {"total":697.00, "Supplies and Services":697.00},
 			"2013-05": {"total":718.00, "Supplies and Services":718.00},
 			"2013-06": {"total":2575.00, "Third Party Payments":2575.00},
-			"2013-10": {"total":2461.00, "Premises":541.00, "Supplies and Services":1920.00},
+			"2013-10": {"total":2461.00, "Supplies and Services":1920.00, "Premises":541.00},
 			"2014-03": {"total":740.00, "Supplies and Services":740.00},
 			"2014-06": {"total":2575.00, "Supplies and Services":2575.00},
 			"2015-02": {"total":557.00, "Premises":557.00},
@@ -84,33 +206,32 @@
 			"2015-09": {"total":2652.00, "Supplies and Services":2652.00},
 			"2016-03": {"total":762.00, "Supplies and Services":762.00},
 			"2016-09": {"total":603.00, "Premises":603.00},
-			"2017-11": {"total":1448.00, "Premises":785.00, "Supplies and Services":663.00},
 			"2018-04": {"total":809.00, "Supplies and Services":809.00},
 			"2018-08": {"total":700.00, "Supplies and Services":700.00}
 		}
 	},
-	"1107": {
+	"1113": {
 		"name": "BSI PRODUCT SERVICES",
 		"total": 697,
 		"monthly": {
 			"2011-06": {"total":697.00, "Local Environmental Services":697.00}
 		}
 	},
-	"1108": {
+	"1114": {
 		"name": "BSS GROUP LTD",
 		"total": 567967.91,
 		"monthly": {
 			"2011-05": {"total":11197.88, "Local Environmental Services":11197.88},
 			"2011-06": {"total":3758.49, "Local Environmental Services":3758.49},
 			"2011-07": {"total":22558.52, "Supplies and Services":13428.89, "unknown":9129.63},
-			"2011-08": {"total":9468.43, "Supplies and Services":7724.73, "unknown":1743.70},
+			"2011-08": {"total":9468.43, "unknown":1743.70, "Supplies and Services":7724.73},
 			"2011-09": {"total":10086.73, "unknown":8256.80, "Supplies and Services":1829.93},
 			"2011-10": {"total":970.78, "unknown":970.78},
 			"2011-11": {"total":6205.67, "Supplies and Services":875.00, "unknown":5330.67},
 			"2011-12": {"total":909.79, "unknown":909.79},
 			"2012-01": {"total":413.63, "unknown":413.63},
 			"2012-02": {"total":1660.19, "Supplies and Services":1660.19},
-			"2012-03": {"total":2682.36, "Supplies and Services":2026.26, "unknown":656.10},
+			"2012-03": {"total":2682.36, "unknown":656.10, "Supplies and Services":2026.26},
 			"2012-04": {"total":1166.85, "Supplies and Services":1166.85},
 			"2012-05": {"total":1243.44, "unknown":1243.44},
 			"2012-06": {"total":3980.51, "Supplies and Services":432.30, "unknown":3548.21},
@@ -118,9 +239,9 @@
 			"2012-08": {"total":5531.02, "unknown":5531.02},
 			"2012-10": {"total":1165.93, "Supplies and Services":1165.93},
 			"2012-11": {"total":12319.23, "unknown":11813.74, "Supplies and Services":505.49},
-			"2013-01": {"total":1888.85, "unknown":1183.60, "Supplies and Services":705.25},
+			"2013-01": {"total":1888.85, "Supplies and Services":705.25, "unknown":1183.60},
 			"2013-02": {"total":4181.39, "Supplies and Services":620.04, "unknown":3561.35},
-			"2013-03": {"total":4428.02, "Supplies and Services":1206.31, "unknown":3221.71},
+			"2013-03": {"total":4428.02, "unknown":3221.71, "Supplies and Services":1206.31},
 			"2013-04": {"total":1296.96, "unknown":1296.96},
 			"2013-05": {"total":4906.06, "Supplies and Services":4906.06},
 			"2013-06": {"total":2822.60, "Supplies and Services":2822.60},
@@ -170,7 +291,7 @@
 			"2018-07": {"total":4222.90, "Supplies and Services":4222.90}
 		}
 	},
-	"1109": {
+	"1115": {
 		"name": "BSS INTERNATIONAL LTD",
 		"total": 2400,
 		"monthly": {
@@ -178,12 +299,12 @@
 			"2011-12": {"total":400.00, "Supplies and Services":400.00}
 		}
 	},
-	"1110": {
+	"1116": {
 		"name": "BSUPPLIED LTD",
 		"alternate-names": [
 			"BSUPPLIED LIMITED"
 		],
-		"total": 104044.16,
+		"total": 105030.16,
 		"monthly": {
 			"2012-05": {"total":4250.00, "Consultants":4250.00},
 			"2012-07": {"total":4250.00, "Consultants":4250.00},
@@ -213,19 +334,20 @@
 			"2017-03": {"total":1972.00, "Supplies and Services":1972.00},
 			"2017-05": {"total":986.00, "Supplies and Services":986.00},
 			"2017-06": {"total":986.00, "Supplies and Services":986.00},
-			"2017-07": {"total":986.00, "Supplies and Services":986.00}
+			"2017-07": {"total":986.00, "Supplies and Services":986.00},
+			"2017-08": {"total":986.00, "Supplies and Services":986.00}
 		}
 	},
-	"1111": {
+	"1117": {
 		"name": "BT",
 		"total": 985.45,
 		"monthly": {
 			"2011-07": {"total":985.45, "Supplies and Services":985.45}
 		}
 	},
-	"1112": {
+	"1118": {
 		"name": "BT BUSINESS COMMUNICATIONS",
-		"total": 1383655.93,
+		"total": 1374155.89,
 		"monthly": {
 			"2011-02": {"total":60690.29, "Full Authority":60690.29},
 			"2011-03": {"total":18635.57, "Full Authority":18635.57},
@@ -290,9 +412,10 @@
 			"2017-05": {"total":10458.84, "unknown":10458.84},
 			"2017-06": {"total":10045.94, "unknown":10045.94},
 			"2017-07": {"total":10307.54, "unknown":10307.54},
+			"2017-08": {"total":9855.69, "unknown":9855.69},
 			"2017-09": {"total":9342.24, "unknown":9342.24},
-			"2017-11": {"total":9925.86, "unknown":9925.86},
-			"2018-01": {"total":38269.86, "unknown":38269.86},
+			"2017-10": {"total":9705.06, "unknown":9705.06},
+			"2018-01": {"total":19134.93, "unknown":19134.93},
 			"2018-02": {"total":17976.88, "unknown":17976.88},
 			"2018-03": {"total":9540.64, "unknown":9540.64},
 			"2018-04": {"total":9613.09, "unknown":9613.09},
@@ -304,14 +427,14 @@
 			"2018-10": {"total":15938.24, "unknown":15938.24}
 		}
 	},
-	"1113": {
+	"1119": {
 		"name": "BT OFFICE FURNITURE GROUP",
 		"total": 479,
 		"monthly": {
 			"2015-10": {"total":479.00, "Supplies and Services":479.00}
 		}
 	},
-	"1114": {
+	"1120": {
 		"name": "BT PAYPHONES",
 		"total": 1925,
 		"monthly": {
@@ -322,7 +445,7 @@
 			"2015-04": {"total":385.00, "Supplies and Services":385.00}
 		}
 	},
-	"1115": {
+	"1121": {
 		"name": "BT REPAYMENTS PROJECTS",
 		"total": 26054.73,
 		"monthly": {
@@ -336,14 +459,14 @@
 			"2016-01": {"total":10969.02, "unknown":10969.02}
 		}
 	},
-	"1116": {
+	"1122": {
 		"name": "BT THE PHONE BOOK FROM BT",
 		"total": 3246,
 		"monthly": {
 			"2011-08": {"total":3246.00, "Supplies and Services":3246.00}
 		}
 	},
-	"1117": {
+	"1123": {
 		"name": "BTCV",
 		"total": 117437.25,
 		"monthly": {
@@ -362,7 +485,7 @@
 			"2015-11": {"total":1910.98, "Third Party Payments":1910.98}
 		}
 	},
-	"1118": {
+	"1124": {
 		"name": "BUCHANAN COMPUTING LTD",
 		"total": 44856,
 		"monthly": {
@@ -381,7 +504,7 @@
 			"2018-03": {"total":2987.00, "Supplies and Services":2987.00}
 		}
 	},
-	"1119": {
+	"1125": {
 		"name": "BUCK HICKMAN IN ONE",
 		"total": 1402,
 		"monthly": {
@@ -389,12 +512,12 @@
 			"2012-06": {"total":764.00, "unknown":764.00}
 		}
 	},
-	"1120": {
+	"1126": {
 		"name": "BUDDI LTD",
 		"alternate-names": [
 			"BUDDI LIMITED"
 		],
-		"total": 157752.24,
+		"total": 161419.24,
 		"monthly": {
 			"2011-11": {"total":4080.00, "Premises":4080.00},
 			"2012-10": {"total":3600.00, "Supplies and Services":3600.00},
@@ -413,7 +536,7 @@
 			"2015-08": {"total":5520.00, "Supplies and Services":5520.00},
 			"2015-09": {"total":5220.00, "Supplies and Services":5220.00},
 			"2015-12": {"total":9000.00, "Supplies and Services":9000.00},
-			"2016-03": {"total":10570.00, "unknown":5050.00, "Supplies and Services":5520.00},
+			"2016-03": {"total":10570.00, "Supplies and Services":5520.00, "unknown":5050.00},
 			"2016-05": {"total":2400.00, "Supplies and Services":2400.00},
 			"2016-07": {"total":2680.00, "Supplies and Services":2680.00},
 			"2016-08": {"total":2700.00, "Supplies and Services":2700.00},
@@ -423,30 +546,32 @@
 			"2017-04": {"total":1920.00, "Supplies and Services":1920.00},
 			"2017-05": {"total":2160.00, "Supplies and Services":2160.00},
 			"2017-07": {"total":7325.00, "Supplies and Services":7325.00},
+			"2017-08": {"total":1440.00, "Supplies and Services":1440.00},
 			"2017-09": {"total":720.00, "Supplies and Services":720.00},
+			"2017-10": {"total":3120.00, "Supplies and Services":3120.00},
 			"2017-12": {"total":11820.00, "Supplies and Services":11820.00},
-			"2018-01": {"total":1786.00, "Supplies and Services":1786.00},
+			"2018-01": {"total":893.00, "Supplies and Services":893.00},
 			"2018-03": {"total":1920.00, "Supplies and Services":1920.00},
 			"2018-05": {"total":1680.00, "Supplies and Services":1680.00},
 			"2018-06": {"total":3360.00, "Supplies and Services":3360.00},
 			"2018-08": {"total":1200.00, "Supplies and Services":1200.00}
 		}
 	},
-	"1121": {
+	"1127": {
 		"name": "BUDGET REMOVALS",
 		"total": 600,
 		"monthly": {
 			"2015-06": {"total":600.00, "Third Party Payments":600.00}
 		}
 	},
-	"1122": {
+	"1128": {
 		"name": "BUFFER BEAR LTD NEWCASTLE",
 		"total": 597,
 		"monthly": {
 			"2011-07": {"total":597.00, "Supplies and Services":597.00}
 		}
 	},
-	"1123": {
+	"1129": {
 		"name": "BUILDBASE CIVILS & LINTELS",
 		"total": 35682.26,
 		"monthly": {
@@ -466,21 +591,21 @@
 			"2016-08": {"total":1640.00, "Supplies and Services":1640.00}
 		}
 	},
-	"1124": {
+	"1130": {
 		"name": "BUILDING FUTURES EAST",
-		"total": 49788.14,
+		"total": 53288.14,
 		"monthly": {
 			"2014-07": {"total":4864.32, "Third Party Payments":4864.32},
 			"2015-01": {"total":6821.60, "Third Party Payments":6821.60},
 			"2015-03": {"total":7921.84, "Third Party Payments":7921.84},
 			"2015-11": {"total":752.81, "Third Party Payments":752.81},
 			"2016-11": {"total":9000.00, "Third Party Payments":9000.00},
-			"2017-11": {"total":5500.00, "Third Party Payments":5500.00},
+			"2017-10": {"total":9000.00, "Third Party Payments":9000.00},
 			"2018-07": {"total":5927.57, "Third Party Payments":5927.57},
 			"2018-10": {"total":9000.00, "Third Party Payments":9000.00}
 		}
 	},
-	"1125": {
+	"1131": {
 		"name": "BUILDING RESEARCH ESTABLISHM'T",
 		"total": 24419,
 		"monthly": {
@@ -489,7 +614,7 @@
 			"2013-04": {"total":20140.00, "Supplies and Services":20140.00}
 		}
 	},
-	"1126": {
+	"1132": {
 		"name": "BUILDING SOFTWARE LTD",
 		"total": 15900,
 		"monthly": {
@@ -497,7 +622,7 @@
 			"2016-05": {"total":7950.00, "unknown":7950.00}
 		}
 	},
-	"1127": {
+	"1133": {
 		"name": "BUILDING SOFTWARE LTD T/A MEASURE2IMPROVE",
 		"total": 44550,
 		"monthly": {
@@ -507,7 +632,7 @@
 			"2018-03": {"total":12300.00, "Consultants":12300.00}
 		}
 	},
-	"1128": {
+	"1134": {
 		"name": "BUILDROUTE LTD",
 		"total": 16900.45,
 		"monthly": {
@@ -515,14 +640,14 @@
 			"2011-03": {"total":15077.20, "Local Environmental Services":15077.20}
 		}
 	},
-	"1129": {
+	"1135": {
 		"name": "BULLDOG SPORTS LTD",
 		"total": 1500,
 		"monthly": {
 			"2017-05": {"total":1500.00, "Third Party Payments":1500.00}
 		}
 	},
-	"1130": {
+	"1136": {
 		"name": "BULLION COMMUNITY RESOURCE CENTRE",
 		"total": 15000,
 		"monthly": {
@@ -530,9 +655,9 @@
 			"2017-12": {"total":6000.00, "Third Party Payments":6000.00}
 		}
 	},
-	"1131": {
+	"1137": {
 		"name": "BUMBLE BEES PRE-SCHOOL",
-		"total": 466132.4,
+		"total": 444139.61,
 		"monthly": {
 			"2010-12": {"total":6155.74, "Learning and Children":6155.74},
 			"2011-02": {"total":6149.64, "Learning and Children":6149.64},
@@ -549,7 +674,7 @@
 			"2013-03": {"total":3024.36, "Supplies and Services":3024.36},
 			"2013-04": {"total":9102.38, "Supplies and Services":9102.38},
 			"2013-06": {"total":5924.55, "Supplies and Services":5924.55},
-			"2013-08": {"total":26867.92, "Supplies and Services":20767.92, "Other Costs":6100.00},
+			"2013-08": {"total":26867.92, "Other Costs":6100.00, "Supplies and Services":20767.92},
 			"2013-09": {"total":6427.02, "Supplies and Services":6427.02},
 			"2013-12": {"total":21558.27, "Supplies and Services":21558.27},
 			"2014-03": {"total":3079.75, "Supplies and Services":3079.75},
@@ -582,9 +707,8 @@
 			"2017-06": {"total":4282.02, "Supplies and Services":4282.02},
 			"2017-07": {"total":4149.60, "Supplies and Services":4149.60},
 			"2017-09": {"total":13643.71, "Supplies and Services":13643.71},
-			"2017-11": {"total":6420.41, "Supplies and Services":6420.41},
 			"2017-12": {"total":6146.40, "Supplies and Services":6146.40},
-			"2018-01": {"total":31144.76, "Supplies and Services":31144.76},
+			"2018-01": {"total":15572.38, "Supplies and Services":15572.38},
 			"2018-02": {"total":10279.58, "Supplies and Services":10279.58},
 			"2018-03": {"total":3510.00, "Supplies and Services":3510.00},
 			"2018-04": {"total":21305.61, "Supplies and Services":21305.61},
@@ -592,7 +716,7 @@
 			"2018-09": {"total":18298.54, "Supplies and Services":18298.54}
 		}
 	},
-	"1132": {
+	"1138": {
 		"name": "BUNCE (ASHBURY) LTD",
 		"total": 5430.95,
 		"monthly": {
@@ -602,9 +726,9 @@
 			"2013-02": {"total":637.41, "Transport":637.41}
 		}
 	},
-	"1133": {
+	"1139": {
 		"name": "BUNZL CATERING SUPPLIES",
-		"total": 57294.35,
+		"total": 57381.63,
 		"monthly": {
 			"2011-05": {"total":400.78, "Local Environmental Services":400.78},
 			"2011-06": {"total":448.68, "Local Environmental Services":448.68},
@@ -658,7 +782,8 @@
 			"2017-05": {"total":543.78, "Supplies and Services":543.78},
 			"2017-06": {"total":1311.75, "Supplies and Services":1311.75},
 			"2017-07": {"total":570.00, "Supplies and Services":570.00},
-			"2018-01": {"total":1007.04, "Supplies and Services":1007.04},
+			"2017-10": {"total":590.80, "Supplies and Services":590.80},
+			"2018-01": {"total":503.52, "Supplies and Services":503.52},
 			"2018-02": {"total":890.72, "Supplies and Services":890.72},
 			"2018-04": {"total":481.27, "Supplies and Services":481.27},
 			"2018-06": {"total":509.57, "Supplies and Services":509.57},
@@ -667,9 +792,9 @@
 			"2018-10": {"total":1760.16, "Supplies and Services":1760.16}
 		}
 	},
-	"1134": {
+	"1140": {
 		"name": "BUNZL CLEANING & HYGIENE SUPPLIES",
-		"total": 680985.770000001,
+		"total": 683668.600000001,
 		"monthly": {
 			"2012-04": {"total":2307.34, "Supplies and Services":2307.34},
 			"2012-05": {"total":932.71, "Supplies and Services":932.71},
@@ -683,7 +808,7 @@
 			"2013-03": {"total":6671.21, "Supplies and Services":6671.21},
 			"2013-04": {"total":3702.29, "Supplies and Services":3702.29},
 			"2013-05": {"total":1543.54, "Supplies and Services":1543.54},
-			"2013-06": {"total":6611.51, "Supplies and Services":6182.93, "Premises":428.58},
+			"2013-06": {"total":6611.51, "Premises":428.58, "Supplies and Services":6182.93},
 			"2013-07": {"total":9069.47, "Supplies and Services":9069.47},
 			"2013-08": {"total":6047.77, "Supplies and Services":6047.77},
 			"2013-09": {"total":4268.38, "Supplies and Services":4268.38},
@@ -693,28 +818,28 @@
 			"2014-02": {"total":5460.27, "Supplies and Services":5460.27},
 			"2014-03": {"total":11855.30, "Supplies and Services":11855.30},
 			"2014-04": {"total":2420.60, "Supplies and Services":2420.60},
-			"2014-05": {"total":9704.48, "Premises":423.42, "Supplies and Services":9281.06},
+			"2014-05": {"total":9704.48, "Supplies and Services":9281.06, "Premises":423.42},
 			"2014-06": {"total":7452.08, "Supplies and Services":7452.08},
 			"2014-07": {"total":11365.26, "Supplies and Services":11365.26},
 			"2014-08": {"total":6006.51, "Supplies and Services":6006.51},
-			"2014-09": {"total":7938.61, "Premises":1477.84, "Supplies and Services":6460.77},
+			"2014-09": {"total":7938.61, "Supplies and Services":6460.77, "Premises":1477.84},
 			"2014-10": {"total":5389.94, "Supplies and Services":5389.94},
 			"2014-11": {"total":7744.00, "Supplies and Services":7727.37, "Premises":16.63},
 			"2014-12": {"total":3891.74, "Premises":194.10, "Supplies and Services":3697.64},
 			"2015-01": {"total":5156.56, "Premises":212.86, "Supplies and Services":4943.70},
 			"2015-02": {"total":11553.43, "Premises":1061.65, "Supplies and Services":10491.78},
-			"2015-03": {"total":34559.08, "Premises":896.06, "Supplies and Services":33663.02},
+			"2015-03": {"total":34559.08, "Supplies and Services":33663.02, "Premises":896.06},
 			"2015-04": {"total":6272.73, "Supplies and Services":5823.24, "Premises":449.49},
 			"2015-05": {"total":6754.21, "Supplies and Services":6754.21},
-			"2015-06": {"total":10246.78, "Premises":523.80, "Supplies and Services":9722.98},
+			"2015-06": {"total":10246.78, "Supplies and Services":9722.98, "Premises":523.80},
 			"2015-07": {"total":9638.10, "Supplies and Services":7849.24, "Premises":1788.86},
 			"2015-08": {"total":13091.02, "Supplies and Services":11734.10, "Premises":1356.92},
 			"2015-09": {"total":5069.45, "Supplies and Services":5069.45},
 			"2015-10": {"total":11646.32, "Supplies and Services":8755.74, "Premises":2890.58},
 			"2015-11": {"total":15352.95, "Supplies and Services":15352.95},
-			"2015-12": {"total":10078.17, "Premises":1029.46, "Supplies and Services":9048.71},
+			"2015-12": {"total":10078.17, "Supplies and Services":9048.71, "Premises":1029.46},
 			"2016-01": {"total":3965.72, "Supplies and Services":3965.72},
-			"2016-02": {"total":13553.30, "Supplies and Services":12050.72, "Premises":1502.58},
+			"2016-02": {"total":13553.30, "Premises":1502.58, "Supplies and Services":12050.72},
 			"2016-03": {"total":14843.57, "Supplies and Services":14843.57},
 			"2016-04": {"total":18146.24, "Supplies and Services":18146.24},
 			"2016-05": {"total":464.76, "Supplies and Services":464.76},
@@ -732,10 +857,11 @@
 			"2017-05": {"total":8993.78, "Supplies and Services":8993.78},
 			"2017-06": {"total":10142.22, "Supplies and Services":10142.22},
 			"2017-07": {"total":9751.57, "Supplies and Services":9299.41, "unknown":452.16},
+			"2017-08": {"total":9656.49, "Supplies and Services":9656.49},
 			"2017-09": {"total":9992.68, "Supplies and Services":9992.68},
-			"2017-11": {"total":10899.73, "Supplies and Services":10899.73},
+			"2017-10": {"total":16647.38, "Supplies and Services":16647.38},
 			"2017-12": {"total":2020.18, "Supplies and Services":2020.18},
-			"2018-01": {"total":25442.62, "Supplies and Services":25442.62},
+			"2018-01": {"total":12721.31, "Supplies and Services":12721.31},
 			"2018-02": {"total":8438.80, "Supplies and Services":8438.80},
 			"2018-03": {"total":11258.95, "Supplies and Services":11258.95},
 			"2018-04": {"total":13039.62, "Supplies and Services":13039.62},
@@ -747,14 +873,14 @@
 			"2018-10": {"total":7861.48, "Supplies and Services":7861.48}
 		}
 	},
-	"1135": {
+	"1141": {
 		"name": "BUNZL UK LTD",
 		"total": 782.95,
 		"monthly": {
 			"2013-01": {"total":782.95, "Supplies and Services":782.95}
 		}
 	},
-	"1136": {
+	"1142": {
 		"name": "BUREAU VAN DIJK ELECTRONIC PUBLISHING LTD",
 		"total": 12400,
 		"monthly": {
@@ -763,16 +889,16 @@
 			"2018-09": {"total":2500.00, "Supplies and Services":2500.00}
 		}
 	},
-	"1137": {
+	"1143": {
 		"name": "BUREAU VERITAS HS&E LTD",
 		"total": 212708.62,
 		"monthly": {
 			"2011-01": {"total":23178.41, "Community Based Services":20261.41, "Development & Enterprise":2917.00},
 			"2011-02": {"total":1862.00, "Central Services":1862.00},
-			"2011-03": {"total":46209.80, "Development & Enterprise":42442.80, "Community Based Services":3767.00},
-			"2011-06": {"total":12438.38, "Development & Enterprise":6931.62, "Central Services":5506.76},
+			"2011-03": {"total":46209.80, "Community Based Services":3767.00, "Development & Enterprise":42442.80},
+			"2011-06": {"total":12438.38, "Central Services":5506.76, "Development & Enterprise":6931.62},
 			"2011-07": {"total":8107.96, "Works":8107.96},
-			"2011-08": {"total":7553.26, "Works":6742.26, "Consultants":811.00},
+			"2011-08": {"total":7553.26, "Consultants":811.00, "Works":6742.26},
 			"2011-09": {"total":8731.64, "Works":8731.64},
 			"2011-10": {"total":1275.00, "Works":1275.00},
 			"2011-11": {"total":9785.24, "Works":9785.24},
@@ -780,8 +906,8 @@
 			"2012-01": {"total":3108.72, "Works":3108.72},
 			"2012-02": {"total":1908.00, "Works":1908.00},
 			"2012-03": {"total":8209.75, "Consultants":807.09, "Works":7402.66},
-			"2012-04": {"total":12675.16, "Consultants":10456.16, "Works":353.00, "Third Party Payments":1866.00},
-			"2012-05": {"total":4832.64, "Works":2602.00, "Consultants":2230.64},
+			"2012-04": {"total":12675.16, "Consultants":10456.16, "Third Party Payments":1866.00, "Works":353.00},
+			"2012-05": {"total":4832.64, "Consultants":2230.64, "Works":2602.00},
 			"2012-07": {"total":5640.64, "Consultants":5640.64},
 			"2012-09": {"total":7809.27, "Consultants":7809.27},
 			"2012-10": {"total":11593.19, "Consultants":11593.19},
@@ -791,28 +917,28 @@
 			"2013-07": {"total":2780.00, "Consultants":2780.00}
 		}
 	},
-	"1138": {
+	"1144": {
 		"name": "BURN BRAE",
 		"total": 6574.48,
 		"monthly": {
 			"2017-05": {"total":6574.48, "Third Party Payments":6574.48}
 		}
 	},
-	"1139": {
+	"1145": {
 		"name": "BURNBANK COMMUNITY GROUP",
 		"total": 735,
 		"monthly": {
 			"2012-05": {"total":735.00, "Supplies and Services":735.00}
 		}
 	},
-	"1140": {
+	"1146": {
 		"name": "BURNCLIFFE ELECTRICAL LTD",
 		"total": 387.49,
 		"monthly": {
 			"2011-02": {"total":387.49, "Local Environmental Services":387.49}
 		}
 	},
-	"1141": {
+	"1147": {
 		"name": "BURNDALE TAXIS",
 		"total": 53501.69,
 		"monthly": {
@@ -855,9 +981,9 @@
 			"2016-08": {"total":2719.48, "Transport":2719.48}
 		}
 	},
-	"1142": {
+	"1148": {
 		"name": "BURNELL FENCING LTD",
-		"total": 54854.06,
+		"total": 57636.56,
 		"monthly": {
 			"2011-08": {"total":6630.58, "Third Party Payments":6630.58},
 			"2011-09": {"total":672.00, "Third Party Payments":672.00},
@@ -866,191 +992,15 @@
 			"2015-12": {"total":29856.80, "Supplies and Services":29856.80},
 			"2016-01": {"total":7699.31, "Supplies and Services":7699.31},
 			"2016-05": {"total":4036.96, "Supplies and Services":4036.96},
-			"2017-02": {"total":3090.50, "Supplies and Services":3090.50}
+			"2017-02": {"total":3090.50, "Supplies and Services":3090.50},
+			"2017-10": {"total":2782.50, "Supplies and Services":2782.50}
 		}
 	},
-	"1143": {
+	"1149": {
 		"name": "BURNHOPE PRIMARY",
 		"total": 1500,
 		"monthly": {
 			"2015-01": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"1144": {
-		"name": "BURNOPFIELD TAXIS",
-		"total": 671294.25,
-		"monthly": {
-			"2010-12": {"total":5169.00, "Community Based Services":1341.00, "Learning and Children":3828.00},
-			"2011-01": {"total":2860.70, "Learning and Children":1919.50, "Community Based Services":941.20},
-			"2011-02": {"total":4950.80, "Community Based Services":1354.50, "Learning and Children":3596.30},
-			"2011-03": {"total":4350.00, "Community Based Services":1367.00, "Learning and Children":2983.00},
-			"2011-04": {"total":6107.40, "Learning and Children":4551.60, "Community Based Services":1555.80},
-			"2011-05": {"total":3529.50, "Learning and Children":2265.70, "Community Based Services":1263.80},
-			"2011-06": {"total":4879.80, "Learning and Children":3393.30, "Community Based Services":1486.50},
-			"2011-07": {"total":4792.80, "Transport":4792.80},
-			"2011-08": {"total":5386.10, "Transport":5386.10},
-			"2011-09": {"total":2780.20, "Transport":2780.20},
-			"2011-10": {"total":7562.45, "Transport":7562.45},
-			"2011-11": {"total":6835.20, "Transport":6835.20},
-			"2011-12": {"total":8508.70, "Transport":8508.70},
-			"2012-01": {"total":5925.80, "Transport":5925.80},
-			"2012-02": {"total":8051.50, "Transport":8051.50},
-			"2012-03": {"total":7476.35, "Transport":7476.35},
-			"2012-04": {"total":9070.40, "Transport":9070.40},
-			"2012-05": {"total":5783.80, "Transport":5783.80},
-			"2012-06": {"total":8145.00, "Transport":8145.00},
-			"2012-07": {"total":7295.00, "Transport":7295.00},
-			"2012-08": {"total":7754.30, "Transport":7754.30},
-			"2012-09": {"total":2630.00, "Transport":2630.00},
-			"2012-10": {"total":8138.70, "Transport":8138.70},
-			"2012-11": {"total":8929.90, "Transport":8929.90},
-			"2013-01": {"total":6610.95, "Transport":6610.95},
-			"2013-02": {"total":8197.10, "Transport":8197.10},
-			"2013-03": {"total":7008.65, "Transport":7008.65},
-			"2013-04": {"total":8858.90, "Transport":8858.90},
-			"2013-05": {"total":6910.20, "Transport":6910.20},
-			"2013-06": {"total":8307.30, "Transport":8307.30},
-			"2013-07": {"total":8529.60, "Transport":8529.60},
-			"2013-08": {"total":6125.25, "Transport":6125.25},
-			"2013-09": {"total":2650.00, "Transport":2650.00},
-			"2013-10": {"total":13759.03, "Transport":13759.03},
-			"2013-12": {"total":39571.65, "Transport":39571.65},
-			"2014-01": {"total":9492.62, "Transport":9492.62},
-			"2014-02": {"total":11214.48, "Transport":11214.48},
-			"2014-03": {"total":8070.39, "Transport":8070.39},
-			"2014-04": {"total":11377.13, "Transport":11377.13},
-			"2014-05": {"total":6539.57, "Transport":6539.57},
-			"2014-06": {"total":9011.38, "Transport":9011.38},
-			"2014-07": {"total":11342.28, "Transport":11342.28},
-			"2014-08": {"total":7518.18, "Transport":7518.18},
-			"2014-09": {"total":3285.00, "Transport":3285.00},
-			"2014-10": {"total":10159.30, "Transport":10159.30},
-			"2014-11": {"total":10084.80, "Transport":10084.80},
-			"2014-12": {"total":9873.50, "Transport":9873.50},
-			"2015-01": {"total":7947.90, "Transport":7947.90},
-			"2015-02": {"total":9000.00, "Transport":9000.00},
-			"2015-03": {"total":13793.80, "Transport":13793.80},
-			"2015-04": {"total":9966.40, "Transport":9966.40},
-			"2015-05": {"total":6530.20, "Transport":6530.20},
-			"2015-06": {"total":7283.50, "Transport":7283.50},
-			"2015-07": {"total":8341.50, "Transport":8341.50},
-			"2015-08": {"total":6516.00, "Transport":6516.00},
-			"2015-09": {"total":3965.00, "Transport":3965.00},
-			"2015-10": {"total":10927.50, "Transport":10927.50},
-			"2015-11": {"total":9637.82, "Transport":9637.82},
-			"2015-12": {"total":9859.50, "Transport":9859.50},
-			"2016-01": {"total":7756.00, "Transport":7756.00},
-			"2016-02": {"total":8919.00, "Transport":8919.00},
-			"2016-03": {"total":16117.50, "Transport":16117.50},
-			"2016-05": {"total":7663.50, "Transport":7663.50},
-			"2016-06": {"total":8571.50, "Transport":8571.50},
-			"2016-07": {"total":8653.50, "Transport":8653.50},
-			"2016-08": {"total":7453.00, "Transport":7453.00},
-			"2016-09": {"total":4284.00, "Transport":4284.00},
-			"2016-10": {"total":5213.00, "Transport":5213.00},
-			"2016-11": {"total":4113.00, "Transport":4113.00},
-			"2016-12": {"total":5095.47, "Transport":5095.47},
-			"2017-01": {"total":4013.00, "Transport":4013.00},
-			"2017-02": {"total":5289.00, "Transport":5289.00},
-			"2017-03": {"total":20588.00, "Transport":20588.00},
-			"2017-05": {"total":3390.00, "Transport":3390.00},
-			"2017-06": {"total":3947.00, "Transport":3947.00},
-			"2017-07": {"total":5256.00, "Transport":5256.00},
-			"2017-09": {"total":2550.00, "Transport":2550.00},
-			"2017-11": {"total":6073.00, "Transport":6073.00},
-			"2017-12": {"total":6209.00, "Transport":6209.00},
-			"2018-01": {"total":9524.00, "Transport":9524.00},
-			"2018-02": {"total":11162.00, "Transport":11162.00},
-			"2018-03": {"total":10255.00, "Transport":10255.00},
-			"2018-05": {"total":4040.00, "Transport":4040.00},
-			"2018-06": {"total":4276.00, "Transport":4276.00},
-			"2018-07": {"total":4765.00, "Transport":4765.00},
-			"2018-08": {"total":4025.00, "Transport":4025.00},
-			"2018-09": {"total":2580.00, "Transport":2580.00},
-			"2018-10": {"total":4333.00, "Transport":4333.00}
-		}
-	},
-	"1145": {
-		"name": "BURNT TREE GROUP LTD",
-		"total": 53150.62,
-		"monthly": {
-			"2011-01": {"total":1656.00, "Local Environmental Services":1656.00},
-			"2011-03": {"total":1110.00, "Local Environmental Services":1110.00},
-			"2011-04": {"total":1051.00, "Local Environmental Services":1051.00},
-			"2011-05": {"total":540.00, "Local Environmental Services":540.00},
-			"2011-07": {"total":660.00, "Transport":660.00},
-			"2011-09": {"total":630.00, "Transport":630.00},
-			"2011-10": {"total":660.00, "Transport":660.00},
-			"2011-11": {"total":2010.00, "Transport":2010.00},
-			"2011-12": {"total":660.00, "Transport":660.00},
-			"2012-01": {"total":510.00, "Transport":510.00},
-			"2012-02": {"total":630.00, "Transport":630.00},
-			"2012-03": {"total":630.00, "Transport":630.00},
-			"2012-04": {"total":495.00, "Transport":495.00},
-			"2012-05": {"total":627.00, "Transport":627.00},
-			"2012-07": {"total":1660.80, "Transport":1660.80},
-			"2012-08": {"total":1700.20, "Transport":1700.20},
-			"2012-10": {"total":2488.20, "Transport":2488.20},
-			"2012-11": {"total":4387.80, "Transport":4387.80},
-			"2013-01": {"total":1822.40, "Transport":1822.40},
-			"2013-02": {"total":1405.00, "Transport":1405.00},
-			"2013-03": {"total":2784.40, "Transport":2784.40},
-			"2013-05": {"total":831.20, "Transport":831.20},
-			"2013-07": {"total":1788.00, "Transport":1788.00},
-			"2013-08": {"total":1059.56, "Transport":1059.56},
-			"2014-03": {"total":594.40, "Transport":594.40},
-			"2014-04": {"total":717.85, "Transport":717.85},
-			"2014-05": {"total":415.80, "Transport":415.80},
-			"2014-06": {"total":430.65, "Transport":430.65},
-			"2014-07": {"total":445.50, "Transport":445.50},
-			"2014-08": {"total":502.80, "Transport":502.80},
-			"2014-09": {"total":445.50, "Transport":445.50},
-			"2014-10": {"total":916.80, "Transport":916.80},
-			"2014-11": {"total":805.97, "Transport":805.97},
-			"2015-01": {"total":1016.18, "Transport":1016.18},
-			"2015-02": {"total":2061.66, "Transport":2061.66},
-			"2015-03": {"total":3631.60, "Transport":3631.60},
-			"2015-04": {"total":2145.35, "Transport":2145.35},
-			"2015-05": {"total":2397.50, "Transport":2397.50},
-			"2015-06": {"total":573.30, "Transport":573.30},
-			"2015-07": {"total":2845.50, "Transport":2845.50},
-			"2015-08": {"total":784.35, "Transport":784.35},
-			"2015-09": {"total":623.35, "Transport":623.35}
-		}
-	},
-	"1146": {
-		"name": "BURNTWOOD COTTAGE GARDEN",
-		"total": 2420,
-		"monthly": {
-			"2012-04": {"total":2420.00, "Supplies and Services":2420.00}
-		}
-	},
-	"1147": {
-		"name": "BURY COUNCIL",
-		"total": 884.02,
-		"monthly": {
-			"2015-12": {"total":884.02, "Income: Fees and Charges":155.86, "Third Party Payments":728.16}
-		}
-	},
-	"1148": {
-		"name": "BUSINESS & ENTERPRISE COMMERCIAL LTD",
-		"alternate-names": [
-			"BUSINESS & ENTERPRISE COMMERCIAL LIMITED"
-		],
-		"total": 16000,
-		"monthly": {
-			"2015-08": {"total":8000.00, "Supplies and Services":8000.00},
-			"2016-05": {"total":8000.00, "Supplies and Services":8000.00}
-		}
-	},
-	"1149": {
-		"name": "BUSINESS & ENTERPRISE NORTH EAST LTD",
-		"total": 32000,
-		"monthly": {
-			"2013-02": {"total":8000.00, "Supplies and Services":8000.00},
-			"2013-10": {"total":8000.00, "Supplies and Services":8000.00},
-			"2014-09": {"total":8000.00, "Supplies and Services":8000.00},
-			"2015-02": {"total":8000.00, "Supplies and Services":8000.00}
 		}
 	}
 	}

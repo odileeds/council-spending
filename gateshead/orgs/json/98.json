@@ -2,27 +2,727 @@
 	"range": ["2010-12","2018-10"],
 	"data": {
 	"4900": {
+		"name": "NOFAS - UK",
+		"total": 1366,
+		"monthly": {
+			"2016-03": {"total":1366.00, "Employees":1366.00}
+		}
+	},
+	"4901": {
+		"name": "NOLA INTERIORS",
+		"total": 3060,
+		"monthly": {
+			"2015-08": {"total":2104.00, "Supplies and Services":2104.00},
+			"2016-04": {"total":956.00, "Supplies and Services":956.00}
+		}
+	},
+	"4902": {
+		"name": "NOMADE 5 HOUSING GROUP LTD",
+		"total": 4132.03,
+		"monthly": {
+			"2011-05": {"total":1049.95, "Community Based Services":1049.95},
+			"2011-06": {"total":996.81, "Community Based Services":996.81},
+			"2013-02": {"total":473.85, "Premises":473.85},
+			"2013-06": {"total":461.40, "Premises":461.40},
+			"2013-10": {"total":1150.02, "Premises":1150.02}
+		}
+	},
+	"4903": {
+		"name": "NOMAS",
+		"total": 600,
+		"monthly": {
+			"2012-11": {"total":600.00, "Employees":600.00}
+		}
+	},
+	"4904": {
+		"name": "NOMIX ENVIRO",
+		"total": 188506.8,
+		"monthly": {
+			"2011-03": {"total":16507.50, "Local Environmental Services":16507.50},
+			"2011-08": {"total":370.00, "Supplies and Services":370.00},
+			"2013-08": {"total":14600.70, "Premises":14600.70},
+			"2014-03": {"total":25171.10, "Supplies and Services":832.35, "Premises":24338.75},
+			"2014-04": {"total":24961.75, "Supplies and Services":533.00, "Premises":24428.75},
+			"2015-03": {"total":55850.80, "Supplies and Services":55850.80},
+			"2015-06": {"total":8610.00, "Supplies and Services":8610.00},
+			"2015-09": {"total":6150.00, "Supplies and Services":6150.00},
+			"2015-10": {"total":2460.00, "Supplies and Services":2460.00},
+			"2016-03": {"total":350.75, "Supplies and Services":350.75},
+			"2016-06": {"total":14172.00, "Third Party Payments":14172.00},
+			"2016-07": {"total":750.00, "Transport":750.00},
+			"2016-08": {"total":427.20, "Supplies and Services":427.20},
+			"2016-10": {"total":2970.00, "Third Party Payments":2970.00},
+			"2017-03": {"total":2160.00, "Supplies and Services":2160.00},
+			"2017-06": {"total":4237.50, "Supplies and Services":4237.50},
+			"2017-08": {"total":4237.50, "Supplies and Services":4237.50},
+			"2017-10": {"total":4520.00, "Third Party Payments":4520.00}
+		}
+	},
+	"4905": {
+		"name": "NOMIX ENVIRO LTD",
+		"alternate-names": [
+			"NOMIX ENVIRO LIMITED"
+		],
+		"total": 43659.5,
+		"monthly": {
+			"2011-04": {"total":2594.50, "Local Environmental Services":2594.50},
+			"2011-05": {"total":819.90, "Local Environmental Services":819.90},
+			"2012-02": {"total":16507.50, "Supplies and Services":16507.50},
+			"2012-05": {"total":1348.84, "Supplies and Services":1348.84},
+			"2012-07": {"total":5927.50, "Supplies and Services":45.00, "Premises":5882.50},
+			"2012-08": {"total":6329.40, "Supplies and Services":6329.40},
+			"2012-09": {"total":3996.00, "Premises":3996.00},
+			"2013-02": {"total":4435.00, "Supplies and Services":4435.00},
+			"2013-03": {"total":796.86, "Premises":796.86},
+			"2013-06": {"total":454.00, "Premises":454.00},
+			"2018-07": {"total":450.00, "Supplies and Services":450.00}
+		}
+	},
+	"4906": {
+		"name": "NOMOW LTD",
+		"total": 5000,
+		"monthly": {
+			"2013-04": {"total":2500.00, "Supplies and Services":2500.00},
+			"2013-06": {"total":2500.00, "Third Party Payments":2500.00}
+		}
+	},
+	"4907": {
+		"name": "NORCARE LTD",
+		"total": 859093.529999999,
+		"monthly": {
+			"2010-12": {"total":21992.15, "Community Based Services":21992.15},
+			"2011-01": {"total":53848.54, "Community Based Services":53848.54},
+			"2011-04": {"total":20342.70, "Community Based Services":20342.70},
+			"2011-05": {"total":40685.40, "Community Based Services":40685.40},
+			"2011-06": {"total":20342.70, "Community Based Services":20342.70},
+			"2011-07": {"total":20342.70, "Third Party Payments":20342.70},
+			"2011-08": {"total":20342.70, "Third Party Payments":20342.70},
+			"2011-09": {"total":20342.70, "Third Party Payments":20342.70},
+			"2011-10": {"total":20342.70, "Third Party Payments":20342.70},
+			"2011-11": {"total":20342.70, "Third Party Payments":20342.70},
+			"2011-12": {"total":40685.40, "Third Party Payments":40685.40},
+			"2012-02": {"total":40685.30, "Third Party Payments":40685.30},
+			"2012-04": {"total":17242.07, "Third Party Payments":17242.07},
+			"2012-05": {"total":34487.14, "Third Party Payments":34487.14},
+			"2012-06": {"total":4393.07, "Third Party Payments":4393.07},
+			"2012-07": {"total":4393.07, "Third Party Payments":4393.07},
+			"2012-08": {"total":17265.35, "Third Party Payments":17265.35},
+			"2012-09": {"total":6538.45, "Third Party Payments":6538.45},
+			"2012-10": {"total":6538.45, "Third Party Payments":6538.45},
+			"2012-11": {"total":10138.45, "Third Party Payments":10138.45},
+			"2013-01": {"total":10931.61, "Third Party Payments":10931.61},
+			"2013-02": {"total":2145.44, "Third Party Payments":2145.44},
+			"2013-04": {"total":6538.45, "Third Party Payments":6538.45},
+			"2013-05": {"total":14183.90, "Third Party Payments":14183.90},
+			"2013-06": {"total":6907.45, "Third Party Payments":6907.45},
+			"2013-07": {"total":6907.45, "Third Party Payments":6907.45},
+			"2013-08": {"total":6907.45, "Third Party Payments":6907.45},
+			"2013-09": {"total":6907.45, "Third Party Payments":6907.45},
+			"2013-10": {"total":6907.45, "Third Party Payments":6907.45},
+			"2013-12": {"total":20722.35, "Third Party Payments":20722.35},
+			"2014-01": {"total":18580.06, "Third Party Payments":18580.06},
+			"2014-02": {"total":2145.44, "Third Party Payments":2145.44},
+			"2014-04": {"total":13814.90, "Third Party Payments":13814.90},
+			"2014-05": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-06": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-07": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-08": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-09": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-10": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-11": {"total":6907.45, "Third Party Payments":6907.45},
+			"2014-12": {"total":13814.90, "Third Party Payments":13814.90},
+			"2015-02": {"total":6910.60, "Third Party Payments":6910.60},
+			"2015-04": {"total":19048.28, "Third Party Payments":19048.28},
+			"2015-05": {"total":4762.07, "Third Party Payments":4762.07},
+			"2015-06": {"total":13343.59, "Third Party Payments":13343.59},
+			"2015-07": {"total":6907.45, "Third Party Payments":6907.45},
+			"2015-08": {"total":6907.45, "Third Party Payments":6907.45},
+			"2015-09": {"total":6907.45, "Third Party Payments":6907.45},
+			"2015-10": {"total":6907.45, "Third Party Payments":6907.45},
+			"2015-11": {"total":6907.45, "Third Party Payments":6907.45},
+			"2015-12": {"total":13814.90, "Third Party Payments":13814.90},
+			"2016-02": {"total":6910.60, "Third Party Payments":6910.60},
+			"2016-04": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-05": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-06": {"total":13814.90, "Third Party Payments":13814.90},
+			"2016-07": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-08": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-09": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-10": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-11": {"total":6907.45, "Third Party Payments":6907.45},
+			"2016-12": {"total":6907.45, "Third Party Payments":6907.45},
+			"2017-01": {"total":6907.45, "Third Party Payments":6907.45},
+			"2017-02": {"total":6907.45, "Third Party Payments":6907.45},
+			"2017-03": {"total":13821.20, "Third Party Payments":13821.20},
+			"2017-04": {"total":9696.64, "Third Party Payments":9696.64},
+			"2017-05": {"total":19393.36, "Third Party Payments":19393.36}
+		}
+	},
+	"4908": {
+		"name": "NORMANS",
+		"total": 10181.68,
+		"monthly": {
+			"2010-12": {"total":716.00, "Learning and Children":716.00},
+			"2011-10": {"total":729.96, "Supplies and Services":729.96},
+			"2012-02": {"total":1466.72, "Supplies and Services":1466.72},
+			"2013-10": {"total":395.00, "Supplies and Services":395.00},
+			"2014-11": {"total":375.00, "Supplies and Services":375.00},
+			"2014-12": {"total":385.00, "Supplies and Services":385.00},
+			"2015-01": {"total":910.00, "Supplies and Services":910.00},
+			"2016-08": {"total":2214.00, "Supplies and Services":2214.00},
+			"2017-01": {"total":2990.00, "Supplies and Services":2990.00}
+		}
+	},
+	"4909": {
+		"name": "NORMATON SCREEN PRINTING",
+		"total": 1363.3,
+		"monthly": {
+			"2012-01": {"total":1363.30, "Supplies and Services":1363.30}
+		}
+	},
+	"4910": {
+		"name": "NORSEMAN DIRECT",
+		"total": 47038,
+		"monthly": {
+			"2011-10": {"total":763.00, "Supplies and Services":763.00},
+			"2011-12": {"total":901.00, "Supplies and Services":901.00},
+			"2012-04": {"total":1792.00, "Supplies and Services":1792.00},
+			"2012-06": {"total":415.00, "Supplies and Services":415.00},
+			"2012-10": {"total":6140.00, "Supplies and Services":6140.00},
+			"2012-11": {"total":965.00, "Supplies and Services":965.00},
+			"2013-01": {"total":458.00, "Supplies and Services":458.00},
+			"2013-03": {"total":796.00, "Supplies and Services":796.00},
+			"2013-05": {"total":675.00, "Supplies and Services":675.00},
+			"2013-07": {"total":398.00, "Supplies and Services":398.00},
+			"2013-09": {"total":570.00, "Supplies and Services":570.00},
+			"2013-10": {"total":1721.00, "Supplies and Services":1721.00},
+			"2014-03": {"total":518.00, "Supplies and Services":518.00},
+			"2014-09": {"total":398.00, "Supplies and Services":398.00},
+			"2014-10": {"total":490.00, "Supplies and Services":490.00},
+			"2015-03": {"total":7384.00, "Works":7384.00},
+			"2015-04": {"total":1818.00, "Works":1818.00},
+			"2015-05": {"total":850.00, "Supplies and Services":850.00},
+			"2015-06": {"total":1007.00, "Supplies and Services":1007.00},
+			"2015-07": {"total":2182.00, "Supplies and Services":1366.00, "Works":816.00},
+			"2015-10": {"total":399.00, "Supplies and Services":399.00},
+			"2015-11": {"total":668.00, "Supplies and Services":668.00},
+			"2016-01": {"total":412.00, "Supplies and Services":412.00},
+			"2016-03": {"total":2226.00, "Supplies and Services":2226.00},
+			"2016-04": {"total":1577.00, "Supplies and Services":1577.00},
+			"2016-06": {"total":508.00, "Supplies and Services":508.00},
+			"2016-08": {"total":508.00, "Supplies and Services":508.00},
+			"2016-09": {"total":1062.00, "Supplies and Services":1062.00},
+			"2016-10": {"total":1931.00, "Supplies and Services":1931.00},
+			"2016-11": {"total":442.00, "Supplies and Services":442.00},
+			"2017-02": {"total":881.00, "Supplies and Services":881.00},
+			"2017-03": {"total":1684.00, "Supplies and Services":1684.00},
+			"2017-04": {"total":435.00, "Supplies and Services":435.00},
+			"2017-05": {"total":524.00, "Supplies and Services":524.00},
+			"2017-06": {"total":438.00, "Supplies and Services":438.00},
+			"2017-10": {"total":572.00, "Supplies and Services":572.00},
+			"2017-12": {"total":686.00, "Supplies and Services":686.00},
+			"2018-03": {"total":924.00, "Supplies and Services":924.00},
+			"2018-04": {"total":485.00, "Supplies and Services":485.00},
+			"2018-09": {"total":435.00, "Supplies and Services":435.00}
+		}
+	},
+	"4911": {
+		"name": "NORSTEAD",
+		"total": 69930.44,
+		"monthly": {
+			"2011-02": {"total":2437.50, "Local Environmental Services":2437.50},
+			"2011-04": {"total":21451.31, "Local Environmental Services":21451.31},
+			"2011-05": {"total":20741.12, "Local Environmental Services":20741.12},
+			"2011-11": {"total":17790.77, "Supplies and Services":17790.77},
+			"2011-12": {"total":2330.74, "Supplies and Services":2330.74},
+			"2013-03": {"total":5179.00, "Supplies and Services":5179.00}
+		}
+	},
+	"4912": {
+		"name": "NORTH BRITISH HOUSING - TYNE BRIDGE",
+		"total": 27119.1599999994,
+		"monthly": {
+			"2010-12": {"total":568.96, "Community Based Services":568.96},
+			"2011-01": {"total":1267.06, "Community Based Services":1267.06},
+			"2011-04": {"total":510.68, "Community Based Services":510.68},
+			"2011-05": {"total":1021.36, "Community Based Services":1021.36},
+			"2011-06": {"total":510.68, "Community Based Services":510.68},
+			"2011-07": {"total":536.71, "Third Party Payments":536.71},
+			"2011-08": {"total":502.88, "Third Party Payments":502.88},
+			"2011-09": {"total":591.50, "Third Party Payments":591.50},
+			"2011-10": {"total":547.02, "Third Party Payments":547.02},
+			"2011-11": {"total":482.36, "Third Party Payments":482.36},
+			"2011-12": {"total":964.72, "Third Party Payments":964.72},
+			"2012-02": {"total":1085.98, "Third Party Payments":1085.98},
+			"2012-03": {"total":113.08, "Third Party Payments":113.08},
+			"2012-04": {"total":503.43, "Third Party Payments":503.43},
+			"2012-05": {"total":1002.96, "Third Party Payments":1002.96},
+			"2012-06": {"total":501.48, "Third Party Payments":501.48},
+			"2012-07": {"total":501.48, "Third Party Payments":501.48},
+			"2012-08": {"total":515.95, "Third Party Payments":515.95},
+			"2012-09": {"total":957.08, "Third Party Payments":957.08},
+			"2012-10": {"total":533.14, "Third Party Payments":533.14},
+			"2012-11": {"total":539.93, "Third Party Payments":539.93},
+			"2013-01": {"total":530.33, "Third Party Payments":530.33},
+			"2013-02": {"total":532.90, "Third Party Payments":532.90},
+			"2013-04": {"total":633.00, "Third Party Payments":633.00},
+			"2013-05": {"total":1012.80, "Third Party Payments":1012.80},
+			"2013-06": {"total":616.38, "Third Party Payments":616.38},
+			"2013-07": {"total":480.20, "Third Party Payments":480.20},
+			"2013-08": {"total":459.64, "Third Party Payments":459.64},
+			"2013-09": {"total":459.64, "Third Party Payments":459.64},
+			"2013-10": {"total":451.84, "Third Party Payments":451.84},
+			"2013-12": {"total":1308.72, "Third Party Payments":1308.72},
+			"2014-01": {"total":885.02, "Third Party Payments":885.02},
+			"2014-02": {"total":436.24, "Third Party Payments":436.24},
+			"2014-04": {"total":884.18, "Third Party Payments":884.18},
+			"2014-05": {"total":433.73, "Third Party Payments":433.73},
+			"2014-06": {"total":412.84, "Third Party Payments":412.84},
+			"2014-07": {"total":412.84, "Third Party Payments":412.84},
+			"2014-08": {"total":412.84, "Third Party Payments":412.84},
+			"2014-09": {"total":412.84, "Third Party Payments":412.84},
+			"2014-10": {"total":412.84, "Third Party Payments":412.84},
+			"2014-11": {"total":437.02, "Third Party Payments":437.02},
+			"2014-12": {"total":843.62, "Third Party Payments":843.62},
+			"2015-02": {"total":415.96, "Third Party Payments":415.96},
+			"2015-03": {"total":59.34, "Third Party Payments":59.34}
+		}
+	},
+	"4913": {
+		"name": "NORTH EAST ACCESSIBLE TRANSPORT",
+		"total": 589450.12,
+		"monthly": {
+			"2015-05": {"total":5561.63, "Transport":5561.63},
+			"2015-06": {"total":5993.77, "Transport":5993.77},
+			"2015-07": {"total":7955.46, "Transport":7955.46},
+			"2015-08": {"total":6888.34, "Transport":6888.34},
+			"2015-09": {"total":3740.80, "Transport":3740.80},
+			"2015-10": {"total":4558.38, "Transport":4558.38},
+			"2015-11": {"total":4337.06, "Transport":4337.06},
+			"2015-12": {"total":4650.08, "Transport":4650.08},
+			"2016-01": {"total":3980.20, "Transport":3980.20},
+			"2016-02": {"total":4548.00, "Transport":4548.00},
+			"2016-03": {"total":8492.95, "Transport":8492.95},
+			"2016-05": {"total":4151.00, "Transport":4151.00},
+			"2016-06": {"total":4356.75, "Transport":4356.75},
+			"2016-07": {"total":4318.95, "Transport":4318.95},
+			"2016-08": {"total":4004.10, "Transport":4004.10},
+			"2016-09": {"total":2957.70, "Transport":2957.70},
+			"2016-10": {"total":22332.92, "Transport":22332.92},
+			"2016-11": {"total":17934.68, "Transport":17934.68},
+			"2016-12": {"total":24748.50, "Transport":24748.50},
+			"2017-01": {"total":10239.11, "Transport":10239.11},
+			"2017-02": {"total":23596.74, "Transport":23596.74},
+			"2017-03": {"total":89013.46, "Transport":89013.46},
+			"2017-05": {"total":11557.37, "Transport":11557.37},
+			"2017-06": {"total":22953.90, "Transport":22953.90},
+			"2017-07": {"total":24074.70, "Transport":24074.70},
+			"2017-08": {"total":15934.72, "Transport":15934.72},
+			"2017-09": {"total":1750.85, "Transport":1750.85},
+			"2017-10": {"total":22459.52, "Transport":22459.52},
+			"2017-12": {"total":25957.26, "Transport":25957.26},
+			"2018-01": {"total":19146.08, "Transport":19146.08},
+			"2018-02": {"total":43078.68, "Transport":43078.68},
+			"2018-03": {"total":40533.27, "Transport":40533.27},
+			"2018-05": {"total":12319.20, "Transport":12319.20},
+			"2018-06": {"total":20187.00, "Transport":20187.00},
+			"2018-07": {"total":23256.15, "Transport":23256.15},
+			"2018-08": {"total":17833.75, "Transport":17833.75},
+			"2018-09": {"total":1750.85, "Transport":1750.85},
+			"2018-10": {"total":18296.24, "Transport":18296.24}
+		}
+	},
+	"4914": {
+		"name": "NORTH EAST ALUMINIUM (UK) LTD",
+		"total": 5880,
+		"monthly": {
+			"2012-03": {"total":5880.00, "Third Party Payments":5880.00}
+		}
+	},
+	"4915": {
+		"name": "NORTH EAST AMBULANCE SERVICE",
+		"total": 51342.54,
+		"monthly": {
+			"2010-12": {"total":725.00, "Community Based Services":725.00},
+			"2011-03": {"total":420.00, "Learning and Children":420.00},
+			"2011-04": {"total":1710.00, "Learning and Children":1710.00},
+			"2011-07": {"total":437.00, "Employees":437.00},
+			"2011-08": {"total":3440.00, "Supplies and Services":3440.00},
+			"2011-09": {"total":437.00, "Supplies and Services":437.00},
+			"2011-11": {"total":1525.00, "Supplies and Services":1525.00},
+			"2012-01": {"total":437.00, "Supplies and Services":437.00},
+			"2012-04": {"total":960.00, "Supplies and Services":960.00},
+			"2012-05": {"total":437.00, "Employees":437.00},
+			"2012-06": {"total":1034.55, "Employees":1034.55},
+			"2012-08": {"total":4865.00, "Supplies and Services":4865.00},
+			"2012-11": {"total":725.00, "Supplies and Services":725.00},
+			"2013-06": {"total":490.00, "Full Authority":490.00},
+			"2013-08": {"total":3890.50, "Supplies and Services":2960.00, "Employees":930.50},
+			"2013-09": {"total":880.00, "Supplies and Services":880.00},
+			"2013-12": {"total":5745.60, "Employees":5745.60},
+			"2014-07": {"total":494.00, "Employees":494.00},
+			"2014-12": {"total":950.00, "Supplies and Services":950.00},
+			"2015-08": {"total":5510.00, "Supplies and Services":5510.00},
+			"2015-09": {"total":3473.20, "Employees":623.20, "Supplies and Services":2850.00},
+			"2016-02": {"total":509.20, "Employees":509.20},
+			"2016-03": {"total":509.20, "Employees":509.20},
+			"2016-05": {"total":509.20, "Employees":509.20},
+			"2016-07": {"total":509.20, "Employees":509.20},
+			"2016-08": {"total":7165.94, "Supplies and Services":7165.94},
+			"2016-10": {"total":498.75, "Employees":498.75},
+			"2016-12": {"total":509.20, "Employees":509.20},
+			"2017-01": {"total":509.20, "Employees":509.20},
+			"2017-05": {"total":509.20, "Employees":509.20},
+			"2017-09": {"total":509.20, "Employees":509.20},
+			"2017-10": {"total":509.20, "Employees":509.20},
+			"2018-03": {"total":509.20, "Supplies and Services":509.20}
+		}
+	},
+	"4916": {
+		"name": "NORTH EAST AMBULANCE TRAINING SERVICES",
+		"total": 2744.95,
+		"monthly": {
+			"2011-07": {"total":540.00, "Supplies and Services":540.00},
+			"2011-10": {"total":874.00, "Supplies and Services":874.00},
+			"2012-07": {"total":484.50, "Employees":484.50},
+			"2012-09": {"total":846.45, "unknown":846.45}
+		}
+	},
+	"4917": {
+		"name": "NORTH EAST APPRENTICESHIP COMPANY LTD",
+		"total": 25000,
+		"monthly": {
+			"2011-04": {"total":25000.00, "Central Services":25000.00}
+		}
+	},
+	"4918": {
+		"name": "NORTH EAST AUTISM SOCIETY",
+		"total": 9029972.50000002,
+		"monthly": {
+			"2010-12": {"total":167391.28, "Community Based Services":120927.28, "Learning and Children":46464.00},
+			"2011-01": {"total":58530.99, "Learning and Children":53038.67, "Community Based Services":5492.32},
+			"2011-02": {"total":50254.00, "Learning and Children":50254.00},
+			"2011-03": {"total":90190.96, "Learning and Children":73544.00, "Community Based Services":16646.96},
+			"2011-04": {"total":156164.64, "Community Based Services":93978.98, "Learning and Children":62185.66},
+			"2011-05": {"total":205461.67, "Learning and Children":57235.64, "Community Based Services":148226.03},
+			"2011-06": {"total":25552.46, "Community Based Services":16731.96, "Learning and Children":8820.50},
+			"2011-07": {"total":73945.30, "Third Party Payments":73945.30},
+			"2011-08": {"total":94246.25, "Third Party Payments":94246.25},
+			"2011-09": {"total":61622.12, "Third Party Payments":61622.12},
+			"2011-10": {"total":8401.50, "Third Party Payments":8401.50},
+			"2011-11": {"total":157537.96, "Third Party Payments":157537.96},
+			"2011-12": {"total":104721.30, "Third Party Payments":104721.30},
+			"2012-01": {"total":73547.34, "Third Party Payments":73547.34},
+			"2012-02": {"total":193784.91, "Income: Customer and Client Receipts":683.60, "Third Party Payments":193101.31},
+			"2012-03": {"total":98200.72, "Income: Customer and Client Receipts":1403.82, "Third Party Payments":96796.90},
+			"2012-04": {"total":24164.64, "Third Party Payments":23113.68, "Income: Customer and Client Receipts":1050.96},
+			"2012-05": {"total":103265.80, "Third Party Payments":102206.32, "Income: Customer and Client Receipts":1059.48},
+			"2012-06": {"total":74683.78, "Third Party Payments":73624.30, "Income: Customer and Client Receipts":1059.48},
+			"2012-07": {"total":134008.16, "Third Party Payments":132948.68, "Income: Customer and Client Receipts":1059.48},
+			"2012-08": {"total":147803.97, "Income: Customer and Client Receipts":1059.48, "Third Party Payments":146744.49},
+			"2012-09": {"total":41384.66, "Transport":210.00, "Income: Customer and Client Receipts":1059.48, "Third Party Payments":40115.18},
+			"2012-10": {"total":152878.37, "Third Party Payments":151818.89, "Income: Customer and Client Receipts":1059.48},
+			"2012-11": {"total":45817.65, "Income: Customer and Client Receipts":1059.48, "Third Party Payments":44758.17},
+			"2013-01": {"total":74533.00, "Third Party Payments":71836.60, "Income: Customer and Client Receipts":2096.40, "Supplies and Services":600.00},
+			"2013-02": {"total":120772.22, "Third Party Payments":119124.02, "Income: Customer and Client Receipts":1048.20, "Supplies and Services":600.00},
+			"2013-03": {"total":75588.16, "Third Party Payments":74539.96, "Income: Customer and Client Receipts":1048.20},
+			"2013-04": {"total":100413.99, "Income: Customer and Client Receipts":1055.40, "Third Party Payments":99358.59},
+			"2013-05": {"total":209606.24, "Third Party Payments":206129.34, "Transport":2419.10, "Income: Customer and Client Receipts":1057.80},
+			"2013-06": {"total":91444.57, "Third Party Payments":85634.57, "Income: Customer and Client Receipts":1057.80, "Transport":4752.20},
+			"2013-07": {"total":86216.49, "Income: Customer and Client Receipts":1057.80, "Third Party Payments":85158.69},
+			"2013-08": {"total":105460.54, "Income: Customer and Client Receipts":1057.80, "Third Party Payments":104402.74},
+			"2013-09": {"total":125374.38, "Third Party Payments":123808.08, "Transport":508.50, "Income: Customer and Client Receipts":1057.80},
+			"2013-10": {"total":85072.67, "Income: Customer and Client Receipts":1057.80, "Third Party Payments":84014.87},
+			"2013-12": {"total":218292.60, "Income: Fees and Charges":6346.80, "Third Party Payments":210146.10, "Employees":1799.70},
+			"2014-01": {"total":166654.39, "Transport":1288.20, "Income: Fees and Charges":1057.80, "Third Party Payments":164308.39},
+			"2014-02": {"total":40887.72, "Third Party Payments":39321.42, "Income: Fees and Charges":1057.80, "Transport":508.50},
+			"2014-03": {"total":74950.73, "Transport":644.10, "Third Party Payments":73248.83, "Income: Fees and Charges":1057.80},
+			"2014-04": {"total":150436.70, "Transport":1220.40, "Third Party Payments":148135.55, "Income: Fees and Charges":1080.75},
+			"2014-05": {"total":49917.22, "Income: Fees and Charges":1088.40, "Third Party Payments":48828.82},
+			"2014-06": {"total":48108.17, "Income: Fees and Charges":1088.40, "Third Party Payments":47019.77},
+			"2014-07": {"total":77259.14, "Transport":1254.30, "Income: Fees and Charges":1071.40, "Third Party Payments":74933.44},
+			"2014-08": {"total":50933.52, "Third Party Payments":49387.52, "Income: Fees and Charges":1071.40, "Transport":474.60},
+			"2014-09": {"total":129879.61, "Income: Fees and Charges":1071.40, "Third Party Payments":128808.21},
+			"2014-10": {"total":65843.54, "Income: Fees and Charges":1071.40, "Third Party Payments":64772.14},
+			"2014-11": {"total":99495.54, "Third Party Payments":97746.14, "Income: Fees and Charges":1071.40, "Transport":678.00},
+			"2014-12": {"total":170340.52, "Transport":820.80, "Income: Fees and Charges":2142.80, "Third Party Payments":167376.92},
+			"2015-01": {"total":108166.69, "Transport":912.00, "Income: Fees and Charges":1071.40, "Third Party Payments":106183.29},
+			"2015-02": {"total":61333.30, "Income: Fees and Charges":1071.40, "Third Party Payments":58711.50, "Transport":1550.40},
+			"2015-03": {"total":207650.30, "Transport":1368.00, "Third Party Payments":204139.50, "Income: Fees and Charges":2142.80},
+			"2015-04": {"total":112868.93, "Third Party Payments":111793.63, "Income: Fees and Charges":1075.30},
+			"2015-05": {"total":127750.92, "Income: Fees and Charges":1076.60, "Third Party Payments":125762.32, "Transport":912.00},
+			"2015-06": {"total":59389.88, "Third Party Payments":58313.28, "Income: Fees and Charges":1076.60},
+			"2015-07": {"total":65456.73, "Transport":987.80, "Third Party Payments":63392.33, "Income: Fees and Charges":1076.60},
+			"2015-08": {"total":59306.13, "Third Party Payments":58229.53, "Income: Fees and Charges":1076.60},
+			"2015-09": {"total":111983.79, "Income: Fees and Charges":1076.60, "Third Party Payments":110907.19},
+			"2015-10": {"total":114550.57, "Income: Fees and Charges":1076.60, "Third Party Payments":113473.97},
+			"2015-11": {"total":44679.60, "Income: Fees and Charges":1076.60, "Third Party Payments":43603.00},
+			"2015-12": {"total":85404.96, "Third Party Payments":83251.76, "Income: Fees and Charges":2153.20},
+			"2016-01": {"total":142813.26, "Income: Fees and Charges":1076.60, "Third Party Payments":141736.66},
+			"2016-02": {"total":49179.60, "Third Party Payments":48103.00, "Income: Fees and Charges":1076.60},
+			"2016-03": {"total":161998.70, "Transport":339.20, "Third Party Payments":160582.90, "Income: Fees and Charges":1076.60},
+			"2016-04": {"total":106002.02, "Transport":420.00, "Income: Fees and Charges":1076.60, "Third Party Payments":104505.42},
+			"2016-05": {"total":45900.00, "Income: Fees and Charges":1076.60, "Third Party Payments":44643.40, "Transport":180.00},
+			"2016-06": {"total":46457.20, "Third Party Payments":45380.60, "Income: Fees and Charges":1076.60},
+			"2016-07": {"total":101209.35, "Third Party Payments":100132.75, "Income: Fees and Charges":1076.60},
+			"2016-08": {"total":106973.65, "Third Party Payments":105807.05, "Income: Fees and Charges":1076.60, "Transport":90.00},
+			"2016-09": {"total":44679.60, "Income: Fees and Charges":1076.60, "Third Party Payments":43603.00},
+			"2016-10": {"total":101505.70, "Income: Fees and Charges":1076.60, "Third Party Payments":100429.10},
+			"2016-11": {"total":174711.35, "Income: Fees and Charges":2153.20, "Third Party Payments":172558.15},
+			"2016-12": {"total":33751.21, "Income: Fees and Charges":855.59, "Third Party Payments":32895.62},
+			"2017-01": {"total":51553.32, "Income: Fees and Charges":732.80, "Third Party Payments":50820.52},
+			"2017-02": {"total":174527.62, "Income: Fees and Charges":1886.99, "Third Party Payments":172640.63},
+			"2017-03": {"total":92613.60, "Third Party Payments":90460.40, "Income: Fees and Charges":2153.20},
+			"2017-04": {"total":45622.20, "Third Party Payments":44552.20, "Income: Fees and Charges":1070.00},
+			"2017-05": {"total":102857.23, "Income: Fees and Charges":1063.40, "Third Party Payments":101548.83, "Transport":245.00},
+			"2017-06": {"total":44666.40, "Third Party Payments":43603.00, "Income: Fees and Charges":1063.40},
+			"2017-07": {"total":99523.30, "Third Party Payments":98459.90, "Income: Fees and Charges":1063.40},
+			"2017-08": {"total":101196.13, "Third Party Payments":100132.73, "Income: Fees and Charges":1063.40},
+			"2017-09": {"total":66920.03, "Income: Fees and Charges":1063.40, "Third Party Payments":65856.63},
+			"2017-10": {"total":128601.77, "Income: Fees and Charges":1063.40, "Third Party Payments":127538.37},
+			"2017-12": {"total":35168.24, "Third Party Payments":34104.84, "Income: Fees and Charges":1063.40},
+			"2018-01": {"total":63556.72, "Third Party Payments":62493.32, "Income: Fees and Charges":1063.40},
+			"2018-02": {"total":306610.86, "Third Party Payments":303956.06, "Income: Fees and Charges":2654.80},
+			"2018-03": {"total":49494.48, "Income: Fees and Charges":1195.40, "Third Party Payments":48299.08},
+			"2018-04": {"total":49494.48, "Income: Fees and Charges":1195.40, "Third Party Payments":48299.08},
+			"2018-05": {"total":142139.77, "Income: Fees and Charges":1220.76, "Third Party Payments":140919.01},
+			"2018-06": {"total":50616.29, "Third Party Payments":49395.53, "Income: Fees and Charges":1220.76},
+			"2018-07": {"total":101936.17, "Third Party Payments":100715.41, "Income: Fees and Charges":1220.76},
+			"2018-08": {"total":52614.31, "Income: Fees and Charges":1200.96, "Third Party Payments":51413.35},
+			"2018-09": {"total":79025.44, "Third Party Payments":77809.08, "Income: Fees and Charges":1216.36},
+			"2018-10": {"total":156468.61, "Income: Fees and Charges":2432.72, "Third Party Payments":154035.89}
+		}
+	},
+	"4919": {
+		"name": "NORTH EAST AUTOMATION LTD",
+		"total": 185830.26,
+		"monthly": {
+			"2011-09": {"total":6805.19, "Third Party Payments":6805.19},
+			"2011-10": {"total":12693.00, "Third Party Payments":12693.00},
+			"2012-07": {"total":350.00, "Third Party Payments":350.00},
+			"2012-09": {"total":54311.00, "Third Party Payments":54311.00},
+			"2012-10": {"total":24640.55, "Third Party Payments":8691.55, "Supplies and Services":15949.00},
+			"2013-12": {"total":1875.00, "Supplies and Services":1875.00},
+			"2014-01": {"total":805.00, "Supplies and Services":805.00},
+			"2014-10": {"total":17951.94, "Supplies and Services":17951.94},
+			"2014-12": {"total":1976.00, "Supplies and Services":1976.00},
+			"2015-05": {"total":10007.00, "Supplies and Services":10007.00},
+			"2015-06": {"total":1455.00, "Supplies and Services":1455.00},
+			"2015-08": {"total":1475.50, "Supplies and Services":1475.50},
+			"2015-09": {"total":360.00, "Supplies and Services":360.00},
+			"2015-10": {"total":1370.00, "Supplies and Services":1370.00},
+			"2015-11": {"total":1887.00, "Supplies and Services":1887.00},
+			"2016-05": {"total":15113.00, "Supplies and Services":15113.00},
+			"2016-09": {"total":1450.00, "Supplies and Services":1450.00},
+			"2016-11": {"total":11299.00, "Supplies and Services":11299.00},
+			"2016-12": {"total":1890.00, "Supplies and Services":1890.00},
+			"2017-01": {"total":2420.00, "Supplies and Services":2420.00},
+			"2017-02": {"total":938.00, "Supplies and Services":938.00},
+			"2017-03": {"total":1326.00, "Supplies and Services":1326.00},
+			"2017-10": {"total":3463.50, "Supplies and Services":3463.50},
+			"2018-06": {"total":9028.58, "Supplies and Services":9028.58},
+			"2018-10": {"total":940.00, "Supplies and Services":940.00}
+		}
+	},
+	"4920": {
+		"name": "NORTH EAST BIC",
+		"total": 185021.02,
+		"monthly": {
+			"2011-08": {"total":3354.66, "Supplies and Services":3354.66},
+			"2011-09": {"total":3354.66, "Supplies and Services":3354.66},
+			"2011-10": {"total":3354.66, "Supplies and Services":3354.66},
+			"2012-01": {"total":10063.98, "Supplies and Services":10063.98},
+			"2012-02": {"total":3354.66, "Supplies and Services":3354.66},
+			"2012-03": {"total":3354.66, "Supplies and Services":3354.66},
+			"2012-04": {"total":3354.66, "Supplies and Services":3354.66},
+			"2012-05": {"total":3354.66, "Supplies and Services":3354.66},
+			"2012-07": {"total":3354.66, "Supplies and Services":3354.66},
+			"2013-02": {"total":2709.09, "Supplies and Services":2709.09},
+			"2013-03": {"total":2709.09, "Supplies and Services":2709.09},
+			"2013-04": {"total":2709.09, "Supplies and Services":2709.09},
+			"2013-07": {"total":18499.78, "Supplies and Services":18499.78},
+			"2013-08": {"total":5241.27, "Supplies and Services":5241.27},
+			"2013-09": {"total":10659.22, "Supplies and Services":10659.22},
+			"2013-10": {"total":5329.61, "Supplies and Services":5329.61},
+			"2013-12": {"total":15988.83, "Supplies and Services":15988.83},
+			"2014-01": {"total":9820.02, "Supplies and Services":9820.02},
+			"2014-03": {"total":4490.41, "Supplies and Services":4490.41},
+			"2014-04": {"total":4490.41, "Supplies and Services":4490.41},
+			"2014-05": {"total":4490.41, "Supplies and Services":4490.41},
+			"2014-06": {"total":3831.58, "Supplies and Services":3831.58},
+			"2014-07": {"total":3831.58, "Supplies and Services":3831.58},
+			"2014-08": {"total":3831.58, "Supplies and Services":3831.58},
+			"2014-09": {"total":3831.58, "Supplies and Services":3831.58},
+			"2014-10": {"total":4240.13, "Supplies and Services":4240.13},
+			"2014-11": {"total":4240.13, "Supplies and Services":4240.13},
+			"2014-12": {"total":4240.13, "Supplies and Services":4240.13},
+			"2015-01": {"total":4240.13, "Supplies and Services":4240.13},
+			"2015-05": {"total":942.22, "Supplies and Services":942.22},
+			"2015-06": {"total":397.51, "Supplies and Services":397.51},
+			"2015-11": {"total":883.36, "Supplies and Services":883.36},
+			"2018-10": {"total":26472.60, "Third Party Payments":26472.60}
+		}
+	},
+	"4921": {
+		"name": "NORTH EAST CHAMBER OF COMMERCE",
+		"total": 19320.5,
+		"monthly": {
+			"2011-05": {"total":1966.00, "Central Services":1966.00},
+			"2011-07": {"total":833.33, "Supplies and Services":833.33},
+			"2012-08": {"total":2039.00, "Supplies and Services":2039.00},
+			"2012-10": {"total":2374.17, "Supplies and Services":2374.17},
+			"2013-04": {"total":2135.00, "Supplies and Services":2135.00},
+			"2015-04": {"total":2320.00, "Supplies and Services":2320.00},
+			"2016-04": {"total":2412.00, "Supplies and Services":2412.00},
+			"2017-05": {"total":2661.00, "Supplies and Services":2661.00},
+			"2018-04": {"total":2580.00, "Supplies and Services":2580.00}
+		}
+	},
+	"4922": {
+		"name": "NORTH EAST CHEMICALS LTD",
+		"total": 15823.3,
+		"monthly": {
+			"2011-03": {"total":1432.00, "Local Environmental Services":1432.00},
+			"2011-05": {"total":486.00, "Local Environmental Services":486.00},
+			"2012-08": {"total":842.70, "Premises":842.70},
+			"2012-11": {"total":777.00, "Premises":777.00},
+			"2014-11": {"total":357.00, "Premises":357.00},
+			"2015-08": {"total":460.00, "Supplies and Services":460.00},
+			"2016-01": {"total":1911.00, "Supplies and Services":1911.00},
+			"2016-11": {"total":1911.00, "Premises":1911.00},
+			"2017-03": {"total":839.60, "Supplies and Services":839.60},
+			"2017-07": {"total":1911.00, "Premises":1911.00},
+			"2017-10": {"total":2061.00, "Premises":2061.00},
+			"2018-05": {"total":2835.00, "Premises":2835.00}
+		}
+	},
+	"4923": {
+		"name": "NORTH EAST COMBINED AUTHORITY",
+		"total": 228927.6,
+		"monthly": {
+			"2017-02": {"total":98571.43, "Third Party Payments":98571.43},
+			"2017-06": {"total":6784.74, "unknown":6784.74},
+			"2017-09": {"total":25000.00, "Third Party Payments":25000.00},
+			"2018-01": {"total":98571.43, "Third Party Payments":98571.43}
+		}
+	},
+	"4924": {
+		"name": "NORTH EAST COMMERCIAL AND INDUSTRIAL CLEANING LTD",
+		"total": 385,
+		"monthly": {
+			"2016-10": {"total":385.00, "Supplies and Services":385.00}
+		}
+	},
+	"4925": {
+		"name": "NORTH EAST CONCRETE LTD",
+		"total": 922374.14,
+		"monthly": {
+			"2011-04": {"total":4452.30, "Local Environmental Services":4452.30},
+			"2011-05": {"total":5089.03, "Local Environmental Services":5089.03},
+			"2011-06": {"total":6006.25, "Local Environmental Services":6006.25},
+			"2011-07": {"total":971.66, "Supplies and Services":971.66},
+			"2011-08": {"total":788.70, "Supplies and Services":788.70},
+			"2014-05": {"total":10646.40, "Supplies and Services":10646.40},
+			"2014-06": {"total":11512.36, "Supplies and Services":11512.36},
+			"2014-07": {"total":6929.46, "Supplies and Services":6929.46},
+			"2014-08": {"total":15185.80, "Supplies and Services":15185.80},
+			"2014-09": {"total":12300.92, "Supplies and Services":12300.92},
+			"2014-10": {"total":5602.14, "Supplies and Services":5602.14},
+			"2014-11": {"total":6394.48, "Supplies and Services":6394.48},
+			"2014-12": {"total":22772.14, "Supplies and Services":22772.14},
+			"2015-01": {"total":18021.12, "Supplies and Services":18021.12},
+			"2015-02": {"total":3394.50, "Supplies and Services":3394.50},
+			"2015-03": {"total":41496.40, "Supplies and Services":41496.40},
+			"2015-04": {"total":3014.20, "Supplies and Services":3014.20},
+			"2015-05": {"total":20322.66, "Supplies and Services":20322.66},
+			"2015-06": {"total":13986.94, "Supplies and Services":13986.94},
+			"2015-07": {"total":7806.02, "Supplies and Services":7806.02},
+			"2015-08": {"total":8164.44, "Supplies and Services":8164.44},
+			"2015-09": {"total":14724.96, "Supplies and Services":14724.96},
+			"2015-10": {"total":19679.91, "Supplies and Services":19679.91},
+			"2015-11": {"total":617.30, "Supplies and Services":617.30},
+			"2015-12": {"total":2880.92, "Supplies and Services":2880.92},
+			"2016-01": {"total":8924.12, "Supplies and Services":8924.12},
+			"2016-02": {"total":23067.72, "Supplies and Services":23067.72},
+			"2016-03": {"total":18576.05, "Supplies and Services":18576.05},
+			"2016-04": {"total":20158.67, "Supplies and Services":20158.67},
+			"2016-05": {"total":5525.96, "Supplies and Services":5525.96},
+			"2016-06": {"total":16791.62, "Supplies and Services":16791.62},
+			"2016-07": {"total":4026.30, "Supplies and Services":4026.30},
+			"2016-08": {"total":1126.30, "Supplies and Services":1126.30},
+			"2016-09": {"total":20406.16, "Supplies and Services":20406.16},
+			"2016-10": {"total":18970.34, "Supplies and Services":18970.34},
+			"2016-11": {"total":19005.42, "Supplies and Services":19005.42},
+			"2016-12": {"total":17752.24, "Supplies and Services":17752.24},
+			"2017-01": {"total":20030.50, "Supplies and Services":20030.50},
+			"2017-02": {"total":7387.41, "Supplies and Services":7387.41},
+			"2017-03": {"total":42547.04, "Supplies and Services":42547.04},
+			"2017-04": {"total":17908.66, "Supplies and Services":17908.66},
+			"2017-05": {"total":32075.76, "Supplies and Services":32075.76},
+			"2017-06": {"total":31496.60, "Supplies and Services":31496.60},
+			"2017-07": {"total":22822.02, "Supplies and Services":22822.02},
+			"2017-08": {"total":9710.24, "Supplies and Services":9710.24},
+			"2017-09": {"total":23017.32, "Supplies and Services":23017.32},
+			"2017-10": {"total":13096.56, "Supplies and Services":13096.56},
+			"2017-12": {"total":47092.52, "Supplies and Services":47092.52},
+			"2018-01": {"total":20906.66, "Supplies and Services":20906.66},
+			"2018-02": {"total":42499.20, "Supplies and Services":42499.20},
+			"2018-03": {"total":25619.30, "Supplies and Services":25619.30},
+			"2018-04": {"total":25713.46, "Supplies and Services":25713.46},
+			"2018-05": {"total":15451.26, "Supplies and Services":15451.26},
+			"2018-06": {"total":28142.82, "Supplies and Services":28142.82},
+			"2018-07": {"total":10826.54, "Supplies and Services":10826.54},
+			"2018-08": {"total":10590.80, "Supplies and Services":10590.80},
+			"2018-09": {"total":6930.06, "Supplies and Services":6930.06},
+			"2018-10": {"total":31417.50, "Supplies and Services":31417.50}
+		}
+	},
+	"4926": {
+		"name": "NORTH EAST COUNSELLING SERVICES",
+		"total": 14583,
+		"monthly": {
+			"2011-02": {"total":7291.50, "Learning and Children":7291.50},
+			"2011-05": {"total":7291.50, "Learning and Children":7291.50}
+		}
+	},
+	"4927": {
+		"name": "NORTH EAST COUNSELLING SERVICES CIC",
+		"total": 10605,
+		"monthly": {
+			"2013-07": {"total":750.00, "Supplies and Services":750.00},
+			"2014-07": {"total":855.00, "Third Party Payments":855.00},
+			"2016-11": {"total":9000.00, "Third Party Payments":9000.00}
+		}
+	},
+	"4928": {
+		"name": "NORTH EAST ENTERPRISE BOND",
+		"total": 500,
+		"monthly": {
+			"2011-05": {"total":500.00, "Local Environmental Services":500.00}
+		}
+	},
+	"4929": {
 		"name": "NORTH EAST EQUALITY AND DIVERSITY LTD",
 		"total": 910,
 		"monthly": {
 			"2018-10": {"total":910.00, "Employees":910.00}
 		}
 	},
-	"4901": {
+	"4930": {
 		"name": "NORTH EAST FAMILY THERAPY ASSOCIATES",
 		"total": 730,
 		"monthly": {
 			"2011-10": {"total":730.00, "Supplies and Services":730.00}
 		}
 	},
-	"4902": {
+	"4931": {
 		"name": "NORTH EAST LEARNING PROVIDERS NETWORK LTD",
 		"total": 450,
 		"monthly": {
 			"2016-09": {"total":450.00, "Supplies and Services":450.00}
 		}
 	},
-	"4903": {
+	"4932": {
 		"name": "NORTH EAST LOCK & KEY CO",
 		"total": 2456.28,
 		"monthly": {
@@ -31,28 +731,28 @@
 			"2017-07": {"total":606.12, "Supplies and Services":606.12}
 		}
 	},
-	"4904": {
+	"4933": {
 		"name": "NORTH EAST PEST CONTROL",
 		"total": 420,
 		"monthly": {
 			"2011-01": {"total":420.00, "Local Environmental Services":420.00}
 		}
 	},
-	"4905": {
+	"4934": {
 		"name": "NORTH EAST RADIO COMMUNICATIONS LTD",
-		"total": 30984.56,
+		"total": 35390.76,
 		"monthly": {
 			"2014-11": {"total":1348.60, "Transport":1348.60},
 			"2015-01": {"total":788.00, "Transport":788.00},
 			"2017-09": {"total":8925.00, "Purchase of Equipment":8925.00},
-			"2017-11": {"total":7260.00, "unknown":7260.00},
-			"2018-01": {"total":3067.60, "Transport":3067.60},
+			"2017-10": {"total":13200.00, "Purchase of Equipment":13200.00},
+			"2018-01": {"total":1533.80, "Transport":1533.80},
 			"2018-02": {"total":7231.00, "Transport":7231.00},
 			"2018-04": {"total":640.00, "Supplies and Services":640.00},
 			"2018-07": {"total":1724.36, "Transport":1724.36}
 		}
 	},
-	"4906": {
+	"4935": {
 		"name": "NORTH EAST REINFORCEMENT LTD",
 		"total": 2550,
 		"monthly": {
@@ -60,26 +760,19 @@
 			"2013-05": {"total":1050.00, "Supplies and Services":1050.00}
 		}
 	},
-	"4907": {
-		"name": "NORTH EAST RESCUE AND MEDICAL SERVICES LTD",
-		"total": 896,
-		"monthly": {
-			"2017-11": {"total":896.00, "Supplies and Services":896.00}
-		}
-	},
-	"4908": {
+	"4936": {
 		"name": "NORTH EAST ROOFING SPECIALISTS",
 		"total": 2131.12,
 		"monthly": {
 			"2011-09": {"total":2131.12, "Other Costs":2131.12}
 		}
 	},
-	"4909": {
+	"4937": {
 		"name": "NORTH EAST RUGBY LEAGUE MULTI-SKILLS LTD",
 		"alternate-names": [
 			"NORTH EAST RUGBY LEAGUE MULTI-SKILLS LIMITED"
 		],
-		"total": 10416,
+		"total": 9228,
 		"monthly": {
 			"2014-02": {"total":640.00, "Supplies and Services":640.00},
 			"2014-04": {"total":1060.00, "Supplies and Services":1060.00},
@@ -91,11 +784,10 @@
 			"2016-06": {"total":840.00, "Supplies and Services":840.00},
 			"2016-08": {"total":780.00, "Supplies and Services":780.00},
 			"2016-11": {"total":600.00, "Supplies and Services":600.00},
-			"2017-11": {"total":1188.00, "Supplies and Services":1188.00},
 			"2017-12": {"total":528.00, "Supplies and Services":528.00}
 		}
 	},
-	"4910": {
+	"4938": {
 		"name": "NORTH EAST SKILLS FOR WORK",
 		"total": 10469.79,
 		"monthly": {
@@ -104,14 +796,14 @@
 			"2011-09": {"total":4300.00, "Supplies and Services":4300.00}
 		}
 	},
-	"4911": {
+	"4939": {
 		"name": "NORTH EAST SOUND PROOFING & INSULATION (IAN PEARCE)",
 		"total": 6338.77,
 		"monthly": {
 			"2013-08": {"total":6338.77, "Other Costs":6338.77}
 		}
 	},
-	"4912": {
+	"4940": {
 		"name": "NORTH EAST STONE LTD",
 		"total": 4880,
 		"monthly": {
@@ -120,23 +812,23 @@
 			"2014-06": {"total":1440.00, "Supplies and Services":1440.00}
 		}
 	},
-	"4913": {
+	"4941": {
 		"name": "NORTH EAST TILE TRAINING",
 		"total": 425.53,
 		"monthly": {
 			"2010-12": {"total":425.53, "Development & Enterprise":425.53}
 		}
 	},
-	"4914": {
+	"4942": {
 		"name": "NORTH EAST TIME RECORDERS LTD",
 		"total": 3000,
 		"monthly": {
 			"2015-03": {"total":3000.00, "Third Party Payments":3000.00}
 		}
 	},
-	"4915": {
+	"4943": {
 		"name": "NORTH EAST TRAFFIC DATA COLLECTION LTD",
-		"total": 95101.77,
+		"total": 97892.77,
 		"monthly": {
 			"2014-09": {"total":1002.00, "Works":1002.00},
 			"2014-10": {"total":1650.00, "Works":1650.00},
@@ -159,7 +851,8 @@
 			"2017-01": {"total":4413.00, "unknown":4413.00},
 			"2017-03": {"total":1188.00, "unknown":1188.00},
 			"2017-04": {"total":4200.00, "Works":4200.00},
-			"2018-01": {"total":1120.00, "unknown":1120.00},
+			"2017-08": {"total":3351.00, "unknown":3351.00},
+			"2018-01": {"total":560.00, "unknown":560.00},
 			"2018-02": {"total":17398.00, "Works":17398.00},
 			"2018-03": {"total":1961.00, "Works":1961.00},
 			"2018-04": {"total":647.00, "Works":647.00},
@@ -169,9 +862,9 @@
 			"2018-10": {"total":6070.00, "unknown":6070.00}
 		}
 	},
-	"4916": {
+	"4944": {
 		"name": "NORTH EAST TRUCK & VAN LTD",
-		"total": 1924570.01,
+		"total": 1691714.12,
 		"monthly": {
 			"2010-12": {"total":225119.54, "Local Environmental Services":225119.54},
 			"2011-01": {"total":836.16, "Local Environmental Services":836.16},
@@ -213,10 +906,12 @@
 			"2015-09": {"total":366.77, "Transport":366.77},
 			"2016-01": {"total":765.25, "Transport":765.25},
 			"2016-08": {"total":375.94, "Transport":375.94},
-			"2017-04": {"total":337281.40, "Purchase of Vehicles":336765.00, "Transport":516.40},
+			"2017-04": {"total":337281.40, "Transport":516.40, "Purchase of Vehicles":336765.00},
 			"2017-06": {"total":1573.88, "Transport":1573.88},
 			"2017-07": {"total":155646.00, "unknown":154710.00, "Transport":936.00},
-			"2018-01": {"total":479192.76, "Transport":7012.76, "unknown":472180.00},
+			"2017-08": {"total":3126.94, "Transport":3126.94},
+			"2017-10": {"total":3613.55, "Transport":3613.55},
+			"2018-01": {"total":239596.38, "unknown":236090.00, "Transport":3506.38},
 			"2018-02": {"total":111770.00, "Purchase of Vehicles":111770.00},
 			"2018-03": {"total":2305.00, "Purchase of Vehicles":2305.00},
 			"2018-04": {"total":102550.00, "Purchase of Vehicles":102550.00},
@@ -224,14 +919,21 @@
 			"2018-09": {"total":418.86, "Transport":418.86}
 		}
 	},
-	"4917": {
+	"4945": {
 		"name": "NORTH EAST WAR MEMORIAL PROJECT CHARITY",
 		"total": 1337.86,
 		"monthly": {
 			"2017-02": {"total":1337.86, "unknown":1337.86}
 		}
 	},
-	"4918": {
+	"4946": {
+		"name": "NORTH EAST WINDOW & DOOR REPAIR SPECIALIST",
+		"total": 846.2,
+		"monthly": {
+			"2017-08": {"total":846.20, "unknown":846.20}
+		}
+	},
+	"4947": {
 		"name": "NORTH EASTERN GLASS LTD",
 		"total": 31078.43,
 		"monthly": {
@@ -252,534 +954,18 @@
 			"2017-07": {"total":1603.00, "Supplies and Services":1603.00}
 		}
 	},
-	"4919": {
+	"4948": {
 		"name": "NORTH EASTERN YWCA TRUSTEES LTD",
 		"total": 594.65,
 		"monthly": {
 			"2018-08": {"total":594.65, "Supplies and Services":594.65}
 		}
 	},
-	"4920": {
+	"4949": {
 		"name": "NORTH ESSEX SIGNS LTD",
 		"total": 464,
 		"monthly": {
 			"2014-01": {"total":464.00, "Supplies and Services":464.00}
-		}
-	},
-	"4921": {
-		"name": "NORTH KESTEVEN DISTRICT COUNCIL",
-		"total": 2600,
-		"monthly": {
-			"2014-07": {"total":495.00, "Supplies and Services":495.00},
-			"2015-05": {"total":495.00, "Supplies and Services":495.00},
-			"2016-04": {"total":495.00, "Supplies and Services":495.00},
-			"2017-05": {"total":515.00, "Supplies and Services":515.00},
-			"2018-04": {"total":600.00, "Supplies and Services":600.00}
-		}
-	},
-	"4922": {
-		"name": "NORTH LAKES CHILDRENS SERVICES",
-		"total": 465443.19,
-		"monthly": {
-			"2012-03": {"total":32689.73, "Third Party Payments":32689.73},
-			"2012-04": {"total":8712.30, "Third Party Payments":8712.30},
-			"2012-05": {"total":17715.01, "Third Party Payments":17715.01},
-			"2012-07": {"total":18005.42, "Third Party Payments":18005.42},
-			"2012-08": {"total":42821.40, "Third Party Payments":42821.40},
-			"2012-09": {"total":18876.65, "Third Party Payments":18876.65},
-			"2012-10": {"total":35218.82, "Third Party Payments":35218.82},
-			"2013-01": {"total":33296.60, "Third Party Payments":33296.60},
-			"2013-02": {"total":8942.26, "Third Party Payments":8942.26},
-			"2013-04": {"total":21405.58, "Third Party Payments":21405.58},
-			"2013-05": {"total":13908.70, "Third Party Payments":13908.70},
-			"2013-07": {"total":18496.06, "Transfer Payments":900.00, "Third Party Payments":17596.06},
-			"2013-08": {"total":28707.16, "Third Party Payments":28707.16},
-			"2013-09": {"total":8942.26, "Third Party Payments":8942.26},
-			"2013-12": {"total":26826.78, "Third Party Payments":26826.78},
-			"2014-01": {"total":8076.88, "Third Party Payments":8076.88},
-			"2014-02": {"total":8942.26, "Third Party Payments":8942.26},
-			"2014-03": {"total":8653.80, "Third Party Payments":8653.80},
-			"2014-04": {"total":8942.26, "Third Party Payments":8942.26},
-			"2014-05": {"total":8653.80, "Third Party Payments":8653.80},
-			"2014-06": {"total":8942.26, "Third Party Payments":8942.26},
-			"2014-07": {"total":8942.26, "Third Party Payments":8942.26},
-			"2014-09": {"total":17596.06, "Third Party Payments":17596.06},
-			"2014-10": {"total":8653.80, "Third Party Payments":8653.80},
-			"2014-11": {"total":8942.26, "Third Party Payments":8942.26},
-			"2014-12": {"total":8942.26, "Third Party Payments":8942.26},
-			"2015-01": {"total":16648.30, "Third Party Payments":16648.30},
-			"2015-02": {"total":8942.26, "Third Party Payments":8942.26}
-		}
-	},
-	"4923": {
-		"name": "NORTH LAKES CHILDRENS SERVICES LTD",
-		"total": 584582.13,
-		"monthly": {
-			"2014-02": {"total":8730.15, "Third Party Payments":8730.15},
-			"2014-04": {"total":9047.61, "Third Party Payments":9047.61},
-			"2014-08": {"total":11428.56, "Third Party Payments":11428.56},
-			"2015-04": {"total":27754.78, "Third Party Payments":27754.78},
-			"2015-05": {"total":8653.80, "Third Party Payments":8653.80},
-			"2015-06": {"total":8942.26, "Third Party Payments":8942.26},
-			"2015-07": {"total":8942.26, "Third Party Payments":8942.26},
-			"2015-08": {"total":8653.80, "Third Party Payments":8653.80},
-			"2015-09": {"total":8942.26, "Third Party Payments":8942.26},
-			"2015-10": {"total":8653.80, "Third Party Payments":8653.80},
-			"2015-11": {"total":8942.26, "Third Party Payments":8942.26},
-			"2015-12": {"total":8942.26, "Third Party Payments":8942.26},
-			"2016-01": {"total":8365.34, "Third Party Payments":8365.34},
-			"2016-02": {"total":8942.26, "Third Party Payments":8942.26},
-			"2016-04": {"total":17596.06, "Third Party Payments":17596.06},
-			"2016-05": {"total":8653.80, "Third Party Payments":8653.80},
-			"2016-06": {"total":8942.26, "Third Party Payments":8942.26},
-			"2016-07": {"total":8942.26, "Third Party Payments":8942.26},
-			"2016-09": {"total":17596.06, "Third Party Payments":17596.06},
-			"2016-11": {"total":8653.80, "Third Party Payments":8653.80},
-			"2017-04": {"total":5424.60, "Third Party Payments":5424.60},
-			"2017-05": {"total":13561.50, "Third Party Payments":13561.50},
-			"2017-06": {"total":27575.05, "Third Party Payments":27575.05},
-			"2017-07": {"total":14013.55, "Third Party Payments":14013.55},
-			"2017-09": {"total":28027.10, "Third Party Payments":28027.10},
-			"2017-11": {"total":27123.00, "Third Party Payments":27123.00},
-			"2017-12": {"total":28027.10, "Third Party Payments":28027.10},
-			"2018-03": {"total":81369.00, "Third Party Payments":81369.00},
-			"2018-05": {"total":25183.52, "Third Party Payments":25183.52},
-			"2018-07": {"total":88972.28, "Third Party Payments":88972.28},
-			"2018-08": {"total":29979.79, "Third Party Payments":29979.79}
-		}
-	},
-	"4924": {
-		"name": "NORTH MUSIC TRUST",
-		"total": 3598664.49,
-		"monthly": {
-			"2010-12": {"total":139606.50, "Community Based Services":139606.50},
-			"2011-03": {"total":25511.98, "Learning and Children":23455.73, "Community Based Services":2056.25},
-			"2011-04": {"total":148375.25, "Community Based Services":148375.25},
-			"2011-05": {"total":4401.60, "Community Based Services":4401.60},
-			"2011-07": {"total":145597.30, "Third Party Payments":144408.50, "Supplies and Services":1188.80},
-			"2011-08": {"total":400.00, "Supplies and Services":400.00},
-			"2011-10": {"total":144807.50, "Third Party Payments":144807.50},
-			"2011-12": {"total":1989.20, "Third Party Payments":1989.20},
-			"2012-01": {"total":139207.50, "Third Party Payments":139207.50},
-			"2012-03": {"total":34033.70, "Supplies and Services":34033.70},
-			"2012-04": {"total":138307.45, "Third Party Payments":138307.45},
-			"2012-05": {"total":3000.00, "Supplies and Services":3000.00},
-			"2012-06": {"total":137578.25, "Third Party Payments":137578.25},
-			"2012-10": {"total":137578.25, "Third Party Payments":137578.25},
-			"2013-02": {"total":1056.00, "Supplies and Services":1056.00},
-			"2013-03": {"total":855.80, "Premises":855.80},
-			"2013-04": {"total":114578.25, "Third Party Payments":114578.25},
-			"2013-07": {"total":114578.25, "Third Party Payments":114578.25},
-			"2013-10": {"total":114578.25, "Third Party Payments":114578.25},
-			"2014-01": {"total":114578.25, "Third Party Payments":114578.25},
-			"2014-02": {"total":3603.35, "Supplies and Services":3603.35},
-			"2014-03": {"total":109449.50, "Third Party Payments":108867.00, "Supplies and Services":582.50},
-			"2014-04": {"total":97391.75, "Third Party Payments":97391.75},
-			"2014-05": {"total":3889.64, "Third Party Payments":3889.64},
-			"2014-06": {"total":148325.25, "Third Party Payments":148325.25},
-			"2014-10": {"total":97391.75, "Third Party Payments":97391.75},
-			"2015-01": {"total":1334.06, "Supplies and Services":1334.06},
-			"2015-02": {"total":97391.75, "Third Party Payments":97391.75},
-			"2015-03": {"total":102981.62, "Third Party Payments":102981.62},
-			"2015-04": {"total":103329.25, "Third Party Payments":103329.25},
-			"2015-08": {"total":103329.25, "Third Party Payments":103329.25},
-			"2015-10": {"total":103329.25, "Third Party Payments":103329.25},
-			"2015-11": {"total":2202.33, "Third Party Payments":2202.33},
-			"2016-01": {"total":1546.91, "Supplies and Services":1546.91},
-			"2016-02": {"total":103329.25, "Third Party Payments":103329.25},
-			"2016-05": {"total":4600.00, "Supplies and Services":4600.00},
-			"2016-06": {"total":71633.50, "Third Party Payments":71633.50},
-			"2016-07": {"total":20000.00, "Supplies and Services":20000.00},
-			"2016-08": {"total":72174.95, "Third Party Payments":72174.95},
-			"2016-11": {"total":71633.50, "Third Party Payments":71633.50},
-			"2017-02": {"total":2014.85, "Supplies and Services":2014.85},
-			"2017-03": {"total":158477.00, "Supplies and Services":6240.00, "Third Party Payments":152237.00},
-			"2017-06": {"total":65383.50, "Third Party Payments":65383.50},
-			"2017-07": {"total":1677.00, "Supplies and Services":650.00, "Employees":1027.00},
-			"2017-09": {"total":65383.50, "Third Party Payments":65383.50},
-			"2017-11": {"total":65383.50, "Third Party Payments":65383.50},
-			"2018-01": {"total":12080.00, "Third Party Payments":12080.00},
-			"2018-02": {"total":130767.00, "Third Party Payments":130767.00},
-			"2018-03": {"total":5745.00, "Third Party Payments":2400.00, "Supplies and Services":3345.00},
-			"2018-05": {"total":56133.50, "Third Party Payments":56133.50},
-			"2018-10": {"total":56133.50, "Third Party Payments":56133.50}
-		}
-	},
-	"4925": {
-		"name": "NORTH OF ENGLAND CIVIC TRUST",
-		"total": 73011,
-		"monthly": {
-			"2011-03": {"total":1228.75, "Central Services":1228.75},
-			"2011-04": {"total":3686.25, "Central Services":3686.25},
-			"2011-08": {"total":7144.00, "Consultants":7144.00},
-			"2011-11": {"total":7144.00, "Consultants":7144.00},
-			"2012-01": {"total":7144.00, "Consultants":7144.00},
-			"2012-03": {"total":6800.00, "Supplies and Services":6800.00},
-			"2012-05": {"total":7144.00, "Consultants":7144.00},
-			"2016-11": {"total":4949.00, "Supplies and Services":4949.00},
-			"2017-01": {"total":4949.00, "Supplies and Services":4949.00},
-			"2017-03": {"total":9898.00, "Supplies and Services":9898.00},
-			"2018-01": {"total":7975.00, "Supplies and Services":7975.00},
-			"2018-07": {"total":4949.00, "Supplies and Services":4949.00}
-		}
-	},
-	"4926": {
-		"name": "NORTH OF ENGLAND P&I ASSOCIATION LTD",
-		"alternate-names": [
-			"NORTH OF ENGLAND P&I ASSOCIATION LIMITED"
-		],
-		"total": 851.73,
-		"monthly": {
-			"2017-05": {"total":851.73, "Income: Fees and Charges":851.73}
-		}
-	},
-	"4927": {
-		"name": "NORTH OF ENGLAND REFUGEE SERV.",
-		"total": 18450,
-		"monthly": {
-			"2011-01": {"total":18450.00, "Community Based Services":18450.00}
-		}
-	},
-	"4928": {
-		"name": "NORTH OF ENGLAND REFUGEE SERVICE LTD",
-		"total": 9789,
-		"monthly": {
-			"2014-06": {"total":810.00, "Supplies and Services":810.00},
-			"2018-10": {"total":8979.00, "Third Party Payments":8979.00}
-		}
-	},
-	"4929": {
-		"name": "NORTH OF ENGLAND RFCA",
-		"total": 1260,
-		"monthly": {
-			"2012-06": {"total":540.00, "Employees":540.00},
-			"2014-08": {"total":720.00, "Employees":720.00}
-		}
-	},
-	"4930": {
-		"name": "NORTH PENNINES ARCHAEOLOGY LTD",
-		"total": 5450.89,
-		"monthly": {
-			"2011-01": {"total":5450.89, "Community Based Services":5450.89}
-		}
-	},
-	"4931": {
-		"name": "NORTH PENNINES CENTRE",
-		"total": 680,
-		"monthly": {
-			"2014-09": {"total":680.00, "Supplies and Services":680.00}
-		}
-	},
-	"4932": {
-		"name": "NORTH REGIONAL ASSOC. FOR SENSORY SUPPORT",
-		"total": 130000,
-		"monthly": {
-			"2015-10": {"total":10000.00, "Third Party Payments":10000.00},
-			"2016-01": {"total":10000.00, "Third Party Payments":10000.00},
-			"2016-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2016-07": {"total":10000.00, "Third Party Payments":10000.00},
-			"2016-10": {"total":10000.00, "Third Party Payments":10000.00},
-			"2017-01": {"total":10000.00, "Third Party Payments":10000.00},
-			"2017-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2017-06": {"total":10000.00, "Third Party Payments":10000.00},
-			"2017-09": {"total":10000.00, "Third Party Payments":10000.00},
-			"2017-12": {"total":10000.00, "Third Party Payments":10000.00},
-			"2018-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2018-06": {"total":10000.00, "Third Party Payments":10000.00},
-			"2018-10": {"total":10000.00, "Third Party Payments":10000.00}
-		}
-	},
-	"4933": {
-		"name": "NORTH REGIONAL ASSOCIATION FOR SENSORY SUPPORT",
-		"total": 5000,
-		"monthly": {
-			"2011-01": {"total":5000.00, "Community Based Services":5000.00}
-		}
-	},
-	"4934": {
-		"name": "NORTH REGIONAL DEAF ASSOC.",
-		"total": 252576.27,
-		"monthly": {
-			"2011-01": {"total":10233.75, "Community Based Services":10233.75},
-			"2011-03": {"total":5000.00, "Community Based Services":5000.00},
-			"2011-04": {"total":13710.38, "Community Based Services":13710.38},
-			"2011-06": {"total":7500.00, "Community Based Services":7500.00},
-			"2011-07": {"total":13710.38, "Third Party Payments":13710.38},
-			"2011-10": {"total":21210.38, "Third Party Payments":21210.38},
-			"2012-01": {"total":13710.38, "Third Party Payments":13710.38},
-			"2012-04": {"total":15625.25, "Third Party Payments":15625.25},
-			"2012-07": {"total":23125.25, "Third Party Payments":23125.25},
-			"2012-10": {"total":11875.25, "Third Party Payments":11875.25},
-			"2013-01": {"total":11875.25, "Third Party Payments":11875.25},
-			"2013-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2013-07": {"total":10000.00, "Third Party Payments":10000.00},
-			"2013-10": {"total":10000.00, "Third Party Payments":10000.00},
-			"2014-01": {"total":15000.00, "Third Party Payments":15000.00},
-			"2014-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2014-07": {"total":10000.00, "Third Party Payments":10000.00},
-			"2014-10": {"total":10000.00, "Third Party Payments":10000.00},
-			"2015-01": {"total":10000.00, "Third Party Payments":10000.00},
-			"2015-04": {"total":10000.00, "Third Party Payments":10000.00},
-			"2015-07": {"total":10000.00, "Third Party Payments":10000.00}
-		}
-	},
-	"4935": {
-		"name": "NORTH ROAD CARE & NURSING HOME (BLACKSTONE CARE LTD)",
-		"total": 154251.27,
-		"monthly": {
-			"2014-06": {"total":4529.68, "Third Party Payments":4529.68},
-			"2014-07": {"total":10392.20, "Income: Fees and Charges":2018.62, "Third Party Payments":8373.58},
-			"2014-08": {"total":9878.69, "Third Party Payments":8373.58, "Income: Fees and Charges":1505.11},
-			"2014-09": {"total":14800.21, "Third Party Payments":12303.50, "Income: Fees and Charges":2496.71},
-			"2014-10": {"total":7330.04, "Income: Fees and Charges":991.60, "Third Party Payments":6338.44},
-			"2014-11": {"total":7330.04, "Third Party Payments":6338.44, "Income: Fees and Charges":991.60},
-			"2014-12": {"total":10670.52, "Income: Fees and Charges":1221.79, "Third Party Payments":9448.73},
-			"2015-01": {"total":4869.28, "Third Party Payments":4373.48, "Income: Fees and Charges":495.80},
-			"2015-02": {"total":4869.28, "Income: Fees and Charges":495.80, "Third Party Payments":4373.48},
-			"2015-03": {"total":9738.56, "Third Party Payments":8746.96, "Income: Fees and Charges":991.60},
-			"2015-04": {"total":4876.33, "Income: Fees and Charges":502.85, "Third Party Payments":4373.48},
-			"2015-05": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2015-06": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2015-07": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2015-08": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2015-09": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2015-10": {"total":4878.68, "Third Party Payments":4373.48, "Income: Fees and Charges":505.20},
-			"2015-11": {"total":4878.68, "Third Party Payments":4373.48, "Income: Fees and Charges":505.20},
-			"2015-12": {"total":9757.36, "Income: Fees and Charges":1010.40, "Third Party Payments":8746.96},
-			"2016-01": {"total":4878.68, "Income: Fees and Charges":505.20, "Third Party Payments":4373.48},
-			"2016-02": {"total":8089.82, "Income: Fees and Charges":1443.43, "Third Party Payments":6646.39},
-			"2016-05": {"total":8089.82, "Supplies and Services":8089.82}
-		}
-	},
-	"4936": {
-		"name": "NORTH ROAD GABLES",
-		"total": 378105.36,
-		"monthly": {
-			"2010-12": {"total":4345.56, "Community Based Services":4345.56},
-			"2011-02": {"total":8691.12, "Community Based Services":8691.12},
-			"2011-03": {"total":4345.56, "Community Based Services":4345.56},
-			"2011-04": {"total":8717.04, "Community Based Services":8717.04},
-			"2011-05": {"total":4380.12, "Community Based Services":4380.12},
-			"2011-06": {"total":4380.12, "Community Based Services":4380.12},
-			"2011-07": {"total":11477.26, "Third Party Payments":10553.14, "Income: Customer and Client Receipts":924.12},
-			"2011-08": {"total":9063.97, "Income: Customer and Client Receipts":3879.97, "Third Party Payments":5184.00},
-			"2011-09": {"total":6861.12, "Income: Customer and Client Receipts":1677.12, "Third Party Payments":5184.00},
-			"2011-10": {"total":6861.12, "Income: Customer and Client Receipts":1677.12, "Third Party Payments":5184.00},
-			"2011-11": {"total":6859.69, "Income: Customer and Client Receipts":1675.69, "Third Party Payments":5184.00},
-			"2011-12": {"total":6858.04, "Third Party Payments":5184.00, "Income: Customer and Client Receipts":1674.04},
-			"2012-02": {"total":22026.12, "Third Party Payments":17004.00, "Income: Customer and Client Receipts":5022.12},
-			"2012-03": {"total":7122.04, "Income: Customer and Client Receipts":1674.04, "Third Party Payments":5448.00},
-			"2012-04": {"total":7161.85, "Third Party Payments":5448.00, "Income: Customer and Client Receipts":1713.85},
-			"2012-05": {"total":7175.12, "Income: Customer and Client Receipts":1727.12, "Third Party Payments":5448.00},
-			"2012-07": {"total":14370.34, "Third Party Payments":10896.00, "Income: Customer and Client Receipts":3474.34},
-			"2012-08": {"total":14265.72, "Third Party Payments":13312.08, "Income: Customer and Client Receipts":953.64},
-			"2012-09": {"total":6836.44, "Third Party Payments":5882.80, "Income: Customer and Client Receipts":953.64},
-			"2012-10": {"total":19029.58, "Income: Customer and Client Receipts":953.64, "Third Party Payments":18075.94},
-			"2013-01": {"total":20081.76, "Third Party Payments":16267.20, "Income: Customer and Client Receipts":3814.56},
-			"2013-02": {"total":5020.44, "Third Party Payments":4066.80, "Income: Customer and Client Receipts":953.64},
-			"2013-03": {"total":5020.44, "Income: Customer and Client Receipts":953.64, "Third Party Payments":4066.80},
-			"2013-04": {"total":5027.34, "Third Party Payments":4066.80, "Income: Customer and Client Receipts":960.54},
-			"2013-05": {"total":5029.64, "Income: Customer and Client Receipts":962.84, "Third Party Payments":4066.80},
-			"2013-06": {"total":5029.64, "Third Party Payments":4066.80, "Income: Customer and Client Receipts":962.84},
-			"2013-07": {"total":5029.64, "Third Party Payments":4066.80, "Income: Customer and Client Receipts":962.84},
-			"2013-08": {"total":5029.64, "Income: Customer and Client Receipts":962.84, "Third Party Payments":4066.80},
-			"2013-09": {"total":5029.64, "Third Party Payments":4066.80, "Income: Customer and Client Receipts":962.84},
-			"2013-10": {"total":6349.64, "Income: Customer and Client Receipts":962.84, "Third Party Payments":5386.80},
-			"2013-12": {"total":60221.13, "Third Party Payments":24760.80, "Income: Fees and Charges":35460.33},
-			"2014-01": {"total":4612.80, "Income: Fees and Charges":486.00, "Third Party Payments":4126.80},
-			"2014-02": {"total":4612.80, "Third Party Payments":4126.80, "Income: Fees and Charges":486.00},
-			"2014-03": {"total":4612.80, "Third Party Payments":4126.80, "Income: Fees and Charges":486.00},
-			"2014-04": {"total":4620.15, "Income: Fees and Charges":493.35, "Third Party Payments":4126.80},
-			"2014-05": {"total":4622.60, "Income: Fees and Charges":495.80, "Third Party Payments":4126.80},
-			"2014-07": {"total":15295.75, "Income: Fees and Charges":1440.08, "Third Party Payments":13855.67},
-			"2014-08": {"total":15295.75, "Third Party Payments":13855.67, "Income: Fees and Charges":1440.08},
-			"2014-09": {"total":13855.67, "Third Party Payments":13855.67},
-			"2014-10": {"total":1440.08, "Income: Fees and Charges":1440.08},
-			"2014-12": {"total":1440.08, "Income: Fees and Charges":1440.08}
-		}
-	},
-	"4937": {
-		"name": "NORTH STAR TRAVEL",
-		"total": 2110,
-		"monthly": {
-			"2011-08": {"total":860.00, "Supplies and Services":860.00},
-			"2012-08": {"total":1250.00, "Transport":1250.00}
-		}
-	},
-	"4938": {
-		"name": "NORTH TYNE CONSTRUCTION LTD",
-		"total": 658,
-		"monthly": {
-			"2011-02": {"total":658.00, "Community Based Services":658.00}
-		}
-	},
-	"4939": {
-		"name": "NORTH TYNE CONSTRUCTION LTD T/A SHAPE",
-		"total": 913,
-		"monthly": {
-			"2011-03": {"total":913.00, "Community Based Services":913.00}
-		}
-	},
-	"4940": {
-		"name": "NORTH TYNESIDE CCG",
-		"total": 50000,
-		"monthly": {
-			"2018-03": {"total":50000.00, "Third Party Payments":50000.00}
-		}
-	},
-	"4941": {
-		"name": "NORTH TYNESIDE COUNCIL",
-		"total": 1000329.77,
-		"monthly": {
-			"2010-12": {"total":47642.66, "Learning and Children":47642.66},
-			"2011-01": {"total":20824.24, "Development & Enterprise":1500.00, "Community Based Services":19324.24},
-			"2011-02": {"total":44438.50, "Learning and Children":37882.00, "Community Based Services":6556.50},
-			"2011-03": {"total":82547.73, "Community Based Services":28016.73, "Development & Enterprise":54531.00},
-			"2011-04": {"total":18373.78, "Learning and Children":17873.78, "Development & Enterprise":500.00},
-			"2011-05": {"total":78873.50, "Development & Enterprise":5378.00, "Central Services":73495.50},
-			"2011-07": {"total":920.00, "Employees":920.00},
-			"2011-08": {"total":19134.05, "Third Party Payments":18180.50, "Income: Customer and Client Receipts":953.55},
-			"2011-10": {"total":5889.00, "Income: Customer and Client Receipts":295.00, "Third Party Payments":5594.00},
-			"2011-11": {"total":48214.10, "Third Party Payments":47034.10, "Income: Customer and Client Receipts":1180.00},
-			"2012-01": {"total":56151.00, "Income: Customer and Client Receipts":295.00, "Third Party Payments":25071.00, "Income: Other Grants, Reim & Contrib":30785.00},
-			"2012-02": {"total":3002.31, "Third Party Payments":3002.31},
-			"2012-05": {"total":18492.95, "Third Party Payments":18492.95},
-			"2012-06": {"total":3002.87, "Third Party Payments":3002.87},
-			"2012-07": {"total":22896.00, "Third Party Payments":22896.00},
-			"2012-09": {"total":30181.00, "Third Party Payments":30181.00},
-			"2012-10": {"total":3244.19, "Third Party Payments":3244.19},
-			"2013-01": {"total":4368.59, "Third Party Payments":4368.59},
-			"2013-02": {"total":8628.49, "Third Party Payments":8628.49},
-			"2013-03": {"total":22378.24, "Income: Other Grants, Reim & Contrib":22378.24},
-			"2013-05": {"total":32521.98, "Third Party Payments":32521.98},
-			"2013-06": {"total":3685.99, "Third Party Payments":3685.99},
-			"2013-08": {"total":22407.00, "Third Party Payments":22407.00},
-			"2014-02": {"total":392.86, "Supplies and Services":392.86},
-			"2014-03": {"total":20127.77, "Supplies and Services":832.00, "Third Party Payments":8355.77, "Employees":10940.00},
-			"2014-04": {"total":29678.21, "Third Party Payments":29678.21},
-			"2014-06": {"total":24006.00, "Third Party Payments":20166.00, "Employees":3840.00},
-			"2014-08": {"total":35287.44, "Third Party Payments":35287.44},
-			"2014-12": {"total":13560.00, "Employees":13560.00},
-			"2015-01": {"total":47081.63, "Third Party Payments":47081.63},
-			"2015-02": {"total":500.00, "Supplies and Services":500.00},
-			"2015-03": {"total":36563.46, "Third Party Payments":36563.46},
-			"2015-05": {"total":950.00, "Employees":950.00},
-			"2015-06": {"total":27693.98, "Employees":2235.00, "Third Party Payments":25458.98},
-			"2015-07": {"total":22647.00, "Third Party Payments":22647.00},
-			"2015-08": {"total":14900.81, "Third Party Payments":14900.81},
-			"2015-11": {"total":1511.41, "Third Party Payments":1511.41},
-			"2015-12": {"total":22960.04, "Third Party Payments":11530.04, "Employees":11430.00},
-			"2016-04": {"total":2219.50, "Third Party Payments":2219.50},
-			"2016-06": {"total":7695.00, "Employees":7695.00},
-			"2016-07": {"total":632.17, "Supplies and Services":632.17},
-			"2016-08": {"total":19193.00, "Third Party Payments":18193.00, "Supplies and Services":1000.00},
-			"2017-02": {"total":7545.00, "Employees":7545.00},
-			"2017-03": {"total":2743.36, "Supplies and Services":1143.36, "Employees":1600.00},
-			"2017-04": {"total":2210.20, "Third Party Payments":2210.20},
-			"2017-06": {"total":19557.00, "Third Party Payments":19557.00},
-			"2018-02": {"total":18530.76, "Third Party Payments":18530.76},
-			"2018-04": {"total":3300.00, "Employees":3300.00},
-			"2018-09": {"total":21025.00, "Third Party Payments":21025.00}
-		}
-	},
-	"4942": {
-		"name": "NORTH TYNESIDE PRIMARY CARE TRUST",
-		"total": 7992.9,
-		"monthly": {
-			"2011-12": {"total":349.38, "Supplies and Services":349.38},
-			"2012-01": {"total":411.88, "Supplies and Services":411.88},
-			"2012-03": {"total":464.63, "Supplies and Services":464.63},
-			"2012-07": {"total":1775.19, "Supplies and Services":1775.19},
-			"2012-11": {"total":474.38, "Supplies and Services":474.38},
-			"2013-03": {"total":2742.24, "Supplies and Services":2742.24},
-			"2013-09": {"total":1775.20, "Third Party Payments":1775.20}
-		}
-	},
-	"4943": {
-		"name": "NORTH TYNESIDE VODA",
-		"total": 5940,
-		"monthly": {
-			"2016-12": {"total":5940.00, "Third Party Payments":5940.00}
-		}
-	},
-	"4944": {
-		"name": "NORTH VIEW ACADEMY TRUST",
-		"total": 22413.83,
-		"monthly": {
-			"2015-01": {"total":2362.50, "Third Party Payments":2362.50},
-			"2015-04": {"total":1795.50, "Third Party Payments":1795.50},
-			"2015-05": {"total":1982.50, "Third Party Payments":1982.50},
-			"2015-11": {"total":2405.00, "Third Party Payments":2405.00},
-			"2016-03": {"total":1722.50, "Third Party Payments":1722.50},
-			"2016-06": {"total":2099.11, "Third Party Payments":2099.11},
-			"2017-03": {"total":8020.48, "Third Party Payments":8020.48},
-			"2017-07": {"total":2026.24, "Third Party Payments":2026.24}
-		}
-	},
-	"4945": {
-		"name": "NORTH VIEW SCHOOL",
-		"total": 1953,
-		"monthly": {
-			"2014-07": {"total":1953.00, "Third Party Payments":1953.00}
-		}
-	},
-	"4946": {
-		"name": "NORTH WEST DRAIN SERVICES LTD",
-		"alternate-names": [
-			"NORTH WEST DRAIN SERVICES LIMITED"
-		],
-		"total": 700,
-		"monthly": {
-			"2018-08": {"total":700.00, "Premises":700.00}
-		}
-	},
-	"4947": {
-		"name": "NORTH YORKSHIRE C.C.",
-		"total": 186071.1,
-		"monthly": {
-			"2011-01": {"total":14158.00, "Community Based Services":14158.00},
-			"2011-03": {"total":14158.00, "Community Based Services":14158.00},
-			"2011-07": {"total":4071.60, "Third Party Payments":4071.60},
-			"2011-08": {"total":14158.00, "Third Party Payments":14158.00},
-			"2011-10": {"total":4946.32, "Income: Customer and Client Receipts":295.00, "Third Party Payments":4651.32},
-			"2011-11": {"total":18962.02, "Income: Customer and Client Receipts":295.00, "Third Party Payments":18667.02},
-			"2011-12": {"total":4946.32, "Income: Customer and Client Receipts":295.00, "Third Party Payments":4651.32},
-			"2012-01": {"total":5964.22, "Income: Customer and Client Receipts":295.00, "Third Party Payments":5669.22},
-			"2012-02": {"total":9892.64, "Income: Customer and Client Receipts":590.00, "Third Party Payments":9302.64},
-			"2012-03": {"total":4946.32, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":295.00},
-			"2012-04": {"total":5976.52, "Third Party Payments":5669.22, "Income: Customer and Client Receipts":307.30},
-			"2012-05": {"total":4962.72, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":311.40},
-			"2012-06": {"total":4962.72, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":311.40},
-			"2012-07": {"total":4962.72, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":311.40},
-			"2012-08": {"total":4962.72, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":311.40},
-			"2012-09": {"total":4962.72, "Income: Customer and Client Receipts":311.40, "Third Party Payments":4651.32},
-			"2012-10": {"total":4962.72, "Income: Customer and Client Receipts":311.40, "Third Party Payments":4651.32},
-			"2012-11": {"total":4962.72, "Third Party Payments":4651.32, "Income: Customer and Client Receipts":311.40},
-			"2013-01": {"total":8856.14, "Third Party Payments":6057.64, "Income: Customer and Client Receipts":2798.50},
-			"2013-02": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-03": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-04": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-05": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-06": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-07": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-08": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-09": {"total":4356.32, "Third Party Payments":4356.32},
-			"2013-10": {"total":4356.32, "Third Party Payments":4356.32},
-			"2014-02": {"total":1089.08, "Third Party Payments":1089.08}
-		}
-	},
-	"4948": {
-		"name": "NORTH YORKSHIRE MOBILITY & SAFETY",
-		"total": 645,
-		"monthly": {
-			"2014-11": {"total":645.00, "Works":645.00}
-		}
-	},
-	"4949": {
-		"name": "NORTH YORKSHIRE YOUTH",
-		"total": 962,
-		"monthly": {
-			"2012-03": {"total":962.00, "Supplies and Services":962.00}
 		}
 	}
 	}
