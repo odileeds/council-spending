@@ -1,12 +1,11 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"2250": {
 		"name": "ENTERPRISE 5 HOUSING ASSOC",
 		"total": 527996.94,
 		"monthly": {
 			"2010-12": {"total":7283.95, "Community Based Services":7283.95},
-			"2011-01": {"total":8180.30, "Community Based Services":8180.30},
 			"2011-02": {"total":78361.95, "Community Based Services":78361.95},
 			"2011-03": {"total":25866.88, "Community Based Services":25866.88},
 			"2011-04": {"total":2065.85, "Community Based Services":2065.85},
@@ -21,7 +20,7 @@
 			"2012-01": {"total":51733.76, "Third Party Payments":51733.76},
 			"2012-02": {"total":3861.65, "Third Party Payments":3861.65},
 			"2012-04": {"total":1636.07, "Third Party Payments":1636.07},
-			"2012-05": {"total":32373.91, "Third Party Payments":31253.14, "Premises":1120.77},
+			"2012-05": {"total":32373.91, "Premises":1120.77, "Third Party Payments":31253.14},
 			"2012-06": {"total":1636.07, "Third Party Payments":1636.07},
 			"2012-07": {"total":1636.07, "Third Party Payments":1636.07},
 			"2012-08": {"total":1636.07, "Third Party Payments":1636.07},
@@ -70,7 +69,7 @@
 		"name": "ENTERPRISE INNS",
 		"total": 1375,
 		"monthly": {
-			"2011-01": {"total":1375.00, "Development & Enterprise":1375.00}
+
 		}
 	},
 	"2253": {
@@ -175,7 +174,7 @@
 		"monthly": {
 			"2011-02": {"total":2408.40, "Development & Enterprise":2408.40},
 			"2011-03": {"total":530.00, "Development & Enterprise":530.00},
-			"2011-04": {"total":11020.00, "Local Environmental Services":8559.50, "Development & Enterprise":2460.50},
+			"2011-04": {"total":11020.00, "Development & Enterprise":2460.50, "Local Environmental Services":8559.50},
 			"2011-06": {"total":7590.50, "Local Environmental Services":7590.50},
 			"2011-08": {"total":7590.50, "Supplies and Services":7590.50},
 			"2011-09": {"total":1290.00, "Supplies and Services":1290.00},
@@ -186,7 +185,7 @@
 			"2012-11": {"total":1290.00, "Supplies and Services":1290.00},
 			"2013-04": {"total":5600.00, "Third Party Payments":5600.00},
 			"2013-06": {"total":7590.50, "Supplies and Services":7590.50},
-			"2013-09": {"total":3790.00, "Supplies and Services":1290.00, "Third Party Payments":2500.00},
+			"2013-09": {"total":3790.00, "Third Party Payments":2500.00, "Supplies and Services":1290.00},
 			"2013-10": {"total":8559.50, "Supplies and Services":8559.50},
 			"2014-02": {"total":7559.50, "Supplies and Services":7559.50},
 			"2014-04": {"total":2880.00, "Supplies and Services":2880.00},
@@ -195,7 +194,7 @@
 			"2014-09": {"total":10943.23, "Supplies and Services":10943.23},
 			"2015-02": {"total":2527.00, "Third Party Payments":2527.00},
 			"2015-04": {"total":156353.00, "Third Party Payments":156353.00},
-			"2015-05": {"total":17799.50, "Supplies and Services":7799.50, "Third Party Payments":10000.00},
+			"2015-05": {"total":17799.50, "Third Party Payments":10000.00, "Supplies and Services":7799.50},
 			"2015-06": {"total":3780.00, "Premises":1290.00, "Supplies and Services":2490.00},
 			"2015-07": {"total":9250.00, "Supplies and Services":9250.00},
 			"2016-04": {"total":741.00, "Supplies and Services":741.00},
@@ -235,21 +234,21 @@
 		"name": "ENVIRONMENTAL SCIENTIFICS GROUP LTD",
 		"total": 425696.52,
 		"monthly": {
-			"2011-03": {"total":2479.80, "Community Based Services":759.80, "Local Environmental Services":1720.00},
+			"2011-03": {"total":2479.80, "Local Environmental Services":1720.00, "Community Based Services":759.80},
 			"2011-06": {"total":4978.00, "Local Environmental Services":4978.00},
 			"2011-09": {"total":1173.00, "Supplies and Services":1173.00},
 			"2011-10": {"total":2618.00, "Supplies and Services":2618.00},
 			"2011-11": {"total":3964.00, "Supplies and Services":3964.00},
 			"2011-12": {"total":4703.79, "Supplies and Services":4703.79},
-			"2012-01": {"total":26234.00, "Transport":400.00, "Supplies and Services":25834.00},
+			"2012-01": {"total":26234.00, "Supplies and Services":25834.00, "Transport":400.00},
 			"2012-02": {"total":8026.50, "Supplies and Services":8026.50},
 			"2012-03": {"total":8494.50, "Supplies and Services":8494.50},
-			"2012-04": {"total":14745.60, "Supplies and Services":13023.00, "Consultants":1722.60},
+			"2012-04": {"total":14745.60, "Consultants":1722.60, "Supplies and Services":13023.00},
 			"2012-05": {"total":4815.50, "Supplies and Services":4315.50, "Consultants":500.00},
 			"2012-06": {"total":4565.76, "Supplies and Services":4565.76},
-			"2012-07": {"total":7659.60, "Consultants":2222.60, "Supplies and Services":5437.00},
-			"2012-08": {"total":8789.60, "Supplies and Services":7067.00, "Consultants":1722.60},
-			"2012-09": {"total":10320.00, "Consultants":500.00, "Supplies and Services":9820.00},
+			"2012-07": {"total":7659.60, "Supplies and Services":5437.00, "Consultants":2222.60},
+			"2012-08": {"total":8789.60, "Consultants":1722.60, "Supplies and Services":7067.00},
+			"2012-09": {"total":10320.00, "Supplies and Services":9820.00, "Consultants":500.00},
 			"2012-10": {"total":9375.50, "Supplies and Services":9375.50},
 			"2012-11": {"total":7985.50, "Supplies and Services":7985.50},
 			"2013-01": {"total":3207.50, "Supplies and Services":3207.50},
@@ -268,8 +267,8 @@
 			"2014-03": {"total":11600.90, "Consultants":1850.40, "Supplies and Services":9750.50},
 			"2014-04": {"total":6497.40, "Supplies and Services":6497.40},
 			"2014-05": {"total":11500.50, "Supplies and Services":11500.50},
-			"2014-06": {"total":5930.00, "Consultants":2000.00, "Supplies and Services":3930.00},
-			"2014-07": {"total":12735.60, "Premises":921.60, "Supplies and Services":11814.00},
+			"2014-06": {"total":5930.00, "Supplies and Services":3930.00, "Consultants":2000.00},
+			"2014-07": {"total":12735.60, "Supplies and Services":11814.00, "Premises":921.60},
 			"2014-08": {"total":13335.00, "Supplies and Services":13335.00},
 			"2014-09": {"total":12972.00, "Supplies and Services":12972.00},
 			"2014-10": {"total":8685.50, "Supplies and Services":8685.50},
@@ -312,28 +311,28 @@
 		"monthly": {
 			"2014-07": {"total":5389.99, "Income: Fees and Charges":1454.35, "Third Party Payments":3935.64},
 			"2014-08": {"total":2602.47, "Third Party Payments":1867.76, "Income: Fees and Charges":734.71},
-			"2015-12": {"total":7217.04, "Third Party Payments":5907.84, "Income: Fees and Charges":1309.20},
-			"2016-04": {"total":2586.72, "Income: Fees and Charges":718.96, "Third Party Payments":1867.76},
-			"2016-05": {"total":30306.32, "Third Party Payments":22250.78, "Income: Fees and Charges":8055.54},
-			"2016-06": {"total":3457.52, "Third Party Payments":2727.76, "Income: Fees and Charges":729.76},
+			"2015-12": {"total":7217.04, "Income: Fees and Charges":1309.20, "Third Party Payments":5907.84},
+			"2016-04": {"total":2586.72, "Third Party Payments":1867.76, "Income: Fees and Charges":718.96},
+			"2016-05": {"total":30306.32, "Income: Fees and Charges":8055.54, "Third Party Payments":22250.78},
+			"2016-06": {"total":3457.52, "Income: Fees and Charges":729.76, "Third Party Payments":2727.76},
 			"2016-08": {"total":2871.44, "Income: Fees and Charges":729.76, "Third Party Payments":2141.68},
 			"2016-09": {"total":2871.44, "Income: Fees and Charges":729.76, "Third Party Payments":2141.68},
 			"2016-10": {"total":2871.44, "Income: Fees and Charges":729.76, "Third Party Payments":2141.68},
-			"2016-11": {"total":5742.88, "Third Party Payments":4283.36, "Income: Fees and Charges":1459.52},
+			"2016-11": {"total":5742.88, "Income: Fees and Charges":1459.52, "Third Party Payments":4283.36},
 			"2016-12": {"total":2871.44, "Third Party Payments":2141.68, "Income: Fees and Charges":729.76},
 			"2017-01": {"total":2871.44, "Third Party Payments":2141.68, "Income: Fees and Charges":729.76},
 			"2017-02": {"total":2871.44, "Income: Fees and Charges":729.76, "Third Party Payments":2141.68},
-			"2017-03": {"total":2871.44, "Income: Fees and Charges":729.76, "Third Party Payments":2141.68},
-			"2017-04": {"total":2879.98, "Income: Fees and Charges":738.30, "Third Party Payments":2141.68},
+			"2017-03": {"total":2871.44, "Third Party Payments":2141.68, "Income: Fees and Charges":729.76},
+			"2017-04": {"total":2879.98, "Third Party Payments":2141.68, "Income: Fees and Charges":738.30},
 			"2017-05": {"total":2888.52, "Third Party Payments":2141.68, "Income: Fees and Charges":746.84},
 			"2017-06": {"total":3192.56, "Income: Fees and Charges":746.84, "Third Party Payments":2445.72},
-			"2017-07": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84},
-			"2017-08": {"total":2996.28, "Income: Fees and Charges":746.84, "Third Party Payments":2249.44},
-			"2017-09": {"total":2996.28, "Income: Fees and Charges":746.84, "Third Party Payments":2249.44},
-			"2017-10": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84},
+			"2017-07": {"total":2996.28, "Income: Fees and Charges":746.84, "Third Party Payments":2249.44},
+			"2017-08": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84},
+			"2017-09": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84},
+			"2017-10": {"total":2996.28, "Income: Fees and Charges":746.84, "Third Party Payments":2249.44},
 			"2017-11": {"total":5992.56, "Third Party Payments":4498.88, "Income: Fees and Charges":1493.68},
 			"2018-01": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84},
-			"2018-02": {"total":2996.28, "Third Party Payments":2249.44, "Income: Fees and Charges":746.84}
+			"2018-02": {"total":2996.28, "Income: Fees and Charges":746.84, "Third Party Payments":2249.44}
 		}
 	},
 	"2270": {
@@ -397,7 +396,6 @@
 		"total": 4726.77,
 		"monthly": {
 			"2010-12": {"total":467.99, "Local Environmental Services":467.99},
-			"2011-01": {"total":388.40, "Local Environmental Services":388.40},
 			"2011-03": {"total":448.32, "Local Environmental Services":448.32},
 			"2011-04": {"total":604.61, "Local Environmental Services":604.61},
 			"2012-06": {"total":371.97, "Premises":371.97},
@@ -410,20 +408,19 @@
 	},
 	"2278": {
 		"name": "EPWORTH RESIDENTIAL HOME",
-		"total": 29848.76,
+		"total": 28966.36,
 		"monthly": {
 			"2010-12": {"total":2101.20, "Community Based Services":2101.20},
-			"2011-01": {"total":2101.20, "Community Based Services":2101.20},
 			"2011-02": {"total":2101.20, "Community Based Services":2101.20},
 			"2011-03": {"total":4202.40, "Community Based Services":4202.40},
 			"2011-05": {"total":4233.55, "Community Based Services":4233.55},
 			"2011-06": {"total":2119.00, "Community Based Services":2119.00},
-			"2011-07": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
-			"2011-08": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
+			"2011-07": {"total":2119.00, "Income: Customer and Client Receipts":459.00, "Third Party Payments":1660.00},
+			"2011-08": {"total":2119.00, "Income: Customer and Client Receipts":459.00, "Third Party Payments":1660.00},
 			"2011-09": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
-			"2011-10": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
+			"2011-10": {"total":2119.00, "Income: Customer and Client Receipts":459.00, "Third Party Payments":1660.00},
 			"2011-11": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
-			"2011-12": {"total":2119.00, "Third Party Payments":1660.00, "Income: Customer and Client Receipts":459.00},
+			"2011-12": {"total":2119.00, "Income: Customer and Client Receipts":459.00, "Third Party Payments":1660.00},
 			"2012-01": {"total":276.21, "Income: Customer and Client Receipts":98.36, "Third Party Payments":177.85}
 		}
 	},
@@ -431,7 +428,7 @@
 		"name": "EQUAL ARTS",
 		"total": 35470,
 		"monthly": {
-			"2011-03": {"total":3450.00, "Learning and Children":2500.00, "Community Based Services":950.00},
+			"2011-03": {"total":3450.00, "Community Based Services":950.00, "Learning and Children":2500.00},
 			"2011-10": {"total":5000.00, "Supplies and Services":5000.00},
 			"2012-01": {"total":5000.00, "Premises":5000.00},
 			"2012-03": {"total":11520.00, "Third Party Payments":11520.00},
@@ -461,7 +458,6 @@
 		"name": "EQUALITY NORTH EAST LTD",
 		"total": 5600,
 		"monthly": {
-			"2011-01": {"total":850.00, "Learning and Children":850.00},
 			"2013-08": {"total":4750.00, "Supplies and Services":4750.00}
 		}
 	},
@@ -469,8 +465,7 @@
 		"name": "EQUANET",
 		"total": 6223.43,
 		"monthly": {
-			"2011-01": {"total":572.77, "Learning and Children":572.77},
-			"2011-03": {"total":1667.33, "Local Environmental Services":989.99, "Learning and Children":677.34},
+			"2011-03": {"total":1667.33, "Learning and Children":677.34, "Local Environmental Services":989.99},
 			"2011-05": {"total":1482.98, "Local Environmental Services":1482.98},
 			"2012-11": {"total":1153.37, "Purchase of Equipment":1153.37},
 			"2013-03": {"total":1346.98, "Supplies and Services":1346.98}
@@ -483,7 +478,7 @@
 			"2010-12": {"total":362.60, "Central Services":362.60},
 			"2011-03": {"total":1671.51, "Community Based Services":1671.51},
 			"2011-04": {"total":1645.99, "Community Based Services":1645.99},
-			"2011-05": {"total":1204.75, "Community Based Services":503.98, "Central Services":700.77},
+			"2011-05": {"total":1204.75, "Central Services":700.77, "Community Based Services":503.98},
 			"2011-07": {"total":503.98, "Purchase of Equipment":503.98},
 			"2011-11": {"total":434.69, "Supplies and Services":434.69},
 			"2012-05": {"total":399.13, "Supplies and Services":399.13},
@@ -643,7 +638,7 @@
 			"2016-08": {"total":14153.05, "Purchase of Equipment":14153.05},
 			"2016-09": {"total":3628.90, "Supplies and Services":3628.90},
 			"2016-10": {"total":640.00, "Supplies and Services":640.00},
-			"2017-03": {"total":17407.15, "unknown":3371.40, "Supplies and Services":14035.75},
+			"2017-03": {"total":17407.15, "Supplies and Services":14035.75, "unknown":3371.40},
 			"2017-04": {"total":945.00, "Purchase of Equipment":945.00},
 			"2017-08": {"total":18479.40, "unknown":18479.40}
 		}

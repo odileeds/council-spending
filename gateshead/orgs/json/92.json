@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"4600": {
 		"name": "NHS CENTRAL MIDLANDS CSU",
@@ -51,7 +51,7 @@
 			"2016-10": {"total":233675.00, "Third Party Payments":233675.00},
 			"2017-01": {"total":1039811.99, "Third Party Payments":1039811.99},
 			"2017-04": {"total":1074639.64, "Third Party Payments":1074639.64},
-			"2017-07": {"total":110205.00, "Third Party Payments":14205.00, "Supplies and Services":96000.00},
+			"2017-07": {"total":110205.00, "Supplies and Services":96000.00, "Third Party Payments":14205.00},
 			"2017-08": {"total":111429.17, "Third Party Payments":111429.17},
 			"2017-11": {"total":696688.91, "Third Party Payments":696688.91},
 			"2018-01": {"total":125476.00, "Third Party Payments":125476.00},
@@ -87,14 +87,14 @@
 		"name": "NHS SOUTH TYNESIDE PRIMARY CARE TRUST",
 		"total": 8076.88,
 		"monthly": {
-			"2011-03": {"total":8076.88, "Learning and Children":6380.88, "Community Based Services":1696.00}
+			"2011-03": {"total":8076.88, "Community Based Services":1696.00, "Learning and Children":6380.88}
 		}
 	},
 	"4608": {
 		"name": "NIACE",
 		"total": 17550,
 		"monthly": {
-			"2011-01": {"total":17550.00, "Learning and Children":17550.00}
+
 		}
 	},
 	"4609": {
@@ -287,10 +287,9 @@
 		"name": "NISBETS",
 		"total": 200025.78,
 		"monthly": {
-			"2011-01": {"total":1528.46, "Community Based Services":949.86, "Local Environmental Services":578.60},
 			"2011-02": {"total":4984.46, "Development & Enterprise":1171.27, "Local Environmental Services":3813.19},
-			"2011-03": {"total":2956.28, "Local Environmental Services":2606.29, "Development & Enterprise":349.99},
-			"2011-04": {"total":2903.96, "Local Environmental Services":2903.95, "Full Authority":0.01},
+			"2011-03": {"total":2956.28, "Development & Enterprise":349.99, "Local Environmental Services":2606.29},
+			"2011-04": {"total":2903.96, "Full Authority":0.01, "Local Environmental Services":2903.95},
 			"2011-05": {"total":3498.94, "Local Environmental Services":3498.94},
 			"2011-06": {"total":2195.97, "Local Environmental Services":2195.97},
 			"2011-07": {"total":1358.51, "Supplies and Services":1349.15, "unknown":9.36},
@@ -304,7 +303,7 @@
 			"2012-06": {"total":2975.73, "Supplies and Services":2975.73},
 			"2012-07": {"total":2104.01, "Supplies and Services":2104.01},
 			"2012-08": {"total":636.90, "Supplies and Services":636.90},
-			"2012-10": {"total":10358.81, "Supplies and Services":9559.84, "Premises":798.97},
+			"2012-10": {"total":10358.81, "Premises":798.97, "Supplies and Services":9559.84},
 			"2012-11": {"total":2411.52, "Supplies and Services":2411.52},
 			"2013-01": {"total":1959.98, "Supplies and Services":1959.98},
 			"2013-02": {"total":386.87, "Supplies and Services":386.87},
@@ -319,9 +318,9 @@
 			"2014-03": {"total":1045.36, "Supplies and Services":1045.36},
 			"2014-04": {"total":871.45, "Supplies and Services":871.45},
 			"2014-06": {"total":1622.83, "Supplies and Services":1622.83},
-			"2014-07": {"total":9262.56, "Land and Buildings":129.30, "Supplies and Services":421.49, "Works":8711.77},
+			"2014-07": {"total":9262.56, "Supplies and Services":421.49, "Land and Buildings":129.30, "Works":8711.77},
 			"2014-08": {"total":2195.95, "Supplies and Services":2195.95},
-			"2014-09": {"total":5840.11, "Works":2163.15, "Supplies and Services":3676.96},
+			"2014-09": {"total":5840.11, "Supplies and Services":3676.96, "Works":2163.15},
 			"2014-10": {"total":6337.27, "Works":2291.58, "Supplies and Services":4045.69},
 			"2014-11": {"total":1176.08, "Supplies and Services":1176.08},
 			"2014-12": {"total":3089.50, "Supplies and Services":3089.50},
@@ -399,9 +398,9 @@
 			"2017-02": {"total":11504.21, "Transport":11504.21},
 			"2017-03": {"total":2123.56, "Transport":2123.56},
 			"2017-04": {"total":6627.00, "Supplies and Services":5040.00, "Transport":1587.00},
-			"2017-05": {"total":4767.00, "Transport":1437.00, "Premises":3330.00},
+			"2017-05": {"total":4767.00, "Premises":3330.00, "Transport":1437.00},
 			"2017-06": {"total":1587.00, "Transport":1587.00},
-			"2017-07": {"total":25848.00, "Supplies and Services":24330.00, "Transport":1518.00},
+			"2017-07": {"total":25848.00, "Transport":1518.00, "Supplies and Services":24330.00},
 			"2017-08": {"total":1050.00, "Transport":1050.00},
 			"2017-09": {"total":1587.00, "Transport":1587.00},
 			"2017-10": {"total":1050.00, "Transport":1050.00},
@@ -497,7 +496,7 @@
 			"2011-08": {"total":370.00, "Supplies and Services":370.00},
 			"2013-08": {"total":14600.70, "Premises":14600.70},
 			"2014-03": {"total":25171.10, "Premises":24338.75, "Supplies and Services":832.35},
-			"2014-04": {"total":24961.75, "Supplies and Services":533.00, "Premises":24428.75},
+			"2014-04": {"total":24961.75, "Premises":24428.75, "Supplies and Services":533.00},
 			"2015-03": {"total":27925.40, "Supplies and Services":27925.40},
 			"2015-06": {"total":8610.00, "Supplies and Services":8610.00},
 			"2015-09": {"total":6150.00, "Supplies and Services":6150.00},
@@ -540,7 +539,6 @@
 		"total": 819316.599999999,
 		"monthly": {
 			"2010-12": {"total":21992.15, "Community Based Services":21992.15},
-			"2011-01": {"total":53848.54, "Community Based Services":53848.54},
 			"2011-04": {"total":20342.70, "Community Based Services":20342.70},
 			"2011-05": {"total":40685.40, "Community Based Services":40685.40},
 			"2011-06": {"total":20342.70, "Community Based Services":20342.70},
@@ -682,10 +680,9 @@
 	},
 	"4649": {
 		"name": "NORTH BRITISH HOUSING - TYNE BRIDGE",
-		"total": 27089.4899999994,
+		"total": 26753.0699999994,
 		"monthly": {
 			"2010-12": {"total":568.96, "Community Based Services":568.96},
-			"2011-01": {"total":1267.06, "Community Based Services":1267.06},
 			"2011-04": {"total":510.68, "Community Based Services":510.68},
 			"2011-05": {"total":1021.36, "Community Based Services":1021.36},
 			"2011-06": {"total":510.68, "Community Based Services":510.68},

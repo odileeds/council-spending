@@ -1,11 +1,10 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"4100": {
 		"name": "LYNCH HEALTHCARE",
 		"total": 93534.01,
 		"monthly": {
-			"2011-01": {"total":8478.00, "Community Based Services":8478.00},
 			"2011-02": {"total":13448.94, "Community Based Services":13448.94},
 			"2011-03": {"total":4369.50, "Community Based Services":4369.50},
 			"2011-04": {"total":7787.51, "Community Based Services":7787.51},
@@ -14,7 +13,7 @@
 			"2011-07": {"total":1913.00, "Works":1453.00, "Other Costs":460.00},
 			"2011-08": {"total":1941.47, "Works":1941.47},
 			"2011-09": {"total":1491.44, "Other Costs":1491.44},
-			"2011-10": {"total":3685.72, "Works":2098.75, "Other Costs":1586.97},
+			"2011-10": {"total":3685.72, "Other Costs":1586.97, "Works":2098.75},
 			"2011-12": {"total":5205.00, "unknown":2010.00, "Purchase of Equipment":3195.00},
 			"2012-01": {"total":950.00, "Works":950.00},
 			"2012-03": {"total":4000.00, "Supplies and Services":4000.00},
@@ -48,10 +47,10 @@
 			"2011-06": {"total":8847.85, "Learning and Children":8847.85},
 			"2011-07": {"total":4550.00, "Supplies and Services":4550.00},
 			"2011-09": {"total":6276.58, "Supplies and Services":6276.58},
-			"2011-10": {"total":3020.00, "Supplies and Services":2500.00, "Transfer Payments":520.00},
-			"2011-11": {"total":9718.78, "Third Party Payments":5000.00, "Supplies and Services":2840.78, "Transport":1878.00},
+			"2011-10": {"total":3020.00, "Transfer Payments":520.00, "Supplies and Services":2500.00},
+			"2011-11": {"total":9718.78, "Supplies and Services":2840.78, "Third Party Payments":5000.00, "Transport":1878.00},
 			"2011-12": {"total":780.00, "Transfer Payments":780.00},
-			"2012-01": {"total":9886.96, "Supplies and Services":7386.96, "Premises":2500.00},
+			"2012-01": {"total":9886.96, "Premises":2500.00, "Supplies and Services":7386.96},
 			"2012-03": {"total":3815.84, "Transfer Payments":650.00, "Supplies and Services":3165.84},
 			"2012-04": {"total":11856.82, "Supplies and Services":9356.82, "Premises":2500.00},
 			"2012-06": {"total":4010.06, "Supplies and Services":4010.06},
@@ -133,9 +132,8 @@
 		"name": "LYRECO UK LTD",
 		"total": 22151.25,
 		"monthly": {
-			"2010-12": {"total":3572.99, "Learning and Children":1539.18, "Local Environmental Services":431.36, "Central Services":773.24, "Community Based Services":829.21},
-			"2011-01": {"total":2004.69, "Learning and Children":1465.31, "Development & Enterprise":539.38},
-			"2011-02": {"total":9131.97, "Central Services":380.85, "Learning and Children":2793.41, "Community Based Services":5957.71},
+			"2010-12": {"total":3572.99, "Learning and Children":1539.18, "Local Environmental Services":431.36, "Community Based Services":829.21, "Central Services":773.24},
+			"2011-02": {"total":9131.97, "Central Services":380.85, "Community Based Services":5957.71, "Learning and Children":2793.41},
 			"2011-03": {"total":4316.52, "Community Based Services":1217.73, "Learning and Children":3098.79},
 			"2011-04": {"total":2689.80, "Learning and Children":2689.80},
 			"2011-05": {"total":435.28, "Learning and Children":435.28}
@@ -353,7 +351,7 @@
 			"2016-06": {"total":366.39, "Transport":366.39},
 			"2016-09": {"total":413.22, "Supplies and Services":413.22},
 			"2017-03": {"total":1193.90, "Transport":1193.90},
-			"2017-06": {"total":778.60, "Transport":682.60, "Supplies and Services":96.00}
+			"2017-06": {"total":778.60, "Supplies and Services":96.00, "Transport":682.60}
 		}
 	},
 	"4131": {
@@ -440,7 +438,6 @@
 		"name": "MAGNA LARGE PRINT",
 		"total": 88237.8200000001,
 		"monthly": {
-			"2011-01": {"total":1256.24, "Community Based Services":1256.24},
 			"2011-02": {"total":2673.64, "Community Based Services":2673.64},
 			"2011-03": {"total":5313.54, "Community Based Services":5313.54},
 			"2011-04": {"total":454.02, "Community Based Services":454.02},
@@ -566,7 +563,6 @@
 		"total": 39999.01,
 		"monthly": {
 			"2010-12": {"total":7209.98, "Development & Enterprise":7209.98},
-			"2011-01": {"total":4830.04, "Development & Enterprise":4830.04},
 			"2011-03": {"total":7209.98, "Development & Enterprise":7209.98},
 			"2011-04": {"total":1308.90, "Development & Enterprise":1308.90},
 			"2011-06": {"total":3986.28, "Development & Enterprise":3986.28},

@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"2900": {
 		"name": "GREENSIDE PCC",
@@ -38,10 +38,10 @@
 			"2014-04": {"total":380.50, "Supplies and Services":380.50},
 			"2014-05": {"total":5996.98, "Supplies and Services":5996.98},
 			"2014-06": {"total":9715.93, "Supplies and Services":9715.93},
-			"2014-07": {"total":3420.95, "Premises":1276.85, "Supplies and Services":2144.10},
+			"2014-07": {"total":3420.95, "Supplies and Services":2144.10, "Premises":1276.85},
 			"2014-08": {"total":2125.20, "Supplies and Services":2125.20},
 			"2014-10": {"total":627.50, "Supplies and Services":627.50},
-			"2014-11": {"total":8930.00, "Supplies and Services":1650.00, "Works":7280.00},
+			"2014-11": {"total":8930.00, "Works":7280.00, "Supplies and Services":1650.00},
 			"2015-01": {"total":3101.22, "Supplies and Services":3101.22},
 			"2015-02": {"total":1883.00, "Supplies and Services":1883.00},
 			"2015-03": {"total":2918.00, "Supplies and Services":2918.00},
@@ -80,19 +80,19 @@
 		"name": "GREENWAYS COURT",
 		"total": 38026.42,
 		"monthly": {
-			"2011-12": {"total":2465.72, "Third Party Payments":1885.76, "Income: Customer and Client Receipts":579.96},
-			"2012-01": {"total":2465.72, "Third Party Payments":1885.76, "Income: Customer and Client Receipts":579.96},
-			"2012-02": {"total":5151.44, "Third Party Payments":3991.52, "Income: Customer and Client Receipts":1159.92},
+			"2011-12": {"total":2465.72, "Income: Customer and Client Receipts":579.96, "Third Party Payments":1885.76},
+			"2012-01": {"total":2465.72, "Income: Customer and Client Receipts":579.96, "Third Party Payments":1885.76},
+			"2012-02": {"total":5151.44, "Income: Customer and Client Receipts":1159.92, "Third Party Payments":3991.52},
 			"2012-03": {"total":2505.72, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":579.96},
 			"2012-04": {"total":2515.38, "Income: Customer and Client Receipts":589.62, "Third Party Payments":1925.76},
 			"2012-05": {"total":2518.60, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":592.84},
 			"2012-06": {"total":2518.60, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":592.84},
 			"2012-07": {"total":2518.60, "Income: Customer and Client Receipts":592.84, "Third Party Payments":1925.76},
-			"2012-08": {"total":2518.60, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":592.84},
+			"2012-08": {"total":2518.60, "Income: Customer and Client Receipts":592.84, "Third Party Payments":1925.76},
 			"2012-09": {"total":2518.60, "Income: Customer and Client Receipts":592.84, "Third Party Payments":1925.76},
-			"2012-10": {"total":2518.60, "Income: Customer and Client Receipts":592.84, "Third Party Payments":1925.76},
+			"2012-10": {"total":2518.60, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":592.84},
 			"2012-11": {"total":2518.60, "Third Party Payments":1925.76, "Income: Customer and Client Receipts":592.84},
-			"2013-01": {"total":5037.20, "Income: Customer and Client Receipts":1185.68, "Third Party Payments":3851.52},
+			"2013-01": {"total":5037.20, "Third Party Payments":3851.52, "Income: Customer and Client Receipts":1185.68},
 			"2013-02": {"total":207.44, "Third Party Payments":110.05, "Income: Customer and Client Receipts":97.39},
 			"2013-03": {"total":47.60, "Third Party Payments":47.60}
 		}
@@ -141,7 +141,6 @@
 		"name": "GRESSWELL DIRECT",
 		"total": 1539.7,
 		"monthly": {
-			"2011-01": {"total":1139.90, "Community Based Services":1139.90},
 			"2012-09": {"total":399.80, "Supplies and Services":399.80}
 		}
 	},
@@ -197,7 +196,6 @@
 		"name": "GROSVENOR SYSTEMS LTD",
 		"total": 25457.41,
 		"monthly": {
-			"2011-01": {"total":4532.04, "Development & Enterprise":4532.04},
 			"2011-11": {"total":4691.34, "Supplies and Services":4691.34},
 			"2012-11": {"total":4857.12, "Supplies and Services":4857.12},
 			"2014-01": {"total":5029.38, "Supplies and Services":5029.38},
@@ -232,7 +230,7 @@
 		"total": 553605.85,
 		"monthly": {
 			"2011-02": {"total":4810.00, "Community Based Services":4810.00},
-			"2011-03": {"total":31653.00, "Miscoding":7500.00, "Learning and Children":16375.00, "Community Based Services":7778.00},
+			"2011-03": {"total":31653.00, "Learning and Children":16375.00, "Community Based Services":7778.00, "Miscoding":7500.00},
 			"2011-07": {"total":6475.50, "Supplies and Services":6475.50},
 			"2011-09": {"total":2754.00, "Supplies and Services":2754.00},
 			"2012-02": {"total":31000.00, "Supplies and Services":6000.00, "Consultants":25000.00},
@@ -260,7 +258,7 @@
 			"2016-09": {"total":10275.00, "Consultants":10275.00},
 			"2016-10": {"total":22759.00, "Third Party Payments":22759.00},
 			"2016-11": {"total":22324.22, "Third Party Payments":22324.22},
-			"2017-02": {"total":48645.30, "unknown":15172.97, "Supplies and Services":5000.00, "Third Party Payments":28472.33},
+			"2017-02": {"total":48645.30, "Supplies and Services":5000.00, "Third Party Payments":28472.33, "unknown":15172.97},
 			"2017-07": {"total":20784.26, "Third Party Payments":20284.26, "Premises":500.00},
 			"2017-10": {"total":195000.00, "Consultants":195000.00}
 		}
@@ -348,9 +346,8 @@
 	},
 	"2922": {
 		"name": "GT CLEANING MACHINES",
-		"total": 84897.38,
+		"total": 81779.38,
 		"monthly": {
-			"2011-01": {"total":9456.00, "Community Based Services":9456.00},
 			"2011-02": {"total":1818.38, "Community Based Services":1818.38},
 			"2011-04": {"total":6338.00, "Community Based Services":6338.00},
 			"2011-07": {"total":6298.00, "Supplies and Services":6298.00},
@@ -413,7 +410,7 @@
 		"name": "GUIDEPOST - CONNEXIONS",
 		"total": 2021,
 		"monthly": {
-			"2011-01": {"total":2021.00, "Learning and Children":2021.00}
+
 		}
 	},
 	"2929": {
@@ -421,10 +418,9 @@
 		"total": 13686.1,
 		"monthly": {
 			"2010-12": {"total":170.80, "Community Based Services":170.80},
-			"2011-01": {"total":341.60, "Community Based Services":341.60},
 			"2011-04": {"total":170.80, "Community Based Services":170.80},
 			"2011-05": {"total":341.60, "Community Based Services":341.60},
-			"2011-06": {"total":730.80, "Development & Enterprise":560.00, "Community Based Services":170.80},
+			"2011-06": {"total":730.80, "Community Based Services":170.80, "Development & Enterprise":560.00},
 			"2011-07": {"total":170.80, "Third Party Payments":170.80},
 			"2011-08": {"total":1878.80, "Third Party Payments":1878.80},
 			"2011-09": {"total":170.80, "Third Party Payments":170.80},
@@ -468,10 +464,9 @@
 	},
 	"2930": {
 		"name": "GUISBOROUGH MANOR",
-		"total": 42449.58,
+		"total": 41529.9,
 		"monthly": {
 			"2010-12": {"total":2469.84, "Community Based Services":2469.84},
-			"2011-01": {"total":2469.84, "Community Based Services":2469.84},
 			"2011-02": {"total":2469.84, "Community Based Services":2469.84},
 			"2011-03": {"total":4939.68, "Community Based Services":4939.68},
 			"2011-04": {"total":2483.76, "Community Based Services":2483.76},
@@ -479,13 +474,13 @@
 			"2011-06": {"total":2488.40, "Community Based Services":2488.40},
 			"2011-07": {"total":2488.40, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":478.40},
 			"2011-08": {"total":2488.40, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":478.40},
-			"2011-09": {"total":2488.40, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":478.40},
+			"2011-09": {"total":2488.40, "Income: Customer and Client Receipts":478.40, "Third Party Payments":2010.00},
 			"2011-10": {"total":2487.74, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":477.74},
 			"2011-11": {"total":2487.24, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":477.24},
-			"2011-12": {"total":2487.24, "Income: Customer and Client Receipts":477.24, "Third Party Payments":2010.00},
-			"2012-01": {"total":2487.24, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":477.24},
-			"2012-02": {"total":5084.48, "Third Party Payments":4130.00, "Income: Customer and Client Receipts":954.48},
-			"2012-03": {"total":140.68, "Third Party Payments":72.50, "Income: Customer and Client Receipts":68.18}
+			"2011-12": {"total":2487.24, "Third Party Payments":2010.00, "Income: Customer and Client Receipts":477.24},
+			"2012-01": {"total":2487.24, "Income: Customer and Client Receipts":477.24, "Third Party Payments":2010.00},
+			"2012-02": {"total":5084.48, "Income: Customer and Client Receipts":954.48, "Third Party Payments":4130.00},
+			"2012-03": {"total":140.68, "Income: Customer and Client Receipts":68.18, "Third Party Payments":72.50}
 		}
 	},
 	"2931": {
@@ -500,7 +495,7 @@
 		"total": 29564.56,
 		"monthly": {
 			"2010-12": {"total":787.52, "Local Environmental Services":787.52},
-			"2011-02": {"total":829.90, "Local Environmental Services":384.54, "Development & Enterprise":445.36},
+			"2011-02": {"total":829.90, "Development & Enterprise":445.36, "Local Environmental Services":384.54},
 			"2011-03": {"total":1286.25, "Local Environmental Services":1286.25},
 			"2011-04": {"total":2128.84, "Local Environmental Services":2128.84},
 			"2011-05": {"total":363.83, "Local Environmental Services":363.83},
@@ -551,7 +546,6 @@
 		"total": 138511.36,
 		"monthly": {
 			"2010-12": {"total":21353.03, "Community Based Services":21353.03},
-			"2011-01": {"total":19256.19, "Community Based Services":19256.19},
 			"2011-02": {"total":10910.76, "Community Based Services":10910.76},
 			"2011-03": {"total":38157.16, "Community Based Services":38157.16},
 			"2011-05": {"total":8606.04, "Community Based Services":8606.04},
@@ -570,17 +564,16 @@
 		"name": "GVOC",
 		"total": 1340445.72,
 		"monthly": {
-			"2010-12": {"total":20154.50, "Community Based Services":9048.50, "Development & Enterprise":11106.00},
-			"2011-01": {"total":78192.30, "Development & Enterprise":12098.40, "Community Based Services":66093.90},
+			"2010-12": {"total":20154.50, "Development & Enterprise":11106.00, "Community Based Services":9048.50},
 			"2011-02": {"total":1906.40, "Development & Enterprise":1906.40},
-			"2011-03": {"total":29200.06, "Learning and Children":13934.86, "Development & Enterprise":15265.20},
-			"2011-04": {"total":65332.03, "Learning and Children":5000.00, "Development & Enterprise":2500.00, "Community Based Services":57832.03},
+			"2011-03": {"total":29200.06, "Development & Enterprise":15265.20, "Learning and Children":13934.86},
+			"2011-04": {"total":65332.03, "Development & Enterprise":2500.00, "Learning and Children":5000.00, "Community Based Services":57832.03},
 			"2011-05": {"total":1344.00, "Development & Enterprise":1344.00},
 			"2011-06": {"total":3785.38, "Development & Enterprise":3785.38},
-			"2011-07": {"total":62649.41, "Supplies and Services":4817.38, "Third Party Payments":57832.03},
+			"2011-07": {"total":62649.41, "Third Party Payments":57832.03, "Supplies and Services":4817.38},
 			"2011-08": {"total":1317.38, "Supplies and Services":1317.38},
 			"2011-10": {"total":29394.53, "Third Party Payments":29394.53},
-			"2011-12": {"total":5114.21, "Third Party Payments":2640.69, "Supplies and Services":2473.52},
+			"2011-12": {"total":5114.21, "Supplies and Services":2473.52, "Third Party Payments":2640.69},
 			"2012-01": {"total":47034.13, "Third Party Payments":46269.53, "Supplies and Services":764.60},
 			"2012-02": {"total":764.60, "Supplies and Services":764.60},
 			"2012-03": {"total":11848.81, "Income: Other Grants, Reim & Contrib":7550.00, "Third Party Payments":3497.98, "Supplies and Services":800.83},
@@ -593,7 +586,7 @@
 			"2013-04": {"total":3989.75, "Third Party Payments":3989.75},
 			"2013-06": {"total":48513.50, "Third Party Payments":48513.50},
 			"2013-07": {"total":76888.76, "Third Party Payments":76888.76},
-			"2013-09": {"total":18861.25, "Supplies and Services":2000.00, "Third Party Payments":16861.25},
+			"2013-09": {"total":18861.25, "Third Party Payments":16861.25, "Supplies and Services":2000.00},
 			"2013-10": {"total":52503.25, "Third Party Payments":52503.25},
 			"2014-01": {"total":52503.25, "Third Party Payments":52503.25},
 			"2014-04": {"total":52503.25, "Third Party Payments":52503.25},
@@ -667,7 +660,6 @@
 		"name": "H C  SLINGSBY PLC",
 		"total": 8531.83,
 		"monthly": {
-			"2011-01": {"total":816.00, "Community Based Services":816.00},
 			"2011-07": {"total":918.90, "Supplies and Services":918.90},
 			"2011-08": {"total":745.00, "Supplies and Services":745.00},
 			"2012-01": {"total":402.78, "Supplies and Services":402.78},
@@ -698,13 +690,13 @@
 			"2012-10": {"total":768.00, "Supplies and Services":768.00},
 			"2013-01": {"total":19045.60, "Third Party Payments":19045.60},
 			"2013-03": {"total":15864.35, "Third Party Payments":15864.35},
-			"2013-06": {"total":18243.30, "Full Authority":901.60, "Third Party Payments":17341.70},
+			"2013-06": {"total":18243.30, "Third Party Payments":17341.70, "Full Authority":901.60},
 			"2013-09": {"total":412.00, "Supplies and Services":412.00},
 			"2014-07": {"total":5040.00, "Supplies and Services":5040.00},
 			"2014-09": {"total":2370.05, "Supplies and Services":2370.05},
 			"2014-11": {"total":1428.90, "Supplies and Services":1428.90},
-			"2016-06": {"total":4534.77, "Third Party Payments":4048.90, "unknown":485.87},
-			"2016-08": {"total":4526.26, "Third Party Payments":4041.30, "unknown":484.96},
+			"2016-06": {"total":4534.77, "unknown":485.87, "Third Party Payments":4048.90},
+			"2016-08": {"total":4526.26, "unknown":484.96, "Third Party Payments":4041.30},
 			"2017-03": {"total":710.40, "Third Party Payments":710.40}
 		}
 	},

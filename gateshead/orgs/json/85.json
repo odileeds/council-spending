@@ -1,12 +1,11 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"4250": {
 		"name": "MENTAL HEALTH MATTERS",
 		"total": 1159835.97,
 		"monthly": {
 			"2010-12": {"total":3564.48, "Community Based Services":3564.48},
-			"2011-01": {"total":60997.10, "Community Based Services":60997.10},
 			"2011-04": {"total":48971.93, "Community Based Services":48971.93},
 			"2011-05": {"total":3674.40, "Community Based Services":3674.40},
 			"2011-06": {"total":1837.20, "Community Based Services":1837.20},
@@ -278,16 +277,15 @@
 			"2011-10": {"total":3648.16, "Third Party Payments":3648.16},
 			"2011-11": {"total":1824.08, "Third Party Payments":1824.08},
 			"2011-12": {"total":2823.08, "Third Party Payments":456.02, "Income: Customer and Client Receipts":2367.06},
-			"2012-01": {"total":1273.85, "Third Party Payments":1008.40, "Income: Customer and Client Receipts":265.45},
+			"2012-01": {"total":1273.85, "Income: Customer and Client Receipts":265.45, "Third Party Payments":1008.40},
 			"2012-02": {"total":2771.59, "Income: Customer and Client Receipts":599.95, "Third Party Payments":2171.64},
-			"2012-03": {"total":6820.90, "Third Party Payments":3588.44, "Income: Customer and Client Receipts":3232.46}
+			"2012-03": {"total":6820.90, "Income: Customer and Client Receipts":3232.46, "Third Party Payments":3588.44}
 		}
 	},
 	"4269": {
 		"name": "METRIC GROUP LTD",
 		"total": 184384.65,
 		"monthly": {
-			"2011-01": {"total":3864.12, "Development & Enterprise":3864.12},
 			"2011-04": {"total":7434.12, "Development & Enterprise":7434.12},
 			"2011-07": {"total":3864.12, "Supplies and Services":3864.12},
 			"2011-08": {"total":23600.00, "Supplies and Services":23600.00},
@@ -315,7 +313,7 @@
 			"2016-05": {"total":3170.00, "Supplies and Services":3170.00},
 			"2016-10": {"total":4309.98, "Premises":4309.98},
 			"2016-11": {"total":12308.93, "Supplies and Services":4655.00, "Premises":7653.93},
-			"2017-01": {"total":7491.88, "Premises":3566.88, "Supplies and Services":3925.00},
+			"2017-01": {"total":7491.88, "Supplies and Services":3925.00, "Premises":3566.88},
 			"2017-05": {"total":3624.23, "Premises":3624.23},
 			"2017-08": {"total":3641.19, "Premises":3641.19},
 			"2017-10": {"total":3427.95, "Premises":3427.95},
@@ -387,7 +385,7 @@
 		"name": "METTLER TOLEDO LTD",
 		"total": 4046,
 		"monthly": {
-			"2011-01": {"total":4046.00, "Development & Enterprise":4046.00}
+
 		}
 	},
 	"4277": {
@@ -428,7 +426,6 @@
 		"total": 2118630.88,
 		"monthly": {
 			"2010-12": {"total":87159.31, "Local Environmental Services":87159.31},
-			"2011-01": {"total":10845.86, "Local Environmental Services":10845.86},
 			"2011-02": {"total":47255.10, "Local Environmental Services":47255.10},
 			"2011-03": {"total":38127.98, "Local Environmental Services":38127.98},
 			"2011-04": {"total":35062.51, "Local Environmental Services":35062.51},
@@ -436,7 +433,7 @@
 			"2011-06": {"total":10452.10, "Local Environmental Services":10452.10},
 			"2011-07": {"total":31567.51, "Supplies and Services":31567.51},
 			"2011-08": {"total":14006.26, "Supplies and Services":14006.26},
-			"2011-09": {"total":29871.39, "Supplies and Services":28965.39, "Third Party Payments":906.00},
+			"2011-09": {"total":29871.39, "Third Party Payments":906.00, "Supplies and Services":28965.39},
 			"2011-10": {"total":95845.28, "Supplies and Services":95845.28},
 			"2011-11": {"total":92441.37, "Supplies and Services":90741.37, "Third Party Payments":1700.00},
 			"2011-12": {"total":23393.01, "Supplies and Services":23393.01},
@@ -446,13 +443,13 @@
 			"2012-05": {"total":10293.30, "Supplies and Services":10293.30},
 			"2012-06": {"total":26542.90, "Supplies and Services":26542.90},
 			"2012-07": {"total":16810.60, "Supplies and Services":16810.60},
-			"2012-08": {"total":12693.96, "Third Party Payments":420.00, "Supplies and Services":12273.96},
+			"2012-08": {"total":12693.96, "Supplies and Services":12273.96, "Third Party Payments":420.00},
 			"2012-11": {"total":8903.39, "Supplies and Services":8903.39},
-			"2013-03": {"total":17480.64, "Supplies and Services":5736.69, "Third Party Payments":11743.95},
+			"2013-03": {"total":17480.64, "Third Party Payments":11743.95, "Supplies and Services":5736.69},
 			"2013-04": {"total":36477.21, "Supplies and Services":36477.21},
 			"2013-05": {"total":350.00, "Supplies and Services":350.00},
 			"2013-06": {"total":18687.48, "Supplies and Services":18687.48},
-			"2013-07": {"total":34438.02, "Supplies and Services":32422.02, "Third Party Payments":2016.00},
+			"2013-07": {"total":34438.02, "Third Party Payments":2016.00, "Supplies and Services":32422.02},
 			"2013-08": {"total":15591.88, "Supplies and Services":15591.88},
 			"2013-09": {"total":20735.48, "Supplies and Services":20735.48},
 			"2013-10": {"total":13012.79, "Supplies and Services":13012.79},
@@ -618,7 +615,7 @@
 		"name": "MICROMAGNETICS",
 		"total": 801.9,
 		"monthly": {
-			"2011-01": {"total":801.90, "Community Based Services":801.90}
+
 		}
 	},
 	"4296": {

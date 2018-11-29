@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"2150": {
 		"name": "EDT TRAINING GROUP",
@@ -134,7 +134,7 @@
 		"total": 30344,
 		"monthly": {
 			"2011-10": {"total":976.85, "Supplies and Services":976.85},
-			"2012-02": {"total":11815.59, "Supplies and Services":532.05, "Purchase of Equipment":11283.54},
+			"2012-02": {"total":11815.59, "Purchase of Equipment":11283.54, "Supplies and Services":532.05},
 			"2012-03": {"total":752.52, "Supplies and Services":752.52},
 			"2012-05": {"total":921.38, "Supplies and Services":921.38},
 			"2014-05": {"total":351.29, "Supplies and Services":351.29},
@@ -176,7 +176,6 @@
 		"name": "EGBERT H TAYLOR & CO LTD",
 		"total": 73791.52,
 		"monthly": {
-			"2011-01": {"total":558.00, "Local Environmental Services":558.00},
 			"2011-03": {"total":7444.50, "Local Environmental Services":7444.50},
 			"2011-05": {"total":842.28, "Local Environmental Services":842.28},
 			"2012-09": {"total":4907.50, "Supplies and Services":4907.50},
@@ -206,7 +205,7 @@
 			"2011-10": {"total":17956.78, "Supplies and Services":17956.78},
 			"2014-04": {"total":3574.04, "Purchase of Equipment":3574.04},
 			"2014-07": {"total":11786.13, "Supplies and Services":11786.13},
-			"2014-10": {"total":29604.67, "Supplies and Services":28412.17, "Purchase of Equipment":1192.50},
+			"2014-10": {"total":29604.67, "Purchase of Equipment":1192.50, "Supplies and Services":28412.17},
 			"2014-12": {"total":17879.23, "Supplies and Services":17879.23},
 			"2015-02": {"total":7518.65, "Supplies and Services":7518.65},
 			"2016-04": {"total":917.43, "Supplies and Services":917.43}
@@ -285,9 +284,9 @@
 		"monthly": {
 			"2016-04": {"total":7087.14, "Third Party Payments":4118.58, "Income: Fees and Charges":2968.56},
 			"2016-05": {"total":2875.87, "Third Party Payments":2068.00, "Income: Fees and Charges":807.87},
-			"2016-06": {"total":2932.16, "Third Party Payments":1972.00, "Income: Fees and Charges":960.16},
-			"2016-08": {"total":2932.16, "Third Party Payments":1972.00, "Income: Fees and Charges":960.16},
-			"2016-09": {"total":2932.16, "Third Party Payments":1972.00, "Income: Fees and Charges":960.16}
+			"2016-06": {"total":2932.16, "Income: Fees and Charges":960.16, "Third Party Payments":1972.00},
+			"2016-08": {"total":2932.16, "Income: Fees and Charges":960.16, "Third Party Payments":1972.00},
+			"2016-09": {"total":2932.16, "Income: Fees and Charges":960.16, "Third Party Payments":1972.00}
 		}
 	},
 	"2175": {
@@ -313,7 +312,6 @@
 		"name": "ELECTRIC CENTRE",
 		"total": 36220.42,
 		"monthly": {
-			"2011-01": {"total":460.00, "Local Environmental Services":460.00},
 			"2011-02": {"total":5100.49, "Local Environmental Services":5100.49},
 			"2011-03": {"total":1860.02, "Local Environmental Services":1860.02},
 			"2011-05": {"total":709.25, "Local Environmental Services":709.25},
@@ -397,7 +395,7 @@
 		"name": "ELIZABETH JARMAN TRAINING LTD",
 		"total": 3427.56,
 		"monthly": {
-			"2014-12": {"total":3427.56, "Supplies and Services":1426.83, "Employees":2000.73}
+			"2014-12": {"total":3427.56, "Employees":2000.73, "Supplies and Services":1426.83}
 		}
 	},
 	"2187": {
@@ -412,7 +410,6 @@
 		"total": 3635,
 		"monthly": {
 			"2010-12": {"total":500.00, "Community Based Services":500.00},
-			"2011-01": {"total":535.00, "Community Based Services":535.00},
 			"2011-06": {"total":500.00, "Community Based Services":500.00},
 			"2011-09": {"total":500.00, "Supplies and Services":500.00},
 			"2012-10": {"total":700.00, "Supplies and Services":700.00},
@@ -438,7 +435,6 @@
 		"total": 729017.61,
 		"monthly": {
 			"2010-12": {"total":24915.00, "Community Based Services":22175.00, "Miscoding":2740.00},
-			"2011-01": {"total":10570.00, "Community Based Services":10570.00},
 			"2011-02": {"total":10050.59, "Community Based Services":10050.59},
 			"2011-03": {"total":5460.00, "Community Based Services":5460.00},
 			"2011-05": {"total":2830.00, "Community Based Services":2830.00},
@@ -558,43 +554,42 @@
 	},
 	"2198": {
 		"name": "ELPHA LODGE LTD",
-		"total": 181925.06,
+		"total": 181238.02,
 		"monthly": {
 			"2010-12": {"total":3282.16, "Community Based Services":3282.16},
-			"2011-01": {"total":3282.16, "Community Based Services":3282.16},
 			"2011-02": {"total":3282.16, "Community Based Services":3282.16},
 			"2011-03": {"total":4571.57, "Community Based Services":4571.57},
 			"2011-05": {"total":5915.62, "Community Based Services":5915.62},
 			"2011-06": {"total":3342.48, "Community Based Services":3342.48},
-			"2011-07": {"total":3342.48, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":355.72},
-			"2011-09": {"total":6684.96, "Third Party Payments":5973.52, "Income: Customer and Client Receipts":711.44},
+			"2011-07": {"total":3342.48, "Income: Customer and Client Receipts":355.72, "Third Party Payments":2986.76},
+			"2011-09": {"total":6684.96, "Income: Customer and Client Receipts":711.44, "Third Party Payments":5973.52},
 			"2011-10": {"total":5013.72, "Third Party Payments":4480.14, "Income: Customer and Client Receipts":533.58},
 			"2011-12": {"total":6664.57, "Third Party Payments":5973.52, "Income: Customer and Client Receipts":691.05},
-			"2012-01": {"total":3328.56, "Income: Customer and Client Receipts":341.80, "Third Party Payments":2986.76},
+			"2012-01": {"total":3328.56, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":341.80},
 			"2012-02": {"total":6657.12, "Income: Customer and Client Receipts":683.60, "Third Party Payments":5973.52},
 			"2012-03": {"total":3328.56, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":341.80},
-			"2012-04": {"total":3334.26, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":347.50},
-			"2012-05": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
-			"2012-06": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
+			"2012-04": {"total":3334.26, "Income: Customer and Client Receipts":347.50, "Third Party Payments":2986.76},
+			"2012-05": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
+			"2012-06": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
 			"2012-08": {"total":6672.32, "Third Party Payments":5973.52, "Income: Customer and Client Receipts":698.80},
-			"2012-09": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
-			"2012-10": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
+			"2012-09": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
+			"2012-10": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
 			"2012-11": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
-			"2013-01": {"total":6672.32, "Income: Customer and Client Receipts":698.80, "Third Party Payments":5973.52},
-			"2013-02": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
+			"2013-01": {"total":6672.32, "Third Party Payments":5973.52, "Income: Customer and Client Receipts":698.80},
+			"2013-02": {"total":3336.16, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":349.40},
 			"2013-03": {"total":3336.16, "Income: Customer and Client Receipts":349.40, "Third Party Payments":2986.76},
 			"2013-04": {"total":3338.56, "Income: Customer and Client Receipts":351.80, "Third Party Payments":2986.76},
-			"2013-05": {"total":3339.36, "Income: Customer and Client Receipts":352.60, "Third Party Payments":2986.76},
+			"2013-05": {"total":3339.36, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":352.60},
 			"2013-06": {"total":3195.36, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":208.60},
 			"2013-07": {"total":3195.36, "Income: Customer and Client Receipts":208.60, "Third Party Payments":2986.76},
-			"2013-08": {"total":3856.56, "Income: Customer and Client Receipts":869.80, "Third Party Payments":2986.76},
+			"2013-08": {"total":3856.56, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":869.80},
 			"2013-09": {"total":3334.56, "Income: Customer and Client Receipts":347.80, "Third Party Payments":2986.76},
-			"2013-10": {"total":3334.56, "Third Party Payments":2986.76, "Income: Customer and Client Receipts":347.80},
-			"2013-12": {"total":20007.36, "Income: Fees and Charges":2086.80, "Third Party Payments":17920.56},
+			"2013-10": {"total":3334.56, "Income: Customer and Client Receipts":347.80, "Third Party Payments":2986.76},
+			"2013-12": {"total":20007.36, "Third Party Payments":17920.56, "Income: Fees and Charges":2086.80},
 			"2014-01": {"total":3334.56, "Third Party Payments":2986.76, "Income: Fees and Charges":347.80},
 			"2014-02": {"total":3334.56, "Income: Fees and Charges":347.80, "Third Party Payments":2986.76},
-			"2014-03": {"total":3334.56, "Third Party Payments":2986.76, "Income: Fees and Charges":347.80},
-			"2014-04": {"total":3333.06, "Income: Fees and Charges":346.30, "Third Party Payments":2986.76},
+			"2014-03": {"total":3334.56, "Income: Fees and Charges":347.80, "Third Party Payments":2986.76},
+			"2014-04": {"total":3333.06, "Third Party Payments":2986.76, "Income: Fees and Charges":346.30},
 			"2014-05": {"total":3332.56, "Income: Fees and Charges":345.80, "Third Party Payments":2986.76},
 			"2014-06": {"total":3332.56, "Third Party Payments":2986.76, "Income: Fees and Charges":345.80},
 			"2014-07": {"total":3332.56, "Income: Fees and Charges":345.80, "Third Party Payments":2986.76},

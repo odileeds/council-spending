@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"3100": {
 		"name": "HEWLETT PACKARD LTD",
@@ -15,7 +15,7 @@
 		"name": "HEWORTH CHRISTIAN FELLOWSHIP",
 		"total": 1938.97,
 		"monthly": {
-			"2011-01": {"total":1938.97, "Community Based Services":1938.97}
+
 		}
 	},
 	"3102": {
@@ -94,7 +94,7 @@
 			"2011-02": {"total":1420.00, "Local Environmental Services":1420.00},
 			"2011-03": {"total":857.00, "Learning and Children":857.00},
 			"2011-05": {"total":1420.00, "Local Environmental Services":1420.00},
-			"2011-06": {"total":863.50, "Community Based Services":430.50, "Learning and Children":433.00},
+			"2011-06": {"total":863.50, "Learning and Children":433.00, "Community Based Services":430.50},
 			"2011-09": {"total":2465.00, "Supplies and Services":2465.00},
 			"2012-01": {"total":1500.00, "Income: Customer and Client Receipts":1500.00},
 			"2012-03": {"total":453.38, "Supplies and Services":453.38},
@@ -196,7 +196,7 @@
 			"2016-05": {"total":10520.28, "Supplies and Services":10520.28},
 			"2016-08": {"total":24291.02, "Supplies and Services":24291.02},
 			"2016-09": {"total":39962.09, "Supplies and Services":39962.09},
-			"2016-10": {"total":77842.26, "Supplies and Services":73840.86, "Premises":4001.40},
+			"2016-10": {"total":77842.26, "Premises":4001.40, "Supplies and Services":73840.86},
 			"2016-11": {"total":47937.30, "Supplies and Services":47937.30},
 			"2016-12": {"total":60890.28, "Supplies and Services":60890.28},
 			"2017-01": {"total":7159.19, "Supplies and Services":7159.19},
@@ -268,7 +268,6 @@
 		"name": "HIGHFIELD AWARDING BODY FOR COMPLIANCE LTD",
 		"total": 50906.3,
 		"monthly": {
-			"2011-01": {"total":1700.00, "Central Services":1700.00},
 			"2011-08": {"total":500.00, "Supplies and Services":500.00},
 			"2011-12": {"total":6800.00, "Supplies and Services":6800.00},
 			"2013-02": {"total":2694.45, "Supplies and Services":2694.45},
@@ -289,9 +288,9 @@
 			"2016-09": {"total":1615.00, "Supplies and Services":1615.00},
 			"2016-10": {"total":13600.00, "Supplies and Services":13600.00},
 			"2016-11": {"total":435.00, "Supplies and Services":435.00},
-			"2017-01": {"total":1635.50, "Supplies and Services":1073.00, "Employees":562.50},
+			"2017-01": {"total":1635.50, "Employees":562.50, "Supplies and Services":1073.00},
 			"2017-08": {"total":625.00, "Employees":625.00},
-			"2017-10": {"total":1558.00, "Employees":1044.00, "Supplies and Services":514.00},
+			"2017-10": {"total":1558.00, "Supplies and Services":514.00, "Employees":1044.00},
 			"2018-02": {"total":2502.50, "Employees":2502.50}
 		}
 	},
@@ -304,8 +303,8 @@
 			"2011-04": {"total":2336.92, "Community Based Services":2336.92},
 			"2011-05": {"total":2344.92, "Community Based Services":2344.92},
 			"2011-06": {"total":2344.92, "Community Based Services":2344.92},
-			"2011-07": {"total":2344.92, "Income: Customer and Client Receipts":692.92, "Third Party Payments":1652.00},
-			"2011-08": {"total":2344.92, "Income: Customer and Client Receipts":692.92, "Third Party Payments":1652.00},
+			"2011-07": {"total":2344.92, "Third Party Payments":1652.00, "Income: Customer and Client Receipts":692.92},
+			"2011-08": {"total":2344.92, "Third Party Payments":1652.00, "Income: Customer and Client Receipts":692.92},
 			"2011-09": {"total":2344.92, "Third Party Payments":1652.00, "Income: Customer and Client Receipts":692.92},
 			"2011-10": {"total":2344.92, "Third Party Payments":1652.00, "Income: Customer and Client Receipts":692.92},
 			"2011-11": {"total":7274.74, "Income: Customer and Client Receipts":1635.03, "Third Party Payments":5639.71},
@@ -317,7 +316,6 @@
 		"total": 10665,
 		"monthly": {
 			"2010-12": {"total":1735.00, "Community Based Services":1735.00},
-			"2011-01": {"total":570.00, "Central Services":570.00},
 			"2011-10": {"total":6250.00, "Supplies and Services":6250.00},
 			"2011-12": {"total":605.00, "Supplies and Services":605.00},
 			"2012-05": {"total":1145.00, "Supplies and Services":1145.00},
@@ -328,7 +326,6 @@
 		"name": "HIGHFIELD COMMUNITY ASSOCIATION",
 		"total": 4591.8,
 		"monthly": {
-			"2011-01": {"total":500.00, "Community Based Services":500.00},
 			"2011-06": {"total":2530.80, "Community Based Services":2530.80},
 			"2011-08": {"total":1561.00, "Supplies and Services":1561.00}
 		}
@@ -367,19 +364,18 @@
 	},
 	"3130": {
 		"name": "HIGHFIELD HOME PROPERTIES",
-		"total": 28693.23,
+		"total": 27585.55,
 		"monthly": {
 			"2010-12": {"total":2281.84, "Community Based Services":2281.84},
-			"2011-01": {"total":2281.84, "Community Based Services":2281.84},
 			"2011-02": {"total":2281.84, "Community Based Services":2281.84},
 			"2011-03": {"total":4563.68, "Community Based Services":4563.68},
 			"2011-04": {"total":2299.45, "Community Based Services":2299.45},
 			"2011-05": {"total":2305.32, "Community Based Services":2305.32},
 			"2011-06": {"total":2305.32, "Community Based Services":2305.32},
-			"2011-07": {"total":2305.32, "Third Party Payments":1728.00, "Income: Customer and Client Receipts":577.32},
+			"2011-07": {"total":2305.32, "Income: Customer and Client Receipts":577.32, "Third Party Payments":1728.00},
 			"2011-08": {"total":2305.32, "Income: Customer and Client Receipts":577.32, "Third Party Payments":1728.00},
-			"2011-10": {"total":4610.64, "Third Party Payments":3456.00, "Income: Customer and Client Receipts":1154.64},
-			"2011-11": {"total":1152.66, "Third Party Payments":864.00, "Income: Customer and Client Receipts":288.66}
+			"2011-10": {"total":4610.64, "Income: Customer and Client Receipts":1154.64, "Third Party Payments":3456.00},
+			"2011-11": {"total":1152.66, "Income: Customer and Client Receipts":288.66, "Third Party Payments":864.00}
 		}
 	},
 	"3131": {
@@ -494,20 +490,20 @@
 			"2012-09": {"total":8083.62, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":6267.86},
 			"2012-11": {"total":5330.80, "Income: Customer and Client Receipts":1699.28, "Third Party Payments":3631.52},
 			"2013-01": {"total":5330.80, "Third Party Payments":3631.52, "Income: Customer and Client Receipts":1699.28},
-			"2013-02": {"total":2665.40, "Income: Customer and Client Receipts":849.64, "Third Party Payments":1815.76},
-			"2013-03": {"total":2665.40, "Income: Customer and Client Receipts":849.64, "Third Party Payments":1815.76},
-			"2013-04": {"total":2679.53, "Income: Customer and Client Receipts":863.77, "Third Party Payments":1815.76},
+			"2013-02": {"total":2665.40, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":849.64},
+			"2013-03": {"total":2665.40, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":849.64},
+			"2013-04": {"total":2679.53, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":863.77},
 			"2013-05": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
 			"2013-06": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
-			"2013-07": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
-			"2013-08": {"total":2684.24, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":868.48},
-			"2013-09": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
+			"2013-07": {"total":2684.24, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":868.48},
+			"2013-08": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
+			"2013-09": {"total":2684.24, "Third Party Payments":1815.76, "Income: Customer and Client Receipts":868.48},
 			"2013-10": {"total":2684.24, "Income: Customer and Client Receipts":868.48, "Third Party Payments":1815.76},
-			"2013-12": {"total":16105.44, "Income: Fees and Charges":5210.88, "Third Party Payments":10894.56},
-			"2014-01": {"total":2684.24, "Income: Fees and Charges":868.48, "Third Party Payments":1815.76},
-			"2014-02": {"total":2684.24, "Third Party Payments":1815.76, "Income: Fees and Charges":868.48},
+			"2013-12": {"total":16105.44, "Third Party Payments":10894.56, "Income: Fees and Charges":5210.88},
+			"2014-01": {"total":2684.24, "Third Party Payments":1815.76, "Income: Fees and Charges":868.48},
+			"2014-02": {"total":2684.24, "Income: Fees and Charges":868.48, "Third Party Payments":1815.76},
 			"2014-03": {"total":1153.21, "Income: Fees and Charges":310.17, "Third Party Payments":843.04},
-			"2015-08": {"total":3412.08, "Third Party Payments":2409.96, "Income: Fees and Charges":1002.12},
+			"2015-08": {"total":3412.08, "Income: Fees and Charges":1002.12, "Third Party Payments":2409.96},
 			"2015-10": {"total":3374.82, "Third Party Payments":2473.38, "Income: Fees and Charges":901.44}
 		}
 	},
@@ -516,13 +512,13 @@
 		"total": 23908.06,
 		"monthly": {
 			"2015-06": {"total":4863.46, "Third Party Payments":4863.46},
-			"2015-07": {"total":2297.00, "Income: Fees and Charges":505.20, "Third Party Payments":1791.80},
-			"2015-08": {"total":2297.00, "Income: Fees and Charges":505.20, "Third Party Payments":1791.80},
-			"2015-09": {"total":2297.00, "Third Party Payments":1791.80, "Income: Fees and Charges":505.20},
-			"2015-10": {"total":2297.00, "Third Party Payments":1791.80, "Income: Fees and Charges":505.20},
-			"2015-11": {"total":2297.00, "Income: Fees and Charges":505.20, "Third Party Payments":1791.80},
-			"2015-12": {"total":4594.00, "Third Party Payments":3583.60, "Income: Fees and Charges":1010.40},
-			"2016-04": {"total":2305.80, "Third Party Payments":1791.80, "Income: Fees and Charges":514.00},
+			"2015-07": {"total":2297.00, "Third Party Payments":1791.80, "Income: Fees and Charges":505.20},
+			"2015-08": {"total":2297.00, "Third Party Payments":1791.80, "Income: Fees and Charges":505.20},
+			"2015-09": {"total":2297.00, "Income: Fees and Charges":505.20, "Third Party Payments":1791.80},
+			"2015-10": {"total":2297.00, "Income: Fees and Charges":505.20, "Third Party Payments":1791.80},
+			"2015-11": {"total":2297.00, "Third Party Payments":1791.80, "Income: Fees and Charges":505.20},
+			"2015-12": {"total":4594.00, "Income: Fees and Charges":1010.40, "Third Party Payments":3583.60},
+			"2016-04": {"total":2305.80, "Income: Fees and Charges":514.00, "Third Party Payments":1791.80},
 			"2016-06": {"total":659.80, "Third Party Payments":659.80}
 		}
 	},
@@ -541,7 +537,7 @@
 		"monthly": {
 			"2011-06": {"total":2275.00, "Central Services":1690.00, "Community Based Services":585.00},
 			"2011-07": {"total":1112.00, "Supplies and Services":1112.00},
-			"2011-08": {"total":12017.00, "Income: Internal Recharges":10022.00, "Supplies and Services":1995.00},
+			"2011-08": {"total":12017.00, "Supplies and Services":1995.00, "Income: Internal Recharges":10022.00},
 			"2011-09": {"total":1446.00, "Supplies and Services":1446.00},
 			"2011-10": {"total":2079.00, "Supplies and Services":2079.00},
 			"2012-01": {"total":1910.00, "Supplies and Services":1910.00},
@@ -605,7 +601,6 @@
 		"name": "HILTON CABINET COLTD",
 		"total": 7364.84,
 		"monthly": {
-			"2011-01": {"total":1526.32, "Local Environmental Services":1526.32},
 			"2011-05": {"total":1326.85, "Local Environmental Services":1326.85},
 			"2011-09": {"total":1123.23, "Supplies and Services":1123.23},
 			"2011-11": {"total":826.45, "Supplies and Services":826.45},
@@ -617,7 +612,7 @@
 		"name": "HILTON NEWCASTLE GATESHEAD",
 		"total": 11453.17,
 		"monthly": {
-			"2010-12": {"total":2432.34, "Community Based Services":1547.66, "Learning and Children":884.68},
+			"2010-12": {"total":2432.34, "Learning and Children":884.68, "Community Based Services":1547.66},
 			"2011-08": {"total":1249.96, "Supplies and Services":1249.96},
 			"2011-09": {"total":1110.83, "Supplies and Services":1110.83},
 			"2012-02": {"total":1851.82, "Supplies and Services":1851.82},

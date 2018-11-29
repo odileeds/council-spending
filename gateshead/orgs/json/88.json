@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","7460-05"],
+	"range": ["2010-12","2018-02"],
 	"data": {
 	"4400": {
 		"name": "MTS GROUP",
@@ -17,7 +17,7 @@
 			"2016-10": {"total":3649.50, "Transport":3649.50},
 			"2016-11": {"total":4247.20, "Supplies and Services":362.20, "Transport":3885.00},
 			"2016-12": {"total":4070.00, "Transport":4070.00},
-			"2017-02": {"total":4430.00, "Transport":3230.00, "Supplies and Services":1200.00},
+			"2017-02": {"total":4430.00, "Supplies and Services":1200.00, "Transport":3230.00},
 			"2017-03": {"total":1700.00, "Transport":1700.00},
 			"2017-05": {"total":3655.00, "Transport":3655.00},
 			"2017-06": {"total":1955.00, "Transport":1955.00},
@@ -32,7 +32,6 @@
 		"name": "MUCKLE LLP",
 		"total": 16126.67,
 		"monthly": {
-			"2011-01": {"total":600.00, "Learning and Children":600.00},
 			"2011-03": {"total":835.00, "Development & Enterprise":835.00},
 			"2011-04": {"total":1241.67, "Community Based Services":791.67, "Learning and Children":450.00},
 			"2011-10": {"total":800.00, "Supplies and Services":800.00},
@@ -147,7 +146,7 @@
 			"2013-04": {"total":12349.94, "Supplies and Services":12349.94},
 			"2013-05": {"total":1092.00, "Supplies and Services":1092.00},
 			"2013-06": {"total":28500.08, "Supplies and Services":28500.08},
-			"2013-08": {"total":24085.00, "Supplies and Services":14085.00, "Other Costs":10000.00},
+			"2013-08": {"total":24085.00, "Other Costs":10000.00, "Supplies and Services":14085.00},
 			"2013-09": {"total":3986.52, "Supplies and Services":3986.52},
 			"2013-12": {"total":26255.76, "Supplies and Services":26255.76}
 		}
@@ -307,7 +306,6 @@
 		"name": "MUSHROOM WORKS COMMUNITY INTEREST CO",
 		"total": 71478.58,
 		"monthly": {
-			"2011-01": {"total":3970.00, "Development & Enterprise":3970.00},
 			"2011-03": {"total":1000.00, "Development & Enterprise":1000.00},
 			"2011-04": {"total":2575.00, "Development & Enterprise":2575.00},
 			"2011-05": {"total":500.00, "Development & Enterprise":500.00},
@@ -501,12 +499,12 @@
 			"2016-05": {"total":1993.86, "Supplies and Services":1993.86},
 			"2016-08": {"total":912.00, "Supplies and Services":912.00},
 			"2016-11": {"total":413.00, "Supplies and Services":413.00},
-			"2016-12": {"total":7627.39, "Third Party Payments":7214.39, "Supplies and Services":413.00},
+			"2016-12": {"total":7627.39, "Supplies and Services":413.00, "Third Party Payments":7214.39},
 			"2017-03": {"total":10719.00, "Third Party Payments":10719.00},
 			"2017-05": {"total":1699.17, "Supplies and Services":1699.17},
 			"2017-07": {"total":4250.00, "Third Party Payments":4250.00},
 			"2017-08": {"total":10669.00, "Third Party Payments":8106.00, "Supplies and Services":2563.00},
-			"2017-10": {"total":4000.00, "unknown":720.00, "Supplies and Services":3280.00},
+			"2017-10": {"total":4000.00, "Supplies and Services":3280.00, "unknown":720.00},
 			"2017-11": {"total":8376.49, "Supplies and Services":8376.49},
 			"2018-01": {"total":1045.00, "Supplies and Services":1045.00}
 		}
@@ -516,15 +514,14 @@
 		"total": 138761.22,
 		"monthly": {
 			"2010-12": {"total":3528.83, "Local Environmental Services":1946.51, "Development & Enterprise":1582.32},
-			"2011-01": {"total":8054.52, "Local Environmental Services":4663.76, "Development & Enterprise":3390.76},
 			"2011-03": {"total":58791.61, "Development & Enterprise":13793.36, "Local Environmental Services":44998.25},
 			"2011-04": {"total":25200.30, "Local Environmental Services":25200.30},
-			"2011-05": {"total":1718.48, "Development & Enterprise":311.61, "Local Environmental Services":1406.87},
-			"2011-06": {"total":8298.90, "Local Environmental Services":4686.39, "Development & Enterprise":3612.51},
+			"2011-05": {"total":1718.48, "Local Environmental Services":1406.87, "Development & Enterprise":311.61},
+			"2011-06": {"total":8298.90, "Development & Enterprise":3612.51, "Local Environmental Services":4686.39},
 			"2011-07": {"total":5121.51, "Premises":5121.51},
-			"2011-08": {"total":6656.04, "Works":2344.38, "Premises":3846.73, "unknown":464.93},
+			"2011-08": {"total":6656.04, "Premises":3846.73, "unknown":464.93, "Works":2344.38},
 			"2011-10": {"total":16981.68, "Works":11207.04, "unknown":448.59, "Premises":5326.05},
-			"2011-11": {"total":3960.76, "Works":1989.90, "Premises":1278.17, "Supplies and Services":692.69},
+			"2011-11": {"total":3960.76, "Premises":1278.17, "Works":1989.90, "Supplies and Services":692.69},
 			"2011-12": {"total":448.59, "Premises":448.59}
 		}
 	},
@@ -543,7 +540,6 @@
 		"name": "N I C E I C",
 		"total": 7124.12,
 		"monthly": {
-			"2011-01": {"total":580.00, "Local Environmental Services":580.00},
 			"2011-03": {"total":1536.28, "Local Environmental Services":1536.28},
 			"2011-11": {"total":416.50, "Supplies and Services":416.50},
 			"2012-01": {"total":487.24, "Supplies and Services":487.24},
@@ -600,8 +596,7 @@
 		"total": 79968.72,
 		"monthly": {
 			"2010-12": {"total":445.73, "Community Based Services":445.73},
-			"2011-01": {"total":2112.76, "Community Based Services":2112.76},
-			"2011-03": {"total":5888.36, "Community Based Services":4953.38, "Learning and Children":934.98},
+			"2011-03": {"total":5888.36, "Learning and Children":934.98, "Community Based Services":4953.38},
 			"2011-04": {"total":1614.13, "Community Based Services":1614.13},
 			"2011-05": {"total":1137.99, "Community Based Services":1137.99},
 			"2011-06": {"total":2024.87, "Community Based Services":2024.87},
@@ -684,7 +679,7 @@
 		"monthly": {
 			"2011-02": {"total":1080.00, "Community Based Services":1080.00},
 			"2011-04": {"total":19186.47, "Central Services":19186.47},
-			"2011-07": {"total":25222.77, "Employees":360.00, "Supplies and Services":24862.77},
+			"2011-07": {"total":25222.77, "Supplies and Services":24862.77, "Employees":360.00},
 			"2011-09": {"total":85000.00, "Supplies and Services":85000.00},
 			"2012-05": {"total":33100.00, "Supplies and Services":33100.00},
 			"2012-07": {"total":350.00, "Supplies and Services":350.00},
@@ -694,7 +689,7 @@
 			"2013-04": {"total":18542.00, "Supplies and Services":18542.00},
 			"2013-05": {"total":14958.00, "Employees":14958.00},
 			"2013-12": {"total":1050.00, "Supplies and Services":1050.00},
-			"2014-04": {"total":36011.60, "Supplies and Services":18542.00, "Employees":17469.60},
+			"2014-04": {"total":36011.60, "Employees":17469.60, "Supplies and Services":18542.00},
 			"2014-10": {"total":6750.00, "Supplies and Services":6750.00},
 			"2014-12": {"total":16200.00, "Supplies and Services":16200.00},
 			"2015-01": {"total":7250.00, "Supplies and Services":7250.00},
@@ -714,7 +709,7 @@
 			"2017-03": {"total":1080.00, "Supplies and Services":1080.00},
 			"2017-04": {"total":18542.00, "Supplies and Services":18542.00},
 			"2017-05": {"total":2880.00, "Supplies and Services":2880.00},
-			"2017-06": {"total":17798.00, "Supplies and Services":3240.00, "Employees":14558.00},
+			"2017-06": {"total":17798.00, "Employees":14558.00, "Supplies and Services":3240.00},
 			"2017-08": {"total":720.00, "Supplies and Services":720.00},
 			"2017-10": {"total":4704.90, "Supplies and Services":4704.90},
 			"2018-01": {"total":2880.00, "Supplies and Services":2880.00}
