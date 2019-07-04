@@ -1,9 +1,689 @@
 {
-	"range": ["2010-12","2018-10"],
+	"range": ["2010-12","2019-05"],
 	"data": {
 	"1400": {
+		"name": "CENTRAL LAW TRAINING",
+		"total": 1275,
+		"monthly": {
+			"2011-03": {"total":350.00, "Central Services":350.00},
+			"2011-05": {"total":350.00, "Central Services":350.00},
+			"2011-12": {"total":575.00, "Employees":575.00}
+		}
+	},
+	"1401": {
+		"name": "CENTRAL LAW TRAINING SCOTLAND",
+		"total": 3390,
+		"monthly": {
+			"2012-12": {"total":1695.00, "Employees":1695.00},
+			"2013-02": {"total":1695.00, "Employees":1695.00}
+		}
+	},
+	"1402": {
+		"name": "CENTRAL TAXIS GATESHEAD LTD",
+		"alternate-names": [
+			"CENTRAL TAXIS GATESHEAD LIMITED"
+		],
+		"total": 2580443.51,
+		"monthly": {
+			"2015-06": {"total":60812.00, "Transport":60812.00},
+			"2015-07": {"total":83501.00, "Transport":83501.00},
+			"2015-08": {"total":51904.20, "Transport":51904.20},
+			"2015-09": {"total":9611.00, "Transport":9611.00},
+			"2015-10": {"total":79545.80, "Transport":79545.80},
+			"2015-11": {"total":69887.60, "Transport":69887.60},
+			"2015-12": {"total":83125.40, "Transport":83125.40},
+			"2016-01": {"total":60184.60, "Third Party Payments":1500.00, "Transport":58684.60},
+			"2016-02": {"total":80504.20, "Transport":80504.20},
+			"2016-03": {"total":143382.00, "Transport":143382.00},
+			"2016-05": {"total":71466.00, "Transport":71466.00},
+			"2016-06": {"total":86996.00, "Transport":86996.00},
+			"2016-07": {"total":83047.40, "Transport":83047.40},
+			"2016-08": {"total":60153.80, "Transport":60153.80},
+			"2016-09": {"total":14012.00, "Transport":14012.00},
+			"2016-10": {"total":49327.40, "Transport":49327.40},
+			"2016-11": {"total":46422.60, "Transport":46422.60},
+			"2016-12": {"total":59308.20, "Transport":59308.20},
+			"2017-01": {"total":34512.20, "Transport":34512.20},
+			"2017-02": {"total":54408.60, "Transport":54408.60},
+			"2017-03": {"total":108346.20, "Transport":108346.20},
+			"2017-05": {"total":30994.00, "Transport":30994.00},
+			"2017-06": {"total":56482.40, "Transport":56482.40},
+			"2017-07": {"total":56552.00, "Transport":56552.00},
+			"2017-08": {"total":47764.33, "Transport":47764.33},
+			"2017-09": {"total":9921.00, "Transport":9921.00},
+			"2017-10": {"total":50830.99, "Transport":50830.99},
+			"2017-11": {"total":48588.20, "Transport":48588.20},
+			"2017-12": {"total":61225.00, "Transport":61225.00},
+			"2018-01": {"total":44847.99, "Transport":44847.99},
+			"2018-02": {"total":51430.40, "Transport":51430.40},
+			"2018-03": {"total":95781.00, "Transport":95781.00},
+			"2018-05": {"total":34173.00, "Transport":34173.00},
+			"2018-06": {"total":51024.00, "Transport":51024.00},
+			"2018-07": {"total":51528.00, "Transport":51528.00},
+			"2018-08": {"total":42696.00, "Transport":42696.00},
+			"2018-09": {"total":10422.00, "Transport":10422.00},
+			"2018-10": {"total":30384.00, "Transport":30384.00},
+			"2018-11": {"total":81295.00, "Transport":81295.00},
+			"2018-12": {"total":67159.00, "Transport":67159.00},
+			"2019-01": {"total":47895.00, "Transport":47895.00},
+			"2019-02": {"total":62292.00, "Transport":62292.00},
+			"2019-03": {"total":117471.00, "Transport":117471.00},
+			"2019-05": {"total":39229.00, "Transport":39229.00}
+		}
+	},
+	"1403": {
+		"name": "CENTRAL TAXIS OF GATESHEAD LTD",
+		"alternate-names": [
+			"CENTRAL TAXIS OF GATESHEAD LIMITED"
+		],
+		"total": 1947017.86,
+		"monthly": {
+			"2012-04": {"total":48470.12, "Transport":48470.12},
+			"2012-05": {"total":30002.06, "Transport":30002.06},
+			"2012-06": {"total":50908.12, "Transport":50908.12},
+			"2012-07": {"total":35934.14, "Transport":35934.14},
+			"2012-08": {"total":35569.00, "Transport":35569.00},
+			"2012-09": {"total":12368.00, "Transport":12368.00},
+			"2012-10": {"total":49894.50, "Transport":49894.50},
+			"2012-11": {"total":54534.00, "Transport":54534.00},
+			"2012-12": {"total":51048.00, "Transport":51048.00},
+			"2013-01": {"total":39151.00, "Transport":39151.00},
+			"2013-02": {"total":48673.00, "Transport":48673.00},
+			"2013-03": {"total":43185.00, "Transport":43185.00},
+			"2013-04": {"total":54703.50, "Transport":54703.50},
+			"2013-05": {"total":38039.50, "Transport":38039.50},
+			"2013-06": {"total":46492.00, "Transport":46492.00},
+			"2013-07": {"total":50587.90, "Transport":50587.90},
+			"2013-08": {"total":40670.30, "Transport":40670.30},
+			"2013-09": {"total":8461.70, "Transport":8461.70},
+			"2013-10": {"total":62257.80, "Transport":62257.80},
+			"2013-11": {"total":63351.90, "Transport":63351.90},
+			"2013-12": {"total":68811.32, "Transport":68811.32},
+			"2014-01": {"total":53973.30, "Transport":53973.30},
+			"2014-02": {"total":72517.40, "Transport":72517.40},
+			"2014-03": {"total":56169.90, "Transport":56169.90},
+			"2014-04": {"total":73806.00, "Transport":73806.00},
+			"2014-05": {"total":43118.28, "Transport":43118.28},
+			"2014-06": {"total":59105.40, "Transport":59105.40},
+			"2014-07": {"total":75598.08, "Transport":75598.08},
+			"2014-08": {"total":48794.00, "Transport":48794.00},
+			"2014-09": {"total":7030.00, "Transport":7030.00},
+			"2014-10": {"total":70928.66, "Transport":70928.66},
+			"2014-11": {"total":64537.96, "Transport":64537.96},
+			"2014-12": {"total":67818.12, "Transport":67818.12},
+			"2015-01": {"total":55212.60, "Transport":55212.60},
+			"2015-02": {"total":73458.10, "Transport":73458.10},
+			"2015-03": {"total":58479.60, "Transport":58479.60},
+			"2015-04": {"total":83956.40, "Transport":83956.40},
+			"2015-05": {"total":49401.20, "Transport":49401.20}
+		}
+	},
+	"1404": {
+		"name": "CENTRE FOR ECONOMIC & SOCIAL",
+		"total": 670,
+		"monthly": {
+			"2015-03": {"total":670.00, "Employees":670.00}
+		}
+	},
+	"1405": {
+		"name": "CENTRE FOR HOUSING AND SUPPORT",
+		"total": 6291.5,
+		"monthly": {
+			"2011-03": {"total":4812.00, "Community Based Services":4812.00},
+			"2013-06": {"total":1479.50, "Supplies and Services":1479.50}
+		}
+	},
+	"1406": {
+		"name": "CENTRE FOR LOCAL ECONOMIC STRATEGIES",
+		"total": 4092,
+		"monthly": {
+			"2019-01": {"total":4092.00, "Supplies and Services":4092.00}
+		}
+	},
+	"1407": {
+		"name": "CENTRE FOR PUBLIC SCRUTINY",
+		"total": 1250.55,
+		"monthly": {
+			"2012-12": {"total":1250.55, "Third Party Payments":1250.55}
+		}
+	},
+	"1408": {
+		"name": "CENTRE OF COACHING EXCELLENCE",
+		"total": 3500,
+		"monthly": {
+			"2015-02": {"total":3500.00, "Supplies and Services":3500.00}
+		}
+	},
+	"1409": {
+		"name": "CENTRE POINT SOHO LTD",
+		"total": 2005,
+		"monthly": {
+			"2013-07": {"total":2005.00, "Supplies and Services":2005.00}
+		}
+	},
+	"1410": {
+		"name": "CENTRECHEM",
+		"total": 5667,
+		"monthly": {
+			"2013-09": {"total":536.18, "Third Party Payments":536.18},
+			"2013-10": {"total":1126.70, "Third Party Payments":1126.70},
+			"2014-02": {"total":639.54, "Third Party Payments":639.54},
+			"2014-04": {"total":471.58, "Third Party Payments":471.58},
+			"2014-05": {"total":509.73, "Third Party Payments":509.73},
+			"2014-06": {"total":1204.05, "Third Party Payments":1204.05},
+			"2019-04": {"total":576.66, "Third Party Payments":576.66},
+			"2019-05": {"total":602.56, "Third Party Payments":602.56}
+		}
+	},
+	"1411": {
+		"name": "CENTREPOINT SOHO LTD",
+		"total": 8178.97,
+		"monthly": {
+			"2012-11": {"total":2057.86, "Transfer Payments":2057.86},
+			"2014-03": {"total":5647.13, "Supplies and Services":2632.13, "Transfer Payments":3015.00},
+			"2014-07": {"total":473.98, "Supplies and Services":473.98}
+		}
+	},
+	"1412": {
+		"name": "CENTREWIRE LTD",
+		"total": 25585.28,
+		"monthly": {
+			"2010-12": {"total":442.00, "Development & Enterprise":442.00},
+			"2011-03": {"total":2940.94, "Community Based Services":2479.94, "Development & Enterprise":461.00},
+			"2012-02": {"total":831.00, "Works":831.00},
+			"2014-03": {"total":557.00, "Works":557.00},
+			"2014-05": {"total":1192.00, "Works":1192.00},
+			"2014-07": {"total":1746.00, "Supplies and Services":1746.00},
+			"2014-09": {"total":1692.00, "Works":1692.00},
+			"2015-03": {"total":799.00, "Premises":799.00},
+			"2015-07": {"total":2021.00, "Works":2021.00},
+			"2016-02": {"total":4699.00, "unknown":4699.00},
+			"2016-10": {"total":1528.00, "unknown":1528.00},
+			"2017-11": {"total":2319.50, "Supplies and Services":2319.50},
+			"2018-01": {"total":1990.00, "unknown":1990.00},
+			"2018-08": {"total":2827.84, "Premises":2827.84}
+		}
+	},
+	"1413": {
+		"name": "CENTRIC MANAGEMENT",
+		"total": 7500,
+		"monthly": {
+			"2012-03": {"total":7500.00, "Supplies and Services":7500.00}
+		}
+	},
+	"1414": {
+		"name": "CENTRICA BUSINESS SOLUTIONS",
+		"total": 29434.66,
+		"monthly": {
+			"2017-12": {"total":9579.68, "Premises":9579.68},
+			"2018-01": {"total":9924.17, "Premises":9924.17},
+			"2018-02": {"total":9930.81, "Premises":9930.81}
+		}
+	},
+	"1415": {
+		"name": "CENTRICA BUSINESS SOLUTIONS (GENERATIONS) LTD",
+		"alternate-names": [
+			"CENTRICA BUSINESS SOLUTIONS (GENERATIONS) LIMITED"
+		],
+		"total": 194534.84,
+		"monthly": {
+			"2018-07": {"total":29577.38, "Premises":29577.38},
+			"2018-09": {"total":23322.36, "Premises":23322.36},
+			"2018-10": {"total":11560.91, "Premises":11560.91},
+			"2018-11": {"total":9803.62, "Premises":9803.62},
+			"2018-12": {"total":9587.45, "Premises":9587.45},
+			"2019-01": {"total":9803.62, "Premises":9803.62},
+			"2019-02": {"total":11702.50, "Premises":11702.50},
+			"2019-03": {"total":33668.18, "Premises":33668.18},
+			"2019-04": {"total":7842.82, "Premises":7842.82},
+			"2019-05": {"total":47666.00, "Premises":47666.00}
+		}
+	},
+	"1416": {
+		"name": "CENTRICA PLC",
+		"total": 2378387.34,
+		"monthly": {
+			"2017-03": {"total":922892.00, "unknown":922892.00},
+			"2017-07": {"total":694688.00, "unknown":694688.00},
+			"2017-11": {"total":699296.86, "unknown":699296.86},
+			"2019-04": {"total":61510.48, "Works":61510.48}
+		}
+	},
+	"1417": {
+		"name": "CENTRIFUGE CONSULTING LTD",
+		"total": 35500,
+		"monthly": {
+			"2016-07": {"total":7100.00, "Supplies and Services":7100.00},
+			"2016-08": {"total":28400.00, "Supplies and Services":28400.00}
+		}
+	},
+	"1418": {
+		"name": "CENTURY ADVENTURES",
+		"total": 3718,
+		"monthly": {
+			"2011-10": {"total":528.00, "Supplies and Services":528.00},
+			"2012-04": {"total":1056.00, "Supplies and Services":1056.00},
+			"2012-11": {"total":628.00, "Supplies and Services":628.00},
+			"2013-02": {"total":978.00, "Supplies and Services":978.00},
+			"2013-08": {"total":528.00, "Supplies and Services":528.00}
+		}
+	},
+	"1419": {
+		"name": "CENTURY SIGNS & GRAPHICS",
+		"total": 6544.06,
+		"monthly": {
+			"2010-12": {"total":1260.00, "Central Services":1260.00},
+			"2011-03": {"total":1514.06, "Local Environmental Services":1514.06},
+			"2012-06": {"total":1885.00, "Works":1885.00},
+			"2012-12": {"total":1885.00, "Works":1885.00}
+		}
+	},
+	"1420": {
+		"name": "CENTURY SIGNS LTD",
+		"total": 1356,
+		"monthly": {
+			"2013-07": {"total":529.00, "Works":529.00},
+			"2013-09": {"total":827.00, "Technical Costs":827.00}
+		}
+	},
+	"1421": {
+		"name": "CERAMIC TILE DIST (NCLE) LTD",
+		"total": 129871.06,
+		"monthly": {
+			"2010-12": {"total":3174.65, "Local Environmental Services":3174.65},
+			"2011-01": {"total":1483.85, "Local Environmental Services":1483.85},
+			"2011-02": {"total":1155.94, "Local Environmental Services":1155.94},
+			"2011-03": {"total":2499.52, "Local Environmental Services":2499.52},
+			"2011-04": {"total":773.70, "Local Environmental Services":773.70},
+			"2011-05": {"total":3858.16, "Local Environmental Services":3858.16},
+			"2011-06": {"total":7113.65, "Local Environmental Services":7113.65},
+			"2011-07": {"total":5412.46, "unknown":5412.46},
+			"2011-08": {"total":4650.52, "unknown":4650.52},
+			"2011-09": {"total":11066.38, "Supplies and Services":1130.42, "unknown":9935.96},
+			"2011-10": {"total":3199.22, "unknown":3199.22},
+			"2011-11": {"total":4519.38, "unknown":4519.38},
+			"2011-12": {"total":4556.18, "unknown":4556.18},
+			"2012-01": {"total":412.91, "unknown":412.91},
+			"2012-04": {"total":357.53, "unknown":357.53},
+			"2012-06": {"total":1001.87, "unknown":1001.87},
+			"2012-07": {"total":3633.84, "unknown":2503.42, "Supplies and Services":1130.42},
+			"2012-08": {"total":398.42, "unknown":398.42},
+			"2012-11": {"total":442.55, "unknown":442.55},
+			"2012-12": {"total":2849.86, "unknown":2849.86},
+			"2013-02": {"total":402.40, "unknown":402.40},
+			"2013-03": {"total":787.75, "unknown":787.75},
+			"2013-07": {"total":3429.96, "Supplies and Services":3429.96},
+			"2013-08": {"total":6964.91, "Supplies and Services":6964.91},
+			"2013-09": {"total":3304.87, "Supplies and Services":3304.87},
+			"2013-10": {"total":5963.37, "Supplies and Services":5963.37},
+			"2013-11": {"total":3203.69, "Supplies and Services":3203.69},
+			"2014-01": {"total":2815.35, "Supplies and Services":2815.35},
+			"2014-03": {"total":3995.97, "Supplies and Services":3995.97},
+			"2014-05": {"total":875.65, "Supplies and Services":875.65},
+			"2014-07": {"total":8765.68, "Supplies and Services":8765.68},
+			"2014-09": {"total":4500.63, "Supplies and Services":4500.63},
+			"2014-10": {"total":347.07, "Supplies and Services":347.07},
+			"2014-11": {"total":586.94, "Supplies and Services":586.94},
+			"2014-12": {"total":882.00, "Supplies and Services":882.00},
+			"2015-01": {"total":3776.28, "Supplies and Services":3776.28},
+			"2015-03": {"total":560.90, "Supplies and Services":560.90},
+			"2015-04": {"total":818.97, "Supplies and Services":818.97},
+			"2015-06": {"total":3440.25, "Supplies and Services":3440.25},
+			"2015-08": {"total":1207.82, "Supplies and Services":1207.82},
+			"2015-09": {"total":568.26, "Supplies and Services":568.26},
+			"2015-10": {"total":968.42, "Supplies and Services":968.42},
+			"2015-12": {"total":886.82, "Supplies and Services":886.82},
+			"2016-02": {"total":1114.66, "Supplies and Services":1114.66},
+			"2016-03": {"total":468.92, "Supplies and Services":468.92},
+			"2016-05": {"total":1525.63, "Supplies and Services":1525.63},
+			"2016-08": {"total":572.74, "Supplies and Services":572.74},
+			"2016-10": {"total":366.17, "Supplies and Services":366.17},
+			"2016-11": {"total":1776.77, "Supplies and Services":1776.77},
+			"2016-12": {"total":887.62, "Supplies and Services":887.62},
+			"2017-01": {"total":1544.00, "Supplies and Services":1544.00}
+		}
+	},
+	"1422": {
+		"name": "CEREBRA",
+		"total": 2664.9,
+		"monthly": {
+			"2013-03": {"total":2000.00, "Supplies and Services":2000.00},
+			"2015-03": {"total":664.90, "Employees":664.90}
+		}
+	},
+	"1423": {
+		"name": "CERTERO LTD",
+		"alternate-names": [
+			"CERTERO LIMITED"
+		],
+		"total": 4750,
+		"monthly": {
+			"2013-08": {"total":4750.00, "Purchase of Equipment":4750.00}
+		}
+	},
+	"1424": {
+		"name": "CERTSURE LLP",
+		"total": 5074.2,
+		"monthly": {
+			"2014-02": {"total":580.00, "Third Party Payments":580.00},
+			"2014-04": {"total":410.00, "Third Party Payments":410.00},
+			"2014-11": {"total":449.20, "Supplies and Services":449.20},
+			"2015-01": {"total":870.00, "Third Party Payments":870.00},
+			"2015-03": {"total":410.00, "Third Party Payments":410.00},
+			"2016-03": {"total":1300.00, "Third Party Payments":1300.00},
+			"2017-03": {"total":1055.00, "Third Party Payments":1055.00}
+		}
+	},
+	"1425": {
+		"name": "CESTRIA CREDIT UNION",
+		"total": 3166,
+		"monthly": {
+			"2011-03": {"total":3166.00, "Community Based Services":3166.00}
+		}
+	},
+	"1426": {
+		"name": "CESTRIA PRIMARY SCHOOL",
+		"total": 8000,
+		"monthly": {
+			"2015-06": {"total":1500.00, "Third Party Payments":1500.00},
+			"2015-08": {"total":1500.00, "Third Party Payments":1500.00},
+			"2016-08": {"total":1500.00, "Third Party Payments":1500.00},
+			"2016-10": {"total":3000.00, "Third Party Payments":3000.00},
+			"2018-02": {"total":500.00, "Third Party Payments":500.00}
+		}
+	},
+	"1427": {
+		"name": "CESTRIA VETERINARY CENTRE",
+		"total": 2126.73,
+		"monthly": {
+			"2011-09": {"total":793.17, "Supplies and Services":793.17},
+			"2014-06": {"total":375.85, "Supplies and Services":375.85},
+			"2015-09": {"total":369.16, "Supplies and Services":369.16},
+			"2019-04": {"total":588.55, "Supplies and Services":588.55}
+		}
+	},
+	"1428": {
+		"name": "CETUS SOLUTIONS LTD",
+		"alternate-names": [
+			"CETUS SOLUTIONS LIMITED"
+		],
+		"total": 4995,
+		"monthly": {
+			"2019-01": {"total":4995.00, "Supplies and Services":4995.00}
+		}
+	},
+	"1429": {
+		"name": "CF MOTORING SERVICES LTD",
+		"total": 1189.5,
+		"monthly": {
+			"2015-09": {"total":509.50, "Supplies and Services":509.50},
+			"2018-08": {"total":680.00, "Supplies and Services":680.00}
+		}
+	},
+	"1430": {
+		"name": "CFBT EDUCATION TRUST",
+		"total": 10000,
+		"monthly": {
+			"2012-02": {"total":2300.00, "Employees":2300.00},
+			"2012-07": {"total":1300.00, "Employees":1300.00},
+			"2012-08": {"total":1400.00, "Employees":1400.00},
+			"2014-07": {"total":5000.00, "Employees":5000.00}
+		}
+	},
+	"1431": {
+		"name": "CFH TOTAL DOCUMENT MANAGEMENT LTD",
+		"total": 10103.3,
+		"monthly": {
+			"2011-08": {"total":7994.39, "Supplies and Services":7994.39},
+			"2011-09": {"total":1346.58, "Supplies and Services":1346.58},
+			"2011-10": {"total":762.33, "Supplies and Services":762.33}
+		}
+	},
+	"1432": {
+		"name": "CFSMS LTD",
+		"total": 1195,
+		"monthly": {
+			"2013-12": {"total":1195.00, "Supplies and Services":1195.00}
+		}
+	},
+	"1433": {
+		"name": "CG LTD (PROPERTY)",
+		"total": 500,
+		"monthly": {
+			"2014-01": {"total":500.00, "unknown":500.00}
+		}
+	},
+	"1434": {
+		"name": "CH2M HILL UNITED KINGDOM",
+		"total": 95160.68,
+		"monthly": {
+			"2017-03": {"total":62700.00, "unknown":62700.00},
+			"2018-01": {"total":13579.78, "unknown":13579.78},
+			"2018-06": {"total":6000.00, "Works":6000.00},
+			"2018-09": {"total":1300.00, "unknown":1300.00},
+			"2019-04": {"total":3500.00, "Works":3500.00},
+			"2019-05": {"total":8080.90, "Works":8080.90}
+		}
+	},
+	"1435": {
+		"name": "CHAINBRIDGE MEDICAL PART'SHIP",
+		"total": 43898,
+		"monthly": {
+			"2013-09": {"total":1140.00, "Third Party Payments":1140.00},
+			"2013-10": {"total":8350.00, "Third Party Payments":8350.00},
+			"2014-01": {"total":7590.00, "Third Party Payments":7590.00},
+			"2014-03": {"total":5400.00, "Third Party Payments":5400.00},
+			"2014-04": {"total":3759.00, "Third Party Payments":3759.00},
+			"2014-05": {"total":5894.00, "Third Party Payments":5894.00},
+			"2014-06": {"total":541.00, "Third Party Payments":541.00},
+			"2014-09": {"total":3520.00, "Third Party Payments":3520.00},
+			"2014-12": {"total":2196.50, "Third Party Payments":2196.50},
+			"2015-02": {"total":447.50, "Third Party Payments":447.50},
+			"2015-03": {"total":1215.00, "Third Party Payments":1215.00},
+			"2015-04": {"total":3845.00, "Third Party Payments":3845.00}
+		}
+	},
+	"1436": {
+		"name": "CHAINBRIDGE MEDICAL PARTNERSHIP",
+		"total": 59078.5,
+		"monthly": {
+			"2015-06": {"total":3563.00, "Third Party Payments":3563.00},
+			"2015-08": {"total":2643.00, "Third Party Payments":2643.00},
+			"2015-11": {"total":3415.00, "Third Party Payments":3415.00},
+			"2016-02": {"total":2980.00, "Third Party Payments":2980.00},
+			"2016-04": {"total":452.00, "Third Party Payments":452.00},
+			"2016-05": {"total":4052.00, "Third Party Payments":4052.00},
+			"2016-06": {"total":616.00, "Third Party Payments":616.00},
+			"2016-08": {"total":4311.50, "Third Party Payments":4311.50},
+			"2016-09": {"total":441.00, "Third Party Payments":441.00},
+			"2016-11": {"total":3490.00, "Third Party Payments":3490.00},
+			"2017-02": {"total":3115.00, "Third Party Payments":3115.00},
+			"2017-05": {"total":2734.00, "Third Party Payments":2734.00},
+			"2017-08": {"total":1730.00, "Third Party Payments":1730.00},
+			"2017-09": {"total":1515.00, "Third Party Payments":1515.00},
+			"2017-11": {"total":3760.00, "Third Party Payments":3760.00},
+			"2018-01": {"total":1875.00, "Third Party Payments":1875.00},
+			"2018-02": {"total":2165.00, "Third Party Payments":2165.00},
+			"2018-04": {"total":1818.00, "Third Party Payments":1818.00},
+			"2018-05": {"total":2175.00, "Third Party Payments":2175.00},
+			"2018-08": {"total":3645.00, "Third Party Payments":3645.00},
+			"2018-11": {"total":2920.00, "Third Party Payments":2920.00},
+			"2019-02": {"total":2000.00, "Third Party Payments":2000.00},
+			"2019-05": {"total":3663.00, "Third Party Payments":3663.00}
+		}
+	},
+	"1437": {
+		"name": "CHAMBERLAIN MUSIC",
+		"total": 14798.61,
+		"monthly": {
+			"2014-04": {"total":407.20, "Supplies and Services":407.20},
+			"2015-01": {"total":379.80, "Supplies and Services":379.80},
+			"2015-05": {"total":481.15, "Supplies and Services":481.15},
+			"2015-10": {"total":593.95, "Supplies and Services":593.95},
+			"2015-11": {"total":623.65, "Supplies and Services":623.65},
+			"2016-01": {"total":593.95, "Supplies and Services":593.95},
+			"2016-03": {"total":724.26, "Supplies and Services":724.26},
+			"2016-07": {"total":364.45, "Supplies and Services":364.45},
+			"2016-10": {"total":2696.30, "Supplies and Services":2696.30},
+			"2016-11": {"total":550.00, "Supplies and Services":550.00},
+			"2017-02": {"total":477.95, "Supplies and Services":477.95},
+			"2017-05": {"total":1920.00, "Supplies and Services":1920.00},
+			"2018-05": {"total":2845.95, "Supplies and Services":2845.95},
+			"2019-01": {"total":2140.00, "Supplies and Services":2140.00}
+		}
+	},
+	"1438": {
+		"name": "CHAMMAR LTD T/A TEAM VALLEY TAXIS",
+		"total": 39478.48,
+		"monthly": {
+			"2010-12": {"total":1115.00, "Learning and Children":1115.00},
+			"2011-01": {"total":2458.20, "Learning and Children":2458.20},
+			"2011-02": {"total":900.40, "Learning and Children":900.40},
+			"2011-03": {"total":1430.20, "Learning and Children":1430.20},
+			"2011-05": {"total":3003.10, "Learning and Children":3003.10},
+			"2011-06": {"total":1542.40, "Learning and Children":1542.40},
+			"2011-07": {"total":2456.20, "Transport":2456.20},
+			"2011-09": {"total":1877.60, "Transport":1877.60},
+			"2011-10": {"total":1380.60, "Transport":1380.60},
+			"2011-11": {"total":2221.40, "Transport":2221.40},
+			"2011-12": {"total":1643.70, "Transport":1643.70},
+			"2012-01": {"total":1654.20, "Transport":1654.20},
+			"2012-02": {"total":1292.10, "Transport":1292.10},
+			"2012-03": {"total":1388.80, "Transport":1388.80},
+			"2012-04": {"total":1911.90, "Transport":1911.90},
+			"2012-05": {"total":735.20, "Transport":735.20},
+			"2012-06": {"total":1543.30, "Transport":1543.30},
+			"2012-07": {"total":1531.68, "Transport":1531.68},
+			"2012-10": {"total":648.40, "Transport":648.40},
+			"2012-11": {"total":1315.40, "Transport":1315.40},
+			"2012-12": {"total":1226.20, "Transport":1226.20},
+			"2013-01": {"total":1004.20, "Transport":1004.20},
+			"2013-02": {"total":729.20, "Transport":729.20},
+			"2013-03": {"total":1500.40, "Transport":1500.40},
+			"2013-05": {"total":2189.50, "Transport":2189.50},
+			"2013-06": {"total":779.20, "Transport":779.20}
+		}
+	},
+	"1439": {
+		"name": "CHAMPS SPORTS BAR & GRILL",
+		"total": 1500,
+		"monthly": {
+			"2014-11": {"total":1500.00, "Third Party Payments":1500.00}
+		}
+	},
+	"1440": {
+		"name": "CHANGE GROW LIVE (CGL)",
+		"total": 7400491.82,
+		"monthly": {
+			"2016-05": {"total":631.00, "Third Party Payments":631.00},
+			"2016-06": {"total":210631.00, "Third Party Payments":210631.00},
+			"2016-07": {"total":421262.00, "Third Party Payments":421262.00},
+			"2016-08": {"total":212626.02, "Third Party Payments":212626.02},
+			"2016-10": {"total":210631.00, "Third Party Payments":210631.00},
+			"2016-11": {"total":421262.00, "Third Party Payments":421262.00},
+			"2016-12": {"total":210631.00, "Third Party Payments":210631.00},
+			"2017-02": {"total":421262.00, "Third Party Payments":421262.00},
+			"2017-03": {"total":130631.00, "Third Party Payments":130631.00},
+			"2017-04": {"total":1530.00, "Third Party Payments":1530.00},
+			"2017-05": {"total":383098.00, "Third Party Payments":383098.00},
+			"2017-06": {"total":191561.50, "Third Party Payments":191561.50},
+			"2017-07": {"total":201731.00, "Third Party Payments":201731.00},
+			"2017-09": {"total":393127.00, "Third Party Payments":393127.00},
+			"2017-10": {"total":190631.00, "Third Party Payments":190631.00},
+			"2017-11": {"total":190631.00, "Third Party Payments":190631.00},
+			"2017-12": {"total":218050.05, "Third Party Payments":218050.05},
+			"2018-01": {"total":190631.00, "Third Party Payments":190631.00},
+			"2018-02": {"total":208261.55, "Third Party Payments":208261.55},
+			"2018-03": {"total":391246.60, "Third Party Payments":391246.60},
+			"2018-05": {"total":195213.95, "Third Party Payments":195213.95},
+			"2018-06": {"total":194335.40, "Third Party Payments":194335.40},
+			"2018-07": {"total":191531.00, "Third Party Payments":191531.00},
+			"2018-08": {"total":900.00, "Third Party Payments":900.00},
+			"2018-09": {"total":391801.75, "Third Party Payments":391801.75},
+			"2018-10": {"total":192431.00, "Third Party Payments":192431.00},
+			"2018-11": {"total":190631.00, "Third Party Payments":190631.00},
+			"2019-01": {"total":406152.00, "Third Party Payments":406152.00},
+			"2019-02": {"total":188920.00, "Third Party Payments":188920.00},
+			"2019-03": {"total":257045.00, "Third Party Payments":257045.00},
+			"2019-04": {"total":188920.00, "Third Party Payments":188920.00},
+			"2019-05": {"total":202545.00, "Third Party Payments":202545.00}
+		}
+	},
+	"1441": {
+		"name": "CHANGE LIVE GROW (CGL)",
+		"total": 210631,
+		"monthly": {
+			"2016-04": {"total":210631.00, "Third Party Payments":210631.00}
+		}
+	},
+	"1442": {
+		"name": "CHANGEOVER",
+		"total": 6731.52,
+		"monthly": {
+			"2011-06": {"total":462.77, "Community Based Services":462.77},
+			"2011-07": {"total":360.80, "Supplies and Services":360.80},
+			"2011-08": {"total":364.64, "Supplies and Services":364.64},
+			"2011-09": {"total":444.50, "Supplies and Services":444.50},
+			"2011-11": {"total":711.37, "Supplies and Services":711.37},
+			"2011-12": {"total":375.18, "Supplies and Services":375.18},
+			"2012-01": {"total":360.26, "Supplies and Services":360.26},
+			"2012-02": {"total":1317.88, "Supplies and Services":1317.88},
+			"2012-03": {"total":1239.28, "Supplies and Services":1239.28},
+			"2012-05": {"total":351.73, "Supplies and Services":351.73},
+			"2012-06": {"total":358.03, "Supplies and Services":358.03},
+			"2012-07": {"total":385.08, "Supplies and Services":385.08}
+		}
+	},
+	"1443": {
+		"name": "CHANGING LIVES",
+		"total": 1016249.76,
+		"monthly": {
+			"2014-07": {"total":7925.25, "Third Party Payments":7925.25},
+			"2014-09": {"total":52260.00, "Third Party Payments":52260.00},
+			"2014-10": {"total":26130.00, "Third Party Payments":26130.00},
+			"2015-01": {"total":44980.50, "Third Party Payments":44980.50},
+			"2015-02": {"total":3000.00, "Third Party Payments":3000.00},
+			"2015-07": {"total":26130.00, "Third Party Payments":26130.00},
+			"2015-09": {"total":26130.00, "Third Party Payments":26130.00},
+			"2015-10": {"total":26130.00, "Third Party Payments":26130.00},
+			"2016-02": {"total":26130.00, "Third Party Payments":26130.00},
+			"2016-03": {"total":2000.00, "Supplies and Services":2000.00},
+			"2016-06": {"total":26130.00, "Third Party Payments":26130.00},
+			"2016-08": {"total":26130.00, "Third Party Payments":26130.00},
+			"2016-09": {"total":2144.52, "Supplies and Services":2144.52},
+			"2016-10": {"total":60000.00, "unknown":60000.00},
+			"2016-11": {"total":27906.22, "Third Party Payments":27280.74, "Supplies and Services":625.48},
+			"2016-12": {"total":80000.00, "unknown":80000.00},
+			"2017-01": {"total":27693.70, "Third Party Payments":26130.00, "Transfer Payments":1563.70},
+			"2017-03": {"total":111437.59, "unknown":110000.00, "Transfer Payments":1437.59},
+			"2017-04": {"total":30000.00, "Other Costs":30000.00},
+			"2017-05": {"total":27693.70, "Third Party Payments":26130.00, "Supplies and Services":1563.70},
+			"2017-07": {"total":2863.86, "Transfer Payments":2863.86},
+			"2017-08": {"total":26130.00, "Third Party Payments":26130.00},
+			"2017-11": {"total":26130.00, "Third Party Payments":26130.00},
+			"2018-03": {"total":26130.00, "Third Party Payments":26130.00},
+			"2018-05": {"total":1710.95, "Supplies and Services":1710.95},
+			"2018-06": {"total":2618.00, "Third Party Payments":2618.00},
+			"2018-07": {"total":1571.00, "Third Party Payments":1571.00},
+			"2018-08": {"total":52260.00, "Third Party Payments":52260.00},
+			"2018-10": {"total":48519.66, "Third Party Payments":48519.66},
+			"2018-11": {"total":1571.00, "Third Party Payments":1571.00},
+			"2018-12": {"total":19384.83, "Third Party Payments":19384.83},
+			"2019-01": {"total":38769.66, "Third Party Payments":38769.66},
+			"2019-02": {"total":20750.00, "Employees":11000.00, "Third Party Payments":9750.00},
+			"2019-03": {"total":87889.32, "Employees":600.00, "Third Party Payments":87289.32}
+		}
+	},
+	"1444": {
+		"name": "CHAPLINS LTD",
+		"total": 465,
+		"monthly": {
+			"2011-12": {"total":465.00, "Supplies and Services":465.00}
+		}
+	},
+	"1445": {
 		"name": "CHARANGA LTD",
-		"total": 21630,
+		"total": 26420,
 		"monthly": {
 			"2013-10": {"total":2350.00, "Supplies and Services":2350.00},
 			"2014-04": {"total":3000.00, "Supplies and Services":3000.00},
@@ -16,10 +696,12 @@
 			"2017-12": {"total":2250.00, "Third Party Payments":2250.00},
 			"2018-03": {"total":1040.00, "Supplies and Services":1040.00},
 			"2018-04": {"total":1350.00, "Third Party Payments":1350.00},
-			"2018-07": {"total":900.00, "Third Party Payments":900.00}
+			"2018-07": {"total":900.00, "Third Party Payments":900.00},
+			"2018-11": {"total":2400.00, "Third Party Payments":2400.00},
+			"2019-03": {"total":2390.00, "Supplies and Services":2390.00}
 		}
 	},
-	"1401": {
+	"1446": {
 		"name": "CHARCON FLOORING NORTH",
 		"total": 36277.17,
 		"monthly": {
@@ -29,7 +711,7 @@
 			"2013-05": {"total":2352.67, "Supplies and Services":2352.67}
 		}
 	},
-	"1402": {
+	"1447": {
 		"name": "CHARGE YOUR CAR (NORTH) LTD",
 		"total": 12500,
 		"monthly": {
@@ -39,7 +721,7 @@
 			"2014-02": {"total":625.00, "Technical Costs":625.00}
 		}
 	},
-	"1403": {
+	"1448": {
 		"name": "CHARGE YOUR CAR LTD",
 		"alternate-names": [
 			"CHARGE YOUR CAR LIMITED"
@@ -53,735 +735,13 @@
 			"2018-02": {"total":3270.00, "Supplies and Services":3270.00}
 		}
 	},
-	"1404": {
+	"1449": {
 		"name": "CHARIS BOARDING KENNELS",
 		"total": 3578.88,
 		"monthly": {
 			"2011-02": {"total":2017.48, "Community Based Services":2017.48},
 			"2014-02": {"total":734.40, "Third Party Payments":734.40},
 			"2014-05": {"total":827.00, "Third Party Payments":827.00}
-		}
-	},
-	"1405": {
-		"name": "CHARLES THORP COMPREHENSIVE SCHOOL",
-		"total": 1500,
-		"monthly": {
-			"2014-03": {"total":1500.00, "Income: Traded Income":1500.00}
-		}
-	},
-	"1406": {
-		"name": "CHARLETON FENCING",
-		"total": 20971.84,
-		"monthly": {
-			"2010-12": {"total":6486.71, "Local Environmental Services":6486.71},
-			"2011-01": {"total":10887.85, "Local Environmental Services":5327.00, "Development & Enterprise":5560.85},
-			"2011-02": {"total":1395.75, "Learning and Children":1395.75},
-			"2011-03": {"total":2201.53, "Local Environmental Services":2201.53}
-		}
-	},
-	"1407": {
-		"name": "CHARLETON FENCING LTD",
-		"total": 234004.63,
-		"monthly": {
-			"2011-04": {"total":2807.00, "Local Environmental Services":2807.00},
-			"2011-06": {"total":4064.87, "Local Environmental Services":4064.87},
-			"2011-07": {"total":2000.00, "Supplies and Services":2000.00},
-			"2011-08": {"total":16554.57, "Supplies and Services":16554.57},
-			"2011-09": {"total":350.00, "Supplies and Services":350.00},
-			"2011-11": {"total":12962.77, "Supplies and Services":12962.77},
-			"2011-12": {"total":4738.46, "Supplies and Services":4738.46},
-			"2012-03": {"total":2166.57, "Supplies and Services":2166.57},
-			"2012-09": {"total":450.00, "Third Party Payments":450.00},
-			"2013-06": {"total":1013.23, "Supplies and Services":1013.23},
-			"2013-07": {"total":750.38, "Supplies and Services":750.38},
-			"2013-08": {"total":1468.00, "Supplies and Services":1468.00},
-			"2014-02": {"total":705.70, "Supplies and Services":705.70},
-			"2014-03": {"total":3863.30, "Supplies and Services":3863.30},
-			"2015-03": {"total":1513.00, "Supplies and Services":1513.00},
-			"2015-06": {"total":2610.47, "Supplies and Services":2610.47},
-			"2015-07": {"total":2775.70, "Supplies and Services":2775.70},
-			"2015-08": {"total":5976.07, "Supplies and Services":5976.07},
-			"2015-09": {"total":4663.85, "Supplies and Services":4663.85},
-			"2015-10": {"total":2801.34, "Supplies and Services":2801.34},
-			"2015-11": {"total":1525.72, "Supplies and Services":1525.72},
-			"2016-05": {"total":605.40, "Premises":605.40},
-			"2016-07": {"total":832.00, "Premises":832.00},
-			"2016-09": {"total":438.00, "Premises":438.00},
-			"2016-11": {"total":500.00, "Supplies and Services":500.00},
-			"2017-02": {"total":11321.89, "Supplies and Services":11321.89},
-			"2017-03": {"total":58544.66, "Supplies and Services":58544.66},
-			"2017-04": {"total":9117.77, "Supplies and Services":9117.77},
-			"2017-05": {"total":35023.72, "Supplies and Services":35023.72},
-			"2017-06": {"total":20680.18, "Supplies and Services":20680.18},
-			"2017-07": {"total":19229.93, "Supplies and Services":19229.93},
-			"2018-02": {"total":1950.08, "Supplies and Services":1950.08}
-		}
-	},
-	"1408": {
-		"name": "CHARNLEYS",
-		"total": 6473.48,
-		"monthly": {
-			"2012-01": {"total":809.80, "Premises":809.80},
-			"2012-05": {"total":430.68, "Premises":430.68},
-			"2012-06": {"total":605.00, "Premises":605.00},
-			"2013-02": {"total":678.50, "Premises":678.50},
-			"2013-03": {"total":353.50, "Premises":353.50},
-			"2013-10": {"total":387.65, "Premises":387.65},
-			"2016-09": {"total":380.35, "Premises":380.35},
-			"2016-10": {"total":400.00, "Premises":400.00},
-			"2017-07": {"total":479.00, "Premises":479.00},
-			"2018-01": {"total":546.00, "Premises":546.00},
-			"2018-05": {"total":1403.00, "Premises":1403.00}
-		}
-	},
-	"1409": {
-		"name": "CHARTERD INSTITUTE OF PAYROLL PROFESSIONALS",
-		"total": 390,
-		"monthly": {
-			"2016-03": {"total":390.00, "Employees":390.00}
-		}
-	},
-	"1410": {
-		"name": "CHARTERED INST. OF ENV HEALTH",
-		"total": 62173.89,
-		"monthly": {
-			"2011-02": {"total":451.30, "Local Environmental Services":451.30},
-			"2011-04": {"total":480.00, "Development & Enterprise":480.00},
-			"2011-05": {"total":550.00, "Development & Enterprise":550.00},
-			"2012-01": {"total":1103.80, "Supplies and Services":1103.80},
-			"2012-02": {"total":879.80, "Employees":879.80},
-			"2012-05": {"total":480.00, "Supplies and Services":480.00},
-			"2012-09": {"total":3242.50, "Supplies and Services":3242.50},
-			"2013-03": {"total":4525.35, "Employees":831.95, "Supplies and Services":3693.40},
-			"2013-06": {"total":383.95, "Supplies and Services":383.95},
-			"2013-09": {"total":1713.95, "Employees":1713.95},
-			"2013-12": {"total":1151.88, "Supplies and Services":1151.88},
-			"2014-01": {"total":3079.45, "Employees":3079.45},
-			"2014-02": {"total":3289.50, "Employees":3289.50},
-			"2014-04": {"total":597.95, "Supplies and Services":597.95},
-			"2014-08": {"total":879.95, "Supplies and Services":480.00, "Employees":399.95},
-			"2014-09": {"total":593.95, "Employees":593.95},
-			"2014-10": {"total":1183.95, "Employees":1183.95},
-			"2014-12": {"total":385.45, "Employees":385.45},
-			"2015-02": {"total":1927.30, "Employees":1927.30},
-			"2015-03": {"total":21227.30, "Employees":21227.30},
-			"2015-04": {"total":480.00, "Supplies and Services":480.00},
-			"2015-11": {"total":364.95, "Employees":364.95},
-			"2016-02": {"total":1569.79, "Employees":1569.79},
-			"2016-03": {"total":4605.77, "Employees":4125.77, "Supplies and Services":480.00},
-			"2016-04": {"total":551.50, "Employees":551.50},
-			"2016-06": {"total":1548.30, "Employees":1548.30},
-			"2016-07": {"total":1619.25, "Supplies and Services":1619.25},
-			"2016-12": {"total":926.75, "Supplies and Services":926.75},
-			"2017-03": {"total":960.00, "Supplies and Services":960.00},
-			"2017-05": {"total":930.25, "Employees":930.25},
-			"2018-04": {"total":490.00, "Supplies and Services":490.00}
-		}
-	},
-	"1411": {
-		"name": "CHARTERED INST. OF HOUSING",
-		"total": 7571.35,
-		"monthly": {
-			"2013-08": {"total":990.00, "Employees":990.00},
-			"2014-02": {"total":1200.00, "Supplies and Services":1200.00},
-			"2014-05": {"total":1444.50, "Employees":1444.50},
-			"2015-03": {"total":1100.00, "Supplies and Services":1100.00},
-			"2015-04": {"total":2836.85, "Supplies and Services":2836.85}
-		}
-	},
-	"1412": {
-		"name": "CHARTERED INSTITUTE OF INTERNAL AUDITORS",
-		"total": 2523,
-		"monthly": {
-			"2018-05": {"total":2523.00, "Supplies and Services":2523.00}
-		}
-	},
-	"1413": {
-		"name": "CHARTERED TRADING STANDARDS INSTITUTE",
-		"total": 425,
-		"monthly": {
-			"2017-09": {"total":425.00, "Employees":425.00}
-		}
-	},
-	"1414": {
-		"name": "CHARTWELLS",
-		"total": 4564.71,
-		"monthly": {
-			"2014-06": {"total":4564.71, "Supplies and Services":4564.71}
-		}
-	},
-	"1415": {
-		"name": "CHASE HOLMES LETTINGS LTD",
-		"total": 3000,
-		"monthly": {
-			"2016-12": {"total":3000.00, "Third Party Payments":3000.00}
-		}
-	},
-	"1416": {
-		"name": "CHASE HOLMES SALES LTD",
-		"total": 3000,
-		"monthly": {
-			"2015-07": {"total":1500.00, "Third Party Payments":1500.00},
-			"2015-12": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"1417": {
-		"name": "CHASE PARK FESTIVAL LTD",
-		"total": 500,
-		"monthly": {
-			"2017-07": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"1418": {
-		"name": "CHATFIELDS TYNE TEES",
-		"total": 288364.06,
-		"monthly": {
-			"2010-12": {"total":1318.19, "Local Environmental Services":1318.19},
-			"2011-01": {"total":470.22, "Local Environmental Services":470.22},
-			"2011-02": {"total":4732.83, "Local Environmental Services":4732.83},
-			"2011-03": {"total":971.80, "Local Environmental Services":971.80},
-			"2011-05": {"total":692.00, "Local Environmental Services":692.00},
-			"2011-08": {"total":78880.00, "Purchase of Vehicles":78880.00},
-			"2011-09": {"total":915.38, "Transport":915.38},
-			"2011-12": {"total":2153.28, "Transport":2153.28},
-			"2012-01": {"total":996.48, "Transport":996.48},
-			"2012-02": {"total":1134.98, "Transport":1134.98},
-			"2012-03": {"total":670.67, "Transport":670.67},
-			"2012-05": {"total":79539.13, "Purchase of Vehicles":79154.00, "Transport":385.13},
-			"2012-06": {"total":1580.02, "unknown":1180.98, "Transport":399.04},
-			"2012-07": {"total":2175.65, "Transport":2175.65},
-			"2012-08": {"total":505.31, "Transport":505.31},
-			"2012-09": {"total":627.49, "Transport":627.49},
-			"2012-10": {"total":3576.12, "Transport":3576.12},
-			"2012-11": {"total":1008.49, "Transport":1008.49},
-			"2013-01": {"total":1682.23, "Transport":1682.23},
-			"2013-02": {"total":2363.92, "Transport":2363.92},
-			"2013-03": {"total":54069.45, "Purchase of Vehicles":53677.00, "Transport":392.45},
-			"2013-04": {"total":356.40, "Transport":356.40},
-			"2013-05": {"total":863.84, "Transport":863.84},
-			"2013-06": {"total":535.70, "Transport":535.70},
-			"2013-07": {"total":3916.90, "Transport":3916.90},
-			"2013-08": {"total":2359.27, "Transport":2359.27},
-			"2013-09": {"total":1147.54, "Transport":1147.54},
-			"2013-12": {"total":12750.66, "Transport":12750.66},
-			"2014-01": {"total":1843.64, "Transport":1843.64},
-			"2014-02": {"total":1750.76, "Transport":1750.76},
-			"2014-04": {"total":496.70, "Transport":496.70},
-			"2014-05": {"total":983.18, "Transport":983.18},
-			"2014-06": {"total":530.00, "Transport":530.00},
-			"2014-08": {"total":460.00, "Transport":460.00},
-			"2014-10": {"total":1021.08, "Transport":1021.08},
-			"2014-11": {"total":476.32, "Transport":476.32},
-			"2014-12": {"total":860.02, "Transport":860.02},
-			"2015-01": {"total":374.90, "Transport":374.90},
-			"2015-02": {"total":383.54, "Transport":383.54},
-			"2015-03": {"total":5839.04, "Transport":5839.04},
-			"2015-07": {"total":878.78, "Transport":878.78},
-			"2015-10": {"total":2359.65, "Transport":2359.65},
-			"2015-11": {"total":804.07, "Transport":804.07},
-			"2015-12": {"total":1612.42, "Transport":1612.42},
-			"2016-02": {"total":2679.21, "Transport":2679.21},
-			"2016-03": {"total":2336.80, "Transport":2336.80},
-			"2016-04": {"total":680.00, "Transport":680.00}
-		}
-	},
-	"1419": {
-		"name": "CHECKED AND VETTED",
-		"total": 990,
-		"monthly": {
-			"2016-01": {"total":495.00, "Supplies and Services":495.00},
-			"2016-10": {"total":495.00, "Supplies and Services":495.00}
-		}
-	},
-	"1420": {
-		"name": "CHECKPOINT LTD",
-		"alternate-names": [
-			"CHECKPOINT LIMITED"
-		],
-		"total": 5925,
-		"monthly": {
-			"2014-12": {"total":5925.00, "Supplies and Services":5925.00}
-		}
-	},
-	"1421": {
-		"name": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
-		"total": 1395.59,
-		"monthly": {
-			"2015-09": {"total":508.53, "Third Party Payments":508.53},
-			"2016-05": {"total":443.53, "Third Party Payments":443.53},
-			"2016-06": {"total":443.53, "Third Party Payments":443.53}
-		}
-	},
-	"1422": {
-		"name": "CHELTENHAM & GLOUCESTER",
-		"total": 2317.77,
-		"monthly": {
-			"2011-09": {"total":2317.77, "Supplies and Services":2317.77}
-		}
-	},
-	"1423": {
-		"name": "CHEM CLEAR LTD",
-		"total": 1980,
-		"monthly": {
-			"2017-07": {"total":1980.00, "Supplies and Services":1980.00}
-		}
-	},
-	"1424": {
-		"name": "CHEMCARE LTD",
-		"total": 500,
-		"monthly": {
-			"2018-10": {"total":500.00, "Third Party Payments":500.00}
-		}
-	},
-	"1425": {
-		"name": "CHEMSPEC EUROPE",
-		"total": 708.46,
-		"monthly": {
-			"2012-09": {"total":708.46, "Supplies and Services":708.46}
-		}
-	},
-	"1426": {
-		"name": "CHEMTECH ENVIRONMENTAL LTD",
-		"total": 2110,
-		"monthly": {
-			"2016-09": {"total":1210.00, "Supplies and Services":1210.00},
-			"2017-01": {"total":900.00, "Supplies and Services":900.00}
-		}
-	},
-	"1427": {
-		"name": "CHESHIRE SCIENTIFIC LTD",
-		"total": 22943.01,
-		"monthly": {
-			"2010-12": {"total":402.00, "Central Services":402.00},
-			"2012-01": {"total":4672.00, "Supplies and Services":4672.00},
-			"2013-03": {"total":2887.00, "Supplies and Services":2887.00},
-			"2014-06": {"total":613.20, "Works":613.20},
-			"2014-07": {"total":891.18, "Works":891.18},
-			"2014-09": {"total":615.60, "Works":615.60},
-			"2015-01": {"total":751.78, "Works":751.78},
-			"2015-03": {"total":711.24, "Works":711.24},
-			"2016-01": {"total":837.52, "unknown":837.52},
-			"2016-07": {"total":1143.38, "unknown":1143.38},
-			"2016-10": {"total":1797.13, "unknown":1770.13, "Third Party Payments":27.00},
-			"2016-11": {"total":795.14, "unknown":795.14},
-			"2017-02": {"total":1900.50, "unknown":1900.50},
-			"2017-03": {"total":2426.40, "unknown":2426.40},
-			"2017-07": {"total":666.94, "unknown":666.94},
-			"2017-08": {"total":778.04, "unknown":778.04},
-			"2017-11": {"total":515.35, "unknown":515.35},
-			"2018-09": {"total":538.61, "unknown":538.61}
-		}
-	},
-	"1428": {
-		"name": "CHESSIRE - HOPE",
-		"total": 32966.02,
-		"monthly": {
-			"2010-12": {"total":3719.20, "Community Based Services":3719.20},
-			"2011-01": {"total":3719.20, "Community Based Services":3719.20},
-			"2011-02": {"total":3719.20, "Community Based Services":3719.20},
-			"2011-03": {"total":6756.60, "Community Based Services":6756.60},
-			"2011-05": {"total":8100.42, "Community Based Services":8100.42},
-			"2011-06": {"total":3514.66, "Community Based Services":3514.66},
-			"2011-07": {"total":3436.74, "Third Party Payments":3436.74}
-		}
-	},
-	"1429": {
-		"name": "CHESTER LE STREET CE PRIMARY SCHOOL",
-		"total": 1500,
-		"monthly": {
-			"2015-05": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"1430": {
-		"name": "CHESTER-LE-STREET AND DURHAM CITY MIND",
-		"total": 17100,
-		"monthly": {
-			"2014-03": {"total":1350.00, "Employees":1350.00},
-			"2014-05": {"total":450.00, "Employees":450.00},
-			"2014-06": {"total":2700.00, "Employees":2700.00},
-			"2014-07": {"total":5400.00, "Employees":5400.00},
-			"2014-10": {"total":450.00, "Employees":450.00},
-			"2014-11": {"total":450.00, "Employees":450.00},
-			"2014-12": {"total":1800.00, "Employees":1800.00},
-			"2015-01": {"total":900.00, "Employees":900.00},
-			"2015-02": {"total":3600.00, "Employees":3600.00}
-		}
-	},
-	"1431": {
-		"name": "CHEVIOT HOUSING ASSOC LTD",
-		"total": 87849.0699999993,
-		"monthly": {
-			"2010-12": {"total":2381.36, "Community Based Services":2381.36},
-			"2011-01": {"total":3525.81, "Community Based Services":3525.81},
-			"2011-04": {"total":1734.00, "Community Based Services":1734.00},
-			"2011-05": {"total":3468.00, "Community Based Services":3468.00},
-			"2011-06": {"total":1849.00, "Community Based Services":1849.00},
-			"2011-07": {"total":1678.44, "Third Party Payments":1678.44},
-			"2011-08": {"total":17990.48, "Third Party Payments":17990.48},
-			"2011-09": {"total":1517.56, "Third Party Payments":1517.56},
-			"2011-10": {"total":2099.35, "Third Party Payments":2099.35},
-			"2011-11": {"total":1644.31, "Third Party Payments":1644.31},
-			"2011-12": {"total":3277.84, "Third Party Payments":3277.84},
-			"2012-02": {"total":4547.02, "Third Party Payments":4547.02},
-			"2012-03": {"total":26.18, "Third Party Payments":26.18},
-			"2012-04": {"total":571.98, "Third Party Payments":571.98},
-			"2012-05": {"total":1578.34, "Third Party Payments":1578.34},
-			"2012-06": {"total":571.98, "Third Party Payments":571.98},
-			"2012-07": {"total":571.98, "Third Party Payments":571.98},
-			"2012-08": {"total":571.98, "Third Party Payments":571.98},
-			"2012-09": {"total":596.10, "Third Party Payments":596.10},
-			"2012-10": {"total":571.98, "Third Party Payments":571.98},
-			"2012-11": {"total":10200.80, "Premises":10200.80},
-			"2013-01": {"total":9277.38, "Premises":9277.38},
-			"2013-03": {"total":1625.20, "Premises":1625.20},
-			"2013-05": {"total":3300.00, "Third Party Payments":3300.00},
-			"2013-06": {"total":528.00, "Third Party Payments":528.00},
-			"2013-07": {"total":528.00, "Third Party Payments":528.00},
-			"2013-08": {"total":528.00, "Third Party Payments":528.00},
-			"2013-09": {"total":528.00, "Third Party Payments":528.00},
-			"2013-10": {"total":528.00, "Third Party Payments":528.00},
-			"2013-12": {"total":1584.00, "Third Party Payments":1584.00},
-			"2014-01": {"total":1584.00, "Third Party Payments":1584.00},
-			"2014-04": {"total":1056.00, "Third Party Payments":1056.00},
-			"2014-05": {"total":528.00, "Third Party Payments":528.00},
-			"2014-06": {"total":528.00, "Third Party Payments":528.00},
-			"2014-07": {"total":528.00, "Third Party Payments":528.00},
-			"2014-08": {"total":528.00, "Third Party Payments":528.00},
-			"2014-09": {"total":528.00, "Third Party Payments":528.00},
-			"2014-10": {"total":528.00, "Third Party Payments":528.00},
-			"2014-11": {"total":528.00, "Third Party Payments":528.00},
-			"2014-12": {"total":1056.00, "Third Party Payments":1056.00},
-			"2015-02": {"total":528.00, "Third Party Payments":528.00}
-		}
-	},
-	"1432": {
-		"name": "CHEVIOT STOVES",
-		"total": 2244.55,
-		"monthly": {
-			"2011-05": {"total":2244.55, "Development & Enterprise":2244.55}
-		}
-	},
-	"1433": {
-		"name": "CHEVIOT TREES LTD",
-		"alternate-names": [
-			"CHEVIOT TREES LIMITED"
-		],
-		"total": 14883,
-		"monthly": {
-			"2014-03": {"total":14883.00, "Supplies and Services":14883.00}
-		}
-	},
-	"1434": {
-		"name": "CHEVRON AUTOHIRE LTD",
-		"total": 4792,
-		"monthly": {
-			"2011-06": {"total":2100.00, "Local Environmental Services":2100.00},
-			"2011-07": {"total":1550.00, "Transport":1550.00},
-			"2011-09": {"total":392.00, "Transport":392.00},
-			"2011-11": {"total":750.00, "Transport":750.00}
-		}
-	},
-	"1435": {
-		"name": "CHICKEN JOES LTD",
-		"total": 357947.02,
-		"monthly": {
-			"2010-12": {"total":1226.00, "Local Environmental Services":1226.00},
-			"2011-01": {"total":2032.89, "Local Environmental Services":2032.89},
-			"2011-02": {"total":1750.70, "Local Environmental Services":1750.70},
-			"2011-03": {"total":3793.84, "Local Environmental Services":3793.84},
-			"2011-04": {"total":2321.45, "Local Environmental Services":2321.45},
-			"2011-05": {"total":1758.95, "Local Environmental Services":1758.95},
-			"2011-06": {"total":1455.90, "Local Environmental Services":1455.90},
-			"2011-07": {"total":1355.24, "Supplies and Services":1355.24},
-			"2011-08": {"total":685.75, "Supplies and Services":685.75},
-			"2011-09": {"total":1437.80, "Supplies and Services":1437.80},
-			"2011-10": {"total":2008.93, "Supplies and Services":2008.93},
-			"2011-11": {"total":5067.33, "Supplies and Services":5067.33},
-			"2011-12": {"total":3704.79, "Supplies and Services":3704.79},
-			"2012-01": {"total":6278.25, "Supplies and Services":6278.25},
-			"2012-02": {"total":4094.41, "Supplies and Services":4094.41},
-			"2012-03": {"total":6052.59, "Supplies and Services":6052.59},
-			"2012-04": {"total":2394.58, "Supplies and Services":2394.58},
-			"2012-05": {"total":5823.33, "Supplies and Services":5823.33},
-			"2012-06": {"total":3546.08, "Supplies and Services":3546.08},
-			"2012-07": {"total":5038.98, "Supplies and Services":5038.98},
-			"2012-08": {"total":466.80, "Supplies and Services":466.80},
-			"2012-09": {"total":2565.13, "Supplies and Services":2565.13},
-			"2012-10": {"total":11167.77, "Supplies and Services":11167.77},
-			"2012-11": {"total":6124.87, "Supplies and Services":6124.87},
-			"2013-01": {"total":9416.97, "unknown":765.03, "Supplies and Services":8651.94},
-			"2013-02": {"total":7489.96, "Supplies and Services":7489.96},
-			"2013-03": {"total":6993.41, "Supplies and Services":6993.41},
-			"2013-04": {"total":585.00, "Supplies and Services":585.00},
-			"2013-05": {"total":4967.81, "Supplies and Services":4967.81},
-			"2013-06": {"total":7495.70, "Supplies and Services":7495.70},
-			"2013-07": {"total":6404.06, "Supplies and Services":6404.06},
-			"2013-08": {"total":476.92, "Supplies and Services":476.92},
-			"2013-09": {"total":1288.72, "Supplies and Services":1288.72},
-			"2013-10": {"total":7754.96, "Supplies and Services":7754.96},
-			"2013-12": {"total":9316.17, "Supplies and Services":9316.17},
-			"2014-01": {"total":3327.83, "Supplies and Services":3327.83},
-			"2014-02": {"total":2524.29, "Supplies and Services":2524.29},
-			"2014-03": {"total":4008.86, "Supplies and Services":4008.86},
-			"2014-04": {"total":2746.12, "Supplies and Services":2746.12},
-			"2014-05": {"total":1681.34, "Supplies and Services":1681.34},
-			"2014-06": {"total":1811.62, "Supplies and Services":1811.62},
-			"2014-07": {"total":1588.55, "Supplies and Services":1588.55},
-			"2014-08": {"total":956.91, "Supplies and Services":956.91},
-			"2014-10": {"total":2700.31, "Supplies and Services":2700.31},
-			"2014-11": {"total":5849.43, "Supplies and Services":5849.43},
-			"2015-01": {"total":5942.82, "Supplies and Services":5942.82},
-			"2015-03": {"total":4832.72, "Supplies and Services":4832.72},
-			"2015-04": {"total":3905.21, "Supplies and Services":3905.21},
-			"2015-05": {"total":6916.72, "Supplies and Services":6916.72},
-			"2015-06": {"total":3784.93, "Supplies and Services":3784.93},
-			"2015-07": {"total":2440.91, "Supplies and Services":2440.91},
-			"2015-08": {"total":1077.53, "Supplies and Services":1077.53},
-			"2015-09": {"total":1963.09, "Supplies and Services":1963.09},
-			"2015-10": {"total":6212.82, "Supplies and Services":6212.82},
-			"2015-11": {"total":3345.48, "Supplies and Services":3345.48},
-			"2015-12": {"total":1688.56, "Supplies and Services":1688.56},
-			"2016-01": {"total":5847.49, "Supplies and Services":5847.49},
-			"2016-02": {"total":9142.87, "Supplies and Services":9142.87},
-			"2016-03": {"total":9008.21, "Supplies and Services":9008.21},
-			"2016-04": {"total":5471.79, "Supplies and Services":5471.79},
-			"2016-06": {"total":9542.12, "Supplies and Services":9542.12},
-			"2016-07": {"total":1077.40, "Supplies and Services":1077.40},
-			"2016-09": {"total":2758.04, "Supplies and Services":2758.04},
-			"2016-10": {"total":4155.32, "Supplies and Services":4155.32},
-			"2016-11": {"total":8847.87, "Supplies and Services":8847.87},
-			"2016-12": {"total":2016.13, "Supplies and Services":2016.13},
-			"2017-01": {"total":6940.02, "Supplies and Services":6940.02},
-			"2017-02": {"total":6662.86, "Supplies and Services":6662.86},
-			"2017-03": {"total":21148.68, "Supplies and Services":21148.68},
-			"2017-04": {"total":1492.01, "Supplies and Services":1492.01},
-			"2017-05": {"total":3685.80, "Supplies and Services":3685.80},
-			"2017-06": {"total":3384.08, "Supplies and Services":3384.08},
-			"2017-07": {"total":5847.57, "Supplies and Services":5847.57},
-			"2017-08": {"total":721.96, "Supplies and Services":721.96},
-			"2017-10": {"total":4597.20, "Supplies and Services":4597.20},
-			"2017-11": {"total":8669.55, "Supplies and Services":8669.55},
-			"2017-12": {"total":3179.21, "Supplies and Services":3179.21},
-			"2018-01": {"total":6183.24, "Supplies and Services":6183.24},
-			"2018-02": {"total":3441.37, "Supplies and Services":3441.37},
-			"2018-03": {"total":3089.19, "Supplies and Services":3089.19},
-			"2018-04": {"total":1884.30, "Supplies and Services":1884.30},
-			"2018-05": {"total":3972.90, "Supplies and Services":3972.90},
-			"2018-06": {"total":1531.75, "Supplies and Services":1531.75}
-		}
-	},
-	"1436": {
-		"name": "CHIEF VEHICLE RENTALS LTD",
-		"alternate-names": [
-			"CHIEF VEHICLE RENTALS LIMITED"
-		],
-		"total": 5270.4,
-		"monthly": {
-			"2017-04": {"total":5270.40, "Transfer Payments":5270.40}
-		}
-	},
-	"1437": {
-		"name": "CHILD PROTECTION TRAINING UK",
-		"total": 3000,
-		"monthly": {
-			"2015-09": {"total":3000.00, "Supplies and Services":3000.00}
-		}
-	},
-	"1438": {
-		"name": "CHILD PSYCHIATRY UK",
-		"total": 3750,
-		"monthly": {
-			"2017-09": {"total":2350.00, "Supplies and Services":2350.00},
-			"2017-12": {"total":1400.00, "Third Party Payments":1400.00}
-		}
-	},
-	"1439": {
-		"name": "CHILDREN & FAMILIES ACROSS BORDERS",
-		"total": 7208.84,
-		"monthly": {
-			"2016-03": {"total":606.68, "Employees":606.68},
-			"2018-03": {"total":6602.16, "Supplies and Services":6602.16}
-		}
-	},
-	"1440": {
-		"name": "CHILDREN NORTH EAST",
-		"total": 1302110.52,
-		"monthly": {
-			"2010-12": {"total":22450.00, "Learning and Children":22450.00},
-			"2011-02": {"total":21250.00, "Learning and Children":21250.00},
-			"2011-03": {"total":58744.61, "Learning and Children":58744.61},
-			"2011-10": {"total":51000.00, "Third Party Payments":51000.00},
-			"2011-12": {"total":50000.00, "Third Party Payments":50000.00},
-			"2012-01": {"total":17000.00, "Third Party Payments":17000.00},
-			"2012-02": {"total":12403.75, "Third Party Payments":12403.75},
-			"2012-03": {"total":74807.50, "Third Party Payments":74807.50},
-			"2012-10": {"total":19061.66, "Third Party Payments":19061.66},
-			"2013-12": {"total":3600.00, "Third Party Payments":3600.00},
-			"2014-02": {"total":87500.00, "Third Party Payments":87500.00},
-			"2014-03": {"total":43750.00, "Third Party Payments":43750.00},
-			"2014-05": {"total":43750.00, "Third Party Payments":43750.00},
-			"2014-07": {"total":43750.00, "Third Party Payments":43750.00},
-			"2014-10": {"total":43750.00, "Third Party Payments":43750.00},
-			"2015-02": {"total":43750.00, "Third Party Payments":43750.00},
-			"2015-05": {"total":43750.00, "Third Party Payments":43750.00},
-			"2015-08": {"total":43750.00, "Third Party Payments":43750.00},
-			"2015-10": {"total":43750.00, "Third Party Payments":43750.00},
-			"2016-02": {"total":49375.00, "Third Party Payments":49375.00},
-			"2016-03": {"total":5625.00, "Third Party Payments":5625.00},
-			"2016-05": {"total":43750.00, "Third Party Payments":43750.00},
-			"2016-08": {"total":43750.00, "Third Party Payments":43750.00},
-			"2016-10": {"total":43750.00, "Third Party Payments":43750.00},
-			"2017-04": {"total":43750.00, "Third Party Payments":43750.00},
-			"2017-05": {"total":43750.00, "Third Party Payments":43750.00},
-			"2017-09": {"total":43750.00, "Third Party Payments":43750.00},
-			"2017-10": {"total":10548.00, "Transport":10548.00},
-			"2017-12": {"total":54205.00, "Third Party Payments":43750.00, "Transport":10455.00},
-			"2018-03": {"total":43750.00, "Third Party Payments":43750.00},
-			"2018-04": {"total":10395.00, "Transport":10395.00},
-			"2018-05": {"total":54145.00, "Third Party Payments":43750.00, "Transport":10395.00},
-			"2018-09": {"total":43750.00, "Third Party Payments":43750.00}
-		}
-	},
-	"1441": {
-		"name": "CHILDREN'S SAFETY EDUCATION FOUNDATION",
-		"total": 1997,
-		"monthly": {
-			"2011-11": {"total":1997.00, "Supplies and Services":1997.00}
-		}
-	},
-	"1442": {
-		"name": "CHILDRENS CHOICE NURSERY",
-		"total": 5178.82,
-		"monthly": {
-			"2016-06": {"total":4206.60, "Supplies and Services":4206.60},
-			"2017-02": {"total":972.22, "Supplies and Services":972.22}
-		}
-	},
-	"1443": {
-		"name": "CHILDRENS SOCIETY",
-		"total": 17500,
-		"monthly": {
-			"2012-02": {"total":1000.00, "Supplies and Services":1000.00},
-			"2013-03": {"total":1500.00, "Supplies and Services":1500.00},
-			"2016-04": {"total":15000.00, "Third Party Payments":15000.00}
-		}
-	},
-	"1444": {
-		"name": "CHILTON & HOGG",
-		"total": 1000,
-		"monthly": {
-			"2012-03": {"total":1000.00, "Other Costs":1000.00}
-		}
-	},
-	"1445": {
-		"name": "CHIMP MANAGEMENT LTD",
-		"total": 1614.3,
-		"monthly": {
-			"2015-05": {"total":1614.30, "Supplies and Services":1614.30}
-		}
-	},
-	"1446": {
-		"name": "CHIP PC TECHNOLOGIES GMBH",
-		"total": 810,
-		"monthly": {
-			"2013-08": {"total":810.00, "Purchase of Equipment":810.00}
-		}
-	},
-	"1447": {
-		"name": "CHIRMARN LTD",
-		"total": 532146,
-		"monthly": {
-			"2010-12": {"total":1230.00, "Development & Enterprise":1230.00},
-			"2011-01": {"total":3080.00, "Community Based Services":990.00, "Central Services":400.00, "Local Environmental Services":1690.00},
-			"2011-02": {"total":2030.00, "Central Services":740.00, "Local Environmental Services":1290.00},
-			"2011-03": {"total":3100.00, "Central Services":500.00, "Local Environmental Services":2600.00},
-			"2011-04": {"total":5925.00, "Local Environmental Services":5925.00},
-			"2011-05": {"total":1020.00, "Local Environmental Services":1020.00},
-			"2011-07": {"total":4190.00, "Supplies and Services":4190.00},
-			"2011-08": {"total":7600.00, "Premises":3640.00, "Third Party Payments":3960.00},
-			"2011-09": {"total":960.00, "Supplies and Services":400.00, "Third Party Payments":180.00, "Works":380.00},
-			"2011-10": {"total":2680.00, "Works":390.00, "Supplies and Services":2290.00},
-			"2011-11": {"total":350.00, "Supplies and Services":350.00},
-			"2012-01": {"total":7990.00, "Works":7990.00},
-			"2012-05": {"total":5610.00, "Supplies and Services":5610.00},
-			"2012-07": {"total":3780.00, "Supplies and Services":3780.00},
-			"2012-08": {"total":17570.00, "Supplies and Services":17570.00},
-			"2012-09": {"total":21204.00, "Supplies and Services":21204.00},
-			"2012-11": {"total":18125.00, "Supplies and Services":17300.00, "Third Party Payments":825.00},
-			"2013-01": {"total":5520.00, "Supplies and Services":5520.00},
-			"2013-02": {"total":5816.00, "Works":450.00, "Supplies and Services":5366.00},
-			"2013-03": {"total":15355.00, "Supplies and Services":14735.00, "Third Party Payments":620.00},
-			"2013-05": {"total":28110.00, "Supplies and Services":28110.00},
-			"2013-06": {"total":3695.00, "Supplies and Services":3695.00},
-			"2013-07": {"total":17929.00, "Works":1775.00, "Supplies and Services":16154.00},
-			"2013-08": {"total":30455.00, "Supplies and Services":30455.00},
-			"2013-09": {"total":42611.00, "Supplies and Services":40811.00, "Works":1800.00},
-			"2013-10": {"total":7185.00, "Supplies and Services":7185.00},
-			"2013-12": {"total":24276.00, "Supplies and Services":24276.00},
-			"2014-01": {"total":4770.00, "Supplies and Services":4770.00},
-			"2014-02": {"total":29715.00, "Technical Costs":23415.00, "Supplies and Services":6300.00},
-			"2014-03": {"total":4637.50, "Supplies and Services":4637.50},
-			"2014-04": {"total":1870.00, "Supplies and Services":1870.00},
-			"2014-05": {"total":5540.00, "Supplies and Services":5540.00},
-			"2014-06": {"total":13297.00, "Supplies and Services":13297.00},
-			"2014-07": {"total":3906.00, "Supplies and Services":3906.00},
-			"2014-08": {"total":14448.00, "Supplies and Services":10473.00, "Consultants":3975.00},
-			"2014-09": {"total":3060.00, "Supplies and Services":3060.00},
-			"2014-10": {"total":6220.00, "Supplies and Services":6220.00},
-			"2014-11": {"total":11725.00, "Premises":9515.00, "Supplies and Services":2210.00},
-			"2014-12": {"total":1400.00, "Supplies and Services":1400.00},
-			"2015-01": {"total":500.00, "Supplies and Services":500.00},
-			"2015-02": {"total":7020.00, "Supplies and Services":7020.00},
-			"2015-03": {"total":24600.00, "Supplies and Services":1100.00, "Premises":23500.00},
-			"2015-04": {"total":650.00, "Supplies and Services":650.00},
-			"2015-05": {"total":2400.00, "Supplies and Services":2400.00},
-			"2015-07": {"total":2800.00, "Supplies and Services":2800.00},
-			"2015-08": {"total":675.00, "Supplies and Services":675.00},
-			"2015-09": {"total":8945.00, "Supplies and Services":8945.00},
-			"2015-10": {"total":1792.50, "Supplies and Services":1792.50},
-			"2015-11": {"total":975.00, "Supplies and Services":975.00},
-			"2016-01": {"total":5244.00, "Supplies and Services":5244.00},
-			"2016-02": {"total":3575.00, "Supplies and Services":3575.00},
-			"2016-03": {"total":3375.00, "Supplies and Services":3375.00},
-			"2016-05": {"total":1620.00, "Supplies and Services":1620.00},
-			"2016-06": {"total":2695.00, "Supplies and Services":2695.00},
-			"2016-07": {"total":490.00, "Supplies and Services":490.00},
-			"2016-08": {"total":1080.00, "Supplies and Services":1080.00},
-			"2016-09": {"total":13000.00, "Supplies and Services":2400.00, "Works":10600.00},
-			"2016-10": {"total":10515.00, "Supplies and Services":10515.00},
-			"2016-11": {"total":2960.00, "Supplies and Services":2960.00},
-			"2016-12": {"total":6640.00, "Supplies and Services":6640.00},
-			"2017-01": {"total":6490.00, "Supplies and Services":6490.00},
-			"2017-02": {"total":1175.00, "Supplies and Services":1175.00},
-			"2017-03": {"total":1350.00, "Supplies and Services":1350.00},
-			"2017-06": {"total":4800.00, "Supplies and Services":4800.00},
-			"2017-07": {"total":2935.00, "Supplies and Services":2935.00},
-			"2017-08": {"total":5025.00, "Premises":1400.00, "Supplies and Services":3625.00},
-			"2017-09": {"total":4870.00, "Supplies and Services":4870.00},
-			"2017-10": {"total":2890.00, "Supplies and Services":2890.00},
-			"2017-11": {"total":7100.00, "Supplies and Services":7100.00},
-			"2018-03": {"total":5975.00, "Supplies and Services":5975.00}
-		}
-	},
-	"1448": {
-		"name": "CHIRMARN SURVEYING LTD",
-		"alternate-names": [
-			"CHIRMARN SURVEYING LIMITED"
-		],
-		"total": 3420,
-		"monthly": {
-			"2012-07": {"total":390.00, "Works":390.00},
-			"2012-11": {"total":390.00, "Supplies and Services":390.00},
-			"2013-01": {"total":400.00, "Works":400.00},
-			"2013-07": {"total":2240.00, "Works":2240.00}
-		}
-	},
-	"1449": {
-		"name": "CHNE T/A MUNRO ESTATES",
-		"total": 6000,
-		"monthly": {
-			"2015-03": {"total":3000.00, "Third Party Payments":3000.00},
-			"2017-02": {"total":3000.00, "Third Party Payments":3000.00}
 		}
 	}
 	}
