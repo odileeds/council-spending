@@ -478,7 +478,7 @@
 			"2018-08": {"total":305708.03, "CABINET OFFICE":305708.03},
 			"2018-10": {"total":67192.59, "CABINET OFFICE":67192.59},
 			"2018-11": {"total":734723.97, "Government Property Agency":704537.83, "CABINET OFFICE":30186.14},
-			"2019-01": {"total":972152.00, "CABINET OFFICE":437500.00, "Government Property Agency":534652.00},
+			"2019-01": {"total":972152.00, "Government Property Agency":534652.00, "CABINET OFFICE":437500.00},
 			"2019-03": {"total":54159.71, "CABINET OFFICE":54159.71},
 			"2019-04": {"total":222109.00, "Government Property Agency":222109.00},
 			"2019-05": {"total":920221.52, "Government Property Agency":920221.52}
@@ -486,12 +486,15 @@
 	},
 	"894": {
 		"name": "HM TREASURY",
-		"total": 117045190.14,
+		"alternate-names": [
+			"HM Treasury"
+		],
+		"total": 120430280.93,
 		"monthly": {
 			"2010-06": {"total":124360.82, "Buying Solutions":124360.82},
 			"2010-08": {"total":133443.17, "Buying Solutions":133443.17},
 			"2010-09": {"total":780694.42, "Cabinet Office":780694.42},
-			"2010-10": {"total":811069.42, "Buying Solutions":30375.00, "Cabinet Office":780694.42},
+			"2010-10": {"total":811069.42, "Cabinet Office":780694.42, "Buying Solutions":30375.00},
 			"2010-12": {"total":57000.00, "Buying Solutions":57000.00},
 			"2011-01": {"total":119360.82, "Buying Solutions":119360.82},
 			"2011-04": {"total":1458000.00, "CABINET OFFICE":1458000.00},
@@ -542,29 +545,20 @@
 			"2018-06": {"total":35317.52, "CABINET OFFICE":35317.52},
 			"2018-08": {"total":3123980.39, "CABINET OFFICE":3123980.39},
 			"2018-09": {"total":102289.57, "GOVERNMENT PROPERTY AGENCY":27810.01, "CABINET OFFICE":74479.56},
-			"2019-01": {"total":27810.01, "CABINET OFFICE":27810.01},
+			"2019-01": {"total":3297099.01, "CABINET OFFICE":27810.01, "Government Property Agency":3269289.00},
 			"2019-02": {"total":60117.50, "CABINET OFFICE":60117.50},
-			"2019-03": {"total":4000005.00, "CABINET OFFICE":4000005.00},
-			"2019-04": {"total":38668.76, "CABINET OFFICE":38668.76}
+			"2019-03": {"total":4034062.00, "Government Property Agency":34057.00, "CABINET OFFICE":4000005.00},
+			"2019-04": {"total":120413.55, "CABINET OFFICE":38668.76, "Government Property Agency":81744.79}
 		}
 	},
 	"895": {
-		"name": "HM Treasury",
-		"total": 3385090.79,
-		"monthly": {
-			"2019-01": {"total":3269289.00, "Government Property Agency":3269289.00},
-			"2019-03": {"total":34057.00, "Government Property Agency":34057.00},
-			"2019-04": {"total":81744.79, "Government Property Agency":81744.79}
-		}
-	},
-	"896": {
 		"name": "HMCS",
 		"total": 77684.5,
 		"monthly": {
 			"2010-04": {"total":77684.50, "CABINET OFFICE":77684.50}
 		}
 	},
-	"897": {
+	"896": {
 		"name": "HMCTS",
 		"total": 227712.7,
 		"monthly": {
@@ -572,14 +566,14 @@
 			"2018-09": {"total":173761.70, "CABINET OFFICE":173761.70}
 		}
 	},
-	"898": {
+	"897": {
 		"name": "HODGE JONES & ALLEN LLP",
 		"total": 49313.75,
 		"monthly": {
 			"2018-05": {"total":49313.75, "CABINET OFFICE":49313.75}
 		}
 	},
-	"899": {
+	"898": {
 		"name": "HOGG ROBINSON TRAVEL LTD",
 		"total": 1253737.03,
 		"monthly": {
@@ -600,6 +594,13 @@
 			"2014-05": {"total":41328.37, "CABINET OFFICE":41328.37},
 			"2014-10": {"total":197895.36, "CABINET OFFICE":197895.36},
 			"2014-11": {"total":222016.44, "CABINET OFFICE":222016.44}
+		}
+	},
+	"899": {
+		"name": "HOLDEN PEARMAIN RESEARCH LTD",
+		"total": 62775,
+		"monthly": {
+			"2012-02": {"total":62775.00, "Cabinet Office":62775.00}
 		}
 	}
 	}
