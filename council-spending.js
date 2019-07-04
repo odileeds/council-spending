@@ -11,7 +11,7 @@ S(document).ready(function(){
 
 
 	S().ajax('summary.csv',{
-		'dataType': 'csv',
+		'dataType': 'text',
 		'cache':false,
 		'complete': function(data,attr){
 			if(typeof data==="string") data = data.replace(/\r/,'').split(/[\n]/);
