@@ -8,7 +8,13 @@ S(document).ready(function(){
 	var activeseries = {};
 	var chart;
 	var barselect = -1;
-
+	function formatCurrency(v){
+		str = '';
+		if(v < 1e3) str = v.toLocaleString();
+		else if(v < 1e6) str = Math.round(v/1e3).toLocaleString()+'k';
+		else str = Math.round(v/1e6).toLocaleString()+'M';
+		return '&pound;'+str;
+	}
 
 	S().ajax('summary.csv',{
 		'dataType': 'text',
@@ -31,7 +37,7 @@ S(document).ready(function(){
 				'formatX': function(key){
 					return (key.indexOf('-01') > 0 ? key.substr(0,4):'');
 				},
-				'formatY': function(v){ return '&pound;'+v.toLocaleString(); },
+				'formatY': function(v){ return formatCurrency(v); },
 				'formatBar': function(){ return "seasonally"; }
 			});
 			if(S('#download').length==0) S('#totals').after('<div id="download"></div>');
@@ -452,7 +458,7 @@ S(document).ready(function(){
 			S('#barchart').html('');
 			chart = new S.barchart('#barchart',{
 				'formatX': function(key){ return (key.indexOf('-01') > 0 ? key.substr(0,4):''); },
-				'formatY': function(v){ return '&pound;'+v.toLocaleString(); },
+				'formatY': function(v){ return formatCurrency(v); },
 				'formatBar': function(key,val,series){
 					return (typeof series==="number" ? getColour(series,keys[series]) : "");
 				},
