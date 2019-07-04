@@ -234,6 +234,9 @@ S(document).ready(function(){
 					}
 
 					displayData(attr.id,"",true);
+					location.href = "#q";
+					S('#q')[0].focus();
+
 				},
 				'error': function(e){ console.log(e); }
 			});
@@ -448,9 +451,8 @@ S(document).ready(function(){
 		if(!chart || rebuild){
 			S('#barchart').html('');
 			chart = new S.barchart('#barchart',{
-				'formatKey': function(key){
-					return (key.indexOf('-01') > 0 ? key.substr(0,4):'');
-				},
+				'formatX': function(key){ return (key.indexOf('-01') > 0 ? key.substr(0,4):''); },
+				'formatY': function(v){ return '&pound;'+v.toLocaleString(); },
 				'formatBar': function(key,val,series){
 					return (typeof series==="number" ? getColour(series,keys[series]) : "");
 				},
