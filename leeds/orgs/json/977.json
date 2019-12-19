@@ -28,7 +28,7 @@
 			"2012-11": {"total":2200.00, "City Development":2200.00},
 			"2012-12": {"total":41674.22, "City Development":41674.22},
 			"2013-07": {"total":863.64, "City Development":863.64},
-			"2013-08": {"total":15975.00, "Environment & Housing":4600.00, "City Development":11375.00},
+			"2013-08": {"total":15975.00, "City Development":11375.00, "Environment & Housing":4600.00},
 			"2013-09": {"total":5735.16, "City Development":5735.16},
 			"2013-10": {"total":25013.88, "City Development":25013.88},
 			"2013-11": {"total":2887.48, "Environment & Housing":2887.48},
@@ -49,7 +49,7 @@
 			"2015-11": {"total":3461.00, "City Development":3461.00},
 			"2015-12": {"total":1277.46, "City Development":1277.46},
 			"2016-01": {"total":2156.64, "Environment & Housing":2156.64},
-			"2016-04": {"total":19950.00, "City Development":19931.25, "Environment & Housing":18.75},
+			"2016-04": {"total":19950.00, "Environment & Housing":18.75, "City Development":19931.25},
 			"2016-06": {"total":809.12, "Environment & Housing":809.12},
 			"2016-07": {"total":4100.00, "City Development":4100.00},
 			"2016-11": {"total":26774.95, "City Development":26774.95},
@@ -245,7 +245,7 @@
 		"monthly": {
 			"2011-03": {"total":1391.60, "Environment & Neighbourhoods":1391.60},
 			"2011-04": {"total":1983.00, "Environment & Neighbourhoods":1983.00},
-			"2011-05": {"total":32055.00, "Environment & Neighbourhoods":435.00, "Childrens Services":31620.00},
+			"2011-05": {"total":32055.00, "Childrens Services":31620.00, "Environment & Neighbourhoods":435.00},
 			"2011-08": {"total":2499.00, "Environment & Neighbourhoods":2499.00},
 			"2011-09": {"total":2418.00, "Environment & Neighbourhoods":2418.00},
 			"2012-07": {"total":951.00, "Environment & Neighbourhoods":951.00},
@@ -409,16 +409,16 @@
 		"name": "YORKSHIRE PURCHASING ORGANISATION",
 		"total": 187633.81,
 		"monthly": {
-			"2010-12": {"total":101197.43, "City Development":4543.64, "Central & Corporate Functions":1095.00, "Adult Social Care":2766.35, "Childrens Services":3577.78, "Strategic Accounts":89214.66},
-			"2011-01": {"total":86436.38, "City Development":1910.21, "Environment & Neighbourhoods":757.67, "Education Leeds":1594.50, "Strategic Accounts":67597.87, "Adult Social Care":11689.98, "Childrens Services":2886.15}
+			"2010-12": {"total":101197.43, "Strategic Accounts":89214.66, "Adult Social Care":2766.35, "City Development":4543.64, "Central & Corporate Functions":1095.00, "Childrens Services":3577.78},
+			"2011-01": {"total":86436.38, "Strategic Accounts":67597.87, "Adult Social Care":11689.98, "City Development":1910.21, "Education Leeds":1594.50, "Environment & Neighbourhoods":757.67, "Childrens Services":2886.15}
 		}
 	},
 	"48890": {
 		"name": "YORKSHIRE WATER",
 		"total": 406619.45,
 		"monthly": {
-			"2010-12": {"total":220851.97, "Strategic Accounts":190097.78, "Environment & Neighbourhoods":17298.53, "City Development":5404.40, "Central & Corporate Functions":8051.26},
-			"2011-01": {"total":185767.48, "Strategic Accounts":150526.15, "East - North East":3339.20, "City Development":19155.84, "Environment & Neighbourhoods":12746.29}
+			"2010-12": {"total":220851.97, "City Development":5404.40, "Central & Corporate Functions":8051.26, "Environment & Neighbourhoods":17298.53, "Strategic Accounts":190097.78},
+			"2011-01": {"total":185767.48, "City Development":19155.84, "Environment & Neighbourhoods":12746.29, "Strategic Accounts":150526.15, "East - North East":3339.20}
 		}
 	},
 	"48891": {
@@ -432,7 +432,7 @@
 		"name": "YORWASTE LTD",
 		"total": 66080.22,
 		"monthly": {
-			"2010-12": {"total":48379.32, "Environment & Neighbourhoods":47409.47, "Central & Corporate Functions":969.85},
+			"2010-12": {"total":48379.32, "Central & Corporate Functions":969.85, "Environment & Neighbourhoods":47409.47},
 			"2011-01": {"total":17700.90, "Environment & Neighbourhoods":17700.90}
 		}
 	},
@@ -481,7 +481,7 @@
 			"2011-03": {"total":660.00, "Education Leeds":660.00},
 			"2011-04": {"total":1700.00, "Education Leeds":1700.00},
 			"2012-02": {"total":5465.00, "Adult Social Care":5465.00},
-			"2012-04": {"total":5774.25, "Childrens Services":4408.00, "Adult Social Care":1366.25},
+			"2012-04": {"total":5774.25, "Adult Social Care":1366.25, "Childrens Services":4408.00},
 			"2012-07": {"total":1366.25, "Adult Social Care":1366.25},
 			"2012-10": {"total":1366.25, "Adult Social Care":1366.25},
 			"2013-01": {"total":1366.25, "Adult Social Care":1366.25},
@@ -503,7 +503,7 @@
 			"2015-09": {"total":2280.00, "Childrens Services":2280.00},
 			"2015-10": {"total":1366.25, "Adult Social Care":1366.25},
 			"2015-12": {"total":240.17, "City Development":240.17},
-			"2016-02": {"total":1588.23, "Childrens Services":221.98, "Adult Social Care":1366.25},
+			"2016-02": {"total":1588.23, "Adult Social Care":1366.25, "Childrens Services":221.98},
 			"2016-04": {"total":1000.00, "Childrens Services":1000.00},
 			"2016-06": {"total":10000.00, "Childrens Services":10000.00},
 			"2016-08": {"total":1640.00, "Childrens Services":1640.00},

@@ -67,11 +67,11 @@
 		"name": "HM REVENUE & CUSTOMS",
 		"alternate-names": [
 			"Hmrc Shipley (Citi Bank)",
-			"Hm Revenue & Customs Nic & Eo",
+			"Hmrc",
 			"Hmrc Stamp Duty Lt",
 			"Hm Revenue & Customs",
-			"Hmrc",
 			"Hm Revenues & Customs",
+			"Hm Revenue & Customs Nic & Eo",
 			"Hmrc Banking"
 		],
 		"total": 7225505.2,
@@ -90,7 +90,7 @@
 			"2013-10": {"total":41941.00, "City Development":41941.00},
 			"2014-01": {"total":88000.00, "City Development":88000.00},
 			"2014-03": {"total":53.33, "Strategic Accounts":53.33},
-			"2014-04": {"total":68822.40, "Strategic Accounts":22.40, "City Development":68800.00},
+			"2014-04": {"total":68822.40, "City Development":68800.00, "Strategic Accounts":22.40},
 			"2014-05": {"total":200.00, "Environment & Housing":200.00},
 			"2014-09": {"total":17959.90, "Central & Corporate":17959.90},
 			"2014-12": {"total":408904.00, "Central & Corporate":6004.00, "City Development":402900.00},
@@ -118,20 +118,20 @@
 			"2018-08": {"total":13768.00, "City Development":13768.00},
 			"2019-02": {"total":70500.00, "City Development":70500.00},
 			"2019-03": {"total":38438.00, "City Development":38438.00},
-			"2019-04": {"total":163125.00, "Adults and Health":139500.00, "City Development":23625.00},
+			"2019-04": {"total":163125.00, "City Development":23625.00, "Adults and Health":139500.00},
 			"2019-06": {"total":10050.00, "Resources and Housing":10050.00},
 			"2019-07": {"total":8175.00, "Resources and Housing":8175.00},
-			"2019-08": {"total":6180.00, "City Development":480.00, "Resources and Housing":5700.00},
+			"2019-08": {"total":6180.00, "Resources and Housing":5700.00, "City Development":480.00},
 			"2019-09": {"total":15540.00, "Resources and Housing":15540.00},
 			"2019-10": {"total":6090.00, "Resources and Housing":6090.00},
-			"2019-11": {"total":16237.00, "City Development":787.00, "Resources and Housing":15450.00}
+			"2019-11": {"total":16237.00, "Resources and Housing":15450.00, "City Development":787.00}
 		}
 	},
 	"19459": {
 		"name": "HMCS",
 		"total": 45690,
 		"monthly": {
-			"2011-01": {"total":45690.00, "Childrens Services":20000.00, "Environment & Neighbourhoods":25690.00}
+			"2011-01": {"total":45690.00, "Environment & Neighbourhoods":25690.00, "Childrens Services":20000.00}
 		}
 	},
 	"19460": {
@@ -175,7 +175,7 @@
 		"name": "HOLLY BANK TRUST",
 		"total": 175501.3,
 		"monthly": {
-			"2010-12": {"total":171231.63, "Childrens Services":6186.25, "Education Leeds":109782.06, "Social Services Pooled Budgets":55263.32},
+			"2010-12": {"total":171231.63, "Education Leeds":109782.06, "Social Services Pooled Budgets":55263.32, "Childrens Services":6186.25},
 			"2011-01": {"total":4269.67, "Childrens Services":4269.67}
 		}
 	},
@@ -183,8 +183,8 @@
 		"name": "HOLLY HOUSE",
 		"total": 8727.28,
 		"monthly": {
-			"2010-12": {"total":4363.64, "Adult Social Care":1239.28, "Social Services Pooled Budgets":3124.36},
-			"2011-01": {"total":4363.64, "Adult Social Care":1239.28, "Social Services Pooled Budgets":3124.36}
+			"2010-12": {"total":4363.64, "Social Services Pooled Budgets":3124.36, "Adult Social Care":1239.28},
+			"2011-01": {"total":4363.64, "Social Services Pooled Budgets":3124.36, "Adult Social Care":1239.28}
 		}
 	},
 	"19467": {
@@ -245,7 +245,7 @@
 		"name": "HOME FARM TRUST LTD",
 		"total": 268454.21,
 		"monthly": {
-			"2010-12": {"total":156076.75, "Social Services Pooled Budgets":133243.47, "Environment & Neighbourhoods":22833.28},
+			"2010-12": {"total":156076.75, "Environment & Neighbourhoods":22833.28, "Social Services Pooled Budgets":133243.47},
 			"2011-01": {"total":112377.46, "Environment & Neighbourhoods":35864.82, "Social Services Pooled Budgets":76512.64}
 		}
 	},
@@ -305,7 +305,7 @@
 		"total": 70574.07,
 		"monthly": {
 			"2010-12": {"total":57665.35, "Central & Corporate Functions":57665.35},
-			"2011-01": {"total":12908.72, "Central & Corporate Functions":12378.80, "City Development":529.92}
+			"2011-01": {"total":12908.72, "City Development":529.92, "Central & Corporate Functions":12378.80}
 		}
 	},
 	"19483": {
