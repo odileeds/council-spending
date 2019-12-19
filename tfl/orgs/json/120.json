@@ -1,730 +1,510 @@
 {
-	"range": ["2013-04","2019-08"],
+	"range": ["2015-03","2019-03"],
 	"data": {
 	"6000": {
-		"name": "FIGARO CATERING LTD",
-		"total": 1300,
+		"name": "ICIS DESIGN LTD",
+		"alternate-names": [
+			"ICIS DESIGN LIMITED"
+		],
+		"total": 10050,
 		"monthly": {
-			"2018-07": {"total":1300.00, "TFL CORPORATE":1300.00}
+			"2016-07": {"total":4200.00, "LONDON UNDERGROUND LTD":4200.00},
+			"2017-01": {"total":1100.00, "LONDON UNDERGROUND LTD":1100.00},
+			"2017-03": {"total":1750.00, "LONDON UNDERGROUND LTD":1750.00},
+			"2017-04": {"total":1000.00, "LONDON UNDERGROUND LTD":1000.00},
+			"2017-05": {"total":2000.00, "LONDON UNDERGROUND LTD":2000.00}
 		}
 	},
 	"6001": {
-		"name": "FILE MAKER INTERNATIONAL",
-		"total": 483.6,
+		"name": "ICLEI EUROPEAN SECRETARIAT",
+		"total": 12129.49,
 		"monthly": {
-			"2016-04": {"total":483.60, "TUBE LINES LTD":483.60}
+			"2017-02": {"total":10336.89, "TFL CORPORATE":10336.89},
+			"2018-08": {"total":1792.60, "TFL CORPORATE":1792.60}
 		}
 	},
 	"6002": {
-		"name": "FILMTEK LTD",
-		"alternate-names": [
-			"FILMTEK LIMITED"
-		],
-		"total": 55940,
+		"name": "ICM (PLASTIC MOULDINGS) LTD",
+		"total": 6336.4,
 		"monthly": {
-			"2019-08": {"total":55940.00, "TRANSPORT TRADING LTD":55940.00}
+			"2015-05": {"total":595.00, "LUL NOMINEE SSL LIMITED":595.00},
+			"2015-08": {"total":595.00, "LUL NOMINEE SSL LIMITED":595.00},
+			"2016-08": {"total":974.40, "LUL NOMINEE SSL LIMITED":974.40},
+			"2017-08": {"total":609.00, "LUL NOMINEE SSL LIMITED":609.00},
+			"2017-12": {"total":1777.50, "LUL NOMINEE SSL LIMITED":1777.50},
+			"2018-08": {"total":1785.50, "LUL NOMINEE SSL LIMITED":1785.50}
 		}
 	},
 	"6003": {
-		"name": "FILTRATION CONTROL LTD",
-		"alternate-names": [
-			"FILTRATION CONTROL LTD."
-		],
-		"total": 4289.9,
+		"name": "ICOM UK LTD",
+		"total": 627.1,
 		"monthly": {
-			"2013-10": {"total":428.20, "unknown":428.20},
-			"2013-11": {"total":273.60, "unknown":273.60},
-			"2013-12": {"total":454.44, "unknown":454.44},
-			"2014-01": {"total":265.09, "unknown":265.09},
-			"2014-02": {"total":257.10, "unknown":257.10},
-			"2014-03": {"total":398.58, "unknown":398.58},
-			"2014-04": {"total":778.86, "DIAL A RIDE":778.86},
-			"2014-06": {"total":340.83, "DIAL A RIDE":340.83},
-			"2014-07": {"total":596.13, "DIAL A RIDE":596.13},
-			"2014-08": {"total":497.07, "DIAL A RIDE":497.07}
+			"2018-05": {"total":627.10, "DOCKLANDS LIGHT RAILWAY":627.10}
 		}
 	},
 	"6004": {
-		"name": "FILTRATION LTD",
-		"total": 44388.63,
+		"name": "ICOMERA UK LTD",
+		"total": 11610,
 		"monthly": {
-			"2013-04": {"total":1165.95, "unknown":1165.95},
-			"2013-06": {"total":945.95, "unknown":945.95},
-			"2013-11": {"total":1437.90, "unknown":1437.90},
-			"2013-12": {"total":3019.90, "unknown":3019.90},
-			"2014-02": {"total":491.95, "unknown":491.95},
-			"2014-06": {"total":1019.90, "LUL NOMINEE SSL LIMITED":1019.90},
-			"2014-07": {"total":491.95, "TUBE LINES LTD":491.95},
-			"2014-09": {"total":1156.65, "DIAL A RIDE":378.70, "LUL NOMINEE SSL LIMITED":777.95},
-			"2014-10": {"total":491.95, "TUBE LINES LTD":491.95},
-			"2014-11": {"total":1471.15, "DIAL A RIDE":461.20, "LUL NOMINEE BCV LIMITED":1009.95},
-			"2014-12": {"total":492.95, "TUBE LINES LTD":492.95},
-			"2015-01": {"total":1010.95, "LUL NOMINEE SSL LIMITED":1010.95},
-			"2015-03": {"total":1514.85, "LUL NOMINEE BCV LIMITED":510.95, "LUL NOMINEE SSL LIMITED":510.95, "TUBELINES LTD":492.95},
-			"2015-04": {"total":1042.27, "DIAL A RIDE":531.32, "LUL NOMINEE BCV LIMITED":510.95},
-			"2015-05": {"total":1003.90, "LUL NOMINEE SSL LIMITED":510.95, "TUBELINES LTD":492.95},
-			"2015-06": {"total":1253.74, "DIAL A RIDE":742.79, "LUL NOMINEE BCV LIMITED":510.95},
-			"2015-07": {"total":378.70, "DIAL A RIDE":378.70},
-			"2015-08": {"total":1003.90, "LUL NOMINEE BCV LIMITED":510.95, "TUBELINES LTD":492.95},
-			"2015-09": {"total":492.95, "TUBELINES LTD":492.95},
-			"2015-10": {"total":1729.52, "DIAL A RIDE":1218.57, "LUL NOMINEE BCV LIMITED":510.95},
-			"2015-11": {"total":510.95, "LUL NOMINEE BCV LIMITED":510.95},
-			"2015-12": {"total":261.62, "DIAL A RIDE":261.62},
-			"2016-01": {"total":1301.74, "DIAL A RIDE":790.79, "TUBELINES LTD":510.95},
-			"2016-02": {"total":2137.20, "DIAL A RIDE":615.30, "LUL NOMINEE BCV LIMITED":1010.95, "LUL NOMINEE SSL LIMITED":510.95},
-			"2016-03": {"total":578.45, "TUBELINES LTD":578.45},
-			"2016-04": {"total":662.04, "DIAL A RIDE":662.04},
-			"2016-06": {"total":1351.78, "DIAL A RIDE":340.83, "LUL NOMINEE BCV LIMITED":1010.95},
-			"2016-07": {"total":578.45, "TUBELINES LTD":578.45},
-			"2016-08": {"total":1375.79, "DIAL A RIDE":864.84, "TUBELINES LTD":510.95},
-			"2016-09": {"total":790.40, "DIAL A RIDE":790.40},
-			"2016-10": {"total":510.95, "TUBELINES LTD":510.95},
-			"2016-11": {"total":1010.95, "LUL NOMINEE BCV LIMITED":1010.95},
-			"2016-12": {"total":1238.60, "DIAL A RIDE":1238.60},
-			"2017-03": {"total":1673.25, "DIAL A RIDE":586.30, "LUL NOMINEE BCV LIMITED":1086.95},
-			"2017-05": {"total":1411.74, "DIAL A RIDE":389.84, "TUBELINES LTD":1021.90},
-			"2017-06": {"total":510.95, "TUBELINES LTD":510.95},
-			"2017-07": {"total":1086.95, "LUL NOMINEE BCV LIMITED":1086.95},
-			"2017-08": {"total":454.44, "DIAL A RIDE":454.44},
-			"2018-04": {"total":535.95, "TUBE LINES LTD":535.95},
-			"2018-06": {"total":575.95, "LUL NOMINEE BCV LIMITED":575.95},
-			"2018-07": {"total":575.95, "LUL NOMINEE BCV LIMITED":575.95},
-			"2018-08": {"total":535.95, "TUBE LINES LTD":535.95},
-			"2019-04": {"total":554.45, "TUBE LINES LTD":554.45},
-			"2019-05": {"total":559.90, "LUL NOMINEE BCV LIMITED":559.90},
-			"2019-07": {"total":1125.35, "LUL NOMINEE BCV LIMITED":570.90, "TUBE LINES LTD":554.45},
-			"2019-08": {"total":861.90, "LUL NOMINEE BCV LIMITED":861.90}
+			"2018-07": {"total":780.00, "RAIL FOR LONDON LIMITED":780.00},
+			"2019-03": {"total":10830.00, "TUBE LINES LTD":10830.00}
 		}
 	},
 	"6005": {
-		"name": "FINCHLEY CATHOLIC HIGH SCHOOL",
-		"total": 250,
+		"name": "ICON AEROSPACE TECHNOLOGY LTD",
+		"total": 33375,
 		"monthly": {
-			"2017-02": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00}
+			"2018-05": {"total":33375.00, "LUL NOMINEE SSL LIMITED":33375.00}
 		}
 	},
 	"6006": {
-		"name": "FIND DIGS LTD",
-		"total": 268.2,
+		"name": "ICON DISPLAY LTD",
+		"alternate-names": [
+			"ICON DISPLAY LIMITED"
+		],
+		"total": 4125,
 		"monthly": {
-			"2014-08": {"total":268.20, "TRANSPORT TRADING LTD":268.20}
+			"2015-04": {"total":4125.00, "DOCKLANDS LIGHT RAILWAY":4125.00}
 		}
 	},
 	"6007": {
-		"name": "FINDLAY IRVINE",
-		"total": 5464.98,
+		"name": "ICON POLYMER LTD",
+		"total": 664854.64,
 		"monthly": {
-			"2018-05": {"total":5464.98, "TUBE LINES LTD":5464.98}
+			"2015-05": {"total":72540.00, "LUL NOMINEE SSL LIMITED":14865.00, "TUBELINES LTD":57675.00},
+			"2015-06": {"total":97583.00, "LONDON UNDERGROUND LTD":15300.00, "LUL NOMINEE SSL LIMITED":11535.00, "TUBELINES LTD":70748.00},
+			"2015-07": {"total":109451.50, "LONDON UNDERGROUND LTD":29860.00, "TUBELINES LTD":79591.50},
+			"2015-08": {"total":11535.00, "LUL NOMINEE SSL LIMITED":11535.00},
+			"2015-09": {"total":62220.00, "LONDON UNDERGROUND LTD":50220.00, "LUL NOMINEE SSL LIMITED":12000.00},
+			"2015-10": {"total":36760.00, "LONDON UNDERGROUND LTD":11430.00, "LUL NOMINEE SSL LIMITED":25330.00},
+			"2015-11": {"total":30800.00, "LONDON UNDERGROUND LTD":10800.00, "LUL NOMINEE SSL LIMITED":20000.00},
+			"2015-12": {"total":3596.00, "LONDON UNDERGROUND LTD":1800.00, "LUL NOMINEE SSL LIMITED":1796.00},
+			"2016-01": {"total":10000.00, "LUL NOMINEE SSL LIMITED":10000.00},
+			"2016-03": {"total":10000.00, "LUL NOMINEE SSL LIMITED":10000.00},
+			"2016-05": {"total":10000.00, "LUL NOMINEE SSL LIMITED":10000.00},
+			"2016-06": {"total":10000.00, "LUL NOMINEE SSL LIMITED":10000.00},
+			"2016-07": {"total":22080.00, "LUL NOMINEE SSL LIMITED":22080.00},
+			"2016-10": {"total":26773.82, "LUL NOMINEE SSL LIMITED":26773.82},
+			"2016-11": {"total":12359.94, "LUL NOMINEE SSL LIMITED":12359.94},
+			"2016-12": {"total":4115.88, "LUL NOMINEE SSL LIMITED":4115.88},
+			"2017-01": {"total":6859.80, "LUL NOMINEE SSL LIMITED":6859.80},
+			"2017-04": {"total":10289.70, "LUL NOMINEE SSL LIMITED":10289.70},
+			"2017-08": {"total":17149.50, "LUL NOMINEE SSL LIMITED":17149.50},
+			"2018-06": {"total":9800.00, "LUL NOMINEE SSL LIMITED":9800.00},
+			"2018-08": {"total":345.00, "LUL NOMINEE BCV LIMITED":345.00},
+			"2018-09": {"total":11440.00, "LUL NOMINEE BCV LIMITED":11440.00},
+			"2018-10": {"total":32315.00, "LUL NOMINEE BCV LIMITED":10115.00, "LUL NOMINEE SSL LIMITED":22200.00},
+			"2018-11": {"total":35322.50, "LUL NOMINEE BCV LIMITED":18445.00, "LUL NOMINEE SSL LIMITED":16877.50},
+			"2019-01": {"total":10000.00, "LUL NOMINEE SSL LIMITED":10000.00},
+			"2019-02": {"total":759.00, "LUL NOMINEE BCV LIMITED":759.00},
+			"2019-03": {"total":759.00, "LUL NOMINEE BCV LIMITED":759.00}
 		}
 	},
 	"6008": {
-		"name": "FINDLAY IRVINE LTD",
-		"total": 33519.96,
+		"name": "ICORE INTERNATIONAL LTD",
+		"alternate-names": [
+			"ICORE INTERNATIONAL LTD."
+		],
+		"total": 7462,
 		"monthly": {
-			"2014-02": {"total":2211.00, "unknown":2211.00},
-			"2016-10": {"total":15645.00, "RAIL FOR LONDON LIMITED":15645.00},
-			"2017-01": {"total":5680.00, "RAIL FOR LONDON LIMITED":5680.00},
-			"2019-04": {"total":6586.48, "LONDON UNDERGROUND LTD":6586.48},
-			"2019-06": {"total":1289.50, "LONDON UNDERGROUND LTD":1289.50},
-			"2019-07": {"total":2107.98, "LONDON UNDERGROUND LTD":858.98, "SURFACE TRANSPORT CORP":1249.00}
+			"2018-08": {"total":7462.00, "LUL NOMINEE SSL LIMITED":7462.00}
 		}
 	},
 	"6009": {
-		"name": "FINDLAY MEDIA LTD",
-		"total": 590,
+		"name": "ICS LTD",
+		"alternate-names": [
+			"ICS LIMITED"
+		],
+		"total": 529,
 		"monthly": {
-			"2016-02": {"total":590.00, "LONDON UNDERGROUND LTD":590.00}
+			"2015-08": {"total":529.00, "TFL CORPORATE":529.00}
 		}
 	},
 	"6010": {
-		"name": "FINDMEACONFERENCE.COM",
-		"total": 716,
+		"name": "ICSA",
+		"total": 13010.67,
 		"monthly": {
-			"2015-06": {"total":716.00, "LT MUSEUM TRADING LTD":716.00}
+			"2015-06": {"total":2980.00, "TFL CORPORATE":2980.00},
+			"2016-03": {"total":1276.67, "TFL CORPORATE":1276.67},
+			"2016-04": {"total":2660.00, "TFL CORPORATE":2660.00},
+			"2017-02": {"total":774.00, "TFL CORPORATE":774.00},
+			"2017-04": {"total":2660.00, "TFL CORPORATE":2660.00},
+			"2018-06": {"total":2660.00, "TFL CORPORATE":2660.00}
 		}
 	},
 	"6011": {
-		"name": "FINE CONTROLS (UK)",
-		"total": 1188.94,
+		"name": "ID PROMOTIONAL SERVICES",
+		"total": 1137.5,
 		"monthly": {
-			"2015-06": {"total":1188.94, "LONDON TRANSPORT MUSEUM":1188.94}
+			"2016-07": {"total":1137.50, "LONDON UNDERGROUND LTD":1137.50}
 		}
 	},
 	"6012": {
-		"name": "FINE WOOD CARVING & GILDING LTD",
-		"total": 620,
+		"name": "IDBUS",
+		"total": 749351.96,
 		"monthly": {
-			"2014-06": {"total":620.00, "LONDON TRANSPORT MUSEUM":620.00}
+			"2015-04": {"total":12146.84, "VICTORIA COACH STATN LTD":12146.84},
+			"2015-05": {"total":13064.19, "VICTORIA COACH STATN LTD":13064.19},
+			"2015-06": {"total":11610.51, "VICTORIA COACH STATN LTD":11610.51},
+			"2015-07": {"total":11692.52, "VICTORIA COACH STATN LTD":11692.52},
+			"2015-08": {"total":10182.64, "VICTORIA COACH STATN LTD":10182.64},
+			"2015-09": {"total":9908.45, "VICTORIA COACH STATN LTD":9908.45},
+			"2015-10": {"total":9981.70, "VICTORIA COACH STATN LTD":9981.70},
+			"2015-11": {"total":14684.39, "VICTORIA COACH STATN LTD":14684.39},
+			"2015-12": {"total":13696.17, "VICTORIA COACH STATN LTD":13696.17},
+			"2016-01": {"total":16386.11, "VICTORIA COACH STATN LTD":16386.11},
+			"2016-02": {"total":11299.04, "VICTORIA COACH STATN LTD":11299.04},
+			"2016-03": {"total":27134.76, "VICTORIA COACH STATN LTD":27134.76},
+			"2016-04": {"total":13266.92, "VICTORIA COACH STATN LTD":13266.92},
+			"2016-07": {"total":35130.76, "VICTORIA COACH STATN LTD":35130.76},
+			"2016-09": {"total":58920.03, "VICTORIA COACH STATN LTD":58920.03},
+			"2016-10": {"total":15144.89, "VICTORIA COACH STATN LTD":15144.89},
+			"2016-11": {"total":22638.39, "VICTORIA COACH STATN LTD":22638.39},
+			"2016-12": {"total":19012.80, "VICTORIA COACH STATN LTD":19012.80},
+			"2017-01": {"total":31365.55, "VICTORIA COACH STATN LTD":31365.55},
+			"2017-03": {"total":13692.43, "VICTORIA COACH STATN LTD":13692.43},
+			"2017-04": {"total":15853.24, "VICTORIA COACH STATN LTD":15853.24},
+			"2017-05": {"total":15674.69, "VICTORIA COACH STATN LTD":15674.69},
+			"2017-06": {"total":29851.77, "VICTORIA COACH STATN LTD":29851.77},
+			"2017-07": {"total":9965.58, "VICTORIA COACH STATN LTD":9965.58},
+			"2017-09": {"total":44442.52, "VICTORIA COACH STATN LTD":44442.52},
+			"2017-11": {"total":6775.37, "VICTORIA COACH STATN LTD":6775.37},
+			"2017-12": {"total":13137.24, "VICTORIA COACH STATN LTD":13137.24},
+			"2018-01": {"total":17769.07, "VICTORIA COACH STATN LTD":17769.07},
+			"2018-05": {"total":74999.27, "VICTORIA COACH STATN LTD":74999.27},
+			"2018-06": {"total":24516.39, "VICTORIA COACH STATN LTD":24516.39},
+			"2018-07": {"total":15125.73, "VICTORIA COACH STATN LTD":15125.73},
+			"2018-08": {"total":42429.90, "VICTORIA COACH STATN LTD":42429.90},
+			"2019-01": {"total":67852.10, "VICTORIA COACH STATN LTD":67852.10}
 		}
 	},
 	"6013": {
-		"name": "FINECAST FOUNDRY LTD",
-		"total": 230676.45,
+		"name": "IDEASBYNET",
+		"total": 1450.45,
 		"monthly": {
-			"2013-04": {"total":14125.00, "unknown":14125.00},
-			"2013-06": {"total":15045.00, "unknown":15045.00},
-			"2013-07": {"total":4635.00, "unknown":4635.00},
-			"2013-08": {"total":2767.96, "unknown":2767.96},
-			"2013-09": {"total":5775.00, "unknown":5775.00},
-			"2013-12": {"total":10428.80, "unknown":10428.80},
-			"2014-01": {"total":2767.96, "unknown":2767.96},
-			"2014-03": {"total":11587.60, "unknown":11587.60},
-			"2014-10": {"total":3760.35, "LUL NOMINEE BCV LIMITED":3760.35},
-			"2014-11": {"total":2896.90, "LUL NOMINEE BCV LIMITED":2896.90},
-			"2014-12": {"total":5793.80, "LUL NOMINEE BCV LIMITED":5793.80},
-			"2015-01": {"total":22715.10, "LUL NOMINEE BCV LIMITED":7333.90, "LUL NOMINEE SSL LIMITED":15381.20},
-			"2015-02": {"total":9201.80, "LUL NOMINEE BCV LIMITED":5793.80, "LUL NOMINEE SSL LIMITED":3408.00},
-			"2015-03": {"total":12294.90, "LUL NOMINEE BCV LIMITED":2896.90, "LUL NOMINEE SSL LIMITED":9398.00},
-			"2015-04": {"total":17210.00, "LUL NOMINEE SSL LIMITED":17210.00},
-			"2015-08": {"total":5780.00, "LONDON UNDERGROUND LTD":4250.00, "LUL NOMINEE BCV LIMITED":1530.00},
-			"2015-09": {"total":2210.00, "LUL NOMINEE BCV LIMITED":2210.00},
-			"2015-10": {"total":1530.00, "LUL NOMINEE BCV LIMITED":1530.00},
-			"2015-12": {"total":1377.00, "LUL NOMINEE BCV LIMITED":1377.00},
-			"2016-05": {"total":22529.00, "LUL NOMINEE SSL LIMITED":22529.00},
-			"2016-06": {"total":12516.00, "LUL NOMINEE SSL LIMITED":12516.00},
-			"2016-08": {"total":11496.00, "LUL NOMINEE SSL LIMITED":11496.00},
-			"2016-09": {"total":3639.00, "LUL NOMINEE BCV LIMITED":1700.00, "LUL NOMINEE SSL LIMITED":1939.00},
-			"2016-10": {"total":11634.00, "LUL NOMINEE SSL LIMITED":11634.00},
-			"2016-11": {"total":16960.28, "LUL NOMINEE BCV LIMITED":4155.00, "LUL NOMINEE SSL LIMITED":12805.28}
+			"2016-03": {"total":486.75, "LONDON UNDERGROUND LTD":486.75},
+			"2016-07": {"total":359.70, "SURFACE TRANSPORT CORP":359.70},
+			"2017-06": {"total":302.00, "SURFACE TRANSPORT CORP":302.00},
+			"2018-07": {"total":302.00, "TFL CORPORATE":302.00}
 		}
 	},
 	"6014": {
-		"name": "FINNAIR     1052459765431",
-		"total": 142.4,
+		"name": "IDEASBYNET.COM",
+		"total": 1628.4,
 		"monthly": {
-			"2017-06": {"total":142.40, "VICTORIA COACH STATN LTD":142.40}
+			"2015-06": {"total":326.40, "SURFACE TRANSPORT CORP":326.40},
+			"2016-02": {"total":1302.00, "SURFACE TRANSPORT CORP":1302.00}
 		}
 	},
 	"6015": {
-		"name": "FINNING UK LTD",
-		"total": 20505.24,
+		"name": "IDEC ELECTRONICS LTD",
+		"total": 7977.65,
 		"monthly": {
-			"2015-05": {"total":805.00, "RAIL FOR LONDON LIMITED":805.00},
-			"2015-08": {"total":349.00, "RAIL FOR LONDON LIMITED":349.00},
-			"2015-09": {"total":349.00, "RAIL FOR LONDON LIMITED":349.00},
-			"2015-11": {"total":349.00, "RAIL FOR LONDON LIMITED":349.00},
-			"2016-01": {"total":805.00, "RAIL FOR LONDON LIMITED":805.00},
-			"2016-03": {"total":788.00, "RAIL FOR LONDON LIMITED":788.00},
-			"2016-05": {"total":788.00, "RAIL FOR LONDON LIMITED":788.00},
-			"2016-07": {"total":788.00, "RAIL FOR LONDON LIMITED":788.00},
-			"2016-11": {"total":788.00, "RAIL FOR LONDON LIMITED":788.00},
-			"2016-12": {"total":2278.68, "RAIL FOR LONDON LIMITED":788.00, "TUBELINES LTD":1490.68},
-			"2017-03": {"total":815.50, "RAIL FOR LONDON LIMITED":815.50},
-			"2017-04": {"total":815.50, "RAIL FOR LONDON LIMITED":815.50},
-			"2017-06": {"total":815.50, "RAIL FOR LONDON LIMITED":815.50},
-			"2017-08": {"total":1705.26, "TUBELINES LTD":1705.26},
-			"2019-06": {"total":8265.80, "RAIL FOR LONDON LIMITED":8265.80}
+			"2015-07": {"total":4065.70, "TUBELINES LTD":4065.70},
+			"2015-10": {"total":3911.95, "TUBE LINES LTD":3081.00, "TUBELINES LTD":830.95}
 		}
 	},
 	"6016": {
-		"name": "FIONA CANBY",
-		"total": 57638.4,
+		"name": "IDENTILAM PLC",
+		"total": 1544,
 		"monthly": {
-			"2013-11": {"total":10684.80, "unknown":10684.80},
-			"2013-12": {"total":1260.00, "unknown":1260.00},
-			"2014-01": {"total":3757.20, "unknown":3757.20},
-			"2014-05": {"total":6131.40, "TFL CORPORATE":6131.40},
-			"2018-04": {"total":780.00, "LONDON BUS SERVICES LTD":780.00},
-			"2019-05": {"total":3330.00, "SURFACE TRANSPORT CORP":2160.00, "TFL CORPORATE":1170.00},
-			"2019-06": {"total":14490.00, "SURFACE TRANSPORT CORP":14490.00},
-			"2019-07": {"total":17205.00, "SURFACE TRANSPORT CORP":17205.00}
+			"2015-07": {"total":1544.00, "TUBELINES LTD":1544.00}
 		}
 	},
 	"6017": {
-		"name": "FIP PTY LTD",
-		"total": 53820,
+		"name": "IDM TRAINING LTD",
+		"total": 714,
 		"monthly": {
-			"2013-06": {"total":39060.00, "unknown":39060.00},
-			"2013-10": {"total":14760.00, "unknown":14760.00}
+			"2016-03": {"total":714.00, "TFL CORPORATE":714.00}
 		}
 	},
 	"6018": {
-		"name": "FIRA INTERNATIONAL LTD",
-		"total": 33100,
+		"name": "IEC",
+		"total": 438.17,
 		"monthly": {
-			"2014-02": {"total":600.00, "unknown":600.00},
-			"2015-04": {"total":600.00, "TRANSPORT TRADING LTD":600.00},
-			"2015-07": {"total":700.00, "TRANSPORT TRADING LTD":700.00},
-			"2016-02": {"total":650.00, "TRANSPORT TRADING LTD":650.00},
-			"2016-04": {"total":29900.00, "TRANSPORT TRADING LTD":29900.00},
-			"2017-07": {"total":650.00, "TRANSPORT TRADING LTD":650.00}
+			"2016-03": {"total":438.17, "LONDON UNDERGROUND LTD":438.17}
 		}
 	},
 	"6019": {
-		"name": "FIRE & SAFETY (LONDON) LTD",
+		"name": "IEC LTD",
 		"alternate-names": [
-			"FIRE & SAFETY (LONDON) LTD."
+			"IEC LIMITED"
 		],
-		"total": 29325,
+		"total": 18576.6,
 		"monthly": {
-			"2014-10": {"total":1725.00, "DOCKLANDS LIGHT RAILWAY":1725.00},
-			"2015-05": {"total":975.00, "DOCKLANDS LIGHT RAILWAY":975.00},
-			"2015-08": {"total":825.00, "DOCKLANDS LIGHT RAILWAY":825.00},
-			"2015-09": {"total":825.00, "DOCKLANDS LIGHT RAILWAY":825.00},
-			"2015-10": {"total":375.00, "DOCKLANDS LIGHT RAILWAY":375.00},
-			"2015-11": {"total":525.00, "DOCKLANDS LIGHT RAILWAY":525.00},
-			"2015-12": {"total":3600.00, "LONDON UNDERGROUND LTD":3600.00},
-			"2016-01": {"total":675.00, "DOCKLANDS LIGHT RAILWAY":675.00},
-			"2016-06": {"total":3675.00, "LONDON UNDERGROUND LTD":3675.00},
-			"2016-08": {"total":525.00, "LONDON UNDERGROUND LTD":525.00},
-			"2016-12": {"total":1275.00, "LONDON UNDERGROUND LTD":1275.00},
-			"2017-01": {"total":1350.00, "DOCKLANDS LIGHT RAILWAY":1350.00},
-			"2017-03": {"total":975.00, "LONDON UNDERGROUND LTD":975.00},
-			"2017-05": {"total":2250.00, "TRANSPORT TRADING LTD":2250.00},
-			"2017-06": {"total":3000.00, "TRANSPORT TRADING LTD":3000.00},
-			"2017-07": {"total":3000.00, "TRANSPORT TRADING LTD":3000.00},
-			"2017-08": {"total":3750.00, "TRANSPORT TRADING LTD":3750.00}
+			"2015-06": {"total":791.10, "LUL NOMINEE BCV LIMITED":791.10},
+			"2015-09": {"total":3515.00, "TUBELINES LTD":3515.00},
+			"2016-07": {"total":4530.00, "TUBELINES LTD":4530.00},
+			"2017-02": {"total":366.00, "LUL NOMINEE BCV LIMITED":366.00},
+			"2017-03": {"total":4735.00, "TUBELINES LTD":4735.00},
+			"2017-09": {"total":915.00, "LUL NOMINEE BCV LIMITED":915.00},
+			"2018-05": {"total":2992.50, "TUBE LINES LTD":2992.50},
+			"2018-12": {"total":366.00, "LUL NOMINEE BCV LIMITED":366.00},
+			"2019-03": {"total":366.00, "LUL NOMINEE BCV LIMITED":366.00}
 		}
 	},
 	"6020": {
-		"name": "FIRE COVER LTD",
-		"total": 33579.64,
+		"name": "IED EDUCATION TRUST LT",
+		"total": 100,
 		"monthly": {
-			"2013-04": {"total":2082.00, "unknown":2082.00},
-			"2013-08": {"total":985.20, "unknown":985.20},
-			"2013-10": {"total":956.50, "unknown":956.50},
-			"2014-03": {"total":775.50, "unknown":775.50},
-			"2014-08": {"total":1379.00, "TRANSPORT TRADING LTD":1379.00},
-			"2014-09": {"total":605.00, "TRANSPORT TRADING LTD":605.00},
-			"2014-12": {"total":675.00, "TRANSPORT TRADING LTD":675.00},
-			"2015-01": {"total":465.00, "TRANSPORT TRADING LTD":465.00},
-			"2015-03": {"total":1911.35, "TRANSPORT TRADING LTD":1911.35},
-			"2015-04": {"total":1704.50, "TRANSPORT TRADING LTD":1704.50},
-			"2015-09": {"total":752.50, "TRANSPORT TRADING LTD":752.50},
-			"2015-12": {"total":262.00, "TRANSPORT TRADING LTD":262.00},
-			"2016-03": {"total":453.50, "TRANSPORT TRADING LTD":453.50},
-			"2016-07": {"total":323.00, "TRANSPORT TRADING LTD":323.00},
-			"2016-11": {"total":4759.09, "TRANSPORT TRADING LTD":4759.09},
-			"2017-01": {"total":745.00, "TRANSPORT TRADING LTD":745.00},
-			"2017-02": {"total":2485.95, "TRANSPORT TRADING LTD":2485.95},
-			"2017-03": {"total":2342.50, "TRANSPORT TRADING LTD":2342.50},
-			"2017-04": {"total":2231.00, "TRANSPORT TRADING LTD":2231.00},
-			"2017-05": {"total":537.25, "TRANSPORT TRADING LTD":537.25},
-			"2017-06": {"total":609.10, "TRANSPORT TRADING LTD":609.10},
-			"2017-07": {"total":1135.45, "TRANSPORT TRADING LTD":1135.45},
-			"2018-05": {"total":1099.10, "TRANSPORT TRADING LTD":1099.10},
-			"2018-07": {"total":333.70, "TRANSPORT TRADING LTD":333.70},
-			"2018-08": {"total":3097.50, "LONDON UNDERGROUND LTD":799.50, "TRANSPORT TRADING LTD":2298.00},
-			"2019-06": {"total":873.95, "TRANSPORT TRADING LTD":873.95}
+			"2015-08": {"total":100.00, "TFL CORPORATE":100.00}
 		}
 	},
 	"6021": {
-		"name": "FIRE INDUSTRY ASSOCIATION",
-		"total": 14400,
+		"name": "IEEE PRODUCTS & SERVICES",
+		"total": 24.4,
 		"monthly": {
-			"2019-05": {"total":14400.00, "RAIL FOR LONDON LIMITED":14400.00}
+			"2015-08": {"total":24.40, "LONDON UNDERGROUND LTD":24.40}
 		}
 	},
 	"6022": {
-		"name": "FIRE INTEGRITY LTD",
-		"alternate-names": [
-			"FIRE INTEGRITY LIMITED"
-		],
-		"total": 476.9,
+		"name": "IEHF",
+		"total": 154.8,
 		"monthly": {
-			"2017-05": {"total":476.90, "LONDON UNDERGROUND LTD":476.90}
+			"2015-10": {"total":154.80, "TFL CORPORATE":154.80}
 		}
 	},
 	"6023": {
-		"name": "FIRE INVESTIGATIONS (UK) LLP",
-		"total": 2123.04,
+		"name": "IEMASTS",
+		"total": 500,
 		"monthly": {
-			"2015-12": {"total":2123.04, "LONDON UNDERGROUND LTD":2123.04}
+			"2015-05": {"total":200.00, "TFL CORPORATE":200.00},
+			"2015-11": {"total":300.00, "TFL CORPORATE":300.00}
 		}
 	},
 	"6024": {
-		"name": "FIRE PROTECTION & MANAGEMENT LTD",
-		"total": 68182,
+		"name": "IES LTD",
+		"total": 7146.24,
 		"monthly": {
-			"2013-09": {"total":410.40, "unknown":410.40},
-			"2014-04": {"total":27049.00, "TUBE LINES LTD":27049.00},
-			"2014-06": {"total":550.60, "TUBE LINES LTD":550.60},
-			"2014-07": {"total":21551.00, "TUBE LINES LTD":21551.00},
-			"2014-09": {"total":1165.20, "TUBE LINES LTD":1165.20},
-			"2014-10": {"total":381.60, "TUBE LINES LTD":381.60},
-			"2014-11": {"total":350.00, "TUBE LINES LTD":350.00},
-			"2014-12": {"total":305.80, "TUBE LINES LTD":305.80},
-			"2015-06": {"total":350.00, "TUBELINES LTD":350.00},
-			"2015-07": {"total":795.00, "TUBELINES LTD":795.00},
-			"2015-09": {"total":714.80, "TUBELINES LTD":714.80},
-			"2015-10": {"total":488.20, "TUBE LINES LTD":488.20},
-			"2015-12": {"total":350.00, "TUBELINES LTD":350.00},
-			"2016-04": {"total":1506.60, "TUBELINES LTD":1506.60},
-			"2016-07": {"total":350.00, "TUBELINES LTD":350.00},
-			"2016-09": {"total":1694.60, "TUBELINES LTD":1694.60},
-			"2016-11": {"total":471.40, "TUBELINES LTD":471.40},
-			"2017-03": {"total":779.80, "TUBELINES LTD":779.80},
-			"2017-05": {"total":389.60, "TUBELINES LTD":389.60},
-			"2017-08": {"total":611.40, "TUBELINES LTD":611.40},
-			"2018-07": {"total":6972.00, "TUBE LINES LTD":6972.00},
-			"2019-04": {"total":567.00, "TUBE LINES LTD":567.00},
-			"2019-07": {"total":378.00, "TUBE LINES LTD":378.00}
+			"2018-07": {"total":7146.24, "TUBE LINES LTD":7146.24}
 		}
 	},
 	"6025": {
-		"name": "FIRE PROTECTION ASSOCIATION",
-		"total": 30552.5,
+		"name": "IET EVENTS",
+		"total": 8570.4,
 		"monthly": {
-			"2014-04": {"total":673.50, "LONDON TRANSPORT MUSEUM":673.50},
-			"2014-05": {"total":4995.00, "TUBE LINES LTD":4995.00},
-			"2014-07": {"total":6600.00, "TUBE LINES LTD":6600.00},
-			"2014-09": {"total":1240.00, "LONDON TRANSPORT MUSEUM":1240.00},
-			"2014-10": {"total":3000.00, "TUBE LINES LTD":3000.00},
-			"2015-03": {"total":2265.00, "TFL CORPORATE":2265.00},
-			"2015-05": {"total":540.00, "TFL CORPORATE":540.00},
-			"2015-06": {"total":2634.00, "TFL CORPORATE":335.00, "TUBELINES LTD":2299.00},
-			"2015-10": {"total":3375.00, "TUBELINES LTD":3375.00},
-			"2016-12": {"total":1980.00, "LONDON TRANSPORT MUSEUM":1980.00},
-			"2017-02": {"total":1890.00, "TUBELINES LTD":1890.00},
-			"2017-07": {"total":1360.00, "SURFACE TRANSPORT CORP":1360.00}
+			"2015-04": {"total":120.00, "TFL CORPORATE":120.00},
+			"2016-02": {"total":600.00, "TFL CORPORATE":600.00},
+			"2016-03": {"total":714.00, "TFL CORPORATE":714.00},
+			"2016-04": {"total":2858.40, "TFL CORPORATE":1899.60, "TUBE LINES LTD":958.80},
+			"2016-05": {"total":430.80, "TFL CORPORATE":430.80},
+			"2016-07": {"total":1800.00, "TFL CORPORATE":1800.00},
+			"2016-11": {"total":430.80, "TFL CORPORATE":430.80},
+			"2017-08": {"total":957.60, "TUBE LINES LTD":957.60},
+			"2018-08": {"total":658.80, "TFL CORPORATE":658.80}
 		}
 	},
 	"6026": {
-		"name": "FIRE PROTECTION TRAINING",
-		"total": 744,
+		"name": "IF CARDBOARD CREATIONS LTD",
+		"total": 2085,
 		"monthly": {
-			"2017-02": {"total":744.00, "TUBE LINES LTD":744.00}
+			"2015-07": {"total":330.00, "LT MUSEUM TRADING LTD":330.00},
+			"2015-12": {"total":315.00, "LT MUSEUM TRADING LTD":315.00},
+			"2016-07": {"total":720.00, "LT MUSEUM TRADING LTD":720.00},
+			"2017-02": {"total":720.00, "LT MUSEUM TRADING LTD":720.00}
 		}
 	},
 	"6027": {
-		"name": "FIRE RISK PREVENTION AGENCY LTD",
-		"alternate-names": [
-			"FIRE RISK PREVENTION AGENCY LIMITED"
-		],
-		"total": 1702.5,
+		"name": "IFM-ECS",
+		"total": 570,
 		"monthly": {
-			"2017-05": {"total":1702.50, "TRANSPORT TRADING LTD":1702.50}
+			"2015-08": {"total":570.00, "TFL CORPORATE":570.00}
 		}
 	},
 	"6028": {
-		"name": "FIRE SECURITY SERVICES",
-		"total": 149.4,
+		"name": "IG WATTEEUW CR S.R.O",
+		"alternate-names": [
+			"IG WATTEEUW CR S.R.O."
+		],
+		"total": 10348.87,
 		"monthly": {
-			"2015-10": {"total":149.40, "TUBE LINES LTD":149.40}
+			"2019-01": {"total":10348.87, "LUL NOMINEE BCV LIMITED":10348.87}
 		}
 	},
 	"6029": {
-		"name": "FIRE SERVICE COLLEGE",
-		"total": 11865,
+		"name": "IGE ENERGY SERVICES (UK) LTD",
+		"total": 7125.13,
 		"monthly": {
-			"2013-08": {"total":3390.00, "unknown":3390.00},
-			"2013-10": {"total":8475.00, "unknown":8475.00}
+			"2015-04": {"total":7125.13, "LONDON UNDERGROUND LTD":7125.13}
 		}
 	},
 	"6030": {
-		"name": "FIRE SYSTEMS LTD",
-		"total": 150292.62,
+		"name": "IGIGLOBAL",
+		"total": 20.33,
 		"monthly": {
-			"2013-10": {"total":700.00, "unknown":700.00},
-			"2013-11": {"total":300.00, "unknown":300.00},
-			"2013-12": {"total":5000.85, "unknown":5000.85},
-			"2014-01": {"total":935.25, "unknown":935.25},
-			"2014-02": {"total":2714.40, "unknown":2714.40},
-			"2014-06": {"total":14222.65, "LONDON UNDERGROUND LTD":14222.65},
-			"2014-07": {"total":4552.10, "LONDON UNDERGROUND LTD":4552.10},
-			"2014-08": {"total":286.00, "LONDON UNDERGROUND LTD":286.00},
-			"2014-11": {"total":4552.10, "LONDON UNDERGROUND LTD":4552.10},
-			"2014-12": {"total":3240.00, "LONDON UNDERGROUND LTD":3240.00},
-			"2015-02": {"total":895.38, "LONDON UNDERGROUND LTD":895.38},
-			"2015-03": {"total":863.05, "LONDON UNDERGROUND LTD":863.05},
-			"2015-04": {"total":4552.10, "LONDON UNDERGROUND LTD":4552.10},
-			"2015-05": {"total":5234.92, "LONDON UNDERGROUND LTD":5234.92},
-			"2015-06": {"total":636.45, "LONDON UNDERGROUND LTD":636.45},
-			"2015-07": {"total":556.88, "LONDON UNDERGROUND LTD":556.88},
-			"2015-08": {"total":5773.56, "LONDON UNDERGROUND LTD":5773.56},
-			"2015-09": {"total":574.67, "LONDON UNDERGROUND LTD":574.67},
-			"2015-12": {"total":6033.56, "LONDON UNDERGROUND LTD":6033.56},
-			"2016-02": {"total":287.51, "LONDON UNDERGROUND LTD":287.51},
-			"2016-03": {"total":8572.70, "LONDON UNDERGROUND LTD":8572.70},
-			"2016-05": {"total":1200.00, "LONDON UNDERGROUND LTD":1200.00},
-			"2016-07": {"total":5773.56, "LONDON UNDERGROUND LTD":5773.56},
-			"2016-09": {"total":40117.17, "LONDON UNDERGROUND LTD":40117.17},
-			"2016-11": {"total":5773.56, "LONDON UNDERGROUND LTD":5773.56},
-			"2017-01": {"total":3845.74, "LONDON UNDERGROUND LTD":3845.74},
-			"2017-02": {"total":1681.43, "LONDON UNDERGROUND LTD":1681.43},
-			"2017-03": {"total":9544.91, "LONDON UNDERGROUND LTD":9544.91},
-			"2017-05": {"total":5773.56, "LONDON UNDERGROUND LTD":5773.56},
-			"2017-06": {"total":325.00, "LONDON UNDERGROUND LTD":325.00},
-			"2017-07": {"total":5773.56, "LONDON UNDERGROUND LTD":5773.56}
+			"2015-11": {"total":20.33, "LONDON UNDERGROUND LTD":20.33}
 		}
 	},
 	"6031": {
-		"name": "FIREBLITZ EXTINGUISHER",
-		"total": 12351.18,
+		"name": "IGS FOODS LTD",
+		"total": 388.44,
 		"monthly": {
-			"2013-08": {"total":312.26, "unknown":312.26},
-			"2013-10": {"total":1083.05, "unknown":1083.05},
-			"2014-01": {"total":1187.00, "unknown":1187.00},
-			"2014-02": {"total":428.40, "unknown":428.40},
-			"2014-03": {"total":324.27, "unknown":324.27},
-			"2014-04": {"total":2217.50, "TUBE LINES LTD":2217.50},
-			"2014-07": {"total":1355.70, "TUBE LINES LTD":1355.70},
-			"2014-10": {"total":415.80, "TUBE LINES LTD":415.80},
-			"2014-11": {"total":4220.80, "TUBE LINES LTD":4220.80},
-			"2014-12": {"total":806.40, "TUBE LINES LTD":806.40}
+			"2017-07": {"total":388.44, "TRANSPORT TRADING LTD":388.44}
 		}
 	},
 	"6032": {
-		"name": "FIREBLITZ EXTINGUISHER LTD",
-		"total": 66446.26,
+		"name": "IGUZZINI ILLUMINAZIONE UK LTD",
+		"total": 5398.31,
 		"monthly": {
-			"2013-05": {"total":1688.40, "unknown":1688.40},
-			"2013-06": {"total":604.80, "unknown":604.80},
-			"2013-07": {"total":705.60, "unknown":705.60},
-			"2013-08": {"total":577.56, "unknown":577.56},
-			"2013-09": {"total":1416.20, "unknown":1416.20},
-			"2013-10": {"total":567.00, "unknown":567.00},
-			"2013-11": {"total":315.00, "unknown":315.00},
-			"2013-12": {"total":882.00, "unknown":882.00},
-			"2014-01": {"total":302.40, "unknown":302.40},
-			"2014-03": {"total":1625.40, "unknown":1625.40},
-			"2014-04": {"total":1171.80, "LUL NOMINEE BCV LIMITED":277.20, "LUL NOMINEE SSL LIMITED":894.60},
-			"2014-06": {"total":252.00, "LUL NOMINEE SSL LIMITED":252.00},
-			"2014-07": {"total":2217.60, "LUL NOMINEE BCV LIMITED":302.40, "LUL NOMINEE SSL LIMITED":1915.20},
-			"2014-08": {"total":3616.10, "LUL NOMINEE BCV LIMITED":567.00, "LUL NOMINEE SSL LIMITED":2759.30, "TUBE LINES LTD":289.80},
-			"2014-10": {"total":793.80, "LUL NOMINEE BCV LIMITED":289.80, "LUL NOMINEE SSL LIMITED":504.00},
-			"2014-12": {"total":504.00, "LUL NOMINEE SSL LIMITED":504.00},
-			"2015-02": {"total":579.60, "LUL NOMINEE BCV LIMITED":579.60},
-			"2015-03": {"total":2066.40, "LUL NOMINEE BCV LIMITED":315.00, "LUL NOMINEE SSL LIMITED":844.20, "TUBELINES LTD":907.20},
-			"2015-04": {"total":504.00, "LUL NOMINEE SSL LIMITED":504.00},
-			"2015-05": {"total":1827.00, "LUL NOMINEE BCV LIMITED":315.00, "LUL NOMINEE SSL LIMITED":1045.80, "TUBELINES LTD":466.20},
-			"2015-06": {"total":1171.80, "LUL NOMINEE BCV LIMITED":289.80, "LUL NOMINEE SSL LIMITED":882.00},
-			"2015-08": {"total":466.20, "TUBELINES LTD":466.20},
-			"2015-09": {"total":2255.40, "LUL NOMINEE BCV LIMITED":252.00, "LUL NOMINEE SSL LIMITED":1197.00, "TUBELINES LTD":806.40},
-			"2015-10": {"total":403.20, "LUL NOMINEE BCV LIMITED":403.20},
-			"2015-11": {"total":617.40, "LUL NOMINEE SSL LIMITED":617.40},
-			"2015-12": {"total":1058.40, "LUL NOMINEE SSL LIMITED":428.40, "TUBELINES LTD":630.00},
-			"2016-01": {"total":3313.70, "LONDON UNDERGROUND LTD":1776.50, "LUL NOMINEE BCV LIMITED":302.40, "LUL NOMINEE SSL LIMITED":806.40, "TUBELINES LTD":428.40},
-			"2016-02": {"total":1537.20, "LUL NOMINEE SSL LIMITED":1537.20},
-			"2016-03": {"total":3233.00, "LONDON UNDERGROUND LTD":1776.50, "LUL NOMINEE SSL LIMITED":1456.50},
-			"2016-04": {"total":957.60, "LUL NOMINEE BCV LIMITED":252.00, "TUBELINES LTD":705.60},
-			"2016-05": {"total":466.20, "TUBELINES LTD":466.20},
-			"2016-06": {"total":3061.70, "LONDON UNDERGROUND LTD":1776.50, "LUL NOMINEE SSL LIMITED":1285.20},
-			"2016-07": {"total":289.80, "LUL NOMINEE BCV LIMITED":289.80},
-			"2016-08": {"total":1348.20, "LUL NOMINEE SSL LIMITED":970.20, "TUBELINES LTD":378.00},
-			"2016-09": {"total":1776.60, "LUL NOMINEE BCV LIMITED":302.40, "LUL NOMINEE SSL LIMITED":995.40, "TUBELINES LTD":478.80},
-			"2016-10": {"total":1716.10, "LUL NOMINEE BCV LIMITED":252.00, "LUL NOMINEE SSL LIMITED":730.80, "TUBELINES LTD":733.30},
-			"2016-11": {"total":1776.50, "TUBELINES LTD":1776.50},
-			"2017-01": {"total":1083.60, "LUL NOMINEE SSL LIMITED":390.60, "TUBELINES LTD":693.00},
-			"2017-03": {"total":1764.00, "LUL NOMINEE SSL LIMITED":1486.80, "TUBELINES LTD":277.20},
-			"2017-04": {"total":504.00, "LUL NOMINEE SSL LIMITED":504.00},
-			"2017-05": {"total":2096.60, "LUL NOMINEE BCV LIMITED":710.60, "LUL NOMINEE SSL LIMITED":1134.00, "TUBELINES LTD":252.00},
-			"2017-06": {"total":252.00, "TUBELINES LTD":252.00},
-			"2017-07": {"total":1161.70, "LUL NOMINEE BCV LIMITED":355.30, "LUL NOMINEE SSL LIMITED":806.40},
-			"2017-08": {"total":2796.30, "LUL NOMINEE SSL LIMITED":919.80, "TUBELINES LTD":1876.50},
-			"2018-04": {"total":1171.80, "LUL NOMINEE BCV LIMITED":252.00, "LUL NOMINEE SSL LIMITED":567.00, "TUBE LINES LTD":352.80},
-			"2018-05": {"total":277.20, "LUL NOMINEE SSL LIMITED":277.20},
-			"2018-06": {"total":2305.80, "LUL NOMINEE SSL LIMITED":1877.40, "TUBE LINES LTD":428.40},
-			"2018-07": {"total":819.00, "TUBE LINES LTD":819.00},
-			"2019-04": {"total":264.60, "TUBE LINES LTD":264.60},
-			"2019-05": {"total":1121.40, "LUL NOMINEE SSL LIMITED":504.00, "TUBE LINES LTD":617.40},
-			"2019-06": {"total":1247.40, "LUL NOMINEE BCV LIMITED":340.20, "LUL NOMINEE SSL LIMITED":592.20, "TUBE LINES LTD":315.00},
-			"2019-07": {"total":781.20, "LUL NOMINEE SSL LIMITED":781.20},
-			"2019-08": {"total":1134.00, "LUL NOMINEE SSL LIMITED":869.40, "TUBE LINES LTD":264.60}
+			"2016-04": {"total":5398.31, "LONDON UNDERGROUND LTD":5398.31}
 		}
 	},
 	"6033": {
-		"name": "FIREBRAND TRAINING LTD",
-		"total": 140247.41,
+		"name": "IGX GLOBAL UK LTD",
+		"alternate-names": [
+			"IGX GLOBAL UK LIMITED"
+		],
+		"total": 77424.74,
 		"monthly": {
-			"2015-05": {"total":66137.50, "LONDON UNDERGROUND LTD":66137.50},
-			"2015-07": {"total":1755.00, "TFL CORPORATE":1755.00},
-			"2018-04": {"total":5050.00, "TFL CORPORATE":5050.00},
-			"2018-06": {"total":33664.50, "TFL CORPORATE":33664.50},
-			"2018-07": {"total":12600.00, "TFL CORPORATE":12600.00},
-			"2019-04": {"total":19750.00, "LONDON UNDERGROUND LTD":19750.00},
-			"2019-05": {"total":348.00, "TFL CORPORATE":348.00},
-			"2019-06": {"total":670.41, "TFL CORPORATE":670.41},
-			"2019-07": {"total":272.00, "TFL CORPORATE":272.00}
+			"2016-07": {"total":58353.93, "LONDON UNDERGROUND LTD":58353.93},
+			"2017-04": {"total":9600.00, "LONDON UNDERGROUND LTD":9600.00},
+			"2018-05": {"total":3574.72, "LONDON UNDERGROUND LTD":3574.72},
+			"2019-03": {"total":5896.09, "LONDON UNDERGROUND LTD":5896.09}
 		}
 	},
 	"6034": {
-		"name": "FIRECO LTD",
-		"total": 533.33,
+		"name": "IHBC ENTERPRISES",
+		"total": 531.48,
 		"monthly": {
-			"2019-07": {"total":533.33, "TRANSPORT TRADING LTD":533.33}
+			"2017-06": {"total":531.48, "TFL CORPORATE":531.48}
 		}
 	},
 	"6035": {
-		"name": "FIREMARK LTD",
-		"alternate-names": [
-			"FIREMARK LIMITED"
-		],
-		"total": 19365.5,
+		"name": "IHBC ENTERPRISES LTD",
+		"total": 103,
 		"monthly": {
-			"2013-10": {"total":2546.65, "unknown":2546.65},
-			"2013-12": {"total":360.00, "unknown":360.00},
-			"2014-02": {"total":2250.00, "unknown":2250.00},
-			"2014-05": {"total":1052.60, "LONDON UNDERGROUND LTD":1052.60},
-			"2014-06": {"total":9426.25, "LONDON UNDERGROUND LTD":9426.25},
-			"2014-11": {"total":3730.00, "LONDON UNDERGROUND LTD":3730.00}
+			"2018-03": {"total":103.00, "TFL CORPORATE":103.00}
 		}
 	},
 	"6036": {
-		"name": "FIREQUEST UK LTD",
+		"name": "IHS (GLOBAL) LTD",
 		"alternate-names": [
-			"FIREQUEST UK LIMITED"
+			"IHS (GLOBAL) LIMITED"
 		],
-		"total": 350,
+		"total": 4470.43,
 		"monthly": {
-			"2014-09": {"total":350.00, "TRANSPORT TRADING LTD":350.00}
+			"2015-05": {"total":900.00, "TRANSPORT TRADING LTD":900.00},
+			"2016-01": {"total":530.00, "LONDON UNDERGROUND LTD":530.00},
+			"2016-05": {"total":906.60, "TRANSPORT TRADING LTD":906.60},
+			"2017-05": {"total":1033.51, "TRANSPORT TRADING LTD":1033.51},
+			"2018-05": {"total":1100.32, "TRANSPORT TRADING LTD":1100.32}
 		}
 	},
 	"6037": {
-		"name": "FIRETECNICS SYSTEMS LTD",
-		"total": 13380.38,
+		"name": "IHSAN POLAT",
+		"total": 2400,
 		"monthly": {
-			"2013-12": {"total":2058.54, "unknown":2058.54},
-			"2014-07": {"total":265.27, "LONDON RIVER SERVICES LTD":265.27},
-			"2014-09": {"total":3199.68, "LONDON RIVER SERVICES LTD":3199.68},
-			"2014-12": {"total":902.64, "DIAL A RIDE":498.00, "LONDON RIVER SERVICES LTD":404.64},
-			"2015-08": {"total":498.00, "TFL CORPORATE":498.00},
-			"2015-10": {"total":1658.49, "LONDON RIVER SERVICES LTD":1658.49},
-			"2015-12": {"total":498.00, "TFL CORPORATE":498.00},
-			"2016-01": {"total":518.12, "LONDON RIVER SERVICES LTD":518.12},
-			"2016-11": {"total":2015.79, "LONDON RIVER SERVICES LTD":2015.79},
-			"2016-12": {"total":1055.40, "LONDON RIVER SERVICES LTD":1055.40},
-			"2017-04": {"total":710.45, "LONDON RIVER SERVICES LTD":710.45}
+			"2018-07": {"total":2400.00, "SURFACE TRANSPORT CORP":2400.00}
 		}
 	},
 	"6038": {
-		"name": "FIRMA-CHROME",
-		"total": 3848,
+		"name": "IIA - UK & IRELAND",
+		"total": 120,
 		"monthly": {
-			"2014-06": {"total":3848.00, "LUL NOMINEE SSL LIMITED":3848.00}
+			"2015-08": {"total":120.00, "TFL CORPORATE":120.00}
 		}
 	},
 	"6039": {
-		"name": "FIRST 4 MAGNETS",
-		"total": 19.75,
+		"name": "IIB STUDIO LTD",
+		"total": 48500,
 		"monthly": {
-			"2017-03": {"total":19.75, "TUBE LINES LTD":19.75}
+			"2015-04": {"total":23000.00, "LONDON UNDERGROUND LTD":23000.00},
+			"2015-06": {"total":5500.00, "LONDON UNDERGROUND LTD":5500.00},
+			"2015-08": {"total":10000.00, "LONDON UNDERGROUND LTD":10000.00},
+			"2015-11": {"total":10000.00, "LONDON UNDERGROUND LTD":10000.00}
 		}
 	},
 	"6040": {
-		"name": "FIRST CALL BUILDING SERVICES LTD",
-		"total": 29433,
+		"name": "IIOM",
+		"total": 4505,
 		"monthly": {
-			"2015-10": {"total":12154.00, "TRANSPORT TRADING LTD":12154.00},
-			"2015-11": {"total":8479.00, "TRANSPORT TRADING LTD":8479.00},
-			"2016-03": {"total":8800.00, "TRANSPORT TRADING LTD":8800.00}
+			"2016-05": {"total":1225.00, "LONDON UNDERGROUND LTD":1225.00},
+			"2017-05": {"total":1225.00, "LONDON UNDERGROUND LTD":1225.00},
+			"2017-08": {"total":800.00, "LONDON UNDERGROUND LTD":800.00},
+			"2018-05": {"total":1255.00, "TFL CORPORATE":1255.00}
 		}
 	},
 	"6041": {
-		"name": "FIRST CAPITAL CONN",
-		"total": 3.95,
+		"name": "IIR LTD",
+		"total": 1999,
 		"monthly": {
-			"2014-09": {"total":3.95, "SURFACE TRANSPORT CORP":3.95}
+			"2016-05": {"total":1999.00, "TFL CORPORATE":1999.00}
 		}
 	},
 	"6042": {
-		"name": "FIRST CAPITAL CONNECT LTD",
-		"total": 74265.72,
+		"name": "IKEA",
+		"total": 257.5,
 		"monthly": {
-			"2013-09": {"total":2520.00, "unknown":2520.00},
-			"2013-10": {"total":11079.50, "unknown":11079.50},
-			"2013-11": {"total":10104.90, "unknown":10104.90},
-			"2014-04": {"total":1226.16, "LONDON UNDERGROUND LTD":1226.16},
-			"2014-08": {"total":5000.00, "SURFACE TRANSPORT CORP":5000.00},
-			"2014-11": {"total":44335.16, "TRANSPORT TRADING LTD":44335.16}
+			"2019-03": {"total":257.50, "LONDON TRANSPORT MUSEUM":257.50}
 		}
 	},
 	"6043": {
-		"name": "FIRST CAPITAL EAST LTD",
+		"name": "IKEA LTD",
 		"alternate-names": [
-			"FIRST CAPITAL EAST LIMITED"
+			"IKEA LIMITED"
 		],
-		"total": 19194228.55,
+		"total": 683.15,
 		"monthly": {
-			"2013-04": {"total":4705996.03, "unknown":4705996.03},
-			"2013-05": {"total":4651448.64, "unknown":4651448.64},
-			"2013-06": {"total":4832396.14, "unknown":4832396.14},
-			"2013-07": {"total":2003530.71, "unknown":2003530.71},
-			"2013-08": {"total":2015744.71, "unknown":2015744.71},
-			"2013-09": {"total":561726.95, "unknown":561726.95},
-			"2013-10": {"total":212988.41, "unknown":212988.41},
-			"2013-11": {"total":210396.96, "unknown":210396.96}
+			"2016-12": {"total":130.35, "TUBE LINES LTD":130.35},
+			"2017-11": {"total":98.30, "TUBE LINES LTD":98.30},
+			"2018-07": {"total":312.00, "TUBE LINES LTD":312.00},
+			"2018-09": {"total":142.50, "TUBE LINES LTD":142.50}
 		}
 	},
 	"6044": {
-		"name": "FIRST CHOICE CONFERENCE & EVENTS",
-		"total": 1780.92,
+		"name": "IKEA ONLINE",
+		"total": 1333.87,
 		"monthly": {
-			"2016-03": {"total":1780.92, "LT MUSEUM TRADING LTD":1780.92}
+			"2016-03": {"total":143.75, "TFL CORPORATE":143.75},
+			"2016-07": {"total":216.67, "LONDON TRANSPORT MUSEUM":216.67},
+			"2017-09": {"total":125.00, "TUBE LINES LTD":125.00},
+			"2017-12": {"total":80.00, "TUBE LINES LTD":80.00},
+			"2019-03": {"total":768.45, "TFL CORPORATE":768.45}
 		}
 	},
 	"6045": {
-		"name": "FIRST CITY CARE (LONDON) PLC",
-		"total": 1205.4,
+		"name": "IKM TECKCHEK",
+		"total": 566.66,
 		"monthly": {
-			"2014-08": {"total":370.20, "TUBE LINES LTD":370.20},
-			"2014-11": {"total":370.20, "TUBE LINES LTD":370.20},
-			"2014-12": {"total":465.00, "TUBE LINES LTD":465.00}
+			"2015-04": {"total":283.33, "TFL CORPORATE":283.33},
+			"2015-05": {"total":283.33, "TFL CORPORATE":283.33}
 		}
 	},
 	"6046": {
-		"name": "FIRST CLASS PARTNERSHIPS LTD",
-		"alternate-names": [
-			"FIRST CLASS PARTNERSHIPS LIMITED"
-		],
-		"total": 12750,
+		"name": "ILECSYS LTD",
+		"total": 18192.3,
 		"monthly": {
-			"2014-09": {"total":3750.00, "LONDON UNDERGROUND LTD":3750.00},
-			"2019-06": {"total":9000.00, "RAIL FOR LONDON LIMITED":9000.00}
+			"2015-05": {"total":3525.30, "TUBELINES LTD":3525.30},
+			"2017-11": {"total":450.00, "TUBE LINES LTD":450.00},
+			"2018-01": {"total":450.00, "TUBE LINES LTD":450.00},
+			"2018-02": {"total":2808.00, "TUBE LINES LTD":2808.00},
+			"2018-03": {"total":312.00, "TUBE LINES LTD":312.00},
+			"2018-09": {"total":819.00, "TUBE LINES LTD":819.00},
+			"2018-10": {"total":9828.00, "TUBE LINES LTD":9828.00}
 		}
 	},
 	"6047": {
-		"name": "FIRST COLOUR LTD",
-		"total": 15607.7,
+		"name": "ILECSYS RAIL LTD",
+		"total": 49411.66,
 		"monthly": {
-			"2013-04": {"total":2348.83, "unknown":2348.83},
-			"2013-06": {"total":1440.00, "unknown":1440.00},
-			"2013-10": {"total":6308.72, "unknown":6308.72},
-			"2014-05": {"total":252.00, "TFL CORPORATE":252.00},
-			"2014-06": {"total":4020.75, "TFL CORPORATE":4020.75},
-			"2017-03": {"total":1124.44, "TFL CORPORATE":1124.44},
-			"2017-04": {"total":112.96, "TFL CORPORATE":112.96}
+			"2017-06": {"total":48014.74, "RAIL FOR LONDON LIMITED":48014.74},
+			"2018-07": {"total":1396.92, "LUL NOMINEE SSL LIMITED":1396.92}
 		}
 	},
 	"6048": {
-		"name": "FIRST ESSEX BUSES LTD",
-		"alternate-names": [
-			"FIRST ESSEX BUSES LIMITED"
-		],
-		"total": 180791.45,
+		"name": "ILFORD COUNTY HIGH SCHOOL",
+		"total": 500,
 		"monthly": {
-			"2016-03": {"total":50748.85, "LONDON BUS SERVICES LTD":50748.85},
-			"2016-04": {"total":32403.62, "LONDON BUS SERVICES LTD":32403.62},
-			"2016-05": {"total":4861.20, "LONDON BUS SERVICES LTD":4861.20},
-			"2016-06": {"total":4796.33, "LONDON BUS SERVICES LTD":4796.33},
-			"2016-07": {"total":11687.40, "LONDON BUS SERVICES LTD":11687.40},
-			"2016-08": {"total":5945.86, "LONDON BUS SERVICES LTD":5945.86},
-			"2016-09": {"total":8377.78, "LONDON BUS SERVICES LTD":8377.78},
-			"2016-10": {"total":7475.00, "LONDON BUS SERVICES LTD":7475.00},
-			"2016-11": {"total":12070.00, "LONDON BUS SERVICES LTD":12070.00},
-			"2016-12": {"total":19548.25, "LONDON BUS SERVICES LTD":19548.25},
-			"2017-01": {"total":7858.43, "LONDON BUS SERVICES LTD":7858.43},
-			"2017-06": {"total":5496.43, "LONDON BUS SERVICES LTD":5496.43},
-			"2017-07": {"total":4010.00, "LONDON BUS SERVICES LTD":4010.00},
-			"2018-08": {"total":5512.30, "LONDON BUS SERVICES LTD":5512.30}
+			"2016-03": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00},
+			"2017-04": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00}
 		}
 	},
 	"6049": {
-		"name": "FIRST FIRE SERVICES LTD",
-		"alternate-names": [
-			"FIRST FIRE SERVICES LIMITED"
-		],
-		"total": 38070.5,
+		"name": "ILG BUSINESS LTD",
+		"total": 1920,
 		"monthly": {
-			"2018-04": {"total":5110.00, "TRANSPORT TRADING LTD":5110.00},
-			"2018-05": {"total":6148.00, "TRANSPORT TRADING LTD":6148.00},
-			"2018-06": {"total":510.00, "TRANSPORT TRADING LTD":510.00},
-			"2018-07": {"total":2138.50, "TRANSPORT TRADING LTD":2138.50},
-			"2018-08": {"total":14928.00, "TRANSPORT TRADING LTD":14928.00},
-			"2019-04": {"total":1260.00, "TRANSPORT TRADING LTD":1260.00},
-			"2019-05": {"total":2099.00, "TRANSPORT TRADING LTD":2099.00},
-			"2019-06": {"total":3275.00, "TRANSPORT TRADING LTD":3275.00},
-			"2019-08": {"total":2602.00, "SURFACE TRANSPORT CORP":2602.00}
+			"2015-06": {"total":960.00, "RAIL FOR LONDON LIMITED":960.00},
+			"2016-05": {"total":960.00, "RAIL FOR LONDON LIMITED":960.00}
 		}
 	}
 	}
