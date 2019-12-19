@@ -553,7 +553,7 @@
 			"2011-07": {"total":500.00, "Strategic Accounts":500.00},
 			"2012-03": {"total":500.00, "Central & Corporate Functions":500.00},
 			"2012-04": {"total":2000.00, "East - North East":2000.00},
-			"2013-08": {"total":8505.00, "Environment & Housing":6995.00, "East - North East":1510.00},
+			"2013-08": {"total":8505.00, "East - North East":1510.00, "Environment & Housing":6995.00},
 			"2013-11": {"total":1268.00, "Central & Corporate":1268.00},
 			"2014-08": {"total":3612.58, "Central & Corporate":3612.58},
 			"2014-10": {"total":3300.00, "Central & Corporate":3300.00},
@@ -561,13 +561,13 @@
 			"2015-03": {"total":500.00, "Central & Corporate":500.00},
 			"2015-05": {"total":3954.25, "Central & Corporate":3954.25},
 			"2015-09": {"total":3000.00, "Central & Corporate":3000.00},
-			"2016-10": {"total":3892.00, "City Development":3820.00, "Citizens and Communities":72.00},
+			"2016-10": {"total":3892.00, "Citizens and Communities":72.00, "City Development":3820.00},
 			"2016-12": {"total":1257.16, "Citizens and Communities":1257.16},
 			"2017-02": {"total":51.00, "Citizens and Communities":51.00},
-			"2017-03": {"total":1018.00, "Citizens and Communities":988.00, "Childrens Services":30.00},
+			"2017-03": {"total":1018.00, "Childrens Services":30.00, "Citizens and Communities":988.00},
 			"2017-04": {"total":1508.25, "Childrens Services":36.00, "Citizens and Communities":1090.25, "City Development":382.00},
 			"2017-05": {"total":12.00, "Children and Families":12.00},
-			"2017-06": {"total":1308.00, "Communities and Environment":425.50, "Children and Families":37.50, "City Development":845.00},
+			"2017-06": {"total":1308.00, "Children and Families":37.50, "City Development":845.00, "Communities and Environment":425.50},
 			"2017-08": {"total":5360.00, "City Development":600.00, "Communities and Environment":4760.00},
 			"2017-09": {"total":7809.00, "Children and Families":7809.00},
 			"2017-10": {"total":1212.50, "Communities and Environment":1212.50},
@@ -575,7 +575,7 @@
 			"2018-01": {"total":1653.41, "Communities and Environment":1653.41},
 			"2018-06": {"total":3765.00, "Communities and Environment":3765.00},
 			"2018-10": {"total":5000.00, "Communities and Environment":5000.00},
-			"2018-12": {"total":2939.00, "Strategic Landlord":879.00, "Communities and Environment":2060.00},
+			"2018-12": {"total":2939.00, "Communities and Environment":2060.00, "Strategic Landlord":879.00},
 			"2019-01": {"total":500.00, "Communities and Environment":500.00},
 			"2019-04": {"total":5000.00, "Communities and Environment":5000.00}
 		}
@@ -592,7 +592,7 @@
 		"total": 25543,
 		"monthly": {
 			"2015-07": {"total":1920.00, "Strategic Landlord":1920.00},
-			"2015-11": {"total":22873.00, "Strategic Landlord":15873.00, "Citizens and Communities":7000.00},
+			"2015-11": {"total":22873.00, "Citizens and Communities":7000.00, "Strategic Landlord":15873.00},
 			"2016-02": {"total":750.00, "Citizens and Communities":750.00}
 		}
 	},
@@ -606,8 +606,8 @@
 			"2018-02": {"total":1424.50, "City Development":1424.50},
 			"2018-03": {"total":100.00, "Children and Families":100.00},
 			"2018-04": {"total":120.00, "Children and Families":120.00},
-			"2018-06": {"total":299.80, "Resources and Housing":199.80, "Adults and Health":100.00},
-			"2018-07": {"total":2362.40, "Resources and Housing":953.40, "City Development":1210.00, "Children and Families":199.00},
+			"2018-06": {"total":299.80, "Adults and Health":100.00, "Resources and Housing":199.80},
+			"2018-07": {"total":2362.40, "Children and Families":199.00, "City Development":1210.00, "Resources and Housing":953.40},
 			"2018-08": {"total":232.38, "Resources and Housing":232.38},
 			"2018-09": {"total":605.00, "City Development":605.00},
 			"2018-10": {"total":568.00, "Children and Families":18.00, "City Development":550.00},
@@ -618,7 +618,7 @@
 			"2019-06": {"total":1815.00, "City Development":1815.00},
 			"2019-07": {"total":117.60, "Children and Families":117.60},
 			"2019-10": {"total":163.50, "Children and Families":163.50},
-			"2019-11": {"total":1151.50, "City Development":500.00, "Children and Families":587.50, "Communities and Environment":64.00}
+			"2019-11": {"total":1151.50, "Children and Families":587.50, "City Development":500.00, "Communities and Environment":64.00}
 		}
 	},
 	"10583": {
@@ -717,7 +717,7 @@
 			"2013-04": {"total":565.98, "City Development":565.98},
 			"2013-09": {"total":1210.59, "City Development":1210.59},
 			"2013-12": {"total":531.76, "City Development":531.76},
-			"2014-01": {"total":1821.56, "Environment & Housing":76.67, "Childrens Services":126.84, "Central & Corporate":1618.05}
+			"2014-01": {"total":1821.56, "Central & Corporate":1618.05, "Childrens Services":126.84, "Environment & Housing":76.67}
 		}
 	},
 	"10593": {
@@ -744,10 +744,10 @@
 			"2015-03": {"total":85.00, "City Development":85.00},
 			"2015-04": {"total":486.94, "Central & Corporate":390.94, "City Development":96.00},
 			"2015-06": {"total":173.75, "City Development":173.75},
-			"2015-07": {"total":376.75, "City Development":64.00, "Adult Social Care":312.75},
+			"2015-07": {"total":376.75, "Adult Social Care":312.75, "City Development":64.00},
 			"2015-10": {"total":382.25, "Central & Corporate":278.00, "City Development":104.25},
-			"2015-12": {"total":589.60, "City Development":83.40, "Childrens Services":506.20},
-			"2016-01": {"total":377.80, "Childrens Services":169.30, "Adult Social Care":208.50},
+			"2015-12": {"total":589.60, "Childrens Services":506.20, "City Development":83.40},
+			"2016-01": {"total":377.80, "Adult Social Care":208.50, "Childrens Services":169.30},
 			"2016-02": {"total":138.55, "Central & Corporate":62.55, "Childrens Services":76.00},
 			"2016-05": {"total":41.70, "Childrens Services":41.70},
 			"2016-07": {"total":300.00, "City Development":300.00},

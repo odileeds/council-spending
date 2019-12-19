@@ -24,7 +24,7 @@
 			"2013-12": {"total":6593.97, "Central & Corporate":6593.97},
 			"2014-01": {"total":1250.00, "City Development":1250.00},
 			"2014-03": {"total":7037.19, "Central & Corporate":7037.19},
-			"2014-04": {"total":780.00, "City Development":750.00, "Central & Corporate":30.00},
+			"2014-04": {"total":780.00, "Central & Corporate":30.00, "City Development":750.00},
 			"2014-06": {"total":6332.13, "Central & Corporate":6082.13, "City Development":250.00},
 			"2014-08": {"total":50.00, "Central & Corporate":50.00},
 			"2014-09": {"total":4972.01, "Central & Corporate":4972.01},
@@ -73,9 +73,9 @@
 			"2011-05": {"total":3500.00, "City Development":3500.00},
 			"2011-07": {"total":36000.00, "Central & Corporate Functions":36000.00},
 			"2012-04": {"total":4000.00, "City Development":4000.00},
-			"2012-06": {"total":24000.00, "City Development":4000.00, "Central & Corporate Functions":20000.00},
+			"2012-06": {"total":24000.00, "Central & Corporate Functions":20000.00, "City Development":4000.00},
 			"2013-04": {"total":4000.00, "City Development":4000.00},
-			"2014-03": {"total":1950.00, "City Development":1800.00, "Adult Social Care":150.00},
+			"2014-03": {"total":1950.00, "Adult Social Care":150.00, "City Development":1800.00},
 			"2014-10": {"total":100.00, "City Development":100.00},
 			"2015-02": {"total":200.00, "City Development":200.00},
 			"2015-07": {"total":225.00, "City Development":225.00}
@@ -263,8 +263,8 @@
 			"2016-02": {"total":23100.80, "City Development":23100.80},
 			"2016-09": {"total":8000.00, "Environment & Housing":8000.00},
 			"2017-01": {"total":20883.20, "Central & Corporate":20883.20},
-			"2017-04": {"total":25900.00, "Environment & Housing":500.00, "City Development":25400.00},
-			"2017-11": {"total":10125.00, "Communities and Environment":6750.00, "City Development":3375.00},
+			"2017-04": {"total":25900.00, "City Development":25400.00, "Environment & Housing":500.00},
+			"2017-11": {"total":10125.00, "City Development":3375.00, "Communities and Environment":6750.00},
 			"2018-03": {"total":20883.20, "Communities and Environment":20883.20},
 			"2018-09": {"total":8550.00, "Communities and Environment":8550.00}
 		}
@@ -326,11 +326,11 @@
 	"21280": {
 		"name": "IBM",
 		"alternate-names": [
-			"Ibm United Kingdom Limited",
-			"Ibmg Ltd",
-			"Ibm Uk",
 			"IBMG Ltd",
-			"Ibm Parts Np"
+			"Ibm Uk",
+			"Ibm Parts Np",
+			"Ibmg Ltd",
+			"Ibm United Kingdom Limited"
 		],
 		"total": 248549.3,
 		"monthly": {
