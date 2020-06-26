@@ -51,6 +51,10 @@ sub getTotal {
 		# Remove apostrophes
 		$name =~ s/\'//g;
 
+		# Manual fixes
+		if($name =~ /County Durham/i){ $name = "DURHAM COUNTY COUNCIL"; }
+		#if($name =~ /Kensington and Chelsea/i){ $name = "ROYAL BOROUGH OF KENSINGTON AND CHELSEA"; }
+
 		push(@grep,`grep -i "$name" orgs/*.tsv`);
 		if(@grep == 0){
 			if($name =~ / and /){
@@ -85,6 +89,17 @@ sub getTotal {
 				}
 			}
 
+			# Try full stops
+			if(@grep == 0 && $name =~ /\./){
+				$name =~ s/\.//g;
+				push(@grep,`grep -i "$name" orgs/*.tsv`);
+				if(@grep == 0){
+					print "No results for full stop $name\n";
+				}else{
+					$altnames{$name} = 1
+				}
+			}
+
 			# Try removing brackets
 			if(@grep == 0 && $name =~ /\(/){
 				$name =~ s/ ?\(.*\)//g;
@@ -110,6 +125,9 @@ sub getTotal {
 				}
 			}
 			if($grep[$g] =~ /LONDON BOROUGH OF $firstword/i){
+				$match++;
+			}
+			if($grep[$g] =~ /ROYAL BOROUGH OF $firstword/i){
 				$match++;
 			}
 			if($match > 0){
