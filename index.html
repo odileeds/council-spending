@@ -11,6 +11,7 @@
 	<link rel="StyleSheet" href="https://odileeds.org/resources/spinner.css" type="text/css" />
 	<link rel="StyleSheet" href="council-spending.css" type="text/css" />
 	<style>
+	ul.grid.councils { grid-gap: 0.25em; }
 	</style>
 </head>
 <body>
@@ -19,7 +20,7 @@
 		<header>
 			<div class="b1-bg">
 				<div class="holder" style="text-align:center;">
-					<a href="https://odileeds.org/"><img src="https://odileeds.org/resources/images/odileeds.svg" /></a>
+					<a href="https://odileeds.org/"><img src="https://odileeds.org/resources/images/odileeds-8.svg" /></a>
 					<h1>UK Public Body Spending</h1>
 				</div>
 			</div>
@@ -53,6 +54,24 @@
 			<p>Note that updating this visualisation is not an automatic process. That is because councils and government bodies don't necessarily reliably publish their data in a consistent format in consistent locations with consistent metadata over time. So updates have to be run manually to check for errors. That means the data shown here can be behind what is published.</p>
 		</div>
 	</footer>
+	
+	<script>
+	var li = document.querySelectorAll('.councils li a');
+	var now = new Date();
+	for(var i = 0; i < li.length; i++){
+		date = li[i].innerHTML.replace(/<[^\>]*>/g,"").replace(/^.*([0-9]{4}-[0-9]{2})$/,function(m,p1){ return p1; });
+		days = -1;
+		if(date){
+			date = new Date(date+'-01');
+			days = (now-date)/86400000;
+		}
+		if(days >= 0 && days < 100){
+			li[i].classList.remove('b2-bg')
+			li[i].classList.add('c8-bg');
+		}
+	}
+	
+	</script>
 
 </body>
 </html>
