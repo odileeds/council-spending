@@ -31,7 +31,7 @@
 			"2017-01": {"total":22.92, "Children and Young People":22.92},
 			"2017-04": {"total":32.01, "Communities & Service Support":32.01},
 			"2017-10": {"total":132.24, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":152.16, "Communities & Service Support":32.19, "Children and Young People":119.97},
+			"2017-11": {"total":152.16, "Children and Young People":119.97, "Communities & Service Support":32.19},
 			"2018-02": {"total":111.26, "Communities & Service Support (obsolete)":111.26},
 			"2018-03": {"total":78.96, "Adults, Health and Social Care (obsolete)":0.00},
 			"2018-05": {"total":20.78, "Communities & Service Support (obsolete)":20.78},
@@ -53,7 +53,7 @@
 			"2017-06": {"total":41.99, "Communities & Service Support":41.99},
 			"2017-07": {"total":25.92, "Communities & Service Support":25.92},
 			"2017-08": {"total":60.25, "Communities & Service Support":60.25},
-			"2017-10": {"total":173.37, "Communities & Service Support (obsolete)":9.62, "Communities & Service Support":163.75},
+			"2017-10": {"total":173.37, "Communities & Service Support":163.75, "Communities & Service Support (obsolete)":9.62},
 			"2018-01": {"total":82.37, "Communities & Service Support":43.00, "Communities & Service Support (obsolete)":39.37},
 			"2018-02": {"total":154.34, "Communities & Service Support (obsolete)":154.34},
 			"2018-04": {"total":141.47, "Communities & Service Support (obsolete)":141.47},
@@ -127,7 +127,7 @@
 			"2016-01": {"total":64.78, "Communities & Service Support":64.78},
 			"2016-04": {"total":81.00, "Communities & Service Support":81.00},
 			"2016-05": {"total":66.09, "Communities & Service Support":66.09},
-			"2016-06": {"total":134.49, "Communities & Service Support":57.05, "Adults, Health and Social Care (obsolete)":0.00},
+			"2016-06": {"total":134.49, "Adults, Health and Social Care (obsolete)":0.00, "Communities & Service Support":57.05},
 			"2016-07": {"total":50.50, "Communities & Service Support":50.50},
 			"2016-08": {"total":2.24, "Communities & Service Support":2.24},
 			"2016-10": {"total":136.66, "Communities & Service Support":136.66},
@@ -153,7 +153,7 @@
 			"2017-06": {"total":4.17, "Communities & Service Support":4.17},
 			"2017-08": {"total":8.01, "Communities & Service Support":8.01},
 			"2017-09": {"total":9.60, "Communities & Service Support":9.60},
-			"2017-11": {"total":77.98, "Communities & Service Support":58.78, "Economy and Environment":7.20, "Communities & Service Support (obsolete)":12.00},
+			"2017-11": {"total":77.98, "Communities & Service Support":58.78, "Communities & Service Support (obsolete)":12.00, "Economy and Environment":7.20},
 			"2017-12": {"total":6.50, "Communities & Service Support":6.50},
 			"2018-01": {"total":30.00, "Economy and Environment":30.00},
 			"2018-03": {"total":5.42, "Communities & Service Support (obsolete)":5.42},
@@ -222,7 +222,10 @@
 		}
 	},
 	"1921": {
-		"name": "BARRIERHEALTHCARE.",
+		"name": "BARRIERHEALTHCARE",
+		"alternate-names": [
+			"BARRIERHEALTHCARE."
+		],
 		"total": 184.7,
 		"monthly": {
 			"2015-11": {"total":107.25, "Communities & Service Support":107.25},
@@ -370,7 +373,7 @@
 			"2015-04": {"total":28.07, "Economy and Environment":28.07},
 			"2015-05": {"total":211.70, "Economy and Environment":211.70},
 			"2015-06": {"total":68.12, "Communities & Service Support":39.76, "Economy and Environment":28.36},
-			"2015-07": {"total":229.26, "Economy and Environment":173.02, "Communities & Service Support":56.24},
+			"2015-07": {"total":229.26, "Communities & Service Support":56.24, "Economy and Environment":173.02},
 			"2015-10": {"total":86.03, "Economy and Environment":86.03},
 			"2016-05": {"total":6.47, "Communities & Service Support":6.47},
 			"2016-09": {"total":66.73, "Communities & Service Support":20.52, "Economy and Environment":46.21},
