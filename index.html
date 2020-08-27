@@ -31,17 +31,17 @@
 			<ul class="grid councils compact">
 				<li><a href="bradford/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/bradford.svg" title="Bradford Metropolitan Borough Council" /><!-- bradford -->2013-04 to 2019-12<!-- end bradford --></a></li>
 				<li><a href="cabinetoffice/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/cabinetoffice.svg" title="Cabinet Office" /><!-- cabinetoffice -->2010-04 to 2020-06<!-- end cabinetoffice --></a></li>
-				<li><a href="calderdale/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/calderdale.svg" title="Calderdale Council" /><!-- calderdale -->2010-09 to 2018-10<!-- end calderdale --></a></li>
+				<li><a href="calderdale/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/calderdale.svg" title="Calderdale Council" /><!-- calderdale -->2009-09 to 2020-07<!-- end calderdale --></a></li>
 				<li><a href="darlington/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/darlington.svg" title="Darlington Council" /><!-- darlington -->2015-04 to 2021-06<!-- end darlington --></a></li>
-				<li><a href="gateshead/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/gateshead.svg" title="Gateshead Council" /><!-- gateshead --><!-- end gateshead --></a></li>
-				<li><a href="harrogate/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/harrogate.svg" title="Harrogate Council" /><!-- harrogate --><!-- end harrogate --></a></li>
+				<li><a href="gateshead/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/gateshead.svg" title="Gateshead Council" /><!-- gateshead -->2010-12 to 2020-06<!-- end gateshead --></a></li>
+				<li><a href="harrogate/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/harrogate.svg" title="Harrogate Council" /><!-- harrogate -->2015-04 to 2020-06<!-- end harrogate --></a></li>
 				<li><a href="leeds/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/leeds.svg" title="Leeds City Council" /><!-- leeds -->2010-10 to 2020-07<!-- end leeds --></a></li>
-				<li><a href="manchester/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/manchester.svg" title="Manchester City Council" /><!-- manchester --><!-- end manchester --></a></li>
+				<li><a href="manchester/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/manchester.svg" title="Manchester City Council" /><!-- manchester -->2010-12 to 2020-03<!-- end manchester --></a></li>
 				<li><a href="newcastle/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/newcastle.svg" title="Newcastle City Council" /><!-- newcastle -->2010-04 to 2020-07<!-- end newcastle --></a></li>
-				<li><a href="northtyneside/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/northtyneside.svg" title="North Tyneside Council" /><!-- northtyneside --><!-- end northtyneside --></a></li>
-				<li><a href="sheffield/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/sheffield.svg" title="Sheffield City Council" /><!-- sheffield --><!-- end sheffield --></a></li>
-				<li><a href="tfl/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/tfl.svg" title="Transport for London" /><!-- tfl -->2013-04 to 2019-08<!-- end tfl --></a></li>
-				<li><a href="wakefield/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/wakefield.svg" title="Wakefield Council" /><!-- wakefield --><!-- end wakefield --></a></li>
+				<li><a href="northtyneside/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/northtyneside.svg" title="North Tyneside Council" /><!-- northtyneside -->2014-04 to 2020-07<!-- end northtyneside --></a></li>
+				<li><a href="sheffield/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/sheffield.svg" title="Sheffield City Council" /><!-- sheffield -->2011-01 to 2020-07<!-- end sheffield --></a></li>
+				<li><a href="tfl/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/tfl.svg" title="Transport for London" /><!-- tfl -->2014-03 to 2020-06<!-- end tfl --></a></li>
+				<li><a href="wakefield/index.html" class="padded b2-bg"><img src="https://odileeds.org/dashboard/data/img/wakefield.svg" title="Wakefield Council" /><!-- wakefield -->2014-04 to 2020-06<!-- end wakefield --></a></li>
 			</ul>
 		</div>
 	</div>
@@ -60,12 +60,12 @@
 	var now = new Date();
 	for(var i = 0; i < li.length; i++){
 		date = li[i].innerHTML.replace(/<[^\>]*>/g,"").replace(/^.*([0-9]{4}-[0-9]{2})$/,function(m,p1){ return p1; });
-		days = -1;
+		days = "";
 		if(date){
 			date = new Date(date+'-01');
 			days = (now-date)/86400000;
 		}
-		if(days >= 0 && days < 100){
+		if(days && days < 100){
 			li[i].classList.remove('b2-bg')
 			li[i].classList.add('c8-bg');
 		}

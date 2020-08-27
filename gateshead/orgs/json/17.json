@@ -1,105 +1,803 @@
 {
-	"range": ["2010-12","2019-05"],
+	"range": ["2010-12","2020-06"],
 	"data": {
 	"850": {
+		"name": "BEECHES",
+		"total": 1500,
+		"monthly": {
+			"2016-12": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
+		}
+	},
+	"851": {
+		"name": "BEECHWOOD HALL",
+		"total": 1504486.34,
+		"monthly": {
+			"2010-12": {"total":28398.19, "Community Based Services":28398.19},
+			"2011-01": {"total":31446.96, "Community Based Services":31446.96},
+			"2011-02": {"total":37278.99, "Community Based Services":37278.99},
+			"2011-03": {"total":70952.16, "Community Based Services":70952.16},
+			"2011-04": {"total":32078.20, "Community Based Services":32078.20},
+			"2011-05": {"total":32146.04, "Community Based Services":32146.04},
+			"2011-06": {"total":32262.60, "Community Based Services":32262.60},
+			"2011-07": {"total":29796.71, "Community Based Services":29796.71},
+			"2011-08": {"total":30021.12, "Community Based Services":30021.12},
+			"2011-09": {"total":27726.52, "Community Based Services":27726.52},
+			"2011-10": {"total":29555.82, "Community Based Services":29555.82},
+			"2011-11": {"total":29899.77, "Community Based Services":29899.77},
+			"2011-12": {"total":29857.52, "Community Based Services":29857.52},
+			"2012-01": {"total":35036.58, "Community Based Services":35036.58},
+			"2012-02": {"total":68272.24, "Community Based Services":68272.24},
+			"2012-03": {"total":32217.08, "Community Based Services":32217.08},
+			"2012-04": {"total":32357.54, "Community Based Services":32357.54},
+			"2012-05": {"total":32465.05, "Community Based Services":32465.05},
+			"2012-06": {"total":32450.04, "Community Based Services":32450.04},
+			"2012-07": {"total":32443.04, "Community Based Services":32443.04},
+			"2012-08": {"total":33139.11, "Community Based Services":33139.11},
+			"2012-09": {"total":34774.21, "Community Based Services":34774.21},
+			"2012-10": {"total":36334.93, "Community Based Services":36334.93},
+			"2012-11": {"total":32983.97, "Community Based Services":32983.97},
+			"2012-12": {"total":32278.27, "Community Based Services":32278.27},
+			"2013-01": {"total":62031.28, "Community Based Services":62031.28},
+			"2013-02": {"total":29279.78, "Community Based Services":29279.78},
+			"2013-03": {"total":23543.34, "Community Based Services":23543.34},
+			"2013-04": {"total":27301.65, "Community Based Services":27301.65},
+			"2013-05": {"total":27494.38, "Community Based Services":27494.38},
+			"2013-06": {"total":25407.09, "Community Based Services":25407.09},
+			"2013-07": {"total":41952.55, "Community Based Services":41952.55},
+			"2013-08": {"total":30886.23, "Community Based Services":30886.23},
+			"2013-09": {"total":29024.80, "Community Based Services":29024.80},
+			"2013-10": {"total":39929.78, "Community Based Services":39929.78},
+			"2013-11": {"total":53386.14, "Community Based Services":53386.14},
+			"2013-12": {"total":110869.60, "Community Based Services":110869.60},
+			"2014-01": {"total":24589.46, "Community Based Services":24589.46},
+			"2014-02": {"total":26045.12, "Community Based Services":26045.12},
+			"2014-03": {"total":40519.05, "Community Based Services":40519.05},
+			"2014-04": {"total":36053.43, "Community Based Services":36053.43}
+		}
+	},
+	"852": {
+		"name": "BEECHWOOD HOUSE",
+		"total": 22815.65,
+		"monthly": {
+			"2011-02": {"total":22815.65, "Community Based Services":22815.65}
+		}
+	},
+	"853": {
+		"name": "BEECHWOOD RESIDENTIAL HOME",
+		"total": 5588.04,
+		"monthly": {
+			"2010-12": {"total":5588.04, "Community Based Services":5588.04}
+		}
+	},
+	"854": {
+		"name": "BEELINE MINIBUSES",
+		"total": 92607.9,
+		"monthly": {
+			"2014-10": {"total":2147.20, "Learning and Children":2147.20},
+			"2014-11": {"total":1464.00, "Care, Wellbeing & Learning":1464.00},
+			"2014-12": {"total":1464.00, "Care, Wellbeing & Learning":1464.00},
+			"2015-01": {"total":1464.00, "Care, Wellbeing & Learning":1464.00},
+			"2015-02": {"total":1952.00, "Care, Wellbeing & Learning":1952.00},
+			"2015-03": {"total":1464.00, "Care, Wellbeing & Learning":1464.00},
+			"2015-04": {"total":2147.20, "Care, Wellbeing & Learning":2147.20},
+			"2015-05": {"total":1073.60, "Care, Wellbeing & Learning":1073.60},
+			"2015-06": {"total":1366.40, "Care, Wellbeing & Learning":1366.40},
+			"2015-07": {"total":2147.20, "Care, Wellbeing & Learning":2147.20},
+			"2015-08": {"total":1268.80, "Care, Wellbeing & Learning":1268.80},
+			"2015-10": {"total":2049.60, "Care, Wellbeing & Learning":2049.60},
+			"2015-11": {"total":1561.60, "Care, Wellbeing & Learning":1561.60},
+			"2015-12": {"total":2049.60, "Care, Wellbeing & Learning":2049.60},
+			"2016-01": {"total":1506.40, "Care, Wellbeing & Learning":1506.40},
+			"2016-02": {"total":2152.00, "Care, Wellbeing & Learning":2152.00},
+			"2016-03": {"total":3443.20, "Care, Wellbeing & Learning":3443.20},
+			"2016-05": {"total":1614.00, "Care, Wellbeing & Learning":1614.00},
+			"2016-06": {"total":1936.80, "Care, Wellbeing & Learning":1936.80},
+			"2016-07": {"total":1936.80, "Care, Wellbeing & Learning":1936.80},
+			"2016-08": {"total":1506.40, "Care, Wellbeing & Learning":1506.40},
+			"2016-10": {"total":1748.95, "Care, Wellbeing & Learning":1748.95},
+			"2016-11": {"total":1472.80, "Care, Wellbeing & Learning":1472.80},
+			"2016-12": {"total":2025.10, "Care, Wellbeing & Learning":2025.10},
+			"2017-01": {"total":1104.60, "Care, Wellbeing & Learning":1104.60},
+			"2017-02": {"total":1933.05, "Care, Wellbeing & Learning":1933.05},
+			"2017-03": {"total":3497.90, "Care, Wellbeing & Learning":3497.90},
+			"2017-05": {"total":828.45, "Care, Wellbeing & Learning":828.45},
+			"2017-06": {"total":1748.95, "Care, Wellbeing & Learning":1748.95},
+			"2017-07": {"total":1748.95, "Care, Wellbeing & Learning":1748.95},
+			"2017-08": {"total":1288.70, "Care, Wellbeing & Learning":1288.70},
+			"2017-10": {"total":1907.41, "Care, Wellbeing & Learning":1907.41},
+			"2017-11": {"total":1706.63, "Care, Wellbeing & Learning":1706.63},
+			"2017-12": {"total":2208.58, "Care, Wellbeing & Learning":2208.58},
+			"2018-01": {"total":1606.24, "Care, Wellbeing & Learning":1606.24},
+			"2018-02": {"total":1756.82, "Care, Wellbeing & Learning":1756.82},
+			"2018-03": {"total":3312.86, "Care, Wellbeing & Learning":3312.86},
+			"2018-05": {"total":1003.90, "Care, Wellbeing & Learning":1003.90},
+			"2018-06": {"total":1706.63, "Care, Wellbeing & Learning":1706.63},
+			"2018-07": {"total":2007.80, "Care, Wellbeing & Learning":2007.80},
+			"2018-08": {"total":1505.85, "Care, Wellbeing & Learning":1505.85},
+			"2018-10": {"total":1907.41, "Care, Wellbeing & Learning":1907.41},
+			"2018-11": {"total":1807.02, "Care, Wellbeing & Learning":1807.02},
+			"2018-12": {"total":2208.58, "Care, Wellbeing & Learning":2208.58},
+			"2019-01": {"total":1505.85, "Care, Wellbeing & Learning":1505.85},
+			"2019-02": {"total":1807.02, "Care, Wellbeing & Learning":1807.02},
+			"2019-03": {"total":3614.04, "Care, Wellbeing & Learning":3614.04},
+			"2019-05": {"total":1003.90, "Care, Wellbeing & Learning":1003.90},
+			"2019-06": {"total":1505.85, "Care, Wellbeing & Learning":1505.85},
+			"2019-07": {"total":2007.80, "Care, Wellbeing & Learning":2007.80},
+			"2019-08": {"total":1405.46, "Care, Wellbeing & Learning":1405.46}
+		}
+	},
+	"855": {
+		"name": "BEENSTOCK HOME MENANGEMENT LTD",
+		"total": 284764.38,
+		"monthly": {
+			"2010-12": {"total":2358.80, "Community Based Services":2358.80},
+			"2011-01": {"total":2358.80, "Community Based Services":2358.80},
+			"2011-02": {"total":2358.80, "Community Based Services":2358.80},
+			"2011-03": {"total":4717.60, "Community Based Services":4717.60},
+			"2011-04": {"total":9192.88, "Community Based Services":9192.88},
+			"2011-05": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-06": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-07": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-08": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-09": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-10": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-11": {"total":7182.72, "Community Based Services":7182.72},
+			"2011-12": {"total":7182.72, "Community Based Services":7182.72},
+			"2012-01": {"total":7182.72, "Community Based Services":7182.72},
+			"2012-02": {"total":14365.44, "Community Based Services":14365.44},
+			"2012-03": {"total":7182.72, "Community Based Services":7182.72},
+			"2012-04": {"total":7233.93, "Community Based Services":7233.93},
+			"2012-05": {"total":2771.00, "Community Based Services":2771.00},
+			"2012-06": {"total":5459.00, "Community Based Services":5459.00},
+			"2012-07": {"total":4061.37, "Community Based Services":4061.37},
+			"2012-08": {"total":1337.96, "Community Based Services":1337.96},
+			"2012-09": {"total":1805.44, "Community Based Services":1805.44},
+			"2012-10": {"total":1805.44, "Community Based Services":1805.44},
+			"2012-11": {"total":1805.44, "Community Based Services":1805.44},
+			"2012-12": {"total":1805.44, "Community Based Services":1805.44},
+			"2013-01": {"total":5579.04, "Community Based Services":5579.04},
+			"2013-02": {"total":2256.80, "Community Based Services":2256.80},
+			"2013-03": {"total":2256.80, "Community Based Services":2256.80},
+			"2013-04": {"total":2259.89, "Community Based Services":2259.89},
+			"2013-05": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-06": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-07": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-08": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-09": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-10": {"total":2260.92, "Community Based Services":2260.92},
+			"2013-11": {"total":2729.84, "Community Based Services":2729.84},
+			"2013-12": {"total":4521.84, "Community Based Services":4521.84},
+			"2014-01": {"total":2260.92, "Community Based Services":2260.92},
+			"2014-02": {"total":2260.92, "Community Based Services":2260.92},
+			"2014-03": {"total":2260.92, "Community Based Services":2260.92},
+			"2014-04": {"total":2264.76, "Community Based Services":2264.76},
+			"2014-05": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-06": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-07": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-08": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-09": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-10": {"total":2266.04, "Community Based Services":2266.04},
+			"2014-11": {"total":2266.04, "Care, Wellbeing & Learning":2266.04},
+			"2014-12": {"total":4532.08, "Care, Wellbeing & Learning":4532.08},
+			"2015-01": {"total":2266.04, "Care, Wellbeing & Learning":2266.04},
+			"2015-02": {"total":2266.04, "Care, Wellbeing & Learning":2266.04},
+			"2015-03": {"total":2266.04, "Care, Wellbeing & Learning":2266.04},
+			"2015-04": {"total":2269.61, "Care, Wellbeing & Learning":2269.61},
+			"2015-05": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-06": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-07": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-08": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-09": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-10": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-11": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2015-12": {"total":4541.60, "Care, Wellbeing & Learning":4541.60},
+			"2016-01": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2016-02": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2016-03": {"total":2270.80, "Care, Wellbeing & Learning":2270.80},
+			"2016-04": {"total":2306.60, "Care, Wellbeing & Learning":2306.60},
+			"2016-05": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-06": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-07": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-08": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-09": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-10": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2016-11": {"total":4684.80, "Care, Wellbeing & Learning":4684.80},
+			"2016-12": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2017-01": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2017-02": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2017-03": {"total":2342.40, "Care, Wellbeing & Learning":2342.40},
+			"2017-04": {"total":2350.14, "Care, Wellbeing & Learning":2350.14},
+			"2017-05": {"total":2357.88, "Care, Wellbeing & Learning":2357.88},
+			"2017-06": {"total":2357.88, "Care, Wellbeing & Learning":2357.88},
+			"2017-07": {"total":2357.88, "Care, Wellbeing & Learning":2357.88},
+			"2017-08": {"total":2357.88, "Care, Wellbeing & Learning":2357.88},
+			"2017-09": {"total":8373.84, "Care, Wellbeing & Learning":8373.84}
+		}
+	},
+	"856": {
+		"name": "BEIS SOROH SCHENIERER SEMINARY",
+		"total": 8300,
+		"monthly": {
+			"2015-10": {"total":8300.00, "Care, Wellbeing & Learning":8300.00}
+		}
+	},
+	"857": {
+		"name": "BEISSBARTH UK LTD",
+		"total": 1275,
+		"monthly": {
+			"2011-06": {"total":425.00, "Local Environmental Services":425.00},
+			"2012-08": {"total":425.00, "Local Environmental Services":425.00},
+			"2013-06": {"total":425.00, "Local Environmental Services":425.00}
+		}
+	},
+	"858": {
+		"name": "BELL & BULLOCK CIRCUS THEATRE",
+		"total": 4690,
+		"monthly": {
+			"2011-05": {"total":1000.00, "Community Based Services":1000.00},
+			"2012-08": {"total":1500.00, "Community Based Services":1500.00},
+			"2013-10": {"total":440.00, "Community Based Services":440.00},
+			"2015-02": {"total":550.00, "Communities & Enviroment":550.00},
+			"2016-01": {"total":550.00, "Communities & Environment":550.00},
+			"2018-11": {"total":650.00, "Corporate Resources":650.00}
+		}
+	},
+	"859": {
+		"name": "BELL GROUP (NEWCASTLE)",
+		"total": 626544.23,
+		"monthly": {
+			"2011-01": {"total":3764.00, "Local Environmental Services":3764.00},
+			"2011-02": {"total":906.00, "Local Environmental Services":906.00},
+			"2011-03": {"total":6198.00, "Local Environmental Services":6198.00},
+			"2011-05": {"total":995.00, "Local Environmental Services":995.00},
+			"2011-06": {"total":1095.00, "Local Environmental Services":1095.00},
+			"2011-09": {"total":1500.00, "Local Environmental Services":1500.00},
+			"2011-10": {"total":1000.00, "Local Environmental Services":1000.00},
+			"2011-11": {"total":560.00, "Local Environmental Services":560.00},
+			"2012-02": {"total":15054.12, "Local Environmental Services":15054.12},
+			"2012-03": {"total":423.47, "Local Environmental Services":423.47},
+			"2012-04": {"total":1538.00, "Local Environmental Services":1538.00},
+			"2012-09": {"total":4050.00, "Local Environmental Services":4050.00},
+			"2012-10": {"total":13367.00, "Local Environmental Services":13367.00},
+			"2013-03": {"total":1210.00, "Local Environmental Services":1210.00},
+			"2013-05": {"total":8614.72, "Local Environmental Services":8614.72},
+			"2013-07": {"total":1160.00, "Local Environmental Services":1160.00},
+			"2013-10": {"total":12307.68, "Local Environmental Services":12307.68},
+			"2013-11": {"total":1604.85, "Local Environmental Services":1604.85},
+			"2014-07": {"total":2000.00, "Local Environmental Services":2000.00},
+			"2015-04": {"total":1243.80, "Communities & Enviroment":1243.80},
+			"2015-06": {"total":2670.00, "Communities & Environment":2670.00},
+			"2015-12": {"total":29239.58, "Communities & Environment":29239.58},
+			"2016-01": {"total":81217.93, "Communities & Environment":81217.93},
+			"2016-02": {"total":1598.63, "Communities & Environment":1598.63},
+			"2016-03": {"total":89841.67, "Communities & Environment":89841.67},
+			"2016-04": {"total":8060.07, "Communities & Environment":8060.07},
+			"2016-05": {"total":4954.57, "Communities & Environment":4954.57},
+			"2016-06": {"total":237656.05, "Communities & Environment":237656.05},
+			"2016-10": {"total":51929.73, "Communities & Environment":51929.73},
+			"2016-11": {"total":6078.70, "Communities & Environment":6078.70},
+			"2016-12": {"total":32024.31, "Communities & Environment":32024.31},
+			"2017-03": {"total":2681.35, "Communities & Environment":2681.35}
+		}
+	},
+	"860": {
+		"name": "BELL TRUCK SALES LTD",
+		"total": 368120.33,
+		"monthly": {
+			"2011-01": {"total":216841.20, "Local Environmental Services":216841.20},
+			"2011-03": {"total":74232.40, "Local Environmental Services":74232.40},
+			"2011-06": {"total":61278.64, "Local Environmental Services":61278.64},
+			"2013-08": {"total":682.03, "Local Environmental Services":682.03},
+			"2015-03": {"total":795.42, "Communities & Enviroment":795.42},
+			"2015-05": {"total":2195.73, "Communities & Enviroment":2195.73},
+			"2017-03": {"total":2056.47, "Communities & Environment":2056.47},
+			"2017-07": {"total":618.03, "Communities & Environment":618.03},
+			"2018-01": {"total":1781.31, "Communities & Environment":1781.31},
+			"2018-09": {"total":807.57, "Communities & Environment":807.57},
+			"2018-11": {"total":834.76, "Communities & Environment":834.76},
+			"2018-12": {"total":1076.76, "Communities & Environment":1076.76},
+			"2019-06": {"total":477.80, "Communities & Environment":477.80},
+			"2019-08": {"total":2388.09, "Communities & Environment":2388.09},
+			"2019-09": {"total":591.72, "Communities & Environment":591.72},
+			"2019-12": {"total":707.22, "Housing, Environment and Healthy Communities":707.22},
+			"2020-01": {"total":755.18, "Communities & Environment":755.18}
+		}
+	},
+	"861": {
+		"name": "BELLE TENTS HIRE",
+		"total": 10710,
+		"monthly": {
+			"2011-05": {"total":1000.00, "Community Based Services":1000.00},
+			"2011-07": {"total":1360.00, "Community Based Services":1360.00},
+			"2012-06": {"total":2945.00, "Community Based Services":2945.00},
+			"2013-05": {"total":1545.00, "Community Based Services":1545.00},
+			"2014-06": {"total":1555.00, "Community Based Services":1555.00},
+			"2015-07": {"total":1555.00, "Communities & Environment":1555.00},
+			"2015-10": {"total":750.00, "Care, Wellbeing & Learning":750.00}
+		}
+	},
+	"862": {
+		"name": "BELLE VUE ESTATES",
+		"total": 4500,
+		"monthly": {
+			"2014-11": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2015-06": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2016-06": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
+		}
+	},
+	"863": {
+		"name": "BELLS COACHES",
+		"total": 3127.5,
+		"monthly": {
+			"2015-08": {"total":877.50, "Communities & Environment":877.50},
+			"2016-08": {"total":2250.00, "Communities & Environment":2250.00}
+		}
+	},
+	"864": {
+		"name": "BEMAS BOILER ERECTORS LTD",
+		"total": 825,
+		"monthly": {
+			"2012-09": {"total":825.00, "Local Environmental Services":825.00}
+		}
+	},
+	"865": {
+		"name": "BEMROSE BOOTH LTD",
+		"total": 5820.07,
+		"monthly": {
+			"2011-04": {"total":432.80, "Development & Enterprise":432.80},
+			"2011-08": {"total":452.80, "Development & Enterprise":452.80},
+			"2011-11": {"total":370.60, "Development & Enterprise":370.60},
+			"2012-02": {"total":846.20, "Development & Enterprise":846.20},
+			"2012-03": {"total":594.72, "Development & Enterprise":594.72},
+			"2012-04": {"total":495.60, "Development & Enterprise":495.60},
+			"2012-05": {"total":423.05, "Development & Enterprise":423.05},
+			"2012-06": {"total":495.60, "Development & Enterprise":495.60},
+			"2012-07": {"total":1209.10, "Development & Enterprise":1209.10},
+			"2012-10": {"total":499.60, "Development & Enterprise":499.60}
+		}
+	},
+	"866": {
+		"name": "BEN HOARE BELL LLP",
+		"total": 3829.58,
+		"monthly": {
+			"2019-10": {"total":3829.58, "Corporate Resources":3829.58}
+		}
+	},
+	"867": {
+		"name": "BEN HOARE BELL SOLICITORS",
+		"total": 1188.85,
+		"monthly": {
+			"2011-11": {"total":641.65, "Community Based Services":641.65},
+			"2017-10": {"total":547.20, "Care, Wellbeing & Learning":547.20}
+		}
+	},
+	"868": {
+		"name": "BEN LEE",
+		"total": 1886.09,
+		"monthly": {
+			"2015-07": {"total":445.50, "Care, Wellbeing & Learning":445.50},
+			"2015-12": {"total":472.50, "Care, Wellbeing & Learning":472.50},
+			"2016-12": {"total":436.32, "Care, Wellbeing & Learning":436.32},
+			"2017-05": {"total":531.77, "Care, Wellbeing & Learning":531.77}
+		}
+	},
+	"869": {
+		"name": "BENCHMARK",
+		"total": 5930,
+		"monthly": {
+			"2012-03": {"total":5930.00, "Development & Enterprise":5930.00}
+		}
+	},
+	"870": {
+		"name": "BENFIELD MOTORS",
+		"total": 27315.63,
+		"monthly": {
+			"2011-11": {"total":6494.67, "Full Authority":6494.67},
+			"2013-07": {"total":1007.56, "Local Environmental Services":1007.56},
+			"2014-03": {"total":19813.40, "Local Environmental Services":19813.40}
+		}
+	},
+	"871": {
+		"name": "BENFIELD VAN CENTRE",
+		"total": 15450.99,
+		"monthly": {
+			"2013-02": {"total":15450.99, "Local Environmental Services":15450.99}
+		}
+	},
+	"872": {
+		"name": "BENMOR MEDICAL (UK) LTD",
+		"total": 2955,
+		"monthly": {
+			"2012-01": {"total":2955.00, "Community Based Services":2955.00}
+		}
+	},
+	"873": {
+		"name": "BENNETT RICHMOND SOLICITORS",
+		"total": 870,
+		"monthly": {
+			"2016-07": {"total":870.00, "Communities & Environment":870.00}
+		}
+	},
+	"874": {
+		"name": "BENSHAM & SALTWELL COMMUNITY FESTIVAL GROUP",
+		"total": 4000,
+		"monthly": {
+			"2012-03": {"total":4000.00, "Community Based Services":4000.00}
+		}
+	},
+	"875": {
+		"name": "BENSHAM AND SALTWELL ALIVE",
+		"total": 64261,
+		"monthly": {
+			"2014-03": {"total":2500.00, "Community Based Services":2500.00},
+			"2017-05": {"total":1950.00, "Communities & Environment":1950.00},
+			"2017-07": {"total":1780.00, "Communities & Environment":1780.00},
+			"2018-06": {"total":1400.00, "Communities & Environment":1400.00},
+			"2018-09": {"total":1000.00, "Communities & Environment":1000.00},
+			"2018-11": {"total":1540.00, "Communities & Environment":1540.00},
+			"2019-03": {"total":14694.00, "Communities & Environment":14694.00},
+			"2019-08": {"total":1000.00, "Communities & Environment":1000.00},
+			"2019-10": {"total":14694.00, "Communities & Environment":14694.00},
+			"2019-12": {"total":2660.00, "Housing, Environment and Healthy Communities":2660.00},
+			"2020-03": {"total":1600.00, "Communities & Environment":1600.00},
+			"2020-04": {"total":19443.00, "Communities & Environment":19443.00}
+		}
+	},
+	"876": {
+		"name": "BENSHAM AND SALTWELL COMMUNITY FESTIVAL GROUP",
+		"total": 12000,
+		"monthly": {
+			"2011-03": {"total":4000.00, "Community Based Services":4000.00},
+			"2013-03": {"total":4000.00, "Community Based Services":4000.00},
+			"2014-04": {"total":4000.00, "Community Based Services":4000.00}
+		}
+	},
+	"877": {
+		"name": "BENSHAM COURT TENANTS ASSOC",
+		"total": 5329.09,
+		"monthly": {
+			"2011-10": {"total":1741.22, "Community Based Services":1741.22},
+			"2012-10": {"total":1303.87, "Community Based Services":1303.87},
+			"2014-11": {"total":500.00, "Communities & Enviroment":500.00},
+			"2015-11": {"total":1034.00, "Communities & Environment":1034.00},
+			"2017-12": {"total":750.00, "Communities & Environment":750.00}
+		}
+	},
+	"878": {
+		"name": "BENSHAM DAY CARE CENTRE",
+		"total": 253330.14,
+		"monthly": {
+			"2012-03": {"total":2644.60, "Learning and Children":2644.60},
+			"2012-06": {"total":11909.16, "Learning and Children":11909.16},
+			"2013-04": {"total":4352.34, "Learning and Children":4352.34},
+			"2013-06": {"total":14480.29, "Learning and Children":14480.29},
+			"2013-08": {"total":654.75, "Learning and Children":654.75},
+			"2013-11": {"total":11640.00, "Learning and Children":11640.00},
+			"2014-04": {"total":7621.07, "Learning and Children":7621.07},
+			"2014-05": {"total":17787.38, "Learning and Children":17787.38},
+			"2014-06": {"total":814.55, "Learning and Children":814.55},
+			"2014-07": {"total":10391.13, "Learning and Children":10391.13},
+			"2014-09": {"total":21388.50, "Learning and Children":21388.50},
+			"2014-12": {"total":11746.70, "Care, Wellbeing & Learning":11746.70},
+			"2015-01": {"total":18944.10, "Care, Wellbeing & Learning":18944.10},
+			"2015-03": {"total":10347.80, "Care, Wellbeing & Learning":10347.80},
+			"2015-04": {"total":3905.73, "Care, Wellbeing & Learning":3905.73},
+			"2015-05": {"total":17514.81, "Care, Wellbeing & Learning":17514.81},
+			"2015-07": {"total":7942.84, "Care, Wellbeing & Learning":7942.84},
+			"2015-09": {"total":22150.68, "Care, Wellbeing & Learning":22150.68},
+			"2015-10": {"total":534.00, "Care, Wellbeing & Learning":534.00},
+			"2015-12": {"total":12003.02, "Care, Wellbeing & Learning":12003.02},
+			"2016-01": {"total":14744.49, "Care, Wellbeing & Learning":14744.49},
+			"2016-03": {"total":7192.07, "Care, Wellbeing & Learning":7192.07},
+			"2016-04": {"total":22620.13, "Care, Wellbeing & Learning":22620.13}
+		}
+	},
+	"879": {
+		"name": "BENSHAM FAMILY PRACTICE",
+		"total": 95450.47,
+		"monthly": {
+			"2013-05": {"total":455.00, "Community Based Services":455.00},
+			"2013-07": {"total":5013.95, "Community Based Services":5013.95},
+			"2013-09": {"total":2751.00, "Community Based Services":2751.00},
+			"2013-10": {"total":2110.00, "Community Based Services":2110.00},
+			"2013-12": {"total":641.50, "Community Based Services":641.50},
+			"2014-01": {"total":9636.30, "Community Based Services":9636.30},
+			"2014-03": {"total":1155.00, "Community Based Services":1155.00},
+			"2014-04": {"total":1131.57, "Community Based Services":1131.57},
+			"2014-05": {"total":840.00, "Community Based Services":840.00},
+			"2014-08": {"total":3658.35, "Community Based Services":3658.35},
+			"2014-09": {"total":1610.00, "Community Based Services":1610.00},
+			"2014-11": {"total":2649.15, "Care, Wellbeing & Learning":2649.15},
+			"2014-12": {"total":855.00, "Care, Wellbeing & Learning":855.00},
+			"2015-02": {"total":3279.90, "Care, Wellbeing & Learning":3279.90},
+			"2015-03": {"total":640.00, "Care, Wellbeing & Learning":640.00},
+			"2015-04": {"total":3459.60, "Care, Wellbeing & Learning":3459.60},
+			"2015-06": {"total":1594.00, "Care, Wellbeing & Learning":1594.00},
+			"2015-07": {"total":2901.45, "Care, Wellbeing & Learning":2901.45},
+			"2015-08": {"total":554.00, "Care, Wellbeing & Learning":554.00},
+			"2015-10": {"total":2775.30, "Care, Wellbeing & Learning":2775.30},
+			"2015-11": {"total":945.00, "Care, Wellbeing & Learning":945.00},
+			"2016-01": {"total":2775.30, "Care, Wellbeing & Learning":2775.30},
+			"2016-02": {"total":1800.00, "Care, Wellbeing & Learning":1800.00},
+			"2016-05": {"total":3375.30, "Care, Wellbeing & Learning":3375.30},
+			"2016-08": {"total":3324.15, "Care, Wellbeing & Learning":3324.15},
+			"2016-09": {"total":565.00, "Care, Wellbeing & Learning":565.00},
+			"2016-11": {"total":3330.30, "Care, Wellbeing & Learning":3330.30},
+			"2017-02": {"total":3910.65, "Care, Wellbeing & Learning":3910.65},
+			"2017-03": {"total":1170.00, "Care, Wellbeing & Learning":1170.00},
+			"2017-05": {"total":3557.60, "Care, Wellbeing & Learning":3557.60},
+			"2017-08": {"total":625.00, "Care, Wellbeing & Learning":625.00},
+			"2017-09": {"total":3027.60, "Care, Wellbeing & Learning":3027.60},
+			"2017-10": {"total":2775.00, "Care, Wellbeing & Learning":2775.00},
+			"2018-01": {"total":2901.45, "Care, Wellbeing & Learning":2901.45},
+			"2018-04": {"total":1230.00, "Care, Wellbeing & Learning":1230.00},
+			"2018-05": {"total":3395.30, "Care, Wellbeing & Learning":3395.30},
+			"2018-07": {"total":2396.85, "Care, Wellbeing & Learning":2396.85},
+			"2018-08": {"total":2190.00, "Care, Wellbeing & Learning":2190.00},
+			"2018-11": {"total":2649.15, "Care, Wellbeing & Learning":2649.15},
+			"2019-02": {"total":630.75, "Care, Wellbeing & Learning":630.75},
+			"2019-10": {"total":625.00, "Care, Wellbeing & Learning":625.00},
+			"2020-04": {"total":540.00, "Care, Wellbeing & Learning":540.00}
+		}
+	},
+	"880": {
+		"name": "BENSHAM GROVE COMMUNITY ASSOCIATION",
+		"total": 636803.45,
+		"monthly": {
+			"2011-07": {"total":1275.00, "Learning and Children":1275.00},
+			"2013-06": {"total":20000.00, "Learning and Children":20000.00},
+			"2013-07": {"total":70535.85, "Learning and Children":70535.85},
+			"2013-08": {"total":14683.00, "Learning and Children":14683.00},
+			"2013-10": {"total":1500.00, "Learning and Children":1500.00},
+			"2014-01": {"total":10800.00, "Learning and Children":10800.00},
+			"2014-04": {"total":7453.33, "Learning and Children":7453.33},
+			"2014-05": {"total":562.09, "Learning and Children":562.09},
+			"2014-06": {"total":1633.34, "Learning and Children":1633.34},
+			"2014-07": {"total":2495.19, "Learning and Children":2495.19},
+			"2014-08": {"total":10010.52, "Learning and Children":10010.52},
+			"2014-09": {"total":521.57, "Learning and Children":521.57},
+			"2014-10": {"total":850.00, "Learning and Children":850.00},
+			"2014-11": {"total":3444.91, "Care, Wellbeing & Learning":3444.91},
+			"2015-01": {"total":9795.41, "Care, Wellbeing & Learning":9795.41},
+			"2015-03": {"total":925.11, "Care, Wellbeing & Learning":925.11},
+			"2015-04": {"total":9053.50, "Care, Wellbeing & Learning":9053.50},
+			"2015-07": {"total":3761.03, "Care, Wellbeing & Learning":3761.03},
+			"2015-08": {"total":2750.00, "Care, Wellbeing & Learning":2750.00},
+			"2015-09": {"total":13587.48, "Care, Wellbeing & Learning":13587.48},
+			"2015-10": {"total":10282.98, "Care, Wellbeing & Learning":10282.98},
+			"2016-01": {"total":20474.90, "Care, Wellbeing & Learning":20474.90},
+			"2016-02": {"total":22333.99, "Care, Wellbeing & Learning":758.99, "Communities & Enviroment":21575.00},
+			"2016-03": {"total":676.23, "Care, Wellbeing & Learning":676.23},
+			"2016-04": {"total":1520.91, "Care, Wellbeing & Learning":1520.91},
+			"2016-05": {"total":10215.50, "Care, Wellbeing & Learning":10215.50},
+			"2016-06": {"total":17437.60, "Care, Wellbeing & Learning":17437.60},
+			"2016-07": {"total":9801.69, "Care, Wellbeing & Learning":9801.69},
+			"2016-08": {"total":8926.43, "Care, Wellbeing & Learning":8926.43},
+			"2016-09": {"total":4333.24, "Care, Wellbeing & Learning":4333.24},
+			"2016-10": {"total":2951.92, "Care, Wellbeing & Learning":2951.92},
+			"2016-11": {"total":9909.24, "Care, Wellbeing & Learning":9909.24},
+			"2016-12": {"total":11725.00, "Care, Wellbeing & Learning":11725.00},
+			"2017-01": {"total":4758.14, "Care, Wellbeing & Learning":4758.14},
+			"2017-02": {"total":632.00, "Care, Wellbeing & Learning":632.00},
+			"2017-03": {"total":5310.91, "Care, Wellbeing & Learning":5310.91},
+			"2017-04": {"total":11350.00, "Care, Wellbeing & Learning":11350.00},
+			"2017-06": {"total":10024.73, "Care, Wellbeing & Learning":10024.73},
+			"2017-07": {"total":14424.10, "Care, Wellbeing & Learning":14424.10},
+			"2017-08": {"total":5616.47, "Care, Wellbeing & Learning":5616.47},
+			"2017-09": {"total":3639.90, "Care, Wellbeing & Learning":3639.90},
+			"2017-10": {"total":4469.76, "Care, Wellbeing & Learning":4469.76},
+			"2017-11": {"total":5635.54, "Care, Wellbeing & Learning":3934.68, "Corporate Services & Governance":1700.86},
+			"2017-12": {"total":5680.00, "Care, Wellbeing & Learning":5680.00},
+			"2018-01": {"total":18840.00, "Care, Wellbeing & Learning":18840.00},
+			"2018-03": {"total":4082.36, "Care, Wellbeing & Learning":4082.36},
+			"2018-04": {"total":14901.19, "Care, Wellbeing & Learning":14901.19},
+			"2018-05": {"total":9332.41, "Care, Wellbeing & Learning":9332.41},
+			"2018-07": {"total":12202.94, "Care, Wellbeing & Learning":12202.94},
+			"2018-10": {"total":11983.04, "Care, Wellbeing & Learning":11983.04},
+			"2018-11": {"total":5758.35, "Care, Wellbeing & Learning":5758.35},
+			"2019-01": {"total":21926.94, "Care, Wellbeing & Learning":21926.94},
+			"2019-02": {"total":526.67, "Corporate Services & Governance":526.67},
+			"2019-03": {"total":11965.78, "Care, Wellbeing & Learning":11965.78},
+			"2019-04": {"total":752.02, "Care, Wellbeing & Learning":752.02},
+			"2019-05": {"total":1793.12, "Care, Wellbeing & Learning":1793.12},
+			"2019-06": {"total":12252.44, "Care, Wellbeing & Learning":12252.44},
+			"2019-07": {"total":11317.08, "Care, Wellbeing & Learning":11317.08},
+			"2019-08": {"total":14744.80, "Care, Wellbeing & Learning":14110.00, "Communities & Environment":634.80},
+			"2019-11": {"total":5414.83, "Care, Wellbeing & Learning":2735.23, "Communities & Environment":2679.60},
+			"2019-12": {"total":1542.90, "Housing, Environment and Healthy Communities":1542.90},
+			"2020-01": {"total":16487.84, "Care, Wellbeing & Learning":15826.34, "Communities & Environment":661.50},
+			"2020-02": {"total":661.50, "Communities & Environment":661.50},
+			"2020-03": {"total":9826.54, "Care, Wellbeing & Learning":8584.54, "Communities & Environment":1242.00},
+			"2020-04": {"total":34665.65, "Care, Wellbeing & Learning":14900.00, "Communities & Environment":19765.65},
+			"2020-05": {"total":24757.40, "Housing, Environment and Healthy Communities":24757.40},
+			"2020-06": {"total":3299.14, "Children, Adults and Families":1992.59, "Housing, Environment and Healthy Communities":1306.55}
+		}
+	},
+	"881": {
+		"name": "BENSHAM GROVE COMMUNITY CENTRE",
+		"total": 15600.72,
+		"monthly": {
+			"2011-08": {"total":613.00, "Learning and Children":613.00},
+			"2011-10": {"total":2507.00, "Learning and Children":2507.00},
+			"2012-03": {"total":450.00, "Learning and Children":450.00},
+			"2012-07": {"total":3106.40, "Learning and Children":3106.40},
+			"2012-08": {"total":900.00, "Learning and Children":900.00},
+			"2013-03": {"total":2284.32, "Learning and Children":2284.32},
+			"2013-07": {"total":5200.00, "Learning and Children":5200.00},
+			"2014-12": {"total":540.00, "Care, Wellbeing & Learning":540.00}
+		}
+	},
+	"882": {
+		"name": "BENSHAM GROVE DAY CARE CENTRE",
+		"total": 582747.24,
+		"monthly": {
+			"2016-09": {"total":28161.22, "Care, Wellbeing & Learning":28161.22},
+			"2016-11": {"total":1277.12, "Care, Wellbeing & Learning":1277.12},
+			"2017-01": {"total":23221.80, "Care, Wellbeing & Learning":23221.80},
+			"2017-03": {"total":7551.45, "Care, Wellbeing & Learning":7551.45},
+			"2017-04": {"total":24161.37, "Care, Wellbeing & Learning":24161.37},
+			"2017-06": {"total":673.10, "Care, Wellbeing & Learning":673.10},
+			"2017-07": {"total":10498.80, "Care, Wellbeing & Learning":10498.80},
+			"2017-09": {"total":30692.75, "Care, Wellbeing & Learning":30692.75},
+			"2017-11": {"total":12467.38, "Care, Wellbeing & Learning":12467.38},
+			"2017-12": {"total":17966.00, "Care, Wellbeing & Learning":17966.00},
+			"2018-01": {"total":31460.40, "Care, Wellbeing & Learning":31460.40},
+			"2018-02": {"total":6166.67, "Care, Wellbeing & Learning":6166.67},
+			"2018-03": {"total":12051.00, "Care, Wellbeing & Learning":12051.00},
+			"2018-04": {"total":41012.48, "Care, Wellbeing & Learning":41012.48},
+			"2018-07": {"total":25992.03, "Care, Wellbeing & Learning":25992.03},
+			"2018-09": {"total":38546.56, "Care, Wellbeing & Learning":38546.56},
+			"2018-12": {"total":15653.41, "Care, Wellbeing & Learning":15653.41},
+			"2019-01": {"total":36995.82, "Care, Wellbeing & Learning":36995.82},
+			"2019-03": {"total":7451.86, "Care, Wellbeing & Learning":7451.86},
+			"2019-04": {"total":44640.05, "Care, Wellbeing & Learning":44640.05},
+			"2019-07": {"total":40445.55, "Care, Wellbeing & Learning":40445.55},
+			"2019-09": {"total":33314.91, "Care, Wellbeing & Learning":33314.91},
+			"2019-12": {"total":12172.97, "Children, Adults and Families":12172.97},
+			"2020-01": {"total":29909.92, "Care, Wellbeing & Learning":29909.92},
+			"2020-03": {"total":9976.09, "Care, Wellbeing & Learning":9976.09},
+			"2020-04": {"total":40286.53, "Care, Wellbeing & Learning":40286.53}
+		}
+	},
+	"883": {
+		"name": "BENSHAM GROVE HERITAGE & RESTORATION GROUP",
+		"total": 500,
+		"monthly": {
+			"2012-10": {"total":500.00, "Community Based Services":500.00}
+		}
+	},
+	"884": {
+		"name": "BENSHAM GROVE NEIGHBOURHOOD NURSERY",
+		"total": 2500,
+		"monthly": {
+			"2011-10": {"total":2500.00, "Learning and Children":2500.00}
+		}
+	},
+	"885": {
+		"name": "BENSHAM GROVE NURSERY",
+		"total": 14431.33,
+		"monthly": {
+			"2014-01": {"total":13431.33, "Learning and Children":13431.33},
+			"2019-09": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2020-05": {"total":500.00, "Children, Adults and Families":500.00}
+		}
+	},
+	"886": {
+		"name": "BENSHAM GROVE POTTERY",
+		"total": 10350,
+		"monthly": {
+			"2015-04": {"total":10350.00, "Care, Wellbeing & Learning":10350.00}
+		}
+	},
+	"887": {
 		"name": "BENTLEY SYSTEMS INTERNATIONAL LTD",
 		"alternate-names": [
 			"BENTLEY SYSTEMS INTERNATIONAL LIMITED"
 		],
 		"total": 141481.71,
 		"monthly": {
-			"2012-07": {"total":29236.25, "Supplies and Services":29236.25},
-			"2013-07": {"total":29887.00, "Supplies and Services":29887.00},
-			"2014-07": {"total":20190.35, "Supplies and Services":20190.35},
-			"2015-07": {"total":17031.29, "Supplies and Services":17031.29},
-			"2016-08": {"total":15441.06, "Supplies and Services":15441.06},
-			"2017-07": {"total":17316.97, "Supplies and Services":17316.97},
-			"2018-06": {"total":12378.79, "Supplies and Services":12378.79}
+			"2012-07": {"total":29236.25, "Development & Enterprise":29236.25},
+			"2013-07": {"total":29887.00, "Central Services":2743.60, "Development & Enterprise":27143.40},
+			"2014-07": {"total":20190.35, "Central Services":1765.38, "Development & Enterprise":18424.97},
+			"2015-07": {"total":17031.29, "Communities & Environment":14348.09, "Corporate Services & Governance":2683.20},
+			"2016-08": {"total":15441.06, "Communities & Environment":15441.06},
+			"2017-07": {"total":17316.97, "Communities & Environment":14592.03, "Corporate Services & Governance":2724.94},
+			"2018-06": {"total":12378.79, "Communities & Environment":12378.79}
 		}
 	},
-	"851": {
+	"888": {
 		"name": "BENTLEY SYSTEMS UK LTD",
-		"total": 36911.67,
+		"total": 54578.67,
 		"monthly": {
-			"2011-07": {"total":24638.25, "Supplies and Services":24638.25},
-			"2011-09": {"total":3676.50, "Supplies and Services":3676.50},
-			"2013-03": {"total":8596.92, "Employees":8596.92}
+			"2011-07": {"total":24638.25, "Development & Enterprise":24638.25},
+			"2011-09": {"total":3676.50, "Development & Enterprise":3676.50},
+			"2013-03": {"total":8596.92, "Development & Enterprise":8596.92},
+			"2019-07": {"total":17667.00, "Communities & Environment":17667.00}
 		}
 	},
-	"852": {
+	"889": {
 		"name": "BENTON DENE SCHOOLS",
-		"total": 500,
+		"total": 3000,
 		"monthly": {
-			"2019-01": {"total":500.00, "Third Party Payments":500.00}
+			"2019-01": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2019-11": {"total":2500.00, "Care, Wellbeing & Learning":2500.00}
 		}
 	},
-	"853": {
+	"890": {
 		"name": "BERENDSEN UK LTD",
 		"total": 16784.33,
 		"monthly": {
-			"2013-08": {"total":484.95, "Supplies and Services":484.95},
-			"2013-09": {"total":387.96, "Supplies and Services":387.96},
-			"2013-10": {"total":387.96, "Supplies and Services":387.96},
-			"2013-11": {"total":484.95, "Supplies and Services":484.95},
-			"2014-01": {"total":1139.62, "Supplies and Services":1139.62},
-			"2014-02": {"total":484.95, "Supplies and Services":484.95},
-			"2014-05": {"total":1336.92, "Supplies and Services":1336.92},
-			"2014-08": {"total":1336.92, "Supplies and Services":1336.92},
-			"2014-09": {"total":411.36, "Supplies and Services":411.36},
-			"2014-11": {"total":925.56, "Supplies and Services":925.56},
-			"2015-01": {"total":947.08, "Supplies and Services":947.08},
-			"2015-02": {"total":431.04, "Supplies and Services":431.04},
-			"2015-03": {"total":1038.72, "Supplies and Services":1038.72},
-			"2015-04": {"total":450.72, "Supplies and Services":450.72},
-			"2015-05": {"total":563.40, "Supplies and Services":563.40},
-			"2015-06": {"total":450.72, "Supplies and Services":450.72},
-			"2015-07": {"total":480.08, "Supplies and Services":480.08},
-			"2015-11": {"total":4181.64, "Supplies and Services":4181.64},
-			"2016-02": {"total":391.70, "Supplies and Services":391.70},
-			"2016-03": {"total":468.08, "Supplies and Services":468.08}
+			"2013-08": {"total":484.95, "Local Environmental Services":484.95},
+			"2013-09": {"total":387.96, "Local Environmental Services":387.96},
+			"2013-10": {"total":387.96, "Local Environmental Services":387.96},
+			"2013-11": {"total":484.95, "Local Environmental Services":484.95},
+			"2014-01": {"total":1139.62, "Community Based Services":363.70, "Local Environmental Services":775.92},
+			"2014-02": {"total":484.95, "Local Environmental Services":484.95},
+			"2014-05": {"total":1336.92, "Local Environmental Services":1336.92},
+			"2014-08": {"total":1336.92, "Local Environmental Services":1336.92},
+			"2014-09": {"total":411.36, "Local Environmental Services":411.36},
+			"2014-11": {"total":925.56, "Communities & Enviroment":925.56},
+			"2015-01": {"total":947.08, "Communities & Enviroment":947.08},
+			"2015-02": {"total":431.04, "Communities & Enviroment":431.04},
+			"2015-03": {"total":1038.72, "Communities & Enviroment":1038.72},
+			"2015-04": {"total":450.72, "Communities & Enviroment":450.72},
+			"2015-05": {"total":563.40, "Communities & Enviroment":563.40},
+			"2015-06": {"total":450.72, "Communities & Environment":450.72},
+			"2015-07": {"total":480.08, "Communities & Environment":480.08},
+			"2015-11": {"total":4181.64, "Communities & Environment":4181.64},
+			"2016-02": {"total":391.70, "Communities & Environment":391.70},
+			"2016-03": {"total":468.08, "Communities & Environment":468.08}
 		}
 	},
-	"854": {
+	"891": {
 		"name": "BERGHAUS LTD",
 		"total": 498.79,
 		"monthly": {
 			"2011-04": {"total":498.79, "Community Based Services":498.79}
 		}
 	},
-	"855": {
+	"892": {
 		"name": "BERMANS (2012) LTD",
 		"total": 5568.63,
 		"monthly": {
-			"2016-01": {"total":5568.63, "Third Party Payments":5568.63}
+			"2016-01": {"total":5568.63, "Care, Wellbeing & Learning":5568.63}
 		}
 	},
-	"856": {
+	"893": {
 		"name": "BERNICIA GROUP LTD",
-		"total": 206038.82,
+		"total": 311433.95,
 		"monthly": {
-			"2013-01": {"total":4123.28, "Premises":4123.28},
-			"2013-05": {"total":9086.35, "Premises":9086.35},
-			"2013-08": {"total":6908.07, "Premises":6908.07},
-			"2013-09": {"total":7198.75, "Premises":3198.75, "Supplies and Services":4000.00},
-			"2013-11": {"total":11924.14, "Premises":11924.14},
-			"2014-03": {"total":1330.20, "Premises":1330.20},
-			"2014-08": {"total":16658.67, "Third Party Payments":16658.67},
-			"2015-01": {"total":2910.39, "Premises":2910.39},
-			"2015-03": {"total":1333.85, "Premises":1333.85},
-			"2016-06": {"total":8232.25, "Premises":8232.25},
-			"2016-12": {"total":6682.46, "Premises":6682.46},
-			"2017-03": {"total":3366.67, "Premises":3366.67},
-			"2017-08": {"total":18543.12, "Premises":18543.12},
-			"2017-11": {"total":12343.63, "Premises":12343.63},
-			"2018-02": {"total":3826.55, "Premises":3826.55},
-			"2018-04": {"total":15028.00, "Third Party Payments":15028.00},
-			"2018-06": {"total":22987.64, "Third Party Payments":15028.00, "Premises":7959.64},
-			"2018-12": {"total":34035.82, "Premises":3979.82, "Third Party Payments":30056.00},
-			"2019-03": {"total":15539.16, "Third Party Payments":15539.16},
-			"2019-04": {"total":3979.82, "Premises":3979.82}
+			"2013-01": {"total":4123.28, "Community Based Services":4123.28},
+			"2013-05": {"total":9086.35, "Community Based Services":9086.35},
+			"2013-08": {"total":6908.07, "Community Based Services":6908.07},
+			"2013-09": {"total":7198.75, "Community Based Services":7198.75},
+			"2013-11": {"total":11924.14, "Community Based Services":11924.14},
+			"2014-03": {"total":1330.20, "Community Based Services":1330.20},
+			"2014-08": {"total":16658.67, "Community Based Services":16658.67},
+			"2015-01": {"total":2910.39, "Care, Wellbeing & Learning":2910.39},
+			"2015-03": {"total":1333.85, "Care, Wellbeing & Learning":1333.85},
+			"2016-06": {"total":8232.25, "Care, Wellbeing & Learning":8232.25},
+			"2016-12": {"total":6682.46, "Care, Wellbeing & Learning":6682.46},
+			"2017-03": {"total":3366.67, "Care, Wellbeing & Learning":3366.67},
+			"2017-08": {"total":18543.12, "Care, Wellbeing & Learning":18543.12},
+			"2017-11": {"total":12343.63, "Care, Wellbeing & Learning":12343.63},
+			"2018-02": {"total":3826.55, "Care, Wellbeing & Learning":3826.55},
+			"2018-04": {"total":15028.00, "Care, Wellbeing & Learning":15028.00},
+			"2018-06": {"total":22987.64, "Care, Wellbeing & Learning":22987.64},
+			"2018-12": {"total":34035.82, "Care, Wellbeing & Learning":34035.82},
+			"2019-03": {"total":15539.16, "Care, Wellbeing & Learning":15539.16},
+			"2019-04": {"total":3979.82, "Care, Wellbeing & Learning":3979.82},
+			"2019-06": {"total":19725.29, "Care, Wellbeing & Learning":19725.29},
+			"2019-07": {"total":4186.13, "Care, Wellbeing & Learning":4186.13},
+			"2019-09": {"total":15539.16, "Care, Wellbeing & Learning":15539.16},
+			"2019-12": {"total":4186.13, "Children, Adults and Families":4186.13},
+			"2020-01": {"total":16734.48, "Care, Wellbeing & Learning":16734.48},
+			"2020-03": {"total":4508.14, "Care, Wellbeing & Learning":4508.14},
+			"2020-05": {"total":15958.80, "Children, Adults and Families":15958.80},
+			"2020-06": {"total":24557.00, "Children, Adults and Families":24557.00}
 		}
 	},
-	"857": {
+	"894": {
 		"name": "BERRY SYSTEMS",
 		"total": 11536.66,
 		"monthly": {
@@ -107,626 +805,51 @@
 			"2011-03": {"total":749.73, "Local Environmental Services":749.73}
 		}
 	},
-	"858": {
+	"895": {
 		"name": "BERTRAM LIBRARY SERVICES",
 		"total": 962.38,
 		"monthly": {
 			"2011-01": {"total":962.38, "Community Based Services":962.38}
 		}
 	},
-	"859": {
+	"896": {
 		"name": "BERWICK CARE HOME",
 		"total": 4064.35,
 		"monthly": {
-			"2012-09": {"total":2698.09, "Third Party Payments":2698.09},
-			"2012-10": {"total":1366.26, "Income: Customer and Client Receipts":1366.26}
-		}
-	},
-	"860": {
-		"name": "BERWICK HOLIDAY CENTRE",
-		"total": 24857.57,
-		"monthly": {
-			"2011-12": {"total":3000.00, "unknown":3000.00},
-			"2012-04": {"total":750.00, "unknown":750.00},
-			"2012-08": {"total":4000.00, "unknown":4000.00},
-			"2013-05": {"total":500.00, "Third Party Payments":500.00},
-			"2013-11": {"total":3500.00, "unknown":3500.00},
-			"2014-11": {"total":3500.00, "unknown":3500.00},
-			"2015-06": {"total":500.00, "unknown":500.00},
-			"2015-11": {"total":3200.00, "unknown":3200.00},
-			"2016-03": {"total":1250.00, "unknown":1250.00},
-			"2017-03": {"total":4002.27, "unknown":4002.27},
-			"2017-08": {"total":655.30, "unknown":655.30}
-		}
-	},
-	"861": {
-		"name": "BES LTD",
-		"total": 405.12,
-		"monthly": {
-			"2016-03": {"total":405.12, "Supplies and Services":405.12}
-		}
-	},
-	"862": {
-		"name": "BES UTILITIES",
-		"total": 708.8,
-		"monthly": {
-			"2018-01": {"total":708.80, "Premises":708.80}
-		}
-	},
-	"863": {
-		"name": "BESAM LTD",
-		"total": 44914.05,
-		"monthly": {
-			"2011-03": {"total":980.00, "Local Environmental Services":980.00},
-			"2011-08": {"total":1450.00, "Third Party Payments":1450.00},
-			"2011-09": {"total":3187.00, "Supplies and Services":3187.00},
-			"2011-11": {"total":5566.15, "Supplies and Services":1050.00, "Third Party Payments":4516.15},
-			"2012-02": {"total":429.74, "Third Party Payments":429.74},
-			"2012-03": {"total":1765.80, "Third Party Payments":1765.80},
-			"2012-05": {"total":1475.25, "Third Party Payments":947.91, "Supplies and Services":527.34},
-			"2012-09": {"total":4232.26, "Supplies and Services":3304.00, "Third Party Payments":928.26},
-			"2012-10": {"total":395.00, "Third Party Payments":395.00},
-			"2013-01": {"total":2189.00, "Third Party Payments":650.00, "Supplies and Services":1539.00},
-			"2013-03": {"total":2906.40, "Supplies and Services":695.00, "Third Party Payments":2211.40},
-			"2013-05": {"total":1449.84, "Third Party Payments":1449.84},
-			"2013-06": {"total":355.87, "Third Party Payments":355.87},
-			"2013-08": {"total":595.00, "Supplies and Services":595.00},
-			"2013-10": {"total":3660.00, "Supplies and Services":3660.00},
-			"2013-11": {"total":7814.10, "Supplies and Services":7814.10},
-			"2013-12": {"total":1075.00, "Supplies and Services":1075.00},
-			"2014-01": {"total":1700.00, "Supplies and Services":1700.00},
-			"2014-02": {"total":597.44, "Supplies and Services":597.44},
-			"2014-04": {"total":3090.20, "Supplies and Services":3090.20}
-		}
-	},
-	"864": {
-		"name": "BEST AT SOLUTIONS",
-		"total": 1500,
-		"monthly": {
-			"2016-04": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"865": {
-		"name": "BESTECH SYSTEMS LTD",
-		"total": 1452,
-		"monthly": {
-			"2011-01": {"total":484.00, "Development & Enterprise":484.00},
-			"2012-05": {"total":484.00, "Supplies and Services":484.00},
-			"2013-01": {"total":484.00, "Supplies and Services":484.00}
-		}
-	},
-	"866": {
-		"name": "BESTFORD & COMPANY INSURANCE BROKERS",
-		"total": 417.5,
-		"monthly": {
-			"2012-02": {"total":417.50, "Supplies and Services":417.50}
-		}
-	},
-	"867": {
-		"name": "BESTWAY NATIONAL CHEMIST LIMITED (CO-OP PHARMACY)",
-		"total": 107623.41,
-		"monthly": {
-			"2015-03": {"total":3008.52, "Third Party Payments":3008.52},
-			"2015-04": {"total":565.92, "Third Party Payments":565.92},
-			"2015-05": {"total":5224.43, "Third Party Payments":5224.43},
-			"2015-06": {"total":1897.53, "Third Party Payments":1897.53},
-			"2015-07": {"total":2263.81, "Third Party Payments":2263.81},
-			"2015-08": {"total":1775.85, "Third Party Payments":1775.85},
-			"2015-09": {"total":2569.60, "Third Party Payments":2569.60},
-			"2015-10": {"total":540.55, "Third Party Payments":540.55},
-			"2015-11": {"total":4521.82, "Third Party Payments":4521.82},
-			"2015-12": {"total":601.39, "Third Party Payments":601.39},
-			"2016-01": {"total":1013.49, "Third Party Payments":1013.49},
-			"2016-02": {"total":3158.15, "Third Party Payments":3158.15},
-			"2016-03": {"total":1291.26, "Third Party Payments":1291.26},
-			"2016-04": {"total":1308.78, "Third Party Payments":1308.78},
-			"2016-05": {"total":3851.01, "Third Party Payments":3851.01},
-			"2016-06": {"total":1152.27, "Third Party Payments":1152.27},
-			"2016-07": {"total":4095.42, "Third Party Payments":4095.42},
-			"2016-08": {"total":796.92, "Third Party Payments":796.92},
-			"2016-09": {"total":1263.29, "Third Party Payments":1263.29},
-			"2016-10": {"total":641.46, "Third Party Payments":641.46},
-			"2016-11": {"total":1064.80, "Third Party Payments":1064.80},
-			"2016-12": {"total":1283.67, "Third Party Payments":1283.67},
-			"2017-01": {"total":4579.51, "Third Party Payments":4579.51},
-			"2017-02": {"total":1541.48, "Third Party Payments":1541.48},
-			"2017-03": {"total":2993.29, "Third Party Payments":2993.29},
-			"2017-04": {"total":2006.01, "Third Party Payments":2006.01},
-			"2017-05": {"total":2775.23, "Third Party Payments":2775.23},
-			"2017-06": {"total":1531.17, "Third Party Payments":1531.17},
-			"2017-07": {"total":2368.19, "Third Party Payments":2368.19},
-			"2017-08": {"total":2001.57, "Third Party Payments":2001.57},
-			"2017-09": {"total":3482.28, "Third Party Payments":3482.28},
-			"2017-10": {"total":1558.52, "Third Party Payments":1558.52},
-			"2017-11": {"total":648.14, "Third Party Payments":648.14},
-			"2017-12": {"total":4455.44, "Third Party Payments":4455.44},
-			"2018-01": {"total":5098.66, "Third Party Payments":5098.66},
-			"2018-02": {"total":2253.76, "Third Party Payments":2253.76},
-			"2018-03": {"total":1560.60, "Third Party Payments":1560.60},
-			"2018-04": {"total":1167.66, "Third Party Payments":1167.66},
-			"2018-05": {"total":2717.24, "Third Party Payments":2717.24},
-			"2018-06": {"total":967.99, "Third Party Payments":967.99},
-			"2018-07": {"total":1093.27, "Third Party Payments":1093.27},
-			"2018-08": {"total":3194.12, "Third Party Payments":3194.12},
-			"2018-09": {"total":1686.51, "Third Party Payments":1686.51},
-			"2018-10": {"total":859.87, "Third Party Payments":859.87},
-			"2018-11": {"total":2150.64, "Third Party Payments":2150.64},
-			"2018-12": {"total":1417.21, "Third Party Payments":1417.21},
-			"2019-01": {"total":1452.82, "Third Party Payments":1452.82},
-			"2019-02": {"total":1418.34, "Third Party Payments":1418.34},
-			"2019-03": {"total":1557.35, "Third Party Payments":1557.35},
-			"2019-04": {"total":2945.89, "Third Party Payments":2945.89},
-			"2019-05": {"total":2250.71, "Third Party Payments":2250.71}
-		}
-	},
-	"868": {
-		"name": "BESTWAY NATIONAL CHEMISTS T/A WELL",
-		"total": 2200,
-		"monthly": {
-			"2017-03": {"total":2200.00, "Supplies and Services":2200.00}
-		}
-	},
-	"869": {
-		"name": "BETH JACOB CLUB",
-		"total": 6500,
-		"monthly": {
-			"2011-03": {"total":6500.00, "Learning and Children":6500.00}
-		}
-	},
-	"870": {
-		"name": "BETH JACOB GRAMMAR SCHOOL FOR GIRLS LTD",
-		"total": 77670,
-		"monthly": {
-			"2011-05": {"total":11070.00, "Learning and Children":11070.00},
-			"2011-09": {"total":3640.00, "Transfer Payments":3640.00},
-			"2012-02": {"total":3800.00, "Third Party Payments":3800.00},
-			"2012-04": {"total":3800.00, "Third Party Payments":3800.00},
-			"2012-08": {"total":3800.00, "Third Party Payments":3800.00},
-			"2012-12": {"total":3900.00, "Third Party Payments":3900.00},
-			"2013-05": {"total":3900.00, "Third Party Payments":3900.00},
-			"2013-09": {"total":1970.00, "Third Party Payments":1970.00},
-			"2014-01": {"total":2020.00, "Third Party Payments":2020.00},
-			"2014-03": {"total":2020.00, "Third Party Payments":2020.00},
-			"2014-08": {"total":4000.00, "Third Party Payments":4000.00},
-			"2014-12": {"total":4090.00, "Third Party Payments":4090.00},
-			"2015-04": {"total":4090.00, "Third Party Payments":4090.00},
-			"2015-08": {"total":2065.00, "Third Party Payments":2065.00},
-			"2015-12": {"total":2065.00, "Supplies and Services":2065.00},
-			"2016-04": {"total":2065.00, "Supplies and Services":2065.00},
-			"2016-11": {"total":2065.00, "Supplies and Services":2065.00},
-			"2016-12": {"total":2100.00, "Supplies and Services":2100.00},
-			"2017-04": {"total":2100.00, "Supplies and Services":2100.00},
-			"2017-08": {"total":2100.00, "Supplies and Services":2100.00},
-			"2018-04": {"total":2180.00, "Supplies and Services":2180.00},
-			"2018-07": {"total":2180.00, "Supplies and Services":2180.00},
-			"2018-09": {"total":2180.00, "Supplies and Services":2180.00},
-			"2019-01": {"total":2235.00, "Supplies and Services":2235.00},
-			"2019-04": {"total":2235.00, "Supplies and Services":2235.00}
-		}
-	},
-	"871": {
-		"name": "BETTER LIFE HEALTH CARE LTD",
-		"total": 494.1,
-		"monthly": {
-			"2018-10": {"total":494.10, "Supplies and Services":494.10}
-		}
-	},
-	"872": {
-		"name": "BEVAN BRITTAN LLP",
-		"total": 253076.56,
-		"monthly": {
-			"2015-06": {"total":206431.73, "Supplies and Services":206431.73},
-			"2016-07": {"total":46644.83, "Supplies and Services":46644.83}
-		}
-	},
-	"873": {
-		"name": "BEVERAGES DIRECT LTD",
-		"alternate-names": [
-			"BEVERAGES DIRECT LIMITED"
-		],
-		"total": 60188.51,
-		"monthly": {
-			"2010-12": {"total":417.88, "Local Environmental Services":417.88},
-			"2011-01": {"total":873.70, "Local Environmental Services":873.70},
-			"2011-02": {"total":1465.34, "Local Environmental Services":1465.34},
-			"2011-03": {"total":1474.25, "Local Environmental Services":1474.25},
-			"2011-04": {"total":799.87, "Local Environmental Services":799.87},
-			"2011-05": {"total":867.29, "Local Environmental Services":867.29},
-			"2011-06": {"total":451.89, "Local Environmental Services":451.89},
-			"2011-10": {"total":1402.37, "Supplies and Services":1402.37},
-			"2011-11": {"total":1471.34, "Supplies and Services":1471.34},
-			"2012-02": {"total":605.49, "Supplies and Services":605.49},
-			"2012-03": {"total":1169.56, "Supplies and Services":1169.56},
-			"2012-04": {"total":1225.49, "Supplies and Services":1225.49},
-			"2012-05": {"total":1390.01, "Supplies and Services":1390.01},
-			"2012-06": {"total":511.27, "Supplies and Services":511.27},
-			"2012-07": {"total":798.10, "Supplies and Services":798.10},
-			"2012-10": {"total":907.75, "Supplies and Services":907.75},
-			"2012-11": {"total":609.74, "Supplies and Services":609.74},
-			"2012-12": {"total":481.20, "Supplies and Services":481.20},
-			"2013-01": {"total":2298.55, "Supplies and Services":2298.55},
-			"2013-02": {"total":856.94, "Supplies and Services":856.94},
-			"2013-05": {"total":812.12, "Supplies and Services":812.12},
-			"2013-06": {"total":824.63, "Supplies and Services":824.63},
-			"2013-09": {"total":1115.31, "Supplies and Services":1115.31},
-			"2013-10": {"total":885.37, "Supplies and Services":885.37},
-			"2013-11": {"total":1267.54, "Supplies and Services":1267.54},
-			"2014-01": {"total":761.49, "Supplies and Services":761.49},
-			"2014-02": {"total":520.44, "Supplies and Services":520.44},
-			"2014-03": {"total":1098.98, "Supplies and Services":1098.98},
-			"2014-04": {"total":658.52, "Supplies and Services":658.52},
-			"2014-06": {"total":823.65, "Supplies and Services":823.65},
-			"2014-07": {"total":922.73, "Supplies and Services":922.73},
-			"2014-10": {"total":714.03, "Supplies and Services":714.03},
-			"2015-01": {"total":2450.62, "Supplies and Services":2450.62},
-			"2015-03": {"total":707.40, "Supplies and Services":707.40},
-			"2015-04": {"total":1073.52, "Supplies and Services":1073.52},
-			"2015-05": {"total":3464.94, "Supplies and Services":3464.94},
-			"2015-06": {"total":863.39, "Supplies and Services":863.39},
-			"2015-08": {"total":1604.40, "Supplies and Services":1604.40},
-			"2015-10": {"total":1210.82, "Supplies and Services":1210.82},
-			"2015-12": {"total":651.98, "Supplies and Services":651.98},
-			"2016-01": {"total":1100.92, "Supplies and Services":1100.92},
-			"2016-03": {"total":1869.10, "Supplies and Services":1869.10},
-			"2016-04": {"total":947.21, "Supplies and Services":947.21},
-			"2016-06": {"total":1178.55, "Supplies and Services":1178.55},
-			"2016-07": {"total":779.92, "Supplies and Services":779.92},
-			"2016-10": {"total":739.14, "Supplies and Services":739.14},
-			"2016-11": {"total":1044.72, "Supplies and Services":1044.72},
-			"2016-12": {"total":965.22, "Supplies and Services":965.22},
-			"2017-01": {"total":1805.88, "Supplies and Services":1805.88},
-			"2017-02": {"total":543.11, "Supplies and Services":543.11},
-			"2017-03": {"total":1212.64, "Supplies and Services":1212.64},
-			"2017-05": {"total":542.78, "Supplies and Services":542.78},
-			"2017-07": {"total":1562.14, "Supplies and Services":1562.14},
-			"2017-08": {"total":628.98, "Supplies and Services":628.98},
-			"2017-10": {"total":822.39, "Supplies and Services":822.39},
-			"2017-11": {"total":1935.90, "Supplies and Services":1935.90}
-		}
-	},
-	"874": {
-		"name": "BEWICK ROAD SURGERY",
-		"total": 87272.56,
-		"monthly": {
-			"2013-07": {"total":2656.08, "Third Party Payments":2656.08},
-			"2013-10": {"total":2656.08, "Third Party Payments":2656.08},
-			"2014-01": {"total":6456.08, "Third Party Payments":6456.08},
-			"2014-03": {"total":3045.00, "Third Party Payments":3045.00},
-			"2014-04": {"total":3637.07, "Third Party Payments":3637.07},
-			"2014-05": {"total":760.00, "Third Party Payments":760.00},
-			"2014-06": {"total":815.89, "Third Party Payments":815.89},
-			"2014-08": {"total":2561.22, "Third Party Payments":2561.22},
-			"2014-09": {"total":2260.00, "Third Party Payments":2260.00},
-			"2014-12": {"total":1090.00, "Third Party Payments":1090.00},
-			"2015-02": {"total":5217.30, "Third Party Payments":5217.30},
-			"2015-04": {"total":3532.20, "Third Party Payments":3532.20},
-			"2015-05": {"total":2750.94, "Third Party Payments":2750.94},
-			"2015-06": {"total":3238.00, "Third Party Payments":3238.00},
-			"2015-07": {"total":3414.96, "Third Party Payments":3414.96},
-			"2015-10": {"total":3225.24, "Third Party Payments":3225.24},
-			"2016-08": {"total":9643.26, "Third Party Payments":9643.26},
-			"2017-02": {"total":5596.74, "Third Party Payments":5596.74},
-			"2017-05": {"total":3670.94, "Third Party Payments":3670.94},
-			"2017-10": {"total":6692.88, "Third Party Payments":6692.88},
-			"2017-11": {"total":990.00, "Third Party Payments":990.00},
-			"2018-01": {"total":2750.94, "Third Party Payments":2750.94},
-			"2018-04": {"total":2220.00, "Third Party Payments":2220.00},
-			"2018-05": {"total":625.00, "Third Party Payments":625.00},
-			"2018-08": {"total":870.00, "Third Party Payments":870.00},
-			"2018-11": {"total":5367.86, "Third Party Payments":5367.86},
-			"2019-02": {"total":1528.88, "Third Party Payments":1528.88}
-		}
-	},
-	"875": {
-		"name": "BEWLEY & SCOTT LTD",
-		"total": 311486.13,
-		"monthly": {
-			"2014-09": {"total":18825.09, "Other Costs":18825.09},
-			"2014-10": {"total":13327.50, "Other Costs":13327.50},
-			"2014-11": {"total":15292.70, "Other Costs":15292.70},
-			"2014-12": {"total":19319.59, "Other Costs":19319.59},
-			"2015-01": {"total":21888.94, "Other Costs":21888.94},
-			"2015-02": {"total":30227.99, "Other Costs":30227.99},
-			"2015-03": {"total":23134.96, "Other Costs":23134.96},
-			"2015-04": {"total":28416.10, "Other Costs":28416.10},
-			"2015-05": {"total":50902.46, "Other Costs":50902.46},
-			"2015-06": {"total":35696.08, "Other Costs":35696.08},
-			"2015-07": {"total":54454.72, "Other Costs":54454.72}
-		}
-	},
-	"876": {
-		"name": "BEYOND GROUP",
-		"total": 8913,
-		"monthly": {
-			"2016-04": {"total":8913.00, "Other Costs":8913.00}
-		}
-	},
-	"877": {
-		"name": "BEYOND THE BARRIERS LTD",
-		"total": 1532,
-		"monthly": {
-			"2012-07": {"total":1532.00, "Supplies and Services":1532.00}
-		}
-	},
-	"878": {
-		"name": "BIB OPHTHALMIC INSTRUMENTS",
-		"total": 610,
-		"monthly": {
-			"2018-11": {"total":610.00, "Supplies and Services":610.00}
-		}
-	},
-	"879": {
-		"name": "BIBLIOTHECA LTD",
-		"alternate-names": [
-			"BIBLIOTHECA LIMITED"
-		],
-		"total": 69062.25,
-		"monthly": {
-			"2013-10": {"total":1996.73, "Supplies and Services":1996.73},
-			"2014-03": {"total":6000.00, "Supplies and Services":6000.00},
-			"2014-08": {"total":1041.33, "Supplies and Services":1041.33},
-			"2014-10": {"total":675.75, "Supplies and Services":675.75},
-			"2014-12": {"total":4705.00, "Supplies and Services":4705.00},
-			"2015-03": {"total":7274.32, "Supplies and Services":7274.32},
-			"2015-04": {"total":508.00, "Purchase of Equipment":508.00},
-			"2015-07": {"total":9422.43, "Purchase of Equipment":8582.43, "Supplies and Services":840.00},
-			"2015-08": {"total":1072.57, "Supplies and Services":1072.57},
-			"2016-02": {"total":6669.58, "Supplies and Services":6669.58},
-			"2016-05": {"total":1171.57, "Supplies and Services":1171.57},
-			"2016-08": {"total":858.00, "Supplies and Services":858.00},
-			"2016-11": {"total":1104.75, "Supplies and Services":1104.75},
-			"2017-02": {"total":1520.00, "Supplies and Services":1520.00},
-			"2017-03": {"total":6869.67, "Supplies and Services":6869.67},
-			"2017-04": {"total":1203.75, "Supplies and Services":1203.75},
-			"2017-07": {"total":428.10, "Supplies and Services":428.10},
-			"2018-01": {"total":7075.76, "Supplies and Services":7075.76},
-			"2018-05": {"total":645.00, "Supplies and Services":645.00},
-			"2018-06": {"total":1236.89, "Supplies and Services":1236.89},
-			"2019-02": {"total":5466.02, "Supplies and Services":5466.02},
-			"2019-04": {"total":945.00, "Supplies and Services":945.00},
-			"2019-05": {"total":1172.03, "Supplies and Services":1172.03}
-		}
-	},
-	"880": {
-		"name": "BIC PLC",
-		"total": 21863.57,
-		"monthly": {
-			"2013-07": {"total":4641.99, "Supplies and Services":4641.99},
-			"2015-08": {"total":8251.70, "Supplies and Services":8251.70},
-			"2016-08": {"total":8969.88, "Supplies and Services":8969.88}
-		}
-	},
-	"881": {
-		"name": "BIDDICK HALL INFANTS SCHOOL",
-		"total": 1500,
-		"monthly": {
-			"2016-08": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"882": {
-		"name": "BIDDICK HALL JUNIOR SCHOOL",
-		"total": 1500,
-		"monthly": {
-			"2015-05": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"883": {
-		"name": "BIDDLE AIR SYSTEMS LTD",
-		"total": 129164.02,
-		"monthly": {
-			"2011-02": {"total":5418.75, "Local Environmental Services":5418.75},
-			"2011-05": {"total":5068.79, "Local Environmental Services":5068.79},
-			"2011-06": {"total":7366.10, "Local Environmental Services":4974.20, "Community Based Services":2391.90},
-			"2011-08": {"total":7325.63, "Supplies and Services":7325.63},
-			"2011-09": {"total":16300.88, "Supplies and Services":16300.88},
-			"2011-11": {"total":1594.00, "Supplies and Services":1594.00},
-			"2012-04": {"total":9209.54, "Supplies and Services":9209.54},
-			"2012-06": {"total":7670.43, "Supplies and Services":7670.43},
-			"2012-08": {"total":5494.77, "Supplies and Services":5494.77},
-			"2012-11": {"total":3571.88, "Supplies and Services":3571.88},
-			"2013-08": {"total":19093.55, "Supplies and Services":19093.55},
-			"2013-10": {"total":7652.55, "Supplies and Services":7652.55},
-			"2014-02": {"total":2278.00, "Supplies and Services":2278.00},
-			"2014-04": {"total":607.75, "Supplies and Services":607.75},
-			"2014-09": {"total":3552.15, "Supplies and Services":3552.15},
-			"2014-11": {"total":5450.00, "Supplies and Services":5450.00},
-			"2015-02": {"total":2993.70, "Supplies and Services":2993.70},
-			"2015-11": {"total":4395.35, "Supplies and Services":4395.35},
-			"2016-06": {"total":7680.60, "Supplies and Services":7680.60},
-			"2016-08": {"total":5842.05, "Supplies and Services":5842.05},
-			"2017-03": {"total":597.55, "Supplies and Services":597.55}
-		}
-	},
-	"884": {
-		"name": "BIFFA WASTE SERVICES LTD",
-		"total": 64176.13,
-		"monthly": {
-			"2011-01": {"total":785.89, "Development & Enterprise":785.89},
-			"2011-02": {"total":820.48, "Development & Enterprise":820.48},
-			"2011-03": {"total":1677.28, "Development & Enterprise":1677.28},
-			"2011-04": {"total":886.31, "Development & Enterprise":886.31},
-			"2011-05": {"total":472.56, "Development & Enterprise":472.56},
-			"2011-06": {"total":472.56, "Development & Enterprise":472.56},
-			"2011-07": {"total":590.70, "Supplies and Services":590.70},
-			"2011-09": {"total":1025.12, "Supplies and Services":1025.12},
-			"2012-04": {"total":667.20, "Supplies and Services":667.20},
-			"2012-05": {"total":467.04, "Supplies and Services":467.04},
-			"2012-06": {"total":600.48, "Supplies and Services":600.48},
-			"2012-07": {"total":667.20, "Supplies and Services":667.20},
-			"2012-09": {"total":1043.44, "Supplies and Services":1043.44},
-			"2012-10": {"total":2001.60, "Supplies and Services":2001.60},
-			"2012-11": {"total":533.76, "Supplies and Services":533.76},
-			"2012-12": {"total":527.78, "Supplies and Services":527.78},
-			"2013-01": {"total":615.51, "Supplies and Services":615.51},
-			"2013-02": {"total":547.12, "Supplies and Services":547.12},
-			"2013-06": {"total":2522.65, "Supplies and Services":649.70, "Third Party Payments":1872.95},
-			"2013-07": {"total":467.94, "Third Party Payments":467.94},
-			"2013-09": {"total":1327.84, "Third Party Payments":1327.84},
-			"2013-10": {"total":857.89, "Third Party Payments":857.89},
-			"2013-11": {"total":623.92, "Third Party Payments":623.92},
-			"2013-12": {"total":623.92, "Third Party Payments":623.92},
-			"2014-01": {"total":701.91, "Third Party Payments":701.91},
-			"2014-02": {"total":701.91, "Third Party Payments":701.91},
-			"2014-03": {"total":623.92, "Third Party Payments":623.92},
-			"2014-04": {"total":779.90, "Supplies and Services":779.90},
-			"2014-05": {"total":1093.16, "Supplies and Services":1093.16},
-			"2014-07": {"total":532.00, "Supplies and Services":532.00},
-			"2014-08": {"total":542.00, "Supplies and Services":542.00},
-			"2014-09": {"total":564.00, "Supplies and Services":564.00},
-			"2014-11": {"total":1166.00, "Supplies and Services":1166.00},
-			"2014-12": {"total":495.00, "Supplies and Services":495.00},
-			"2015-01": {"total":501.00, "Supplies and Services":501.00},
-			"2015-03": {"total":802.00, "Supplies and Services":802.00},
-			"2015-04": {"total":415.00, "Supplies and Services":415.00},
-			"2015-05": {"total":718.88, "Supplies and Services":718.88},
-			"2015-06": {"total":1177.76, "Supplies and Services":1177.76},
-			"2015-08": {"total":1349.80, "Supplies and Services":1349.80},
-			"2015-10": {"total":6325.79, "Third Party Payments":5077.19, "Supplies and Services":1248.60},
-			"2015-11": {"total":625.60, "Supplies and Services":625.60},
-			"2016-02": {"total":1213.28, "Supplies and Services":1213.28},
-			"2016-04": {"total":2052.76, "Supplies and Services":2052.76},
-			"2016-05": {"total":835.00, "Supplies and Services":835.00},
-			"2016-06": {"total":1107.29, "Supplies and Services":1107.29},
-			"2016-08": {"total":1673.48, "Premises":1673.48},
-			"2016-09": {"total":640.91, "Supplies and Services":640.91},
-			"2016-11": {"total":1608.94, "Supplies and Services":1608.94},
-			"2017-01": {"total":1637.56, "Supplies and Services":1637.56},
-			"2017-02": {"total":698.39, "Supplies and Services":698.39},
-			"2017-03": {"total":543.73, "Supplies and Services":543.73},
-			"2017-04": {"total":908.38, "Supplies and Services":908.38},
-			"2017-06": {"total":696.82, "Supplies and Services":696.82},
-			"2017-07": {"total":1438.69, "Supplies and Services":1438.69},
-			"2017-08": {"total":676.56, "Supplies and Services":676.56},
-			"2017-09": {"total":633.27, "Supplies and Services":633.27},
-			"2017-10": {"total":776.54, "Supplies and Services":776.54},
-			"2017-11": {"total":609.17, "Supplies and Services":609.17},
-			"2017-12": {"total":654.95, "Supplies and Services":654.95},
-			"2018-01": {"total":759.68, "Supplies and Services":759.68},
-			"2018-02": {"total":609.19, "Supplies and Services":609.19},
-			"2018-03": {"total":641.07, "Supplies and Services":641.07},
-			"2018-05": {"total":1380.27, "Supplies and Services":1380.27},
-			"2018-06": {"total":596.82, "Supplies and Services":596.82},
-			"2018-08": {"total":1311.56, "Supplies and Services":1311.56},
-			"2019-03": {"total":530.00, "Supplies and Services":530.00}
-		}
-	},
-	"885": {
-		"name": "BIG BANG LTD",
-		"total": 17500,
-		"monthly": {
-			"2014-04": {"total":4500.00, "Supplies and Services":4500.00},
-			"2014-07": {"total":4000.00, "Supplies and Services":4000.00},
-			"2016-02": {"total":3000.00, "Supplies and Services":3000.00},
-			"2017-07": {"total":6000.00, "Supplies and Services":6000.00}
-		}
-	},
-	"886": {
-		"name": "BIG FOOT EVENTS LTD",
-		"total": 1500,
-		"monthly": {
-			"2016-04": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"887": {
-		"name": "BIG PICTURE BUSINESS PROMOTIONS",
-		"total": 1963.8,
-		"monthly": {
-			"2012-03": {"total":1963.80, "unknown":1963.80}
-		}
-	},
-	"888": {
-		"name": "BIG PURPLE PRODUCTIONS LTD",
-		"total": 1500,
-		"monthly": {
-			"2016-10": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"889": {
-		"name": "BIG UP PRODUCTIONS LTD T/A NUFF RESPECT",
-		"total": 3282.5,
-		"monthly": {
-			"2013-09": {"total":3282.50, "Supplies and Services":3282.50}
-		}
-	},
-	"890": {
-		"name": "BIG WOODEN HORSE (UK) LTD",
-		"total": 2250,
-		"monthly": {
-			"2011-06": {"total":750.00, "Community Based Services":750.00},
-			"2012-11": {"total":750.00, "Supplies and Services":750.00},
-			"2013-06": {"total":750.00, "Supplies and Services":750.00}
-		}
-	},
-	"891": {
-		"name": "BIGBURY MINT",
-		"total": 5080,
-		"monthly": {
-			"2011-02": {"total":1590.00, "Central Services":1590.00},
-			"2012-02": {"total":1608.00, "Supplies and Services":1608.00},
-			"2013-03": {"total":1882.00, "Supplies and Services":1882.00}
-		}
-	},
-	"892": {
-		"name": "BIGFOOT ARTS EDUCATION NORTH EAST",
-		"total": 490,
-		"monthly": {
-			"2018-01": {"total":490.00, "Supplies and Services":490.00}
-		}
-	},
-	"893": {
-		"name": "BIKERIGHT LTD",
-		"total": 490,
-		"monthly": {
-			"2013-05": {"total":490.00, "Employees":490.00}
-		}
-	},
-	"894": {
-		"name": "BILKO",
-		"total": 408.75,
-		"monthly": {
-			"2015-07": {"total":408.75, "Supplies and Services":408.75}
-		}
-	},
-	"895": {
-		"name": "BILL QUAY ALBION CRICKET CLUB",
-		"total": 2636.26,
-		"monthly": {
-			"2011-08": {"total":1836.26, "Supplies and Services":1836.26},
-			"2012-05": {"total":800.00, "Supplies and Services":800.00}
-		}
-	},
-	"896": {
-		"name": "BILL QUAY BABY & TODDLER GROUP",
-		"total": 2974,
-		"monthly": {
-			"2011-01": {"total":2974.00, "Community Based Services":2974.00}
+			"2012-09": {"total":2698.09, "Community Based Services":2698.09},
+			"2012-10": {"total":1366.26, "Community Based Services":1366.26}
 		}
 	},
 	"897": {
-		"name": "BILL QUAY COMMUNITY FARM ASSOCIATION",
-		"total": 625,
+		"name": "BERWICK HOLIDAY CENTRE",
+		"total": 24857.57,
 		"monthly": {
-			"2017-01": {"total":625.00, "Supplies and Services":625.00}
+			"2011-12": {"total":3000.00, "Community Based Services":3000.00},
+			"2012-04": {"total":750.00, "Community Based Services":750.00},
+			"2012-08": {"total":4000.00, "Community Based Services":4000.00},
+			"2013-05": {"total":500.00, "Community Based Services":500.00},
+			"2013-11": {"total":3500.00, "Community Based Services":3500.00},
+			"2014-11": {"total":3500.00, "Care, Wellbeing & Learning":3500.00},
+			"2015-06": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2015-11": {"total":3200.00, "Care, Wellbeing & Learning":3200.00},
+			"2016-03": {"total":1250.00, "Care, Wellbeing & Learning":1250.00},
+			"2017-03": {"total":4002.27, "Care, Wellbeing & Learning":4002.27},
+			"2017-08": {"total":655.30, "Care, Wellbeing & Learning":655.30}
 		}
 	},
 	"898": {
-		"name": "BILL QUAY FABRIC WORKSHOP",
-		"total": 2000,
+		"name": "BES LTD",
+		"total": 405.12,
 		"monthly": {
-			"2014-03": {"total":1000.00, "Supplies and Services":1000.00},
-			"2014-08": {"total":1000.00, "Supplies and Services":1000.00}
+			"2016-03": {"total":405.12, "Communities & Environment":405.12}
 		}
 	},
 	"899": {
-		"name": "BILL QUAY FARM ASSOCIATION",
-		"total": 15188.3,
+		"name": "BES UTILITIES",
+		"total": 1903.94,
 		"monthly": {
-			"2011-10": {"total":500.00, "Supplies and Services":500.00},
-			"2012-10": {"total":500.00, "Supplies and Services":500.00},
-			"2013-01": {"total":5600.00, "Supplies and Services":5600.00},
-			"2014-04": {"total":500.00, "Supplies and Services":500.00},
-			"2014-06": {"total":900.00, "Supplies and Services":900.00},
-			"2017-05": {"total":7188.30, "Third Party Payments":7188.30}
+			"2018-01": {"total":708.80, "Corporate Services & Governance":708.80},
+			"2019-06": {"total":1195.14, "Communities & Environment":1195.14}
 		}
 	}
 	}

@@ -1,7 +1,553 @@
 {
-	"range": ["2010-12","2019-03"],
+	"range": ["2010-12","2020-03"],
 	"data": {
 	"300": {
+		"name": "APC (Pathology) Ltd",
+		"alternate-names": [
+			"APC (Pathology) Ltd."
+		],
+		"total": 2250,
+		"monthly": {
+			"2014-07": {"total":750.00, "Corporate Services":750.00},
+			"2017-10": {"total":1500.00, "Hospitality + Trading Services":1500.00}
+		}
+	},
+	"301": {
+		"name": "APC Pathology Ltd",
+		"total": 27200,
+		"monthly": {
+			"2018-03": {"total":600.00, "Chief Executives":600.00},
+			"2018-05": {"total":600.00, "Chief Executives":600.00},
+			"2018-11": {"total":5200.00, "Chief Executives":5200.00},
+			"2018-12": {"total":3200.00, "Chief Executives":3200.00},
+			"2019-01": {"total":3200.00, "Chief Executives":3200.00},
+			"2019-04": {"total":3200.00, "Chief Executives":3200.00},
+			"2019-06": {"total":2400.00, "Chief Executives":2400.00},
+			"2019-07": {"total":1600.00, "Chief Executives":1600.00},
+			"2019-08": {"total":800.00, "Chief Executives":800.00},
+			"2019-09": {"total":3200.00, "Chief Executives":3200.00},
+			"2019-11": {"total":1600.00, "Chief Executives":1600.00},
+			"2020-01": {"total":800.00, "Chief Executives":800.00},
+			"2020-02": {"total":800.00, "Chief Executives":800.00}
+		}
+	},
+	"302": {
+		"name": "APCOA - SEASON TICKET",
+		"total": 2200,
+		"monthly": {
+			"2014-09": {"total":2200.00, "Manchester Leisure":2200.00}
+		}
+	},
+	"303": {
+		"name": "APCOA Parking (UK) Ltd",
+		"total": 1587.8,
+		"monthly": {
+			"2013-11": {"total":1587.80, "Manchester Leisure":1587.80}
+		}
+	},
+	"304": {
+		"name": "APEX PROPERTIES NORTH LTD",
+		"total": 1425,
+		"monthly": {
+			"2020-02": {"total":1425.00, "Adult Social Care":1425.00}
+		}
+	},
+	"305": {
+		"name": "APL Coachhire",
+		"total": 133371,
+		"monthly": {
+			"2011-11": {"total":1488.00, "Childrens Services":1488.00},
+			"2011-12": {"total":4586.00, "Childrens Services":4586.00},
+			"2012-02": {"total":1711.00, "Childrens Services":1711.00},
+			"2012-03": {"total":3252.00, "Childrens Services":3252.00},
+			"2012-05": {"total":1111.00, "Childrens Services":1111.00},
+			"2012-06": {"total":2158.00, "Childrens Services":2158.00},
+			"2012-07": {"total":1539.00, "Childrens Services":1539.00},
+			"2012-08": {"total":1084.00, "Childrens Services":1084.00},
+			"2012-10": {"total":1512.00, "Childrens Services":1512.00},
+			"2012-11": {"total":1596.00, "Childrens Services":1596.00},
+			"2012-12": {"total":1680.00, "Childrens Services":1680.00},
+			"2013-01": {"total":1260.00, "Childrens Services":1260.00},
+			"2013-02": {"total":1596.00, "Childrens Services":1596.00},
+			"2013-03": {"total":1260.00, "Childrens Services":1260.00},
+			"2013-04": {"total":1680.00, "Childrens Services":1680.00},
+			"2013-05": {"total":2520.00, "Childrens Services":2520.00},
+			"2013-07": {"total":2772.00, "Childrens Services":2772.00},
+			"2013-10": {"total":3638.00, "Childrens Services":3638.00},
+			"2013-12": {"total":3374.00, "Childrens Services":3374.00},
+			"2014-02": {"total":1840.00, "Childrens Services":1840.00},
+			"2014-03": {"total":1446.00, "Childrens Services":1446.00},
+			"2014-04": {"total":1928.00, "Childrens Services":1928.00},
+			"2014-05": {"total":1094.00, "Childrens Services":1094.00},
+			"2014-06": {"total":1534.00, "Childrens Services":1534.00},
+			"2014-07": {"total":3286.00, "Childrens Services":3286.00},
+			"2014-10": {"total":3638.00, "Childrens Services":3638.00},
+			"2014-12": {"total":1928.00, "Childrens Services":1928.00},
+			"2015-01": {"total":1446.00, "Childrens Services":1446.00},
+			"2015-02": {"total":1840.00, "Childrens Services":1840.00},
+			"2015-03": {"total":1446.00, "Adult Social Care":1446.00},
+			"2015-04": {"total":2146.00, "Adult Social Care":2146.00},
+			"2015-05": {"total":2498.00, "Adult Social Care":2498.00},
+			"2015-07": {"total":3374.00, "Adult Social Care":3374.00},
+			"2015-10": {"total":1800.00, "Adult Social Care":1800.00},
+			"2015-11": {"total":1530.00, "Adult Social Care":1530.00},
+			"2015-12": {"total":2700.00, "Adult Social Care":2700.00},
+			"2016-02": {"total":1350.00, "Adult Social Care":1350.00},
+			"2016-03": {"total":1440.00, "Adult Social Care":1440.00},
+			"2016-04": {"total":1890.00, "Adult Social Care":1890.00},
+			"2016-05": {"total":990.00, "Adult Social Care":990.00},
+			"2016-06": {"total":1710.00, "Adult Social Care":1710.00},
+			"2016-07": {"total":1710.00, "Adult Social Care":1710.00},
+			"2016-08": {"total":1350.00, "Adult Social Care":1350.00},
+			"2016-10": {"total":1890.00, "Adult Social Care":1890.00},
+			"2016-11": {"total":1350.00, "Adult Social Care":1350.00},
+			"2016-12": {"total":3467.50, "Adult Social Care":3467.50},
+			"2017-02": {"total":1620.00, "Adult Social Care":1620.00},
+			"2017-03": {"total":3640.00, "Adult Social Care":3640.00},
+			"2017-05": {"total":855.00, "Adult Social Care":855.00},
+			"2017-06": {"total":1805.00, "Adult Social Care":1805.00},
+			"2017-07": {"total":3230.00, "Adult Social Care":3230.00},
+			"2017-10": {"total":1710.00, "Adult Social Care":1710.00},
+			"2017-11": {"total":1615.00, "Adult Social Care":1615.00},
+			"2017-12": {"total":3420.00, "Adult Social Care":3420.00},
+			"2018-02": {"total":1805.00, "Adult Social Care":1805.00},
+			"2018-03": {"total":1425.00, "Adult Social Care":1425.00},
+			"2018-04": {"total":1710.00, "Adult Social Care":1710.00},
+			"2018-05": {"total":2850.00, "Adult Social Care":2850.00},
+			"2018-07": {"total":3230.00, "Adult Social Care":3230.00},
+			"2018-10": {"total":1615.00, "Adult Social Care":1615.00},
+			"2018-11": {"total":1662.50, "Adult Social Care":1662.50},
+			"2018-12": {"total":2090.00, "Adult Social Care":2090.00},
+			"2019-01": {"total":1425.00, "Adult Social Care":1425.00},
+			"2019-02": {"total":1805.00, "Adult Social Care":1805.00},
+			"2019-03": {"total":1425.00, "Adult Social Care":1425.00},
+			"2019-04": {"total":1995.00, "Adult Social Care":1995.00}
+		}
+	},
+	"306": {
+		"name": "APL Coachire",
+		"total": 1371,
+		"monthly": {
+			"2011-10": {"total":1371.00, "Childrens Services":1371.00}
+		}
+	},
+	"307": {
+		"name": "APPLE STORE R215",
+		"total": 1517.6,
+		"monthly": {
+			"2014-03": {"total":578.00, "Childrens Services":578.00},
+			"2015-09": {"total":939.60, "Adult Social Care":939.60}
+		}
+	},
+	"308": {
+		"name": "APPLIANCEDIRECT CO",
+		"total": 774.73,
+		"monthly": {
+			"2018-12": {"total":774.73, "Adult Social Care":774.73}
+		}
+	},
+	"309": {
+		"name": "APTSL",
+		"total": 6513185.85,
+		"monthly": {
+			"2011-11": {"total":145052.50, "Childrens Services":111310.50, "Hospitality + Trading Services":32242.00, "Manchester Leisure":1500.00},
+			"2011-12": {"total":42973.50, "Childrens Services":32553.50, "Hospitality + Trading Services":10420.00},
+			"2012-01": {"total":40283.50, "Childrens Services":18832.50, "Hospitality + Trading Services":21451.00},
+			"2012-02": {"total":42673.00, "Childrens Services":31838.50, "Hospitality + Trading Services":10834.50},
+			"2012-03": {"total":82438.50, "Childrens Services":60927.00, "Hospitality + Trading Services":21511.50},
+			"2012-04": {"total":6055.00, "Childrens Services":6055.00},
+			"2012-05": {"total":27049.00, "Childrens Services":17584.00, "Hospitality + Trading Services":9465.00},
+			"2012-06": {"total":48043.00, "Childrens Services":36453.00, "Hospitality + Trading Services":10930.00, "Regeneration Finance":660.00},
+			"2012-07": {"total":37822.50, "Childrens Services":27684.50, "Hospitality + Trading Services":9148.00, "Regeneration Finance":990.00},
+			"2012-08": {"total":36911.00, "Childrens Services":26199.00, "Hospitality + Trading Services":10712.00},
+			"2012-09": {"total":64548.00, "Hospitality + Trading Services":44154.00, "Manchester Leisure":20394.00},
+			"2012-10": {"total":72537.00, "Childrens Services":51846.00, "Hospitality + Trading Services":20691.00},
+			"2012-11": {"total":67118.50, "Childrens Services":56228.50, "Hospitality + Trading Services":10890.00},
+			"2012-12": {"total":57326.50, "Childrens Services":46599.50, "Hospitality + Trading Services":10727.00},
+			"2013-01": {"total":41725.50, "Childrens Services":34993.50, "Hospitality + Trading Services":6732.00},
+			"2013-02": {"total":56606.50, "Childrens Services":44786.50, "Hospitality + Trading Services":10905.00, "Libraries and Theatres":915.00},
+			"2013-03": {"total":614.00, "Childrens Services":614.00},
+			"2013-04": {"total":96247.00, "Childrens Services":96247.00},
+			"2013-05": {"total":58817.00, "Childrens Services":48917.00, "Hospitality + Trading Services":9900.00},
+			"2013-06": {"total":60560.50, "Childrens Services":50435.50, "Hospitality + Trading Services":10125.00},
+			"2013-07": {"total":95937.50, "Childrens Services":95937.50},
+			"2013-08": {"total":48996.00, "Childrens Services":48996.00},
+			"2013-09": {"total":10395.00, "Childrens Services":10395.00},
+			"2013-10": {"total":59526.50, "Childrens Services":59526.50},
+			"2013-11": {"total":105513.50, "Childrens Services":105513.50},
+			"2014-01": {"total":87382.50, "Childrens Services":87382.50},
+			"2014-02": {"total":48859.50, "Childrens Services":48859.50},
+			"2014-03": {"total":9900.00, "Childrens Services":9900.00},
+			"2014-05": {"total":55900.00, "Childrens Services":55900.00},
+			"2014-06": {"total":9900.00, "Childrens Services":9900.00},
+			"2014-07": {"total":157992.50, "Childrens Services":157992.50},
+			"2014-09": {"total":650.00, "Childrens Services":650.00},
+			"2014-10": {"total":53044.00, "Childrens Services":53044.00},
+			"2014-12": {"total":185446.50, "Childrens Services":185446.50},
+			"2015-02": {"total":11580.00, "Childrens Services":11580.00},
+			"2015-03": {"total":64568.00, "Adult Social Care":64568.00},
+			"2015-04": {"total":151933.50, "Adult Social Care":151933.50},
+			"2015-06": {"total":34980.00, "Adult Social Care":12160.00, "Hospitality + Trading Services":22820.00},
+			"2015-07": {"total":73641.50, "Adult Social Care":73641.50},
+			"2015-08": {"total":154960.50, "Adult Social Care":146485.50, "Hospitality + Trading Services":8475.00},
+			"2015-11": {"total":69419.50, "Adult Social Care":63819.50, "Hospitality + Trading Services":5600.00},
+			"2015-12": {"total":86423.50, "Adult Social Care":81583.50, "Hospitality + Trading Services":4840.00},
+			"2016-01": {"total":194425.50, "Adult Social Care":194425.50},
+			"2016-02": {"total":49221.50, "Adult Social Care":45041.50, "Hospitality + Trading Services":4180.00},
+			"2016-03": {"total":132419.00, "Adult Social Care":122584.00, "Hospitality + Trading Services":9835.00},
+			"2016-04": {"total":80237.50, "Adult Social Care":69842.50, "Hospitality + Trading Services":10395.00},
+			"2016-06": {"total":43767.50, "Adult Social Care":41257.50, "Hospitality + Trading Services":2510.00},
+			"2016-07": {"total":68150.00, "Adult Social Care":65060.00, "Hospitality + Trading Services":3090.00},
+			"2016-08": {"total":63186.00, "Adult Social Care":63186.00},
+			"2016-09": {"total":2640.00, "Hospitality + Trading Services":2640.00},
+			"2016-10": {"total":49011.00, "Adult Social Care":49011.00},
+			"2016-11": {"total":1100.00, "Hospitality + Trading Services":1100.00},
+			"2016-12": {"total":126250.60, "Adult Social Care":120090.60, "Hospitality + Trading Services":6160.00},
+			"2017-02": {"total":156658.50, "Adult Social Care":156658.50},
+			"2017-03": {"total":251466.25, "Adult Social Care":236286.25, "Hospitality + Trading Services":15180.00},
+			"2017-05": {"total":6270.00, "Hospitality + Trading Services":6270.00},
+			"2017-06": {"total":42075.50, "Adult Social Care":42075.50},
+			"2017-07": {"total":7085.00, "Hospitality + Trading Services":7085.00},
+			"2017-08": {"total":79034.50, "Adult Social Care":79034.50},
+			"2017-09": {"total":70759.50, "Adult Social Care":67644.50, "Hospitality + Trading Services":3115.00},
+			"2017-10": {"total":1495.00, "Hospitality + Trading Services":1495.00},
+			"2017-11": {"total":80560.75, "Adult Social Care":80560.75},
+			"2017-12": {"total":76150.50, "Adult Social Care":76150.50},
+			"2018-01": {"total":79055.00, "Adult Social Care":79055.00},
+			"2018-02": {"total":199035.50, "Adult Social Care":178480.50, "Hospitality + Trading Services":20555.00},
+			"2018-03": {"total":164015.00, "Adult Social Care":164015.00},
+			"2018-04": {"total":6625.00, "Hospitality + Trading Services":6625.00},
+			"2018-05": {"total":157849.50, "Adult Social Care":157849.50},
+			"2018-07": {"total":195573.00, "Adult Social Care":186003.00, "Hospitality + Trading Services":9570.00},
+			"2018-09": {"total":76049.00, "Adult Social Care":76049.00},
+			"2018-11": {"total":7650.00, "Adult Social Care":7650.00},
+			"2018-12": {"total":178526.25, "Adult Social Care":178526.25},
+			"2019-01": {"total":208000.50, "Adult Social Care":181410.50, "Hospitality + Trading Services":26590.00},
+			"2019-03": {"total":98986.50, "Adult Social Care":94236.50, "Hospitality + Trading Services":4750.00},
+			"2019-04": {"total":187299.00, "Adult Social Care":175304.00, "Hospitality + Trading Services":11995.00},
+			"2019-07": {"total":56501.00, "Adult Social Care":56501.00},
+			"2019-08": {"total":179038.00, "Adult Social Care":179038.00},
+			"2019-09": {"total":6615.00, "Adult Social Care":6615.00},
+			"2019-11": {"total":81480.00, "Adult Social Care":81480.00},
+			"2019-12": {"total":117287.00, "Adult Social Care":89192.00, "Hospitality + Trading Services":28095.00},
+			"2020-01": {"total":3585.00, "Adult Social Care":3585.00},
+			"2020-02": {"total":249474.50, "Adult Social Care":249474.50},
+			"2020-03": {"total":16225.00, "Hospitality + Trading Services":16225.00}
+		}
+	},
+	"310": {
+		"name": "AQUABLAST SERVICES LTD",
+		"total": 1150,
+		"monthly": {
+			"2012-09": {"total":1150.00, "Hospitality + Trading Services":1150.00}
+		}
+	},
+	"311": {
+		"name": "ARCH",
+		"total": 758.63,
+		"monthly": {
+			"2018-10": {"total":758.63, "Regeneration Finance":758.63}
+		}
+	},
+	"312": {
+		"name": "ARGOS",
+		"total": 678,
+		"monthly": {
+			"2013-12": {"total":678.00, "Childrens Services":678.00}
+		}
+	},
+	"313": {
+		"name": "ARORA HOTEL MANCHESTER",
+		"total": 3461,
+		"monthly": {
+			"2016-07": {"total":586.00, "Manchester Leisure":586.00},
+			"2016-12": {"total":2875.00, "Manchester Leisure":2875.00}
+		}
+	},
+	"314": {
+		"name": "ART UK",
+		"total": 1500,
+		"monthly": {
+			"2020-03": {"total":1500.00, "Manchester Leisure":1500.00}
+		}
+	},
+	"315": {
+		"name": "ASA North West Region",
+		"total": 2500,
+		"monthly": {
+			"2014-02": {"total":2500.00, "Manchester Leisure":2500.00}
+		}
+	},
+	"316": {
+		"name": "ASB Aspire",
+		"total": 11000,
+		"monthly": {
+			"2012-12": {"total":9000.00, "Insurance Fund":9000.00},
+			"2013-02": {"total":2000.00, "Insurance Fund":2000.00}
+		}
+	},
+	"317": {
+		"name": "ASB Squash Courts/Glass Floor",
+		"total": 71114.92,
+		"monthly": {
+			"2015-07": {"total":71114.92, "Manchester Leisure":71114.92}
+		}
+	},
+	"318": {
+		"name": "ASB Squash Courts/GlassFloor",
+		"total": 143533.66,
+		"monthly": {
+			"2015-09": {"total":143533.66, "Manchester Leisure":143533.66}
+		}
+	},
+	"319": {
+		"name": "ASB Systembau Horst Babinsky GmbH",
+		"total": 7950,
+		"monthly": {
+			"2013-11": {"total":7950.00, "Manchester Leisure":7950.00}
+		}
+	},
+	"320": {
+		"name": "ASCOT HOUSE HOTEL",
+		"total": 750,
+		"monthly": {
+			"2015-06": {"total":750.00, "Chief Executives":750.00}
+		}
+	},
+	"321": {
+		"name": "ASF Ltd",
+		"alternate-names": [
+			"ASF Limited"
+		],
+		"total": 3826.8,
+		"monthly": {
+			"2017-02": {"total":3826.80, "Highways Services":3826.80}
+		}
+	},
+	"322": {
+		"name": "ASH RESIDENTAL LTD",
+		"total": 2178.45,
+		"monthly": {
+			"2019-09": {"total":2178.45, "Adult Social Care":2178.45}
+		}
+	},
+	"323": {
+		"name": "ASH RESIDENTIA LTD",
+		"total": 7157.43,
+		"monthly": {
+			"2017-11": {"total":709.30, "Adult Social Care":709.30},
+			"2018-01": {"total":709.00, "Adult Social Care":709.00},
+			"2018-02": {"total":563.75, "Adult Social Care":563.75},
+			"2018-03": {"total":1429.23, "Adult Social Care":1429.23},
+			"2018-05": {"total":1800.00, "Adult Social Care":1800.00},
+			"2018-06": {"total":675.00, "Adult Social Care":675.00},
+			"2018-07": {"total":621.15, "Adult Social Care":621.15},
+			"2018-12": {"total":650.00, "Adult Social Care":650.00}
+		}
+	},
+	"324": {
+		"name": "ASPIRE BTHERAPY SERVICES",
+		"total": 500,
+		"monthly": {
+			"2019-04": {"total":500.00, "Adult Social Care":500.00}
+		}
+	},
+	"325": {
+		"name": "ASSOCIATED COMPRESSOR",
+		"total": 686.52,
+		"monthly": {
+			"2018-11": {"total":686.52, "Hospitality + Trading Services":686.52}
+		}
+	},
+	"326": {
+		"name": "AST HAMPSONS",
+		"total": 21860.03,
+		"monthly": {
+			"2011-02": {"total":21860.03, "Housing General Fund":21860.03}
+		}
+	},
+	"327": {
+		"name": "AT Properties",
+		"total": 770,
+		"monthly": {
+			"2018-01": {"total":770.00, "Adult Social Care":770.00}
+		}
+	},
+	"328": {
+		"name": "ATA UL R L Chaudry",
+		"total": 500,
+		"monthly": {
+			"2017-01": {"total":500.00, "Adult Social Care":500.00}
+		}
+	},
+	"329": {
+		"name": "ATG Training",
+		"total": 3500,
+		"monthly": {
+			"2011-07": {"total":1000.00, "Manchester Leisure":1000.00},
+			"2012-03": {"total":2500.00, "Regeneration Finance":2500.00}
+		}
+	},
+	"330": {
+		"name": "ATICUS LAW SOLICITORS",
+		"total": 22000,
+		"monthly": {
+			"2019-04": {"total":22000.00, "Highways Services":12871.40, "Insurance Fund":9128.60}
+		}
+	},
+	"331": {
+		"name": "ATP INTERNATIONAL INC",
+		"total": 23424.69,
+		"monthly": {
+			"2018-11": {"total":23424.69, "Manchester Leisure":23424.69}
+		}
+	},
+	"332": {
+		"name": "ATS Euromaster Ltd",
+		"alternate-names": [
+			"ATS Euromaster Limited"
+		],
+		"total": 76312.23,
+		"monthly": {
+			"2017-10": {"total":4300.89, "Hospitality + Trading Services":4300.89},
+			"2017-11": {"total":1259.86, "Hospitality + Trading Services":1259.86},
+			"2017-12": {"total":2148.51, "Hospitality + Trading Services":2148.51},
+			"2018-01": {"total":4094.01, "Hospitality + Trading Services":4094.01},
+			"2018-02": {"total":1468.50, "Hospitality + Trading Services":1468.50},
+			"2018-03": {"total":4643.92, "Hospitality + Trading Services":4643.92},
+			"2018-04": {"total":1389.28, "Hospitality + Trading Services":1389.28},
+			"2018-05": {"total":1957.77, "Hospitality + Trading Services":1957.77},
+			"2018-06": {"total":3633.60, "Hospitality + Trading Services":3633.60},
+			"2018-07": {"total":6650.40, "Hospitality + Trading Services":6650.40},
+			"2018-08": {"total":3845.26, "Hospitality + Trading Services":3845.26},
+			"2018-10": {"total":4924.76, "Hospitality + Trading Services":4924.76},
+			"2018-11": {"total":7490.33, "Hospitality + Trading Services":7490.33},
+			"2019-01": {"total":4962.31, "Hospitality + Trading Services":4962.31},
+			"2019-02": {"total":3888.31, "Hospitality + Trading Services":3888.31},
+			"2019-03": {"total":2685.69, "Hospitality + Trading Services":2685.69},
+			"2019-04": {"total":3490.84, "Hospitality + Trading Services":3490.84},
+			"2019-06": {"total":3602.47, "Hospitality + Trading Services":3602.47},
+			"2019-07": {"total":6583.25, "Hospitality + Trading Services":6583.25},
+			"2019-08": {"total":3292.27, "Hospitality + Trading Services":3292.27}
+		}
+	},
+	"333": {
+		"name": "AUBREY LEE & CO",
+		"total": 3515,
+		"monthly": {
+			"2017-11": {"total":770.00, "Adult Social Care":770.00},
+			"2018-07": {"total":545.00, "Adult Social Care":545.00},
+			"2018-11": {"total":1350.00, "Adult Social Care":1350.00},
+			"2020-02": {"total":850.00, "Adult Social Care":850.00}
+		}
+	},
+	"334": {
+		"name": "AUDEN FUNERAL SUPPLIES",
+		"total": 1446,
+		"monthly": {
+			"2015-11": {"total":1446.00, "Hospitality + Trading Services":1446.00}
+		}
+	},
+	"335": {
+		"name": "AUNT MARYS P.D NURSERY",
+		"total": 1200,
+		"monthly": {
+			"2019-12": {"total":1200.00, "Adult Social Care":1200.00}
+		}
+	},
+	"336": {
+		"name": "AUTOBAR VENDING SERV",
+		"total": 937.94,
+		"monthly": {
+			"2014-11": {"total":937.94, "Hospitality + Trading Services":937.94}
+		}
+	},
+	"337": {
+		"name": "AV 3000 Ltd",
+		"total": 764,
+		"monthly": {
+			"2014-09": {"total":764.00, "Chief Executives":764.00}
+		}
+	},
+	"338": {
+		"name": "AV PARTMASTER",
+		"total": 4060.8,
+		"monthly": {
+			"2017-03": {"total":4060.80, "Manchester Leisure":4060.80}
+		}
+	},
+	"339": {
+		"name": "AVA Medical Services Ltd",
+		"alternate-names": [
+			"AVA Medical Services Ltd."
+		],
+		"total": 4450,
+		"monthly": {
+			"2016-01": {"total":4450.00, "Adult Social Care":4450.00}
+		}
+	},
+	"340": {
+		"name": "AVANT PR",
+		"total": 1419.6,
+		"monthly": {
+			"2019-10": {"total":1419.60, "Regeneration Finance":1419.60}
+		}
+	},
+	"341": {
+		"name": "AVC Wise Ltd",
+		"total": 21652.77,
+		"monthly": {
+			"2019-10": {"total":3094.38, "Chief Executives":3094.38},
+			"2019-12": {"total":6945.39, "Chief Executives":6945.39},
+			"2020-01": {"total":3636.99, "Chief Executives":3636.99},
+			"2020-02": {"total":3934.43, "Chief Executives":3934.43},
+			"2020-03": {"total":4041.58, "Chief Executives":4041.58}
+		}
+	},
+	"342": {
+		"name": "AVF Marketing",
+		"total": 11340,
+		"monthly": {
+			"2011-05": {"total":750.00, "Hospitality + Trading Services":750.00},
+			"2012-02": {"total":2230.00, "Hospitality + Trading Services":2230.00},
+			"2012-09": {"total":980.00, "Chief Executives":980.00},
+			"2013-05": {"total":980.00, "Chief Executives":980.00},
+			"2014-05": {"total":1250.00, "Chief Executives":1250.00},
+			"2015-12": {"total":1600.00, "Chief Executives":500.00, "Hospitality + Trading Services":1100.00},
+			"2016-05": {"total":1550.00, "Hospitality + Trading Services":1550.00},
+			"2016-08": {"total":500.00, "Chief Executives":500.00},
+			"2017-06": {"total":500.00, "Hospitality + Trading Services":500.00},
+			"2018-08": {"total":500.00, "Hospitality + Trading Services":500.00},
+			"2019-05": {"total":500.00, "Hospitality + Trading Services":500.00}
+		}
+	},
+	"343": {
+		"name": "AVOIRA Ltd",
+		"alternate-names": [
+			"AVOIRA Limited"
+		],
+		"total": 5920,
+		"monthly": {
+			"2019-09": {"total":4000.00, "Regeneration Finance":4000.00},
+			"2019-10": {"total":960.00, "Regeneration Finance":960.00},
+			"2020-01": {"total":960.00, "Regeneration Finance":960.00}
+		}
+	},
+	"344": {
+		"name": "AVON PLYWOOD LTD",
+		"total": 3380.88,
+		"monthly": {
+			"2014-03": {"total":3380.88, "Manchester Leisure":3380.88}
+		}
+	},
+	"345": {
+		"name": "AW Hainsworth & Sons Ltd",
+		"total": 10080,
+		"monthly": {
+			"2016-05": {"total":10080.00, "Manchester Leisure":10080.00}
+		}
+	},
+	"346": {
 		"name": "AW Law",
 		"total": 84078.45,
 		"monthly": {
@@ -9,7 +555,14 @@
 			"2018-03": {"total":17081.11, "Corporate Services":17081.11}
 		}
 	},
-	"301": {
+	"347": {
+		"name": "AWESOMEMERCHANDISE",
+		"total": 1689.3,
+		"monthly": {
+			"2020-03": {"total":1689.30, "Manchester Leisure":1689.30}
+		}
+	},
+	"348": {
 		"name": "AWICS Adrian Waite Ltd",
 		"alternate-names": [
 			"AWICS Adrian Waite Limited"
@@ -20,503 +573,11 @@
 			"2016-08": {"total":3450.09, "Housing Revenue Account":3450.09}
 		}
 	},
-	"302": {
+	"349": {
 		"name": "AWS Bathroom Supplies",
 		"total": 1000,
 		"monthly": {
 			"2014-11": {"total":1000.00, "Housing General Fund":1000.00}
-		}
-	},
-	"303": {
-		"name": "AWS Solicitors",
-		"total": 21447.51,
-		"monthly": {
-			"2018-01": {"total":8931.75, "Highways Services":8931.75},
-			"2018-04": {"total":12515.76, "Highways Services":12515.76}
-		}
-	},
-	"304": {
-		"name": "AWT Painters Ltd",
-		"total": 37012.02,
-		"monthly": {
-			"2011-01": {"total":21881.13, "Chief Executives":21881.13},
-			"2011-03": {"total":15130.89, "Chief Executives":15130.89}
-		}
-	},
-	"305": {
-		"name": "AXA INSURANCE",
-		"total": 70398.96,
-		"monthly": {
-			"2014-10": {"total":70398.96, "Housing Revenue Account":70398.96}
-		}
-	},
-	"306": {
-		"name": "AXA Insurance",
-		"total": 33756.75,
-		"monthly": {
-			"2015-01": {"total":29166.75, "Childrens Services":29166.75},
-			"2017-10": {"total":2295.00, "Manchester Leisure":2295.00},
-			"2018-06": {"total":2295.00, "Manchester Leisure":2295.00}
-		}
-	},
-	"307": {
-		"name": "AYB LAW",
-		"total": 5800,
-		"monthly": {
-			"2014-09": {"total":5800.00, "Hospitality + Trading Services":5800.00}
-		}
-	},
-	"308": {
-		"name": "Aakfa Semmy Choudhury",
-		"total": 501.3,
-		"monthly": {
-			"2017-08": {"total":501.30, "Chief Executives":501.30}
-		}
-	},
-	"309": {
-		"name": "Aardman Animations Ltd",
-		"alternate-names": [
-			"Aardman Animations Limited"
-		],
-		"total": 850,
-		"monthly": {
-			"2015-06": {"total":850.00, "Manchester Leisure":850.00}
-		}
-	},
-	"310": {
-		"name": "Aardvark Casting",
-		"total": 1320,
-		"monthly": {
-			"2011-03": {"total":1320.00, "Libraries and Theatres":1320.00}
-		}
-	},
-	"311": {
-		"name": "Aareon UK Ltd",
-		"total": 361693,
-		"monthly": {
-			"2016-08": {"total":28530.00, "Housing Revenue Account":28530.00},
-			"2016-09": {"total":12255.00, "Housing Revenue Account":12255.00},
-			"2016-10": {"total":6945.00, "Housing Revenue Account":6945.00},
-			"2016-11": {"total":63030.00, "Housing Revenue Account":63030.00},
-			"2016-12": {"total":10215.00, "Housing Revenue Account":10215.00},
-			"2017-01": {"total":3270.00, "Housing Revenue Account":3270.00},
-			"2017-02": {"total":4290.00, "Housing Revenue Account":4290.00},
-			"2017-03": {"total":10295.00, "Housing Revenue Account":10295.00},
-			"2017-04": {"total":28332.00, "Housing Revenue Account":28332.00},
-			"2017-05": {"total":1635.00, "Housing Revenue Account":1635.00},
-			"2017-07": {"total":10405.00, "Housing Revenue Account":10405.00},
-			"2017-08": {"total":1500.00, "Housing Revenue Account":1500.00},
-			"2017-10": {"total":2655.00, "Housing Revenue Account":2655.00},
-			"2017-12": {"total":6183.00, "Housing Revenue Account":6183.00},
-			"2018-01": {"total":750.00, "Housing Revenue Account":750.00},
-			"2018-02": {"total":885.00, "Housing Revenue Account":885.00},
-			"2018-03": {"total":4290.00, "Housing Revenue Account":4290.00},
-			"2018-04": {"total":38084.00, "Housing Revenue Account":38084.00},
-			"2018-05": {"total":750.00, "Housing Revenue Account":750.00},
-			"2018-06": {"total":1635.00, "Housing Revenue Account":1635.00},
-			"2018-07": {"total":13760.00, "Housing Revenue Account":13760.00},
-			"2018-08": {"total":15929.00, "Housing Revenue Account":15929.00},
-			"2018-09": {"total":58625.00, "Housing Revenue Account":58625.00},
-			"2018-10": {"total":19135.00, "Housing Revenue Account":19135.00},
-			"2018-11": {"total":3750.00, "Housing Revenue Account":3750.00},
-			"2019-01": {"total":4500.00, "Housing Revenue Account":4500.00},
-			"2019-02": {"total":2585.00, "Housing Revenue Account":2585.00},
-			"2019-03": {"total":7475.00, "Housing Revenue Account":7475.00}
-		}
-	},
-	"312": {
-		"name": "Abacus Solicitors",
-		"total": 9200,
-		"monthly": {
-			"2014-02": {"total":9200.00, "Environment and Operations":9200.00}
-		}
-	},
-	"313": {
-		"name": "Abacus Solicitors LLP",
-		"total": 74600,
-		"monthly": {
-			"2016-03": {"total":74600.00, "Corporate Services":74600.00}
-		}
-	},
-	"314": {
-		"name": "Abacus Travel Services",
-		"total": 10740,
-		"monthly": {
-			"2011-01": {"total":3150.00, "Childrens Services":3150.00},
-			"2011-02": {"total":2520.00, "Childrens Services":2520.00},
-			"2011-04": {"total":2190.00, "Childrens Services":2190.00},
-			"2011-06": {"total":2880.00, "Childrens Services":2880.00}
-		}
-	},
-	"315": {
-		"name": "Abbey Gisburne Park Hospital",
-		"total": 146170,
-		"monthly": {
-			"2010-12": {"total":35250.00, "Chief Executives":35250.00},
-			"2011-01": {"total":19270.00, "Chief Executives":19270.00},
-			"2011-02": {"total":25145.00, "Chief Executives":25145.00},
-			"2011-03": {"total":13865.00, "Chief Executives":13865.00},
-			"2011-04": {"total":8460.00, "Chief Executives":8460.00},
-			"2011-05": {"total":4465.00, "Chief Executives":4465.00},
-			"2011-06": {"total":7520.00, "Chief Executives":7520.00},
-			"2011-07": {"total":23735.00, "Chief Executives":23735.00},
-			"2011-08": {"total":8460.00, "Chief Executives":8460.00}
-		}
-	},
-	"316": {
-		"name": "Abbey Hey Allotment Society",
-		"total": 9120,
-		"monthly": {
-			"2011-02": {"total":1100.00, "Regeneration Finance":1100.00},
-			"2011-05": {"total":8020.00, "Chief Executives":8020.00}
-		}
-	},
-	"317": {
-		"name": "Abbey Hey Football Club",
-		"total": 2440.48,
-		"monthly": {
-			"2012-10": {"total":1140.48, "Regeneration Finance":1140.48},
-			"2017-10": {"total":1300.00, "Manchester Leisure":1300.00}
-		}
-	},
-	"318": {
-		"name": "Abbey Hey Neighbourhood Forum",
-		"total": 500,
-		"monthly": {
-			"2017-08": {"total":500.00, "Manchester Leisure":500.00}
-		}
-	},
-	"319": {
-		"name": "Abbey Nursing & Care Agency",
-		"total": 2522,
-		"monthly": {
-			"2010-12": {"total":2522.00, "Learning Disabilities PB":2522.00}
-		}
-	},
-	"320": {
-		"name": "Abbey Solicitors",
-		"total": 23000,
-		"monthly": {
-			"2015-01": {"total":23000.00, "Environment and Operations":3819.01, "Insurance Fund":19180.99}
-		}
-	},
-	"321": {
-		"name": "Abbey Tents",
-		"total": 11859.1,
-		"monthly": {
-			"2016-08": {"total":11859.10, "Manchester Leisure":11859.10}
-		}
-	},
-	"322": {
-		"name": "Abbeycroft Solicitors",
-		"total": 21510.95,
-		"monthly": {
-			"2011-09": {"total":12390.95, "Insurance Fund":12390.95},
-			"2012-01": {"total":9120.00, "Corporate Services":9120.00}
-		}
-	},
-	"323": {
-		"name": "Abbotsford Nursing Home",
-		"total": 5824,
-		"monthly": {
-			"2016-12": {"total":5824.00, "Adult Social Care":5824.00}
-		}
-	},
-	"324": {
-		"name": "Abbott & Company Solicitors",
-		"total": 1727.84,
-		"monthly": {
-			"2016-11": {"total":675.48, "Adult Social Care":675.48},
-			"2018-06": {"total":1052.36, "Chief Executives":1052.36}
-		}
-	},
-	"325": {
-		"name": "Abbott Community Primary School",
-		"total": 649.94,
-		"monthly": {
-			"2018-02": {"total":649.94, "Insurance Fund":649.94}
-		}
-	},
-	"326": {
-		"name": "Abdul Sharief",
-		"total": 960,
-		"monthly": {
-			"2019-02": {"total":960.00, "Highways Services":960.00}
-		}
-	},
-	"327": {
-		"name": "Abel Alarm Company Ltd",
-		"total": 11112,
-		"monthly": {
-			"2011-03": {"total":884.00, "Manchester Leisure":884.00},
-			"2011-04": {"total":539.00, "Childrens Services":539.00},
-			"2011-09": {"total":695.00, "Manchester Leisure":695.00},
-			"2012-05": {"total":884.00, "Manchester Leisure":884.00},
-			"2012-12": {"total":695.00, "Manchester Leisure":695.00},
-			"2013-04": {"total":911.00, "Manchester Leisure":911.00},
-			"2013-12": {"total":716.00, "Manchester Leisure":716.00},
-			"2014-04": {"total":911.00, "Manchester Leisure":911.00},
-			"2014-10": {"total":716.00, "Manchester Leisure":716.00},
-			"2014-12": {"total":2925.00, "Manchester Leisure":2925.00},
-			"2015-01": {"total":1236.00, "Manchester Leisure":1236.00}
-		}
-	},
-	"328": {
-		"name": "Abensons",
-		"total": 407801,
-		"monthly": {
-			"2017-08": {"total":407801.00, "Housing General Fund":407801.00}
-		}
-	},
-	"329": {
-		"name": "Abensons Solicitors",
-		"total": 1342893.16,
-		"monthly": {
-			"2017-08": {"total":21309.31, "Housing General Fund":21309.31},
-			"2017-10": {"total":9600.00, "Housing General Fund":9600.00},
-			"2017-11": {"total":9136.00, "Housing General Fund":9136.00},
-			"2017-12": {"total":23674.60, "Housing General Fund":23674.60},
-			"2018-02": {"total":9225.00, "Housing General Fund":9225.00},
-			"2018-03": {"total":23636.64, "Housing General Fund":23636.64},
-			"2018-04": {"total":13678.00, "Housing General Fund":13678.00},
-			"2018-05": {"total":9225.00, "Housing General Fund":9225.00},
-			"2018-06": {"total":111109.17, "Housing General Fund":111109.17},
-			"2018-07": {"total":80828.53, "Housing General Fund":80828.53},
-			"2018-08": {"total":262897.42, "Housing General Fund":262897.42},
-			"2018-09": {"total":61470.66, "Housing General Fund":61470.66},
-			"2018-10": {"total":137994.99, "Housing General Fund":137994.99},
-			"2018-11": {"total":72930.58, "Housing General Fund":72930.58},
-			"2018-12": {"total":123279.22, "Housing General Fund":123279.22},
-			"2019-01": {"total":69945.70, "Housing General Fund":69945.70},
-			"2019-02": {"total":144204.94, "Housing General Fund":144204.94},
-			"2019-03": {"total":158747.40, "Housing General Fund":158747.40}
-		}
-	},
-	"330": {
-		"name": "Aberdeen City Council",
-		"total": 585,
-		"monthly": {
-			"2011-04": {"total":585.00, "Chief Executives":585.00}
-		}
-	},
-	"331": {
-		"name": "Abigail Billinghurst and Associates",
-		"total": 500,
-		"monthly": {
-			"2017-03": {"total":500.00, "Adult Social Care":500.00}
-		}
-	},
-	"332": {
-		"name": "Abilia Ltd",
-		"total": 2550,
-		"monthly": {
-			"2018-09": {"total":2550.00, "Adult Social Care":2550.00}
-		}
-	},
-	"333": {
-		"name": "Ability Smart Ltd",
-		"total": 715.2,
-		"monthly": {
-			"2018-07": {"total":715.20, "Adult Social Care":715.20}
-		}
-	},
-	"334": {
-		"name": "Abilitynet",
-		"total": 5950,
-		"monthly": {
-			"2013-04": {"total":5100.00, "Chief Executives":5100.00},
-			"2013-07": {"total":850.00, "Chief Executives":850.00}
-		}
-	},
-	"335": {
-		"name": "Abingdon Primary School",
-		"total": 801.83,
-		"monthly": {
-			"2017-08": {"total":801.83, "Adult Social Care":801.83}
-		}
-	},
-	"336": {
-		"name": "Abney Garsden McDonald",
-		"total": 14000,
-		"monthly": {
-			"2011-11": {"total":14000.00, "Childrens Services":14000.00}
-		}
-	},
-	"337": {
-		"name": "Abney Garsden Mcdonald",
-		"total": 8144224.32,
-		"monthly": {
-			"2010-12": {"total":281202.50, "Childrens Services":281202.50},
-			"2011-01": {"total":154150.00, "Childrens Services":154150.00},
-			"2011-02": {"total":144000.00, "Childrens Services":144000.00},
-			"2011-03": {"total":248853.09, "Childrens Services":248853.09},
-			"2011-04": {"total":78091.51, "Childrens Services":78091.51},
-			"2011-05": {"total":192567.39, "Childrens Services":192567.39},
-			"2011-06": {"total":124898.66, "Childrens Services":124898.66},
-			"2011-07": {"total":113820.00, "Childrens Services":113820.00},
-			"2011-08": {"total":109942.09, "Childrens Services":109942.09},
-			"2011-09": {"total":198888.75, "Childrens Services":198888.75},
-			"2011-10": {"total":147986.32, "Childrens Services":147986.32},
-			"2011-11": {"total":147172.08, "Childrens Services":147172.08},
-			"2011-12": {"total":205766.00, "Childrens Services":205766.00},
-			"2012-01": {"total":143254.00, "Childrens Services":143254.00},
-			"2012-02": {"total":180585.58, "Childrens Services":180585.58},
-			"2012-03": {"total":156436.03, "Childrens Services":144686.03, "Highways Services":11750.00},
-			"2012-04": {"total":98825.00, "Childrens Services":98825.00},
-			"2012-05": {"total":144010.12, "Childrens Services":144010.12},
-			"2012-06": {"total":62889.88, "Childrens Services":62889.88},
-			"2012-07": {"total":129462.80, "Childrens Services":129462.80},
-			"2012-08": {"total":82750.00, "Childrens Services":82750.00},
-			"2012-09": {"total":89700.00, "Childrens Services":89700.00},
-			"2012-10": {"total":121725.00, "Childrens Services":121725.00},
-			"2012-11": {"total":81850.00, "Childrens Services":81850.00},
-			"2012-12": {"total":164690.00, "Corporate Services":10000.00, "Childrens Services":154690.00},
-			"2013-01": {"total":105675.00, "Childrens Services":105675.00},
-			"2013-02": {"total":136883.05, "Childrens Services":136883.05},
-			"2013-03": {"total":132936.98, "Childrens Services":132936.98},
-			"2013-04": {"total":95125.00, "Childrens Services":95125.00},
-			"2013-05": {"total":80293.50, "Childrens Services":80293.50},
-			"2013-06": {"total":73442.00, "Childrens Services":73442.00},
-			"2013-07": {"total":83772.10, "Childrens Services":83772.10},
-			"2013-08": {"total":69500.00, "Childrens Services":69500.00},
-			"2013-09": {"total":90051.32, "Environment and Operations":25601.32, "Childrens Services":64450.00},
-			"2013-10": {"total":194157.18, "Childrens Services":189758.50, "Insurance Fund":4398.68},
-			"2013-11": {"total":7439.00, "Childrens Services":7439.00},
-			"2013-12": {"total":102988.00, "Childrens Services":102988.00},
-			"2014-01": {"total":166871.00, "Childrens Services":166871.00},
-			"2014-02": {"total":78648.00, "Childrens Services":78648.00},
-			"2014-03": {"total":216904.57, "Childrens Services":216904.57},
-			"2014-04": {"total":30500.00, "Childrens Services":30500.00},
-			"2014-05": {"total":111600.00, "Childrens Services":111600.00},
-			"2014-06": {"total":85562.92, "Childrens Services":75562.92, "Insurance Fund":10000.00},
-			"2014-07": {"total":244088.74, "Childrens Services":244088.74},
-			"2014-08": {"total":99059.48, "Childrens Services":99059.48},
-			"2014-09": {"total":84189.15, "Childrens Services":84189.15},
-			"2014-10": {"total":138726.46, "Childrens Services":138726.46},
-			"2014-11": {"total":144197.83, "Childrens Services":144197.83},
-			"2014-12": {"total":112493.69, "Insurance Fund":17000.00, "Childrens Services":95493.69},
-			"2015-01": {"total":211704.70, "Childrens Services":211704.70},
-			"2015-02": {"total":129731.95, "Adult Social Care":129731.95},
-			"2015-03": {"total":140224.04, "Adult Social Care":140224.04},
-			"2015-04": {"total":62620.72, "Adult Social Care":57120.72, "Insurance Fund":5500.00},
-			"2015-05": {"total":91533.94, "Adult Social Care":91533.94},
-			"2015-06": {"total":76480.42, "Adult Social Care":76480.42},
-			"2015-07": {"total":177462.88, "Adult Social Care":177462.88},
-			"2015-08": {"total":13500.00, "Adult Social Care":6000.00, "Insurance Fund":7500.00},
-			"2015-09": {"total":262578.70, "Adult Social Care":262578.70},
-			"2015-10": {"total":155557.25, "Adult Social Care":155557.25},
-			"2015-11": {"total":89238.50, "Adult Social Care":68488.50, "Insurance Fund":20750.00},
-			"2015-12": {"total":67800.00, "Adult Social Care":67800.00},
-			"2016-01": {"total":77651.84, "Adult Social Care":77651.84},
-			"2016-02": {"total":104672.81, "Adult Social Care":99672.81, "Insurance Fund":5000.00},
-			"2016-03": {"total":61291.00, "Adult Social Care":61291.00},
-			"2016-04": {"total":65553.80, "Insurance Fund":6953.80, "Adult Social Care":58600.00},
-			"2016-05": {"total":68000.00, "Adult Social Care":68000.00}
-		}
-	},
-	"338": {
-		"name": "Abraham Moss Community FC",
-		"total": 1400,
-		"monthly": {
-			"2015-12": {"total":1400.00, "Regeneration Finance":1400.00}
-		}
-	},
-	"339": {
-		"name": "Abraham Moss Community School",
-		"total": 120335.28,
-		"monthly": {
-			"2015-05": {"total":30813.00, "Hospitality + Trading Services":30813.00},
-			"2015-09": {"total":2820.00, "Regeneration Finance":2820.00},
-			"2016-02": {"total":1000.00, "Manchester Leisure":1000.00},
-			"2016-03": {"total":3000.00, "Manchester Leisure":3000.00},
-			"2016-06": {"total":30196.00, "Hospitality + Trading Services":30196.00},
-			"2017-06": {"total":23428.00, "Hospitality + Trading Services":23428.00},
-			"2018-09": {"total":29078.28, "Hospitality + Trading Services":8443.00, "Insurance Fund":20635.28}
-		}
-	},
-	"340": {
-		"name": "Abraham Moss Football Club",
-		"total": 3891,
-		"monthly": {
-			"2011-09": {"total":3891.00, "Chief Executives":3891.00}
-		}
-	},
-	"341": {
-		"name": "Abraham Moss High School",
-		"total": 75323,
-		"monthly": {
-			"2013-08": {"total":32653.00, "Hospitality + Trading Services":32653.00},
-			"2013-10": {"total":6520.00, "Regeneration Finance":6520.00},
-			"2014-05": {"total":36150.00, "Hospitality + Trading Services":36150.00}
-		}
-	},
-	"342": {
-		"name": "Abraham Moss Warriors FC",
-		"total": 1980,
-		"monthly": {
-			"2011-11": {"total":1980.00, "Manchester Leisure":1980.00}
-		}
-	},
-	"343": {
-		"name": "Abraham Moss Warriors JFC",
-		"total": 8769.12,
-		"monthly": {
-			"2011-01": {"total":4229.12, "Childrens Services":4229.12},
-			"2012-11": {"total":3420.00, "Regeneration Finance":3420.00},
-			"2014-10": {"total":1120.00, "Regeneration Finance":1120.00}
-		}
-	},
-	"344": {
-		"name": "Abrahams Dresden",
-		"total": 2901.81,
-		"monthly": {
-			"2018-09": {"total":2901.81, "Housing General Fund":2901.81}
-		}
-	},
-	"345": {
-		"name": "Absolute Interpreting & Translation",
-		"total": 1127.2,
-		"monthly": {
-			"2016-11": {"total":1127.20, "Adult Social Care":1127.20}
-		}
-	},
-	"346": {
-		"name": "Absolute Social Care",
-		"total": 89952.88,
-		"monthly": {
-			"2011-10": {"total":5103.00, "Chief Executives":5103.00},
-			"2011-11": {"total":10372.32, "Chief Executives":10372.32},
-			"2011-12": {"total":4233.60, "Chief Executives":4233.60},
-			"2012-01": {"total":6924.96, "Chief Executives":6924.96},
-			"2012-02": {"total":4233.60, "Chief Executives":4233.60},
-			"2012-03": {"total":11078.28, "Chief Executives":11078.28},
-			"2012-04": {"total":3235.69, "Chief Executives":3235.69},
-			"2012-05": {"total":18118.28, "Childrens Services":18118.28},
-			"2012-06": {"total":11550.24, "Chief Executives":5987.52, "Childrens Services":5562.72},
-			"2012-07": {"total":6834.24, "Chief Executives":1542.24, "Childrens Services":5292.00},
-			"2012-08": {"total":2836.51, "Childrens Services":2836.51},
-			"2012-09": {"total":5432.16, "Childrens Services":4116.72, "Chief Executives":1315.44}
-		}
-	},
-	"347": {
-		"name": "Abstract Sceen Print & Embroidery",
-		"total": 922.5,
-		"monthly": {
-			"2014-03": {"total":922.50, "Childrens Services":922.50}
-		}
-	},
-	"348": {
-		"name": "Abstract Screenprinting Ltd",
-		"total": 550,
-		"monthly": {
-			"2015-03": {"total":550.00, "Adult Social Care":550.00}
-		}
-	},
-	"349": {
-		"name": "Acacia Training Ltd",
-		"total": 1399,
-		"monthly": {
-			"2016-06": {"total":1399.00, "Childrens Services":1399.00}
 		}
 	}
 	}

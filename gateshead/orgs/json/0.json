@@ -1,39 +1,46 @@
 {
-	"range": ["2010-12","2019-05"],
+	"range": ["2010-12","2020-06"],
 	"data": {
 	"0": {
 		"name": "ALERTER GROUP PLC,",
 		"total": 11150.06,
 		"monthly": {
-			"2018-01": {"total":662.00, "Supplies and Services":662.00},
-			"2018-05": {"total":5098.30, "Supplies and Services":5098.30},
-			"2019-04": {"total":5389.76, "Supplies and Services":5389.76}
+			"2018-01": {"total":662.00, "Corporate Resources":662.00},
+			"2018-05": {"total":5098.30, "Corporate Resources":5098.30},
+			"2019-04": {"total":5389.76, "Corporate Resources":5389.76}
 		}
 	},
 	"1": {
 		"name": "C HEWISON. CONSULTANT, PROJECT MANAGEMENT, TRAINING LTD",
 		"total": 24750.04,
 		"monthly": {
-			"2016-09": {"total":916.67, "Supplies and Services":916.67},
-			"2016-11": {"total":1833.34, "Supplies and Services":1833.34},
-			"2016-12": {"total":1833.34, "Supplies and Services":1833.34},
-			"2017-01": {"total":916.67, "Supplies and Services":916.67},
-			"2017-02": {"total":916.67, "Supplies and Services":916.67},
-			"2017-03": {"total":916.67, "Supplies and Services":916.67},
-			"2017-04": {"total":3666.68, "Supplies and Services":3666.68},
-			"2017-08": {"total":5500.00, "Supplies and Services":5500.00},
-			"2018-01": {"total":5500.00, "Supplies and Services":5500.00},
-			"2018-11": {"total":2750.00, "Supplies and Services":2750.00}
+			"2016-09": {"total":916.67, "Care, Wellbeing & Learning":916.67},
+			"2016-11": {"total":1833.34, "Care, Wellbeing & Learning":1833.34},
+			"2016-12": {"total":1833.34, "Care, Wellbeing & Learning":1833.34},
+			"2017-01": {"total":916.67, "Care, Wellbeing & Learning":916.67},
+			"2017-02": {"total":916.67, "Care, Wellbeing & Learning":916.67},
+			"2017-03": {"total":916.67, "Care, Wellbeing & Learning":916.67},
+			"2017-04": {"total":3666.68, "Care, Wellbeing & Learning":3666.68},
+			"2017-08": {"total":5500.00, "Care, Wellbeing & Learning":5500.00},
+			"2018-01": {"total":5500.00, "Care, Wellbeing & Learning":5500.00},
+			"2018-11": {"total":2750.00, "Care, Wellbeing & Learning":2750.00}
 		}
 	},
 	"2": {
 		"name": "KATE FOX, POET",
 		"total": 5000,
 		"monthly": {
-			"2014-03": {"total":5000.00, "Supplies and Services":5000.00}
+			"2014-03": {"total":5000.00, "Community Based Services":5000.00}
 		}
 	},
 	"3": {
+		"name": "MINISTRY OF HOUSING, COMMUNITIES & LOCAL GOVERNMENT",
+		"total": 41458,
+		"monthly": {
+			"2019-09": {"total":41458.00, "Communities & Environment":41458.00}
+		}
+	},
+	"4": {
 		"name": "NORTHUMBERLAND, TYNE & WEAR  NHS TRUST",
 		"total": 24099.16,
 		"monthly": {
@@ -42,21 +49,28 @@
 			"2011-06": {"total":4067.91, "Community Based Services":4067.91}
 		}
 	},
-	"4": {
+	"5": {
 		"name": "PUNCHES, DIES AND BLADES LTD",
 		"total": 437.11,
 		"monthly": {
 			"2010-12": {"total":437.11, "Local Environmental Services":437.11}
 		}
 	},
-	"5": {
+	"6": {
 		"name": "RADISSON BLU HOTEL, DURHAM",
 		"total": 9183.17,
 		"monthly": {
 			"2011-05": {"total":9183.17, "Learning and Children":9183.17}
 		}
 	},
-	"6": {
+	"7": {
+		"name": "REMEMBERING THE PAST, RESOURCING THE FUTURE",
+		"total": 885,
+		"monthly": {
+			"2019-09": {"total":885.00, "Communities & Environment":885.00}
+		}
+	},
+	"8": {
 		"name": "ROWLANDS GILL UNDER FIVE,S",
 		"total": 1518,
 		"monthly": {
@@ -64,22 +78,22 @@
 			"2011-03": {"total":480.00, "Learning and Children":480.00}
 		}
 	},
-	"7": {
+	"9": {
 		"name": "RYTON, CRAWCROOK & DIST OUT OF SCHOOL",
 		"total": 3000,
 		"monthly": {
-			"2011-08": {"total":3000.00, "Supplies and Services":3000.00}
+			"2011-08": {"total":3000.00, "Learning and Children":3000.00}
 		}
 	},
-	"8": {
+	"10": {
 		"name": "SEVEN STORIES, THE CENTRE FOR CHILDRENS BOOKS",
 		"total": 10954.11,
 		"monthly": {
 			"2011-03": {"total":10295.21, "Learning and Children":10295.21},
-			"2011-07": {"total":658.90, "Supplies and Services":658.90}
+			"2011-07": {"total":658.90, "Community Based Services":658.90}
 		}
 	},
-	"9": {
+	"11": {
 		"name": "ST JOSEPH'S, SISTERS OF THE POOR",
 		"total": 116427.64,
 		"monthly": {
@@ -90,59 +104,62 @@
 			"2011-04": {"total":4216.15, "Community Based Services":4216.15},
 			"2011-05": {"total":4250.35, "Community Based Services":4250.35},
 			"2011-06": {"total":4237.60, "Community Based Services":4237.60},
-			"2011-07": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
-			"2011-08": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
-			"2011-09": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
-			"2011-10": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
-			"2011-11": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
-			"2011-12": {"total":4237.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3320.00},
-			"2012-01": {"total":4237.60, "Third Party Payments":3320.00, "Income: Customer and Client Receipts":917.60},
-			"2012-02": {"total":10235.20, "Income: Customer and Client Receipts":1835.20, "Third Party Payments":8400.00},
-			"2012-03": {"total":4557.60, "Income: Customer and Client Receipts":917.60, "Third Party Payments":3640.00},
-			"2012-04": {"total":4578.60, "Income: Customer and Client Receipts":938.60, "Third Party Payments":3640.00},
-			"2012-05": {"total":4585.60, "Income: Customer and Client Receipts":945.60, "Third Party Payments":3640.00},
-			"2012-06": {"total":4585.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":945.60},
-			"2012-07": {"total":4585.60, "Income: Customer and Client Receipts":945.60, "Third Party Payments":3640.00},
-			"2012-08": {"total":4585.60, "Income: Customer and Client Receipts":945.60, "Third Party Payments":3640.00},
-			"2012-09": {"total":4585.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":945.60},
-			"2012-10": {"total":4144.51, "Income: Customer and Client Receipts":894.51, "Third Party Payments":3250.00},
-			"2012-11": {"total":2288.80, "Income: Customer and Client Receipts":468.80, "Third Party Payments":1820.00},
-			"2012-12": {"total":2288.80, "Third Party Payments":1820.00, "Income: Customer and Client Receipts":468.80},
-			"2013-01": {"total":4577.60, "Third Party Payments":3640.00, "Income: Customer and Client Receipts":937.60},
-			"2013-02": {"total":2288.80, "Third Party Payments":1820.00, "Income: Customer and Client Receipts":468.80},
-			"2013-03": {"total":2288.80, "Third Party Payments":1820.00, "Income: Customer and Client Receipts":468.80}
+			"2011-07": {"total":4237.60, "Community Based Services":4237.60},
+			"2011-08": {"total":4237.60, "Community Based Services":4237.60},
+			"2011-09": {"total":4237.60, "Community Based Services":4237.60},
+			"2011-10": {"total":4237.60, "Community Based Services":4237.60},
+			"2011-11": {"total":4237.60, "Community Based Services":4237.60},
+			"2011-12": {"total":4237.60, "Community Based Services":4237.60},
+			"2012-01": {"total":4237.60, "Community Based Services":4237.60},
+			"2012-02": {"total":10235.20, "Community Based Services":10235.20},
+			"2012-03": {"total":4557.60, "Community Based Services":4557.60},
+			"2012-04": {"total":4578.60, "Community Based Services":4578.60},
+			"2012-05": {"total":4585.60, "Community Based Services":4585.60},
+			"2012-06": {"total":4585.60, "Community Based Services":4585.60},
+			"2012-07": {"total":4585.60, "Community Based Services":4585.60},
+			"2012-08": {"total":4585.60, "Community Based Services":4585.60},
+			"2012-09": {"total":4585.60, "Community Based Services":4585.60},
+			"2012-10": {"total":4144.51, "Community Based Services":4144.51},
+			"2012-11": {"total":2288.80, "Community Based Services":2288.80},
+			"2012-12": {"total":2288.80, "Community Based Services":2288.80},
+			"2013-01": {"total":4577.60, "Community Based Services":4577.60},
+			"2013-02": {"total":2288.80, "Community Based Services":2288.80},
+			"2013-03": {"total":2288.80, "Community Based Services":2288.80}
 		}
 	},
-	"10": {
+	"12": {
 		"name": "THE MEADOWS, BOLDON",
 		"total": 4425.86,
 		"monthly": {
 			"2011-02": {"total":4425.86, "Community Based Services":4425.86}
 		}
 	},
-	"11": {
+	"13": {
 		"name": "UNDERLEY GARDEN, ACORN CARE & EDUCATION LTD",
-		"total": 972238.74,
+		"total": 1378616.45,
 		"monthly": {
-			"2017-07": {"total":244121.00, "Third Party Payments":244121.00},
-			"2017-08": {"total":142243.34, "Third Party Payments":142243.34},
-			"2017-09": {"total":3715.83, "Income: Fees and Charges":3715.83},
-			"2017-10": {"total":7431.66, "Income: Fees and Charges":7431.66},
-			"2018-02": {"total":89927.63, "Income: Fees and Charges":11910.56, "Third Party Payments":78017.07},
-			"2018-03": {"total":144121.00, "Third Party Payments":144121.00},
-			"2018-05": {"total":144121.00, "Third Party Payments":144121.00},
-			"2018-11": {"total":78921.66, "Third Party Payments":78921.66},
-			"2019-03": {"total":117635.62, "Third Party Payments":117635.62}
+			"2017-07": {"total":244121.00, "Care, Wellbeing & Learning":244121.00},
+			"2017-08": {"total":142243.34, "Care, Wellbeing & Learning":142243.34},
+			"2017-09": {"total":3715.83, "Care, Wellbeing & Learning":3715.83},
+			"2017-10": {"total":7431.66, "Care, Wellbeing & Learning":7431.66},
+			"2018-02": {"total":89927.63, "Care, Wellbeing & Learning":89927.63},
+			"2018-03": {"total":144121.00, "Care, Wellbeing & Learning":144121.00},
+			"2018-05": {"total":144121.00, "Care, Wellbeing & Learning":144121.00},
+			"2018-11": {"total":78921.66, "Care, Wellbeing & Learning":78921.66},
+			"2019-03": {"total":117635.62, "Care, Wellbeing & Learning":117635.62},
+			"2019-08": {"total":157843.34, "Care, Wellbeing & Learning":157843.34},
+			"2020-03": {"total":170027.70, "Care, Wellbeing & Learning":170027.70},
+			"2020-06": {"total":78506.67, "Children, Adults and Families":78506.67}
 		}
 	},
-	"12": {
+	"14": {
 		"name": "#REF!",
 		"total": 236079.02,
 		"monthly": {
 			"2011-03": {"total":236079.02, "Community Based Services":236079.02}
 		}
 	},
-	"13": {
+	"15": {
 		"name": "123 HIRE LTD",
 		"alternate-names": [
 			"123 HIRE LIMITED"
@@ -150,78 +167,86 @@
 		"total": 7893.33,
 		"monthly": {
 			"2011-05": {"total":1500.00, "Community Based Services":1500.00},
-			"2012-05": {"total":1750.00, "Supplies and Services":1750.00},
-			"2013-05": {"total":1000.00, "Supplies and Services":1000.00},
-			"2014-11": {"total":833.33, "Supplies and Services":833.33},
-			"2015-06": {"total":1050.00, "Supplies and Services":1050.00},
-			"2015-08": {"total":660.00, "Supplies and Services":660.00},
-			"2017-07": {"total":1100.00, "Supplies and Services":1100.00}
-		}
-	},
-	"14": {
-		"name": "123-REG LIMITED T/A TSOHOST",
-		"total": 539.95,
-		"monthly": {
-			"2018-08": {"total":539.95, "Supplies and Services":539.95}
-		}
-	},
-	"15": {
-		"name": "123RF",
-		"total": 5424.16,
-		"monthly": {
-			"2015-12": {"total":1215.76, "Supplies and Services":1215.76},
-			"2017-05": {"total":1402.80, "Supplies and Services":1402.80},
-			"2018-03": {"total":1402.80, "Supplies and Services":1402.80},
-			"2019-04": {"total":1402.80, "Supplies and Services":1402.80}
+			"2012-05": {"total":1750.00, "Community Based Services":1750.00},
+			"2013-05": {"total":1000.00, "Community Based Services":1000.00},
+			"2014-11": {"total":833.33, "Communities & Enviroment":833.33},
+			"2015-06": {"total":1050.00, "Communities & Environment":1050.00},
+			"2015-08": {"total":660.00, "Communities & Environment":660.00},
+			"2017-07": {"total":1100.00, "Communities & Environment":1100.00}
 		}
 	},
 	"16": {
-		"name": "19 PLUS CIC (TRADING AS CUMBRIC)",
-		"total": 739,
+		"name": "123-REG LIMITED T/A TSOHOST",
+		"total": 539.95,
 		"monthly": {
-			"2017-03": {"total":739.00, "Supplies and Services":739.00}
+			"2018-08": {"total":539.95, "Care, Wellbeing & Learning":539.95}
 		}
 	},
 	"17": {
+		"name": "123RF",
+		"total": 6768.51,
+		"monthly": {
+			"2015-12": {"total":1215.76, "Policy, Economic Growth and Transformation":1215.76},
+			"2017-05": {"total":1402.80, "Office of the Chief Executive":1402.80},
+			"2018-03": {"total":1402.80, "Office of the Chief Executive":1402.80},
+			"2019-04": {"total":1402.80, "Office of the Chief Executive":1402.80},
+			"2020-03": {"total":1344.35, "Office of the Chief Executive":1344.35}
+		}
+	},
+	"18": {
+		"name": "19 PLUS CIC (TRADING AS CUMBRIC)",
+		"total": 739,
+		"monthly": {
+			"2017-03": {"total":739.00, "Communities & Environment":739.00}
+		}
+	},
+	"19": {
 		"name": "1NG LTD",
 		"total": 636500,
 		"monthly": {
 			"2011-01": {"total":174000.00, "Development & Enterprise":174000.00},
 			"2011-05": {"total":150000.00, "Development & Enterprise":150000.00},
-			"2011-08": {"total":157500.00, "Other Costs":157500.00},
-			"2011-10": {"total":155000.00, "Other Costs":155000.00}
-		}
-	},
-	"18": {
-		"name": "1ST BLAYDON SCOUT GROUP",
-		"total": 500,
-		"monthly": {
-			"2015-02": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
-	"19": {
-		"name": "1ST CHOPWELL SCOUTS",
-		"total": 1000,
-		"monthly": {
-			"2012-06": {"total":1000.00, "Supplies and Services":1000.00}
+			"2011-08": {"total":157500.00, "Development & Enterprise":157500.00},
+			"2011-10": {"total":155000.00, "Development & Enterprise":155000.00}
 		}
 	},
 	"20": {
-		"name": "1ST CRAWCROOK GUIDES",
-		"total": 698.4,
+		"name": "1ST BLAYDON SCOUT GROUP",
+		"total": 500,
 		"monthly": {
-			"2011-11": {"total":698.40, "Supplies and Services":698.40}
+			"2015-02": {"total":500.00, "Communities & Enviroment":500.00}
 		}
 	},
 	"21": {
-		"name": "1ST RYTON SCOUT GROUP",
-		"total": 1584.14,
+		"name": "1ST CHOPWELL SCOUTS",
+		"total": 1000,
 		"monthly": {
-			"2012-12": {"total":1070.00, "Supplies and Services":1070.00},
-			"2014-03": {"total":514.14, "Supplies and Services":514.14}
+			"2012-06": {"total":1000.00, "Community Based Services":1000.00}
 		}
 	},
 	"22": {
+		"name": "1ST CRAWCROOK GUIDES",
+		"total": 698.4,
+		"monthly": {
+			"2011-11": {"total":698.40, "Community Based Services":698.40}
+		}
+	},
+	"23": {
+		"name": "1ST LINE DEFENCE LTD",
+		"total": 575,
+		"monthly": {
+			"2019-09": {"total":575.00, "Housing Revenue Account":575.00}
+		}
+	},
+	"24": {
+		"name": "1ST RYTON SCOUT GROUP",
+		"total": 1584.14,
+		"monthly": {
+			"2012-12": {"total":1070.00, "Community Based Services":1070.00},
+			"2014-03": {"total":514.14, "Community Based Services":514.14}
+		}
+	},
+	"25": {
 		"name": "1ST STOP BUSINESS SUPPORT LTD",
 		"total": 1265,
 		"monthly": {
@@ -229,197 +254,220 @@
 			"2011-04": {"total":615.00, "Development & Enterprise":615.00}
 		}
 	},
-	"23": {
+	"26": {
 		"name": "1ST WINDY NOOK GIRLS BRIGADE",
 		"total": 9935,
 		"monthly": {
 			"2011-03": {"total":6200.00, "Community Based Services":6200.00},
-			"2011-12": {"total":1735.00, "Supplies and Services":1735.00},
-			"2014-03": {"total":2000.00, "Supplies and Services":2000.00}
+			"2011-12": {"total":1735.00, "Community Based Services":1735.00},
+			"2014-03": {"total":2000.00, "Community Based Services":2000.00}
 		}
 	},
-	"24": {
+	"27": {
 		"name": "1ST WINLATON SCOUTS",
 		"total": 3940,
 		"monthly": {
 			"2011-04": {"total":3940.00, "Community Based Services":3940.00}
 		}
 	},
-	"25": {
+	"28": {
 		"name": "1ST4SPORT",
 		"total": 1067.33,
 		"monthly": {
-			"2016-11": {"total":1067.33, "Supplies and Services":1067.33}
+			"2016-11": {"total":1067.33, "Care, Wellbeing & Learning":1067.33}
 		}
 	},
-	"26": {
+	"29": {
 		"name": "1STOP HSE TRAINING LTD",
 		"alternate-names": [
 			"1STOP HSE TRAINING LIMITED"
 		],
-		"total": 4400,
+		"total": 7550,
 		"monthly": {
-			"2015-07": {"total":2200.00, "Employees":2200.00},
-			"2017-10": {"total":2200.00, "Employees":2200.00}
-		}
-	},
-	"27": {
-		"name": "2 WAY TENANCY SOLUTIONS CIC",
-		"total": 35812.39,
-		"monthly": {
-			"2017-06": {"total":8997.23, "Third Party Payments":8997.23},
-			"2018-02": {"total":1500.00, "Third Party Payments":1500.00},
-			"2018-03": {"total":507.00, "Third Party Payments":507.00},
-			"2018-04": {"total":2999.08, "Third Party Payments":2999.08},
-			"2018-05": {"total":3760.08, "Third Party Payments":3760.08},
-			"2018-07": {"total":761.00, "Third Party Payments":761.00},
-			"2018-10": {"total":8961.00, "Third Party Payments":8961.00},
-			"2019-02": {"total":1592.00, "Supplies and Services":1592.00},
-			"2019-03": {"total":6735.00, "Third Party Payments":6735.00}
-		}
-	},
-	"28": {
-		"name": "21ST CENTURY MOTORS",
-		"total": 3000,
-		"monthly": {
-			"2016-03": {"total":1500.00, "Third Party Payments":1500.00},
-			"2016-04": {"total":1500.00, "Third Party Payments":1500.00}
-		}
-	},
-	"29": {
-		"name": "21cc FIREWORKS",
-		"total": 1440,
-		"monthly": {
-			"2012-05": {"total":1440.00, "Supplies and Services":1440.00}
+			"2015-07": {"total":2200.00, "Communities & Environment":2200.00},
+			"2017-10": {"total":2200.00, "Communities & Environment":2200.00},
+			"2019-06": {"total":3150.00, "Communities & Environment":3150.00}
 		}
 	},
 	"30": {
-		"name": "22 SHEDS LTD",
-		"total": 31585,
+		"name": "2 WAY TENANCY SOLUTIONS CIC",
+		"total": 51977.79,
 		"monthly": {
-			"2016-10": {"total":7250.00, "Supplies and Services":7250.00},
-			"2017-02": {"total":7250.00, "Supplies and Services":7250.00},
-			"2017-07": {"total":9835.00, "Supplies and Services":9835.00},
-			"2017-11": {"total":7250.00, "Supplies and Services":7250.00}
+			"2017-06": {"total":8997.23, "Care, Wellbeing & Learning":8997.23},
+			"2018-02": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2018-03": {"total":507.00, "Care, Wellbeing & Learning":507.00},
+			"2018-04": {"total":2999.08, "Care, Wellbeing & Learning":2999.08},
+			"2018-05": {"total":3760.08, "Care, Wellbeing & Learning":3760.08},
+			"2018-07": {"total":761.00, "Care, Wellbeing & Learning":761.00},
+			"2018-10": {"total":8961.00, "Care, Wellbeing & Learning":8961.00},
+			"2019-02": {"total":1592.00, "Corporate Resources":1592.00},
+			"2019-03": {"total":6735.00, "Care, Wellbeing & Learning":6735.00},
+			"2019-10": {"total":3906.35, "Communities & Environment":3906.35},
+			"2019-11": {"total":1277.41, "Communities & Environment":1277.41},
+			"2019-12": {"total":1265.29, "Housing, Environment and Healthy Communities":1265.29},
+			"2020-01": {"total":1444.34, "Communities & Environment":1444.34},
+			"2020-02": {"total":1460.93, "Communities & Environment":1460.93},
+			"2020-03": {"total":1446.20, "Communities & Environment":1446.20},
+			"2020-04": {"total":2470.95, "Communities & Environment":2470.95},
+			"2020-05": {"total":1397.30, "Housing, Environment and Healthy Communities":1397.30},
+			"2020-06": {"total":1496.63, "Housing, Environment and Healthy Communities":1496.63}
 		}
 	},
 	"31": {
+		"name": "21ST CENTURY MOTORS",
+		"total": 3000,
+		"monthly": {
+			"2016-03": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2016-04": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
+		}
+	},
+	"32": {
+		"name": "21cc FIREWORKS",
+		"total": 1440,
+		"monthly": {
+			"2012-05": {"total":1440.00, "Community Based Services":1440.00}
+		}
+	},
+	"33": {
+		"name": "22 SHEDS LTD",
+		"total": 31585,
+		"monthly": {
+			"2016-10": {"total":7250.00, "Communities & Environment":7250.00},
+			"2017-02": {"total":7250.00, "Communities & Environment":7250.00},
+			"2017-07": {"total":9835.00, "Communities & Environment":9835.00},
+			"2017-11": {"total":7250.00, "Communities & Environment":7250.00}
+		}
+	},
+	"34": {
 		"name": "25TH GATESHEAD BROWNIE UNIT",
 		"total": 595,
 		"monthly": {
 			"2011-01": {"total":595.00, "Community Based Services":595.00}
 		}
 	},
-	"32": {
-		"name": "2ND HOME CHILDCARE @ CHOWDENE",
-		"total": 197861.83,
-		"monthly": {
-			"2014-06": {"total":473.42, "Supplies and Services":473.42},
-			"2014-12": {"total":945.15, "Supplies and Services":945.15},
-			"2015-04": {"total":472.58, "Supplies and Services":472.58},
-			"2015-06": {"total":3092.45, "Supplies and Services":3092.45},
-			"2015-12": {"total":834.29, "Supplies and Services":834.29},
-			"2016-04": {"total":9641.95, "Supplies and Services":9641.95},
-			"2016-06": {"total":1870.58, "Supplies and Services":1870.58},
-			"2016-09": {"total":8555.40, "Supplies and Services":8555.40},
-			"2017-01": {"total":8727.83, "Supplies and Services":8727.83},
-			"2017-02": {"total":597.70, "Supplies and Services":597.70},
-			"2017-03": {"total":4015.80, "Supplies and Services":4015.80},
-			"2017-04": {"total":9448.99, "Supplies and Services":9448.99},
-			"2017-07": {"total":4430.40, "Supplies and Services":4430.40},
-			"2017-09": {"total":10567.69, "Supplies and Services":10567.69},
-			"2017-12": {"total":4789.20, "Supplies and Services":4789.20},
-			"2018-01": {"total":11672.65, "Supplies and Services":11672.65},
-			"2018-02": {"total":3300.98, "Supplies and Services":3300.98},
-			"2018-03": {"total":2316.60, "Supplies and Services":2316.60},
-			"2018-04": {"total":17625.84, "Supplies and Services":17625.84},
-			"2018-07": {"total":11441.49, "Supplies and Services":11441.49},
-			"2018-09": {"total":27114.13, "Supplies and Services":27114.13},
-			"2018-12": {"total":8424.00, "Supplies and Services":8424.00},
-			"2019-01": {"total":21211.45, "Supplies and Services":21211.45},
-			"2019-03": {"total":6142.93, "Supplies and Services":6142.93},
-			"2019-04": {"total":20148.33, "Supplies and Services":20148.33}
-		}
-	},
-	"33": {
-		"name": "2ND HOME CHILDCARE LTD",
-		"total": 958736.44,
-		"monthly": {
-			"2012-02": {"total":5000.00, "Supplies and Services":5000.00},
-			"2012-03": {"total":520.00, "Transfer Payments":520.00},
-			"2012-04": {"total":3505.98, "Supplies and Services":3505.98},
-			"2012-05": {"total":1190.00, "Transfer Payments":1190.00},
-			"2012-06": {"total":3144.60, "Transfer Payments":536.00, "Supplies and Services":2608.60},
-			"2012-08": {"total":4579.88, "Transfer Payments":1592.00, "Supplies and Services":2987.88},
-			"2012-10": {"total":1726.50, "Transfer Payments":1726.50},
-			"2012-11": {"total":496.00, "Transfer Payments":496.00},
-			"2012-12": {"total":3857.17, "Supplies and Services":3857.17},
-			"2013-02": {"total":936.00, "Transfer Payments":936.00},
-			"2013-03": {"total":7580.25, "Supplies and Services":7580.25},
-			"2013-04": {"total":8672.03, "Supplies and Services":8672.03},
-			"2013-06": {"total":8081.58, "Supplies and Services":8081.58},
-			"2013-08": {"total":23148.00, "Other Costs":10000.00, "Supplies and Services":13148.00},
-			"2013-09": {"total":4848.68, "Supplies and Services":4848.68},
-			"2013-11": {"total":6921.64, "Supplies and Services":6921.64},
-			"2013-12": {"total":26481.35, "Supplies and Services":26481.35},
-			"2014-03": {"total":2477.72, "Supplies and Services":2477.72},
-			"2014-04": {"total":9892.60, "Supplies and Services":9892.60},
-			"2014-05": {"total":16237.80, "Supplies and Services":16237.80},
-			"2014-06": {"total":5820.30, "Supplies and Services":5820.30},
-			"2014-07": {"total":4260.73, "Supplies and Services":4260.73},
-			"2014-08": {"total":7499.45, "Supplies and Services":7499.45},
-			"2014-09": {"total":23669.94, "Supplies and Services":23669.94},
-			"2014-11": {"total":3198.71, "Supplies and Services":3198.71},
-			"2014-12": {"total":27611.84, "Supplies and Services":27611.84},
-			"2015-01": {"total":14798.72, "Supplies and Services":14798.72},
-			"2015-03": {"total":16034.06, "Supplies and Services":16034.06},
-			"2015-04": {"total":22477.98, "Supplies and Services":22477.98},
-			"2015-05": {"total":12222.00, "Supplies and Services":12222.00},
-			"2015-06": {"total":10687.48, "Supplies and Services":10687.48},
-			"2015-07": {"total":5674.50, "Supplies and Services":5674.50},
-			"2015-08": {"total":17121.66, "Supplies and Services":17121.66},
-			"2015-09": {"total":15175.65, "Supplies and Services":15175.65},
-			"2015-10": {"total":6923.39, "Supplies and Services":6923.39},
-			"2015-12": {"total":21932.08, "Supplies and Services":21932.08},
-			"2016-01": {"total":16194.15, "Supplies and Services":16194.15},
-			"2016-03": {"total":12293.44, "Supplies and Services":12293.44},
-			"2016-04": {"total":33624.46, "Supplies and Services":33624.46},
-			"2016-06": {"total":9523.64, "Supplies and Services":9523.64},
-			"2016-09": {"total":27434.97, "Supplies and Services":27434.97},
-			"2016-11": {"total":7447.71, "Supplies and Services":7447.71},
-			"2017-01": {"total":27227.89, "Supplies and Services":27227.89},
-			"2017-02": {"total":8823.82, "Supplies and Services":8823.82},
-			"2017-03": {"total":7376.85, "Supplies and Services":7376.85},
-			"2017-04": {"total":38585.89, "Supplies and Services":38585.89},
-			"2017-06": {"total":12861.33, "Supplies and Services":12861.33},
-			"2017-07": {"total":4555.20, "Supplies and Services":4555.20},
-			"2017-09": {"total":44195.81, "Supplies and Services":44195.81},
-			"2017-11": {"total":14424.77, "Supplies and Services":14424.77},
-			"2017-12": {"total":11388.00, "Supplies and Services":11388.00},
-			"2018-01": {"total":38452.02, "Supplies and Services":38452.02},
-			"2018-02": {"total":22332.09, "Supplies and Services":22332.09},
-			"2018-03": {"total":4500.60, "Supplies and Services":4500.60},
-			"2018-04": {"total":55767.93, "Supplies and Services":55767.93},
-			"2018-07": {"total":31616.30, "Supplies and Services":31616.30},
-			"2018-09": {"total":41620.39, "Supplies and Services":41620.39},
-			"2018-12": {"total":17158.95, "Supplies and Services":17158.95},
-			"2019-01": {"total":38900.47, "Supplies and Services":38900.47},
-			"2019-03": {"total":18899.32, "Supplies and Services":18899.32},
-			"2019-04": {"total":59124.17, "Supplies and Services":59124.17}
-		}
-	},
-	"34": {
-		"name": "33RD GATESHEAD BROWNIES",
-		"total": 2700,
-		"monthly": {
-			"2012-07": {"total":700.00, "Supplies and Services":700.00},
-			"2016-09": {"total":500.00, "Supplies and Services":500.00},
-			"2017-07": {"total":500.00, "Supplies and Services":500.00},
-			"2017-08": {"total":500.00, "Supplies and Services":500.00},
-			"2017-09": {"total":500.00, "Supplies and Services":500.00}
-		}
-	},
 	"35": {
+		"name": "2ND HOME CHILDCARE @ CHOWDENE",
+		"total": 310264.63,
+		"monthly": {
+			"2014-06": {"total":473.42, "Learning and Children":473.42},
+			"2014-12": {"total":945.15, "Care, Wellbeing & Learning":945.15},
+			"2015-04": {"total":472.58, "Care, Wellbeing & Learning":472.58},
+			"2015-06": {"total":3092.45, "Care, Wellbeing & Learning":3092.45},
+			"2015-12": {"total":834.29, "Care, Wellbeing & Learning":834.29},
+			"2016-04": {"total":9641.95, "Care, Wellbeing & Learning":9641.95},
+			"2016-06": {"total":1870.58, "Care, Wellbeing & Learning":1870.58},
+			"2016-09": {"total":8555.40, "Care, Wellbeing & Learning":8555.40},
+			"2017-01": {"total":8727.83, "Care, Wellbeing & Learning":8727.83},
+			"2017-02": {"total":597.70, "Care, Wellbeing & Learning":597.70},
+			"2017-03": {"total":4015.80, "Care, Wellbeing & Learning":4015.80},
+			"2017-04": {"total":9448.99, "Care, Wellbeing & Learning":9448.99},
+			"2017-07": {"total":4430.40, "Care, Wellbeing & Learning":4430.40},
+			"2017-09": {"total":10567.69, "Care, Wellbeing & Learning":10567.69},
+			"2017-12": {"total":4789.20, "Care, Wellbeing & Learning":4789.20},
+			"2018-01": {"total":11672.65, "Care, Wellbeing & Learning":11672.65},
+			"2018-02": {"total":3300.98, "Care, Wellbeing & Learning":3300.98},
+			"2018-03": {"total":2316.60, "Care, Wellbeing & Learning":2316.60},
+			"2018-04": {"total":17625.84, "Care, Wellbeing & Learning":17625.84},
+			"2018-07": {"total":11441.49, "Care, Wellbeing & Learning":11441.49},
+			"2018-09": {"total":27114.13, "Care, Wellbeing & Learning":27114.13},
+			"2018-12": {"total":8424.00, "Care, Wellbeing & Learning":8424.00},
+			"2019-01": {"total":21211.45, "Care, Wellbeing & Learning":21211.45},
+			"2019-03": {"total":6142.93, "Care, Wellbeing & Learning":6142.93},
+			"2019-04": {"total":20148.33, "Care, Wellbeing & Learning":20148.33},
+			"2019-07": {"total":13848.30, "Care, Wellbeing & Learning":13848.30},
+			"2019-09": {"total":23249.27, "Care, Wellbeing & Learning":23249.27},
+			"2019-12": {"total":9686.34, "Children, Adults and Families":9686.34},
+			"2020-01": {"total":18291.82, "Care, Wellbeing & Learning":18291.82},
+			"2020-03": {"total":14236.93, "Care, Wellbeing & Learning":14236.93},
+			"2020-04": {"total":33090.14, "Care, Wellbeing & Learning":33090.14}
+		}
+	},
+	"36": {
+		"name": "2ND HOME CHILDCARE LTD",
+		"total": 1149636.97,
+		"monthly": {
+			"2012-02": {"total":5000.00, "Learning and Children":5000.00},
+			"2012-03": {"total":520.00, "Learning and Children":520.00},
+			"2012-04": {"total":3505.98, "Learning and Children":3505.98},
+			"2012-05": {"total":1190.00, "Learning and Children":1190.00},
+			"2012-06": {"total":3144.60, "Learning and Children":3144.60},
+			"2012-08": {"total":4579.88, "Learning and Children":4579.88},
+			"2012-10": {"total":1726.50, "Learning and Children":1726.50},
+			"2012-11": {"total":496.00, "Learning and Children":496.00},
+			"2012-12": {"total":3857.17, "Learning and Children":3857.17},
+			"2013-02": {"total":936.00, "Learning and Children":936.00},
+			"2013-03": {"total":7580.25, "Learning and Children":7580.25},
+			"2013-04": {"total":8672.03, "Learning and Children":8672.03},
+			"2013-06": {"total":8081.58, "Learning and Children":8081.58},
+			"2013-08": {"total":23148.00, "Learning and Children":23148.00},
+			"2013-09": {"total":4848.68, "Learning and Children":4848.68},
+			"2013-11": {"total":6921.64, "Learning and Children":6921.64},
+			"2013-12": {"total":26481.35, "Learning and Children":26481.35},
+			"2014-03": {"total":2477.72, "Learning and Children":2477.72},
+			"2014-04": {"total":9892.60, "Learning and Children":9892.60},
+			"2014-05": {"total":16237.80, "Learning and Children":16237.80},
+			"2014-06": {"total":5820.30, "Learning and Children":5820.30},
+			"2014-07": {"total":4260.73, "Learning and Children":4260.73},
+			"2014-08": {"total":7499.45, "Learning and Children":7499.45},
+			"2014-09": {"total":23669.94, "Learning and Children":23669.94},
+			"2014-11": {"total":3198.71, "Care, Wellbeing & Learning":3198.71},
+			"2014-12": {"total":27611.84, "Care, Wellbeing & Learning":27611.84},
+			"2015-01": {"total":14798.72, "Care, Wellbeing & Learning":14798.72},
+			"2015-03": {"total":16034.06, "Care, Wellbeing & Learning":16034.06},
+			"2015-04": {"total":22477.98, "Care, Wellbeing & Learning":22477.98},
+			"2015-05": {"total":12222.00, "Care, Wellbeing & Learning":12222.00},
+			"2015-06": {"total":10687.48, "Care, Wellbeing & Learning":10687.48},
+			"2015-07": {"total":5674.50, "Care, Wellbeing & Learning":5674.50},
+			"2015-08": {"total":17121.66, "Care, Wellbeing & Learning":17121.66},
+			"2015-09": {"total":15175.65, "Care, Wellbeing & Learning":15175.65},
+			"2015-10": {"total":6923.39, "Care, Wellbeing & Learning":6923.39},
+			"2015-12": {"total":21932.08, "Care, Wellbeing & Learning":21932.08},
+			"2016-01": {"total":16194.15, "Care, Wellbeing & Learning":16194.15},
+			"2016-03": {"total":12293.44, "Care, Wellbeing & Learning":12293.44},
+			"2016-04": {"total":33624.46, "Care, Wellbeing & Learning":33624.46},
+			"2016-06": {"total":9523.64, "Care, Wellbeing & Learning":9523.64},
+			"2016-09": {"total":27434.97, "Care, Wellbeing & Learning":27434.97},
+			"2016-11": {"total":7447.71, "Care, Wellbeing & Learning":7447.71},
+			"2017-01": {"total":27227.89, "Care, Wellbeing & Learning":27227.89},
+			"2017-02": {"total":8823.82, "Care, Wellbeing & Learning":8823.82},
+			"2017-03": {"total":7376.85, "Care, Wellbeing & Learning":7376.85},
+			"2017-04": {"total":38585.89, "Care, Wellbeing & Learning":38585.89},
+			"2017-06": {"total":12861.33, "Care, Wellbeing & Learning":12861.33},
+			"2017-07": {"total":4555.20, "Care, Wellbeing & Learning":4555.20},
+			"2017-09": {"total":44195.81, "Care, Wellbeing & Learning":44195.81},
+			"2017-11": {"total":14424.77, "Care, Wellbeing & Learning":14424.77},
+			"2017-12": {"total":11388.00, "Care, Wellbeing & Learning":11388.00},
+			"2018-01": {"total":38452.02, "Care, Wellbeing & Learning":38452.02},
+			"2018-02": {"total":22332.09, "Care, Wellbeing & Learning":22332.09},
+			"2018-03": {"total":4500.60, "Care, Wellbeing & Learning":4500.60},
+			"2018-04": {"total":55767.93, "Care, Wellbeing & Learning":55767.93},
+			"2018-07": {"total":31616.30, "Care, Wellbeing & Learning":31616.30},
+			"2018-09": {"total":41620.39, "Care, Wellbeing & Learning":41620.39},
+			"2018-12": {"total":17158.95, "Care, Wellbeing & Learning":17158.95},
+			"2019-01": {"total":38900.47, "Care, Wellbeing & Learning":38900.47},
+			"2019-03": {"total":18899.32, "Care, Wellbeing & Learning":18899.32},
+			"2019-04": {"total":59124.17, "Care, Wellbeing & Learning":59124.17},
+			"2019-07": {"total":30367.86, "Care, Wellbeing & Learning":30367.86},
+			"2019-09": {"total":39539.33, "Care, Wellbeing & Learning":39539.33},
+			"2019-12": {"total":25893.93, "Children, Adults and Families":25893.93},
+			"2020-01": {"total":39072.38, "Care, Wellbeing & Learning":39072.38},
+			"2020-03": {"total":12402.98, "Care, Wellbeing & Learning":12402.98},
+			"2020-04": {"total":43624.05, "Care, Wellbeing & Learning":43624.05}
+		}
+	},
+	"37": {
+		"name": "33RD GATESHEAD BROWNIES",
+		"total": 3250,
+		"monthly": {
+			"2012-07": {"total":700.00, "Community Based Services":700.00},
+			"2016-09": {"total":500.00, "Communities & Environment":500.00},
+			"2017-07": {"total":500.00, "Communities & Environment":500.00},
+			"2017-08": {"total":500.00, "Communities & Environment":500.00},
+			"2017-09": {"total":500.00, "Communities & Environment":500.00},
+			"2019-08": {"total":550.00, "Communities & Environment":550.00}
+		}
+	},
+	"38": {
 		"name": "360 HEALTHCARE LTD",
 		"total": 3240262.32,
 		"monthly": {
@@ -429,179 +477,180 @@
 			"2011-03": {"total":110095.29, "Community Based Services":110095.29},
 			"2011-05": {"total":114368.18, "Community Based Services":114368.18},
 			"2011-06": {"total":64299.32, "Community Based Services":64299.32},
-			"2011-07": {"total":73246.63, "Third Party Payments":73246.63},
-			"2011-08": {"total":88048.19, "Third Party Payments":88048.19},
-			"2011-09": {"total":91863.45, "Third Party Payments":91863.45},
-			"2011-10": {"total":92951.26, "Third Party Payments":92951.26},
-			"2011-11": {"total":89184.90, "Third Party Payments":89184.90},
-			"2011-12": {"total":3905.37, "Third Party Payments":3905.37},
-			"2012-01": {"total":86740.52, "Third Party Payments":86740.52},
-			"2012-02": {"total":89795.59, "Third Party Payments":89795.59},
-			"2012-03": {"total":8709.75, "Third Party Payments":8709.75},
-			"2012-04": {"total":93976.24, "Third Party Payments":93976.24},
-			"2012-05": {"total":177937.90, "Third Party Payments":177937.90},
-			"2012-06": {"total":85211.37, "Third Party Payments":85211.37},
-			"2012-07": {"total":78289.58, "Third Party Payments":78289.58},
-			"2012-08": {"total":73217.41, "Third Party Payments":73217.41},
-			"2012-09": {"total":76256.32, "Third Party Payments":76256.32},
-			"2012-10": {"total":78498.63, "Third Party Payments":78498.63},
-			"2012-11": {"total":71621.50, "Third Party Payments":71621.50},
-			"2012-12": {"total":67778.76, "Third Party Payments":67778.76},
-			"2013-01": {"total":70404.12, "Third Party Payments":70404.12},
-			"2013-02": {"total":71796.94, "Third Party Payments":71796.94},
-			"2013-03": {"total":70303.51, "Third Party Payments":70303.51},
-			"2013-04": {"total":70247.13, "Third Party Payments":70247.13},
-			"2013-05": {"total":137192.76, "Third Party Payments":137192.76},
-			"2013-06": {"total":78854.75, "Third Party Payments":78854.75},
-			"2013-07": {"total":70484.24, "Third Party Payments":70484.24},
-			"2013-08": {"total":66490.48, "Third Party Payments":66490.48},
-			"2013-09": {"total":68711.86, "Third Party Payments":68711.86},
-			"2013-10": {"total":70605.21, "Third Party Payments":70605.21},
-			"2013-11": {"total":73575.66, "Third Party Payments":73575.66},
-			"2013-12": {"total":73794.95, "Third Party Payments":73794.95},
-			"2014-01": {"total":68313.60, "Third Party Payments":68313.60},
-			"2014-02": {"total":71014.15, "Third Party Payments":71014.15},
-			"2014-03": {"total":74541.06, "Third Party Payments":74541.06},
-			"2014-04": {"total":76418.40, "Third Party Payments":76418.40},
-			"2014-05": {"total":143935.47, "Third Party Payments":143935.47}
+			"2011-07": {"total":73246.63, "Community Based Services":73246.63},
+			"2011-08": {"total":88048.19, "Community Based Services":88048.19},
+			"2011-09": {"total":91863.45, "Community Based Services":91863.45},
+			"2011-10": {"total":92951.26, "Community Based Services":92951.26},
+			"2011-11": {"total":89184.90, "Community Based Services":89184.90},
+			"2011-12": {"total":3905.37, "Community Based Services":3905.37},
+			"2012-01": {"total":86740.52, "Community Based Services":86740.52},
+			"2012-02": {"total":89795.59, "Community Based Services":89795.59},
+			"2012-03": {"total":8709.75, "Community Based Services":8709.75},
+			"2012-04": {"total":93976.24, "Community Based Services":93976.24},
+			"2012-05": {"total":177937.90, "Community Based Services":177937.90},
+			"2012-06": {"total":85211.37, "Community Based Services":85211.37},
+			"2012-07": {"total":78289.58, "Community Based Services":78289.58},
+			"2012-08": {"total":73217.41, "Community Based Services":73217.41},
+			"2012-09": {"total":76256.32, "Community Based Services":76256.32},
+			"2012-10": {"total":78498.63, "Community Based Services":78498.63},
+			"2012-11": {"total":71621.50, "Community Based Services":71621.50},
+			"2012-12": {"total":67778.76, "Community Based Services":67778.76},
+			"2013-01": {"total":70404.12, "Community Based Services":70404.12},
+			"2013-02": {"total":71796.94, "Community Based Services":71796.94},
+			"2013-03": {"total":70303.51, "Community Based Services":70303.51},
+			"2013-04": {"total":70247.13, "Community Based Services":70247.13},
+			"2013-05": {"total":137192.76, "Community Based Services":137192.76},
+			"2013-06": {"total":78854.75, "Community Based Services":78854.75},
+			"2013-07": {"total":70484.24, "Community Based Services":70484.24},
+			"2013-08": {"total":66490.48, "Community Based Services":66490.48},
+			"2013-09": {"total":68711.86, "Community Based Services":68711.86},
+			"2013-10": {"total":70605.21, "Community Based Services":70605.21},
+			"2013-11": {"total":73575.66, "Community Based Services":73575.66},
+			"2013-12": {"total":73794.95, "Community Based Services":73794.95},
+			"2014-01": {"total":68313.60, "Community Based Services":68313.60},
+			"2014-02": {"total":71014.15, "Community Based Services":71014.15},
+			"2014-03": {"total":74541.06, "Community Based Services":74541.06},
+			"2014-04": {"total":76418.40, "Community Based Services":76418.40},
+			"2014-05": {"total":143935.47, "Community Based Services":143935.47}
 		}
 	},
-	"36": {
+	"39": {
 		"name": "361 (GATESHEAD) SQUADRON ATC",
 		"total": 1640,
 		"monthly": {
-			"2013-09": {"total":1640.00, "Supplies and Services":1640.00}
+			"2013-09": {"total":1640.00, "Community Based Services":1640.00}
 		}
 	},
-	"37": {
+	"40": {
 		"name": "3663",
 		"total": 30268.57,
 		"monthly": {
 			"2011-01": {"total":3245.73, "Local Environmental Services":3245.73},
 			"2011-05": {"total":1201.62, "Local Environmental Services":1201.62},
-			"2011-07": {"total":474.92, "Supplies and Services":474.92},
-			"2011-08": {"total":427.04, "Supplies and Services":427.04},
-			"2011-09": {"total":375.71, "Supplies and Services":375.71},
-			"2011-10": {"total":474.80, "Supplies and Services":474.80},
-			"2011-11": {"total":704.28, "Supplies and Services":704.28},
-			"2011-12": {"total":947.57, "Supplies and Services":947.57},
-			"2012-02": {"total":1068.30, "Supplies and Services":1068.30},
-			"2012-03": {"total":1110.69, "Supplies and Services":1110.69},
-			"2012-05": {"total":1444.64, "Supplies and Services":1444.64},
-			"2012-06": {"total":487.44, "Supplies and Services":487.44},
-			"2012-07": {"total":384.74, "Supplies and Services":384.74},
-			"2012-10": {"total":1350.42, "Supplies and Services":1350.42},
-			"2012-11": {"total":529.69, "Supplies and Services":529.69},
-			"2012-12": {"total":1085.70, "Supplies and Services":1085.70},
-			"2013-01": {"total":1628.91, "Supplies and Services":1628.91},
-			"2013-06": {"total":880.93, "Supplies and Services":880.93},
-			"2013-07": {"total":1445.50, "Supplies and Services":1445.50},
-			"2013-08": {"total":2199.33, "Supplies and Services":2199.33},
-			"2013-09": {"total":955.78, "Supplies and Services":955.78},
-			"2013-11": {"total":1990.62, "Supplies and Services":1990.62},
-			"2013-12": {"total":1881.48, "Supplies and Services":1881.48},
-			"2014-01": {"total":556.64, "Supplies and Services":556.64},
-			"2014-03": {"total":3416.09, "Supplies and Services":3416.09}
-		}
-	},
-	"38": {
-		"name": "39 ESSEX CHAMBERS",
-		"total": 2220,
-		"monthly": {
-			"2016-08": {"total":1020.00, "Supplies and Services":1020.00},
-			"2017-10": {"total":1200.00, "Supplies and Services":1200.00}
-		}
-	},
-	"39": {
-		"name": "3D HEALTH AND FITNESS",
-		"total": 1500,
-		"monthly": {
-			"2017-09": {"total":500.00, "Supplies and Services":500.00},
-			"2018-08": {"total":1000.00, "Supplies and Services":1000.00}
-		}
-	},
-	"40": {
-		"name": "3E  CONSULTING ENGINEERS LTD",
-		"total": 3600,
-		"monthly": {
-			"2018-01": {"total":3600.00, "Supplies and Services":3600.00}
+			"2011-07": {"total":474.92, "Local Environmental Services":474.92},
+			"2011-08": {"total":427.04, "Local Environmental Services":427.04},
+			"2011-09": {"total":375.71, "Local Environmental Services":375.71},
+			"2011-10": {"total":474.80, "Local Environmental Services":474.80},
+			"2011-11": {"total":704.28, "Community Based Services":704.28},
+			"2011-12": {"total":947.57, "Local Environmental Services":947.57},
+			"2012-02": {"total":1068.30, "Local Environmental Services":1068.30},
+			"2012-03": {"total":1110.69, "Community Based Services":505.11, "Local Environmental Services":605.58},
+			"2012-05": {"total":1444.64, "Local Environmental Services":1444.64},
+			"2012-06": {"total":487.44, "Local Environmental Services":487.44},
+			"2012-07": {"total":384.74, "Local Environmental Services":384.74},
+			"2012-10": {"total":1350.42, "Community Based Services":509.96, "Local Environmental Services":840.46},
+			"2012-11": {"total":529.69, "Community Based Services":529.69},
+			"2012-12": {"total":1085.70, "Community Based Services":712.56, "Local Environmental Services":373.14},
+			"2013-01": {"total":1628.91, "Local Environmental Services":1628.91},
+			"2013-06": {"total":880.93, "Local Environmental Services":880.93},
+			"2013-07": {"total":1445.50, "Community Based Services":1445.50},
+			"2013-08": {"total":2199.33, "Local Environmental Services":2199.33},
+			"2013-09": {"total":955.78, "Local Environmental Services":955.78},
+			"2013-11": {"total":1990.62, "Community Based Services":355.73, "Local Environmental Services":1634.89},
+			"2013-12": {"total":1881.48, "Community Based Services":1409.48, "Local Environmental Services":472.00},
+			"2014-01": {"total":556.64, "Community Based Services":556.64},
+			"2014-03": {"total":3416.09, "Community Based Services":1185.56, "Local Environmental Services":2230.53}
 		}
 	},
 	"41": {
-		"name": "3M SECURITY SYSTEMS",
-		"total": 592.08,
+		"name": "39 ESSEX CHAMBERS",
+		"total": 2220,
 		"monthly": {
-			"2014-12": {"total":592.08, "Third Party Payments":592.08}
+			"2016-08": {"total":1020.00, "Corporate Services & Governance":1020.00},
+			"2017-10": {"total":1200.00, "Corporate Services & Governance":1200.00}
 		}
 	},
 	"42": {
-		"name": "3PB BARRISTERS",
-		"total": 1700,
+		"name": "3D HEALTH AND FITNESS",
+		"total": 2500,
 		"monthly": {
-			"2016-03": {"total":1700.00, "Supplies and Services":1700.00}
+			"2017-09": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2018-08": {"total":1000.00, "Care, Wellbeing & Learning":1000.00},
+			"2019-08": {"total":1000.00, "Care, Wellbeing & Learning":1000.00}
 		}
 	},
 	"43": {
+		"name": "3E  CONSULTING ENGINEERS LTD",
+		"total": 3600,
+		"monthly": {
+			"2018-01": {"total":3600.00, "Communities & Environment":3600.00}
+		}
+	},
+	"44": {
+		"name": "3M SECURITY SYSTEMS",
+		"total": 592.08,
+		"monthly": {
+			"2014-12": {"total":592.08, "Care, Wellbeing & Learning":592.08}
+		}
+	},
+	"45": {
+		"name": "3PB BARRISTERS",
+		"total": 1700,
+		"monthly": {
+			"2016-03": {"total":1700.00, "Care, Wellbeing & Learning":1700.00}
+		}
+	},
+	"46": {
 		"name": "4 CHILDREN",
 		"total": 5900,
 		"monthly": {
 			"2011-02": {"total":400.00, "Learning and Children":400.00},
-			"2011-11": {"total":5500.00, "Supplies and Services":5500.00}
+			"2011-11": {"total":5500.00, "Learning and Children":5500.00}
 		}
 	},
-	"44": {
+	"47": {
 		"name": "4 CHILDREN GATESHEAD NURSERIES",
 		"total": 1859989.25,
 		"monthly": {
-			"2011-11": {"total":27925.89, "Supplies and Services":27682.89, "unknown":243.00},
-			"2012-01": {"total":23823.96, "Supplies and Services":22700.96, "Transfer Payments":1123.00},
-			"2012-02": {"total":2853.50, "Transfer Payments":2853.50},
-			"2012-03": {"total":29341.08, "Supplies and Services":26313.58, "Income: Customer and Client Receipts":3027.50},
-			"2012-04": {"total":32783.24, "Supplies and Services":32783.24},
-			"2012-05": {"total":1100.00, "Supplies and Services":1100.00},
-			"2012-06": {"total":62216.79, "Supplies and Services":61168.29, "Transfer Payments":1048.50},
-			"2012-07": {"total":1741.00, "Supplies and Services":550.00, "Income: Customer and Client Receipts":486.00, "Transfer Payments":705.00},
-			"2012-08": {"total":24979.27, "Supplies and Services":24421.27, "Transfer Payments":558.00},
-			"2012-09": {"total":4096.80, "Supplies and Services":2541.80, "Transfer Payments":1555.00},
-			"2012-10": {"total":687.50, "Supplies and Services":687.50},
-			"2012-11": {"total":68133.97, "Supplies and Services":68133.97},
-			"2012-12": {"total":21096.77, "Transfer Payments":420.00, "Supplies and Services":20676.77},
-			"2013-01": {"total":1990.60, "Supplies and Services":1990.60},
-			"2013-02": {"total":2137.50, "Transfer Payments":2137.50},
-			"2013-03": {"total":55104.73, "Transfer Payments":464.00, "Supplies and Services":54640.73},
-			"2013-04": {"total":35745.59, "Supplies and Services":35745.59},
-			"2013-06": {"total":84159.99, "Supplies and Services":84159.99},
-			"2013-08": {"total":30251.50, "Supplies and Services":30251.50},
-			"2013-09": {"total":48292.19, "Supplies and Services":48292.19},
-			"2013-11": {"total":97217.68, "Supplies and Services":97217.68},
-			"2013-12": {"total":36482.85, "Supplies and Services":36482.85},
-			"2014-03": {"total":12823.19, "Supplies and Services":12823.19},
-			"2014-04": {"total":72361.11, "Supplies and Services":72361.11},
-			"2014-05": {"total":60906.30, "Supplies and Services":60906.30},
-			"2014-06": {"total":16520.68, "Supplies and Services":16520.68},
-			"2014-07": {"total":24167.55, "Supplies and Services":24167.55},
-			"2014-08": {"total":25545.51, "Supplies and Services":25545.51},
-			"2014-09": {"total":74964.99, "Supplies and Services":74964.99},
-			"2014-11": {"total":14790.06, "Supplies and Services":14790.06},
-			"2014-12": {"total":83170.80, "Supplies and Services":83170.80},
-			"2015-01": {"total":68351.53, "Supplies and Services":68351.53},
-			"2015-03": {"total":48806.18, "Supplies and Services":48806.18},
-			"2015-04": {"total":46336.75, "Supplies and Services":46336.75},
-			"2015-05": {"total":71539.51, "Supplies and Services":71539.51},
-			"2015-06": {"total":19553.11, "Supplies and Services":19553.11},
-			"2015-07": {"total":33750.79, "Supplies and Services":33750.79},
-			"2015-08": {"total":31180.15, "Supplies and Services":31180.15},
-			"2015-09": {"total":93349.77, "Supplies and Services":93349.77},
-			"2015-10": {"total":11663.72, "Supplies and Services":11663.72},
-			"2015-12": {"total":76453.08, "Supplies and Services":76453.08},
-			"2016-01": {"total":63115.60, "Supplies and Services":63115.60},
-			"2016-03": {"total":51545.08, "Supplies and Services":51545.08},
-			"2016-04": {"total":133559.55, "Supplies and Services":133559.55},
-			"2016-05": {"total":445.50, "Supplies and Services":445.50},
-			"2016-06": {"total":32926.34, "Supplies and Services":32926.34}
+			"2011-11": {"total":27925.89, "Error Suspense":243.00, "Learning and Children":27682.89},
+			"2012-01": {"total":23823.96, "Learning and Children":23823.96},
+			"2012-02": {"total":2853.50, "Learning and Children":2853.50},
+			"2012-03": {"total":29341.08, "Learning and Children":29341.08},
+			"2012-04": {"total":32783.24, "Learning and Children":32783.24},
+			"2012-05": {"total":1100.00, "Learning and Children":1100.00},
+			"2012-06": {"total":62216.79, "Learning and Children":62216.79},
+			"2012-07": {"total":1741.00, "Learning and Children":1741.00},
+			"2012-08": {"total":24979.27, "Learning and Children":24979.27},
+			"2012-09": {"total":4096.80, "Learning and Children":4096.80},
+			"2012-10": {"total":687.50, "Learning and Children":687.50},
+			"2012-11": {"total":68133.97, "Learning and Children":68133.97},
+			"2012-12": {"total":21096.77, "Learning and Children":21096.77},
+			"2013-01": {"total":1990.60, "Learning and Children":1990.60},
+			"2013-02": {"total":2137.50, "Learning and Children":2137.50},
+			"2013-03": {"total":55104.73, "Learning and Children":55104.73},
+			"2013-04": {"total":35745.59, "Learning and Children":35745.59},
+			"2013-06": {"total":84159.99, "Learning and Children":84159.99},
+			"2013-08": {"total":30251.50, "Learning and Children":30251.50},
+			"2013-09": {"total":48292.19, "Learning and Children":48292.19},
+			"2013-11": {"total":97217.68, "Learning and Children":97217.68},
+			"2013-12": {"total":36482.85, "Learning and Children":36482.85},
+			"2014-03": {"total":12823.19, "Learning and Children":12823.19},
+			"2014-04": {"total":72361.11, "Learning and Children":72361.11},
+			"2014-05": {"total":60906.30, "Learning and Children":60906.30},
+			"2014-06": {"total":16520.68, "Learning and Children":16520.68},
+			"2014-07": {"total":24167.55, "Learning and Children":24167.55},
+			"2014-08": {"total":25545.51, "Learning and Children":25545.51},
+			"2014-09": {"total":74964.99, "Learning and Children":74964.99},
+			"2014-11": {"total":14790.06, "Care, Wellbeing & Learning":14790.06},
+			"2014-12": {"total":83170.80, "Care, Wellbeing & Learning":83170.80},
+			"2015-01": {"total":68351.53, "Care, Wellbeing & Learning":68351.53},
+			"2015-03": {"total":48806.18, "Care, Wellbeing & Learning":48806.18},
+			"2015-04": {"total":46336.75, "Care, Wellbeing & Learning":46336.75},
+			"2015-05": {"total":71539.51, "Care, Wellbeing & Learning":71539.51},
+			"2015-06": {"total":19553.11, "Care, Wellbeing & Learning":19553.11},
+			"2015-07": {"total":33750.79, "Care, Wellbeing & Learning":33750.79},
+			"2015-08": {"total":31180.15, "Care, Wellbeing & Learning":31180.15},
+			"2015-09": {"total":93349.77, "Care, Wellbeing & Learning":93349.77},
+			"2015-10": {"total":11663.72, "Care, Wellbeing & Learning":11663.72},
+			"2015-12": {"total":76453.08, "Care, Wellbeing & Learning":76453.08},
+			"2016-01": {"total":63115.60, "Care, Wellbeing & Learning":63115.60},
+			"2016-03": {"total":51545.08, "Care, Wellbeing & Learning":51545.08},
+			"2016-04": {"total":133559.55, "Care, Wellbeing & Learning":133559.55},
+			"2016-05": {"total":445.50, "Care, Wellbeing & Learning":445.50},
+			"2016-06": {"total":32926.34, "Care, Wellbeing & Learning":32926.34}
 		}
 	},
-	"45": {
+	"48": {
 		"name": "4C STRATEGIES LTD",
 		"total": 30750,
 		"monthly": {
@@ -610,49 +659,27 @@
 			"2011-04": {"total":4650.00, "Central Services":4650.00},
 			"2011-05": {"total":2325.00, "Central Services":2325.00},
 			"2011-06": {"total":2325.00, "Central Services":2325.00},
-			"2014-10": {"total":2250.00, "Consultants":2250.00},
-			"2015-05": {"total":5250.00, "Purchase of Equipment":5250.00}
-		}
-	},
-	"46": {
-		"name": "4IMPRINT",
-		"total": 8362.23,
-		"monthly": {
-			"2012-04": {"total":1048.85, "Supplies and Services":1048.85},
-			"2013-09": {"total":436.00, "Supplies and Services":436.00},
-			"2014-09": {"total":564.95, "Supplies and Services":564.95},
-			"2014-11": {"total":741.40, "Supplies and Services":741.40},
-			"2015-03": {"total":400.65, "Supplies and Services":400.65},
-			"2016-02": {"total":461.45, "Supplies and Services":461.45},
-			"2016-10": {"total":451.80, "Supplies and Services":451.80},
-			"2017-02": {"total":1558.85, "Supplies and Services":1558.85},
-			"2017-12": {"total":573.85, "Supplies and Services":573.85},
-			"2018-11": {"total":1023.75, "Supplies and Services":1023.75},
-			"2019-05": {"total":1100.68, "Supplies and Services":1100.68}
-		}
-	},
-	"47": {
-		"name": "5 ESSEX COURT CONFERENCE",
-		"total": 850,
-		"monthly": {
-			"2013-05": {"total":850.00, "Supplies and Services":850.00}
-		}
-	},
-	"48": {
-		"name": "5TH AVENUE FLOWERS",
-		"total": 3000,
-		"monthly": {
-			"2013-10": {"total":1500.00, "Third Party Payments":1500.00},
-			"2013-12": {"total":1500.00, "Third Party Payments":1500.00}
+			"2014-10": {"total":2250.00, "Central Services":2250.00},
+			"2015-05": {"total":5250.00, "Corporate Resources":5250.00}
 		}
 	},
 	"49": {
-		"name": "64 MILLION ARTISTS",
-		"total": 7677.18,
+		"name": "4IMPRINT",
+		"total": 9765.48,
 		"monthly": {
-			"2018-07": {"total":500.00, "Supplies and Services":500.00},
-			"2018-08": {"total":2500.00, "Supplies and Services":2500.00},
-			"2019-02": {"total":4677.18, "Supplies and Services":4677.18}
+			"2012-04": {"total":1048.85, "Development & Enterprise":1048.85},
+			"2013-09": {"total":436.00, "Learning and Children":436.00},
+			"2014-09": {"total":564.95, "Learning and Children":564.95},
+			"2014-11": {"total":741.40, "Care, Wellbeing & Learning":741.40},
+			"2015-03": {"total":400.65, "Communities & Enviroment":400.65},
+			"2016-02": {"total":461.45, "Care, Wellbeing & Learning":461.45},
+			"2016-10": {"total":451.80, "Care, Wellbeing & Learning":451.80},
+			"2017-02": {"total":1558.85, "Care, Wellbeing & Learning":750.95, "Communities & Environment":807.90},
+			"2017-12": {"total":573.85, "Care, Wellbeing & Learning":573.85},
+			"2018-11": {"total":1023.75, "Care, Wellbeing & Learning":1023.75},
+			"2019-05": {"total":1100.68, "Care, Wellbeing & Learning":1100.68},
+			"2019-07": {"total":652.40, "Care, Wellbeing & Learning":652.40},
+			"2019-11": {"total":750.85, "Care, Wellbeing & Learning":750.85}
 		}
 	}
 	}
