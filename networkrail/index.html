@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8" />
+	<title>Network Rail Spending</title>
+	<script type="text/javascript" src="https://odileeds.org/resources/stuquery.js"></script>
+	<script type="text/javascript" src="https://odileeds.org/resources/stuquery.barchart.js"></script>
+	<link rel="StyleSheet" href="https://odileeds.org/resources/style.css" type="text/css" />
+	<link rel="StyleSheet" href="https://odileeds.org/resources/stuquery.barchart.css" type="text/css" />
+	<link rel="StyleSheet" href="https://odileeds.org/resources/spinner.css" type="text/css" />
+	<link rel="StyleSheet" href="../council-spending.css" type="text/css" />
+	<script type="text/javascript" src="../council-spending.js"></script>
+</head>
+<body>
+
+	<div id="main">
+		<header>
+			<div class="b1-bg">
+				<div class="holder" style="text-align:center;">
+					<a href="https://odileeds.org/"><img src="https://odileeds.org/resources/images/odileeds-8.svg" /></a>
+					<h1>Network Rail Spending</h1>
+				</div>
+			</div>
+		</header>
+
+		<div class="holder">
+			<p>An <a href="https://odileeds.org/projects/council-spending/">ODI Leeds project to visualise public body spending</a>. Since 2017 <span id="council">Network Rail</span> <a href="https://www.networkrail.co.uk/who-we-are/transparency-and-ethics/transparency/our-information-and-data/">have published all transactions over &pound;25,000</a>. This visualisation is a work-in-progress but <a href="https://twitter.com/odileeds">let us know if it is useful</a>.</p>
+			<div id="totals"></div>
+		</div>
+		<div class="holder">
+			<div id="search">
+				<form action="/search/" method="GET"><input id="q" name="q" value="" type="text" placeholder="Start typing to find a recipient"></form>
+			</div>
+		</div>
+		<div class="holder">
+			<div id="key"></div>
+			<div id="othernames"></div>
+		</div>
+		<div class="holder">
+			<div id="table"></div>
+		</div>
+<!--#include virtual="../notes.txt"-->
+	</div>
+
+	<footer class="b1-bg">
+		<div class="holder">
+			<p>&copy; 2020 ODI Leeds
+			<br />Processing and visualisation: Stuart Lowe (<a href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>)
+			<br />Data: <a href="https://www.networkrail.co.uk/who-we-are/transparency-and-ethics/transparency/our-information-and-data/">Network Rail</a> (<a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">OGLv3.0</a>?)</p>
+		</div>
+	</footer>
+
+</body>
+</html>
