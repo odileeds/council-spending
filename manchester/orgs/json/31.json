@@ -1,28 +1,473 @@
 {
-	"range": ["2010-12","2020-03"],
+	"range": ["2010-12","2020-07"],
 	"data": {
 	"1550": {
+		"name": "Best Fit Investments",
+		"total": 2141.04,
+		"monthly": {
+			"2019-08": {"total":1070.02, "Adult Social Care":1070.02},
+			"2019-10": {"total":1071.02, "Adult Social Care":1071.02}
+		}
+	},
+	"1551": {
+		"name": "Best Roofers",
+		"total": 6500,
+		"monthly": {
+			"2015-09": {"total":6500.00, "Housing General Fund":6500.00}
+		}
+	},
+	"1552": {
+		"name": "Best Services Ltd",
+		"total": 1689,
+		"monthly": {
+			"2019-04": {"total":1689.00, "Corporate Services":1689.00}
+		}
+	},
+	"1553": {
+		"name": "Betesh Partnership",
+		"total": 110045.25,
+		"monthly": {
+			"2011-04": {"total":3881.25, "Housing General Fund":3881.25},
+			"2012-03": {"total":106164.00, "Housing General Fund":106164.00}
+		}
+	},
+	"1554": {
+		"name": "Betfred",
+		"total": 196310,
+		"monthly": {
+			"2012-06": {"total":196310.00, "Housing General Fund":196310.00}
+		}
+	},
+	"1555": {
+		"name": "Beth Johnson Foundation",
+		"total": 31392.6,
+		"monthly": {
+			"2011-01": {"total":3000.00, "Chief Executives":3000.00},
+			"2011-02": {"total":3000.00, "Chief Executives":3000.00},
+			"2011-03": {"total":10500.00, "Chief Executives":10500.00},
+			"2011-04": {"total":767.60, "Chief Executives":767.60},
+			"2013-04": {"total":1000.00, "Adult Social Care":1000.00},
+			"2014-01": {"total":2000.00, "Adult Social Care":2000.00},
+			"2014-03": {"total":1000.00, "Adult Social Care":1000.00},
+			"2014-06": {"total":8125.00, "Adult Social Care":8125.00},
+			"2015-03": {"total":2000.00, "Adult Social Care":2000.00}
+		}
+	},
+	"1556": {
+		"name": "Bethel Community College",
+		"total": 22019,
+		"monthly": {
+			"2011-02": {"total":5040.00, "Childrens Services":5040.00},
+			"2011-07": {"total":2520.00, "Childrens Services":2520.00},
+			"2013-01": {"total":2499.00, "Childrens Services":2499.00},
+			"2013-02": {"total":6210.00, "Childrens Services":6210.00},
+			"2013-07": {"total":5750.00, "Childrens Services":5750.00}
+		}
+	},
+	"1557": {
+		"name": "Bethell Construction Ltd",
+		"total": 4757651.29,
+		"monthly": {
+			"2013-02": {"total":716.88, "Environment and Operations":716.88},
+			"2013-04": {"total":47197.22, "Chief Executives":47197.22},
+			"2014-03": {"total":18325.19, "Chief Executives":1210.19, "Environment and Operations":17115.00},
+			"2014-04": {"total":23716.70, "Environment and Operations":23716.70},
+			"2014-06": {"total":56086.57, "Environment and Operations":56086.57},
+			"2014-07": {"total":15862.60, "Environment and Operations":15862.60},
+			"2015-04": {"total":12520.00, "Environment and Operations":12520.00},
+			"2015-06": {"total":2891.82, "Environment and Operations":2891.82},
+			"2015-12": {"total":3317.50, "Environment and Operations":3317.50},
+			"2016-07": {"total":10944.18, "Chief Executives":10944.18},
+			"2016-10": {"total":24523.19, "Chief Executives":24523.19},
+			"2016-11": {"total":173942.93, "Chief Executives":52525.91, "Corporate Services":121417.02},
+			"2016-12": {"total":65326.46, "Corporate Services":65326.46},
+			"2017-01": {"total":99384.42, "Highways Services":99384.42},
+			"2017-02": {"total":4954.27, "Highways Services":4954.27},
+			"2017-03": {"total":11154.57, "Corporate Services":11154.57},
+			"2017-06": {"total":750.00, "Highways Services":750.00},
+			"2018-01": {"total":325652.09, "Environment and Operations":325652.09},
+			"2018-02": {"total":337111.54, "Environment and Operations":337111.54},
+			"2018-03": {"total":667552.17, "Environment and Operations":572541.90, "Manchester Leisure":95010.27},
+			"2018-04": {"total":534463.98, "Environment and Operations":532719.72, "Highways Services":1744.26},
+			"2018-05": {"total":265804.26, "Environment and Operations":112107.25, "Manchester Leisure":153697.01},
+			"2018-06": {"total":44171.86, "Environment and Operations":38421.86, "Highways Services":5750.00},
+			"2018-07": {"total":429747.01, "Corporate Services":20095.49, "Environment and Operations":168256.78, "Manchester Leisure":241394.74},
+			"2018-08": {"total":69206.40, "Environment and Operations":69206.40},
+			"2018-09": {"total":3013.68, "Corporate Services":3013.68},
+			"2018-10": {"total":26175.71, "Corporate Services":10273.51, "Manchester Leisure":15902.20},
+			"2019-01": {"total":56760.05, "Environment and Operations":56760.05},
+			"2019-02": {"total":213052.42, "Environment and Operations":213052.42},
+			"2019-03": {"total":72697.77, "Environment and Operations":63253.67, "Manchester Leisure":9444.10},
+			"2019-05": {"total":218605.91, "Environment and Operations":218605.91},
+			"2019-07": {"total":180959.64, "Environment and Operations":180959.64},
+			"2019-08": {"total":210906.68, "Environment and Operations":210906.68},
+			"2019-09": {"total":7778.54, "Environment and Operations":7778.54},
+			"2020-02": {"total":9443.47, "Manchester Leisure":9443.47},
+			"2020-03": {"total":134000.79, "Environment and Operations":134000.79},
+			"2020-04": {"total":270902.57, "Environment and Operations":270902.57},
+			"2020-07": {"total":108030.25, "Environment and Operations":108030.25}
+		}
+	},
+	"1558": {
+		"name": "Bethnall Drive Allotment Society",
+		"total": 4750,
+		"monthly": {
+			"2012-07": {"total":3000.00, "Regeneration Finance":3000.00},
+			"2013-09": {"total":1750.00, "Regeneration Finance":1750.00}
+		}
+	},
+	"1559": {
+		"name": "Bettaveg Ltd",
+		"total": 6737.34,
+		"monthly": {
+			"2019-03": {"total":2757.00, "Hospitality + Trading Services":2757.00},
+			"2019-07": {"total":3980.34, "Hospitality + Trading Services":3980.34}
+		}
+	},
+	"1560": {
+		"name": "Better Choices Ltd",
+		"total": 17534819.58,
+		"monthly": {
+			"2010-12": {"total":623649.44, "Chief Executives":31142.00, "Childrens Services":581853.18, "Regeneration Finance":10654.26},
+			"2011-01": {"total":407838.84, "Childrens Services":407838.84},
+			"2011-02": {"total":187489.81, "Chief Executives":9966.00, "Childrens Services":158858.48, "Learning Disabilities PB":18665.33},
+			"2011-03": {"total":1767769.97, "Chief Executives":16906.00, "Childrens Services":1730913.97, "Regeneration Finance":19950.00},
+			"2011-04": {"total":11452.97, "Childrens Services":11452.97},
+			"2011-05": {"total":899245.68, "Chief Executives":82818.00, "Childrens Services":816427.68},
+			"2011-06": {"total":5149.02, "Learning Disabilities PB":5149.02},
+			"2011-07": {"total":767266.99, "Childrens Services":767266.99},
+			"2011-08": {"total":341121.91, "Chief Executives":11262.50, "Childrens Services":319205.15, "Regeneration Finance":10654.26},
+			"2011-09": {"total":331747.15, "Adult Social Care":1917.00, "Childrens Services":329830.15},
+			"2011-10": {"total":1500.00, "Childrens Services":1500.00},
+			"2011-11": {"total":676944.30, "Adult Social Care":42534.00, "Childrens Services":634410.30},
+			"2011-12": {"total":319122.15, "Adult Social Care":1917.00, "Childrens Services":317205.15},
+			"2012-01": {"total":338472.15, "Adult Social Care":21267.00, "Childrens Services":317205.15},
+			"2012-02": {"total":328797.15, "Adult Social Care":11592.00, "Childrens Services":317205.15},
+			"2012-03": {"total":350956.15, "Adult Social Care":9751.00, "Childrens Services":341205.15},
+			"2012-04": {"total":14432.00, "Adult Social Care":11175.00, "Regeneration Finance":3257.00},
+			"2012-05": {"total":339804.08, "Childrens Services":339804.08},
+			"2012-06": {"total":339804.08, "Childrens Services":339804.08},
+			"2012-07": {"total":339804.08, "Childrens Services":339804.08},
+			"2012-08": {"total":370480.58, "Adult Social Care":10676.50, "Childrens Services":359804.08},
+			"2012-09": {"total":347472.08, "Adult Social Care":7668.00, "Childrens Services":339804.08},
+			"2012-10": {"total":689485.93, "Adult Social Care":1917.00, "Childrens Services":679608.16, "Corporate Services":7960.77},
+			"2012-11": {"total":339804.08, "Childrens Services":339804.08},
+			"2012-12": {"total":366623.32, "Adult Social Care":10676.50, "Childrens Services":339804.08, "Corporate Services":16142.74},
+			"2013-01": {"total":357316.58, "Adult Social Care":16427.50, "Childrens Services":339804.08, "Regeneration Finance":1085.00},
+			"2013-02": {"total":357387.58, "Adult Social Care":17583.50, "Childrens Services":339804.08},
+			"2013-03": {"total":344216.08, "Adult Social Care":1917.00, "Childrens Services":339804.08, "Regeneration Finance":2495.00},
+			"2013-04": {"total":1917.00, "Adult Social Care":1917.00},
+			"2013-05": {"total":431417.00, "Adult Social Care":1917.00, "Childrens Services":429500.00},
+			"2013-06": {"total":216571.17, "Adult Social Care":1821.17, "Childrens Services":214750.00},
+			"2013-07": {"total":230998.01, "Adult Social Care":16248.01, "Childrens Services":214750.00},
+			"2013-08": {"total":214750.00, "Childrens Services":214750.00},
+			"2013-09": {"total":217511.17, "Adult Social Care":1821.17, "Childrens Services":214750.00, "Regeneration Finance":940.00},
+			"2013-10": {"total":227353.67, "Adult Social Care":12603.67, "Childrens Services":214750.00},
+			"2013-11": {"total":17654.67, "Adult Social Care":1821.17, "Childrens Services":15833.50},
+			"2013-12": {"total":214750.00, "Childrens Services":214750.00},
+			"2014-01": {"total":443924.84, "Adult Social Care":14424.84, "Childrens Services":429500.00},
+			"2014-02": {"total":227353.67, "Adult Social Care":12603.67, "Childrens Services":214750.00},
+			"2014-03": {"total":217995.00, "Childrens Services":214750.00, "Regeneration Finance":3245.00},
+			"2014-04": {"total":192254.17, "Adult Social Care":1821.17, "Childrens Services":190433.00},
+			"2014-05": {"total":188296.84, "Adult Social Care":5463.51, "Childrens Services":182833.33},
+			"2014-06": {"total":944528.32, "Adult Social Care":12568.17, "Childrens Services":930010.15, "Regeneration Finance":1950.00},
+			"2014-07": {"total":184654.50, "Adult Social Care":1821.17, "Childrens Services":182833.33},
+			"2014-08": {"total":197016.32, "Adult Social Care":1821.17, "Childrens Services":195195.15},
+			"2014-09": {"total":195399.50, "Adult Social Care":12566.17, "Childrens Services":182833.33},
+			"2014-10": {"total":195399.50, "Adult Social Care":12566.17, "Childrens Services":182833.33},
+			"2014-11": {"total":183483.33, "Childrens Services":183483.33},
+			"2014-12": {"total":186475.67, "Adult Social Care":3642.34, "Childrens Services":182833.33},
+			"2015-01": {"total":231069.50, "Adult Social Care":12566.17, "Childrens Services":218503.33},
+			"2015-02": {"total":184654.50, "Adult Social Care":184654.50},
+			"2015-03": {"total":186419.50, "Adult Social Care":186419.50},
+			"2015-04": {"total":222001.33, "Adult Social Care":215503.33, "Corporate Services":6498.00},
+			"2015-05": {"total":15816.25, "Adult Social Care":15816.25}
+		}
+	},
+	"1561": {
+		"name": "Better Things",
+		"total": 45036.23,
+		"monthly": {
+			"2014-09": {"total":8226.30, "Adult Social Care":8226.30},
+			"2014-10": {"total":4113.15, "Adult Social Care":4113.15},
+			"2014-11": {"total":12339.45, "Adult Social Care":12339.45},
+			"2014-12": {"total":4113.15, "Adult Social Care":4113.15},
+			"2015-01": {"total":8226.30, "Adult Social Care":8226.30},
+			"2017-03": {"total":1105.00, "Manchester Leisure":1105.00},
+			"2017-12": {"total":2164.90, "Manchester Leisure":2164.90},
+			"2018-01": {"total":819.98, "Manchester Leisure":819.98},
+			"2018-04": {"total":960.00, "Manchester Leisure":960.00},
+			"2018-08": {"total":2368.00, "Manchester Leisure":2368.00},
+			"2019-02": {"total":600.00, "Chief Executives":600.00}
+		}
+	},
+	"1562": {
+		"name": "Bettercare Keys Ltd",
+		"total": 10260,
+		"monthly": {
+			"2017-03": {"total":10260.00, "Adult Social Care":10260.00}
+		}
+	},
+	"1563": {
+		"name": "Bev Amison Consultancy Ltd",
+		"total": 24749.3,
+		"monthly": {
+			"2010-12": {"total":2018.60, "Childrens Services":2018.60},
+			"2011-01": {"total":1500.00, "Childrens Services":1500.00},
+			"2011-03": {"total":1703.00, "Childrens Services":1703.00},
+			"2011-04": {"total":709.00, "Childrens Services":709.00},
+			"2011-05": {"total":1205.40, "Childrens Services":1205.40},
+			"2011-06": {"total":3787.20, "Childrens Services":3787.20},
+			"2012-07": {"total":2800.00, "Chief Executives":2800.00},
+			"2012-11": {"total":702.00, "Chief Executives":702.00},
+			"2012-12": {"total":3250.00, "Chief Executives":3250.00},
+			"2013-02": {"total":500.00, "Hospitality + Trading Services":500.00},
+			"2013-03": {"total":2000.00, "Corporate Services":2000.00},
+			"2013-04": {"total":574.10, "Corporate Services":574.10},
+			"2013-07": {"total":1000.00, "Corporate Services":1000.00},
+			"2013-12": {"total":600.00, "Corporate Services":600.00},
+			"2014-03": {"total":600.00, "Environment and Operations":600.00},
+			"2014-07": {"total":1800.00, "Corporate Services":1800.00}
+		}
+	},
+	"1564": {
+		"name": "Bevan Brittan",
+		"total": 1759.5,
+		"monthly": {
+			"2012-03": {"total":1759.50, "Childrens Services":1759.50}
+		}
+	},
+	"1565": {
+		"name": "Bevan Brittan LLP",
+		"total": 1255471.01,
+		"monthly": {
+			"2012-12": {"total":5899.60, "Childrens Services":5899.60},
+			"2013-01": {"total":11712.40, "Childrens Services":11712.40},
+			"2013-04": {"total":1044.40, "Childrens Services":1044.40},
+			"2015-02": {"total":2222.50, "Chief Executives":2222.50},
+			"2015-04": {"total":70000.00, "Housing General Fund":70000.00},
+			"2015-06": {"total":278248.65, "Chief Executives":278248.65},
+			"2015-10": {"total":120120.62, "Housing General Fund":120120.62},
+			"2015-11": {"total":80170.79, "Housing General Fund":80170.79},
+			"2015-12": {"total":40060.00, "Housing General Fund":40060.00},
+			"2016-02": {"total":120180.00, "Housing General Fund":120180.00},
+			"2016-03": {"total":173661.82, "Housing General Fund":160005.00, "Regeneration Finance":13656.82},
+			"2016-05": {"total":40567.45, "Housing General Fund":40567.45},
+			"2016-08": {"total":144888.84, "Housing General Fund":39375.00, "Regeneration Finance":105513.84},
+			"2016-09": {"total":39375.00, "Housing General Fund":39375.00},
+			"2016-11": {"total":4704.00, "Libraries and Theatres":4704.00},
+			"2017-02": {"total":530.00, "Chief Executives":530.00},
+			"2018-04": {"total":1676.88, "Environment and Operations":1676.88},
+			"2018-06": {"total":1118.84, "Environment and Operations":1118.84},
+			"2018-08": {"total":1145.52, "Environment and Operations":1145.52},
+			"2019-09": {"total":112499.10, "Environment and Operations":112499.10},
+			"2019-10": {"total":794.60, "Environment and Operations":794.60},
+			"2020-01": {"total":4850.00, "Environment and Operations":4850.00}
+		}
+	},
+	"1566": {
+		"name": "Beverley Clifton Morris Ltd",
+		"alternate-names": [
+			"Beverley Clifton Morris Limited"
+		],
+		"total": 144856.5,
+		"monthly": {
+			"2011-01": {"total":16786.50, "Childrens Services":16786.50},
+			"2011-02": {"total":1000.00, "Childrens Services":1000.00},
+			"2011-04": {"total":3135.00, "Childrens Services":3135.00},
+			"2011-07": {"total":14619.00, "Childrens Services":14619.00},
+			"2011-08": {"total":11185.00, "Childrens Services":11185.00},
+			"2011-09": {"total":18937.50, "Childrens Services":18937.50},
+			"2011-10": {"total":6640.00, "Childrens Services":6640.00},
+			"2011-11": {"total":7117.00, "Childrens Services":7117.00},
+			"2011-12": {"total":7893.00, "Childrens Services":7893.00},
+			"2012-01": {"total":1466.00, "Childrens Services":1466.00},
+			"2012-02": {"total":8000.00, "Childrens Services":8000.00},
+			"2012-04": {"total":2389.00, "Childrens Services":2389.00},
+			"2012-05": {"total":14397.00, "Childrens Services":4597.00, "Corporate Services":9800.00},
+			"2012-09": {"total":2199.00, "Childrens Services":2199.00},
+			"2013-02": {"total":5000.00, "Corporate Services":5000.00},
+			"2013-05": {"total":3167.50, "Childrens Services":3167.50},
+			"2013-09": {"total":5182.50, "Childrens Services":5182.50},
+			"2015-02": {"total":5362.50, "Childrens Services":5362.50},
+			"2015-09": {"total":3730.00, "Childrens Services":3730.00},
+			"2015-12": {"total":5600.00, "Regeneration Finance":5600.00},
+			"2016-02": {"total":1050.00, "Regeneration Finance":1050.00}
+		}
+	},
+	"1567": {
+		"name": "Beyond 90",
+		"total": 19750,
+		"monthly": {
+			"2016-01": {"total":19750.00, "Manchester Leisure":19750.00}
+		}
+	},
+	"1568": {
+		"name": "Beyond 90 Management Ltd",
+		"total": 40837,
+		"monthly": {
+			"2016-12": {"total":27105.00, "Chief Executives":27105.00},
+			"2017-12": {"total":9732.00, "Chief Executives":9732.00},
+			"2019-02": {"total":4000.00, "Manchester Leisure":4000.00}
+		}
+	},
+	"1569": {
+		"name": "Bgl Rieber Ltd",
+		"total": 6464,
+		"monthly": {
+			"2010-12": {"total":750.00, "Hospitality + Trading Services":750.00},
+			"2014-01": {"total":1573.00, "Hospitality + Trading Services":1573.00},
+			"2014-06": {"total":1621.00, "Hospitality + Trading Services":1621.00},
+			"2015-03": {"total":2520.00, "Hospitality + Trading Services":2520.00}
+		}
+	},
+	"1570": {
+		"name": "Bglobal Metering Ltd",
+		"alternate-names": [
+			"Bglobal Metering Limited"
+		],
+		"total": 16482,
+		"monthly": {
+			"2013-09": {"total":12588.00, "Hospitality + Trading Services":12588.00},
+			"2014-10": {"total":3144.00, "Manchester Leisure":3144.00},
+			"2015-10": {"total":750.00, "Manchester Leisure":750.00}
+		}
+	},
+	"1571": {
+		"name": "Bharatiya Vidya Bhavan (Manchester)",
+		"total": 1189.68,
+		"monthly": {
+			"2011-02": {"total":528.87, "Childrens Services":528.87},
+			"2013-05": {"total":660.81, "Childrens Services":660.81}
+		}
+	},
+	"1572": {
+		"name": "Bharatiya Vidya Bhavan (Manchester) Ltd",
+		"total": 660.81,
+		"monthly": {
+			"2012-02": {"total":660.81, "Childrens Services":660.81}
+		}
+	},
+	"1573": {
+		"name": "Bhatia Best Solicitors",
+		"total": 31672.69,
+		"monthly": {
+			"2012-07": {"total":5500.00, "Adult Social Care":5500.00},
+			"2012-09": {"total":2672.69, "Adult Social Care":2672.69},
+			"2013-12": {"total":14500.00, "Childrens Services":14500.00},
+			"2018-02": {"total":9000.00, "Adult Social Care":9000.00}
+		}
+	},
+	"1574": {
+		"name": "Bibby Factors Manchester Ltd",
+		"total": 15121.56,
+		"monthly": {
+			"2011-11": {"total":1681.56, "Corporate Services":1681.56},
+			"2016-02": {"total":3190.00, "Adult Social Care":3190.00},
+			"2016-04": {"total":3770.00, "Adult Social Care":3770.00},
+			"2016-05": {"total":6480.00, "Adult Social Care":6480.00}
+		}
+	},
+	"1575": {
+		"name": "Bibby Factors Northeast Ltd",
+		"total": 4313.5,
+		"monthly": {
+			"2018-09": {"total":3733.00, "Manchester Leisure":3733.00},
+			"2018-11": {"total":580.50, "Manchester Leisure":580.50}
+		}
+	},
+	"1576": {
+		"name": "Bibby Factors Yorkshire Ltd",
+		"total": 2846.42,
+		"monthly": {
+			"2018-11": {"total":2846.42, "Chief Executives":2846.42}
+		}
+	},
+	"1577": {
+		"name": "Bibby Leasing Ltd",
+		"total": 5051.76,
+		"monthly": {
+			"2011-01": {"total":5051.76, "Childrens Services":5051.76}
+		}
+	},
+	"1578": {
+		"name": "Bibliographic Data Services Ltd",
+		"total": 124053.42,
+		"monthly": {
+			"2011-02": {"total":8990.00, "Libraries and Theatres":8990.00},
+			"2012-02": {"total":9260.00, "Libraries and Theatres":9260.00},
+			"2013-02": {"total":9535.00, "Manchester Leisure":9535.00},
+			"2014-03": {"total":5707.50, "Manchester Leisure":5707.50},
+			"2014-06": {"total":2677.50, "Manchester Leisure":2677.50},
+			"2014-12": {"total":4185.00, "Manchester Leisure":4185.00},
+			"2015-03": {"total":595.00, "Manchester Leisure":595.00},
+			"2015-07": {"total":1310.00, "Manchester Leisure":1310.00},
+			"2015-09": {"total":2135.00, "Manchester Leisure":2135.00},
+			"2015-10": {"total":3885.42, "Manchester Leisure":3885.42},
+			"2015-12": {"total":1875.00, "Manchester Leisure":1875.00},
+			"2016-02": {"total":4310.00, "Manchester Leisure":4310.00},
+			"2016-04": {"total":9607.00, "Manchester Leisure":9607.00},
+			"2017-02": {"total":4440.00, "Manchester Leisure":4440.00},
+			"2017-03": {"total":9897.00, "Manchester Leisure":9897.00},
+			"2018-02": {"total":14770.00, "Manchester Leisure":14770.00},
+			"2019-01": {"total":15210.00, "Manchester Leisure":15210.00},
+			"2020-03": {"total":15664.00, "Manchester Leisure":15664.00}
+		}
+	},
+	"1579": {
+		"name": "Biblioteca Ltd",
+		"alternate-names": [
+			"Biblioteca Ltd."
+		],
+		"total": 477830.26,
+		"monthly": {
+			"2017-09": {"total":600.00, "Libraries and Theatres":600.00},
+			"2017-10": {"total":8145.00, "Libraries and Theatres":8145.00},
+			"2017-11": {"total":163205.00, "Libraries and Theatres":161605.00, "Manchester Leisure":1600.00},
+			"2017-12": {"total":105285.00, "Libraries and Theatres":105285.00},
+			"2018-01": {"total":46890.24, "Libraries and Theatres":46890.24},
+			"2018-02": {"total":74950.00, "Libraries and Theatres":74950.00},
+			"2018-06": {"total":4990.00, "Libraries and Theatres":4990.00},
+			"2018-09": {"total":9208.75, "Libraries and Theatres":9208.75},
+			"2018-10": {"total":7176.75, "Libraries and Theatres":7176.75},
+			"2018-11": {"total":18692.00, "Manchester Leisure":18692.00},
+			"2018-12": {"total":699.25, "Libraries and Theatres":699.25},
+			"2019-03": {"total":1573.00, "Libraries and Theatres":1573.00},
+			"2019-05": {"total":9645.77, "Libraries and Theatres":9645.77},
+			"2019-07": {"total":7507.50, "Libraries and Theatres":6907.50, "Manchester Leisure":600.00},
+			"2019-09": {"total":18692.00, "Manchester Leisure":18692.00},
+			"2020-01": {"total":570.00, "Libraries and Theatres":570.00}
+		}
+	},
+	"1580": {
+		"name": "Bicha Ltd",
+		"total": 4425,
+		"monthly": {
+			"2014-01": {"total":4425.00, "Manchester Leisure":4425.00}
+		}
+	},
+	"1581": {
 		"name": "Bickerdike Gardening Group",
 		"total": 580.71,
 		"monthly": {
 			"2016-05": {"total":580.71, "Regeneration Finance":580.71}
 		}
 	},
-	"1551": {
+	"1582": {
 		"name": "Bickerdike Residents Group",
 		"total": 1051.66,
 		"monthly": {
 			"2011-04": {"total":1051.66, "Chief Executives":1051.66}
 		}
 	},
-	"1552": {
+	"1583": {
 		"name": "Bicycle Doctor Ltd",
 		"total": 700,
 		"monthly": {
 			"2014-01": {"total":700.00, "Hospitality + Trading Services":700.00}
 		}
 	},
-	"1553": {
+	"1584": {
 		"name": "Bicycle Messenger Service",
 		"total": 7510,
 		"monthly": {
@@ -37,12 +482,12 @@
 			"2018-06": {"total":500.00, "Adult Social Care":500.00}
 		}
 	},
-	"1554": {
+	"1585": {
 		"name": "Biffa Municipal Ltd",
 		"alternate-names": [
 			"Biffa Municipal Limited"
 		],
-		"total": 97343554.07,
+		"total": 103438065.99,
 		"monthly": {
 			"2015-08": {"total":2585544.51, "Environment and Operations":2585544.51},
 			"2015-09": {"total":1305763.44, "Environment and Operations":1305763.44},
@@ -99,10 +544,14 @@
 			"2019-12": {"total":1824071.93, "Hospitality + Trading Services":37111.58, "Manchester Leisure":1747348.81, "Regeneration Finance":39611.54},
 			"2020-01": {"total":1851726.48, "Corporate Services":641.27, "Hospitality + Trading Services":89995.08, "Manchester Leisure":1709644.79, "Regeneration Finance":51445.34},
 			"2020-02": {"total":1376723.76, "Hospitality + Trading Services":82627.58, "Manchester Leisure":1293571.42, "Regeneration Finance":524.76},
-			"2020-03": {"total":1668605.13, "Highways Services":7500.00, "Hospitality + Trading Services":32511.58, "Manchester Leisure":1628593.55}
+			"2020-03": {"total":1668605.13, "Highways Services":7500.00, "Hospitality + Trading Services":32511.58, "Manchester Leisure":1628593.55},
+			"2020-04": {"total":1806123.53, "Environment and Operations":175962.50, "Hospitality + Trading Services":25100.00, "Manchester Leisure":1564416.53, "Regeneration Finance":40644.50},
+			"2020-05": {"total":1459358.92, "Hospitality + Trading Services":56623.16, "Manchester Leisure":1398031.86, "Regeneration Finance":4703.90},
+			"2020-06": {"total":1607227.44, "Hospitality + Trading Services":28311.58, "Manchester Leisure":1578395.86, "Regeneration Finance":520.00},
+			"2020-07": {"total":1221802.03, "Manchester Leisure":1221802.03}
 		}
 	},
-	"1555": {
+	"1586": {
 		"name": "Biffa Waste Services Ltd",
 		"total": 883032.19,
 		"monthly": {
@@ -118,14 +567,14 @@
 			"2020-03": {"total":1755.00, "Hospitality + Trading Services":1755.00}
 		}
 	},
-	"1556": {
+	"1587": {
 		"name": "Big Blue Door",
 		"total": 3880.8,
 		"monthly": {
 			"2018-02": {"total":3880.80, "Adult Social Care":3880.80}
 		}
 	},
-	"1557": {
+	"1588": {
 		"name": "Big Life Centres",
 		"total": 113572.8,
 		"monthly": {
@@ -147,7 +596,7 @@
 			"2019-05": {"total":868.00, "Adult Social Care":868.00}
 		}
 	},
-	"1558": {
+	"1589": {
 		"name": "Big Life Employment Ltd",
 		"total": 27060,
 		"monthly": {
@@ -159,7 +608,7 @@
 			"2011-06": {"total":2838.00, "Regeneration Finance":2838.00}
 		}
 	},
-	"1559": {
+	"1590": {
 		"name": "Big Life Families",
 		"total": 757045.13,
 		"monthly": {
@@ -198,21 +647,21 @@
 			"2015-08": {"total":230944.88, "Adult Social Care":230944.88}
 		}
 	},
-	"1560": {
+	"1591": {
 		"name": "Big People Music",
 		"total": 1200,
 		"monthly": {
 			"2019-11": {"total":1200.00, "Manchester Leisure":1200.00}
 		}
 	},
-	"1561": {
+	"1592": {
 		"name": "Big Red Talent Ltd",
 		"total": 2500,
 		"monthly": {
 			"2016-08": {"total":2500.00, "Manchester Leisure":2500.00}
 		}
 	},
-	"1562": {
+	"1593": {
 		"name": "Big Stars Play Club",
 		"total": 1316.5,
 		"monthly": {
@@ -220,7 +669,7 @@
 			"2015-09": {"total":699.00, "Adult Social Care":699.00}
 		}
 	},
-	"1563": {
+	"1594": {
 		"name": "Big Train Ltd",
 		"alternate-names": [
 			"Big Train Limited"
@@ -230,7 +679,7 @@
 			"2014-03": {"total":500.00, "Chief Executives":500.00}
 		}
 	},
-	"1564": {
+	"1595": {
 		"name": "Big Up Productions Ltd t/a Nuff",
 		"total": 88498.94,
 		"monthly": {
@@ -253,16 +702,23 @@
 			"2019-01": {"total":1250.00, "Manchester Leisure":1250.00}
 		}
 	},
-	"1565": {
+	"1596": {
 		"name": "Bigger Scene",
 		"total": 1845,
 		"monthly": {
 			"2018-03": {"total":1845.00, "Manchester Leisure":1845.00}
 		}
 	},
-	"1566": {
+	"1597": {
+		"name": "Bigint Ltd",
+		"total": 2150,
+		"monthly": {
+			"2020-06": {"total":2150.00, "Manchester Leisure":2150.00}
+		}
+	},
+	"1598": {
 		"name": "Bike Right",
-		"total": 1619779.61,
+		"total": 1652411.61,
 		"monthly": {
 			"2010-12": {"total":20040.00, "Childrens Services":1200.00, "Highways Services":4420.00, "Regeneration Finance":14420.00},
 			"2011-01": {"total":12480.00, "Highways Services":5460.00, "Regeneration Finance":7020.00},
@@ -335,353 +791,15 @@
 			"2019-11": {"total":36600.00, "Highways Services":36600.00},
 			"2020-01": {"total":24688.00, "Highways Services":24688.00},
 			"2020-02": {"total":17840.00, "Highways Services":17840.00},
-			"2020-03": {"total":12120.00, "Highways Services":12120.00}
+			"2020-03": {"total":12120.00, "Highways Services":12120.00},
+			"2020-04": {"total":32632.00, "Highways Services":32632.00}
 		}
 	},
-	"1567": {
+	"1599": {
 		"name": "Bill Deeker Ltd t/a Bridge",
 		"total": 3475,
 		"monthly": {
 			"2013-05": {"total":3475.00, "Chief Executives":3475.00}
-		}
-	},
-	"1568": {
-		"name": "Billy & Andy's Music School",
-		"total": 550,
-		"monthly": {
-			"2019-01": {"total":550.00, "Manchester Leisure":550.00}
-		}
-	},
-	"1569": {
-		"name": "Billys Buses",
-		"total": 43094.25,
-		"monthly": {
-			"2014-01": {"total":7206.75, "Childrens Services":7206.75},
-			"2014-03": {"total":1980.00, "Childrens Services":1980.00},
-			"2014-04": {"total":2079.00, "Childrens Services":2079.00},
-			"2014-05": {"total":2574.00, "Childrens Services":2574.00},
-			"2014-06": {"total":1534.50, "Childrens Services":1534.50},
-			"2014-08": {"total":3366.00, "Childrens Services":3366.00},
-			"2014-10": {"total":3861.00, "Childrens Services":3861.00},
-			"2014-12": {"total":1980.00, "Childrens Services":1980.00},
-			"2015-01": {"total":1881.00, "Childrens Services":1881.00},
-			"2015-05": {"total":6237.00, "Adult Social Care":6237.00},
-			"2015-11": {"total":3465.00, "Adult Social Care":3465.00},
-			"2016-02": {"total":3465.00, "Adult Social Care":3465.00},
-			"2016-09": {"total":3465.00, "Adult Social Care":3465.00}
-		}
-	},
-	"1570": {
-		"name": "Binas Solicitors",
-		"total": 62650.83,
-		"monthly": {
-			"2014-02": {"total":41490.83, "Housing General Fund":41490.83},
-			"2014-09": {"total":15760.00, "Insurance Fund":15760.00},
-			"2016-11": {"total":5400.00, "Chief Executives":5400.00}
-		}
-	},
-	"1571": {
-		"name": "Binas Solicitors Ltd",
-		"total": 128868,
-		"monthly": {
-			"2016-02": {"total":125057.00, "Housing General Fund":125057.00},
-			"2019-05": {"total":3171.00, "Highways Services":3171.00},
-			"2020-02": {"total":640.00, "Housing General Fund":640.00}
-		}
-	},
-	"1572": {
-		"name": "Biodata Ltd",
-		"alternate-names": [
-			"Biodata Limited"
-		],
-		"total": 26752,
-		"monthly": {
-			"2018-02": {"total":9600.00, "Chief Executives":9600.00},
-			"2018-05": {"total":16000.00, "Chief Executives":16000.00},
-			"2019-06": {"total":1152.00, "Chief Executives":1152.00}
-		}
-	},
-	"1573": {
-		"name": "Biomatrix Water Solutions Ltd",
-		"total": 178380.74,
-		"monthly": {
-			"2014-11": {"total":20000.00, "Manchester Leisure":20000.00},
-			"2015-02": {"total":20000.00, "Manchester Leisure":20000.00},
-			"2015-04": {"total":24580.00, "Manchester Leisure":24580.00},
-			"2015-07": {"total":14828.00, "Manchester Leisure":14828.00},
-			"2015-08": {"total":14070.00, "Manchester Leisure":14070.00},
-			"2015-09": {"total":6870.00, "Environment and Operations":6870.00},
-			"2015-12": {"total":39766.00, "Environment and Operations":33244.00, "Manchester Leisure":6522.00},
-			"2016-03": {"total":19994.74, "Environment and Operations":19994.74},
-			"2016-04": {"total":975.00, "Environment and Operations":975.00},
-			"2016-08": {"total":8244.00, "Manchester Leisure":8244.00},
-			"2017-01": {"total":500.00, "Manchester Leisure":500.00},
-			"2017-02": {"total":3971.00, "Manchester Leisure":3971.00},
-			"2017-10": {"total":4582.00, "Manchester Leisure":4582.00}
-		}
-	},
-	"1574": {
-		"name": "Bip Solutions Ltd",
-		"total": 980,
-		"monthly": {
-			"2018-06": {"total":980.00, "Corporate Services":980.00}
-		}
-	},
-	"1575": {
-		"name": "Birch Community Association",
-		"total": 166638.34,
-		"monthly": {
-			"2011-01": {"total":5407.50, "Chief Executives":5407.50},
-			"2014-04": {"total":7850.00, "Childrens Services":3925.00, "Regeneration Finance":3925.00},
-			"2014-06": {"total":1962.00, "Childrens Services":1962.00},
-			"2014-07": {"total":3925.00, "Regeneration Finance":3925.00},
-			"2014-08": {"total":2000.00, "Regeneration Finance":2000.00},
-			"2014-09": {"total":4904.50, "Childrens Services":4904.50},
-			"2014-10": {"total":12298.73, "Childrens Services":8373.73, "Regeneration Finance":3925.00},
-			"2014-11": {"total":3000.00, "Regeneration Finance":3000.00},
-			"2015-01": {"total":3925.00, "Regeneration Finance":3925.00},
-			"2015-04": {"total":3925.00, "Regeneration Finance":3925.00},
-			"2015-07": {"total":7928.12, "Adult Social Care":4003.12, "Regeneration Finance":3925.00},
-			"2015-08": {"total":11045.06, "Adult Social Care":11045.06},
-			"2015-09": {"total":1795.00, "Regeneration Finance":1795.00},
-			"2015-11": {"total":3925.00, "Regeneration Finance":3925.00},
-			"2016-01": {"total":510.00, "Manchester Leisure":510.00},
-			"2016-02": {"total":3925.00, "Regeneration Finance":3925.00},
-			"2016-05": {"total":6503.73, "Adult Social Care":2578.73, "Regeneration Finance":3925.00},
-			"2016-08": {"total":14771.46, "Adult Social Care":10846.46, "Manchester Leisure":3925.00},
-			"2016-12": {"total":3925.00, "Manchester Leisure":3925.00},
-			"2017-03": {"total":3925.00, "Manchester Leisure":3925.00},
-			"2017-05": {"total":3925.00, "Manchester Leisure":3925.00},
-			"2017-07": {"total":7850.00, "Manchester Leisure":7850.00},
-			"2017-09": {"total":17816.10, "Adult Social Care":13891.10, "Manchester Leisure":3925.00},
-			"2018-03": {"total":9100.00, "Manchester Leisure":9100.00},
-			"2018-06": {"total":820.60, "Adult Social Care":820.60},
-			"2019-01": {"total":11580.88, "Adult Social Care":11580.88},
-			"2019-11": {"total":8094.66, "Adult Social Care":8094.66}
-		}
-	},
-	"1576": {
-		"name": "Birch Community Association Playgro",
-		"total": 9050,
-		"monthly": {
-			"2013-04": {"total":688.50, "Childrens Services":688.50},
-			"2013-06": {"total":688.50, "Childrens Services":688.50},
-			"2013-07": {"total":1322.40, "Childrens Services":1322.40},
-			"2013-12": {"total":6350.60, "Childrens Services":6350.60}
-		}
-	},
-	"1577": {
-		"name": "Birch Community Centre Playscheme",
-		"total": 38354.9,
-		"monthly": {
-			"2011-06": {"total":2850.00, "Childrens Services":2850.00},
-			"2011-09": {"total":7524.90, "Childrens Services":7524.90},
-			"2012-02": {"total":1425.00, "Childrens Services":1425.00},
-			"2012-03": {"total":1500.00, "Regeneration Finance":1500.00},
-			"2012-08": {"total":3111.50, "Childrens Services":3111.50},
-			"2012-11": {"total":1555.75, "Childrens Services":1555.75},
-			"2013-02": {"total":1555.75, "Childrens Services":1555.75},
-			"2013-04": {"total":1500.00, "Regeneration Finance":1500.00},
-			"2013-06": {"total":1524.00, "Childrens Services":1524.00},
-			"2013-07": {"total":1524.00, "Childrens Services":1524.00},
-			"2013-08": {"total":2000.00, "Regeneration Finance":2000.00},
-			"2013-11": {"total":1524.00, "Childrens Services":1524.00},
-			"2014-01": {"total":1524.00, "Childrens Services":1524.00},
-			"2014-06": {"total":1547.00, "Childrens Services":1547.00},
-			"2014-09": {"total":1547.00, "Childrens Services":1547.00},
-			"2015-04": {"total":3094.00, "Adult Social Care":3094.00},
-			"2015-12": {"total":1524.00, "Adult Social Care":1524.00},
-			"2016-03": {"total":1524.00, "Adult Social Care":1524.00}
-		}
-	},
-	"1578": {
-		"name": "Birch Grove Day Nursery",
-		"total": 2158.34,
-		"monthly": {
-			"2012-06": {"total":528.38, "Regeneration Finance":528.38},
-			"2013-01": {"total":999.96, "Regeneration Finance":999.96},
-			"2013-07": {"total":630.00, "Regeneration Finance":630.00}
-		}
-	},
-	"1579": {
-		"name": "Birch Pet Hotel Ltd",
-		"total": 1338.4,
-		"monthly": {
-			"2011-10": {"total":1338.40, "Adult Social Care":1338.40}
-		}
-	},
-	"1580": {
-		"name": "Birch Thomas Consulting Ltd",
-		"total": 6126.6,
-		"monthly": {
-			"2014-10": {"total":910.00, "Adult Social Care":910.00},
-			"2014-11": {"total":1800.00, "Adult Social Care":1800.00},
-			"2014-12": {"total":2273.10, "Adult Social Care":2273.10},
-			"2015-03": {"total":1143.50, "Adult Social Care":1143.50}
-		}
-	},
-	"1581": {
-		"name": "Birchall Blackburn",
-		"total": 86469.54,
-		"monthly": {
-			"2011-02": {"total":5000.00, "Highways Services":5000.00},
-			"2011-03": {"total":500.00, "Highways Services":500.00},
-			"2012-04": {"total":8250.00, "Highways Services":8250.00},
-			"2012-11": {"total":2150.00, "Environment and Operations":2150.00},
-			"2013-01": {"total":20000.00, "Environment and Operations":11999.88, "Insurance Fund":8000.12},
-			"2013-02": {"total":16000.00, "Environment and Operations":16000.00},
-			"2013-05": {"total":10000.00, "Environment and Operations":10000.00},
-			"2013-08": {"total":24569.54, "Environment and Operations":7325.00, "Hospitality + Trading Services":7000.00, "Insurance Fund":10244.54}
-		}
-	},
-	"1582": {
-		"name": "Birchall Blackburn Law",
-		"total": 4383,
-		"monthly": {
-			"2019-04": {"total":3883.00, "Highways Services":3883.00},
-			"2020-02": {"total":500.00, "Housing General Fund":500.00}
-		}
-	},
-	"1583": {
-		"name": "Birchall Blackburn Solicitors",
-		"total": 14976,
-		"monthly": {
-			"2011-09": {"total":10000.00, "Highways Services":10000.00},
-			"2014-10": {"total":4976.00, "Hospitality + Trading Services":4976.00}
-		}
-	},
-	"1584": {
-		"name": "Birchfield Primary School",
-		"total": 61327,
-		"monthly": {
-			"2014-07": {"total":6300.00, "Insurance Fund":6300.00},
-			"2016-11": {"total":3202.85, "Insurance Fund":3202.85},
-			"2017-03": {"total":51824.15, "Insurance Fund":51824.15}
-		}
-	},
-	"1585": {
-		"name": "Birchfields Solicitors",
-		"total": 26450,
-		"monthly": {
-			"2011-07": {"total":6200.00, "Highways Services":6200.00},
-			"2011-12": {"total":10500.00, "Corporate Services":10500.00},
-			"2013-03": {"total":9750.00, "Corporate Services":9750.00}
-		}
-	},
-	"1586": {
-		"name": "Birchhall Blackburn Law Solicitors",
-		"total": 900,
-		"monthly": {
-			"2018-11": {"total":900.00, "Highways Services":900.00}
-		}
-	},
-	"1587": {
-		"name": "Birchnall Blackburn Law",
-		"total": 45095,
-		"monthly": {
-			"2014-07": {"total":45095.00, "Hospitality + Trading Services":45095.00}
-		}
-	},
-	"1588": {
-		"name": "Birdie Camper Van Photo Booth",
-		"total": 9400,
-		"monthly": {
-			"2018-06": {"total":9400.00, "Hospitality + Trading Services":9400.00}
-		}
-	},
-	"1589": {
-		"name": "Birley Over-50s",
-		"total": 500,
-		"monthly": {
-			"2017-02": {"total":500.00, "Manchester Leisure":500.00}
-		}
-	},
-	"1590": {
-		"name": "Birmingham City Council",
-		"total": 525259.56,
-		"monthly": {
-			"2011-05": {"total":1695.20, "Childrens Services":1695.20},
-			"2011-06": {"total":376209.00, "Corporate Services":376209.00},
-			"2011-11": {"total":1008.50, "Manchester Leisure":1008.50},
-			"2012-01": {"total":54500.00, "Chief Executives":54500.00},
-			"2012-03": {"total":56538.48, "Chief Executives":55500.00, "Childrens Services":1038.48},
-			"2013-04": {"total":4380.04, "Childrens Services":4380.04},
-			"2013-11": {"total":1242.92, "Childrens Services":1242.92},
-			"2016-02": {"total":900.00, "Corporate Services":900.00},
-			"2017-03": {"total":653.90, "Manchester Leisure":653.90},
-			"2017-10": {"total":5000.00, "Chief Executives":5000.00},
-			"2018-06": {"total":4760.00, "Adult Social Care":4760.00},
-			"2019-09": {"total":18371.52, "Adult Social Care":18371.52}
-		}
-	},
-	"1591": {
-		"name": "Birmingham City University",
-		"total": 2640,
-		"monthly": {
-			"2019-02": {"total":2640.00, "Corporate Services":2640.00}
-		}
-	},
-	"1592": {
-		"name": "Birmingham Midshires",
-		"total": 9000,
-		"monthly": {
-			"2014-06": {"total":3000.00, "Adult Social Care":3000.00},
-			"2014-07": {"total":6000.00, "Adult Social Care":6000.00}
-		}
-	},
-	"1593": {
-		"name": "Birmingham Museaums Trust",
-		"total": 579.5,
-		"monthly": {
-			"2019-04": {"total":579.50, "Manchester Leisure":579.50}
-		}
-	},
-	"1594": {
-		"name": "Birmingham Museums Trust",
-		"total": 1500,
-		"monthly": {
-			"2018-01": {"total":1500.00, "Manchester Leisure":1500.00}
-		}
-	},
-	"1595": {
-		"name": "Bishop & Co Solicitors",
-		"total": 18076.62,
-		"monthly": {
-			"2012-06": {"total":18076.62, "Environment and Operations":18076.62}
-		}
-	},
-	"1596": {
-		"name": "Bishop Sports And Leisure Ltd",
-		"total": 2318.95,
-		"monthly": {
-			"2011-03": {"total":1033.10, "Childrens Services":528.40, "Manchester Leisure":504.70},
-			"2011-04": {"total":1285.85, "Manchester Leisure":1285.85}
-		}
-	},
-	"1597": {
-		"name": "Bit Fusion Ltd",
-		"total": 86262.88,
-		"monthly": {
-			"2010-12": {"total":33431.88, "Childrens Services":6750.00, "Regeneration Finance":26681.88},
-			"2011-03": {"total":43015.00, "Childrens Services":3015.00, "Regeneration Finance":40000.00},
-			"2011-06": {"total":2824.00, "Childrens Services":2824.00},
-			"2011-07": {"total":6492.00, "Regeneration Finance":6492.00},
-			"2011-12": {"total":500.00, "Regeneration Finance":500.00}
-		}
-	},
-	"1598": {
-		"name": "Bitteswell Employment Alliance Ltd",
-		"total": 6002.58,
-		"monthly": {
-			"2011-10": {"total":1714.20, "Adult Social Care":1714.20},
-			"2011-11": {"total":4288.38, "Adult Social Care":4288.38}
-		}
-	},
-	"1599": {
-		"name": "BizSpace",
-		"total": 560,
-		"monthly": {
-			"2019-12": {"total":560.00, "Adult Social Care":560.00}
 		}
 	}
 	}

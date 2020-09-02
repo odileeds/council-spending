@@ -1,21 +1,159 @@
 {
-	"range": ["2010-12","2020-03"],
+	"range": ["2010-12","2020-07"],
 	"data": {
 	"200": {
+		"name": "ABC Food Law Ltd",
+		"alternate-names": [
+			"ABC Food Law Limited"
+		],
+		"total": 3380,
+		"monthly": {
+			"2014-04": {"total":2600.00, "Specialist Trading Standards":2600.00},
+			"2018-11": {"total":780.00, "Manchester Leisure":780.00}
+		}
+	},
+	"201": {
+		"name": "ABC Happy Days Nursery 2 Ltd",
+		"total": 3758.16,
+		"monthly": {
+			"2013-11": {"total":879.56, "Regeneration Finance":879.56},
+			"2014-01": {"total":559.72, "Childrens Services":559.72},
+			"2014-05": {"total":559.72, "Childrens Services":559.72},
+			"2014-07": {"total":1759.16, "Childrens Services":1759.16}
+		}
+	},
+	"202": {
+		"name": "ABC Response Training",
+		"total": 550,
+		"monthly": {
+			"2015-02": {"total":550.00, "Environment and Operations":550.00}
+		}
+	},
+	"203": {
+		"name": "ABC Taxis Runcorn",
+		"total": 1275,
+		"monthly": {
+			"2016-01": {"total":1275.00, "Adult Social Care":1275.00}
+		}
+	},
+	"204": {
+		"name": "ABENSONS SOLICITORS",
+		"total": 9162.5,
+		"monthly": {
+			"2017-06": {"total":9162.50, "Housing General Fund":9162.50}
+		}
+	},
+	"205": {
+		"name": "ABG Design",
+		"total": 130432.5,
+		"monthly": {
+			"2016-02": {"total":4705.00, "Regeneration Finance":4705.00},
+			"2016-03": {"total":9948.00, "Regeneration Finance":9948.00},
+			"2016-04": {"total":1754.00, "Regeneration Finance":1754.00},
+			"2016-05": {"total":29598.00, "Regeneration Finance":29598.00},
+			"2016-06": {"total":29538.75, "Regeneration Finance":29538.75},
+			"2016-08": {"total":1568.75, "Regeneration Finance":1568.75},
+			"2016-10": {"total":32805.00, "Regeneration Finance":32805.00},
+			"2019-03": {"total":2200.00, "Manchester Leisure":2200.00},
+			"2019-04": {"total":8850.00, "Manchester Leisure":8850.00},
+			"2019-06": {"total":1250.00, "Manchester Leisure":1250.00},
+			"2019-07": {"total":1675.00, "Manchester Leisure":1675.00},
+			"2019-08": {"total":550.00, "Manchester Leisure":550.00},
+			"2019-09": {"total":1200.00, "Manchester Leisure":1200.00},
+			"2019-11": {"total":975.00, "Manchester Leisure":975.00},
+			"2019-12": {"total":3275.00, "Manchester Leisure":3275.00},
+			"2020-01": {"total":540.00, "Manchester Leisure":540.00}
+		}
+	},
+	"206": {
+		"name": "ABL Health Ltd",
+		"total": 6720011.73,
+		"monthly": {
+			"2013-06": {"total":82500.00, "Adult Social Care":82500.00},
+			"2013-07": {"total":27500.00, "Adult Social Care":27500.00},
+			"2013-08": {"total":27500.00, "Adult Social Care":27500.00},
+			"2013-09": {"total":27500.00, "Adult Social Care":27500.00},
+			"2013-10": {"total":27500.00, "Adult Social Care":27500.00},
+			"2013-11": {"total":27500.00, "Adult Social Care":27500.00},
+			"2013-12": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-01": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-02": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-03": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-05": {"total":55000.00, "Adult Social Care":55000.00},
+			"2014-06": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-07": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-08": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-09": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-10": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-11": {"total":27500.00, "Adult Social Care":27500.00},
+			"2014-12": {"total":55000.00, "Adult Social Care":55000.00},
+			"2015-02": {"total":27500.00, "Adult Social Care":27500.00},
+			"2015-03": {"total":27500.00, "Adult Social Care":27500.00},
+			"2015-05": {"total":55000.00, "Adult Social Care":55000.00},
+			"2015-06": {"total":27500.00, "Adult Social Care":27500.00},
+			"2015-07": {"total":27500.00, "Adult Social Care":27500.00},
+			"2015-09": {"total":82500.00, "Adult Social Care":82500.00},
+			"2015-11": {"total":27500.00, "Adult Social Care":27500.00},
+			"2015-12": {"total":27500.00, "Adult Social Care":27500.00},
+			"2016-01": {"total":55000.00, "Adult Social Care":55000.00},
+			"2016-03": {"total":27500.00, "Adult Social Care":27500.00},
+			"2016-04": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-05": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-06": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-07": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-08": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-09": {"total":100581.91, "Adult Social Care":100581.91},
+			"2016-10": {"total":90248.58, "Adult Social Care":90248.58},
+			"2016-11": {"total":90248.58, "Adult Social Care":90248.58},
+			"2016-12": {"total":90248.58, "Adult Social Care":90248.58},
+			"2017-01": {"total":90248.58, "Adult Social Care":90248.58},
+			"2017-02": {"total":90248.58, "Adult Social Care":90248.58},
+			"2017-03": {"total":90683.81, "Adult Social Care":90683.81},
+			"2017-05": {"total":180569.66, "Adult Social Care":180569.66},
+			"2017-06": {"total":438609.33, "Adult Social Care":438609.33},
+			"2017-07": {"total":90284.83, "Adult Social Care":90284.83},
+			"2017-08": {"total":139726.33, "Adult Social Care":139726.33},
+			"2017-09": {"total":139726.33, "Adult Social Care":139726.33},
+			"2017-10": {"total":90284.83, "Adult Social Care":90284.83},
+			"2017-11": {"total":139726.33, "Adult Social Care":139726.33},
+			"2017-12": {"total":238609.33, "Adult Social Care":238609.33},
+			"2018-01": {"total":90284.83, "Adult Social Care":90284.83},
+			"2018-02": {"total":90284.83, "Adult Social Care":90284.83},
+			"2018-03": {"total":238609.33, "Adult Social Care":238609.33},
+			"2018-05": {"total":117784.83, "Adult Social Care":117784.83},
+			"2018-06": {"total":90284.83, "Adult Social Care":90284.83},
+			"2018-07": {"total":153069.66, "Adult Social Care":153069.66},
+			"2018-08": {"total":90284.83, "Adult Social Care":90284.83},
+			"2018-09": {"total":386933.83, "Adult Social Care":386933.83},
+			"2018-10": {"total":90284.83, "Adult Social Care":90284.83},
+			"2018-11": {"total":189167.83, "Adult Social Care":189167.83},
+			"2018-12": {"total":90284.83, "Adult Social Care":90284.83},
+			"2019-01": {"total":189167.83, "Adult Social Care":189167.83},
+			"2019-02": {"total":139726.33, "Adult Social Care":139726.33},
+			"2019-03": {"total":139726.33, "Adult Social Care":139726.33},
+			"2019-04": {"total":125284.83, "Adult Social Care":125284.83},
+			"2019-05": {"total":292511.16, "Adult Social Care":292511.16},
+			"2019-06": {"total":237511.16, "Adult Social Care":237511.16},
+			"2019-07": {"total":125284.83, "Adult Social Care":125284.83},
+			"2019-08": {"total":125284.83, "Adult Social Care":125284.83},
+			"2019-09": {"total":125284.83, "Adult Social Care":125284.83}
+		}
+	},
+	"207": {
 		"name": "ABN AMRO Commercial Finance Plc",
 		"total": 1009.6,
 		"monthly": {
 			"2013-01": {"total":1009.60, "Chief Executives":1009.60}
 		}
 	},
-	"201": {
+	"208": {
 		"name": "ABODE MANCHESTER",
 		"total": 3371.76,
 		"monthly": {
 			"2016-11": {"total":3371.76, "Manchester Leisure":3371.76}
 		}
 	},
-	"202": {
+	"209": {
 		"name": "ABODE PROPERTY MANAGEM",
 		"total": 2125,
 		"monthly": {
@@ -23,7 +161,7 @@
 			"2019-03": {"total":1500.00, "Adult Social Care":1500.00}
 		}
 	},
-	"203": {
+	"210": {
 		"name": "ABRSM",
 		"total": 1426.7,
 		"monthly": {
@@ -31,7 +169,7 @@
 			"2011-06": {"total":720.20, "Childrens Services":720.20}
 		}
 	},
-	"204": {
+	"211": {
 		"name": "ABV Rhoades (Surveyors)",
 		"total": 5589.88,
 		"monthly": {
@@ -41,9 +179,9 @@
 			"2018-05": {"total":585.00, "Housing General Fund":585.00}
 		}
 	},
-	"205": {
+	"212": {
 		"name": "AC Education",
-		"total": 14923.7,
+		"total": 19178.7,
 		"monthly": {
 			"2013-12": {"total":2200.00, "Childrens Services":2200.00},
 			"2015-03": {"total":1567.50, "Adult Social Care":1567.50},
@@ -51,10 +189,11 @@
 			"2016-02": {"total":2829.60, "Adult Social Care":2829.60},
 			"2017-02": {"total":2829.60, "Adult Social Care":2829.60},
 			"2018-02": {"total":1100.00, "Adult Social Care":1100.00},
-			"2019-04": {"total":2829.50, "Adult Social Care":2829.50}
+			"2019-04": {"total":2829.50, "Adult Social Care":2829.50},
+			"2020-04": {"total":4255.00, "Childrens & Education Services":4255.00}
 		}
 	},
-	"206": {
+	"213": {
 		"name": "AC Social Care Consultancy Ltd",
 		"total": 6745.36,
 		"monthly": {
@@ -62,7 +201,7 @@
 			"2019-10": {"total":3695.00, "Adult Social Care":3695.00}
 		}
 	},
-	"207": {
+	"214": {
 		"name": "ACAS",
 		"total": 6850,
 		"monthly": {
@@ -71,7 +210,7 @@
 			"2020-03": {"total":4270.00, "Corporate Services":510.00, "Libraries and Theatres":3760.00}
 		}
 	},
-	"208": {
+	"215": {
 		"name": "ACC. GENERAL OF THE SENIOR COURTS",
 		"total": 4000,
 		"monthly": {
@@ -79,14 +218,14 @@
 			"2014-01": {"total":2000.00, "Insurance Fund":2000.00}
 		}
 	},
-	"209": {
+	"216": {
 		"name": "ACCOMMODATION CENTRE",
 		"total": 1155.62,
 		"monthly": {
 			"2019-12": {"total":1155.62, "Adult Social Care":1155.62}
 		}
 	},
-	"210": {
+	"217": {
 		"name": "ACM Training",
 		"total": 9332.85,
 		"monthly": {
@@ -97,7 +236,7 @@
 			"2018-02": {"total":5196.00, "Manchester Leisure":5196.00}
 		}
 	},
-	"211": {
+	"218": {
 		"name": "ACORN Recovery Projects",
 		"total": 328192.15,
 		"monthly": {
@@ -145,7 +284,7 @@
 			"2019-04": {"total":4158.48, "Adult Social Care":4158.48}
 		}
 	},
-	"212": {
+	"219": {
 		"name": "ACS Construction Group",
 		"total": 32028.7,
 		"monthly": {
@@ -153,42 +292,42 @@
 			"2019-09": {"total":754.90, "Highways Services":754.90}
 		}
 	},
-	"213": {
+	"220": {
 		"name": "ACT (Administration) Ltd",
 		"total": 2295,
 		"monthly": {
 			"2011-05": {"total":2295.00, "Corporate Services":2295.00}
 		}
 	},
-	"214": {
+	"221": {
 		"name": "ACT NOW TRAINING LIMIT",
 		"total": 2394,
 		"monthly": {
 			"2019-10": {"total":2394.00, "Chief Executives":2394.00}
 		}
 	},
-	"215": {
+	"222": {
 		"name": "ACT*SPORTACCORD CONVEN",
 		"total": 2345.44,
 		"monthly": {
 			"2014-03": {"total":2345.44, "Manchester Leisure":2345.44}
 		}
 	},
-	"216": {
+	"223": {
 		"name": "ACUMEN",
 		"total": 1290.9,
 		"monthly": {
 			"2014-01": {"total":1290.90, "Environment and Operations":1290.90}
 		}
 	},
-	"217": {
+	"224": {
 		"name": "ADAPTIVE MICRO SYSTEMS EUROPE",
 		"total": 693.23,
 		"monthly": {
 			"2011-03": {"total":693.23, "Libraries and Theatres":693.23}
 		}
 	},
-	"218": {
+	"225": {
 		"name": "ADASS",
 		"total": 16064,
 		"monthly": {
@@ -204,7 +343,7 @@
 			"2019-07": {"total":2169.00, "Adult Social Care":2169.00}
 		}
 	},
-	"219": {
+	"226": {
 		"name": "ADELIE FOODS LTD",
 		"total": 2044.06,
 		"monthly": {
@@ -212,7 +351,7 @@
 			"2018-06": {"total":661.00, "Hospitality + Trading Services":661.00}
 		}
 	},
-	"220": {
+	"227": {
 		"name": "ADF LAW",
 		"total": 20905.25,
 		"monthly": {
@@ -220,7 +359,7 @@
 			"2016-12": {"total":3594.00, "Chief Executives":3594.00}
 		}
 	},
-	"221": {
+	"228": {
 		"name": "ADF Law",
 		"total": 10849.8,
 		"monthly": {
@@ -228,28 +367,28 @@
 			"2015-10": {"total":10345.00, "Environment and Operations":10345.00}
 		}
 	},
-	"222": {
+	"229": {
 		"name": "ADF Law LLP",
 		"total": 15000,
 		"monthly": {
 			"2014-01": {"total":15000.00, "Environment and Operations":15000.00}
 		}
 	},
-	"223": {
+	"230": {
 		"name": "ADF Law Solictors",
 		"total": 8198,
 		"monthly": {
 			"2017-08": {"total":8198.00, "Highways Services":8198.00}
 		}
 	},
-	"224": {
+	"231": {
 		"name": "ADI UK LTD",
 		"total": 2800,
 		"monthly": {
 			"2012-07": {"total":2800.00, "Chief Executives":2800.00}
 		}
 	},
-	"225": {
+	"232": {
 		"name": "ADI UK Ltd",
 		"total": 28165,
 		"monthly": {
@@ -261,14 +400,14 @@
 			"2019-09": {"total":2250.00, "Manchester Leisure":2250.00}
 		}
 	},
-	"226": {
+	"233": {
 		"name": "ADMEDIA",
 		"total": 2510,
 		"monthly": {
 			"2020-02": {"total":2510.00, "Chief Executives":2510.00}
 		}
 	},
-	"227": {
+	"234": {
 		"name": "ADOBE  CREATIVE CLOUD",
 		"total": 3147.27,
 		"monthly": {
@@ -279,19 +418,19 @@
 			"2018-05": {"total":596.33, "Manchester Leisure":596.33}
 		}
 	},
-	"228": {
+	"235": {
 		"name": "AE Fishery Supplies",
 		"total": 5340,
 		"monthly": {
 			"2012-06": {"total":5340.00, "Manchester Leisure":5340.00}
 		}
 	},
-	"229": {
+	"236": {
 		"name": "AECOM Ltd",
 		"alternate-names": [
 			"AECOM Limited"
 		],
-		"total": 7594655.84,
+		"total": 7632539.84,
 		"monthly": {
 			"2010-12": {"total":90164.27, "Highways Services":90164.27},
 			"2011-01": {"total":96638.47, "Chief Executives":5406.38, "Environment and Operations":5500.00, "Highways Services":85732.09},
@@ -402,10 +541,13 @@
 			"2019-11": {"total":47647.04, "Adult Social Care":11508.00, "Environment and Operations":8888.80, "Highways Services":27250.24},
 			"2019-12": {"total":20206.60, "Adult Social Care":12707.00, "Environment and Operations":7499.60},
 			"2020-01": {"total":11518.04, "Adult Social Care":6953.00, "Highways Services":4565.04},
-			"2020-02": {"total":4565.04, "Highways Services":4565.04}
+			"2020-02": {"total":4565.04, "Highways Services":4565.04},
+			"2020-04": {"total":11510.00, "Childrens & Education Services":11510.00},
+			"2020-06": {"total":15951.00, "Childrens & Education Services":15951.00},
+			"2020-07": {"total":10423.00, "Childrens & Education Services":10423.00}
 		}
 	},
-	"230": {
+	"237": {
 		"name": "AECOM Professional Services LLP",
 		"total": 685732.13,
 		"monthly": {
@@ -433,7 +575,7 @@
 			"2015-10": {"total":12708.00, "Adult Social Care":12708.00}
 		}
 	},
-	"231": {
+	"238": {
 		"name": "AEGIS LEGAL",
 		"total": 2220,
 		"monthly": {
@@ -441,56 +583,56 @@
 			"2018-06": {"total":720.00, "Hospitality + Trading Services":720.00}
 		}
 	},
-	"232": {
+	"239": {
 		"name": "AEQUITAS LEGAL",
 		"total": 8198.2,
 		"monthly": {
 			"2017-11": {"total":8198.20, "Highways Services":4173.00, "Insurance Fund":4025.20}
 		}
 	},
-	"233": {
+	"240": {
 		"name": "AFG Law",
 		"total": 500,
 		"monthly": {
 			"2015-05": {"total":500.00, "Adult Social Care":500.00}
 		}
 	},
-	"234": {
+	"241": {
 		"name": "AFORDAWARDS.CO.UK",
 		"total": 892.62,
 		"monthly": {
 			"2019-09": {"total":892.62, "Manchester Leisure":892.62}
 		}
 	},
-	"235": {
+	"242": {
 		"name": "AG Solicitors",
 		"total": 8430,
 		"monthly": {
 			"2018-07": {"total":8430.00, "Highways Services":8430.00}
 		}
 	},
-	"236": {
+	"243": {
 		"name": "AGD Law Ltd",
 		"total": 6500,
 		"monthly": {
 			"2015-09": {"total":6500.00, "Environment and Operations":6500.00}
 		}
 	},
-	"237": {
+	"244": {
 		"name": "AGE FRIENDLY",
 		"total": 1805.2,
 		"monthly": {
 			"2017-11": {"total":1805.20, "Manchester Leisure":1805.20}
 		}
 	},
-	"238": {
+	"245": {
 		"name": "AGF Law Services Limited Enq Agents",
 		"total": 1373.25,
 		"monthly": {
 			"2017-03": {"total":1373.25, "Adult Social Care":1373.25}
 		}
 	},
-	"239": {
+	"246": {
 		"name": "AGF Law Services Ltd",
 		"alternate-names": [
 			"AGF Law Services Limited"
@@ -500,7 +642,7 @@
 			"2017-04": {"total":1042.55, "Adult Social Care":1042.55}
 		}
 	},
-	"240": {
+	"247": {
 		"name": "AHR Architects Architects Ltd",
 		"total": 21000,
 		"monthly": {
@@ -508,72 +650,19 @@
 			"2016-10": {"total":6000.00, "Manchester Leisure":6000.00}
 		}
 	},
-	"241": {
+	"248": {
 		"name": "AHRA Green Fold Project",
 		"total": 2500,
 		"monthly": {
 			"2011-01": {"total":2500.00, "Regeneration Finance":2500.00}
 		}
 	},
-	"242": {
+	"249": {
 		"name": "AIC Furniture",
 		"total": 36553.76,
 		"monthly": {
 			"2014-09": {"total":32985.00, "Childrens Services":32985.00},
 			"2015-04": {"total":3568.76, "Childrens Services":3568.76}
-		}
-	},
-	"243": {
-		"name": "AIDA Technology Ltd",
-		"total": 22918.82,
-		"monthly": {
-			"2014-11": {"total":5382.43, "Chief Executives":5382.43},
-			"2014-12": {"total":7165.39, "Chief Executives":7165.39},
-			"2015-01": {"total":5000.00, "Chief Executives":5000.00},
-			"2015-04": {"total":5371.00, "Chief Executives":5371.00}
-		}
-	},
-	"244": {
-		"name": "AIG",
-		"total": 4335.01,
-		"monthly": {
-			"2018-07": {"total":4335.01, "Insurance Fund":4335.01}
-		}
-	},
-	"245": {
-		"name": "AIM Together Northwest",
-		"total": 5271.6,
-		"monthly": {
-			"2018-03": {"total":3530.00, "Adult Social Care":3530.00},
-			"2018-05": {"total":1741.60, "Adult Social Care":1741.60}
-		}
-	},
-	"246": {
-		"name": "AIR DNA",
-		"total": 6500,
-		"monthly": {
-			"2018-11": {"total":6500.00, "Chief Executives":6500.00}
-		}
-	},
-	"247": {
-		"name": "AIRBNB * HM8MKEKQF4",
-		"total": 879.59,
-		"monthly": {
-			"2018-08": {"total":879.59, "Adult Social Care":879.59}
-		}
-	},
-	"248": {
-		"name": "AIRBNB * HMANE53Q3K",
-		"total": 3256.04,
-		"monthly": {
-			"2019-10": {"total":3256.04, "Corporate Services":3256.04}
-		}
-	},
-	"249": {
-		"name": "AIRPORT CITY LIMITED PARTNERSHIP",
-		"total": 750000,
-		"monthly": {
-			"2019-09": {"total":750000.00, "Environment and Operations":750000.00}
 		}
 	}
 	}
