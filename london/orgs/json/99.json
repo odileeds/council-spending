@@ -1,14 +1,473 @@
 {
-	"range": ["2013-04","2020-05"],
+	"range": ["2013-04","2020-07"],
 	"data": {
 	"4950": {
+		"name": "TFL GROUP PROPERTY",
+		"total": 8650962.79,
+		"monthly": {
+			"2013-07": {"total":281278.26, "Land/Ground Rents":281278.26},
+			"2013-11": {"total":689458.00, "Land/Ground Rents":689458.00},
+			"2015-10": {"total":2411557.52, "LAND/GROUND RENTS":2411557.52},
+			"2015-11": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2016-03": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2016-07": {"total":344729.00, "PROPERTY MANAGEMENT FEES":344729.00},
+			"2016-11": {"total":1034187.00, "LAND/GROUND RENTS":1034187.00},
+			"2016-12": {"total":436861.81, "LAND/GROUND RENTS":344729.00, "MANAGE IT SERVICES":92132.81},
+			"2017-04": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2017-07": {"total":346330.20, "OTHER PROFESSIONAL FEES":346330.20},
+			"2017-09": {"total":344729.00, "OTHER PROFESSIONAL FEES":344729.00},
+			"2018-01": {"total":344729.00, "OTHER PROFESSIONAL FEES":344729.00},
+			"2018-03": {"total":344729.00, "OTHER PROFESSIONAL FEES":343127.80, "PROPERTY MANAGEMENT FEES":1601.20},
+			"2018-07": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2018-11": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2019-01": {"total":344729.00, "LAND/GROUND RENTS":344729.00},
+			"2019-04": {"total":4000.00, "PROPERTY MANAGEMENT FEES":4000.00}
+		}
+	},
+	"4951": {
+		"name": "TFL SURFACE TRANSPORT GENERAL A/C",
+		"total": 1000000,
+		"monthly": {
+			"2014-03": {"total":1000000.00, "Grants to External Organisations":1000000.00}
+		}
+	},
+	"4952": {
+		"name": "THAMES ADVISORS",
+		"total": 7312.5,
+		"monthly": {
+			"2019-10": {"total":3900.00, "EXTERNAL AUDIT FEES":3900.00},
+			"2019-11": {"total":1300.00, "EXTERNAL AUDIT FEES":1300.00},
+			"2020-01": {"total":2112.50, "EXTERNAL AUDIT FEES":2112.50}
+		}
+	},
+	"4953": {
+		"name": "THAMES COMPUTER SERVICES LTD",
+		"total": 8400,
+		"monthly": {
+			"2015-12": {"total":2700.00, "GRANTS TO EXTERNAL ORGANISATIONS":2700.00},
+			"2016-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-06": {"total":2700.00, "GRANTS TO EXTERNAL ORGANISATIONS":2700.00}
+		}
+	},
+	"4954": {
+		"name": "THAMES FESTIVAL",
+		"total": 558434,
+		"monthly": {
+			"2013-09": {"total":54000.00, "Grants to External Organisations":54000.00},
+			"2014-04": {"total":11000.00, "Grants to External Organisations":11000.00},
+			"2014-10": {"total":195000.00, "GRANTS TO EXTERNAL ORGANISATIONS":195000.00},
+			"2014-12": {"total":65000.00, "GRANTS TO EXTERNAL ORGANISATIONS":65000.00},
+			"2015-09": {"total":50000.00, "GRANTS TO EXTERNAL ORGANISATIONS":50000.00},
+			"2016-09": {"total":50000.00, "GRANTS TO EXTERNAL ORGANISATIONS":50000.00},
+			"2017-07": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
+			"2017-11": {"total":34419.00, "CONSULTANCY-PROJECT MANAGEMENT":9419.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00},
+			"2018-09": {"total":45000.00, "GRANTS TO EXTERNAL ORGANISATIONS":45000.00},
+			"2018-11": {"total":15015.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":15015.00},
+			"2018-12": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00},
+			"2020-01": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":9000.00},
+			"2020-07": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00}
+		}
+	},
+	"4955": {
+		"name": "THAMES REACH",
+		"total": 16168220.76,
+		"monthly": {
+			"2013-04": {"total":6700.00, "Hsg-Rough Sleeping":6700.00},
+			"2013-05": {"total":277206.00, "Grants to External Organisations":112500.00, "Hsg-Rough Sleeping":164706.00},
+			"2013-06": {"total":37500.00, "Grants to External Organisations":37500.00},
+			"2013-07": {"total":311920.00, "Hsg-Rough Sleeping":311920.00},
+			"2013-08": {"total":274957.00, "Grants to External Organisations":110253.00, "Hsg-Rough Sleeping":164704.00},
+			"2013-10": {"total":146430.00, "Hsg-Rough Sleeping":146430.00},
+			"2013-11": {"total":177111.00, "Grants to External Organisations":177111.00},
+			"2013-12": {"total":690428.00, "Hsg-Rough Sleeping":690428.00},
+			"2014-02": {"total":551138.00, "Grants to External Organisations":217962.00, "Hsg-Rough Sleeping":333176.00},
+			"2014-04": {"total":121351.00, "Grants to External Organisations":66151.00, "Hsg-Rough Sleeping":55200.00},
+			"2014-06": {"total":242881.50, "Hsg-Rough Sleeping":242881.50},
+			"2014-07": {"total":472161.50, "GRANTS TO EXTERNAL ORGANISATIONS":31250.00, "HSG-ROUGH SLEEPING":440911.50},
+			"2014-09": {"total":195040.00, "HSG-ROUGH SLEEPING":195040.00},
+			"2014-10": {"total":274131.50, "GRANTS TO EXTERNAL ORGANISATIONS":31250.00, "HSG-ROUGH SLEEPING":242881.50},
+			"2014-12": {"total":147540.00, "HSG-ROUGH SLEEPING":147540.00},
+			"2015-01": {"total":31250.00, "Housing":31250.00},
+			"2015-02": {"total":242881.50, "Housing":242881.50},
+			"2015-03": {"total":178320.00, "GRANTS TO EXTERNAL ORGANISATIONS":31250.00, "HSG-ROUGH SLEEPING":147070.00},
+			"2015-05": {"total":21000.00, "HSG-ROUGH SLEEPING":21000.00},
+			"2015-07": {"total":242879.50, "HSG-ROUGH SLEEPING":242879.50},
+			"2015-10": {"total":242879.50, "HSG-ROUGH SLEEPING":242879.50},
+			"2015-12": {"total":223360.00, "HSG-ROUGH SLEEPING":223360.00},
+			"2016-01": {"total":242879.50, "HSG-ROUGH SLEEPING":242879.50},
+			"2016-04": {"total":265587.50, "Housing":265587.50},
+			"2016-08": {"total":398114.42, "HSG-ROUGH SLEEPING":398114.42},
+			"2016-10": {"total":398114.42, "HSG-ROUGH SLEEPING":398114.42},
+			"2016-12": {"total":51900.00, "HSG-ROUGH SLEEPING":51900.00},
+			"2017-01": {"total":398114.42, "HSG-ROUGH SLEEPING":398114.42},
+			"2017-04": {"total":450269.42, "HSG-ROUGH SLEEPING":450269.42},
+			"2017-07": {"total":63875.50, "HSG-ROUGH SLEEPING":63875.50},
+			"2017-08": {"total":143719.87, "HSG-ROUGH SLEEPING":143719.87},
+			"2017-09": {"total":254934.55, "HSG-ROUGH SLEEPING":254934.55},
+			"2017-10": {"total":143719.87, "HSG-ROUGH SLEEPING":143719.87},
+			"2017-11": {"total":259884.55, "GRANTS TO EXTERNAL ORGANISATIONS":4950.00, "HSG-ROUGH SLEEPING":254934.55},
+			"2018-02": {"total":398654.42, "HSG-ROUGH SLEEPING":398654.42},
+			"2018-03": {"total":186431.39, "GRANTS TO EXTERNAL ORGANISATIONS":12725.64, "HSG-ROUGH SLEEPING":173705.75},
+			"2018-04": {"total":398654.42, "HSG-ROUGH SLEEPING":398654.42},
+			"2018-05": {"total":173705.75, "HSG-ROUGH SLEEPING":173705.75},
+			"2018-06": {"total":7900.00, "HSG-ROUGH SLEEPING":7900.00},
+			"2018-08": {"total":212625.14, "GRANTS TO EXTERNAL ORGANISATIONS":12725.64, "HSG-ROUGH SLEEPING":199899.50},
+			"2018-10": {"total":857824.92, "HSG-ROUGH SLEEPING":857824.92},
+			"2018-12": {"total":375851.55, "HSG-ROUGH SLEEPING":375851.55},
+			"2019-01": {"total":143179.87, "HSG-ROUGH SLEEPING":143179.87},
+			"2019-02": {"total":549734.42, "HSG-ROUGH SLEEPING":549734.42},
+			"2019-03": {"total":303241.39, "GRANTS TO EXTERNAL ORGANISATIONS":129535.64, "HSG-ROUGH SLEEPING":173705.75},
+			"2019-04": {"total":526225.34, "GRANTS TO EXTERNAL ORGANISATIONS":39886.92, "HSG-ROUGH SLEEPING":486338.42},
+			"2019-05": {"total":221630.00, "GRANTS TO EXTERNAL ORGANISATIONS":4950.00, "HSG-ROUGH SLEEPING":216680.00},
+			"2019-06": {"total":173705.75, "HSG-ROUGH SLEEPING":173705.75},
+			"2019-08": {"total":4000.00, "HSG-ROUGH SLEEPING":4000.00},
+			"2019-10": {"total":1411069.75, "HSG-ROUGH SLEEPING":1411069.75},
+			"2019-11": {"total":703191.24, "HSG-ROUGH SLEEPING":703191.24},
+			"2020-02": {"total":67990.00, "HSG-ROUGH SLEEPING":67990.00},
+			"2020-03": {"total":217315.00, "HSG-ROUGH SLEEPING":217315.00},
+			"2020-05": {"total":797308.84, "HSG-ROUGH SLEEPING":797308.84},
+			"2020-06": {"total":2867.00, "HSG-ROUGH SLEEPING":2867.00},
+			"2020-07": {"total":254934.55, "HSG-ROUGH SLEEPING":254934.55}
+		}
+	},
+	"4956": {
+		"name": "THAMES SURFACING LTD",
+		"alternate-names": [
+			"THAMES SURFACING LIMITED"
+		],
+		"total": 49468.94,
+		"monthly": {
+			"2013-08": {"total":1342.00, "External Building Maintenance":1342.00},
+			"2013-10": {"total":48126.94, "External Building Maintenance":48126.94}
+		}
+	},
+	"4957": {
+		"name": "THAMES VALLEY HOUSING ASSOCIATION",
+		"total": 216000,
+		"monthly": {
+			"2016-04": {"total":216000.00, "Housing":216000.00}
+		}
+	},
+	"4958": {
+		"name": "THAMES VALLEY HOUSING ASSOCIATION L",
+		"total": 10505863,
+		"monthly": {
+			"2013-04": {"total":3408615.00, "HSG Grants to Registered Providers":3408615.00},
+			"2013-08": {"total":191454.00, "HSG Grants to Registered Providers":191454.00},
+			"2013-10": {"total":100541.00, "HSG Grants to Registered Providers":100541.00},
+			"2014-02": {"total":49336.00, "HSG Grants to Registered Providers":49336.00},
+			"2014-08": {"total":225773.00, "HSG GRANTS TO REGISTERED PROVIDERS":225773.00},
+			"2014-09": {"total":1055499.00, "HSG GRANTS TO REGISTERED PROVIDERS":1055499.00},
+			"2014-10": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2014-11": {"total":899477.00, "HSG GRANTS TO REGISTERED PROVIDERS":899477.00},
+			"2014-12": {"total":367855.00, "HSG GRANTS TO REGISTERED PROVIDERS":367855.00},
+			"2015-01": {"total":751870.00, "Housing":751870.00},
+			"2015-03": {"total":424854.00, "HSG GRANTS TO REGISTERED PROVIDERS":424854.00},
+			"2015-04": {"total":940613.00, "HSG GRANTS TO REGISTERED PROVIDERS":940613.00},
+			"2016-08": {"total":682500.00, "HSG GRANTS TO REGISTERED PROVIDERS":682500.00},
+			"2017-02": {"total":138000.00, "HSG GRANTS TO REGISTERED PROVIDERS":138000.00},
+			"2018-03": {"total":143316.00, "HSG GRANTS TO REGISTERED PROVIDERS":143316.00},
+			"2018-10": {"total":682500.00, "HSG GRANTS TO REGISTERED PROVIDERS":682500.00},
+			"2019-03": {"total":411660.00, "HSG GRANTS TO REGISTERED PROVIDERS":411660.00},
+			"2019-12": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00}
+		}
+	},
+	"4959": {
+		"name": "THAMES WATER",
+		"total": 8503.15,
+		"monthly": {
+			"2013-07": {"total":8503.15, "Building Maintenance & Repairs":8503.15}
+		}
+	},
+	"4960": {
+		"name": "THAMES WATER UTILITIES LTD",
+		"alternate-names": [
+			"THAMES WATER UTILITIES LIMITED"
+		],
+		"total": 172152.05,
+		"monthly": {
+			"2013-04": {"total":2683.17, "Water":2683.17},
+			"2013-05": {"total":441.39, "Water":441.39},
+			"2013-06": {"total":3107.75, "Water":3107.75},
+			"2013-07": {"total":5543.55, "Water":5543.55},
+			"2013-08": {"total":803.06, "Water":803.06},
+			"2013-09": {"total":4814.88, "Water":4814.88},
+			"2013-10": {"total":2923.88, "Water":2923.88},
+			"2013-11": {"total":3119.95, "Water":3119.95},
+			"2013-12": {"total":645.72, "Water":645.72},
+			"2014-01": {"total":9742.18, "Water":9742.18},
+			"2014-02": {"total":4817.94, "Water":4817.94},
+			"2014-03": {"total":1330.72, "Water":1330.72},
+			"2014-04": {"total":9044.56, "Water":9044.56},
+			"2014-06": {"total":1651.29, "WATER":487.44, "Water":1163.85},
+			"2014-07": {"total":7530.67, "ELECTRICITY":421.04, "WATER":7109.63},
+			"2014-08": {"total":488.30, "WATER":488.30},
+			"2014-09": {"total":655.06, "WATER":655.06},
+			"2014-10": {"total":7939.90, "WATER":7939.90},
+			"2014-11": {"total":937.28, "WATER":937.28},
+			"2014-12": {"total":9414.69, "WATER":9414.69},
+			"2015-01": {"total":7601.94, "Resources":7601.94},
+			"2015-02": {"total":6454.81, "Resources":6454.81},
+			"2015-03": {"total":4195.98, "WATER":4195.98},
+			"2015-04": {"total":4877.01, "WATER":4877.01},
+			"2015-06": {"total":369.89, "WATER":369.89},
+			"2015-07": {"total":1569.87, "WATER":1569.87},
+			"2015-08": {"total":409.65, "WATER":409.65},
+			"2015-09": {"total":6274.09, "WATER":6274.09},
+			"2015-10": {"total":3125.79, "WATER":3125.79},
+			"2015-12": {"total":5171.08, "WATER":5171.08},
+			"2016-01": {"total":3872.31, "WATER":3872.31},
+			"2016-03": {"total":10487.73, "WATER":10487.73},
+			"2016-04": {"total":523.25, "Resources":523.25},
+			"2016-05": {"total":690.92, "Resources":690.92},
+			"2016-06": {"total":720.38, "WATER":720.38},
+			"2016-07": {"total":4226.58, "WATER":4226.58},
+			"2016-08": {"total":747.41, "WATER":747.41},
+			"2016-09": {"total":3246.23, "WATER":3246.23},
+			"2016-10": {"total":6736.32, "WATER":6736.32},
+			"2016-11": {"total":3577.18, "WATER":3577.18},
+			"2016-12": {"total":14038.43, "WATER":14038.43},
+			"2017-01": {"total":3579.09, "WATER":3579.09},
+			"2017-02": {"total":1240.31, "WATER":1240.31},
+			"2017-05": {"total":326.78, "WATER":326.78},
+			"2017-06": {"total":453.08, "WATER":453.08}
+		}
+	},
+	"4961": {
+		"name": "THAMES21",
+		"total": 209907.4,
+		"monthly": {
+			"2016-03": {"total":150000.00, "GRANTS TO EXTERNAL ORGANISATIONS":150000.00},
+			"2017-02": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
+			"2017-04": {"total":18597.40, "GRANTS TO EXTERNAL ORGANISATIONS":18597.40},
+			"2019-02": {"total":8155.00, "GRANTS TO EXTERNAL ORGANISATIONS":8155.00},
+			"2019-03": {"total":8155.00, "GRANTS TO EXTERNAL ORGANISATIONS":8155.00},
+			"2020-03": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00}
+		}
+	},
+	"4962": {
+		"name": "THE 10:10 FOUNDATION",
+		"total": 9487.5,
+		"monthly": {
+			"2018-05": {"total":2475.00, "GRANTS TO EXTERNAL ORGANISATIONS":2475.00},
+			"2018-11": {"total":7012.50, "GRANTS TO EXTERNAL ORGANISATIONS":7012.50}
+		}
+	},
+	"4963": {
+		"name": "THE ACADEMY OF LEADERSHIP",
+		"total": 1375,
+		"monthly": {
+			"2014-04": {"total":1375.00, "Staff Training":1375.00}
+		}
+	},
+	"4964": {
+		"name": "THE ACCESS TO SPORTS PROJECT",
+		"total": 49344,
+		"monthly": {
+			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00},
+			"2019-03": {"total":23922.00, "GRANTS TO EXTERNAL ORGANISATIONS":23922.00},
+			"2020-02": {"total":23922.00, "GRANTS TO EXTERNAL ORGANISATIONS":23922.00}
+		}
+	},
+	"4965": {
+		"name": "THE ACTEON CONSULTANCY LLP",
+		"total": 19575,
+		"monthly": {
+			"2014-03": {"total":4800.00, "Software Maintenance":4800.00},
+			"2015-03": {"total":2400.00, "SOFTWARE MAINTENANCE":2400.00},
+			"2016-02": {"total":2400.00, "SOFTWARE MAINTENANCE":2400.00},
+			"2017-03": {"total":2400.00, "SOFTWARE MAINTENANCE":2400.00},
+			"2018-02": {"total":2400.00, "SOFTWARE MAINTENANCE":2400.00},
+			"2019-03": {"total":2400.00, "STAFF TRAINING":2400.00},
+			"2020-04": {"total":2775.00, "STAFF TRAINING":2775.00}
+		}
+	},
+	"4966": {
+		"name": "THE ADULT COLLEGE OF BARKING AND",
+		"total": 1659909,
+		"monthly": {
+			"2019-08": {"total":239690.86, "GRANTS TO EXTERNAL ORGANISATIONS":239690.86},
+			"2019-09": {"total":142420.19, "GRANTS TO EXTERNAL ORGANISATIONS":142420.19},
+			"2019-10": {"total":143914.11, "GRANTS TO EXTERNAL ORGANISATIONS":143914.11},
+			"2019-11": {"total":117521.56, "GRANTS TO EXTERNAL ORGANISATIONS":117521.56},
+			"2019-12": {"total":94448.82, "GRANTS TO EXTERNAL ORGANISATIONS":94448.82},
+			"2020-01": {"total":123497.23, "GRANTS TO EXTERNAL ORGANISATIONS":123497.23},
+			"2020-02": {"total":89469.10, "GRANTS TO EXTERNAL ORGANISATIONS":89469.10},
+			"2020-03": {"total":88971.12, "GRANTS TO EXTERNAL ORGANISATIONS":88971.12},
+			"2020-04": {"total":210642.45, "GRANTS TO EXTERNAL ORGANISATIONS":210642.45},
+			"2020-05": {"total":169476.71, "GRANTS TO EXTERNAL ORGANISATIONS":169476.71},
+			"2020-06": {"total":144412.08, "GRANTS TO EXTERNAL ORGANISATIONS":144412.08},
+			"2020-07": {"total":95444.77, "GRANTS TO EXTERNAL ORGANISATIONS":95444.77}
+		}
+	},
+	"4967": {
+		"name": "THE AFRICA CENTRE",
+		"total": 174891.05,
+		"monthly": {
+			"2018-12": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00},
+			"2019-10": {"total":27228.75, "GRANTS TO EXTERNAL ORGANISATIONS":27228.75},
+			"2019-11": {"total":42582.69, "GRANTS TO EXTERNAL ORGANISATIONS":42582.69},
+			"2020-02": {"total":28270.00, "GRANTS TO EXTERNAL ORGANISATIONS":28270.00},
+			"2020-03": {"total":71809.61, "GRANTS TO EXTERNAL ORGANISATIONS":71809.61}
+		}
+	},
+	"4968": {
+		"name": "THE AHOY CENTRE",
+		"total": 145651,
+		"monthly": {
+			"2014-02": {"total":74000.00, "Grants to External Organisations":74000.00},
+			"2019-02": {"total":23877.00, "GRANTS TO EXTERNAL ORGANISATIONS":23877.00},
+			"2019-08": {"total":23887.00, "GRANTS TO EXTERNAL ORGANISATIONS":23887.00},
+			"2020-02": {"total":23887.00, "GRANTS TO EXTERNAL ORGANISATIONS":23887.00}
+		}
+	},
+	"4969": {
+		"name": "THE AIRE CENTRE",
+		"total": 5000,
+		"monthly": {
+			"2020-02": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00}
+		}
+	},
+	"4970": {
+		"name": "THE ALBANY",
+		"total": 352.92,
+		"monthly": {
+			"2019-02": {"total":352.92, "EXTERNAL MEETING ROOM HIRE & EXPENSES":352.92}
+		}
+	},
+	"4971": {
+		"name": "THE ALUNA FOUNDATION",
+		"total": 30000,
+		"monthly": {
+			"2014-04": {"total":30000.00, "Grants to External Organisations":30000.00}
+		}
+	},
+	"4972": {
+		"name": "THE ARCHBISHOP LNAFRANC ACADEMY",
+		"total": 41333,
+		"monthly": {
+			"2018-09": {"total":16333.00, "GRANTS TO EXTERNAL ORGANISATIONS":16333.00},
+			"2019-05": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00}
+		}
+	},
+	"4973": {
+		"name": "THE ARCHITECTURE FOUNDATION",
+		"total": 36650,
+		"monthly": {
+			"2013-04": {"total":4600.00, "Consultancy-Project Management":4600.00},
+			"2013-05": {"total":28450.00, "Consultancy-Project Management":28450.00},
+			"2014-06": {"total":3600.00, "Consultancy-Project Management":3600.00}
+		}
+	},
+	"4974": {
+		"name": "THE ART ACADEMY",
+		"total": 12500,
+		"monthly": {
+			"2018-02": {"total":12500.00, "GRANTS TO EXTERNAL ORGANISATIONS":12500.00}
+		}
+	},
+	"4975": {
+		"name": "THE ARTWORKS CLASSROOMS",
+		"total": 2836.2,
+		"monthly": {
+			"2019-07": {"total":1167.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":1167.00},
+			"2019-12": {"total":465.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":465.00},
+			"2020-01": {"total":750.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":300.00, "OTHER PROFESSIONAL FEES":450.00},
+			"2020-05": {"total":454.20, "EXTERNAL MEETING ROOM HIRE & EXPENSES":454.20}
+		}
+	},
+	"4976": {
+		"name": "THE ASSOC FOR DECENTRALISED ENERGY",
+		"total": 1230,
+		"monthly": {
+			"2019-07": {"total":1230.00, "PUBLICATIONS & PERIODICALS":1230.00}
+		}
+	},
+	"4977": {
+		"name": "THE AUDIENCE AGENCY",
+		"total": 106558.5,
+		"monthly": {
+			"2017-12": {"total":6500.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":6500.00},
+			"2018-02": {"total":15000.00, "CONSULTANCY  EVALUATION ASSESSMENT":15000.00},
+			"2018-03": {"total":3000.00, "OTHER PROFESSIONAL FEES":3000.00},
+			"2018-04": {"total":2100.00, "OTHER PROFESSIONAL FEES":2100.00},
+			"2018-05": {"total":7750.00, "OTHER PROFESSIONAL FEES":7750.00},
+			"2019-02": {"total":5000.00, "OTHER PROFESSIONAL FEES":5000.00},
+			"2019-05": {"total":15750.00, "OTHER PROFESSIONAL FEES":15750.00},
+			"2019-07": {"total":8250.00, "OTHER PROFESSIONAL FEES":8250.00},
+			"2019-08": {"total":4988.75, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4988.75},
+			"2019-09": {"total":4988.75, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4988.75},
+			"2019-10": {"total":20900.00, "CONSULTANCY  EVALUATION ASSESSMENT":20900.00},
+			"2019-12": {"total":4750.00, "CONSULTANCY  EVALUATION ASSESSMENT":4750.00},
+			"2020-03": {"total":7581.00, "CONSULTANCY  EVALUATION ASSESSMENT":7581.00}
+		}
+	},
+	"4978": {
+		"name": "THE BAYTREE CENTRE",
+		"total": 24000,
+		"monthly": {
+			"2020-04": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00}
+		}
+	},
+	"4979": {
+		"name": "THE BERKELEY GROUP PLC",
+		"total": 6495,
+		"monthly": {
+			"2014-11": {"total":6495.00, "PRINTING FOR MARKETING MATERIALS":6495.00}
+		}
+	},
+	"4980": {
+		"name": "THE BERMONDSEY SQUARE HOTEL",
+		"total": 760,
+		"monthly": {
+			"2020-02": {"total":760.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":760.00}
+		}
+	},
+	"4981": {
+		"name": "THE BIG LOTTERY FUND",
+		"total": 7726,
+		"monthly": {
+			"2015-09": {"total":7726.00, "GRANTS TO EXTERNAL ORGANISATIONS":7726.00}
+		}
+	},
+	"4982": {
+		"name": "THE BIKE PROJECT",
+		"total": 12000,
+		"monthly": {
+			"2018-12": {"total":8000.00, "GRANTS TO EXTERNAL ORGANISATIONS":8000.00},
+			"2019-04": {"total":2000.00, "GRANTS TO EXTERNAL ORGANISATIONS":2000.00},
+			"2020-04": {"total":2000.00, "GRANTS TO EXTERNAL ORGANISATIONS":2000.00}
+		}
+	},
+	"4983": {
+		"name": "THE BOOK SERVICE (GRANTHAM)",
+		"total": 2666.67,
+		"monthly": {
+			"2019-02": {"total":2666.67, "OTHER PROFESSIONAL FEES":2666.67}
+		}
+	},
+	"4984": {
+		"name": "THE BOSTON CONSULTING GROUP UK LLP",
+		"total": 57194.14,
+		"monthly": {
+			"2014-03": {"total":9532.36, "Seconded Staff":9532.36},
+			"2014-04": {"total":6884.48, "Seconded Staff - Non Group":6884.48},
+			"2014-05": {"total":6884.48, "Seconded Staff":6884.48},
+			"2014-06": {"total":6884.48, "Seconded Staff":6884.48},
+			"2014-07": {"total":6884.48, "SECONDED STAFF":6884.48},
+			"2014-08": {"total":6884.48, "SECONDED STAFF":6884.48},
+			"2014-09": {"total":6884.48, "SECONDED STAFF":6884.48},
+			"2014-10": {"total":6354.90, "SECONDED STAFF":6354.90}
+		}
+	},
+	"4985": {
 		"name": "THE BRITISH COUNCIL",
 		"total": 510,
 		"monthly": {
 			"2013-04": {"total":510.00, "Staff Training":510.00}
 		}
 	},
-	"4951": {
+	"4986": {
 		"name": "THE BRITISH CYCLING FEDERATION",
 		"total": 70000,
 		"monthly": {
@@ -21,7 +480,7 @@
 			"2019-03": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00}
 		}
 	},
-	"4952": {
+	"4987": {
 		"name": "THE BRITISH LIBRARY",
 		"total": 19500,
 		"monthly": {
@@ -30,28 +489,28 @@
 			"2019-04": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00}
 		}
 	},
-	"4953": {
+	"4988": {
 		"name": "THE BRIXTON POUND",
 		"total": 4000,
 		"monthly": {
 			"2018-05": {"total":4000.00, "GRANTS TO EXTERNAL ORGANISATIONS":4000.00}
 		}
 	},
-	"4954": {
+	"4989": {
 		"name": "THE BUILDER TRAINING CENTRE",
 		"total": 2446,
 		"monthly": {
 			"2018-12": {"total":2446.00, "STAFF TRAINING":2446.00}
 		}
 	},
-	"4955": {
+	"4990": {
 		"name": "THE BUILDING EXPLORATORY",
 		"total": 4000,
 		"monthly": {
 			"2013-04": {"total":4000.00, "Grants to External Organisations":4000.00}
 		}
 	},
-	"4956": {
+	"4991": {
 		"name": "THE BUSINESS OF CITIES LTD",
 		"alternate-names": [
 			"THE BUSINESS OF CITIES LIMITED"
@@ -65,21 +524,21 @@
 			"2017-07": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00}
 		}
 	},
-	"4957": {
+	"4992": {
 		"name": "THE CAMDEN SOCIETY",
 		"total": 731.7,
 		"monthly": {
 			"2015-04": {"total":731.70, "CATERERS SERVICE CHARGES":731.70}
 		}
 	},
-	"4958": {
+	"4993": {
 		"name": "THE CAMPAIGN COMPANY (TCC)",
 		"total": 10000,
 		"monthly": {
 			"2017-04": {"total":10000.00, "RESEARCH & STUDY FEES":10000.00}
 		}
 	},
-	"4959": {
+	"4994": {
 		"name": "THE CANVAS CAFE",
 		"total": 12000,
 		"monthly": {
@@ -87,14 +546,14 @@
 			"2020-04": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00}
 		}
 	},
-	"4960": {
+	"4995": {
 		"name": "THE CAREERS AND ENTERPRISE CO. LTD",
 		"total": 35000,
 		"monthly": {
 			"2019-12": {"total":35000.00, "GRANTS TO EXTERNAL ORGANISATIONS":35000.00}
 		}
 	},
-	"4961": {
+	"4996": {
 		"name": "THE CARLSBERG TETLEY PROJECT LTD",
 		"total": 465576.33,
 		"monthly": {
@@ -107,7 +566,7 @@
 			"2019-12": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00}
 		}
 	},
-	"4962": {
+	"4997": {
 		"name": "THE CARPENTRY CLUB",
 		"total": 9500,
 		"monthly": {
@@ -116,7 +575,7 @@
 			"2017-03": {"total":2369.04, "GRANTS TO EXTERNAL ORGANISATIONS":2369.04}
 		}
 	},
-	"4963": {
+	"4998": {
 		"name": "THE CENTRE FOR YOUTH IMPACT",
 		"total": 154910,
 		"monthly": {
@@ -126,7 +585,7 @@
 			"2020-04": {"total":250.00, "CONSULTANCY-PROJECT MANAGEMENT":250.00}
 		}
 	},
-	"4964": {
+	"4999": {
 		"name": "THE CHALLENGE NETWORK",
 		"total": 617234.25,
 		"monthly": {
@@ -148,318 +607,6 @@
 			"2019-03": {"total":7936.00, "GRANTS TO EXTERNAL ORGANISATIONS":7936.00},
 			"2019-10": {"total":51250.00, "GRANTS TO EXTERNAL ORGANISATIONS":51250.00},
 			"2020-02": {"total":11250.00, "GRANTS TO EXTERNAL ORGANISATIONS":11250.00}
-		}
-	},
-	"4965": {
-		"name": "THE CHANGE COLLECTIVE",
-		"total": 500,
-		"monthly": {
-			"2016-11": {"total":500.00, "STAFF TRAINING":500.00}
-		}
-	},
-	"4966": {
-		"name": "THE CHANGE FOUNDATION",
-		"total": 96303,
-		"monthly": {
-			"2014-08": {"total":1303.00, "GRANTS TO EXTERNAL ORGANISATIONS":1303.00},
-			"2019-08": {"total":21685.00, "GRANTS TO EXTERNAL ORGANISATIONS":21685.00},
-			"2019-09": {"total":54626.00, "GRANTS TO EXTERNAL ORGANISATIONS":54626.00},
-			"2020-03": {"total":18689.00, "GRANTS TO EXTERNAL ORGANISATIONS":18689.00}
-		}
-	},
-	"4967": {
-		"name": "THE CHILDREN EVENTS PROFESSIONALS",
-		"total": 599.02,
-		"monthly": {
-			"2015-09": {"total":599.02, "OTHER PROFESSIONAL FEES":599.02}
-		}
-	},
-	"4968": {
-		"name": "THE CITY OF TORONTO",
-		"total": 10490.09,
-		"monthly": {
-			"2018-07": {"total":10490.09, "GRANTS TO EXTERNAL ORGANISATIONS":10490.09}
-		}
-	},
-	"4969": {
-		"name": "THE CLINK EVENTS",
-		"total": 4870,
-		"monthly": {
-			"2019-09": {"total":4870.00, "CATERERS SERVICE CHARGES":4870.00}
-		}
-	},
-	"4970": {
-		"name": "THE CLINK RESTAURANT",
-		"total": 606.25,
-		"monthly": {
-			"2015-04": {"total":606.25, "EXTERNAL MEETING ROOM HIRE & EXPENSES":606.25}
-		}
-	},
-	"4971": {
-		"name": "THE CLORE LEADERSHIP PROGRAMME",
-		"total": 3800,
-		"monthly": {
-			"2015-09": {"total":1800.00, "STAFF TRAINING":1800.00},
-			"2019-05": {"total":2000.00, "OTHER PROFESSIONAL FEES":2000.00}
-		}
-	},
-	"4972": {
-		"name": "THE CO-OPERATIVE BUSINESS TELECOMS",
-		"total": 5950,
-		"monthly": {
-			"2016-03": {"total":5950.00, "GRANTS TO EXTERNAL ORGANISATIONS":5950.00}
-		}
-	},
-	"4973": {
-		"name": "THE CO-SPONSORSHIP AGENCY LTD",
-		"total": 8332.5,
-		"monthly": {
-			"2015-04": {"total":8332.50, "GRANTS TO EXTERNAL ORGANISATIONS":8332.50}
-		}
-	},
-	"4974": {
-		"name": "THE COGENCY LTD",
-		"total": 16510.77,
-		"monthly": {
-			"2019-12": {"total":1510.77, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":1510.77},
-			"2020-04": {"total":15000.00, "OTHER PROFESSIONAL FEES":15000.00}
-		}
-	},
-	"4975": {
-		"name": "THE COLLABORATION LONDON LTD",
-		"total": 291.67,
-		"monthly": {
-			"2019-10": {"total":291.67, "CATERERS SERVICE CHARGES":291.67}
-		}
-	},
-	"4976": {
-		"name": "THE COLLEGE OF ESTATE MANAGEMENT",
-		"total": 18186,
-		"monthly": {
-			"2013-06": {"total":1460.00, "Staff Training":1460.00},
-			"2013-08": {"total":6380.00, "Staff Training":6380.00},
-			"2014-02": {"total":4160.00, "Staff Training":4160.00},
-			"2014-09": {"total":1720.00, "STAFF TRAINING":1720.00},
-			"2018-12": {"total":2030.00, "STAFF TRAINING":2030.00},
-			"2019-06": {"total":406.00, "STAFF TRAINING":406.00},
-			"2019-10": {"total":2030.00, "STAFF TRAINING":2030.00}
-		}
-	},
-	"4977": {
-		"name": "THE COMMS GUYS LTD",
-		"total": 142140,
-		"monthly": {
-			"2014-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-01": {"total":18760.00, "Development & Environment":18760.00},
-			"2015-02": {"total":11800.00, "Development & Environment":11800.00},
-			"2015-03": {"total":22060.00, "GRANTS TO EXTERNAL ORGANISATIONS":22060.00},
-			"2015-04": {"total":8060.00, "GRANTS TO EXTERNAL ORGANISATIONS":8060.00},
-			"2015-05": {"total":4840.00, "GRANTS TO EXTERNAL ORGANISATIONS":4840.00},
-			"2015-07": {"total":24420.00, "GRANTS TO EXTERNAL ORGANISATIONS":24420.00},
-			"2015-08": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-09": {"total":1200.00, "GRANTS TO EXTERNAL ORGANISATIONS":1200.00},
-			"2015-11": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00},
-			"2016-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2016-05": {"total":18000.00, "Communities and Intelligence":3000.00, "Development & Environment":6000.00, "Resources":9000.00}
-		}
-	},
-	"4978": {
-		"name": "THE COMMUNITY BRAIN CIC",
-		"total": 27549.28,
-		"monthly": {
-			"2016-02": {"total":3937.18, "GRANTS TO EXTERNAL ORGANISATIONS":3937.18},
-			"2016-03": {"total":11435.30, "GRANTS TO EXTERNAL ORGANISATIONS":11435.30},
-			"2016-04": {"total":7176.80, "Development & Environment":7176.80},
-			"2018-04": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00}
-		}
-	},
-	"4979": {
-		"name": "THE COMMUNITY WELL LTD",
-		"total": 320,
-		"monthly": {
-			"2020-03": {"total":320.00, "OTHER PROFESSIONAL FEES":320.00}
-		}
-	},
-	"4980": {
-		"name": "THE COMPTON SCHOOL",
-		"total": 171970,
-		"monthly": {
-			"2013-11": {"total":1050.00, "Consultants (Contractors)":1050.00},
-			"2014-02": {"total":19840.00, "Grants to External Organisations":19840.00},
-			"2014-04": {"total":19840.00, "Grants to External Organisations":19840.00},
-			"2014-08": {"total":19840.00, "GRANTS TO EXTERNAL ORGANISATIONS":19840.00},
-			"2014-11": {"total":19840.00, "GRANTS TO EXTERNAL ORGANISATIONS":19840.00},
-			"2015-03": {"total":30460.00, "GRANTS TO EXTERNAL ORGANISATIONS":30460.00},
-			"2015-11": {"total":11100.00, "GRANTS TO EXTERNAL ORGANISATIONS":11100.00},
-			"2016-05": {"total":25000.00, "Communities and Intelligence":25000.00},
-			"2017-03": {"total":12500.00, "GRANTS TO EXTERNAL ORGANISATIONS":12500.00},
-			"2018-01": {"total":12500.00, "GRANTS TO EXTERNAL ORGANISATIONS":12500.00}
-		}
-	},
-	"4981": {
-		"name": "THE CONNECTION AT ST MARTIN'S",
-		"total": 93319,
-		"monthly": {
-			"2017-04": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
-			"2018-12": {"total":12982.00, "GRANTS TO EXTERNAL ORGANISATIONS":12982.00},
-			"2019-04": {"total":26004.50, "GRANTS TO EXTERNAL ORGANISATIONS":26004.50},
-			"2019-08": {"total":12941.50, "GRANTS TO EXTERNAL ORGANISATIONS":12941.50},
-			"2020-02": {"total":26391.00, "GRANTS TO EXTERNAL ORGANISATIONS":26391.00}
-		}
-	},
-	"4982": {
-		"name": "THE CONSERVATION FOUNDATION",
-		"total": 36986.21,
-		"monthly": {
-			"2016-01": {"total":1000.00, "GRANTS TO EXTERNAL ORGANISATIONS":1000.00},
-			"2017-05": {"total":29872.00, "GRANTS TO EXTERNAL ORGANISATIONS":29872.00},
-			"2018-01": {"total":6114.21, "GRANTS TO EXTERNAL ORGANISATIONS":6114.21}
-		}
-	},
-	"4983": {
-		"name": "THE CONSERVATION VOLUNTEERS",
-		"total": 69350,
-		"monthly": {
-			"2013-09": {"total":3500.00, "Grants to External Organisations":3500.00},
-			"2014-02": {"total":8000.00, "Event Management Fee":1000.00, "Grants to External Organisations":7000.00},
-			"2014-06": {"total":5780.39, "GRANTS TO EXTERNAL ORGANISATIONS":5780.39},
-			"2014-08": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2014-11": {"total":3577.70, "GRANTS TO EXTERNAL ORGANISATIONS":3577.70},
-			"2015-01": {"total":5000.00, "Communities and Intelligence":5000.00},
-			"2015-02": {"total":2903.63, "Development & Environment":2903.63},
-			"2015-04": {"total":13088.28, "GRANTS TO EXTERNAL ORGANISATIONS":13088.28},
-			"2015-11": {"total":4000.00, "GRANTS TO EXTERNAL ORGANISATIONS":4000.00},
-			"2016-03": {"total":500.00, "GRANTS TO EXTERNAL ORGANISATIONS":500.00},
-			"2018-04": {"total":20000.00, "GRANTS TO EXTERNAL ORGANISATIONS":20000.00}
-		}
-	},
-	"4984": {
-		"name": "THE CONSULTANCY HOME COUNTIES LTD",
-		"total": 872923.65,
-		"monthly": {
-			"2019-09": {"total":28684.98, "MISCELLANEOUS COSTS":28684.98},
-			"2019-10": {"total":27993.59, "MISCELLANEOUS COSTS":27993.59},
-			"2019-11": {"total":83940.57, "MISCELLANEOUS COSTS":83940.57},
-			"2019-12": {"total":56229.51, "MISCELLANEOUS COSTS":56229.51},
-			"2020-01": {"total":112539.04, "MISCELLANEOUS COSTS":112539.04},
-			"2020-02": {"total":77667.05, "MISCELLANEOUS COSTS":77667.05},
-			"2020-03": {"total":100389.07, "MISCELLANEOUS COSTS":100389.07},
-			"2020-04": {"total":97851.50, "MISCELLANEOUS COSTS":97851.50},
-			"2020-05": {"total":287628.34, "MISCELLANEOUS COSTS":287628.34}
-		}
-	},
-	"4985": {
-		"name": "THE COOK & BUTLER EVENT COMPANY",
-		"total": 744,
-		"monthly": {
-			"2020-05": {"total":744.00, "REFRESHMENTS/MEALS AT MEETINGS":744.00}
-		}
-	},
-	"4986": {
-		"name": "THE COOK & THE BUTLER EVENT COMPANY",
-		"total": 500,
-		"monthly": {
-			"2018-03": {"total":500.00, "CATERERS SERVICE CHARGES":500.00}
-		}
-	},
-	"4987": {
-		"name": "THE COURTAULD",
-		"total": 679,
-		"monthly": {
-			"2016-01": {"total":679.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":679.00}
-		}
-	},
-	"4988": {
-		"name": "THE COURTAULD INSTITUTE OF ART",
-		"total": 600,
-		"monthly": {
-			"2015-11": {"total":600.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":600.00}
-		}
-	},
-	"4989": {
-		"name": "THE CREWING CO",
-		"total": 2720,
-		"monthly": {
-			"2013-04": {"total":2720.00, "Photography & Video":2720.00}
-		}
-	},
-	"4990": {
-		"name": "THE CRYSTAL",
-		"total": 450,
-		"monthly": {
-			"2016-01": {"total":450.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":450.00}
-		}
-	},
-	"4991": {
-		"name": "THE DAISY CHAINS",
-		"total": 823,
-		"monthly": {
-			"2016-10": {"total":823.00, "OTHER PROFESSIONAL FEES":823.00}
-		}
-	},
-	"4992": {
-		"name": "THE DECORATORS",
-		"total": 2400,
-		"monthly": {
-			"2016-06": {"total":300.00, "PLANNING & DEVELOPMENT CONSULTANCY":300.00},
-			"2017-01": {"total":1400.00, "PLANNING & DEVELOPMENT CONSULTANCY":1400.00},
-			"2017-04": {"total":700.00, "PLANNING & DEVELOPMENT CONSULTANCY":700.00}
-		}
-	},
-	"4993": {
-		"name": "THE DECORATORS ART & ARCHITECTURE",
-		"total": 500,
-		"monthly": {
-			"2014-07": {"total":500.00, "GRANTS TO EXTERNAL ORGANISATIONS":500.00}
-		}
-	},
-	"4994": {
-		"name": "THE DESIGN AND TECHNOLOGY ASSOCIAT",
-		"alternate-names": [
-			"THE DESIGN AND TECHNOLOGY ASSOCIAT."
-		],
-		"total": 500000,
-		"monthly": {
-			"2014-03": {"total":100000.00, "Grants to External Organisations":100000.00},
-			"2014-07": {"total":75000.00, "GRANTS TO EXTERNAL ORGANISATIONS":75000.00},
-			"2014-08": {"total":100000.00, "GRANTS TO EXTERNAL ORGANISATIONS":100000.00},
-			"2014-11": {"total":100000.00, "GRANTS TO EXTERNAL ORGANISATIONS":100000.00},
-			"2015-04": {"total":125000.00, "GRANTS TO EXTERNAL ORGANISATIONS":125000.00}
-		}
-	},
-	"4995": {
-		"name": "THE DESIGN CABIN LTD",
-		"total": 283.2,
-		"monthly": {
-
-		}
-	},
-	"4996": {
-		"name": "THE DIANA AWARD",
-		"total": 20000,
-		"monthly": {
-			"2020-04": {"total":20000.00, "GRANTS TO EXTERNAL ORGANISATIONS":20000.00}
-		}
-	},
-	"4997": {
-		"name": "THE DOCUMENT CENTRE",
-		"total": 735,
-		"monthly": {
-			"2013-12": {"total":735.00, "Publications & Publicity Material":735.00}
-		}
-	},
-	"4998": {
-		"name": "THE ECOLOGY CONSULTANCY",
-		"total": 11980,
-		"monthly": {
-			"2017-04": {"total":11980.00, "RESEARCH & STUDY FEES":11980.00}
-		}
-	},
-	"4999": {
-		"name": "THE ECONOMIST SUBSCRIPTION CENTRE (",
-		"total": 544,
-		"monthly": {
-			"2014-01": {"total":544.00, "Staff Training":544.00}
 		}
 	}
 	}

@@ -1,7 +1,589 @@
 {
-	"range": ["2013-04","2020-05"],
+	"range": ["2013-04","2020-07"],
 	"data": {
 	"5550": {
+		"name": "VENUE OPTIONS",
+		"total": 609,
+		"monthly": {
+			"2016-06": {"total":609.00, "OFFICE CLEANING":609.00}
+		}
+	},
+	"5551": {
+		"name": "VENUE SEARCH LONDON / STORY EVENTS",
+		"total": 3000,
+		"monthly": {
+			"2020-01": {"total":3000.00, "OTHER PROFESSIONAL FEES":3000.00}
+		}
+	},
+	"5552": {
+		"name": "VENUS BUSINESS COMMUNICATIONS",
+		"total": 868804.67,
+		"monthly": {
+			"2014-05": {"total":2218.65, "Grants to External Organisations":2218.65},
+			"2014-06": {"total":3000.00, "Grants to External Organisations":3000.00},
+			"2014-07": {"total":39331.02, "GRANTS TO EXTERNAL ORGANISATIONS":39331.02},
+			"2014-08": {"total":26400.00, "GRANTS TO EXTERNAL ORGANISATIONS":26400.00},
+			"2014-09": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2014-10": {"total":19000.00, "GRANTS TO EXTERNAL ORGANISATIONS":19000.00},
+			"2014-11": {"total":19800.00, "GRANTS TO EXTERNAL ORGANISATIONS":19800.00},
+			"2014-12": {"total":26450.00, "GRANTS TO EXTERNAL ORGANISATIONS":26450.00},
+			"2015-01": {"total":67500.00, "Development & Environment":67500.00},
+			"2015-02": {"total":49150.00, "Development & Environment":49150.00},
+			"2015-03": {"total":47025.00, "GRANTS TO EXTERNAL ORGANISATIONS":47025.00},
+			"2015-04": {"total":36800.00, "GRANTS TO EXTERNAL ORGANISATIONS":36800.00},
+			"2015-05": {"total":30600.00, "GRANTS TO EXTERNAL ORGANISATIONS":30600.00},
+			"2015-07": {"total":9800.00, "GRANTS TO EXTERNAL ORGANISATIONS":9800.00},
+			"2015-08": {"total":49550.00, "GRANTS TO EXTERNAL ORGANISATIONS":49550.00},
+			"2015-09": {"total":93500.00, "GRANTS TO EXTERNAL ORGANISATIONS":93500.00},
+			"2015-10": {"total":64430.00, "GRANTS TO EXTERNAL ORGANISATIONS":64430.00},
+			"2015-11": {"total":21300.00, "GRANTS TO EXTERNAL ORGANISATIONS":21300.00},
+			"2015-12": {"total":22500.00, "GRANTS TO EXTERNAL ORGANISATIONS":22500.00},
+			"2016-01": {"total":57450.00, "GRANTS TO EXTERNAL ORGANISATIONS":57450.00},
+			"2016-02": {"total":24300.00, "GRANTS TO EXTERNAL ORGANISATIONS":24300.00},
+			"2016-03": {"total":42300.00, "GRANTS TO EXTERNAL ORGANISATIONS":42300.00},
+			"2016-04": {"total":30300.00, "Development & Environment":30300.00},
+			"2016-05": {"total":13800.00, "Communities and Intelligence":2700.00, "Corporate Management":2700.00, "Development & Environment":3000.00, "Resources":5400.00},
+			"2016-06": {"total":24600.00, "GRANTS TO EXTERNAL ORGANISATIONS":24600.00},
+			"2016-07": {"total":5400.00, "GRANTS TO EXTERNAL ORGANISATIONS":5400.00},
+			"2016-08": {"total":16200.00, "GRANTS TO EXTERNAL ORGANISATIONS":16200.00},
+			"2016-09": {"total":8400.00, "GRANTS TO EXTERNAL ORGANISATIONS":8400.00},
+			"2016-11": {"total":2700.00, "GRANTS TO EXTERNAL ORGANISATIONS":2700.00}
+		}
+	},
+	"5553": {
+		"name": "VEOLIA ES (UK) PLC",
+		"total": 3529779.31,
+		"monthly": {
+			"2013-04": {"total":27297.39, "EQUIPMENT REPAIRS & MAINTENANCE":1584.97, "Property Management Fees":25712.42},
+			"2013-05": {"total":17127.00, "Property Management Fees":17127.00},
+			"2013-06": {"total":33221.39, "Property Management Fees":33221.39},
+			"2013-07": {"total":6061.35, "Property Management Fees":6061.35},
+			"2013-08": {"total":16424.30, "Equipment Repairs & Maintenance":634.58, "Office Cleaning":4363.91, "Property Management Fees":11425.81},
+			"2013-10": {"total":179016.48, "Property Management Fees":179016.48},
+			"2013-11": {"total":41045.00, "Property Management Fees":41045.00},
+			"2013-12": {"total":73990.98, "Property Management Fees":73990.98},
+			"2014-01": {"total":61191.78, "Equipment Repairs & Maintenance":1519.62, "Property Management Fees":59672.16},
+			"2014-02": {"total":79168.52, "Property Management Fees":79168.52},
+			"2014-03": {"total":70229.50, "Property Management Fees":70229.50},
+			"2014-04": {"total":67954.52, "Property Management Fees":67954.52},
+			"2014-05": {"total":925.29, "Equipment Repairs & Maintenance":925.29},
+			"2014-06": {"total":69498.78, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":852.29, "PROPERTY MANAGEMENT FEES":30671.00, "Property Management Fees":37975.49},
+			"2014-07": {"total":30671.49, "PROPERTY MANAGEMENT FEES":30671.49},
+			"2014-08": {"total":36237.71, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":788.95, "PROPERTY MANAGEMENT FEES":35448.76},
+			"2014-09": {"total":35554.63, "PROPERTY MANAGEMENT FEES":35554.63},
+			"2014-10": {"total":33671.49, "PROPERTY MANAGEMENT FEES":33671.49},
+			"2014-11": {"total":33947.95, "PROPERTY MANAGEMENT FEES":33947.95},
+			"2014-12": {"total":51625.06, "PROPERTY MANAGEMENT FEES":51625.06},
+			"2015-01": {"total":34479.46, "Resources":34479.46},
+			"2015-02": {"total":71759.46, "Resources":71759.46},
+			"2015-04": {"total":36780.04, "PROPERTY MANAGEMENT FEES":36780.04},
+			"2015-05": {"total":19446.64, "PROPERTY MANAGEMENT FEES":19446.64},
+			"2015-06": {"total":61273.21, "PROPERTY MANAGEMENT FEES":61273.21},
+			"2015-08": {"total":1694.00, "PROPERTY MANAGEMENT FEES":1694.00},
+			"2015-09": {"total":64954.70, "EQUIPMENT REPAIRS & MAINTENANCE":2875.60, "PROPERTY MANAGEMENT FEES":62079.10},
+			"2015-10": {"total":35062.15, "PROPERTY MANAGEMENT FEES":35062.15},
+			"2015-11": {"total":4371.21, "PROPERTY MANAGEMENT FEES":4371.21},
+			"2015-12": {"total":49290.01, "PROPERTY MANAGEMENT FEES":49290.01},
+			"2016-01": {"total":31039.55, "PROPERTY MANAGEMENT FEES":31039.55},
+			"2016-02": {"total":42258.23, "PROPERTY MANAGEMENT FEES":42258.23},
+			"2016-03": {"total":31368.95, "PROPERTY MANAGEMENT FEES":31368.95},
+			"2016-04": {"total":31039.55, "Resources":31039.55},
+			"2016-05": {"total":6107.58, "Resources":6107.58},
+			"2016-06": {"total":73058.10, "PROPERTY MANAGEMENT FEES":73058.10},
+			"2016-07": {"total":38910.13, "PROPERTY MANAGEMENT FEES":38910.13},
+			"2016-08": {"total":51123.88, "PROPERTY MANAGEMENT FEES":51123.88},
+			"2016-09": {"total":31474.10, "PROPERTY MANAGEMENT FEES":31474.10},
+			"2016-10": {"total":36570.10, "PROPERTY MANAGEMENT FEES":36570.10},
+			"2016-11": {"total":34693.74, "PROPERTY MANAGEMENT FEES":34693.74},
+			"2016-12": {"total":36054.24, "PROPERTY MANAGEMENT FEES":36054.24},
+			"2017-01": {"total":53659.61, "ELECTRICITY":12010.76, "PROPERTY MANAGEMENT FEES":41648.85},
+			"2017-02": {"total":2936.33, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":2936.33},
+			"2017-03": {"total":89207.17, "PROPERTY MANAGEMENT FEES":89207.17},
+			"2017-04": {"total":38387.98, "PROPERTY MANAGEMENT FEES":38387.98},
+			"2017-05": {"total":41232.68, "PROPERTY MANAGEMENT FEES":41232.68},
+			"2017-06": {"total":34860.37, "PROPERTY MANAGEMENT FEES":34860.37},
+			"2017-07": {"total":35235.39, "PROPERTY MANAGEMENT FEES":35235.39},
+			"2017-10": {"total":64773.70, "PROPERTY MANAGEMENT FEES":64773.70},
+			"2017-11": {"total":136206.80, "ELECTRICITY":741.76, "PROPERTY MANAGEMENT FEES":135465.04},
+			"2018-01": {"total":34815.97, "PROPERTY MANAGEMENT FEES":34815.97},
+			"2018-02": {"total":11120.44, "ELECTRICITY":741.76, "PROPERTY MANAGEMENT FEES":10378.68},
+			"2018-03": {"total":71434.30, "PROPERTY MANAGEMENT FEES":71434.30},
+			"2018-04": {"total":7449.34, "ELECTRICITY":741.76, "PROPERTY MANAGEMENT FEES":6707.58},
+			"2018-05": {"total":32386.85, "PROPERTY MANAGEMENT FEES":32386.85},
+			"2018-06": {"total":73724.57, "BUILDING MAINTENANCE & REPAIRS":2473.52, "PROPERTY MANAGEMENT FEES":71251.05},
+			"2018-07": {"total":33682.32, "PROPERTY MANAGEMENT FEES":33682.32},
+			"2018-08": {"total":52180.44, "PROPERTY MANAGEMENT FEES":52180.44},
+			"2018-09": {"total":42804.38, "PROPERTY MANAGEMENT FEES":42804.38},
+			"2018-10": {"total":37625.68, "PROPERTY MANAGEMENT FEES":37625.68},
+			"2018-11": {"total":37158.98, "PROPERTY MANAGEMENT FEES":37158.98},
+			"2018-12": {"total":34424.08, "ELECTRICITY":741.76, "PROPERTY MANAGEMENT FEES":33682.32},
+			"2019-01": {"total":32952.28, "HORTICULTURAL EXPENSES":32952.28},
+			"2019-02": {"total":67364.64, "PROPERTY MANAGEMENT FEES":67364.64},
+			"2019-03": {"total":46098.89, "PROPERTY MANAGEMENT FEES":46098.89},
+			"2019-05": {"total":51302.16, "EVENT MANAGEMENT FEE":6107.58, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":11512.26, "PROPERTY MANAGEMENT FEES":33682.32},
+			"2019-06": {"total":37050.56, "PROPERTY MANAGEMENT FEES":37050.56},
+			"2019-07": {"total":77539.56, "EVENT MANAGEMENT FEE":4883.70, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":1133.58, "OFFICE CLEANING":2473.52, "PROPERTY MANAGEMENT FEES":69048.76},
+			"2019-08": {"total":43646.98, "PROPERTY MANAGEMENT FEES":43646.98},
+			"2019-09": {"total":34524.38, "PROPERTY MANAGEMENT FEES":34524.38},
+			"2019-10": {"total":34524.38, "PROPERTY MANAGEMENT FEES":34524.38},
+			"2019-11": {"total":34524.38, "PROPERTY MANAGEMENT FEES":34524.38},
+			"2019-12": {"total":38504.62, "EVENT MANAGEMENT FEE":3411.64, "HORTICULTURAL EXPENSES":568.60, "PROPERTY MANAGEMENT FEES":34524.38},
+			"2020-01": {"total":44260.75, "PROPERTY MANAGEMENT FEES":44260.75},
+			"2020-02": {"total":38823.36, "PROPERTY MANAGEMENT FEES":38823.36},
+			"2020-03": {"total":34524.38, "PROPERTY MANAGEMENT FEES":34524.38},
+			"2020-04": {"total":41409.07, "PROPERTY MANAGEMENT FEES":41409.07},
+			"2020-05": {"total":10378.68, "EVENT MANAGEMENT FEE":10378.68},
+			"2020-06": {"total":35491.06, "PROPERTY MANAGEMENT FEES":35491.06},
+			"2020-07": {"total":73882.16, "PROPERTY MANAGEMENT FEES":73882.16}
+		}
+	},
+	"5554": {
+		"name": "VERCO ADVISORY SERVICES LTD",
+		"total": 89459,
+		"monthly": {
+			"2013-04": {"total":35769.00, "Management & Support Consultancy":35769.00},
+			"2013-05": {"total":10000.00, "Management & Support Consultancy":10000.00},
+			"2013-07": {"total":9930.00, "Management & Support Consultancy":9930.00},
+			"2013-08": {"total":10000.00, "Management & Support Consultancy":10000.00},
+			"2019-11": {"total":7920.00, "MANAGEMENT & SUPPORT CONSULTANCY":7920.00},
+			"2020-03": {"total":7920.00, "MANAGEMENT & SUPPORT CONSULTANCY":7920.00},
+			"2020-04": {"total":7920.00, "MANAGEMENT & SUPPORT CONSULTANCY":7920.00}
+		}
+	},
+	"5555": {
+		"name": "VERSAPAK INTERNATIONAL LTD",
+		"total": 253.6,
+		"monthly": {
+			"2016-05": {"total":253.60, "Resources":253.60}
+		}
+	},
+	"5556": {
+		"name": "VETERANS AID",
+		"total": 2043975.76,
+		"monthly": {
+			"2014-02": {"total":77733.34, "Grants to External Organisations":77733.34},
+			"2014-04": {"total":17133.33, "Grants to External Organisations":17133.33},
+			"2016-06": {"total":1320000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1320000.00},
+			"2018-04": {"total":342037.00, "GRANTS TO EXTERNAL ORGANISATIONS":30037.00, "HSG GRANTS TO REGISTERED PROVIDERS":312000.00},
+			"2018-06": {"total":73413.00, "HSG GRANTS TO REGISTERED PROVIDERS":73413.00},
+			"2018-07": {"total":15191.75, "GRANTS TO EXTERNAL ORGANISATIONS":15191.75},
+			"2018-10": {"total":15191.75, "GRANTS TO EXTERNAL ORGANISATIONS":15191.75},
+			"2019-01": {"total":15191.75, "GRANTS TO EXTERNAL ORGANISATIONS":15191.75},
+			"2019-03": {"total":105191.75, "GRANTS TO EXTERNAL ORGANISATIONS":105191.75},
+			"2019-04": {"total":909.09, "GRANTS TO EXTERNAL ORGANISATIONS":909.09},
+			"2019-11": {"total":30991.50, "GRANTS TO EXTERNAL ORGANISATIONS":30991.50},
+			"2020-01": {"total":15495.75, "GRANTS TO EXTERNAL ORGANISATIONS":15495.75},
+			"2020-03": {"total":15495.75, "GRANTS TO EXTERNAL ORGANISATIONS":15495.75}
+		}
+	},
+	"5557": {
+		"name": "VI-ABILITY EDUCATIONAL PROGRAMME",
+		"total": 35000,
+		"monthly": {
+			"2016-02": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
+			"2016-03": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00},
+			"2016-05": {"total":20000.00, "Resources":20000.00}
+		}
+	},
+	"5558": {
+		"name": "VIBOL MOEUNG",
+		"total": 9115.7,
+		"monthly": {
+			"2013-11": {"total":910.00, "Photography & Video":910.00},
+			"2014-09": {"total":2181.70, "OTHER PROFESSIONAL FEES":2181.70},
+			"2016-09": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2017-03": {"total":3024.00, "GRANTS TO EXTERNAL ORGANISATIONS":3024.00}
+		}
+	},
+	"5559": {
+		"name": "VICTORIA BUSINESS IMPROVEMENT DISTR",
+		"total": 50000,
+		"monthly": {
+			"2020-05": {"total":50000.00, "GRANTS TO EXTERNAL ORGANISATIONS":50000.00}
+		}
+	},
+	"5560": {
+		"name": "VICTORIA DALE",
+		"total": 5000,
+		"monthly": {
+			"2017-11": {"total":5000.00, "RESEARCH & STUDY FEES":5000.00}
+		}
+	},
+	"5561": {
+		"name": "VICTORIA HUTTON",
+		"total": 5664,
+		"monthly": {
+			"2018-10": {"total":5664.00, "LEGAL FEES":5664.00}
+		}
+	},
+	"5562": {
+		"name": "VIDAL-READ COMMUNICATIONS LTD",
+		"total": 825,
+		"monthly": {
+			"2020-04": {"total":825.00, "OTHER PROFESSIONAL FEES":825.00}
+		}
+	},
+	"5563": {
+		"name": "VIEW CREATIVE LTD",
+		"alternate-names": [
+			"VIEW CREATIVE LIMITED"
+		],
+		"total": 14198.5,
+		"monthly": {
+			"2016-09": {"total":430.00, "OTHER PROFESSIONAL FEES":430.00},
+			"2017-04": {"total":12298.50, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":12298.50},
+			"2017-06": {"total":990.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":990.00},
+			"2017-11": {"total":480.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":480.00}
+		}
+	},
+	"5564": {
+		"name": "VILLALBA LAWSON",
+		"total": 5802,
+		"monthly": {
+			"2014-08": {"total":2002.00, "PRINTING FOR MARKETING MATERIALS":2002.00},
+			"2014-10": {"total":3800.00, "PRINTING FOR MARKETING MATERIALS":3800.00}
+		}
+	},
+	"5565": {
+		"name": "VILLE DE BORDEAUX",
+		"total": 288795.25,
+		"monthly": {
+			"2017-01": {"total":100650.61, "GRANTS TO EXTERNAL ORGANISATIONS":100650.61},
+			"2017-06": {"total":30796.14, "GRANTS TO EXTERNAL ORGANISATIONS":30796.14},
+			"2018-06": {"total":35311.67, "RESEARCH & STUDY FEES":35311.67},
+			"2020-01": {"total":122036.83, "GRANTS TO EXTERNAL ORGANISATIONS":122036.83}
+		}
+	},
+	"5566": {
+		"name": "VINCENT EVANS PHOTOGRAPHER",
+		"total": 2875,
+		"monthly": {
+			"2015-12": {"total":2875.00, "PHOTOGRAPHY & VIDEO":2875.00}
+		}
+	},
+	"5567": {
+		"name": "VINSPIRED",
+		"total": 66666,
+		"monthly": {
+			"2018-04": {"total":33333.00, "OTHER PROFESSIONAL FEES":33333.00},
+			"2018-06": {"total":18333.00, "OTHER PROFESSIONAL FEES":18333.00},
+			"2018-09": {"total":15000.00, "OTHER PROFESSIONAL FEES":15000.00}
+		}
+	},
+	"5568": {
+		"name": "VIRGIN MEDIA BUSINESS LTD",
+		"alternate-names": [
+			"VIRGIN MEDIA BUSINESS LIMITED"
+		],
+		"total": 23406.24,
+		"monthly": {
+			"2014-08": {"total":2875.00, "GRANTS TO EXTERNAL ORGANISATIONS":2875.00},
+			"2014-10": {"total":20531.24, "GRANTS TO EXTERNAL ORGANISATIONS":20531.24}
+		}
+	},
+	"5569": {
+		"name": "VIRGIN MEDIA LTD",
+		"total": 1140450.79,
+		"monthly": {
+			"2014-11": {"total":8310.00, "GRANTS TO EXTERNAL ORGANISATIONS":8310.00},
+			"2014-12": {"total":2214.00, "GRANTS TO EXTERNAL ORGANISATIONS":2214.00},
+			"2015-01": {"total":34841.24, "Development & Environment":34841.24},
+			"2015-02": {"total":11672.42, "Development & Environment":11672.42},
+			"2015-03": {"total":17868.95, "GRANTS TO EXTERNAL ORGANISATIONS":17868.95},
+			"2015-04": {"total":33373.69, "GRANTS TO EXTERNAL ORGANISATIONS":33373.69},
+			"2015-05": {"total":8337.12, "GRANTS TO EXTERNAL ORGANISATIONS":8337.12},
+			"2015-08": {"total":87677.66, "GRANTS TO EXTERNAL ORGANISATIONS":87677.66},
+			"2015-09": {"total":78175.00, "GRANTS TO EXTERNAL ORGANISATIONS":78175.00},
+			"2015-10": {"total":111042.86, "GRANTS TO EXTERNAL ORGANISATIONS":111042.86},
+			"2015-11": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-01": {"total":19974.11, "GRANTS TO EXTERNAL ORGANISATIONS":19974.11},
+			"2016-04": {"total":103651.42, "Development & Environment":103651.42},
+			"2016-06": {"total":414751.87, "GRANTS TO EXTERNAL ORGANISATIONS":414751.87},
+			"2016-07": {"total":165102.00, "GRANTS TO EXTERNAL ORGANISATIONS":165102.00},
+			"2016-08": {"total":4869.45, "GRANTS TO EXTERNAL ORGANISATIONS":4869.45},
+			"2016-09": {"total":14656.00, "GRANTS TO EXTERNAL ORGANISATIONS":14656.00},
+			"2016-11": {"total":17933.00, "GRANTS TO EXTERNAL ORGANISATIONS":17933.00}
+		}
+	},
+	"5570": {
+		"name": "VIRIDIAN HOUSING",
+		"total": 4613283,
+		"monthly": {
+			"2013-04": {"total":72672.00, "HSG Grants to Registered Providers":72672.00},
+			"2013-12": {"total":43825.00, "HSG Grants to Registered Providers":43825.00},
+			"2014-02": {"total":67704.00, "HSG Grants to Registered Providers":67704.00},
+			"2014-03": {"total":48448.00, "HSG Grants to Registered Providers":48448.00},
+			"2015-02": {"total":780672.00, "Housing":780672.00},
+			"2015-03": {"total":490585.00, "HSG GRANTS TO REGISTERED PROVIDERS":490585.00},
+			"2015-07": {"total":198000.00, "HSG GRANTS TO REGISTERED PROVIDERS":198000.00},
+			"2015-12": {"total":357000.00, "HSG GRANTS TO REGISTERED PROVIDERS":357000.00},
+			"2016-03": {"total":172373.00, "HSG GRANTS TO REGISTERED PROVIDERS":172373.00},
+			"2017-01": {"total":198000.00, "HSG GRANTS TO REGISTERED PROVIDERS":198000.00},
+			"2017-04": {"total":189000.00, "HSG GRANTS TO REGISTERED PROVIDERS":189000.00},
+			"2017-07": {"total":1044104.00, "HSG GRANTS TO REGISTERED PROVIDERS":1044104.00},
+			"2018-02": {"total":498000.00, "HSG GRANTS TO REGISTERED PROVIDERS":498000.00},
+			"2018-03": {"total":452900.00, "HSG GRANTS TO REGISTERED PROVIDERS":452900.00}
+		}
+	},
+	"5571": {
+		"name": "VIROCOM LTD",
+		"total": 14828,
+		"monthly": {
+			"2015-05": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2015-08": {"total":2828.00, "GRANTS TO EXTERNAL ORGANISATIONS":2828.00},
+			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-06": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"5572": {
+		"name": "VIRTUAL1 LTD",
+		"alternate-names": [
+			"VIRTUAL1 LIMITED"
+		],
+		"total": 52800,
+		"monthly": {
+			"2015-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-07": {"total":5800.00, "GRANTS TO EXTERNAL ORGANISATIONS":5800.00},
+			"2015-08": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2015-10": {"total":20400.00, "GRANTS TO EXTERNAL ORGANISATIONS":20400.00},
+			"2015-11": {"total":5800.00, "GRANTS TO EXTERNAL ORGANISATIONS":5800.00},
+			"2016-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-04": {"total":5800.00, "Development & Environment":5800.00},
+			"2016-05": {"total":3000.00, "Development & Environment":3000.00}
+		}
+	},
+	"5573": {
+		"name": "VISION ON TRAINING LTD",
+		"total": 750,
+		"monthly": {
+			"2015-02": {"total":750.00, "Development & Environment":750.00}
+		}
+	},
+	"5574": {
+		"name": "VISION REDBRIDGE CULTURE & LEISURE",
+		"total": 111920,
+		"monthly": {
+			"2015-02": {"total":4820.00, "Development & Environment":4820.00},
+			"2016-03": {"total":2100.00, "GRANTS TO EXTERNAL ORGANISATIONS":2100.00},
+			"2016-04": {"total":105000.00, "Development & Environment":105000.00}
+		}
+	},
+	"5575": {
+		"name": "VISION UNIQUE EQUIPMENT LTD T/A VUE",
+		"total": 10128.05,
+		"monthly": {
+			"2018-02": {"total":10128.05, "GRANTS TO EXTERNAL ORGANISATIONS":10128.05}
+		}
+	},
+	"5576": {
+		"name": "VISIONSLIVE LTD",
+		"alternate-names": [
+			"VISIONSLIVE LIMITED"
+		],
+		"total": 760,
+		"monthly": {
+			"2020-06": {"total":760.00, "MANAGEMENT & SUPPORT CONSULTANCY":760.00}
+		}
+	},
+	"5577": {
+		"name": "VISIT BRITIAN",
+		"total": 16000,
+		"monthly": {
+			"2016-03": {"total":16000.00, "CONSULTANCY-PROJECT MANAGEMENT":16000.00}
+		}
+	},
+	"5578": {
+		"name": "VISUALISE",
+		"total": 2600,
+		"monthly": {
+			"2013-11": {"total":2600.00, "Grants to External Organisations":2600.00}
+		}
+	},
+	"5579": {
+		"name": "VITA HEALTH GROUP",
+		"total": 6639.6,
+		"monthly": {
+			"2020-02": {"total":2369.80, "STAFF WELFARE BENEFITS":2369.80},
+			"2020-03": {"total":834.90, "STAFF WELFARE BENEFITS":834.90},
+			"2020-06": {"total":834.90, "STAFF WELFARE BENEFITS":834.90},
+			"2020-07": {"total":2600.00, "STAFF MEDICAL INSURANCE & TREATMENT":2600.00}
+		}
+	},
+	"5580": {
+		"name": "VITAL ENERGI UTILITES LTD",
+		"total": 1246539.24,
+		"monthly": {
+			"2013-04": {"total":29693.34, "CONTRACTED SERVICES BUILDINGS":22645.00, "PROPERTY MANAGEMENT FEES":7048.34},
+			"2013-05": {"total":7217.50, "CONTRACTED SERVICES BUILDINGS":7217.50},
+			"2013-06": {"total":7217.50, "Contracted Services Buildings":7217.50},
+			"2013-07": {"total":7217.50, "Contracted Services Buildings":7217.50},
+			"2013-08": {"total":7217.50, "Contracted Services Buildings":7217.50},
+			"2013-09": {"total":7127.50, "Contracted Services Buildings":7127.50},
+			"2013-10": {"total":7217.50, "Contracted Services Buildings":7217.50},
+			"2013-11": {"total":7217.50, "Contracted Services Buildings":7217.50},
+			"2013-12": {"total":14435.00, "Contracted Services Buildings":14435.00},
+			"2014-01": {"total":14435.00, "Contracted Services Buildings":14435.00},
+			"2014-03": {"total":28870.00, "Contracted Services Buildings":28870.00},
+			"2014-04": {"total":55908.50, "Contracted Services Buildings":7217.50, "Property Management Fees":48691.00},
+			"2014-05": {"total":8125.10, "Contracted Services Buildings":8125.10},
+			"2014-06": {"total":65576.10, "Contracted Services Buildings":65576.10},
+			"2014-07": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2014-08": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2014-09": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2014-10": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2014-11": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2014-12": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2015-01": {"total":8125.10, "Housing & Land":8125.10},
+			"2015-02": {"total":8125.10, "Housing & Land":8125.10},
+			"2015-03": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2015-04": {"total":8125.10, "CONTRACTED SERVICES BUILDINGS":8125.10},
+			"2015-05": {"total":8235.60, "CONTRACTED SERVICES BUILDINGS":8235.60},
+			"2015-06": {"total":89530.60, "CONTRACTED SERVICES BUILDINGS":8235.60, "PROPERTY MANAGEMENT FEES":81295.00},
+			"2015-09": {"total":16471.20, "CONTRACTED SERVICES BUILDINGS":16471.20},
+			"2015-10": {"total":8235.60, "CONTRACTED SERVICES BUILDINGS":8235.60},
+			"2016-01": {"total":8235.60, "CONTRACTED SERVICES BUILDINGS":8235.60},
+			"2016-02": {"total":8235.60, "CONTRACTED SERVICES BUILDINGS":8235.60},
+			"2016-03": {"total":8235.60, "CONTRACTED SERVICES BUILDINGS":8235.60},
+			"2016-04": {"total":8235.60, "Housing & Land":8235.60},
+			"2016-05": {"total":8321.25, "Housing & Land":8321.25},
+			"2016-06": {"total":86033.25, "PROPERTY MANAGEMENT FEES":86033.25},
+			"2016-07": {"total":8321.25, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2016-08": {"total":8321.25, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2016-10": {"total":8321.25, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2016-11": {"total":16642.50, "PROPERTY MANAGEMENT FEES":16642.50},
+			"2017-01": {"total":16642.50, "PROPERTY MANAGEMENT FEES":16642.50},
+			"2017-02": {"total":11843.25, "BUILDING MAINTENANCE & REPAIRS":3522.00, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2017-03": {"total":8321.25, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2017-04": {"total":28309.50, "BUILDING MAINTENANCE & REPAIRS":19988.25, "PROPERTY MANAGEMENT FEES":8321.25},
+			"2017-06": {"total":17001.98, "OTHER PROFESSIONAL FEES":17001.98},
+			"2017-07": {"total":83088.99, "OTHER PROFESSIONAL FEES":83088.99},
+			"2017-10": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2017-11": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2017-12": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2018-01": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2018-02": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2018-04": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2018-05": {"total":8500.99, "OTHER PROFESSIONAL FEES":8500.99},
+			"2018-06": {"total":87017.28, "EXTERNAL BUILDING MAINTENANCE":3917.00, "GAS":83100.28},
+			"2018-07": {"total":14276.14, "EXTERNAL BUILDING MAINTENANCE":5498.00, "GAS":8778.14},
+			"2018-08": {"total":8778.14, "GAS":8778.14},
+			"2018-09": {"total":8778.14, "GAS":8778.14},
+			"2018-10": {"total":8778.14, "GAS":8778.14},
+			"2018-11": {"total":8778.14, "GAS":8778.14},
+			"2018-12": {"total":8778.14, "GAS":8778.14},
+			"2019-01": {"total":8778.14, "GAS":8778.14},
+			"2019-02": {"total":8778.14, "GAS":8778.14},
+			"2019-03": {"total":8778.14, "GAS":8778.14},
+			"2019-04": {"total":8778.14, "GAS":8778.14},
+			"2019-05": {"total":14465.75, "GAS":8967.75, "GROUNDS MAINTENANCE":5498.00},
+			"2019-06": {"total":8967.75, "GAS":8967.75},
+			"2019-07": {"total":79016.75, "GAS":79016.75},
+			"2019-08": {"total":8967.75, "GAS":8967.75},
+			"2019-09": {"total":8967.75, "GAS":8967.75},
+			"2019-10": {"total":8967.75, "GAS":8967.75},
+			"2019-11": {"total":8967.75, "GAS":8967.75},
+			"2020-01": {"total":17935.50, "GAS":17935.50},
+			"2020-02": {"total":8967.75, "GAS":8967.75},
+			"2020-04": {"total":17935.47, "GAS":17935.47},
+			"2020-06": {"total":18265.50, "GAS":18265.50}
+		}
+	},
+	"5581": {
+		"name": "VITRA LTD",
+		"alternate-names": [
+			"VITRA LIMITED"
+		],
+		"total": 4816,
+		"monthly": {
+			"2014-03": {"total":4816.00, "Furniture & Equipment":4816.00}
+		}
+	},
+	"5582": {
+		"name": "VIVIEN GOLDMAN (SELF-EMPLOYED)",
+		"total": 750,
+		"monthly": {
+			"2017-01": {"total":750.00, "OTHER PROFESSIONAL FEES":750.00}
+		}
+	},
+	"5583": {
+		"name": "VIVIENNE REISS",
+		"total": 23400,
+		"monthly": {
+			"2014-03": {"total":18000.00, "Consultancy-Project Management":18000.00},
+			"2014-05": {"total":5400.00, "Consultancy-Project Management":5400.00}
+		}
+	},
+	"5584": {
+		"name": "VIVIENNE SEDGLEY",
+		"total": 12930,
+		"monthly": {
+			"2019-05": {"total":12930.00, "LEGAL FEES":12930.00}
+		}
+	},
+	"5585": {
+		"name": "VIVO REWARDS",
+		"total": 4352,
+		"monthly": {
+			"2017-11": {"total":950.00, "OTHER PROFESSIONAL FEES":950.00},
+			"2018-04": {"total":3402.00, "IT CONSULTANCY":950.00, "OTHER PROFESSIONAL FEES":2452.00}
+		}
+	},
+	"5586": {
+		"name": "VOCALEYES",
+		"total": 465,
+		"monthly": {
+			"2017-08": {"total":465.00, "MARKETING EXHIBITIONS & EVENTS":465.00}
+		}
+	},
+	"5587": {
+		"name": "VOCATIONAL SKILLS SOLUTIONS LTD",
+		"alternate-names": [
+			"VOCATIONAL SKILLS SOLUTIONS LIMITED"
+		],
+		"total": 1193490.67,
+		"monthly": {
+			"2019-10": {"total":31729.26, "MISCELLANEOUS COSTS":31729.26},
+			"2019-11": {"total":34508.20, "MISCELLANEOUS COSTS":34508.20},
+			"2019-12": {"total":88563.57, "MISCELLANEOUS COSTS":88563.57},
+			"2020-01": {"total":79172.74, "MISCELLANEOUS COSTS":79172.74},
+			"2020-02": {"total":96757.99, "MISCELLANEOUS COSTS":96757.99},
+			"2020-03": {"total":141008.47, "MISCELLANEOUS COSTS":141008.47},
+			"2020-04": {"total":249139.65, "MISCELLANEOUS COSTS":249139.65},
+			"2020-05": {"total":115893.06, "MISCELLANEOUS COSTS":115893.06},
+			"2020-06": {"total":142464.19, "MISCELLANEOUS COSTS":142464.19},
+			"2020-07": {"total":214253.54, "MISCELLANEOUS COSTS":214253.54}
+		}
+	},
+	"5588": {
+		"name": "VODAFONE CORPORATE LTD",
+		"total": 631675.43,
+		"monthly": {
+			"2013-04": {"total":250.00, "Mobile Phone Line Rent, Calls & Equipment":250.00},
+			"2013-05": {"total":35751.88, "Mobile Phone Line Rent, Calls & Equipment":35201.88, "Computer Hardware":550.00},
+			"2013-06": {"total":44527.25, "Mobile Phone Line Rent, Calls & Equipment":44527.25},
+			"2013-07": {"total":500.00, "Computer Hardware":500.00},
+			"2013-08": {"total":1695.00, "Mobile Phone Line Rent, Calls & Equipment":985.00, "Computer Hardware":710.00},
+			"2013-09": {"total":39588.27, "Mobile Phone Line Rent, Calls & Equipment":39588.27},
+			"2013-10": {"total":1785.00, "Mobile Phone Line Rent, Calls & Equipment":610.00, "Computer Hardware":1175.00},
+			"2013-12": {"total":75211.58, "Mobile Phone Line Rent, Calls & Equipment":75211.58},
+			"2014-01": {"total":2950.00, "Computer Hardware":550.00, "IT Consultancy":2400.00},
+			"2014-03": {"total":71069.04, "Mobile Phone Line Rent, Calls & Equipment":71069.04},
+			"2014-06": {"total":72333.56, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":36166.78, "Mobile Phone Line Rent, Calls & Equipment":36166.78},
+			"2014-07": {"total":1275.00, "COMPUTER HARDWARE":1275.00},
+			"2014-08": {"total":405.00, "COMPUTER HARDWARE":405.00},
+			"2014-09": {"total":37451.27, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":37451.27},
+			"2014-11": {"total":305.00, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":305.00},
+			"2014-12": {"total":37762.12, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":37762.12},
+			"2015-03": {"total":79921.29, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":79641.29, "TELEPHONE LINE RENT, CALLS & EQUIPMENT":280.00},
+			"2015-04": {"total":2770.00, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":355.00, "COMPUTER HARDWARE":1555.00, "PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":860.00},
+			"2015-06": {"total":39232.68, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":38192.68, "COMPUTER SOFTWARE":1040.00},
+			"2015-09": {"total":37008.57, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":36748.57, "COMPUTER SOFTWARE":260.00},
+			"2015-12": {"total":36164.91, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":36164.91},
+			"2016-02": {"total":255.00, "COMPUTER HARDWARE":255.00},
+			"2016-03": {"total":13463.01, "MOBILE PHONE LINE RENT, CALLS & EQUIPMENT":12742.51, "COMPUTER SOFTWARE":720.50}
+		}
+	},
+	"5589": {
 		"name": "VODAFONE LTD",
 		"alternate-names": [
 			"VODAFONE LIMITED"
@@ -18,7 +600,7 @@
 			"2016-06": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
 		}
 	},
-	"5551": {
+	"5590": {
 		"name": "VOIP UNLIMITED",
 		"total": 13000,
 		"monthly": {
@@ -26,7 +608,7 @@
 			"2016-07": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00}
 		}
 	},
-	"5552": {
+	"5591": {
 		"name": "VOLCERA",
 		"total": 33910,
 		"monthly": {
@@ -40,7 +622,7 @@
 			"2016-06": {"total":5302.00, "GRANTS TO EXTERNAL ORGANISATIONS":5302.00}
 		}
 	},
-	"5553": {
+	"5592": {
 		"name": "VOLKER FITZPATRICK LTD",
 		"total": 4487975.56,
 		"monthly": {
@@ -52,14 +634,14 @@
 			"2016-04": {"total":152311.68, "Housing & Land":152311.68}
 		}
 	},
-	"5554": {
+	"5593": {
 		"name": "VOLLEYBALL ENGLAND",
 		"total": 5000,
 		"monthly": {
 			"2016-04": {"total":5000.00, "Communities and Intelligence":5000.00}
 		}
 	},
-	"5555": {
+	"5594": {
 		"name": "VOLTERRA CONSULTING LTD",
 		"total": 112800,
 		"monthly": {
@@ -69,14 +651,14 @@
 			"2017-08": {"total":20000.00, "CONSULTANCY-PROJECT MANAGEMENT":12500.00, "RESEARCH & STUDY FEES":7500.00}
 		}
 	},
-	"5556": {
+	"5595": {
 		"name": "VOLTIA",
 		"total": 624.87,
 		"monthly": {
 			"2018-01": {"total":624.87, "GRANTS TO EXTERNAL ORGANISATIONS":624.87}
 		}
 	},
-	"5557": {
+	"5596": {
 		"name": "VOLUNTARY ACTION HARROW",
 		"total": 29940,
 		"monthly": {
@@ -86,7 +668,7 @@
 			"2020-05": {"total":20000.00, "GRANTS TO EXTERNAL ORGANISATIONS":20000.00}
 		}
 	},
-	"5558": {
+	"5597": {
 		"name": "VOLUNTARY ARTS NETWORK",
 		"total": 30000,
 		"monthly": {
@@ -95,414 +677,21 @@
 			"2019-12": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
 		}
 	},
-	"5559": {
+	"5598": {
 		"name": "VOLUNTEER CENTRE GREENWICH",
 		"total": 400,
 		"monthly": {
 			"2018-03": {"total":400.00, "OTHER PROFESSIONAL FEES":400.00}
 		}
 	},
-	"5560": {
+	"5599": {
 		"name": "VOLUNTEER CENTRE KENSINGTON&CHELSEA",
-		"total": 13000,
+		"total": 15000,
 		"monthly": {
 			"2016-04": {"total":2500.00, "Communities and Intelligence":2500.00},
 			"2016-10": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00},
-			"2019-03": {"total":8000.00, "GRANTS TO EXTERNAL ORGANISATIONS":8000.00}
-		}
-	},
-	"5561": {
-		"name": "VOLUNTEER IT YOURSELF CIC",
-		"total": 157238.52,
-		"monthly": {
-			"2019-02": {"total":6880.47, "GRANTS TO EXTERNAL ORGANISATIONS":6880.47},
-			"2019-04": {"total":42124.69, "GRANTS TO EXTERNAL ORGANISATIONS":42124.69},
-			"2019-05": {"total":7917.73, "GRANTS TO EXTERNAL ORGANISATIONS":7917.73},
-			"2019-08": {"total":23165.02, "GRANTS TO EXTERNAL ORGANISATIONS":23165.02},
-			"2019-10": {"total":30367.38, "GRANTS TO EXTERNAL ORGANISATIONS":30367.38},
-			"2020-01": {"total":28356.23, "GRANTS TO EXTERNAL ORGANISATIONS":28356.23},
-			"2020-04": {"total":18427.00, "GRANTS TO EXTERNAL ORGANISATIONS":18427.00}
-		}
-	},
-	"5562": {
-		"name": "VOSTRON LTD",
-		"total": 9000,
-		"monthly": {
-			"2015-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-08": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00}
-		}
-	},
-	"5563": {
-		"name": "VOXCLEVER",
-		"total": 6000,
-		"monthly": {
-			"2015-10": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
-		}
-	},
-	"5564": {
-		"name": "VTSL LTD",
-		"total": 10250,
-		"monthly": {
-			"2015-04": {"total":4500.00, "GRANTS TO EXTERNAL ORGANISATIONS":4500.00},
-			"2016-02": {"total":5750.00, "GRANTS TO EXTERNAL ORGANISATIONS":5750.00}
-		}
-	},
-	"5565": {
-		"name": "VU.CITY",
-		"total": 15000,
-		"monthly": {
-			"2019-02": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00}
-		}
-	},
-	"5566": {
-		"name": "Ventana Systems UK Ltd",
-		"total": 3978.35,
-		"monthly": {
-			"2017-05": {"total":3978.35, "STATIONERY":3978.35}
-		}
-	},
-	"5567": {
-		"name": "Veolia ES (UK) Plc",
-		"total": 42922.25,
-		"monthly": {
-			"2017-12": {"total":42922.25, "PROPERTY MANAGEMENT FEES":42922.25}
-		}
-	},
-	"5568": {
-		"name": "W A FAIRHURST & PARTNERS",
-		"total": 924872.350000001,
-		"monthly": {
-			"2013-04": {"total":37810.95, "BUILDING MAINTENANCE & REPAIRS":8141.48, "EXTERNAL BUILDING MAINTENANCE":11751.19, "GROUNDS MAINTENANCE":17918.28},
-			"2013-05": {"total":23403.47, "BUILDING MAINTENANCE & REPAIRS":4070.74, "External Building Maintenance":4517.51, "GROUNDS MAINTENANCE":9713.46, "Ground Maintenance":5101.76},
-			"2013-07": {"total":23019.16, "Building Maintenance & Repairs":4070.74, "External Building Maintenance":3417.89, "Grounds Maintenance":15530.53},
-			"2013-09": {"total":47771.83, "Building Maintenance & Repairs":10666.83, "External Building Maintenance":9164.88, "Grounds Maintenance":27940.12},
-			"2013-10": {"total":49849.64, "Building Maintenance & Repairs":17157.69, "Equipment Repairs & Maintenance":12653.11, "External Building Maintenance":4235.81, "Grounds Maintenance":15803.03},
-			"2013-11": {"total":23181.18, "Building Maintenance & Repairs":4070.74, "External Building Maintenance":7122.21, "Grounds Maintenance":11988.23},
-			"2013-12": {"total":142605.20, "Building Maintenance & Repairs":25899.44, "External Building Maintenance":43219.48, "Grounds Maintenance":73486.28},
-			"2014-01": {"total":48637.10, "Building Maintenance & Repairs":17414.62, "External Building Maintenance":4858.26, "Grounds Maintenance":26364.22},
-			"2014-03": {"total":46714.68, "Building Maintenance & Repairs":10633.16, "External Building Maintenance":8789.08, "Grounds Maintenance":27292.44},
-			"2014-04": {"total":56841.30, "Building Maintenance & Repairs":5978.76, "Equipment Repairs & Maintenance":4881.20, "External Building Maintenance":10006.62, "Grounds Maintenance":35974.72},
-			"2014-06": {"total":50922.40, "BUILDING MAINTENANCE & REPAIRS":4216.84, "Building Maintenance & Repairs":4891.61, "EXTERNAL BUILDING MAINTENANCE":2650.14, "External Building Maintenance":7343.85, "GROUNDS MAINTENANCE":10575.49, "Grounds Maintenance":21244.47},
-			"2014-08": {"total":67619.31, "BUILDING MAINTENANCE & REPAIRS":16111.80, "EXTERNAL BUILDING MAINTENANCE":6082.30, "GROUNDS MAINTENANCE":45425.21},
-			"2014-10": {"total":47423.38, "BUILDING MAINTENANCE & REPAIRS":16744.01, "EXTERNAL BUILDING MAINTENANCE":5102.75, "GROUNDS MAINTENANCE":25576.62},
-			"2014-11": {"total":38379.73, "BUILDING MAINTENANCE & REPAIRS":14350.08, "EXTERNAL BUILDING MAINTENANCE":4251.13, "GROUNDS MAINTENANCE":19778.52},
-			"2014-12": {"total":29560.02, "BUILDING MAINTENANCE & REPAIRS":10075.39, "EXTERNAL BUILDING MAINTENANCE":2420.77, "GROUNDS MAINTENANCE":17063.86},
-			"2015-01": {"total":119290.04, "Housing & Land":119290.04},
-			"2015-02": {"total":1898.14, "Housing & Land":1898.14},
-			"2015-03": {"total":22577.67, "BUILDING MAINTENANCE & REPAIRS":4784.52, "EXTERNAL BUILDING MAINTENANCE":3253.43, "GROUNDS MAINTENANCE":14539.72},
-			"2015-04": {"total":47367.15, "BUILDING MAINTENANCE & REPAIRS":8124.28, "EXTERNAL BUILDING MAINTENANCE":4774.19, "GROUNDS MAINTENANCE":34468.68}
-		}
-	},
-	"5569": {
-		"name": "W A MCKEE",
-		"total": 18994.3,
-		"monthly": {
-			"2013-05": {"total":2621.80, "Management & Support Consultancy":2621.80},
-			"2014-04": {"total":5000.00, "Other Professional Fees":5000.00},
-			"2014-05": {"total":494.45, "Other Professional Fees":494.45},
-			"2016-04": {"total":10878.05, "Development & Environment":10878.05}
-		}
-	},
-	"5570": {
-		"name": "W A NICHOLSON LTD",
-		"total": 1250,
-		"monthly": {
-			"2018-02": {"total":1250.00, "RESEARCH & STUDY FEES":1250.00}
-		}
-	},
-	"5571": {
-		"name": "W B ASSOCIATES",
-		"total": 1830,
-		"monthly": {
-			"2013-05": {"total":1830.00, "EQUIPMENT REPAIRS & MAINTENANCE":1830.00}
-		}
-	},
-	"5572": {
-		"name": "WAC ARTS",
-		"total": 50000,
-		"monthly": {
-			"2019-06": {"total":17500.00, "GRANTS TO EXTERNAL ORGANISATIONS":17500.00},
-			"2019-08": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00},
-			"2019-10": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00}
-		}
-	},
-	"5573": {
-		"name": "WAGSTAFFS DESIGN LTD",
-		"alternate-names": [
-			"WAGSTAFFS DESIGN LIMITED"
-		],
-		"total": 286426,
-		"monthly": {
-			"2019-06": {"total":53360.00, "CONSULTANCY-PROJECT MANAGEMENT":53360.00},
-			"2019-08": {"total":92620.00, "CONSULTANCY-PROJECT MANAGEMENT":92620.00},
-			"2019-09": {"total":72990.00, "OTHER PROFESSIONAL FEES":72990.00},
-			"2019-12": {"total":67456.00, "CONSULTANCY-PROJECT MANAGEMENT":42656.00, "OTHER PROFESSIONAL FEES":24800.00}
-		}
-	},
-	"5574": {
-		"name": "WALCON MARINE LTD",
-		"total": 2930,
-		"monthly": {
-			"2014-12": {"total":1350.00, "PROPERTY MANAGEMENT FEES":1350.00},
-			"2018-08": {"total":1580.00, "PROPERTY MANAGEMENT FEES":1580.00}
-		}
-	},
-	"5575": {
-		"name": "WALK IN SPACE YOUTH CLUB",
-		"total": 1500,
-		"monthly": {
-			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
-		}
-	},
-	"5576": {
-		"name": "WALLACE GILLESPIE CONSULTING LTD",
-		"total": 82845,
-		"monthly": {
-			"2014-07": {"total":32850.00, "CONSULTANCY-PROJECT MANAGEMENT":8550.00, "STAFF MEDICAL INSURANCE & TREATMENT":24300.00},
-			"2014-10": {"total":49995.00, "CONSULTANCY-PROJECT MANAGEMENT":49995.00}
-		}
-	},
-	"5577": {
-		"name": "WALLACESPACE LTD",
-		"total": 1078,
-		"monthly": {
-			"2016-11": {"total":1078.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":1078.00}
-		}
-	},
-	"5578": {
-		"name": "WALNUT UNLIMITED LTD",
-		"total": 33060,
-		"monthly": {
-			"2018-03": {"total":10750.00, "CONSULTANCY  EVALUATION ASSESSMENT":10750.00},
-			"2018-04": {"total":12350.00, "CONSULTANCY  EVALUATION ASSESSMENT":12350.00},
-			"2018-06": {"total":9960.00, "CONSULTANCY  EVALUATION ASSESSMENT":9960.00}
-		}
-	},
-	"5579": {
-		"name": "WALTERTON & ELGIN COMMUNITY",
-		"total": 2580000,
-		"monthly": {
-			"2017-07": {"total":1290000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1290000.00},
-			"2020-03": {"total":1290000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1290000.00}
-		}
-	},
-	"5580": {
-		"name": "WALTHAM FOREST COLLEGE",
-		"total": 10338411.46,
-		"monthly": {
-			"2016-12": {"total":140587.14, "GRANTS TO EXTERNAL ORGANISATIONS":140587.14},
-			"2017-01": {"total":615583.68, "GRANTS TO EXTERNAL ORGANISATIONS":615583.68},
-			"2017-04": {"total":871249.00, "GRANTS TO EXTERNAL ORGANISATIONS":871249.00},
-			"2017-07": {"total":1316619.65, "GRANTS TO EXTERNAL ORGANISATIONS":1316619.65},
-			"2017-11": {"total":401682.91, "GRANTS TO EXTERNAL ORGANISATIONS":401682.91},
-			"2018-01": {"total":116727.58, "GRANTS TO EXTERNAL ORGANISATIONS":116727.58},
-			"2018-03": {"total":31200.00, "GRANTS TO EXTERNAL ORGANISATIONS":31200.00},
-			"2018-06": {"total":3384.00, "HSG GRANTS TO REGISTERED PROVIDERS":3384.00},
-			"2018-08": {"total":33663.54, "GRANTS TO EXTERNAL ORGANISATIONS":33663.54},
-			"2019-04": {"total":58788.32, "GRANTS TO EXTERNAL ORGANISATIONS":58788.32},
-			"2019-08": {"total":980333.77, "GRANTS TO EXTERNAL ORGANISATIONS":980333.77},
-			"2019-09": {"total":582497.49, "GRANTS TO EXTERNAL ORGANISATIONS":582497.49},
-			"2019-10": {"total":588607.60, "GRANTS TO EXTERNAL ORGANISATIONS":588607.60},
-			"2019-11": {"total":480662.26, "GRANTS TO EXTERNAL ORGANISATIONS":480662.26},
-			"2019-12": {"total":386294.95, "GRANTS TO EXTERNAL ORGANISATIONS":386294.95},
-			"2020-01": {"total":505102.72, "GRANTS TO EXTERNAL ORGANISATIONS":505102.72},
-			"2020-02": {"total":365927.91, "GRANTS TO EXTERNAL ORGANISATIONS":365927.91},
-			"2020-03": {"total":650970.20, "GRANTS TO EXTERNAL ORGANISATIONS":650970.20},
-			"2020-04": {"total":886906.00, "GRANTS TO EXTERNAL ORGANISATIONS":886906.00},
-			"2020-05": {"total":713578.43, "GRANTS TO EXTERNAL ORGANISATIONS":713578.43}
-		}
-	},
-	"5581": {
-		"name": "WALTHAM FOREST HC",
-		"total": 700,
-		"monthly": {
-			"2014-09": {"total":700.00, "GRANTS TO EXTERNAL ORGANISATIONS":700.00}
-		}
-	},
-	"5582": {
-		"name": "WALTHAM INTERNATIONAL COLLEGE LTD",
-		"total": 587103.26,
-		"monthly": {
-			"2019-10": {"total":4653.71, "MISCELLANEOUS COSTS":4653.71},
-			"2019-11": {"total":17349.82, "MISCELLANEOUS COSTS":17349.82},
-			"2019-12": {"total":36751.25, "MISCELLANEOUS COSTS":36751.25},
-			"2020-01": {"total":43577.69, "MISCELLANEOUS COSTS":43577.69},
-			"2020-02": {"total":115935.99, "MISCELLANEOUS COSTS":115935.99},
-			"2020-03": {"total":184075.49, "MISCELLANEOUS COSTS":184075.49},
-			"2020-04": {"total":52096.23, "MISCELLANEOUS COSTS":52096.23},
-			"2020-05": {"total":132663.08, "MISCELLANEOUS COSTS":132663.08}
-		}
-	},
-	"5583": {
-		"name": "WANDERERS FC",
-		"total": 1650,
-		"monthly": {
-			"2019-08": {"total":1650.00, "GRANTS TO EXTERNAL ORGANISATIONS":1650.00}
-		}
-	},
-	"5584": {
-		"name": "WANDLE HOUSING ASSOCIATION LTD",
-		"alternate-names": [
-			"WANDLE HOUSING ASSOCIATION LIMITED"
-		],
-		"total": 13765400,
-		"monthly": {
-			"2013-04": {"total":1723605.00, "HSG Grants to Registered Providers":1723605.00},
-			"2013-09": {"total":532930.00, "HSG Grants to Registered Providers":532930.00},
-			"2013-12": {"total":156128.00, "HSG Grants to Registered Providers":156128.00},
-			"2014-03": {"total":1464096.00, "HSG Grants to Registered Providers":1464096.00},
-			"2014-04": {"total":2502000.00, "HSG Grants to Registered Providers":2502000.00},
-			"2014-06": {"total":1754500.00, "HSG Grants to Registered Providers":1754500.00},
-			"2014-07": {"total":464465.00, "HSG GRANTS TO REGISTERED PROVIDERS":464465.00},
-			"2014-12": {"total":3192479.00, "HSG GRANTS TO REGISTERED PROVIDERS":3192479.00},
-			"2015-01": {"total":80220.00, "Housing":80220.00},
-			"2015-03": {"total":908977.00, "HSG GRANTS TO REGISTERED PROVIDERS":908977.00},
-			"2015-04": {"total":986000.00, "HSG GRANTS TO REGISTERED PROVIDERS":986000.00}
-		}
-	},
-	"5585": {
-		"name": "WANDLE VALLEY REGIONAL PARK TRUST",
-		"total": 15000,
-		"monthly": {
-			"2016-10": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00},
-			"2017-10": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
-		}
-	},
-	"5586": {
-		"name": "WANDSWORTH BOROUGH COUNCIL",
-		"total": 739482.98,
-		"monthly": {
-			"2013-04": {"total":2680.76, "Grants to External Organisations":2680.76},
-			"2013-11": {"total":129781.13, "Grants to External Organisations":129781.13},
-			"2014-01": {"total":416627.56, "Grants to External Organisations":416627.56},
-			"2014-04": {"total":22586.80, "Grants to External Organisations":10836.13, "Management & Support Consultancy":11750.67},
-			"2014-07": {"total":47852.86, "GRANTS TO EXTERNAL ORGANISATIONS":47852.86},
-			"2014-08": {"total":23703.87, "GRANTS TO EXTERNAL ORGANISATIONS":23703.87},
-			"2019-01": {"total":19250.00, "INCOME MAXIMISATION EXPENSES":19250.00},
-			"2019-03": {"total":38500.00, "INCOME MAXIMISATION EXPENSES":38500.00},
-			"2020-03": {"total":38500.00, "INCOME MAXIMISATION EXPENSES":38500.00}
-		}
-	},
-	"5587": {
-		"name": "WANDSWORTH COUNCIL",
-		"total": 20505227.14,
-		"monthly": {
-			"2014-08": {"total":195000.00, "HSG GRANTS TO LOCAL AUTHORITIES":195000.00},
-			"2015-03": {"total":213000.00, "GRANTS TO EXTERNAL ORGANISATIONS":18000.00, "HSG GRANTS TO LOCAL AUTHORITIES":195000.00},
-			"2015-04": {"total":536054.41, "GRANTS TO EXTERNAL ORGANISATIONS":536054.41},
-			"2015-10": {"total":246846.95, "GRANTS TO EXTERNAL ORGANISATIONS":246846.95},
-			"2015-11": {"total":227802.89, "GRANTS TO EXTERNAL ORGANISATIONS":227802.89},
-			"2016-07": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2016-11": {"total":20000.00, "GRANTS TO EXTERNAL ORGANISATIONS":20000.00},
-			"2017-03": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2017-10": {"total":882.00, "PLANNING & DEVELOPMENT CONSULTANCY":882.00},
-			"2019-02": {"total":13166649.00, "HSG GRANTS TO REGISTERED PROVIDERS":13166649.00},
-			"2019-03": {"total":3102000.00, "HSG GRANTS TO LOCAL AUTHORITIES":1100000.00, "HSG GRANTS TO REGISTERED PROVIDERS":2002000.00},
-			"2019-08": {"total":216617.91, "GRANTS TO EXTERNAL ORGANISATIONS":216617.91},
-			"2019-09": {"total":128710.64, "GRANTS TO EXTERNAL ORGANISATIONS":128710.64},
-			"2019-10": {"total":130060.75, "GRANTS TO EXTERNAL ORGANISATIONS":130060.75},
-			"2019-11": {"total":156208.78, "GRANTS TO EXTERNAL ORGANISATIONS":106208.78, "HSG GRANTS TO LOCAL AUTHORITIES":50000.00},
-			"2019-12": {"total":85357.06, "GRANTS TO EXTERNAL ORGANISATIONS":85357.06},
-			"2020-01": {"total":111609.23, "GRANTS TO EXTERNAL ORGANISATIONS":111609.23},
-			"2020-02": {"total":80856.68, "GRANTS TO EXTERNAL ORGANISATIONS":80856.68},
-			"2020-03": {"total":1337731.65, "GRANTS TO EXTERNAL ORGANISATIONS":111731.65, "HSG GRANTS TO LOCAL AUTHORITIES":1226000.00},
-			"2020-04": {"total":196710.74, "GRANTS TO EXTERNAL ORGANISATIONS":196710.74},
-			"2020-05": {"total":158267.66, "GRANTS TO EXTERNAL ORGANISATIONS":158267.66}
-		}
-	},
-	"5588": {
-		"name": "WANGECHI MUTU STUDIO",
-		"total": 1000,
-		"monthly": {
-			"2017-03": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00}
-		}
-	},
-	"5589": {
-		"name": "WANNABEEZ SPORTS FOUNDATION LTD",
-		"total": 1440,
-		"monthly": {
-			"2013-11": {"total":1440.00, "Grants to External Organisations":1440.00}
-		}
-	},
-	"5590": {
-		"name": "WANSTEAD PLAYGROUND ASSOCIATION",
-		"total": 11000,
-		"monthly": {
-			"2016-04": {"total":5500.00, "Development, Enterprise & Environment":5500.00},
-			"2016-07": {"total":5500.00, "GRANTS TO EXTERNAL ORGANISATIONS":5500.00}
-		}
-	},
-	"5591": {
-		"name": "WAR MEMORIALS TRUST",
-		"total": 500,
-		"monthly": {
-			"2014-06": {"total":500.00, "MISCELLANEOUS COSTS":500.00}
-		}
-	},
-	"5592": {
-		"name": "WARNER MUSIC UK LTD",
-		"total": 405.12,
-		"monthly": {
-			"2019-07": {"total":405.12, "OTHER PROFESSIONAL FEES":405.12}
-		}
-	},
-	"5593": {
-		"name": "WARREN TEACHING SCHOOL ALLIANCE",
-		"total": 2100,
-		"monthly": {
-			"2014-04": {"total":1050.00, "Consultants (Contractors)":1050.00},
-			"2014-07": {"total":1050.00, "CONSULTANTS (CONTRACTORS)":1050.00}
-		}
-	},
-	"5594": {
-		"name": "WARWICK ECONOMICS & DEVELOPMENT LTD",
-		"total": 37235,
-		"monthly": {
-			"2020-02": {"total":7447.00, "CONSULTANCY  EVALUATION ASSESSMENT":7447.00}
-		}
-	},
-	"5595": {
-		"name": "WARWICKNET LTD",
-		"total": 6000,
-		"monthly": {
-			"2016-03": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00}
-		}
-	},
-	"5596": {
-		"name": "WASTE & RESOURCES ACTION PROGRAMME",
-		"total": 477046.03,
-		"monthly": {
-			"2013-04": {"total":470321.03, "Grants to External Organisations":470321.03},
-			"2013-12": {"total":1725.00, "Grants to External Organisations":1725.00},
-			"2018-10": {"total":5000.00, "MANAGEMENT & SUPPORT CONSULTANCY":5000.00}
-		}
-	},
-	"5597": {
-		"name": "WASTECARE LTD",
-		"total": 749.7,
-		"monthly": {
-			"2016-03": {"total":749.70, "MANAGE IT SERVICES":749.70}
-		}
-	},
-	"5598": {
-		"name": "WATCHFRONT",
-		"total": 5925,
-		"monthly": {
-			"2014-10": {"total":2975.00, "GRANTS TO EXTERNAL ORGANISATIONS":2975.00},
-			"2015-12": {"total":2950.00, "GRANTS TO EXTERNAL ORGANISATIONS":2950.00}
-		}
-	},
-	"5599": {
-		"name": "WATERFRONT CONFERENCE COMPANY",
-		"total": 3107.2,
-		"monthly": {
-			"2013-10": {"total":299.00, "Conferences & Seminars":299.00},
-			"2016-01": {"total":598.00, "CONFERENCES & SEMINARS":299.00, "STAFF TRAINING":299.00},
-			"2016-04": {"total":507.45, "Housing":507.45},
-			"2016-12": {"total":857.30, "CONFERENCES & SEMINARS":857.30},
-			"2017-03": {"total":507.45, "STAFF TRAINING":507.45},
-			"2018-01": {"total":338.00, "CONFERENCES & SEMINARS":338.00}
+			"2019-03": {"total":8000.00, "GRANTS TO EXTERNAL ORGANISATIONS":8000.00},
+			"2020-07": {"total":2000.00, "GRANTS TO EXTERNAL ORGANISATIONS":2000.00}
 		}
 	}
 	}
