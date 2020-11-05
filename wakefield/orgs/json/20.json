@@ -1,28 +1,325 @@
 {
-	"range": ["2014-04","2020-06"],
+	"range": ["2014-04","2020-09"],
 	"data": {
 	"1000": {
+		"name": "BPP PROF EDUCATION",
+		"total": 520.83,
+		"monthly": {
+			"2014-08": {"total":520.83, "n/a":520.83}
+		}
+	},
+	"1001": {
+		"name": "BPP PROFESSIONAL EDUCATION",
+		"total": 12677.33,
+		"monthly": {
+			"2014-08": {"total":10225.00, "Business Services":10225.00},
+			"2015-01": {"total":687.48, "Business Services":687.48},
+			"2015-08": {"total":608.35, "Business Services":608.35},
+			"2016-06": {"total":1156.50, "Children and Young People":1156.50}
+		}
+	},
+	"1002": {
+		"name": "BPP PROFESSIONAL EDUCATION LTD",
+		"alternate-names": [
+			"BPP PROFESSIONAL EDUCATION LIMITED"
+		],
+		"total": 13442.48,
+		"monthly": {
+			"2014-07": {"total":1285.00, "Business Services":1285.00},
+			"2015-06": {"total":2195.00, "Business Services":2195.00},
+			"2017-11": {"total":743.48, "Children and Young People":743.48},
+			"2018-01": {"total":2594.00, "Business Services":2594.00},
+			"2018-06": {"total":2195.00, "Business Services":2195.00},
+			"2020-02": {"total":4430.00, "Business Services":4430.00}
+		}
+	},
+	"1003": {
+		"name": "BRADFORD BOLT & NUT CO. LIMITED T/A BBN GROUP",
+		"total": 4700.75,
+		"monthly": {
+			"2019-04": {"total":191.78, "Transport":191.78},
+			"2019-05": {"total":340.60, "Transport":340.60},
+			"2019-06": {"total":310.21, "Transport":310.21},
+			"2019-07": {"total":277.15, "Transport":277.15},
+			"2019-08": {"total":371.99, "Transport":371.99},
+			"2019-09": {"total":283.90, "Transport":283.90},
+			"2019-10": {"total":112.21, "Transport":112.21},
+			"2019-11": {"total":422.27, "Transport":422.27},
+			"2019-12": {"total":416.27, "Transport":416.27},
+			"2020-01": {"total":50.00, "Transport":50.00},
+			"2020-02": {"total":98.78, "Transport":98.78},
+			"2020-03": {"total":325.51, "Transport":325.51},
+			"2020-04": {"total":230.72, "Transport":230.72},
+			"2020-05": {"total":294.98, "Transport":294.98},
+			"2020-06": {"total":302.91, "Transport":302.91},
+			"2020-07": {"total":410.76, "Transport":410.76},
+			"2020-08": {"total":260.71, "Transport":260.71}
+		}
+	},
+	"1004": {
+		"name": "BRADFORD DISTRICT CARE NHS FOUNDATION TRUST",
+		"total": 21274698.98,
+		"monthly": {
+			"2017-10": {"total":589714.30, "Public Health":589714.30},
+			"2017-11": {"total":585438.80, "Public Health":585438.80},
+			"2017-12": {"total":585438.80, "Public Health":585438.80},
+			"2018-01": {"total":585438.80, "Public Health":585438.80},
+			"2018-02": {"total":585438.80, "Public Health":585438.80},
+			"2018-03": {"total":520438.80, "Public Health":520438.80},
+			"2018-04": {"total":588687.66, "Public Health":588687.66},
+			"2018-05": {"total":588687.66, "Public Health":588687.66},
+			"2018-06": {"total":588687.66, "Public Health":588687.66},
+			"2018-07": {"total":588687.66, "Public Health":588687.66},
+			"2018-08": {"total":1177375.32, "Public Health":1177375.32},
+			"2018-09": {"total":588687.66, "Public Health":588687.66},
+			"2018-10": {"total":588687.66, "Public Health":588687.66},
+			"2018-11": {"total":588687.66, "Public Health":588687.66},
+			"2019-01": {"total":588687.66, "Public Health":588687.66},
+			"2019-03": {"total":1177375.32, "Public Health":1177375.32},
+			"2019-04": {"total":589043.96, "Public Health":589043.96},
+			"2019-05": {"total":589043.96, "Public Health":589043.96},
+			"2019-06": {"total":1178087.92, "Public Health":1178087.92},
+			"2019-07": {"total":41901.68, "Public Health":41901.68},
+			"2019-08": {"total":589043.96, "Public Health":589043.96},
+			"2019-09": {"total":607264.70, "Public Health":607264.70},
+			"2019-10": {"total":592080.75, "Public Health":592080.75},
+			"2019-11": {"total":592080.75, "Public Health":592080.75},
+			"2019-12": {"total":592080.75, "Public Health":592080.75},
+			"2020-01": {"total":624969.75, "Public Health":624969.75},
+			"2020-02": {"total":592080.75, "Public Health":592080.75},
+			"2020-03": {"total":592080.75, "Public Health":592080.75},
+			"2020-04": {"total":618375.38, "Public Health":618375.38},
+			"2020-05": {"total":592080.74, "Public Health":592080.74},
+			"2020-06": {"total":592080.74, "Public Health":592080.74},
+			"2020-07": {"total":592080.74, "Public Health":592080.74},
+			"2020-08": {"total":592080.74, "Public Health":592080.74},
+			"2020-09": {"total":592080.74, "Public Health":592080.74}
+		}
+	},
+	"1005": {
+		"name": "BRADFORD DISTRICT CARE TRUST",
+		"total": 3626584.06,
+		"monthly": {
+			"2016-10": {"total":5000.00, "Public Health":5000.00},
+			"2017-03": {"total":70000.00, "Public Health":70000.00},
+			"2017-05": {"total":1788805.66, "Public Health":1788805.66},
+			"2017-07": {"total":587592.80, "Public Health":587592.80},
+			"2017-08": {"total":587592.80, "Public Health":587592.80},
+			"2017-09": {"total":587592.80, "Public Health":587592.80}
+		}
+	},
+	"1006": {
+		"name": "BRADFORD HISTORICAL & ANTIQUARIAN SOCIETY",
+		"total": 9,
+		"monthly": {
+			"2019-11": {"total":9.00, "Professional Services":9.00}
+		}
+	},
+	"1007": {
+		"name": "BRADFORD LGB & T STRATEGIC PARTNERSHIP LTD",
+		"total": 700,
+		"monthly": {
+			"2018-04": {"total":700.00, "Public Health":700.00}
+		}
+	},
+	"1008": {
+		"name": "BRADFORD WOMEN\xB4S AID",
+		"total": 6598.68,
+		"monthly": {
+			"2019-07": {"total":6598.68, "Public Health":6598.68}
+		}
+	},
+	"1009": {
+		"name": "BRADLEY BUILDING CONTRACTORS",
+		"total": 6528,
+		"monthly": {
+			"2014-06": {"total":6528.00, "Property & Asset Management":6528.00}
+		}
+	},
+	"1010": {
+		"name": "BRADWELL HALL NURSING HOME",
+		"total": 6121.14,
+		"monthly": {
+			"2015-03": {"total":6121.14, "Adult Services":6121.14}
+		}
+	},
+	"1011": {
+		"name": "BRAEMAR RESPONSE LTD",
+		"alternate-names": [
+			"BRAEMAR RESPONSE LIMITED"
+		],
+		"total": 3868.72,
+		"monthly": {
+			"2017-10": {"total":1294.00, "Environment":1294.00},
+			"2018-06": {"total":2574.72, "Environment":2574.72}
+		}
+	},
+	"1012": {
+		"name": "BRAILLEPRO",
+		"total": 1567.61,
+		"monthly": {
+			"2015-04": {"total":604.00, "Business Services":604.00},
+			"2019-04": {"total":509.61, "Business Services":509.61},
+			"2020-03": {"total":454.00, "Business Services":454.00}
+		}
+	},
+	"1013": {
+		"name": "BRAILSFORD BROTHERS BARNSLEY LTD",
+		"total": 4980,
+		"monthly": {
+			"2016-06": {"total":4980.00, "Property & Asset Management":4980.00}
+		}
+	},
+	"1014": {
+		"name": "BRAIN INJURY REHABILITATION TRUST",
+		"total": 96685.75,
+		"monthly": {
+			"2015-01": {"total":29828.58, "Adult Services":29828.58},
+			"2015-02": {"total":7200.00, "Adult Services":7200.00},
+			"2015-03": {"total":7971.43, "Adult Services":7971.43},
+			"2015-04": {"total":7714.29, "Adult Services":7714.29},
+			"2015-05": {"total":7971.43, "Adult Services":7971.43},
+			"2015-06": {"total":7714.29, "Adult Services":7714.29},
+			"2015-07": {"total":7971.43, "Public Health":7971.43},
+			"2015-08": {"total":7971.43, "Public Health":7971.43},
+			"2015-09": {"total":7714.29, "Public Health":7714.29},
+			"2015-10": {"total":4628.58, "Adult Services":4628.58}
+		}
+	},
+	"1015": {
+		"name": "BRAKE BROS LTD T/A BRAKES CATERING EQUIPMENT",
+		"total": 15475.91,
+		"monthly": {
+			"2017-10": {"total":14652.00, "Property & Regeneration":14652.00},
+			"2019-07": {"total":213.75, "Property & Regeneration":213.75},
+			"2019-09": {"total":106.72, "Property & Regeneration":106.72},
+			"2019-10": {"total":39.90, "Property & Regeneration":39.90},
+			"2019-12": {"total":2.54, "Property & Regeneration":2.54},
+			"2020-01": {"total":191.33, "Property & Regeneration":191.33},
+			"2020-02": {"total":157.38, "Property & Regeneration":157.38},
+			"2020-09": {"total":112.29, "Property & Regeneration":112.29}
+		}
+	},
+	"1016": {
+		"name": "BRAKES CATERING EQUIPMENT",
+		"total": 610,
+		"monthly": {
+			"2016-01": {"total":610.00, "Property & Asset Management":610.00}
+		}
+	},
+	"1017": {
+		"name": "BRAMBLY HEDGE DAY NURSERY",
+		"total": 664990.99,
+		"monthly": {
+			"2014-04": {"total":49949.82, "Family Services":49949.82},
+			"2014-05": {"total":6547.50, "Family Services":6547.50},
+			"2014-06": {"total":743.59, "Family Services":743.59},
+			"2014-07": {"total":25428.87, "Children and Young People":25428.87},
+			"2014-08": {"total":22961.48, "Children and Young People":22961.48},
+			"2014-10": {"total":19465.08, "Children and Young People":19465.08},
+			"2014-12": {"total":18975.13, "Children and Young People":18975.13},
+			"2015-01": {"total":24447.47, "Children and Young People":24447.47},
+			"2015-02": {"total":18045.64, "Children and Young People":18045.64},
+			"2015-03": {"total":20173.59, "Children and Young People":20173.59},
+			"2015-04": {"total":43154.67, "Children and Young People":43154.67},
+			"2015-05": {"total":20570.06, "Children and Young People":20570.06},
+			"2015-06": {"total":1794.00, "Children and Young People":1794.00},
+			"2015-07": {"total":17032.72, "Children and Young People":17032.72},
+			"2015-08": {"total":25248.83, "Children and Young People":25248.83},
+			"2015-09": {"total":14731.88, "Children and Young People":14731.88},
+			"2015-12": {"total":27399.56, "Children and Young People":27399.56},
+			"2016-01": {"total":32545.28, "Children and Young People":32545.28},
+			"2016-02": {"total":615.40, "Children and Young People":615.40},
+			"2016-03": {"total":7005.97, "Children and Young People":7005.97},
+			"2016-04": {"total":47694.76, "Children and Young People":47694.76},
+			"2016-05": {"total":621.54, "Children and Young People":621.54},
+			"2016-06": {"total":590.52, "Children and Young People":590.52},
+			"2016-07": {"total":18614.89, "Children and Young People":18614.89},
+			"2016-09": {"total":35073.39, "Children and Young People":35073.39},
+			"2016-12": {"total":31427.00, "Children and Young People":31427.00},
+			"2017-01": {"total":14142.60, "Children and Young People":14142.60},
+			"2017-03": {"total":15100.42, "Children and Young People":15100.42},
+			"2017-04": {"total":26787.24, "Children and Young People":26787.24},
+			"2017-05": {"total":17011.80, "Children and Young People":17011.80},
+			"2017-07": {"total":17729.19, "Children and Young People":17729.19},
+			"2017-09": {"total":43361.10, "Children and Young People":43361.10}
+		}
+	},
+	"1018": {
+		"name": "BRAMBLY HEDGE DAY NURSERY LTD",
+		"alternate-names": [
+			"BRAMBLY HEDGE DAY NURSERY LIMITED"
+		],
+		"total": 862172.79,
+		"monthly": {
+			"2017-11": {"total":2953.20, "Children and Young People":2953.20},
+			"2017-12": {"total":20247.20, "Children and Young People":20247.20},
+			"2018-01": {"total":53106.57, "Children and Young People":53106.57},
+			"2018-03": {"total":24214.51, "Children and Young People":24214.51},
+			"2018-04": {"total":58744.80, "Children and Young People":58744.80},
+			"2018-05": {"total":13377.73, "Children and Young People":13377.73},
+			"2018-06": {"total":1189.80, "Children and Young People":1189.80},
+			"2018-07": {"total":40958.74, "Children and Young People":40958.74},
+			"2018-08": {"total":938.40, "Children and Young People":938.40},
+			"2018-09": {"total":57915.90, "Children and Young People":57915.90},
+			"2018-10": {"total":1104.00, "Children and Young People":1104.00},
+			"2018-11": {"total":1230.90, "Children and Young People":1230.90},
+			"2018-12": {"total":28649.59, "Children and Young People":28649.59},
+			"2019-02": {"total":97756.40, "Children and Young People":97756.40},
+			"2019-04": {"total":56620.00, "Children and Young People":56620.00},
+			"2019-05": {"total":19857.90, "Children and Young People":19857.90},
+			"2019-06": {"total":1287.34, "Children and Young People":1287.34},
+			"2019-07": {"total":44478.53, "Children and Young People":44478.53},
+			"2019-08": {"total":1054.00, "Children and Young People":1054.00},
+			"2019-09": {"total":60681.60, "Children and Young People":60681.60},
+			"2019-10": {"total":1142.10, "Children and Young People":1142.10},
+			"2019-11": {"total":26835.06, "Children and Young People":26835.06},
+			"2019-12": {"total":1184.40, "Children and Young People":1184.40},
+			"2020-01": {"total":60913.80, "Children and Young People":60913.80},
+			"2020-03": {"total":23705.85, "Children and Young People":23705.85},
+			"2020-04": {"total":69237.88, "Children and Young People":69237.88},
+			"2020-05": {"total":10693.80, "Children and Young People":10693.80},
+			"2020-06": {"total":21678.89, "Children and Young People":21678.89},
+			"2020-08": {"total":41198.60, "Children and Young People":41198.60},
+			"2020-09": {"total":19215.30, "Children and Young People":19215.30}
+		}
+	},
+	"1019": {
+		"name": "BRAMHAM MEDICAL CENTRE",
+		"total": 67.5,
+		"monthly": {
+			"2019-06": {"total":67.50, "Public Health":67.50}
+		}
+	},
+	"1020": {
+		"name": "BRAMHOPE SCOUT CAMP SITE",
+		"total": 2165,
+		"monthly": {
+			"2014-08": {"total":2165.00, "Economic Growth, Culture & Sport":2165.00}
+		}
+	},
+	"1021": {
 		"name": "BRAMLEY VILLAGE HEALTH & WELLBEING CENTRE",
 		"total": 67.5,
 		"monthly": {
 			"2019-04": {"total":67.50, "Public Health":67.50}
 		}
 	},
-	"1001": {
+	"1022": {
 		"name": "BRAMM (BRITIGH REGISTER OF ACCRED MEMORIAL MASONS)",
 		"total": 790,
 		"monthly": {
 			"2017-11": {"total":790.00, "Business Services":790.00}
 		}
 	},
-	"1002": {
+	"1023": {
 		"name": "BRAMM (BRITISH REGISTER OF ACCRED MEMORIAL MASONS)",
 		"total": 125,
 		"monthly": {
 			"2019-09": {"total":125.00, "Business Services":125.00}
 		}
 	},
-	"1003": {
+	"1024": {
 		"name": "BRAMS/PREMIER EXECUTIVE (SCOTLAND) TRAVEL LTD",
 		"total": 1194,
 		"monthly": {
@@ -30,7 +327,7 @@
 			"2019-12": {"total":438.00, "Transport":438.00}
 		}
 	},
-	"1004": {
+	"1025": {
 		"name": "BRANDED SPORTSWEAR LTD",
 		"total": 919.78,
 		"monthly": {
@@ -38,14 +335,14 @@
 			"2020-05": {"total":337.04, "Culture & Sport":337.04}
 		}
 	},
-	"1005": {
+	"1026": {
 		"name": "BRANSBY WILSON PARKING SOLUTIONS LTD",
 		"total": 280,
 		"monthly": {
 			"2019-10": {"total":280.00, "Highways":280.00}
 		}
 	},
-	"1006": {
+	"1027": {
 		"name": "BRANTWOOD HALL CARE COMPLEX",
 		"total": 171234.43,
 		"monthly": {
@@ -72,7 +369,7 @@
 			"2016-03": {"total":1140.00, "Adult Services":1140.00}
 		}
 	},
-	"1007": {
+	"1028": {
 		"name": "BRAVE YELLOW JACKET LTD",
 		"alternate-names": [
 			"BRAVE YELLOW JACKET LIMITED"
@@ -82,7 +379,7 @@
 			"2019-04": {"total":1500.00, "Professional Services":1500.00}
 		}
 	},
-	"1008": {
+	"1029": {
 		"name": "BRAYTON HIGH SCHOOL",
 		"total": 2805.12,
 		"monthly": {
@@ -90,7 +387,7 @@
 			"2016-01": {"total":1000.00, "Children and Young People":1000.00}
 		}
 	},
-	"1009": {
+	"1030": {
 		"name": "BREADALBANE RESIDENTIAL HOME",
 		"total": 85617.21,
 		"monthly": {
@@ -116,7 +413,7 @@
 			"2017-08": {"total":3695.14, "Adult Services":3695.14}
 		}
 	},
-	"1010": {
+	"1031": {
 		"name": "BREAKFAST CREATIVES",
 		"total": 3200,
 		"monthly": {
@@ -124,15 +421,16 @@
 			"2020-03": {"total":2400.00, "Professional Services":2400.00}
 		}
 	},
-	"1011": {
+	"1032": {
 		"name": "BREARLEYS SOLICITORS",
-		"total": 882.03,
+		"total": 1882.03,
 		"monthly": {
 			"2015-05": {"total":500.00, "Professional Services":500.00},
-			"2019-05": {"total":382.03, "Professional Services":382.03}
+			"2019-05": {"total":382.03, "Professional Services":382.03},
+			"2020-08": {"total":1000.00, "Professional Services":1000.00}
 		}
 	},
-	"1012": {
+	"1033": {
 		"name": "BRECKENBROUGH",
 		"total": 237402,
 		"monthly": {
@@ -147,9 +445,9 @@
 			"2017-12": {"total":19667.00, "Children and Young People":19667.00}
 		}
 	},
-	"1013": {
+	"1034": {
 		"name": "BRECKENBROUGH SCHOOL LIMTED",
-		"total": 168496,
+		"total": 178505,
 		"monthly": {
 			"2018-04": {"total":19667.00, "Children and Young People":19667.00},
 			"2018-08": {"total":19667.00, "Children and Young People":19667.00},
@@ -158,10 +456,11 @@
 			"2019-06": {"total":31127.00, "Children and Young People":31127.00},
 			"2019-08": {"total":19567.00, "Children and Young People":19567.00},
 			"2020-01": {"total":19567.00, "Children and Young People":19567.00},
-			"2020-04": {"total":19567.00, "Children and Young People":19567.00}
+			"2020-04": {"total":19567.00, "Children and Young People":19567.00},
+			"2020-09": {"total":10009.00, "Children and Young People":10009.00}
 		}
 	},
-	"1014": {
+	"1035": {
 		"name": "BRETTON MEMORIAL INSTITUTE",
 		"total": 225,
 		"monthly": {
@@ -169,7 +468,7 @@
 			"2020-02": {"total":75.00, "Business Services":75.00}
 		}
 	},
-	"1015": {
+	"1036": {
 		"name": "BREWFITT LTD",
 		"alternate-names": [
 			"BREWFITT LIMITED"
@@ -180,7 +479,7 @@
 			"2018-04": {"total":2495.48, "Culture & Sport":2495.48}
 		}
 	},
-	"1016": {
+	"1037": {
 		"name": "BRIAN ROBINSON MACHINERY LTD",
 		"total": 194455.91,
 		"monthly": {
@@ -188,7 +487,7 @@
 			"2017-03": {"total":505.91, "Transport":505.91}
 		}
 	},
-	"1017": {
+	"1038": {
 		"name": "BRICK HOUSE YOUTH CLUB",
 		"total": 2803,
 		"monthly": {
@@ -197,23 +496,23 @@
 			"2020-01": {"total":500.00, "Children and Young People":500.00}
 		}
 	},
-	"1018": {
+	"1039": {
 		"name": "BRICK TIE LTD",
 		"total": 7148,
 		"monthly": {
 			"2015-10": {"total":7148.00, "Property & Asset Management":7148.00}
 		}
 	},
-	"1019": {
+	"1040": {
 		"name": "BRICKS 4 KIDZ",
 		"total": 90,
 		"monthly": {
 			"2019-05": {"total":90.00, "Children and Young People":90.00}
 		}
 	},
-	"1020": {
+	"1041": {
 		"name": "BRIDGE HOMES (YORKSHIRE) LLP",
-		"total": 6150586.6,
+		"total": 6295387.72,
 		"monthly": {
 			"2015-01": {"total":110000.00, "Adult Services":110000.00},
 			"2015-06": {"total":165000.00, "Adult Services":165000.00},
@@ -234,10 +533,11 @@
 			"2019-08": {"total":154527.00, "Adult Services":154527.00},
 			"2019-10": {"total":168460.00, "Adult Services":168460.00},
 			"2019-11": {"total":283820.00, "Adult Services":283820.00},
-			"2020-05": {"total":160000.00, "Adult Services":160000.00}
+			"2020-05": {"total":160000.00, "Adult Services":160000.00},
+			"2020-08": {"total":144801.12, "Adult Services":144801.12}
 		}
 	},
-	"1021": {
+	"1042": {
 		"name": "BRIDGE INN HOTEL",
 		"total": 1050,
 		"monthly": {
@@ -245,7 +545,7 @@
 			"2016-12": {"total":525.00, "Business Services":525.00}
 		}
 	},
-	"1022": {
+	"1043": {
 		"name": "BRIDGEALL LIBRARIES LTD",
 		"total": 91973,
 		"monthly": {
@@ -257,12 +557,12 @@
 			"2019-11": {"total":13328.00, "ICT":13328.00}
 		}
 	},
-	"1023": {
+	"1044": {
 		"name": "BRIDGEWOOD TRUST LTD",
 		"alternate-names": [
 			"BRIDGEWOOD TRUST LIMITED"
 		],
-		"total": 100220.36,
+		"total": 111763.86,
 		"monthly": {
 			"2018-01": {"total":2959.84, "Adult Services":2959.84},
 			"2018-02": {"total":5919.68, "Adult Services":5919.68},
@@ -288,17 +588,20 @@
 			"2020-02": {"total":2959.84, "Adult Services":2959.84},
 			"2020-03": {"total":2959.84, "Adult Services":2959.84},
 			"2020-05": {"total":2959.84, "Adult Services":2959.84},
-			"2020-06": {"total":8465.32, "Adult Services":8465.32}
+			"2020-06": {"total":8465.32, "Adult Services":8465.32},
+			"2020-07": {"total":2959.84, "Adult Services":2959.84},
+			"2020-08": {"total":5623.82, "Adult Services":5623.82},
+			"2020-09": {"total":2959.84, "Adult Services":2959.84}
 		}
 	},
-	"1024": {
+	"1045": {
 		"name": "BRIERLEY MEDICAL CENTRE",
 		"total": 33,
 		"monthly": {
 			"2019-04": {"total":33.00, "Public Health":33.00}
 		}
 	},
-	"1025": {
+	"1046": {
 		"name": "BRIGHT FUTURE PROJECTS LTD",
 		"total": 43697.95,
 		"monthly": {
@@ -312,16 +615,16 @@
 			"2019-07": {"total":13565.16, "Children and Young People":13565.16}
 		}
 	},
-	"1026": {
+	"1047": {
 		"name": "BRIGHT SPARKS CHILD CARE",
 		"total": 1050,
 		"monthly": {
 			"2020-03": {"total":1050.00, "Children and Young People":1050.00}
 		}
 	},
-	"1027": {
+	"1048": {
 		"name": "BRIGHT SPARKS CHILDCARE CASTLEFORD",
-		"total": 1956018.06,
+		"total": 2151774.86,
 		"monthly": {
 			"2014-04": {"total":18640.35, "Family Services":18640.35},
 			"2014-05": {"total":26844.75, "Family Services":26844.75},
@@ -373,302 +676,17 @@
 			"2020-03": {"total":42035.00, "Children and Young People":42035.00},
 			"2020-04": {"total":90852.30, "Children and Young People":90852.30},
 			"2020-05": {"total":44395.20, "Children and Young People":44395.20},
-			"2020-06": {"total":211.50, "Children and Young People":211.50}
+			"2020-06": {"total":42413.52, "Children and Young People":42413.52},
+			"2020-07": {"total":310.20, "Children and Young People":310.20},
+			"2020-08": {"total":211.50, "Children and Young People":211.50},
+			"2020-09": {"total":153033.08, "Children and Young People":153033.08}
 		}
 	},
-	"1028": {
+	"1049": {
 		"name": "BRIGHT SPARKS PRE SCHOOL",
 		"total": 1104,
 		"monthly": {
 			"2016-04": {"total":1104.00, "Children and Young People":1104.00}
-		}
-	},
-	"1029": {
-		"name": "BRIGHTSIDE CREATIVE LLP",
-		"total": 2510,
-		"monthly": {
-			"2014-05": {"total":510.00, "Business Services":510.00},
-			"2014-06": {"total":1250.00, "Business Services":1250.00},
-			"2014-12": {"total":750.00, "Business Services":750.00}
-		}
-	},
-	"1030": {
-		"name": "BRIGSHAW HIGH SCHOOL",
-		"total": 34667.59,
-		"monthly": {
-			"2014-04": {"total":1476.92, "Family Services":1476.92},
-			"2014-06": {"total":1189.74, "Family Services":1189.74},
-			"2014-07": {"total":861.54, "Children and Young People":861.54},
-			"2014-08": {"total":615.38, "Children and Young People":615.38},
-			"2014-10": {"total":902.56, "Children and Young People":902.56},
-			"2014-11": {"total":738.46, "Children and Young People":738.46},
-			"2014-12": {"total":820.52, "Children and Young People":820.52},
-			"2015-02": {"total":820.52, "Children and Young People":820.52},
-			"2015-03": {"total":1435.90, "Children and Young People":1435.90},
-			"2015-05": {"total":574.36, "Children and Young People":574.36},
-			"2015-06": {"total":615.38, "Children and Young People":615.38},
-			"2015-07": {"total":902.56, "Children and Young People":902.56},
-			"2015-08": {"total":861.54, "Children and Young People":861.54},
-			"2015-10": {"total":3835.90, "Children and Young People":3835.90},
-			"2015-11": {"total":2964.10, "Children and Young People":2964.10},
-			"2015-12": {"total":3661.54, "Children and Young People":3661.54},
-			"2016-01": {"total":2220.38, "Children and Young People":2220.38},
-			"2016-02": {"total":1743.40, "Children and Young People":1743.40},
-			"2016-03": {"total":2615.10, "Children and Young People":2615.10},
-			"2016-05": {"total":1761.03, "Children and Young People":1761.03},
-			"2016-06": {"total":1673.14, "Children and Young People":1673.14},
-			"2016-07": {"total":1673.14, "Children and Young People":1673.14},
-			"2016-08": {"total":704.48, "Children and Young People":704.48}
-		}
-	},
-	"1031": {
-		"name": "BRILLIANT KIDS PORTRAITS",
-		"total": 4100,
-		"monthly": {
-			"2014-05": {"total":2100.00, "Economic Growth, Culture & Sport":2100.00},
-			"2014-11": {"total":2000.00, "Economic Growth, Culture & Sport":2000.00}
-		}
-	},
-	"1032": {
-		"name": "BRINSWORTH COMPREHENSIVE SCHOOL ACADEMY TRUST",
-		"total": 3000,
-		"monthly": {
-			"2015-04": {"total":1000.00, "Children and Young People":1000.00},
-			"2016-01": {"total":2000.00, "Children and Young People":2000.00}
-		}
-	},
-	"1033": {
-		"name": "BRIT TIPP LTD",
-		"total": 7624.07,
-		"monthly": {
-			"2018-03": {"total":875.00, "Transport":875.00},
-			"2018-07": {"total":4080.00, "Transport":4080.00},
-			"2019-04": {"total":447.00, "Transport":447.00},
-			"2019-06": {"total":98.07, "Transport":98.07},
-			"2019-07": {"total":273.50, "Transport":273.50},
-			"2019-08": {"total":932.50, "Transport":932.50},
-			"2019-09": {"total":247.00, "Transport":247.00},
-			"2019-11": {"total":138.50, "Transport":138.50},
-			"2019-12": {"total":108.50, "Transport":108.50},
-			"2020-01": {"total":53.50, "Transport":53.50},
-			"2020-02": {"total":63.50, "Transport":63.50},
-			"2020-04": {"total":307.00, "Transport":307.00}
-		}
-	},
-	"1034": {
-		"name": "BRITANNIA COOLING LTD",
-		"total": 2698.67,
-		"monthly": {
-			"2014-05": {"total":668.74, "Transport":668.74},
-			"2014-08": {"total":1366.81, "Transport":1366.81},
-			"2017-09": {"total":663.12, "Transport":663.12}
-		}
-	},
-	"1035": {
-		"name": "BRITANNIA STORAGE MANAGEMENT LTD",
-		"total": 37634,
-		"monthly": {
-			"2017-11": {"total":5181.00, "Property & Regeneration":5181.00},
-			"2018-01": {"total":5181.00, "Property & Regeneration":5181.00},
-			"2018-04": {"total":5183.00, "Property & Regeneration":5183.00},
-			"2019-01": {"total":8350.00, "Property & Regeneration":8350.00},
-			"2019-02": {"total":6376.00, "Property & Regeneration":6376.00},
-			"2019-06": {"total":7363.00, "Property & Regeneration":7363.00}
-		}
-	},
-	"1036": {
-		"name": "BRITHERTON & BYRAM C.P. ACADEMY",
-		"total": 2000,
-		"monthly": {
-			"2016-02": {"total":2000.00, "Children and Young People":2000.00}
-		}
-	},
-	"1037": {
-		"name": "BRITISH ASSOCIATION OF TEACHERS OF THE DEAF",
-		"total": 80,
-		"monthly": {
-			"2020-02": {"total":80.00, "Children and Young People":80.00}
-		}
-	},
-	"1038": {
-		"name": "BRITISH BIDS",
-		"total": 750,
-		"monthly": {
-			"2014-09": {"total":750.00, "Business Services":750.00}
-		}
-	},
-	"1039": {
-		"name": "BRITISH CYCLING",
-		"total": 72250,
-		"monthly": {
-			"2014-05": {"total":11125.00, "Family Services":11125.00},
-			"2014-10": {"total":20125.00, "Adult Services":20125.00},
-			"2015-05": {"total":20000.00, "Adult Services":20000.00},
-			"2016-02": {"total":20000.00, "Children and Young People":20000.00},
-			"2019-11": {"total":1000.00, "Children and Young People":1000.00}
-		}
-	},
-	"1040": {
-		"name": "BRITISH DIETETIC ASSOCIATION",
-		"total": 18329.41,
-		"monthly": {
-			"2019-03": {"total":6470.00, "Public Health":6470.00},
-			"2020-03": {"total":11859.41, "Public Health":11859.41}
-		}
-	},
-	"1041": {
-		"name": "BRITISH DYSLEXIA ASSOCIATION",
-		"total": 930.16,
-		"monthly": {
-			"2015-02": {"total":930.16, "Adult Services":930.16}
-		}
-	},
-	"1042": {
-		"name": "BRITISH FENESTRATION RATING COUNCIL LTD",
-		"total": 690,
-		"monthly": {
-			"2015-02": {"total":690.00, "Professional Services":690.00}
-		}
-	},
-	"1043": {
-		"name": "BRITISH GAS",
-		"total": 1066.58,
-		"monthly": {
-			"2016-01": {"total":1066.58, "Property & Asset Management":1066.58}
-		}
-	},
-	"1044": {
-		"name": "BRITISH GAS BUSINESS",
-		"total": 3186242.79,
-		"monthly": {
-			"2014-04": {"total":47404.41, "Property & Asset Management":47404.41},
-			"2014-05": {"total":112310.29, "Property & Asset Management":112310.29},
-			"2014-06": {"total":68048.31, "Property & Asset Management":68048.31},
-			"2014-07": {"total":67266.99, "Property & Asset Management":67266.99},
-			"2014-08": {"total":27599.55, "Property & Asset Management":27599.55},
-			"2014-09": {"total":38518.49, "Property & Asset Management":38518.49},
-			"2014-10": {"total":13018.08, "Property & Asset Management":13018.08},
-			"2014-11": {"total":38001.66, "Property & Asset Management":38001.66},
-			"2014-12": {"total":86393.18, "Property & Asset Management":86393.18},
-			"2015-01": {"total":83417.87, "Property & Asset Management":83417.87},
-			"2015-02": {"total":149697.69, "Property & Asset Management":149697.69},
-			"2015-03": {"total":132792.62, "Property & Asset Management":132792.62},
-			"2015-04": {"total":92074.27, "Property & Asset Management":92074.27},
-			"2015-05": {"total":98888.05, "Property & Asset Management":98888.05},
-			"2015-06": {"total":107202.08, "Property & Asset Management":107202.08},
-			"2015-07": {"total":84288.78, "Property & Asset Management":84288.78},
-			"2015-08": {"total":33110.78, "Property & Asset Management":33110.78},
-			"2015-09": {"total":48705.36, "Property & Asset Management":48705.36},
-			"2015-10": {"total":101106.42, "Property & Asset Management":101106.42},
-			"2015-11": {"total":59889.86, "Property & Asset Management":59889.86},
-			"2016-01": {"total":126589.20, "Property & Asset Management":126589.20},
-			"2016-02": {"total":108043.87, "Property & Asset Management":108043.87},
-			"2016-03": {"total":67436.74, "Property & Asset Management":67436.74},
-			"2016-04": {"total":102023.88, "Property & Asset Management":102023.88},
-			"2016-05": {"total":126918.33, "Property & Asset Management":126918.33},
-			"2016-06": {"total":69083.71, "Property & Asset Management":69083.71},
-			"2016-07": {"total":177610.64, "Property & Asset Management":177610.64},
-			"2016-08": {"total":93860.76, "Property & Asset Management":93860.76},
-			"2016-09": {"total":37439.80, "Property & Asset Management":37439.80},
-			"2016-10": {"total":77694.61, "Property & Regeneration":77694.61},
-			"2016-11": {"total":34755.94, "Property & Regeneration":34755.94},
-			"2016-12": {"total":90182.28, "Property & Regeneration":90182.28},
-			"2017-01": {"total":83467.64, "Property & Regeneration":83467.64},
-			"2017-02": {"total":68442.07, "Property & Regeneration":68442.07},
-			"2017-03": {"total":150784.38, "Property & Regeneration":150784.38},
-			"2017-04": {"total":6890.78, "Property & Regeneration":6890.78},
-			"2017-05": {"total":16120.55, "Property & Regeneration":16120.55},
-			"2017-06": {"total":235872.03, "Property & Regeneration":235872.03},
-			"2017-07": {"total":13954.91, "Property & Regeneration":13954.91},
-			"2017-11": {"total":3832.96, "Property & Regeneration":3832.96},
-			"2017-12": {"total":673.65, "Property & Regeneration":673.65},
-			"2019-01": {"total":4319.94, "Property & Regeneration":4319.94},
-			"2019-05": {"total":498.30, "Property & Regeneration":498.30},
-			"2019-09": {"total":11.08, "Property & Regeneration":11.08}
-		}
-	},
-	"1045": {
-		"name": "BRITISH GAS TRADING LTD",
-		"alternate-names": [
-			"BRITISH GAS TRADING LIMITED"
-		],
-		"total": 55483.94,
-		"monthly": {
-			"2014-05": {"total":547.85, "Property & Asset Management":547.85},
-			"2015-02": {"total":2861.12, "Property & Asset Management":2861.12},
-			"2015-03": {"total":683.82, "Property & Asset Management":683.82},
-			"2016-03": {"total":504.20, "Property & Asset Management":504.20},
-			"2016-11": {"total":598.33, "Property & Regeneration":598.33},
-			"2017-05": {"total":1670.98, "Property & Regeneration":1670.98},
-			"2017-07": {"total":1153.46, "Property & Regeneration":1153.46},
-			"2018-01": {"total":1958.22, "Property & Regeneration":1958.22},
-			"2018-03": {"total":6145.37, "Property & Regeneration":6145.37},
-			"2018-04": {"total":1505.89, "Property & Regeneration":1505.89},
-			"2018-06": {"total":19823.80, "Property & Regeneration":19823.80},
-			"2018-08": {"total":1313.65, "Property & Regeneration":1313.65},
-			"2018-09": {"total":3238.10, "Property & Regeneration":3238.10},
-			"2019-04": {"total":763.05, "Property & Regeneration":763.05},
-			"2019-05": {"total":1019.21, "Property & Regeneration":1019.21},
-			"2019-06": {"total":6378.61, "Property & Regeneration":6378.61},
-			"2019-07": {"total":504.47, "Property & Regeneration":504.47},
-			"2019-08": {"total":873.97, "Property & Regeneration":873.97},
-			"2019-09": {"total":648.66, "Property & Regeneration":648.66},
-			"2019-10": {"total":150.71, "Property & Regeneration":150.71},
-			"2019-11": {"total":362.67, "Property & Regeneration":362.67},
-			"2019-12": {"total":582.65, "Property & Regeneration":582.65},
-			"2020-01": {"total":516.63, "Property & Regeneration":516.63},
-			"2020-02": {"total":422.04, "Property & Regeneration":422.04},
-			"2020-03": {"total":181.67, "Property & Regeneration":181.67},
-			"2020-04": {"total":502.51, "Property & Regeneration":502.51},
-			"2020-05": {"total":72.13, "Property & Regeneration":72.13},
-			"2020-06": {"total":500.17, "Property & Regeneration":500.17}
-		}
-	},
-	"1046": {
-		"name": "BRITISH GYMNASTICS",
-		"total": 1862.27,
-		"monthly": {
-			"2014-10": {"total":858.00, "n/a":858.00},
-			"2014-12": {"total":1004.27, "n/a":1004.27}
-		}
-	},
-	"1047": {
-		"name": "BRITISH HEART FOUNDATION",
-		"total": 7454.77,
-		"monthly": {
-			"2016-10": {"total":666.24, "Public Health":666.24},
-			"2017-04": {"total":664.64, "Public Health":664.64},
-			"2017-07": {"total":520.58, "Public Health":520.58},
-			"2018-02": {"total":578.43, "Public Health":578.43},
-			"2018-04": {"total":579.75, "Public Health":579.75},
-			"2018-08": {"total":601.01, "Public Health":601.01},
-			"2018-11": {"total":617.93, "Public Health":617.93},
-			"2019-01": {"total":523.55, "Public Health":523.55},
-			"2019-05": {"total":608.16, "Public Health":608.16},
-			"2019-07": {"total":503.22, "Public Health":503.22},
-			"2019-10": {"total":582.75, "Public Health":582.75},
-			"2020-02": {"total":442.56, "Public Health":442.56},
-			"2020-04": {"total":565.95, "Public Health":565.95}
-		}
-	},
-	"1048": {
-		"name": "BRITISH PARKING ASSOCIATION",
-		"total": 15058,
-		"monthly": {
-			"2014-04": {"total":840.00, "Professional Services":840.00},
-			"2015-04": {"total":857.00, "Professional Services":857.00},
-			"2016-04": {"total":866.00, "Professional Services":866.00},
-			"2017-05": {"total":875.00, "Professional Services":875.00},
-			"2018-05": {"total":3595.00, "Professional Services":3595.00},
-			"2019-04": {"total":3971.00, "Professional Services":3971.00},
-			"2020-04": {"total":4054.00, "Professional Services":4054.00}
-		}
-	},
-	"1049": {
-		"name": "BRITISH POLYTHENE LTD T/A BPI RECYCLED PRODUCTS",
-		"total": 9202.75,
-		"monthly": {
-			"2020-04": {"total":9202.75, "Property & Regeneration":9202.75}
 		}
 	}
 	}
