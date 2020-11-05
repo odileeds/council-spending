@@ -1,21 +1,377 @@
 {
-	"range": ["2010-12","2020-07"],
+	"range": ["2010-12","2020-09"],
 	"data": {
 	"4050": {
+		"name": "Early Inspirations Gorton",
+		"total": 18618.33,
+		"monthly": {
+			"2018-08": {"total":1120.00, "Adult Social Care":1120.00},
+			"2018-11": {"total":3156.40, "Adult Social Care":3156.40},
+			"2019-04": {"total":3156.39, "Adult Social Care":3156.39},
+			"2019-08": {"total":3720.96, "Adult Social Care":3720.96},
+			"2019-10": {"total":3004.87, "Adult Social Care":3004.87},
+			"2020-07": {"total":4459.71, "Childrens & Education Services":4459.71}
+		}
+	},
+	"4051": {
+		"name": "Early Inspirations Nursery",
+		"total": 5197.25,
+		"monthly": {
+			"2014-12": {"total":1264.75, "Childrens Services":1264.75},
+			"2016-08": {"total":657.50, "Adult Social Care":657.50},
+			"2016-12": {"total":512.00, "Adult Social Care":512.00},
+			"2017-02": {"total":888.00, "Adult Social Care":888.00},
+			"2017-06": {"total":525.00, "Adult Social Care":525.00},
+			"2017-07": {"total":650.00, "Adult Social Care":650.00},
+			"2017-08": {"total":700.00, "Adult Social Care":700.00}
+		}
+	},
+	"4052": {
+		"name": "Early Years 2 Primary LLP",
+		"total": 4950,
+		"monthly": {
+			"2014-04": {"total":1800.00, "Childrens Services":1800.00},
+			"2015-01": {"total":3150.00, "Childrens Services":3150.00}
+		}
+	},
+	"4053": {
+		"name": "Earnie",
+		"total": 1250,
+		"monthly": {
+			"2016-10": {"total":1250.00, "Manchester Leisure":1250.00}
+		}
+	},
+	"4054": {
+		"name": "Earnie (London) Ltd",
+		"total": 10320.5,
+		"monthly": {
+			"2017-07": {"total":3900.50, "Manchester Leisure":3900.50},
+			"2018-07": {"total":6420.00, "Manchester Leisure":6420.00}
+		}
+	},
+	"4055": {
+		"name": "Earth Anchors Ltd",
+		"total": 201533.1,
+		"monthly": {
+			"2010-12": {"total":14829.09, "Hospitality + Trading Services":843.00, "Manchester Leisure":778.09, "Mersey Valley Joint Committee":13208.00},
+			"2011-01": {"total":3768.00, "Manchester Leisure":3768.00},
+			"2011-03": {"total":3679.90, "Manchester Leisure":3679.90},
+			"2011-05": {"total":627.90, "Hospitality + Trading Services":627.90},
+			"2011-06": {"total":2603.95, "Manchester Leisure":2603.95},
+			"2011-07": {"total":1525.40, "Hospitality + Trading Services":1525.40},
+			"2011-12": {"total":1160.00, "Manchester Leisure":1160.00},
+			"2012-06": {"total":1453.90, "Manchester Leisure":1453.90},
+			"2012-08": {"total":724.95, "Manchester Leisure":724.95},
+			"2013-01": {"total":1122.95, "Manchester Leisure":1122.95},
+			"2013-02": {"total":724.93, "Manchester Leisure":724.93},
+			"2013-06": {"total":3542.05, "Manchester Leisure":3542.05},
+			"2013-07": {"total":508.00, "Manchester Leisure":508.00},
+			"2013-09": {"total":705.00, "Manchester Leisure":705.00},
+			"2013-10": {"total":690.00, "Manchester Leisure":690.00},
+			"2013-11": {"total":1548.00, "Manchester Leisure":1548.00},
+			"2013-12": {"total":606.95, "Manchester Leisure":606.95},
+			"2014-02": {"total":753.00, "Manchester Leisure":753.00},
+			"2014-04": {"total":5002.00, "Manchester Leisure":5002.00},
+			"2014-08": {"total":726.00, "Manchester Leisure":726.00},
+			"2014-10": {"total":1501.00, "Manchester Leisure":1501.00},
+			"2014-11": {"total":2066.00, "Manchester Leisure":2066.00},
+			"2014-12": {"total":4854.00, "Chief Executives":4854.00},
+			"2015-02": {"total":726.00, "Manchester Leisure":726.00},
+			"2015-03": {"total":6025.95, "Environment and Operations":2103.95, "Manchester Leisure":3922.00},
+			"2015-04": {"total":16555.00, "Hospitality + Trading Services":13455.00, "Manchester Leisure":3100.00},
+			"2015-05": {"total":8970.00, "Hospitality + Trading Services":8970.00},
+			"2015-09": {"total":908.00, "Environment and Operations":908.00},
+			"2015-10": {"total":736.00, "Manchester Leisure":736.00},
+			"2015-11": {"total":1033.00, "Manchester Leisure":1033.00},
+			"2015-12": {"total":1980.00, "Environment and Operations":1980.00},
+			"2016-03": {"total":12906.00, "Environment and Operations":2530.00, "Hospitality + Trading Services":7238.00, "Manchester Leisure":3138.00},
+			"2016-06": {"total":761.00, "Manchester Leisure":761.00},
+			"2016-07": {"total":1703.98, "Manchester Leisure":1703.98},
+			"2016-08": {"total":7413.00, "Chief Executives":6652.00, "Manchester Leisure":761.00},
+			"2016-09": {"total":3348.00, "Manchester Leisure":3348.00},
+			"2016-10": {"total":2807.00, "Manchester Leisure":2807.00},
+			"2016-11": {"total":7433.00, "Manchester Leisure":7433.00},
+			"2017-01": {"total":1955.00, "Manchester Leisure":1955.00},
+			"2017-02": {"total":751.00, "Manchester Leisure":751.00},
+			"2017-03": {"total":4279.00, "Adult Social Care":2981.00, "Manchester Leisure":1298.00},
+			"2017-04": {"total":1683.00, "Manchester Leisure":1683.00},
+			"2017-05": {"total":2273.00, "Manchester Leisure":2273.00},
+			"2017-06": {"total":3366.00, "Manchester Leisure":3366.00},
+			"2017-07": {"total":761.00, "Manchester Leisure":761.00},
+			"2017-08": {"total":2670.00, "Manchester Leisure":2670.00},
+			"2017-09": {"total":2623.00, "Manchester Leisure":2623.00},
+			"2018-02": {"total":1650.00, "Manchester Leisure":1650.00},
+			"2018-07": {"total":3498.00, "Manchester Leisure":3498.00},
+			"2018-08": {"total":4261.00, "Manchester Leisure":4261.00},
+			"2018-11": {"total":1308.00, "Manchester Leisure":1308.00},
+			"2019-01": {"total":3304.00, "Manchester Leisure":3304.00},
+			"2019-02": {"total":1724.00, "Manchester Leisure":1724.00},
+			"2019-03": {"total":12654.20, "Manchester Leisure":12654.20},
+			"2019-04": {"total":3171.00, "Manchester Leisure":3171.00},
+			"2019-05": {"total":711.00, "Manchester Leisure":711.00},
+			"2019-06": {"total":771.00, "Manchester Leisure":771.00},
+			"2019-07": {"total":6966.00, "Manchester Leisure":6966.00},
+			"2019-08": {"total":3400.00, "Manchester Leisure":3400.00},
+			"2019-12": {"total":779.00, "Manchester Leisure":779.00},
+			"2020-06": {"total":1046.00, "Manchester Leisure":1046.00},
+			"2020-07": {"total":4022.00, "Manchester Leisure":4022.00},
+			"2020-08": {"total":1308.00, "Manchester Leisure":1308.00},
+			"2020-09": {"total":2570.00, "Manchester Leisure":2570.00}
+		}
+	},
+	"4056": {
+		"name": "East Central Falcons",
+		"total": 2460,
+		"monthly": {
+			"2014-08": {"total":1000.00, "Regeneration Finance":1000.00},
+			"2015-10": {"total":800.00, "Regeneration Finance":800.00},
+			"2015-11": {"total":660.00, "Manchester Leisure":660.00}
+		}
+	},
+	"4057": {
+		"name": "East Cheshire Harriers",
+		"total": 2000,
+		"monthly": {
+			"2011-06": {"total":1000.00, "Manchester Leisure":1000.00},
+			"2011-08": {"total":1000.00, "Manchester Leisure":1000.00}
+		}
+	},
+	"4058": {
+		"name": "East Cheshire NHS Trust",
+		"total": 86445.63,
+		"monthly": {
+			"2015-02": {"total":10447.00, "Adult Social Care":10447.00},
+			"2015-04": {"total":1051.00, "Adult Social Care":1051.00},
+			"2015-05": {"total":1943.00, "Adult Social Care":1943.00},
+			"2015-06": {"total":669.00, "Adult Social Care":669.00},
+			"2015-09": {"total":795.38, "Adult Social Care":795.38},
+			"2015-11": {"total":2877.22, "Adult Social Care":2877.22},
+			"2016-01": {"total":657.92, "Adult Social Care":657.92},
+			"2016-02": {"total":795.38, "Adult Social Care":795.38},
+			"2016-03": {"total":687.30, "Adult Social Care":687.30},
+			"2016-04": {"total":2494.22, "Adult Social Care":2494.22},
+			"2016-06": {"total":774.42, "Adult Social Care":774.42},
+			"2016-07": {"total":1797.08, "Adult Social Care":1797.08},
+			"2016-08": {"total":804.12, "Adult Social Care":804.12},
+			"2016-09": {"total":2075.02, "Adult Social Care":2075.02},
+			"2016-10": {"total":1409.87, "Adult Social Care":1409.87},
+			"2016-11": {"total":1082.06, "Adult Social Care":1082.06},
+			"2017-01": {"total":4904.29, "Adult Social Care":4904.29},
+			"2017-09": {"total":1053.42, "Adult Social Care":1053.42},
+			"2017-10": {"total":2075.76, "Adult Social Care":2075.76},
+			"2017-11": {"total":3605.97, "Adult Social Care":3605.97},
+			"2017-12": {"total":1687.81, "Adult Social Care":1687.81},
+			"2018-01": {"total":764.89, "Adult Social Care":764.89},
+			"2018-02": {"total":7023.19, "Adult Social Care":7023.19},
+			"2018-03": {"total":7841.34, "Adult Social Care":7841.34},
+			"2018-05": {"total":1112.88, "Adult Social Care":1112.88},
+			"2018-06": {"total":2633.55, "Adult Social Care":2633.55},
+			"2018-08": {"total":3021.15, "Adult Social Care":3021.15},
+			"2018-10": {"total":1639.59, "Adult Social Care":1639.59},
+			"2018-11": {"total":5067.72, "Adult Social Care":5067.72},
+			"2019-01": {"total":2325.60, "Adult Social Care":2325.60},
+			"2019-02": {"total":2941.50, "Adult Social Care":2941.50},
+			"2019-03": {"total":2941.50, "Adult Social Care":2941.50},
+			"2019-05": {"total":1112.88, "Adult Social Care":1112.88},
+			"2019-07": {"total":1500.48, "Adult Social Care":1500.48},
+			"2019-09": {"total":2136.57, "Adult Social Care":2136.57},
+			"2019-11": {"total":695.55, "Adult Social Care":695.55}
+		}
+	},
+	"4059": {
+		"name": "East Didsbury Community Group",
+		"total": 2164.55,
+		"monthly": {
+			"2014-08": {"total":1182.00, "Regeneration Finance":1182.00},
+			"2017-11": {"total":982.55, "Manchester Leisure":982.55}
+		}
+	},
+	"4060": {
+		"name": "East Didsbury Methodist Church",
+		"total": 2150,
+		"monthly": {
+			"2014-06": {"total":650.00, "Regeneration Finance":650.00},
+			"2014-11": {"total":750.00, "Regeneration Finance":750.00},
+			"2015-11": {"total":750.00, "Regeneration Finance":750.00}
+		}
+	},
+	"4061": {
+		"name": "East Didsbury Playgroup",
+		"total": 12490,
+		"monthly": {
+			"2011-11": {"total":2358.00, "Childrens Services":2358.00},
+			"2012-05": {"total":3048.00, "Childrens Services":3048.00},
+			"2013-11": {"total":2361.00, "Childrens Services":2361.00},
+			"2014-03": {"total":1771.00, "Childrens Services":1771.00},
+			"2014-06": {"total":2952.00, "Childrens Services":2952.00}
+		}
+	},
+	"4062": {
+		"name": "East Didsbury Pre School",
+		"total": 15548.2,
+		"monthly": {
+			"2013-06": {"total":1212.35, "Childrens Services":1212.35},
+			"2013-07": {"total":1212.35, "Childrens Services":1212.35},
+			"2013-11": {"total":1212.35, "Childrens Services":1212.35},
+			"2014-02": {"total":1212.35, "Childrens Services":1212.35},
+			"2014-07": {"total":2674.70, "Childrens Services":2674.70},
+			"2014-11": {"total":1337.35, "Childrens Services":1337.35},
+			"2015-01": {"total":1337.35, "Childrens Services":1337.35},
+			"2015-06": {"total":1337.35, "Adult Social Care":1337.35},
+			"2015-07": {"total":1337.35, "Adult Social Care":1337.35},
+			"2015-11": {"total":1337.35, "Adult Social Care":1337.35},
+			"2016-02": {"total":1337.35, "Adult Social Care":1337.35}
+		}
+	},
+	"4063": {
+		"name": "East Lancashire Chamber of Commerce",
+		"total": 5400,
+		"monthly": {
+			"2011-12": {"total":1350.00, "Corporate Services":1350.00},
+			"2012-03": {"total":4050.00, "Corporate Services":4050.00}
+		}
+	},
+	"4064": {
+		"name": "East Lancashire Deaf Society",
+		"total": 750,
+		"monthly": {
+			"2011-02": {"total":750.00, "Adult Social Care":750.00}
+		}
+	},
+	"4065": {
+		"name": "East Lancashire Hospitals NHS Trust",
+		"total": 30707.14,
+		"monthly": {
+			"2016-04": {"total":30707.14, "Adult Social Care":30707.14}
+		}
+	},
+	"4066": {
+		"name": "East Lancs Masonic Hall Co Ltd",
+		"total": 5634.62,
+		"monthly": {
+			"2010-12": {"total":1361.70, "Childrens Services":1361.70},
+			"2011-03": {"total":500.00, "Chief Executives":500.00},
+			"2011-05": {"total":1437.50, "Chief Executives":1437.50},
+			"2011-08": {"total":1335.42, "Environment and Operations":1335.42},
+			"2011-09": {"total":500.00, "Environment and Operations":500.00},
+			"2011-10": {"total":500.00, "Environment and Operations":500.00}
+		}
+	},
+	"4067": {
+		"name": "East Levenshulme FC",
+		"total": 4611.85,
+		"monthly": {
+			"2011-03": {"total":4611.85, "Chief Executives":4611.85}
+		}
+	},
+	"4068": {
+		"name": "East M/cr Sport & Acitivity Forum",
+		"total": 74906.76,
+		"monthly": {
+			"2015-11": {"total":12500.00, "Regeneration Finance":12500.00},
+			"2015-12": {"total":6000.00, "Manchester Leisure":6000.00},
+			"2016-01": {"total":2605.00, "Regeneration Finance":2605.00},
+			"2016-02": {"total":4000.00, "Manchester Leisure":4000.00},
+			"2016-03": {"total":10000.00, "Manchester Leisure":10000.00},
+			"2017-03": {"total":12175.00, "Manchester Leisure":12175.00},
+			"2017-08": {"total":3335.00, "Manchester Leisure":3335.00},
+			"2017-09": {"total":672.00, "Manchester Leisure":672.00},
+			"2017-10": {"total":9620.00, "Manchester Leisure":9620.00},
+			"2017-12": {"total":6000.00, "Manchester Leisure":6000.00},
+			"2018-02": {"total":2092.00, "Manchester Leisure":2092.00},
+			"2018-07": {"total":2000.00, "Manchester Leisure":2000.00},
+			"2018-09": {"total":555.00, "Manchester Leisure":555.00},
+			"2018-10": {"total":2282.76, "Manchester Leisure":2282.76},
+			"2018-11": {"total":500.00, "Manchester Leisure":500.00},
+			"2019-11": {"total":570.00, "Manchester Leisure":570.00}
+		}
+	},
+	"4069": {
+		"name": "East Manchester Academy",
+		"total": 1200,
+		"monthly": {
+			"2018-10": {"total":1200.00, "Chief Executives":1200.00}
+		}
+	},
+	"4070": {
+		"name": "East Manchester Football Club",
+		"total": 1230.21,
+		"monthly": {
+			"2011-11": {"total":1230.21, "Regeneration Finance":1230.21}
+		}
+	},
+	"4071": {
+		"name": "East Manchester Icebergs Aquatics",
+		"total": 1300,
+		"monthly": {
+			"2014-11": {"total":1300.00, "Manchester Leisure":1300.00}
+		}
+	},
+	"4072": {
+		"name": "East Manchester Rangers ARLFC",
+		"total": 1715,
+		"monthly": {
+			"2015-02": {"total":1715.00, "Regeneration Finance":1715.00}
+		}
+	},
+	"4073": {
+		"name": "East Manchester Rebels",
+		"total": 560,
+		"monthly": {
+			"2011-11": {"total":560.00, "Manchester Leisure":560.00}
+		}
+	},
+	"4074": {
+		"name": "East Manchester Rebels Basketball",
+		"total": 2400,
+		"monthly": {
+			"2012-01": {"total":2400.00, "Regeneration Finance":2400.00}
+		}
+	},
+	"4075": {
+		"name": "East Manchester User Group",
+		"total": 600,
+		"monthly": {
+			"2012-11": {"total":600.00, "Regeneration Finance":600.00}
+		}
+	},
+	"4076": {
+		"name": "East Manchester Users Group",
+		"total": 600,
+		"monthly": {
+			"2011-10": {"total":600.00, "Chief Executives":600.00}
+		}
+	},
+	"4077": {
+		"name": "East Riding Horticulture Ltd",
+		"total": 4313,
+		"monthly": {
+			"2018-08": {"total":1222.00, "Manchester Leisure":1222.00},
+			"2019-01": {"total":3091.00, "Manchester Leisure":3091.00}
+		}
+	},
+	"4078": {
+		"name": "East Riding of Yorkshire Council",
+		"total": 2000,
+		"monthly": {
+			"2019-07": {"total":2000.00, "Corporate Services":2000.00}
+		}
+	},
+	"4079": {
 		"name": "East Road Allotment Society",
 		"total": 9000,
 		"monthly": {
 			"2012-03": {"total":9000.00, "Regeneration Finance":9000.00}
 		}
 	},
-	"4051": {
+	"4080": {
 		"name": "East Sussex County Council",
 		"total": 1741.97,
 		"monthly": {
 			"2020-03": {"total":1741.97, "Chief Executives":1741.97}
 		}
 	},
-	"4052": {
+	"4081": {
 		"name": "Easthams Solicitors Ltd",
 		"alternate-names": [
 			"Easthams Solicitors Limited"
@@ -26,21 +382,21 @@
 			"2019-10": {"total":3986.00, "Highways Services":3986.00}
 		}
 	},
-	"4053": {
+	"4082": {
 		"name": "Eastland Colour Ltd",
 		"total": 1286,
 		"monthly": {
 			"2012-07": {"total":1286.00, "Chief Executives":1286.00}
 		}
 	},
-	"4054": {
+	"4083": {
 		"name": "Eastland's Taxis",
 		"total": 1231.64,
 		"monthly": {
 			"2018-05": {"total":1231.64, "Regeneration Finance":1231.64}
 		}
 	},
-	"4055": {
+	"4084": {
 		"name": "Eastlands Homes Partnership Ltd",
 		"total": 3551717.55,
 		"monthly": {
@@ -124,7 +480,7 @@
 			"2020-03": {"total":14448.00, "Housing Revenue Account":14448.00}
 		}
 	},
-	"4056": {
+	"4085": {
 		"name": "Eastlands Homes Ptr Rent A/C",
 		"total": 22306.28,
 		"monthly": {
@@ -134,7 +490,7 @@
 			"2012-12": {"total":695.07, "Housing Revenue Account":695.07}
 		}
 	},
-	"4057": {
+	"4086": {
 		"name": "Eastlands Trust Ltd",
 		"alternate-names": [
 			"Eastlands Trust Limited"
@@ -202,7 +558,7 @@
 			"2020-01": {"total":297738.00, "Manchester Leisure":297738.00}
 		}
 	},
-	"4058": {
+	"4087": {
 		"name": "Eastlands UK Cars",
 		"total": 13216.5,
 		"monthly": {
@@ -211,14 +567,14 @@
 			"2011-02": {"total":2503.00, "Childrens Services":2503.00}
 		}
 	},
-	"4059": {
+	"4088": {
 		"name": "Eastlands Velo",
 		"total": 2500,
 		"monthly": {
 			"2010-12": {"total":2500.00, "Childrens Services":2500.00}
 		}
 	},
-	"4060": {
+	"4089": {
 		"name": "Easy 2 Let Manchester Ltd",
 		"total": 1888.99,
 		"monthly": {
@@ -227,7 +583,7 @@
 			"2019-10": {"total":650.15, "Adult Social Care":650.15}
 		}
 	},
-	"4061": {
+	"4090": {
 		"name": "Easy Equipment Ltd",
 		"alternate-names": [
 			"Easy Equipment Limited"
@@ -237,35 +593,35 @@
 			"2017-12": {"total":4440.00, "Regeneration Finance":4440.00}
 		}
 	},
-	"4062": {
+	"4091": {
 		"name": "Easy Homes (MCR)Ltd",
 		"total": 900,
 		"monthly": {
 			"2019-03": {"total":900.00, "Adult Social Care":900.00}
 		}
 	},
-	"4063": {
+	"4092": {
 		"name": "Easy Homes Mcr Ltd",
 		"total": 850,
 		"monthly": {
 			"2018-07": {"total":850.00, "Adult Social Care":850.00}
 		}
 	},
-	"4064": {
+	"4093": {
 		"name": "Easy2let",
 		"total": 630,
 		"monthly": {
 			"2017-11": {"total":630.00, "Adult Social Care":630.00}
 		}
 	},
-	"4065": {
+	"4094": {
 		"name": "Eat & Sweet Caribbean Food Ltd",
 		"total": 900,
 		"monthly": {
 			"2011-02": {"total":900.00, "Childrens Services":900.00}
 		}
 	},
-	"4066": {
+	"4095": {
 		"name": "Eat Pennines Ltd",
 		"total": 68744.87,
 		"monthly": {
@@ -281,14 +637,21 @@
 			"2018-07": {"total":881.67, "Manchester Leisure":881.67}
 		}
 	},
-	"4067": {
+	"4096": {
+		"name": "Eaton Bank Academy",
+		"total": 1250,
+		"monthly": {
+			"2020-08": {"total":1250.00, "Childrens & Education Services":1250.00}
+		}
+	},
+	"4097": {
 		"name": "Eaton Ryan & Taylor",
 		"total": 9824.93,
 		"monthly": {
 			"2011-10": {"total":9824.93, "Corporate Services":9824.93}
 		}
 	},
-	"4068": {
+	"4098": {
 		"name": "Eaton Smith",
 		"total": 3314.02,
 		"monthly": {
@@ -296,543 +659,12 @@
 			"2019-01": {"total":2223.00, "Highways Services":2223.00}
 		}
 	},
-	"4069": {
+	"4099": {
 		"name": "Eaton Smith LLP",
 		"total": 7217.5,
 		"monthly": {
 			"2018-12": {"total":3300.00, "Highways Services":3300.00},
 			"2019-01": {"total":3917.50, "Highways Services":3917.50}
-		}
-	},
-	"4070": {
-		"name": "Eaton Smith Solicitors",
-		"total": 6130.54,
-		"monthly": {
-			"2012-03": {"total":6130.54, "Highways Services":6130.54}
-		}
-	},
-	"4071": {
-		"name": "Ebiquity t/a Newslive",
-		"total": 15483.6,
-		"monthly": {
-			"2010-12": {"total":3300.00, "Chief Executives":3300.00},
-			"2011-03": {"total":6091.80, "Chief Executives":6091.80},
-			"2011-05": {"total":6091.80, "Chief Executives":6091.80}
-		}
-	},
-	"4072": {
-		"name": "Ebsford Environmental Ltd",
-		"total": 104760,
-		"monthly": {
-			"2015-09": {"total":4263.00, "Environment and Operations":4263.00},
-			"2015-10": {"total":4263.00, "Environment and Operations":4263.00},
-			"2015-11": {"total":4263.00, "Environment and Operations":4263.00},
-			"2016-01": {"total":675.00, "Environment and Operations":675.00},
-			"2016-02": {"total":4263.00, "Environment and Operations":4263.00},
-			"2016-04": {"total":675.00, "Environment and Operations":675.00},
-			"2016-08": {"total":9201.00, "Manchester Leisure":9201.00},
-			"2016-10": {"total":4263.00, "Manchester Leisure":4263.00},
-			"2016-12": {"total":4263.00, "Manchester Leisure":4263.00},
-			"2017-01": {"total":14139.00, "Manchester Leisure":14139.00},
-			"2017-03": {"total":1350.00, "Manchester Leisure":1350.00},
-			"2017-07": {"total":5505.00, "Manchester Leisure":5505.00},
-			"2017-08": {"total":5005.00, "Manchester Leisure":5005.00},
-			"2017-10": {"total":5005.00, "Manchester Leisure":5005.00},
-			"2017-12": {"total":742.00, "Manchester Leisure":742.00},
-			"2018-08": {"total":3186.45, "Manchester Leisure":3186.45},
-			"2018-09": {"total":2186.45, "Manchester Leisure":2186.45},
-			"2018-10": {"total":4372.90, "Manchester Leisure":4372.90},
-			"2019-01": {"total":1000.00, "Manchester Leisure":1000.00},
-			"2019-02": {"total":500.00, "Manchester Leisure":500.00},
-			"2019-10": {"total":5957.30, "Manchester Leisure":5957.30},
-			"2019-11": {"total":4623.40, "Manchester Leisure":4623.40},
-			"2019-12": {"total":5831.20, "Manchester Leisure":5831.20},
-			"2020-02": {"total":5227.30, "Manchester Leisure":5227.30},
-			"2020-06": {"total":4000.00, "Manchester Leisure":4000.00}
-		}
-	},
-	"4073": {
-		"name": "Eccelston Parish Council",
-		"total": 8615,
-		"monthly": {
-			"2015-11": {"total":7800.00, "Manchester Leisure":7800.00},
-			"2017-06": {"total":815.00, "Manchester Leisure":815.00}
-		}
-	},
-	"4074": {
-		"name": "Echo Public Relations",
-		"total": 1000,
-		"monthly": {
-			"2018-04": {"total":1000.00, "Manchester Leisure":1000.00}
-		}
-	},
-	"4075": {
-		"name": "Eclipse Marquees",
-		"total": 1245,
-		"monthly": {
-			"2018-08": {"total":1245.00, "Manchester Leisure":1245.00}
-		}
-	},
-	"4076": {
-		"name": "Eclipse Pyschological Services",
-		"total": 676.05,
-		"monthly": {
-			"2017-10": {"total":676.05, "Adult Social Care":676.05}
-		}
-	},
-	"4077": {
-		"name": "Ecolab Services Ltd",
-		"total": 4195.18,
-		"monthly": {
-			"2011-01": {"total":3461.46, "Housing Revenue Account":3461.46},
-			"2011-12": {"total":733.72, "Housing Revenue Account":733.72}
-		}
-	},
-	"4078": {
-		"name": "Ecomix Concrete Ltd",
-		"total": 667935.299999999,
-		"monthly": {
-			"2011-04": {"total":5197.00, "Hospitality + Trading Services":5197.00},
-			"2011-05": {"total":2708.00, "Hospitality + Trading Services":2708.00},
-			"2011-06": {"total":17294.50, "Hospitality + Trading Services":17294.50},
-			"2011-07": {"total":15291.50, "Hospitality + Trading Services":15291.50},
-			"2011-08": {"total":21234.50, "Hospitality + Trading Services":21234.50},
-			"2011-09": {"total":9811.00, "Hospitality + Trading Services":9811.00},
-			"2011-11": {"total":15881.00, "Hospitality + Trading Services":15881.00},
-			"2011-12": {"total":17825.00, "Hospitality + Trading Services":17825.00},
-			"2012-01": {"total":17993.60, "Hospitality + Trading Services":17993.60},
-			"2012-02": {"total":6320.00, "Hospitality + Trading Services":6320.00},
-			"2012-03": {"total":8235.00, "Hospitality + Trading Services":8235.00},
-			"2012-04": {"total":9026.40, "Hospitality + Trading Services":9026.40},
-			"2012-05": {"total":11464.35, "Hospitality + Trading Services":11464.35},
-			"2012-06": {"total":13102.15, "Hospitality + Trading Services":13102.15},
-			"2012-07": {"total":8988.20, "Hospitality + Trading Services":8988.20},
-			"2012-08": {"total":5158.50, "Hospitality + Trading Services":5158.50},
-			"2012-09": {"total":8142.50, "Hospitality + Trading Services":8142.50},
-			"2012-10": {"total":7005.75, "Hospitality + Trading Services":7005.75},
-			"2012-11": {"total":3973.70, "Hospitality + Trading Services":3973.70},
-			"2012-12": {"total":3815.55, "Hospitality + Trading Services":3815.55},
-			"2013-01": {"total":2702.20, "Hospitality + Trading Services":2702.20},
-			"2013-02": {"total":4451.80, "Hospitality + Trading Services":4451.80},
-			"2013-03": {"total":3092.00, "Hospitality + Trading Services":3092.00},
-			"2013-04": {"total":4032.75, "Hospitality + Trading Services":4032.75},
-			"2013-06": {"total":1490.00, "Hospitality + Trading Services":1490.00},
-			"2013-07": {"total":1266.50, "Hospitality + Trading Services":1266.50},
-			"2013-08": {"total":3352.50, "Hospitality + Trading Services":3352.50},
-			"2013-09": {"total":3650.50, "Hospitality + Trading Services":3650.50},
-			"2013-10": {"total":2607.50, "Hospitality + Trading Services":2607.50},
-			"2013-11": {"total":1266.50, "Hospitality + Trading Services":1266.50},
-			"2013-12": {"total":5659.00, "Hospitality + Trading Services":5659.00},
-			"2014-01": {"total":1167.90, "Hospitality + Trading Services":1167.90},
-			"2014-02": {"total":6975.50, "Hospitality + Trading Services":6975.50},
-			"2014-03": {"total":2777.60, "Hospitality + Trading Services":2777.60},
-			"2014-04": {"total":11133.10, "Hospitality + Trading Services":11133.10},
-			"2014-05": {"total":4259.80, "Hospitality + Trading Services":4259.80},
-			"2014-06": {"total":9524.80, "Hospitality + Trading Services":9524.80},
-			"2014-07": {"total":22204.40, "Hospitality + Trading Services":22204.40},
-			"2014-08": {"total":5565.20, "Hospitality + Trading Services":5565.20},
-			"2014-09": {"total":12213.30, "Hospitality + Trading Services":12213.30},
-			"2014-10": {"total":23031.30, "Hospitality + Trading Services":23031.30},
-			"2014-11": {"total":4813.50, "Hospitality + Trading Services":4813.50},
-			"2014-12": {"total":3662.10, "Hospitality + Trading Services":3662.10},
-			"2015-01": {"total":596.00, "Hospitality + Trading Services":596.00},
-			"2015-02": {"total":9498.10, "Hospitality + Trading Services":9498.10},
-			"2015-03": {"total":4783.90, "Hospitality + Trading Services":4783.90},
-			"2015-04": {"total":3043.00, "Hospitality + Trading Services":3043.00},
-			"2015-05": {"total":3151.20, "Hospitality + Trading Services":3151.20},
-			"2015-06": {"total":7599.30, "Hospitality + Trading Services":7599.30},
-			"2015-07": {"total":10023.48, "Hospitality + Trading Services":10023.48},
-			"2015-08": {"total":12753.18, "Hospitality + Trading Services":12753.18},
-			"2015-09": {"total":14544.12, "Hospitality + Trading Services":14544.12},
-			"2015-10": {"total":3459.40, "Hospitality + Trading Services":3459.40},
-			"2015-11": {"total":6247.60, "Hospitality + Trading Services":6247.60},
-			"2015-12": {"total":3253.90, "Hospitality + Trading Services":3253.90},
-			"2016-01": {"total":11888.00, "Hospitality + Trading Services":11888.00},
-			"2016-02": {"total":9236.94, "Hospitality + Trading Services":9236.94},
-			"2016-03": {"total":5795.00, "Hospitality + Trading Services":5795.00},
-			"2016-04": {"total":14999.44, "Hospitality + Trading Services":14999.44},
-			"2016-05": {"total":17619.80, "Hospitality + Trading Services":17619.80},
-			"2016-06": {"total":7505.30, "Hospitality + Trading Services":7505.30},
-			"2016-07": {"total":9215.85, "Chief Executives":9215.85},
-			"2016-08": {"total":18077.80, "Chief Executives":18077.80},
-			"2016-09": {"total":9304.40, "Chief Executives":9304.40},
-			"2016-10": {"total":9682.85, "Chief Executives":9682.85},
-			"2016-11": {"total":11976.20, "Chief Executives":11976.20},
-			"2016-12": {"total":13533.60, "Chief Executives":13533.60},
-			"2017-01": {"total":8138.20, "Highways Services":8138.20},
-			"2017-02": {"total":8160.80, "Highways Services":8160.80},
-			"2017-03": {"total":9167.10, "Highways Services":9167.10},
-			"2017-05": {"total":17449.10, "Highways Services":17449.10},
-			"2017-07": {"total":1341.00, "Highways Services":1341.00},
-			"2017-08": {"total":2644.75, "Highways Services":2644.75},
-			"2017-09": {"total":3348.40, "Highways Services":3348.40},
-			"2017-10": {"total":2078.20, "Highways Services":2078.20},
-			"2017-11": {"total":646.40, "Highways Services":646.40},
-			"2017-12": {"total":2235.00, "Highways Services":2235.00},
-			"2018-01": {"total":2831.00, "Highways Services":2831.00},
-			"2018-02": {"total":1341.00, "Highways Services":1341.00},
-			"2018-03": {"total":3501.50, "Highways Services":3501.50},
-			"2018-04": {"total":1310.60, "Highways Services":1310.60},
-			"2018-05": {"total":2831.00, "Highways Services":2831.00},
-			"2018-06": {"total":4470.00, "Highways Services":4470.00},
-			"2018-07": {"total":2235.00, "Highways Services":2235.00},
-			"2018-08": {"total":745.00, "Highways Services":745.00},
-			"2018-09": {"total":1490.00, "Highways Services":1490.00},
-			"2018-10": {"total":4997.94, "Highways Services":4997.94},
-			"2018-11": {"total":3725.00, "Highways Services":3725.00},
-			"2018-12": {"total":2980.00, "Highways Services":2980.00},
-			"2019-01": {"total":745.00, "Highways Services":745.00},
-			"2019-02": {"total":3725.00, "Highways Services":3725.00},
-			"2019-03": {"total":4991.50, "Highways Services":4991.50},
-			"2019-11": {"total":3650.50, "Highways Services":3650.50}
-		}
-	},
-	"4079": {
-		"name": "Economic Solutions",
-		"total": 126173,
-		"monthly": {
-			"2014-12": {"total":126173.00, "Regeneration Finance":126173.00}
-		}
-	},
-	"4080": {
-		"name": "Ecos",
-		"total": 1930,
-		"monthly": {
-			"2010-12": {"total":1000.00, "Manchester Leisure":1000.00},
-			"2011-05": {"total":930.00, "Manchester Leisure":930.00}
-		}
-	},
-	"4081": {
-		"name": "Ecospheric Ltd",
-		"total": 1500,
-		"monthly": {
-			"2020-04": {"total":1500.00, "Chief Executives":1500.00}
-		}
-	},
-	"4082": {
-		"name": "Eddisons Taylors",
-		"total": 6500,
-		"monthly": {
-			"2018-02": {"total":6500.00, "Corporate Services":6500.00}
-		}
-	},
-	"4083": {
-		"name": "Eddy Adams Consultants Ltd",
-		"total": 3170.7,
-		"monthly": {
-			"2019-03": {"total":830.50, "Chief Executives":830.50},
-			"2019-09": {"total":840.20, "Chief Executives":840.20},
-			"2019-12": {"total":1500.00, "Chief Executives":1500.00}
-		}
-	},
-	"4084": {
-		"name": "Eddy Adams Consultations Ltd",
-		"total": 750,
-		"monthly": {
-			"2018-05": {"total":750.00, "Chief Executives":750.00}
-		}
-	},
-	"4085": {
-		"name": "Eden Brown Ltd",
-		"total": 2897341.91,
-		"monthly": {
-			"2010-12": {"total":19762.90, "Chief Executives":19762.90},
-			"2011-01": {"total":35354.94, "Chief Executives":35354.94},
-			"2011-02": {"total":22368.32, "Chief Executives":22368.32},
-			"2011-03": {"total":15554.05, "Chief Executives":15554.05},
-			"2011-04": {"total":17759.18, "Chief Executives":17759.18},
-			"2011-05": {"total":1961.85, "Chief Executives":1961.85},
-			"2011-06": {"total":4926.23, "Chief Executives":4926.23},
-			"2011-08": {"total":92200.44, "Chief Executives":92200.44},
-			"2011-10": {"total":84318.41, "Chief Executives":84318.41},
-			"2011-12": {"total":34955.65, "Chief Executives":34955.65},
-			"2012-01": {"total":80713.45, "Chief Executives":80713.45},
-			"2012-02": {"total":40895.42, "Chief Executives":40895.42},
-			"2012-03": {"total":54762.88, "Chief Executives":54762.88},
-			"2012-04": {"total":36230.75, "Chief Executives":36230.75},
-			"2012-07": {"total":128125.65, "Chief Executives":128125.65},
-			"2012-08": {"total":105962.46, "Chief Executives":105962.46},
-			"2012-10": {"total":423735.89, "Adult Social Care":57376.44, "Chief Executives":278687.64, "Childrens Services":66319.56, "Corporate Services":20746.82, "Manchester Leisure":605.43},
-			"2012-11": {"total":10823.47, "Adult Social Care":9907.87, "Childrens Services":915.60},
-			"2012-12": {"total":86739.09, "Adult Social Care":10009.62, "Chief Executives":57091.70, "Childrens Services":10173.27, "Corporate Services":9464.50},
-			"2013-02": {"total":33748.51, "Adult Social Care":8063.69, "Chief Executives":15972.13, "Childrens Services":7497.50, "Corporate Services":2215.19},
-			"2013-03": {"total":5217.67, "Chief Executives":4406.71, "Childrens Services":810.96},
-			"2013-04": {"total":14229.18, "Chief Executives":14229.18},
-			"2013-05": {"total":51931.00, "Adult Social Care":12365.21, "Chief Executives":9200.35, "Childrens Services":23061.29, "Corporate Services":5981.75, "Regeneration Finance":1322.40},
-			"2013-06": {"total":17522.73, "Adult Social Care":7462.26, "Chief Executives":4755.56, "Childrens Services":3814.43, "Regeneration Finance":1490.48},
-			"2013-07": {"total":72191.17, "Adult Social Care":31992.62, "Chief Executives":9088.63, "Childrens Services":11999.67, "Corporate Services":15218.80, "Regeneration Finance":3891.45},
-			"2013-08": {"total":71380.22, "Adult Social Care":17162.60, "Chief Executives":8400.44, "Childrens Services":19039.55, "Corporate Services":10272.65, "Hospitality + Trading Services":14729.25, "Regeneration Finance":1775.73},
-			"2013-09": {"total":22527.91, "Adult Social Care":5443.88, "Chief Executives":11774.13, "Childrens Services":3628.90, "Hospitality + Trading Services":1681.00},
-			"2013-10": {"total":56100.96, "Adult Social Care":18138.24, "Chief Executives":16906.40, "Childrens Services":8556.87, "Corporate Services":7271.95, "Hospitality + Trading Services":5227.50},
-			"2013-11": {"total":39266.13, "Adult Social Care":14591.14, "Chief Executives":9452.14, "Childrens Services":9365.35, "Corporate Services":4115.00, "Hospitality + Trading Services":1742.50},
-			"2013-12": {"total":26223.69, "Adult Social Care":10935.83, "Chief Executives":5860.70, "Childrens Services":5200.85, "Corporate Services":3150.06, "Hospitality + Trading Services":1076.25},
-			"2014-01": {"total":55387.96, "Adult Social Care":26548.08, "Chief Executives":2777.75, "Childrens Services":21646.82, "Corporate Services":4415.31},
-			"2014-02": {"total":605.88, "Chief Executives":605.88},
-			"2014-03": {"total":43250.38, "Adult Social Care":12462.43, "Chief Executives":23527.61, "Childrens Services":4390.78, "Corporate Services":2869.56},
-			"2014-04": {"total":64817.72, "Adult Social Care":17522.48, "Chief Executives":40568.29, "Childrens Services":2133.35, "Corporate Services":4593.60},
-			"2014-05": {"total":6795.61, "Adult Social Care":6795.61},
-			"2014-06": {"total":65067.74, "Adult Social Care":28586.17, "Chief Executives":26931.99, "Childrens Services":721.98, "Corporate Services":8827.60},
-			"2014-07": {"total":108681.52, "Adult Social Care":41765.02, "Chief Executives":42790.70, "Childrens Services":6778.17, "Corporate Services":17347.63},
-			"2014-08": {"total":51107.95, "Adult Social Care":29367.34, "Chief Executives":5861.08, "Childrens Services":7898.08, "Corporate Services":7981.45},
-			"2014-09": {"total":32494.23, "Adult Social Care":14745.69, "Chief Executives":7220.66, "Childrens Services":3147.64, "Corporate Services":7380.24},
-			"2014-10": {"total":6722.46, "Adult Social Care":3838.50, "Chief Executives":2883.96},
-			"2014-11": {"total":7973.78, "Adult Social Care":6077.38, "Chief Executives":1896.40},
-			"2014-12": {"total":59964.52, "Adult Social Care":43495.66, "Chief Executives":7590.54, "Childrens Services":7826.10, "Corporate Services":1052.22},
-			"2015-01": {"total":41998.99, "Adult Social Care":18288.70, "Chief Executives":17233.10, "Childrens Services":4244.20, "Corporate Services":2232.99},
-			"2015-02": {"total":74080.41, "Adult Social Care":54677.47, "Chief Executives":14864.88, "Corporate Services":4538.06},
-			"2015-03": {"total":124351.58, "Adult Social Care":61764.18, "Chief Executives":44091.20, "Corporate Services":18496.20},
-			"2015-04": {"total":120144.48, "Adult Social Care":38819.63, "Chief Executives":63409.87, "Corporate Services":17914.98},
-			"2015-05": {"total":36445.09, "Adult Social Care":11664.06, "Chief Executives":18480.67, "Corporate Services":6300.36},
-			"2015-06": {"total":75638.85, "Adult Social Care":25643.01, "Chief Executives":47938.86, "Corporate Services":2056.98},
-			"2015-07": {"total":66748.28, "Adult Social Care":12696.29, "Chief Executives":50595.99, "Regeneration Finance":3456.00},
-			"2015-08": {"total":147574.28, "Adult Social Care":100520.56, "Chief Executives":28885.50, "Regeneration Finance":18168.22}
-		}
-	},
-	"4086": {
-		"name": "Eden Brown Synergy",
-		"total": 4984918.17,
-		"monthly": {
-			"2015-09": {"total":214617.26, "Adult Social Care":58906.66, "Chief Executives":147688.45, "Regeneration Finance":8022.15},
-			"2015-10": {"total":153323.28, "Adult Social Care":44642.30, "Chief Executives":107558.68, "Manchester Leisure":1122.30},
-			"2015-11": {"total":121033.23, "Adult Social Care":80506.31, "Chief Executives":29943.32, "Manchester Leisure":546.61, "Regeneration Finance":10036.99},
-			"2015-12": {"total":55347.11, "Adult Social Care":36987.89, "Chief Executives":14567.60, "Manchester Leisure":1093.22, "Regeneration Finance":2698.40},
-			"2016-01": {"total":83383.40, "Adult Social Care":4963.77, "Chief Executives":77845.93, "Regeneration Finance":573.70},
-			"2016-02": {"total":47024.30, "Adult Social Care":24246.86, "Chief Executives":22777.44},
-			"2016-03": {"total":164228.79, "Adult Social Care":32094.66, "Chief Executives":126081.81, "Regeneration Finance":6052.32},
-			"2016-04": {"total":105714.63, "Chief Executives":105714.63},
-			"2016-05": {"total":89532.19, "Chief Executives":89532.19},
-			"2016-06": {"total":194575.99, "Chief Executives":194575.99},
-			"2016-07": {"total":590.24, "Chief Executives":590.24},
-			"2016-08": {"total":504184.29, "Adult Social Care":198177.05, "Chief Executives":273142.00, "Childrens Services":3453.12, "Corporate Services":29412.12},
-			"2016-09": {"total":273694.70, "Chief Executives":273694.70},
-			"2016-10": {"total":271746.72, "Adult Social Care":16969.34, "Chief Executives":252506.71, "Corporate Services":2270.67},
-			"2016-11": {"total":126629.47, "Chief Executives":126629.47},
-			"2016-12": {"total":229792.24, "Chief Executives":229792.24},
-			"2017-01": {"total":219561.91, "Chief Executives":219561.91},
-			"2017-02": {"total":284031.76, "Chief Executives":284031.76},
-			"2017-03": {"total":202922.24, "Chief Executives":202922.24},
-			"2017-04": {"total":94967.29, "Chief Executives":94967.29},
-			"2017-05": {"total":31710.48, "Chief Executives":31710.48},
-			"2017-06": {"total":180916.72, "Chief Executives":180916.72},
-			"2017-07": {"total":76353.78, "Chief Executives":76353.78},
-			"2017-08": {"total":445163.36, "Chief Executives":445163.36},
-			"2017-09": {"total":49303.82, "Chief Executives":49303.82},
-			"2017-11": {"total":59056.94, "Chief Executives":59056.94},
-			"2018-02": {"total":108311.84, "Chief Executives":108311.84},
-			"2018-03": {"total":386635.95, "Chief Executives":386635.95},
-			"2018-04": {"total":40162.93, "Chief Executives":40162.93},
-			"2018-05": {"total":14493.73, "Chief Executives":14493.73},
-			"2018-06": {"total":5378.85, "Chief Executives":5378.85},
-			"2018-07": {"total":73417.55, "Chief Executives":73417.55},
-			"2018-09": {"total":8814.60, "Chief Executives":8814.60},
-			"2019-03": {"total":522.20, "Chief Executives":522.20},
-			"2020-06": {"total":52838.78, "Chief Executives":52838.78},
-			"2020-07": {"total":14935.60, "Chief Executives":14935.60}
-		}
-	},
-	"4087": {
-		"name": "Eden Cafe Merseybank",
-		"total": 2000,
-		"monthly": {
-			"2018-06": {"total":2000.00, "Manchester Leisure":2000.00}
-		}
-	},
-	"4088": {
-		"name": "Eden Care(North West)Limited",
-		"total": 16919,
-		"monthly": {
-			"2010-12": {"total":2120.00, "Childrens Services":2120.00},
-			"2011-01": {"total":721.00, "Childrens Services":721.00},
-			"2011-02": {"total":721.00, "Childrens Services":721.00},
-			"2011-04": {"total":1399.00, "Childrens Services":1399.00},
-			"2011-06": {"total":533.00, "Childrens Services":533.00},
-			"2011-08": {"total":2665.00, "Childrens Services":2665.00},
-			"2011-09": {"total":2265.00, "Childrens Services":2265.00},
-			"2011-11": {"total":866.00, "Childrens Services":866.00},
-			"2012-01": {"total":866.00, "Childrens Services":866.00},
-			"2012-03": {"total":3031.00, "Childrens Services":3031.00},
-			"2012-05": {"total":866.00, "Childrens Services":866.00},
-			"2013-02": {"total":866.00, "Childrens Services":866.00}
-		}
-	},
-	"4089": {
-		"name": "Eden District Council",
-		"total": 30283,
-		"monthly": {
-			"2012-02": {"total":593.00, "Manchester Leisure":593.00},
-			"2012-03": {"total":690.00, "Manchester Leisure":690.00},
-			"2017-12": {"total":26000.00, "Manchester Leisure":26000.00},
-			"2018-03": {"total":3000.00, "Manchester Leisure":3000.00}
-		}
-	},
-	"4090": {
-		"name": "Eden Florists",
-		"total": 20070,
-		"monthly": {
-			"2011-11": {"total":3480.00, "Hospitality + Trading Services":3480.00},
-			"2012-11": {"total":6318.00, "Hospitality + Trading Services":6318.00},
-			"2013-11": {"total":10272.00, "Hospitality + Trading Services":10272.00}
-		}
-	},
-	"4091": {
-		"name": "Edenfield Centre",
-		"total": 1512,
-		"monthly": {
-			"2016-08": {"total":756.00, "Adult Social Care":756.00},
-			"2017-04": {"total":756.00, "Adult Social Care":756.00}
-		}
-	},
-	"4092": {
-		"name": "Edenred",
-		"total": 1779.76,
-		"monthly": {
-			"2012-03": {"total":1779.76, "Corporate Services":1779.76}
-		}
-	},
-	"4093": {
-		"name": "Edenred (Admin)",
-		"total": 44820.13,
-		"monthly": {
-			"2010-12": {"total":5412.92, "Corporate Services":5412.92},
-			"2011-02": {"total":2813.56, "Corporate Services":2813.56},
-			"2011-03": {"total":4578.25, "Corporate Services":4578.25},
-			"2011-04": {"total":1360.58, "Corporate Services":1360.58},
-			"2011-05": {"total":1739.35, "Corporate Services":1739.35},
-			"2011-06": {"total":1699.21, "Corporate Services":1699.21},
-			"2011-07": {"total":1722.94, "Corporate Services":1722.94},
-			"2011-08": {"total":825.34, "Corporate Services":825.34},
-			"2011-09": {"total":1718.32, "Corporate Services":1718.32},
-			"2011-10": {"total":2567.19, "Corporate Services":2567.19},
-			"2011-11": {"total":1644.14, "Corporate Services":1644.14},
-			"2011-12": {"total":3387.20, "Corporate Services":3387.20},
-			"2012-02": {"total":1735.85, "Corporate Services":1735.85},
-			"2012-04": {"total":1808.73, "Corporate Services":1808.73},
-			"2012-05": {"total":1841.78, "Corporate Services":1841.78},
-			"2012-06": {"total":1026.09, "Corporate Services":1026.09},
-			"2012-07": {"total":518.54, "Corporate Services":518.54},
-			"2012-09": {"total":518.07, "Corporate Services":518.07},
-			"2012-10": {"total":1031.96, "Corporate Services":1031.96},
-			"2012-11": {"total":518.51, "Corporate Services":518.51},
-			"2012-12": {"total":1057.44, "Corporate Services":1057.44},
-			"2013-03": {"total":536.56, "Corporate Services":536.56},
-			"2013-04": {"total":1115.07, "Corporate Services":1115.07},
-			"2013-05": {"total":1665.53, "Corporate Services":1665.53},
-			"2016-04": {"total":1250.00, "Chief Executives":1250.00},
-			"2017-03": {"total":727.00, "Chief Executives":727.00}
-		}
-	},
-	"4094": {
-		"name": "Edenred (Vouchers)",
-		"total": 26160.3,
-		"monthly": {
-			"2015-12": {"total":26160.30, "Corporate Services":26160.30}
-		}
-	},
-	"4095": {
-		"name": "Edexcel",
-		"total": 67811.1,
-		"monthly": {
-			"2011-03": {"total":2959.20, "Childrens Services":2959.20},
-			"2011-04": {"total":523.40, "Childrens Services":523.40},
-			"2011-11": {"total":2102.10, "Childrens Services":2102.10},
-			"2011-12": {"total":3651.80, "Childrens Services":3651.80},
-			"2012-01": {"total":515.20, "Childrens Services":515.20},
-			"2012-03": {"total":1583.40, "Childrens Services":1583.40},
-			"2012-04": {"total":1171.80, "Childrens Services":1171.80},
-			"2012-06": {"total":1162.30, "Childrens Services":1162.30},
-			"2012-11": {"total":639.60, "Childrens Services":639.60},
-			"2012-12": {"total":3364.25, "Childrens Services":3364.25},
-			"2013-01": {"total":1369.55, "Childrens Services":1369.55},
-			"2013-02": {"total":1165.90, "Childrens Services":1165.90},
-			"2014-03": {"total":516.00, "Childrens Services":516.00},
-			"2014-06": {"total":5463.60, "Childrens Services":5463.60},
-			"2014-07": {"total":1717.20, "Childrens Services":1717.20},
-			"2014-08": {"total":670.80, "Childrens Services":670.80},
-			"2015-02": {"total":1000.00, "Adult Social Care":1000.00},
-			"2015-03": {"total":2244.00, "Adult Social Care":2244.00},
-			"2015-04": {"total":736.40, "Adult Social Care":736.40},
-			"2015-12": {"total":652.50, "Adult Social Care":652.50},
-			"2016-04": {"total":3059.30, "Adult Social Care":3059.30},
-			"2016-05": {"total":3055.20, "Adult Social Care":3055.20},
-			"2016-06": {"total":4213.65, "Adult Social Care":4213.65},
-			"2016-07": {"total":2184.20, "Adult Social Care":2184.20},
-			"2016-10": {"total":1676.25, "Adult Social Care":1676.25},
-			"2017-01": {"total":2148.75, "Adult Social Care":2148.75},
-			"2017-02": {"total":536.00, "Adult Social Care":536.00},
-			"2017-03": {"total":10704.75, "Adult Social Care":10704.75},
-			"2017-05": {"total":536.00, "Adult Social Care":536.00},
-			"2017-08": {"total":639.40, "Manchester Leisure":639.40},
-			"2018-02": {"total":4297.50, "Manchester Leisure":4297.50},
-			"2019-09": {"total":800.00, "Regeneration Finance":800.00},
-			"2019-10": {"total":751.10, "Regeneration Finance":751.10}
-		}
-	},
-	"4096": {
-		"name": "Edgar J Browning Ltd",
-		"total": 138844.8,
-		"monthly": {
-			"2010-12": {"total":8370.00, "Hospitality + Trading Services":8370.00},
-			"2011-02": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2011-03": {"total":3720.00, "Hospitality + Trading Services":3720.00},
-			"2011-04": {"total":4278.00, "Hospitality + Trading Services":4278.00},
-			"2011-05": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2011-06": {"total":4092.00, "Hospitality + Trading Services":4092.00},
-			"2011-08": {"total":7998.00, "Hospitality + Trading Services":7998.00},
-			"2011-09": {"total":5133.60, "Hospitality + Trading Services":5133.60},
-			"2011-10": {"total":3273.60, "Hospitality + Trading Services":3273.60},
-			"2011-11": {"total":3124.80, "Hospitality + Trading Services":3124.80},
-			"2011-12": {"total":3273.60, "Hospitality + Trading Services":3273.60},
-			"2012-01": {"total":3273.60, "Hospitality + Trading Services":3273.60},
-			"2012-02": {"total":3124.80, "Hospitality + Trading Services":3124.80},
-			"2012-03": {"total":3214.80, "Hospitality + Trading Services":3214.80},
-			"2012-04": {"total":3273.60, "Hospitality + Trading Services":3273.60},
-			"2012-05": {"total":3124.80, "Hospitality + Trading Services":3124.80},
-			"2012-06": {"total":3422.40, "Hospitality + Trading Services":3422.40},
-			"2012-07": {"total":3124.80, "Hospitality + Trading Services":3124.80},
-			"2012-08": {"total":3273.60, "Hospitality + Trading Services":3273.60},
-			"2012-09": {"total":3980.40, "Hospitality + Trading Services":3980.40},
-			"2012-10": {"total":3720.00, "Hospitality + Trading Services":3720.00},
-			"2012-11": {"total":4278.00, "Hospitality + Trading Services":4278.00},
-			"2012-12": {"total":4092.00, "Hospitality + Trading Services":4092.00},
-			"2013-01": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2013-02": {"total":4872.00, "Environment and Operations":594.00, "Hospitality + Trading Services":4278.00},
-			"2013-03": {"total":3720.00, "Hospitality + Trading Services":3720.00},
-			"2013-04": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2013-06": {"total":9374.40, "Hospitality + Trading Services":9374.40},
-			"2013-07": {"total":3720.00, "Hospitality + Trading Services":3720.00},
-			"2013-08": {"total":4278.00, "Hospitality + Trading Services":4278.00},
-			"2013-09": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2013-10": {"total":3906.00, "Hospitality + Trading Services":3906.00},
-			"2013-11": {"total":4278.00, "Hospitality + Trading Services":4278.00}
-		}
-	},
-	"4097": {
-		"name": "Edge Analytics",
-		"total": 6154.11,
-		"monthly": {
-			"2015-02": {"total":6154.11, "Adult Social Care":4916.61, "Chief Executives":1237.50}
-		}
-	},
-	"4098": {
-		"name": "Edge Analytics Ltd",
-		"total": 6237.5,
-		"monthly": {
-			"2012-02": {"total":5000.00, "Chief Executives":5000.00},
-			"2018-01": {"total":1237.50, "Corporate Services":1237.50}
-		}
-	},
-	"4099": {
-		"name": "Edge Entertainment Consultants Ltd",
-		"total": 7360,
-		"monthly": {
-			"2012-03": {"total":2020.00, "Chief Executives":2020.00},
-			"2013-05": {"total":575.00, "Chief Executives":575.00},
-			"2014-11": {"total":670.00, "Hospitality + Trading Services":670.00},
-			"2017-11": {"total":1000.00, "Hospitality + Trading Services":1000.00},
-			"2018-04": {"total":595.00, "Hospitality + Trading Services":595.00},
-			"2019-06": {"total":950.00, "Hospitality + Trading Services":950.00},
-			"2019-07": {"total":950.00, "Hospitality + Trading Services":950.00},
-			"2020-03": {"total":600.00, "Hospitality + Trading Services":600.00}
 		}
 	}
 	}

@@ -38,7 +38,15 @@ S(document).ready(function(){
 					return (key.indexOf('-01') > 0 ? key.substr(0,4):'');
 				},
 				'formatY': function(v){ return formatCurrency(v); },
-				'formatBar': function(){ return "seasonally"; }
+				'formatBar': function(key,val,series){
+					var cls = "seasonally";
+					for(var i = 0; i < this.data.length; i++){
+						if(this.data[i][0]==key){
+							if(i > this.data.length/2) cls += " bar-right";
+						}
+					}
+					return cls;
+				}
 			});
 			if(S('#download').length==0) S('#totals').after('<div id="download"></div>');
 			mainchart.on('barover',function(e){

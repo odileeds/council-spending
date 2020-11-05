@@ -1,7 +1,805 @@
 {
-	"range": ["2011-01","2020-07"],
+	"range": ["2011-01","2020-09"],
 	"data": {
 	"9800": {
+		"name": "MANOR & CASTLE- REGEN GRANTS",
+		"total": 259767.41,
+		"monthly": {
+			"2011-02": {"total":1873.00, "CA DISCRETIONARY BUDGET":1873.00},
+			"2011-04": {"total":5000.00, "CA DISCRETIONARY BUDGET":5000.00},
+			"2012-01": {"total":6526.00, "COMMUNITY ASSEMBLY EAST":6526.00},
+			"2012-02": {"total":10945.00, "COMMUNITY ASSEMBLY EAST":10945.00},
+			"2012-05": {"total":3474.00, "COMMUNITY ASSEMBLY EAST":3474.00},
+			"2012-10": {"total":4026.00, "COMMUNITY ASSEMBLY EAST":4026.00},
+			"2012-11": {"total":500.00, "UNIVERSAL YOUTH SERVICE":500.00},
+			"2013-01": {"total":1485.78, "COMMUNITY ASSEMBLY EAST":1485.78},
+			"2013-03": {"total":600.00, "COMMUNITY ASSEMBLY EAST":600.00},
+			"2013-05": {"total":20000.00, "COMMUNITY ASSEMBLY EAST":20000.00},
+			"2013-12": {"total":8000.00, "COMMUNITY ASSEMBLY EAST":8000.00},
+			"2014-01": {"total":1713.28, "EAST":1713.28},
+			"2014-03": {"total":600.00, "EAST":600.00},
+			"2014-09": {"total":4532.00, "EAST":4532.00},
+			"2014-11": {"total":1000.00, "EAST":1000.00},
+			"2015-02": {"total":1000.00, "EAST":1000.00},
+			"2015-04": {"total":2000.00, "COMMERCIAL TEAM":2000.00},
+			"2016-02": {"total":2000.00, "COMMUNITIES":2000.00},
+			"2016-10": {"total":1000.00, "COMMUNITIES":1000.00},
+			"2017-02": {"total":2000.00, "COMMUNITIES":2000.00},
+			"2017-09": {"total":802.40, "PEOPLE":802.40},
+			"2017-10": {"total":4800.00, "PLACE":4800.00},
+			"2018-12": {"total":8333.25, "PEOPLE":8333.25},
+			"2019-03": {"total":14188.25, "PEOPLE":14188.25},
+			"2019-04": {"total":4200.00, "PLACE":4200.00},
+			"2019-06": {"total":32975.00, "PEOPLE":32975.00},
+			"2019-07": {"total":18723.00, "PEOPLE":18723.00},
+			"2019-08": {"total":16007.93, "PEOPLE":6007.93, "PLACE":10000.00},
+			"2019-09": {"total":63539.27, "PEOPLE":63539.27},
+			"2019-10": {"total":17923.25, "PEOPLE":17923.25}
+		}
+	},
+	"9801": {
+		"name": "MANOR AFTER SCHOOL KIDS KLUB",
+		"total": 10092.65,
+		"monthly": {
+			"2011-03": {"total":4000.00, "SHORT BREAKS FUNDING FOR DISAB":4000.00},
+			"2012-08": {"total":1000.00, "UNIVERSAL YOUTH SERVICE":1000.00},
+			"2013-02": {"total":500.00, "UNIVERSAL YOUTH SERVICE":500.00},
+			"2015-02": {"total":2000.00, "SAFER COMMUNITIES PARTNERSHIP":2000.00},
+			"2018-02": {"total":2342.65, "PEOPLE":2342.65},
+			"2020-02": {"total":250.00, "PEOPLE":250.00}
+		}
+	},
+	"9802": {
+		"name": "MANOR AND CASTLE DEVELOPMENT TRUST",
+		"total": 567628.53,
+		"monthly": {
+			"2012-12": {"total":1312.50, "VSP DELIVER":1312.50},
+			"2013-01": {"total":1812.50, "VSP DELIVER":1812.50},
+			"2013-02": {"total":1812.50, "VSP DELIVER":1812.50},
+			"2013-04": {"total":2296.88, "VSP DELIVER":2296.88},
+			"2013-05": {"total":3125.00, "VSP DELIVER":3125.00},
+			"2013-07": {"total":2453.13, "VSP DELIVER":2453.13},
+			"2013-09": {"total":2677.00, "PARTNERSHIP & GRANT AID MH":2677.00},
+			"2013-10": {"total":2062.50, "VSP DELIVER":2062.50},
+			"2013-11": {"total":3274.00, "PARTNERSHIP & GRANT AID MH":3274.00},
+			"2013-12": {"total":1250.00, "VSP DELIVER":1250.00},
+			"2014-01": {"total":906.25, "VSP DELIVER":906.25},
+			"2014-02": {"total":1250.00, "VSP DELIVER":1250.00},
+			"2014-03": {"total":11480.25, "DISADVANTAGED AREA FUNDING":4800.00, "PARTNERSHIP & GRANT AID MH":3274.00, "VSP DELIVER":3406.25},
+			"2014-04": {"total":3275.00, "PARTNERSHIP & GRANT AID MH":3275.00},
+			"2014-10": {"total":5695.22, "DISADVANTAGED AREA FUNDING":5695.22},
+			"2014-11": {"total":15895.19, "DISADVANTAGED AREA FUNDING":15895.19},
+			"2014-12": {"total":10228.54, "DISADVANTAGED AREA FUNDING":10228.54},
+			"2015-01": {"total":7933.31, "DISADVANTAGED AREA FUNDING":7933.31},
+			"2015-02": {"total":14790.43, "DISADVANTAGED AREA FUNDING":14790.43},
+			"2015-03": {"total":105457.31, "DISADVANTAGED AREA FUNDING":105457.31},
+			"2016-03": {"total":2618.00, "COMMUNITIES":2618.00},
+			"2017-01": {"total":10315.74, "CYPF":10315.74},
+			"2017-02": {"total":79347.22, "CYPF":79347.22},
+			"2017-11": {"total":13549.34, "PEOPLE":13549.34},
+			"2017-12": {"total":8228.66, "PEOPLE":8228.66},
+			"2018-01": {"total":6568.66, "PEOPLE":6568.66},
+			"2018-02": {"total":111249.34, "PEOPLE":111249.34},
+			"2018-03": {"total":1520.00, "PEOPLE":1520.00},
+			"2018-11": {"total":609.00, "PEOPLE":609.00},
+			"2018-12": {"total":20171.49, "PEOPLE":20171.49},
+			"2019-01": {"total":6723.83, "PEOPLE":6723.83},
+			"2019-02": {"total":94590.68, "PEOPLE":94590.68},
+			"2019-07": {"total":1000.00, "PEOPLE":1000.00},
+			"2019-09": {"total":12149.06, "PEOPLE":12149.06}
+		}
+	},
+	"9803": {
+		"name": "MANOR AND PARK GROUP PRACTICE",
+		"total": 1750,
+		"monthly": {
+			"2019-01": {"total":450.00, "PEOPLE":450.00},
+			"2019-05": {"total":630.00, "PEOPLE":630.00},
+			"2019-07": {"total":295.00, "PEOPLE":295.00},
+			"2019-08": {"total":375.00, "PEOPLE":375.00}
+		}
+	},
+	"9804": {
+		"name": "MANOR ASSEMBLY",
+		"total": 15577,
+		"monthly": {
+			"2011-01": {"total":2000.00, "CA DISCRETIONARY BUDGET":2000.00},
+			"2011-03": {"total":500.00, "CA DISCRETIONARY BUDGET":500.00},
+			"2011-06": {"total":1000.00, "COMMUNITY ASSEMBLY EAST":1000.00},
+			"2011-10": {"total":2977.00, "COMMUNITY ASSEMBLY EAST":2977.00},
+			"2012-01": {"total":5000.00, "COMMUNITY ASSEMBLY EAST":5000.00},
+			"2012-06": {"total":1000.00, "COMMUNITY ASSEMBLY EAST":1000.00},
+			"2014-01": {"total":450.00, "EAST":450.00},
+			"2015-02": {"total":1000.00, "EAST":1000.00},
+			"2015-06": {"total":850.00, "EAST":850.00},
+			"2016-10": {"total":500.00, "COMMUNITIES":500.00},
+			"2018-08": {"total":300.00, "PEOPLE":300.00}
+		}
+	},
+	"9805": {
+		"name": "MANOR BOXING CLUB",
+		"total": 1000,
+		"monthly": {
+			"2012-10": {"total":1000.00, "COMMUNITY ASSEMBLY EAST":1000.00}
+		}
+	},
+	"9806": {
+		"name": "MANOR CASTLE DEVELOPMENT TRUST",
+		"total": 113160.48,
+		"monthly": {
+			"2011-02": {"total":500.00, "COMMUNITY ASSEMBLY EAST":500.00},
+			"2011-03": {"total":1849.37, "LSSP / PROVIDER FORUMS":1849.37},
+			"2012-01": {"total":1000.00, "COMMUNITY ASSEMBLY EAST":1000.00},
+			"2012-03": {"total":2000.00, "COMMUNITY ASSEMBLY EAST":2000.00},
+			"2014-02": {"total":19025.49, "SUCCESSFUL FAMILIES PROGRAMME":19025.49},
+			"2014-03": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2014-04": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2014-05": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2014-07": {"total":12683.66, "SUCCESSFUL FAMILIES PROGRAMME":12683.66},
+			"2014-09": {"total":12683.66, "SUCCESSFUL FAMILIES PROGRAMME":12683.66},
+			"2014-11": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2014-12": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2015-01": {"total":6341.83, "SUCCESSFUL FAMILIES PROGRAMME":6341.83},
+			"2015-02": {"total":12683.66, "SUCCESSFUL FAMILIES PROGRAMME":12683.66},
+			"2015-04": {"total":12683.66, "SUCCESSFUL FAMILIES PROGRAMME":12683.66}
+		}
+	},
+	"9807": {
+		"name": "MANOR CHURCH & COMMUNITY PROJECT",
+		"total": 1000,
+		"monthly": {
+			"2014-12": {"total":1000.00, "EAST":1000.00}
+		}
+	},
+	"9808": {
+		"name": "MANOR COM PHARMACY LTD T/A VANTAGE PHARM",
+		"total": 77803.12,
+		"monthly": {
+			"2013-07": {"total":2591.20, "COMMUNITY PHARMACY":2591.20},
+			"2013-08": {"total":1084.00, "COMMUNITY PHARMACY":1084.00},
+			"2013-09": {"total":1471.20, "COMMUNITY PHARMACY":1111.20, "ENHANCED SERVICE - PHARMACY (E":360.00},
+			"2013-10": {"total":962.40, "COMMUNITY PHARMACY":962.40},
+			"2013-11": {"total":952.80, "COMMUNITY PHARMACY":952.80},
+			"2013-12": {"total":1082.40, "COMMUNITY PHARMACY":1082.40},
+			"2014-01": {"total":703.20, "COMMUNITY PHARMACY":703.20},
+			"2014-02": {"total":699.20, "COMMUNITY PHARMACY":699.20},
+			"2014-03": {"total":978.40, "COMMUNITY PHARMACY":978.40},
+			"2014-04": {"total":764.00, "COMMUNITY PHARMACY":764.00},
+			"2014-05": {"total":747.20, "COMMUNITY PHARMACY":747.20},
+			"2014-06": {"total":791.20, "COMMUNITY PHARMACY":791.20},
+			"2014-07": {"total":624.80, "COMMUNITY PHARMACY":624.80},
+			"2014-08": {"total":718.40, "CONTRACT PAYMENTS ? DRUGS":718.40},
+			"2014-09": {"total":822.40, "CONTRACT PAYMENTS ÃÂ DRUGS":822.40},
+			"2014-10": {"total":654.40, "CONTRACT PAYMENTS ? DRUGS":654.40},
+			"2014-11": {"total":532.80, "CONTRACT PAYMENTS ÃÂ DRUGS":532.80},
+			"2014-12": {"total":907.20, "CONTRACT PAYMENTS ? DRUGS":907.20},
+			"2015-01": {"total":799.20, "CONTRACT PAYMENTS ÃÂ DRUGS":799.20},
+			"2015-02": {"total":1512.80, "CONTRACT PAYMENTS ÃÂ DRUGS":1512.80},
+			"2015-03": {"total":581.60, "CONTRACT PAYMENTS ÃÂ DRUGS":581.60},
+			"2015-04": {"total":869.60, "CONTRACT PAYMENTS ÃÂ DRUGS":869.60},
+			"2015-05": {"total":787.20, "CONTRACT PAYMENTS ÃÂ DRUGS":787.20},
+			"2015-06": {"total":795.20, "CONTRACT PAYMENTS ÃÂ DRUGS":795.20},
+			"2015-07": {"total":821.60, "COMMUNITIES":821.60},
+			"2015-08": {"total":755.20, "COMMUNITIES":755.20},
+			"2015-09": {"total":866.40, "COMMUNITIES":866.40},
+			"2015-10": {"total":795.20, "COMMUNITIES":795.20},
+			"2015-11": {"total":836.80, "COMMUNITIES":836.80},
+			"2015-12": {"total":651.20, "COMMUNITIES":651.20},
+			"2016-01": {"total":639.20, "COMMUNITIES":639.20},
+			"2016-02": {"total":626.40, "COMMUNITIES":626.40},
+			"2016-03": {"total":630.40, "COMMUNITIES":630.40},
+			"2016-04": {"total":717.60, "COMMUNITIES":717.60},
+			"2016-05": {"total":631.20, "COMMUNITIES":631.20},
+			"2016-06": {"total":588.80, "COMMUNITIES":588.80},
+			"2016-07": {"total":698.40, "COMMUNITIES":698.40},
+			"2016-08": {"total":661.60, "COMMUNITIES":661.60},
+			"2016-09": {"total":840.00, "COMMUNITIES":840.00},
+			"2016-10": {"total":540.80, "COMMUNITIES":540.80},
+			"2016-11": {"total":740.00, "COMMUNITIES":740.00},
+			"2016-12": {"total":897.60, "COMMUNITIES":897.60},
+			"2017-01": {"total":853.60, "COMMUNITIES":853.60},
+			"2017-02": {"total":924.00, "COMMUNITIES":924.00},
+			"2017-04": {"total":1028.80, "COMMUNITIES":1028.80},
+			"2017-05": {"total":893.60, "COMMUNITIES":893.60},
+			"2017-06": {"total":966.40, "COMMUNITIES":966.40},
+			"2017-07": {"total":1005.60, "COMMUNITIES":1005.60},
+			"2017-08": {"total":926.40, "PEOPLE":926.40},
+			"2017-09": {"total":1038.40, "PEOPLE":1038.40},
+			"2017-10": {"total":796.00, "PEOPLE":796.00},
+			"2017-11": {"total":856.80, "PEOPLE":856.80},
+			"2017-12": {"total":800.80, "PEOPLE":800.80},
+			"2018-01": {"total":798.40, "PEOPLE":798.40},
+			"2018-02": {"total":927.20, "PEOPLE":927.20},
+			"2018-03": {"total":1111.20, "PEOPLE":1111.20},
+			"2018-04": {"total":1126.40, "PEOPLE":1126.40},
+			"2018-05": {"total":1239.00, "PEOPLE":1239.00},
+			"2018-06": {"total":1506.00, "PEOPLE":1506.00},
+			"2018-07": {"total":845.27, "PEOPLE":845.27},
+			"2018-08": {"total":929.60, "PEOPLE":929.60},
+			"2018-09": {"total":810.40, "PEOPLE":810.40},
+			"2018-10": {"total":671.20, "PEOPLE":671.20},
+			"2018-11": {"total":3896.20, "PEOPLE":3896.20},
+			"2018-12": {"total":1220.00, "PEOPLE":1220.00},
+			"2019-01": {"total":1019.20, "PEOPLE":1019.20},
+			"2019-02": {"total":994.00, "PEOPLE":994.00},
+			"2019-03": {"total":998.40, "PEOPLE":998.40},
+			"2019-04": {"total":1069.40, "PEOPLE":1069.40},
+			"2019-05": {"total":791.20, "PEOPLE":791.20},
+			"2019-06": {"total":908.80, "PEOPLE":908.80},
+			"2019-07": {"total":740.00, "PEOPLE":740.00},
+			"2019-08": {"total":874.40, "PEOPLE":874.40},
+			"2019-09": {"total":764.00, "PEOPLE":764.00},
+			"2019-10": {"total":727.20, "PEOPLE":727.20},
+			"2019-11": {"total":868.00, "PEOPLE":868.00},
+			"2019-12": {"total":883.20, "PEOPLE":883.20},
+			"2020-01": {"total":750.40, "PEOPLE":750.40},
+			"2020-02": {"total":630.40, "PEOPLE":630.40},
+			"2020-03": {"total":1077.20, "PEOPLE":1077.20},
+			"2020-04": {"total":608.80, "PEOPLE":608.80},
+			"2020-05": {"total":484.93, "PEOPLE":484.93},
+			"2020-06": {"total":710.53, "PEOPLE":710.53},
+			"2020-07": {"total":731.53, "PEOPLE":731.53},
+			"2020-08": {"total":935.33, "PEOPLE":935.33},
+			"2020-09": {"total":693.73, "PEOPLE":693.73}
+		}
+	},
+	"9809": {
+		"name": "MANOR COMMUNITY CHILDCARE CENTRE",
+		"total": 1065721.08,
+		"monthly": {
+			"2016-07": {"total":300.00, "CYPF":300.00},
+			"2016-11": {"total":599.50, "CYPF":599.50},
+			"2017-01": {"total":1196.00, "CYPF":1196.00},
+			"2017-02": {"total":1040.00, "CYPF":1040.00},
+			"2017-05": {"total":1268.20, "CYPF":1268.20},
+			"2017-06": {"total":1173.15, "CYPF":1173.15},
+			"2017-07": {"total":2932.00, "CYPF":2932.00},
+			"2017-08": {"total":53557.35, "PEOPLE":53557.35},
+			"2017-09": {"total":900.00, "PEOPLE":900.00},
+			"2017-10": {"total":1540.00, "PEOPLE":1540.00},
+			"2017-11": {"total":34706.89, "PEOPLE":34706.89},
+			"2017-12": {"total":10886.40, "PEOPLE":10886.40},
+			"2018-01": {"total":53876.81, "PEOPLE":53876.81},
+			"2018-02": {"total":1093.95, "PEOPLE":1093.95},
+			"2018-03": {"total":36610.94, "PEOPLE":36610.94},
+			"2018-04": {"total":77619.76, "PEOPLE":77619.76},
+			"2018-05": {"total":2784.60, "PEOPLE":2784.60},
+			"2018-06": {"total":37029.50, "PEOPLE":37029.50},
+			"2018-07": {"total":11970.54, "PEOPLE":11970.54},
+			"2018-09": {"total":543.60, "PEOPLE":543.60},
+			"2018-10": {"total":9592.75, "PEOPLE":9592.75},
+			"2018-11": {"total":96984.65, "PEOPLE":96984.65},
+			"2018-12": {"total":2549.18, "PEOPLE":2549.18},
+			"2019-01": {"total":59080.06, "PEOPLE":59080.06},
+			"2019-03": {"total":39050.77, "PEOPLE":39050.77},
+			"2019-04": {"total":62708.18, "PEOPLE":62708.18},
+			"2019-06": {"total":53271.29, "PEOPLE":53271.29},
+			"2019-07": {"total":665.79, "PEOPLE":665.79},
+			"2019-09": {"total":2175.00, "PEOPLE":2175.00},
+			"2019-10": {"total":3644.95, "PEOPLE":3644.95},
+			"2019-11": {"total":92976.38, "PEOPLE":92976.38},
+			"2019-12": {"total":10912.36, "PEOPLE":10912.36},
+			"2020-01": {"total":65095.89, "PEOPLE":65095.89},
+			"2020-02": {"total":2453.60, "PEOPLE":2453.60},
+			"2020-03": {"total":35107.98, "PEOPLE":35107.98},
+			"2020-04": {"total":79617.03, "PEOPLE":79617.03},
+			"2020-05": {"total":11243.05, "PEOPLE":11243.05},
+			"2020-06": {"total":40815.06, "PEOPLE":40815.06},
+			"2020-08": {"total":64842.67, "PEOPLE":64842.67},
+			"2020-09": {"total":1305.25, "PEOPLE":1305.25}
+		}
+	},
+	"9810": {
+		"name": "MANOR COMMUNITY CHILDCARE CENTRE LTD",
+		"total": 270016.63,
+		"monthly": {
+			"2011-01": {"total":25791.00, "PHASES 1,2 & 3 CHILDRENS CENTR":24187.00, "SOCIAL SERVICES LOCATION PLACE":1604.00},
+			"2011-02": {"total":16721.43, "SMALL EDUCATION CAP GRANTS":16721.43},
+			"2011-03": {"total":4939.50, "PHASES 1,2 & 3 CHILDRENS CENTR":2000.00, "SNIPS":2439.50, "SURESTART GRANTS TO LAS":500.00},
+			"2011-05": {"total":21279.00, "CITY WIDE CHILD CARE CONTRACT":20559.00, "LSE SUB-CONTRACTORS":720.00},
+			"2011-06": {"total":22678.68, "CITY WIDE CHILD CARE CONTRACT":22171.00, "SNIPS":507.68},
+			"2011-09": {"total":24296.00, "CITY WIDE CHILD CARE CONTRACT":22171.00, "WORKFORCE DEVELOPMENT":2125.00},
+			"2011-10": {"total":807.60, "SNIPS":807.60},
+			"2011-11": {"total":580.00, "LSE SUB-CONTRACTORS":580.00},
+			"2012-01": {"total":25926.00, "CITY WIDE CHILD CARE CONTRACT":22171.00, "EMTAS":1000.00, "LSE SUB-CONTRACTORS":630.00, "WORKFORCE DEVELOPMENT":2125.00},
+			"2012-04": {"total":520.00, "EARLY YEARS":520.00},
+			"2012-06": {"total":24512.00, "CITY WIDE CHILD CARE CONTRACT":20515.00, "EARLY YEARS SEN TEAM":520.00, "OTHER LOCAL AUTHORITY PLACEMEN":2847.00, "PARENTING STRATEGY":630.00},
+			"2012-07": {"total":21035.00, "CITY WIDE CHILD CARE CONTRACT":20515.00, "EARLY YEARS SEN TEAM":520.00},
+			"2012-09": {"total":1488.16, "EARLY YEARS SEN TEAM":520.00, "SNIPS":968.16},
+			"2012-10": {"total":23300.00, "CITY WIDE CHILD CARE CONTRACT":20515.00, "WORKFORCE DEVELOPMENT":2785.00},
+			"2012-11": {"total":1400.00, "EAST SA - CIN S17":700.00, "NORTH SA - CIN S17":700.00},
+			"2013-02": {"total":440.00, "EARLY YEARS SEN TEAM":440.00},
+			"2013-03": {"total":1525.00, "EARLY YEARS SEN TEAM":520.00, "WORKFORCE DEVELOPMENT":1005.00},
+			"2013-05": {"total":284.88, "SNIPS":284.88},
+			"2013-06": {"total":280.00, "EARLY YEARS SEN TEAM":280.00},
+			"2013-09": {"total":2164.00, "CITY WIDE CHILD CARE CONTRACT":1124.00, "EARLY YEARS SEN TEAM":1040.00},
+			"2013-10": {"total":2043.00, "CITY WIDE CHILD CARE CONTRACT":2043.00},
+			"2013-11": {"total":1991.00, "CITY WIDE CHILD CARE CONTRACT":390.00, "EARLY YEARS SEN TEAM":440.00, "SHORT BREAKS FUNDING FOR DISAB":1161.00},
+			"2013-12": {"total":1742.50, "EARLY YEARS SEN TEAM":280.00, "EAST SA - CIN S17":1462.50},
+			"2014-01": {"total":940.00, "CITY WIDE CHILD CARE CONTRACT":660.00, "EARLY YEARS SEN TEAM":280.00},
+			"2014-02": {"total":1686.00, "EARLY YEARS SEN TEAM":810.00, "EAST SA - CIN S17":300.00, "PARENTING STRATEGY":576.00},
+			"2014-03": {"total":14691.00, "2 YEAR OLD FEL":14691.00},
+			"2014-04": {"total":860.00, "CITY WIDE CHILD CARE CONTRACT":860.00},
+			"2014-05": {"total":504.00, "STUDENT FINANCIAL SUPPORT":504.00},
+			"2014-06": {"total":2338.00, "EARLY YEARS SEN TEAM":2338.00},
+			"2014-07": {"total":2150.00, "C & F CITYWIDE CONTRACTS":1190.00, "EARLY YEARS SEN TEAM":960.00},
+			"2014-08": {"total":600.00, "EARLY YEARS SEN TEAM":600.00},
+			"2014-10": {"total":300.00, "EAST MAST":300.00},
+			"2014-11": {"total":2352.28, "EARLY YEARS SEN TEAM":525.00, "SHORT BREAKS FUNDING FOR DISAB":1827.28},
+			"2015-01": {"total":1830.00, "EY/MAST PREMISES":1830.00},
+			"2015-02": {"total":352.00, "EARLY YEARS SEN TEAM":352.00},
+			"2015-03": {"total":1170.00, "EARLY YEARS SEN TEAM":520.00, "EAST SA - CIN S17":650.00},
+			"2015-04": {"total":2283.00, "EY/MAST PREMISES":860.00, "IN CITY SEN PROVISION":1423.00},
+			"2015-05": {"total":1220.00, "EARLY YEARS SEN TEAM":520.00, "PREVENTION & SUPPORT - CDT":700.00},
+			"2015-06": {"total":763.50, "SHORT BREAKS FUNDING FOR DISAB":763.50},
+			"2015-08": {"total":2847.00, "CYPF":2847.00},
+			"2015-09": {"total":620.00, "CYPF":620.00},
+			"2015-11": {"total":480.00, "CYPF":480.00},
+			"2016-02": {"total":2901.50, "CYPF":2901.50},
+			"2016-03": {"total":260.80, "CYPF":260.80},
+			"2016-04": {"total":1560.00, "CYPF":1560.00},
+			"2016-08": {"total":1042.80, "CYPF":1042.80},
+			"2016-09": {"total":520.00, "CYPF":520.00}
+		}
+	},
+	"9811": {
+		"name": "MANOR COMMUNITY TRANSPORT",
+		"total": 1750,
+		"monthly": {
+			"2019-10": {"total":500.00, "PEOPLE":500.00},
+			"2020-03": {"total":1250.00, "PLACE":1250.00}
+		}
+	},
+	"9812": {
+		"name": "MANOR DEVELOPMENT COMPANY LTD",
+		"alternate-names": [
+			"MANOR DEVELOPMENT COMPANY LIMITED"
+		],
+		"total": 3393908.99999999,
+		"monthly": {
+			"2011-04": {"total":3532.98, "YOS PREVENTION":3532.98},
+			"2011-07": {"total":3499.98, "YOS PREVENTION":3499.98},
+			"2011-10": {"total":6999.96, "YOS PREVENTION":6999.96},
+			"2012-03": {"total":7000.00, "COMMUNITY ASSEMBLY EAST":7000.00},
+			"2012-05": {"total":6999.96, "COMMUNITY YOUTH TEAMS":6999.96},
+			"2012-06": {"total":555.34, "COMMUNITY YOUTH TEAMS":555.34},
+			"2012-07": {"total":631.03, "COMMUNITY YOUTH TEAMS":631.03},
+			"2012-08": {"total":53377.03, "COMMUNITY YOUTH TEAMS":540.86, "MDC - ALISON CRESCENT":52836.17},
+			"2012-09": {"total":598.42, "COMMUNITY YOUTH TEAMS":598.42},
+			"2012-10": {"total":33896.05, "COMMUNITY YOUTH TEAMS":16326.05, "SHEFFIELD COMMUNITY NETWORK":17570.00},
+			"2012-12": {"total":103114.22, "COMMUNITY YOUTH TEAMS":440.00, "MDC - ALISON CRESCENT":102674.22},
+			"2013-01": {"total":168688.62, "COMMUNITY YOUTH TEAMS":2264.46, "MDC - ALISON CRESCENT":164692.23, "SHEFFIELD COMMUNITY NETWORK":1731.93},
+			"2013-02": {"total":99718.20, "COMMUNITY YOUTH TEAMS":1096.90, "MDC - ALISON CRESCENT":98621.30},
+			"2013-03": {"total":250620.26, "COMMUNITY YOUTH TEAMS":1149.36, "MDC - ALISON CRESCENT":249470.90},
+			"2013-05": {"total":272523.44, "COMMUNITY YOUTH TEAMS":1017.81, "MDC - ALISON CRESCENT":271505.63},
+			"2013-06": {"total":1306.68, "COMMUNITY YOUTH TEAMS":1306.68},
+			"2013-07": {"total":312564.61, "COMMUNITY YOUTH TEAMS":1658.97, "MDC - ALISON CRESCENT":310905.64},
+			"2013-08": {"total":1198.01, "COMMUNITY YOUTH TEAMS":1198.01},
+			"2013-09": {"total":236747.18, "COMMUNITY YOUTH TEAMS":8037.98, "MDC - ALISON CRESCENT":228709.20},
+			"2013-10": {"total":1271.65, "COMMUNITY YOUTH TEAMS":1271.65},
+			"2013-11": {"total":605869.84, "COMMUNITY YOUTH TEAMS":1450.40, "MDC - ALISON CRESCENT":589592.40, "SHEFFIELD COMMUNITY NETWORK":14827.04},
+			"2013-12": {"total":607605.40, "COMMUNITY YOUTH TEAMS":1215.32, "MDC - ALISON CRESCENT":606390.08},
+			"2014-01": {"total":13974.92, "COMMUNITY YOUTH TEAMS":13974.92},
+			"2014-02": {"total":1393.84, "COMMUNITY YOUTH TEAMS":1393.84},
+			"2014-03": {"total":1179.30, "COMMUNITY YOUTH TEAMS":1179.30},
+			"2014-05": {"total":129778.35, "COMMUNITY YOUTH TEAMS":8293.95, "MDC - ALISON CRESCENT":121484.40},
+			"2014-06": {"total":2056.18, "COMMUNITY YOUTH TEAMS":2056.18},
+			"2014-07": {"total":7704.67, "COMMUNITY YOUTH TEAMS":7704.67},
+			"2014-08": {"total":596.25, "COMMUNITY YOUTH TEAMS":596.25},
+			"2014-09": {"total":239345.95, "COMMUNITY YOUTH TEAMS":1793.95, "MDC - ALISON CRESCENT":237552.00},
+			"2014-10": {"total":7793.03, "COMMUNITY YOUTH TEAMS":7793.03},
+			"2014-11": {"total":1580.83, "COMMUNITY YOUTH TEAMS":1580.83},
+			"2014-12": {"total":1167.28, "COMMUNITY YOUTH TEAMS":1167.28},
+			"2015-01": {"total":7424.31, "COMMUNITY YOUTH TEAMS":7424.31},
+			"2015-02": {"total":547.13, "COMMUNITY YOUTH TEAMS":547.13},
+			"2015-03": {"total":1855.45, "COMMUNITY YOUTH TEAMS":1855.45},
+			"2015-04": {"total":7581.66, "COMMUNITY YOUTH TEAMS":7581.66},
+			"2015-05": {"total":993.43, "COMMUNITY YOUTH TEAMS":993.43},
+			"2015-06": {"total":753.75, "COMMUNITY YOUTH TEAMS":753.75},
+			"2015-07": {"total":8079.36, "CYPF":8079.36},
+			"2015-08": {"total":528.75, "CYPF":528.75},
+			"2015-09": {"total":1128.03, "CYPF":1128.03},
+			"2015-10": {"total":8012.03, "CYPF":8012.03},
+			"2015-11": {"total":843.75, "CYPF":843.75},
+			"2015-12": {"total":1966.39, "CYPF":1966.39},
+			"2016-01": {"total":7477.11, "CYPF":7477.11},
+			"2016-02": {"total":1107.24, "CYPF":1107.24},
+			"2016-03": {"total":675.00, "CYPF":675.00},
+			"2016-04": {"total":1358.25, "CYPF":1358.25},
+			"2016-05": {"total":776.25, "CYPF":776.25},
+			"2016-06": {"total":7970.40, "CYPF":7970.40},
+			"2016-07": {"total":7055.28, "CYPF":7055.28},
+			"2016-08": {"total":1510.73, "CYPF":1510.73},
+			"2016-09": {"total":1044.72, "CYPF":1044.72},
+			"2016-10": {"total":7729.15, "CYPF":7729.15},
+			"2016-11": {"total":779.95, "CYPF":779.95},
+			"2016-12": {"total":1067.94, "CYPF":1067.94},
+			"2017-01": {"total":7413.08, "CYPF":7413.08},
+			"2017-02": {"total":540.00, "CYPF":540.00},
+			"2017-04": {"total":7280.28, "CYPF":7280.28},
+			"2017-05": {"total":675.00, "CYPF":675.00},
+			"2017-06": {"total":675.00, "CYPF":675.00},
+			"2017-07": {"total":7280.28, "CYPF":7280.28},
+			"2017-08": {"total":713.50, "PEOPLE":713.50},
+			"2017-10": {"total":7887.78, "PEOPLE":7887.78},
+			"2017-11": {"total":281.89, "PEOPLE":281.89},
+			"2018-01": {"total":9721.90, "PEOPLE":9721.90},
+			"2018-02": {"total":955.21, "PEOPLE":955.21},
+			"2018-03": {"total":1115.72, "PEOPLE":1115.72},
+			"2018-04": {"total":1024.31, "PEOPLE":1024.31},
+			"2018-05": {"total":7369.70, "PEOPLE":7369.70},
+			"2018-06": {"total":675.00, "PEOPLE":675.00},
+			"2018-07": {"total":7532.55, "PEOPLE":7532.55},
+			"2018-08": {"total":949.75, "PEOPLE":949.75},
+			"2018-09": {"total":882.00, "PEOPLE":882.00},
+			"2018-10": {"total":7256.66, "PEOPLE":7256.66},
+			"2018-11": {"total":675.00, "PEOPLE":675.00},
+			"2019-01": {"total":7280.28, "PEOPLE":7280.28},
+			"2019-02": {"total":506.25, "PEOPLE":506.25},
+			"2019-03": {"total":1718.00, "PEOPLE":1718.00},
+			"2019-04": {"total":7224.03, "PEOPLE":7224.03},
+			"2019-05": {"total":641.25, "PEOPLE":641.25},
+			"2019-06": {"total":742.50, "PEOPLE":742.50},
+			"2019-07": {"total":675.00, "PEOPLE":675.00},
+			"2019-08": {"total":944.77, "PEOPLE":944.77},
+			"2019-09": {"total":7352.28, "PEOPLE":7352.28},
+			"2019-10": {"total":6436.53, "PEOPLE":6436.53},
+			"2019-11": {"total":1702.51, "PEOPLE":1702.51},
+			"2019-12": {"total":843.75, "PEOPLE":843.75},
+			"2020-01": {"total":7010.28, "PEOPLE":7010.28},
+			"2020-02": {"total":1776.25, "PEOPLE":1776.25},
+			"2020-03": {"total":853.56, "PEOPLE":853.56},
+			"2020-05": {"total":7075.10, "PEOPLE":7075.10},
+			"2020-07": {"total":6436.53, "PEOPLE":6436.53},
+			"2020-08": {"total":630.00, "PEOPLE":630.00}
+		}
+	},
+	"9813": {
+		"name": "MANOR HOUSE",
+		"total": 36069.57,
+		"monthly": {
+			"2016-03": {"total":3200.00, "COMMUNITIES":3200.00},
+			"2016-05": {"total":5947.57, "COMMUNITIES":5947.57},
+			"2016-07": {"total":5004.00, "COMMUNITIES":5004.00},
+			"2016-08": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2016-09": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2016-10": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2016-11": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2016-12": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2017-01": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2017-02": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2017-03": {"total":1668.00, "COMMUNITIES":1668.00},
+			"2017-04": {"total":1694.00, "COMMUNITIES":1694.00},
+			"2017-05": {"total":3440.00, "COMMUNITIES":3440.00},
+			"2017-06": {"total":1720.00, "COMMUNITIES":1720.00},
+			"2017-07": {"total":1720.00, "COMMUNITIES":1720.00}
+		}
+	},
+	"9814": {
+		"name": "MANOR HOUSE RESIDENTS",
+		"total": 600,
+		"monthly": {
+			"2011-01": {"total":600.00, "CA SMALL GRANT":600.00}
+		}
+	},
+	"9815": {
+		"name": "MANOR LIBRARY FRIENDSHIP CIRCLE",
+		"total": 500,
+		"monthly": {
+			"2017-07": {"total":500.00, "COMMUNITIES":500.00}
+		}
+	},
+	"9816": {
+		"name": "MANOR LODGE LUNCHEON CLUB",
+		"total": 18343.5,
+		"monthly": {
+			"2011-04": {"total":582.50, "LUNCH CLUB GRANT":582.50},
+			"2011-09": {"total":582.50, "VS- LUNCH CLUB GRANT":582.50},
+			"2012-01": {"total":582.50, "VS- LUNCH CLUB GRANT":582.50},
+			"2012-04": {"total":555.50, "VS- LUNCH CLUB GRANT":555.50},
+			"2012-10": {"total":1111.00, "VS- LUNCH CLUB GRANT":1111.00},
+			"2013-01": {"total":555.50, "VS- LUNCH CLUB GRANT":555.50},
+			"2013-04": {"total":548.50, "VS- LUNCH CLUB GRANT":548.50},
+			"2013-07": {"total":548.50, "LUNCH CLUB GRANT":548.50},
+			"2013-10": {"total":548.50, "LUNCH CLUB GRANT":548.50},
+			"2014-01": {"total":548.50, "LUNCH CLUB GRANT":548.50},
+			"2014-04": {"total":548.00, "LUNCH CLUB GRANT":548.00},
+			"2014-07": {"total":548.00, "LUNCH CLUB GRANT":548.00},
+			"2014-10": {"total":548.00, "LUNCH CLUB GRANT":548.00},
+			"2015-01": {"total":548.00, "LUNCH CLUB GRANT":548.00},
+			"2015-04": {"total":520.00, "LUNCH CLUB GRANT":520.00},
+			"2015-07": {"total":520.00, "COMMUNITIES":520.00},
+			"2015-10": {"total":519.00, "COMMUNITIES":519.00},
+			"2016-01": {"total":519.00, "COMMUNITIES":519.00},
+			"2016-04": {"total":529.00, "COMMUNITIES":529.00},
+			"2016-06": {"total":530.00, "COMMUNITIES":530.00},
+			"2016-10": {"total":530.00, "COMMUNITIES":530.00},
+			"2017-01": {"total":530.00, "COMMUNITIES":530.00},
+			"2017-04": {"total":530.00, "COMMUNITIES":530.00},
+			"2017-07": {"total":530.00, "COMMUNITIES":530.00},
+			"2017-10": {"total":530.00, "PEOPLE":530.00},
+			"2018-01": {"total":529.00, "PEOPLE":529.00},
+			"2018-04": {"total":533.00, "PEOPLE":533.00},
+			"2018-07": {"total":533.00, "PEOPLE":533.00},
+			"2018-09": {"total":533.00, "PEOPLE":533.00},
+			"2019-01": {"total":533.00, "PEOPLE":533.00},
+			"2019-04": {"total":512.00, "PEOPLE":512.00},
+			"2019-10": {"total":1028.00, "PEOPLE":1028.00}
+		}
+	},
+	"9817": {
+		"name": "MANOR LODGE PRIMARY SCHOOL",
+		"total": 4489.03,
+		"monthly": {
+			"2013-11": {"total":363.83, "DISAB CHILD ACCESS CHILDCARE":363.83},
+			"2013-12": {"total":384.04, "DISAB CHILD ACCESS CHILDCARE":384.04},
+			"2014-05": {"total":668.86, "DISAB CHILD ACCESS CHILDCARE":668.86},
+			"2014-09": {"total":707.44, "DISAB CHILD ACCESS CHILDCARE":707.44},
+			"2014-10": {"total":262.76, "DISAB CHILD ACCESS CHILDCARE":262.76},
+			"2015-01": {"total":747.86, "DISAB CHILD ACCESS CHILDCARE":747.86},
+			"2015-03": {"total":1010.63, "DISAB CHILD ACCESS CHILDCARE":1010.63},
+			"2015-04": {"total":343.61, "DISAB CHILD ACCESS CHILDCARE":343.61}
+		}
+	},
+	"9818": {
+		"name": "MANOR OAKS",
+		"total": 2022.33,
+		"monthly": {
+			"2011-08": {"total":2022.33, "SPLISH":2022.33}
+		}
+	},
+	"9819": {
+		"name": "MANOR PARK MEDICAL CENTRE",
+		"total": 19455,
+		"monthly": {
+			"2013-07": {"total":510.00, "PUBLIC HEALTH - DPH":510.00},
+			"2013-09": {"total":480.00, "ENHANCED SERVICE - IMPLANON":480.00},
+			"2013-11": {"total":750.00, "ENHANCED SERVICE - IMPLANON":750.00},
+			"2014-03": {"total":1370.00, "PUBLIC HEALTH - DPH":1370.00},
+			"2014-04": {"total":630.00, "PUBLIC HEALTH - DPH":630.00},
+			"2014-09": {"total":890.00, "GP HEALTH CHECKS":890.00},
+			"2014-11": {"total":1395.00, "ENHANCED SERVICE - NEXPLANON":575.00, "GP HEALTH CHECKS":820.00},
+			"2015-01": {"total":680.00, "GP HEALTH CHECKS":680.00},
+			"2015-05": {"total":1760.00, "GP HEALTH CHECKS":1760.00},
+			"2015-08": {"total":1030.00, "CYPF":490.00, "POLICY PERFORMANCE AND COMMS":540.00},
+			"2015-11": {"total":2070.00, "POLICY PERFORMANCE AND COMMS":2070.00},
+			"2016-02": {"total":1550.00, "POLICY PERFORMANCE AND COMMS":1550.00},
+			"2016-08": {"total":1280.00, "POLICY PERFORMANCE AND COMMS":1280.00},
+			"2016-10": {"total":540.00, "POLICY PERFORMANCE AND COMMS":540.00},
+			"2017-01": {"total":1490.00, "CYPF":390.00, "POLICY PERFORMANCE AND COMMS":1100.00},
+			"2017-04": {"total":1905.00, "CYPF":765.00, "POLICY PERFORMANCE AND COMMS":1140.00},
+			"2017-05": {"total":400.00, "CYPF":400.00},
+			"2017-11": {"total":365.00, "PEOPLE":365.00},
+			"2018-02": {"total":360.00, "PEOPLE":360.00}
+		}
+	},
+	"9820": {
+		"name": "MANOR PARK MEDICAL CENTRE - DO NOT USE",
+		"total": 595,
+		"monthly": {
+			"2018-04": {"total":595.00, "PEOPLE":595.00}
+		}
+	},
+	"9821": {
+		"name": "MANOR PRESS LTD",
+		"total": 1682.2,
+		"monthly": {
+			"2013-12": {"total":260.20, "OLDER PERSONS LIVING":260.20},
+			"2015-12": {"total":1422.00, "COMMUNITIES":1422.00}
+		}
+	},
+	"9822": {
+		"name": "MANOR RIGHTS & ADVICE CENTRE",
+		"total": 81530,
+		"monthly": {
+			"2011-03": {"total":14843.50, "ADVICE AND ADVOCACY":14843.50},
+			"2011-06": {"total":14843.50, "VS-ADVICE AND ADVOCACY":14843.50},
+			"2011-09": {"total":18773.00, "VS-ADVICE AND ADVOCACY":18773.00},
+			"2011-12": {"total":13803.00, "VS-ADVICE AND ADVOCACY":13803.00},
+			"2012-03": {"total":14538.00, "VS - TACKLING POVERTY":14538.00},
+			"2012-07": {"total":1729.00, "VS- VCS GENERAL":1729.00},
+			"2013-02": {"total":3000.00, "COMMUNITY ASSEMBLY EAST":3000.00}
+		}
+	},
+	"9823": {
+		"name": "MANOR TOP MEDICAL CENTRE",
+		"total": 2983,
+		"monthly": {
+			"2011-01": {"total":2983.00, "STRATEGIC FINANCE":2983.00}
+		}
+	},
+	"9824": {
+		"name": "MANOR TOP MEDICAL CENTRE (DR READ)",
+		"total": 3990,
+		"monthly": {
+			"2013-07": {"total":480.00, "ENHANCED SERVICE - IMPLANON":480.00},
+			"2014-07": {"total":570.00, "GP HEALTH CHECKS":570.00},
+			"2014-10": {"total":560.00, "GP HEALTH CHECKS":560.00},
+			"2015-01": {"total":1125.00, "ENHANCED SERVICE - NEXPLANON":495.00, "GP HEALTH CHECKS":630.00},
+			"2015-05": {"total":405.00, "ENHANCED SERVICE - NEXPLANON":405.00},
+			"2015-07": {"total":300.00, "POLICY PERFORMANCE AND COMMS":300.00},
+			"2015-10": {"total":550.00, "POLICY PERFORMANCE AND COMMS":550.00}
+		}
+	},
+	"9825": {
+		"name": "MANOR TOP MEDICAL CENTRE (DR SHARMA)",
+		"total": 2310,
+		"monthly": {
+			"2014-07": {"total":600.00, "GP HEALTH CHECKS":600.00},
+			"2014-10": {"total":680.00, "GP HEALTH CHECKS":680.00},
+			"2015-01": {"total":510.00, "GP HEALTH CHECKS":510.00},
+			"2015-04": {"total":250.00, "GP HEALTH CHECKS":250.00},
+			"2015-07": {"total":270.00, "POLICY PERFORMANCE AND COMMS":270.00}
+		}
+	},
+	"9826": {
+		"name": "MANOR TRAINING & RESOURCE CENTRE LTD",
+		"total": 197327.52,
+		"monthly": {
+			"2011-02": {"total":1793.50, "NLDC 2009/10":1793.50},
+			"2011-04": {"total":1793.50, "NLDC 2010/11":1793.50},
+			"2011-06": {"total":500.00, "COMMUNITY ASSEMBLY EAST":500.00},
+			"2011-10": {"total":3587.00, "NLDC 2011/12":3587.00},
+			"2012-01": {"total":1663.00, "COMMUNITY ASSEMBLY EAST":1663.00},
+			"2012-02": {"total":1793.50, "NLDC 2011/12":1793.50},
+			"2012-09": {"total":1793.50, "NLDC (AUG 11 - JULY 12)":1793.50},
+			"2012-11": {"total":1650.00, "NLDC (AUG 12 - JULY 13)":1650.00},
+			"2013-04": {"total":825.00, "NLDC (AUG 12 - JULY 13)":825.00},
+			"2013-11": {"total":17625.00, "NLDC (AUG 12 - JULY 13)":825.00, "NLDC AUG 13 - JUL 14":16800.00},
+			"2013-12": {"total":1774.50, "PROVIDER CONTRACT AUG13-JUL14":1774.50},
+			"2014-01": {"total":480.00, "EAST":480.00},
+			"2014-02": {"total":412.30, "PROVIDER CONTRACT AUG13-JUL14":412.30},
+			"2014-03": {"total":10878.00, "NLDC AUG 13 - JUL 14":8400.00, "PROVIDER CONTRACT AUG13-JUL14":2478.00},
+			"2014-05": {"total":535.50, "PROVIDER CONTRACT AUG13-JUL14":535.50},
+			"2014-06": {"total":2530.50, "PROVIDER CONTRACT AUG13-JUL14":2530.50},
+			"2014-07": {"total":3465.50, "PROVIDER CONTRACT AUG13-JUL14":3465.50},
+			"2014-09": {"total":1161.00, "PROVIDER CONTRACT AUG13-JUL14":1161.00},
+			"2014-10": {"total":17070.00, "NLDC AUG 14 - JUL 15":16800.00, "PROVIDER CONTRACT AUG13-JUL14":270.00},
+			"2014-11": {"total":4200.00, "NLDC AUG 13 - JUL 14":4200.00},
+			"2014-12": {"total":2816.80, "PROVIDER CONTRACT AUG14-JUL15":2816.80},
+			"2015-01": {"total":11768.30, "NLDC AUG 14 - JUL 15":8400.00, "PROVIDER CONTRACT AUG14-JUL15":3368.30},
+			"2015-02": {"total":1671.00, "PROVIDER CONTRACT AUG14-JUL15":1671.00},
+			"2015-03": {"total":2558.50, "EAST":480.00, "PROVIDER CONTRACT AUG14-JUL15":2078.50},
+			"2015-04": {"total":2241.10, "PROVIDER CONTRACT AUG14-JUL15":2241.10},
+			"2015-05": {"total":2106.50, "PROVIDER CONTRACT AUG14-JUL15":2106.50},
+			"2015-06": {"total":1106.00, "PROVIDER CONTRACT AUG14-JUL15":1106.00},
+			"2015-07": {"total":1356.00, "CYPF":1356.00},
+			"2015-08": {"total":335.50, "CYPF":335.50},
+			"2015-09": {"total":9300.00, "CYPF":9300.00},
+			"2015-11": {"total":18878.22, "COMMUNITIES":6278.22, "CYPF":12600.00},
+			"2015-12": {"total":2852.50, "CYPF":2852.50},
+			"2016-01": {"total":1191.50, "CYPF":1191.50},
+			"2016-02": {"total":2442.00, "CYPF":2442.00},
+			"2016-03": {"total":7181.00, "CYPF":7181.00},
+			"2016-04": {"total":280.00, "CYPF":280.00},
+			"2016-05": {"total":932.30, "CYPF":932.30},
+			"2016-07": {"total":3432.80, "CYPF":3432.80},
+			"2016-08": {"total":2578.60, "CYPF":2578.60},
+			"2016-09": {"total":6300.00, "CYPF":6300.00},
+			"2016-10": {"total":10692.90, "CYPF":10692.90},
+			"2016-12": {"total":3903.00, "CYPF":3903.00},
+			"2017-01": {"total":1060.50, "CYPF":1060.50},
+			"2017-02": {"total":4147.50, "CYPF":4147.50},
+			"2017-04": {"total":5000.00, "CYPF":5000.00},
+			"2017-05": {"total":736.50, "COMMUNITIES":390.00, "CYPF":346.50},
+			"2017-07": {"total":3747.00, "CYPF":3747.00},
+			"2017-08": {"total":361.00, "CORPORATE":361.00},
+			"2017-09": {"total":778.00, "PEOPLE":778.00},
+			"2017-10": {"total":751.00, "PEOPLE":751.00},
+			"2017-11": {"total":5000.00, "PEOPLE":5000.00},
+			"2018-03": {"total":722.00, "PEOPLE":722.00},
+			"2018-04": {"total":1379.00, "PEOPLE":1379.00},
+			"2018-05": {"total":360.00, "PEOPLE":360.00},
+			"2019-01": {"total":1545.20, "PEOPLE":1545.20},
+			"2020-02": {"total":284.00, "PEOPLE":284.00}
+		}
+	},
+	"9827": {
+		"name": "MANSEL NURSERY",
+		"total": 10006.5,
+		"monthly": {
+			"2017-12": {"total":5718.00, "PEOPLE":5718.00},
+			"2018-03": {"total":4288.50, "PEOPLE":4288.50}
+		}
+	},
+	"9828": {
+		"name": "MANSFIELD POLLARD & CO LTD",
+		"alternate-names": [
+			"MANSFIELD POLLARD & CO LIMITED"
+		],
+		"total": 3420,
+		"monthly": {
+			"2011-07": {"total":3420.00, "CATERING PREMISES & EQUIPMENT":3420.00}
+		}
+	},
+	"9829": {
+		"name": "MANSFIELD SAND",
+		"total": 6668.94,
+		"monthly": {
+			"2012-10": {"total":764.52, "PEACE GARDENS":764.52},
+			"2013-05": {"total":2083.75, "PUBLIC REALM OH AND SUPPORT":2083.75},
+			"2014-07": {"total":1755.67, "PARKS OPERATIONS WEST":1755.67},
+			"2017-06": {"total":480.00, "PLACE":480.00},
+			"2018-02": {"total":495.00, "PLACE":495.00},
+			"2018-04": {"total":495.00, "PLACE":495.00},
+			"2019-11": {"total":595.00, "PLACE":595.00}
+		}
+	},
+	"9830": {
+		"name": "MANSOOR NAIK",
+		"total": 499.98,
+		"monthly": {
+			"2015-09": {"total":499.98, "COMMUNITIES":499.98}
+		}
+	},
+	"9831": {
+		"name": "MANTRA LINGUA LTD",
+		"total": 1853.37,
+		"monthly": {
+			"2012-06": {"total":1853.37, "EMTAS":1853.37}
+		}
+	},
+	"9832": {
+		"name": "MANTRA MEDIA LTD",
+		"total": 1500,
+		"monthly": {
+			"2017-06": {"total":1500.00, "CA LEP":1500.00}
+		}
+	},
+	"9833": {
+		"name": "MANU INTEGRITY SERVICES LTD",
+		"total": 1041734.31,
+		"monthly": {
+			"2018-05": {"total":4044.82, "PEOPLE":4044.82},
+			"2018-06": {"total":9438.41, "PEOPLE":9438.41},
+			"2018-07": {"total":9262.35, "PEOPLE":9262.35},
+			"2018-08": {"total":18098.55, "PEOPLE":18098.55},
+			"2018-09": {"total":46574.22, "PEOPLE":46574.22},
+			"2018-11": {"total":14070.04, "PEOPLE":14070.04},
+			"2018-12": {"total":23643.18, "PEOPLE":23643.18},
+			"2019-01": {"total":19498.36, "PEOPLE":19498.36},
+			"2019-02": {"total":1500.00, "PEOPLE":1500.00},
+			"2019-03": {"total":36087.88, "PEOPLE":36087.88},
+			"2019-04": {"total":42789.87, "PEOPLE":42789.87},
+			"2019-05": {"total":22553.53, "PEOPLE":22553.53},
+			"2019-06": {"total":23104.98, "PEOPLE":23104.98},
+			"2019-08": {"total":56992.05, "PEOPLE":56992.05},
+			"2019-09": {"total":30938.47, "PEOPLE":30938.47},
+			"2019-10": {"total":26801.25, "PEOPLE":26801.25},
+			"2019-11": {"total":76286.12, "PEOPLE":76286.12},
+			"2019-12": {"total":67908.91, "PEOPLE":67908.91},
+			"2020-01": {"total":40945.72, "PEOPLE":40945.72},
+			"2020-03": {"total":153406.44, "PEOPLE":153406.44},
+			"2020-04": {"total":81000.00, "PEOPLE":81000.00},
+			"2020-05": {"total":50450.01, "PEOPLE":50450.01},
+			"2020-06": {"total":55671.75, "PEOPLE":55671.75},
+			"2020-07": {"total":45400.00, "PEOPLE":45400.00},
+			"2020-08": {"total":8554.00, "PEOPLE":8554.00},
+			"2020-09": {"total":76713.40, "PEOPLE":76713.40}
+		}
+	},
+	"9834": {
+		"name": "MANVERS ENGINEERING LTD",
+		"total": 45479,
+		"monthly": {
+			"2020-03": {"total":45479.00, "LOCAL ENTERPRISE PARTNERSHIP":45479.00}
+		}
+	},
+	"9835": {
+		"name": "MAP GARDENING SERVICES",
+		"total": 1120,
+		"monthly": {
+			"2016-12": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"9836": {
+		"name": "MAPLAND BRITAIN",
+		"total": 300,
+		"monthly": {
+			"2014-03": {"total":300.00, "EVENTS IN PARKS":300.00}
+		}
+	},
+	"9837": {
 		"name": "MAPLANDBRITAIN",
 		"total": 935,
 		"monthly": {
@@ -9,14 +807,14 @@
 			"2013-02": {"total":350.00, "EVENTS IN PARKS":350.00}
 		}
 	},
-	"9801": {
+	"9838": {
 		"name": "MAPLE LEAF DESIGNS LTD",
 		"total": 2840,
 		"monthly": {
 			"2013-09": {"total":2840.00, "PLAYGROUND MAINTENANCE & INSPE":2840.00}
 		}
 	},
-	"9802": {
+	"9839": {
 		"name": "MAPLIN ELECTRONICS",
 		"total": 5487.34,
 		"monthly": {
@@ -31,7 +829,7 @@
 			"2016-07": {"total":870.83, "COMMUNITIES":870.83}
 		}
 	},
-	"9803": {
+	"9840": {
 		"name": "MAPLIN ELECTRONICS LTD",
 		"alternate-names": [
 			"MAPLIN ELECTRONICS LIMITED"
@@ -41,7 +839,7 @@
 			"2018-02": {"total":483.08, "PLACE":483.08}
 		}
 	},
-	"9804": {
+	"9841": {
 		"name": "MAPLIN ELECTRONICS PLC",
 		"total": 1951.58,
 		"monthly": {
@@ -49,7 +847,7 @@
 			"2016-06": {"total":349.13, "CYPF":349.13}
 		}
 	},
-	"9805": {
+	"9842": {
 		"name": "MAPPIN & WEBB LTD",
 		"total": 21529.17,
 		"monthly": {
@@ -64,14 +862,14 @@
 			"2019-04": {"total":1208.33, "RESOURCES":1208.33}
 		}
 	},
-	"9806": {
+	"9843": {
 		"name": "MAR-PRO INVEST HOLDING",
 		"total": 2000,
 		"monthly": {
 			"2016-07": {"total":2000.00, "CA LEP":2000.00}
 		}
 	},
-	"9807": {
+	"9844": {
 		"name": "MARC DE LUCIA",
 		"total": 609.5,
 		"monthly": {
@@ -79,14 +877,14 @@
 			"2014-09": {"total":359.50, "TOUR DE FRANCE":359.50}
 		}
 	},
-	"9808": {
+	"9845": {
 		"name": "MARCFORCE LTD",
 		"total": 1420,
 		"monthly": {
 			"2016-03": {"total":1420.00, "CA LEP":1420.00}
 		}
 	},
-	"9809": {
+	"9846": {
 		"name": "MARCHINGTON STONE LTD",
 		"alternate-names": [
 			"MARCHINGTON STONE LIMITED"
@@ -107,7 +905,7 @@
 			"2013-04": {"total":5587.78, "PUBLIC RIGHTS OF WAY":5587.78}
 		}
 	},
-	"9810": {
+	"9847": {
 		"name": "MARGARET DAYMAN",
 		"total": 2566.26,
 		"monthly": {
@@ -115,410 +913,18 @@
 			"2012-03": {"total":598.00, "IN HOUSE FOSTER PLACEMENT":598.00}
 		}
 	},
-	"9811": {
+	"9848": {
 		"name": "MARGARET EDGINGTON",
 		"total": 1602.4,
 		"monthly": {
 			"2012-03": {"total":1602.40, "WORKFORCE DEVELOPMENT":1602.40}
 		}
 	},
-	"9812": {
+	"9849": {
 		"name": "MARGARET WORT & CO",
 		"total": 319.5,
 		"monthly": {
 			"2016-06": {"total":319.50, "CYPF":319.50}
-		}
-	},
-	"9813": {
-		"name": "MARIA COLLINS-DONNELLY",
-		"total": 14550,
-		"monthly": {
-			"2011-03": {"total":600.00, "OCCUPATIONAL HEALTH RECHARGES":600.00},
-			"2012-04": {"total":800.00, "OCCUPATIONAL HEALTH RECHARGES":800.00},
-			"2012-05": {"total":900.00, "OCCUPATIONAL HEALTH RECHARGES":900.00},
-			"2012-07": {"total":1200.00, "OCCUPATIONAL HEALTH RECHARGES":1200.00},
-			"2012-08": {"total":1150.00, "OCCUPATIONAL HEALTH RECHARGES":1150.00},
-			"2012-09": {"total":900.00, "OCCUPATIONAL HEALTH RECHARGES":900.00},
-			"2013-01": {"total":300.00, "OCCUPATIONAL HEALTH RECHARGES":300.00},
-			"2013-02": {"total":600.00, "OCCUPATIONAL HEALTH RECHARGES":600.00},
-			"2013-03": {"total":1200.00, "OCCUPATIONAL HEALTH RECHARGES":1200.00},
-			"2013-04": {"total":700.00, "OCCUPATIONAL HEALTH RECHARGES":700.00},
-			"2013-07": {"total":300.00, "OCCUPATIONAL HEALTH RECHARGES":300.00},
-			"2013-10": {"total":600.00, "OCCUPATIONAL HEALTH RECHARGES":600.00},
-			"2013-11": {"total":350.00, "OCCUPATIONAL HEALTH RECHARGES":350.00},
-			"2013-12": {"total":750.00, "OCCUPATIONAL HEALTH RECHARGES":750.00},
-			"2014-10": {"total":1300.00, "OCCUPATIONAL HEALTH RECHARGES":1300.00},
-			"2015-02": {"total":1700.00, "OCCUPATIONAL HEALTH RECHARGES":1700.00},
-			"2015-08": {"total":1200.00, "RESOURCES":1200.00}
-		}
-	},
-	"9814": {
-		"name": "MARIA'S CHILDCARE",
-		"total": 6759,
-		"monthly": {
-			"2017-11": {"total":745.20, "PEOPLE":745.20},
-			"2018-01": {"total":946.05, "PEOPLE":946.05},
-			"2018-03": {"total":405.45, "PEOPLE":405.45},
-			"2018-04": {"total":1111.11, "PEOPLE":1111.11},
-			"2018-06": {"total":476.19, "PEOPLE":476.19},
-			"2018-08": {"total":1196.58, "PEOPLE":1196.58},
-			"2018-11": {"total":525.42, "PEOPLE":525.42},
-			"2019-01": {"total":947.10, "PEOPLE":947.10},
-			"2019-03": {"total":405.90, "PEOPLE":405.90}
-		}
-	},
-	"9815": {
-		"name": "MARIE HARBIN",
-		"total": 740,
-		"monthly": {
-			"2016-04": {"total":740.00, "CYPF":740.00}
-		}
-	},
-	"9816": {
-		"name": "MARIE LANGLEY",
-		"total": 854.7,
-		"monthly": {
-			"2018-01": {"total":854.70, "PEOPLE":854.70}
-		}
-	},
-	"9817": {
-		"name": "MARIGOLDS CLEANING SERVICE",
-		"total": 60399.32,
-		"monthly": {
-			"2013-03": {"total":6579.24, "ADULT SOCIAL CARE PURCHASING":6579.24},
-			"2013-04": {"total":2721.43, "ADULT SOCIAL CARE PURCHASING":2721.43},
-			"2013-05": {"total":8228.85, "ADULT SOCIAL CARE PURCHASING":8228.85},
-			"2013-06": {"total":5704.60, "ADULT SOCIAL CARE PURCHASING":5704.60},
-			"2013-07": {"total":5704.60, "ADULT SOCIAL CARE PURCHASING":5704.60},
-			"2013-08": {"total":5704.60, "ADULT SOCIAL CARE PURCHASING":5704.60},
-			"2013-09": {"total":5677.00, "ADULT SOCIAL CARE PURCHASING":5677.00},
-			"2013-10": {"total":4447.08, "ADULT SOCIAL CARE PURCHASING":4447.08},
-			"2013-11": {"total":4447.08, "ADULT SOCIAL CARE PURCHASING":4447.08},
-			"2013-12": {"total":7926.64, "ADULT SOCIAL CARE PURCHASING":7926.64},
-			"2014-01": {"total":3258.20, "ADULT SOCIAL CARE PURCHASING":3258.20},
-			"2014-04": {"total":0.00, "ADULT SOCIAL CARE PURCHASING":0.00}
-		}
-	},
-	"9818": {
-		"name": "MARIGOLDS CLEANING SERVICES",
-		"total": 816,
-		"monthly": {
-			"2013-11": {"total":816.00, "PURCHASING":816.00}
-		}
-	},
-	"9819": {
-		"name": "MARION HAYWOOD",
-		"total": 2850,
-		"monthly": {
-			"2012-11": {"total":550.00, "OFF THE SHELF":550.00},
-			"2013-12": {"total":500.00, "OFF THE SHELF":500.00},
-			"2014-11": {"total":600.00, "OFF THE SHELF":600.00},
-			"2015-11": {"total":600.00, "PLACE":600.00},
-			"2016-11": {"total":600.00, "PLACE":600.00}
-		}
-	},
-	"9820": {
-		"name": "MARK & TINA ROWBOTHAM",
-		"total": 8444.39,
-		"monthly": {
-			"2011-12": {"total":5114.39, "IN HOUSE FOSTER PLACEMENT":5114.39},
-			"2012-03": {"total":3330.00, "IN HOUSE FOSTER PLACEMENT":3330.00}
-		}
-	},
-	"9821": {
-		"name": "MARK APPLEYARD LTD",
-		"alternate-names": [
-			"MARK APPLEYARD LIMITED"
-		],
-		"total": 2620,
-		"monthly": {
-			"2016-09": {"total":1500.00, "CA LEP":1500.00},
-			"2017-06": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"9822": {
-		"name": "MARK CHESTERMAN",
-		"total": 5000,
-		"monthly": {
-			"2016-06": {"total":5000.00, "CYPF":5000.00}
-		}
-	},
-	"9823": {
-		"name": "MARK COPPEL",
-		"total": 1750,
-		"monthly": {
-			"2015-02": {"total":1750.00, "GOVERNOR SUPPORT TEAM":1750.00}
-		}
-	},
-	"9824": {
-		"name": "MARK GORE",
-		"total": 1410,
-		"monthly": {
-			"2012-03": {"total":900.00, "CARE PROCEEDINGS (LEGAL FEES)":900.00},
-			"2017-06": {"total":510.00, "CYPF":510.00}
-		}
-	},
-	"9825": {
-		"name": "MARK GREEN",
-		"total": 2000,
-		"monthly": {
-			"2012-08": {"total":2000.00, "MINOR WORK GRANTS":2000.00}
-		}
-	},
-	"9826": {
-		"name": "MARK GRIST",
-		"total": 500,
-		"monthly": {
-			"2016-01": {"total":500.00, "PLACE":500.00}
-		}
-	},
-	"9827": {
-		"name": "MARK HATTER",
-		"total": 5610,
-		"monthly": {
-			"2011-05": {"total":5010.00, "CARE PROCEEDINGS (LEGAL FEES)":5010.00},
-			"2011-08": {"total":600.00, "CARE PROCEEDINGS (LEGAL FEES)":600.00}
-		}
-	},
-	"9828": {
-		"name": "MARK HEELEY TA HEELEY CONSTRUCTION",
-		"total": 17221.82,
-		"monthly": {
-			"2014-09": {"total":17221.82, "DISABLED GRANTS":17221.82}
-		}
-	},
-	"9829": {
-		"name": "MARK HENDRY",
-		"total": 1310,
-		"monthly": {
-			"2013-05": {"total":420.00, "OUTDOOR EDUCATION":420.00},
-			"2013-06": {"total":440.00, "OUTDOOR EDUCATION":440.00},
-			"2014-11": {"total":450.00, "OUTDOOR EDUCATION":450.00}
-		}
-	},
-	"9830": {
-		"name": "MARK INSULATIONS LTD",
-		"total": 6170.81,
-		"monthly": {
-			"2013-04": {"total":6170.81, "SCC RETAINED RETENTIONS":6170.81}
-		}
-	},
-	"9831": {
-		"name": "MARK JENKINSON & SON",
-		"total": 96355.5,
-		"monthly": {
-			"2011-03": {"total":4845.00, "CORPORATE COSTS":4845.00},
-			"2011-04": {"total":2080.00, "EMPTY TEAM (EAST)":2080.00},
-			"2011-05": {"total":1965.00, "CORPORATE COSTS":1965.00},
-			"2011-07": {"total":5530.50, "CORPORATE COSTS":2365.50, "LAND AND PROPERTY":3165.00},
-			"2011-09": {"total":1270.00, "DEVELOPMENT CONTROL":1270.00},
-			"2012-01": {"total":2540.00, "CORPORATE COSTS":2540.00},
-			"2012-03": {"total":7175.00, "CORPORATE COSTS":1025.00, "LAND AND PROPERTY":5125.00, "SKINNERTHORPE SCC (EAST)":1025.00},
-			"2012-05": {"total":925.00, "DEVELOPMENT CONTROL":925.00},
-			"2012-10": {"total":3000.00, "PROPERTY DISPOSAL":3000.00},
-			"2013-01": {"total":5745.00, "PROPERTY DISPOSAL":5745.00},
-			"2013-02": {"total":1160.00, "PROPERTY DISPOSAL":1160.00},
-			"2013-07": {"total":3935.00, "PROPERTY DISPOSAL":3935.00},
-			"2013-09": {"total":6645.00, "PROPERTY DISPOSAL":6645.00},
-			"2013-12": {"total":1500.00, "PROPERTY DISPOSAL":750.00, "SCC BALANCE SHEET":750.00},
-			"2014-01": {"total":2150.00, "PROPERTY DISPOSAL":2150.00},
-			"2014-03": {"total":1460.00, "PROPERTY DISPOSAL":1460.00},
-			"2014-04": {"total":750.00, "DEVELOPMENT CONTROL":750.00},
-			"2014-05": {"total":2415.00, "PROPERTY DISPOSAL":2415.00},
-			"2014-10": {"total":2250.00, "PROPERTY DISPOSAL":2250.00},
-			"2014-11": {"total":1465.00, "PROPERTY DISPOSAL":1465.00},
-			"2015-03": {"total":1105.00, "PSH EMPTY PROPERTIES":1105.00},
-			"2015-04": {"total":1720.00, "PROPERTY DISPOSAL":1720.00},
-			"2015-06": {"total":1225.00, "PROPERTY DISPOSAL":1225.00},
-			"2015-08": {"total":1315.00, "PLACE":1315.00},
-			"2015-11": {"total":1460.00, "PLACE":1460.00},
-			"2015-12": {"total":3605.00, "PLACE":3605.00},
-			"2016-02": {"total":2070.00, "PLACE":2070.00},
-			"2016-03": {"total":980.00, "PLACE":980.00},
-			"2016-09": {"total":2240.00, "PLACE":2240.00},
-			"2016-10": {"total":4625.00, "PLACE":4625.00},
-			"2017-01": {"total":975.00, "PLACE":975.00},
-			"2017-04": {"total":1185.00, "PLACE":1185.00},
-			"2017-05": {"total":2575.00, "PLACE":2575.00},
-			"2017-08": {"total":1956.00, "PLACE":1956.00},
-			"2018-02": {"total":1045.00, "PLACE":1045.00},
-			"2018-09": {"total":1785.00, "PLACE":1785.00},
-			"2019-01": {"total":865.00, "PLACE":865.00},
-			"2019-02": {"total":750.00, "PLACE":750.00},
-			"2019-11": {"total":1776.00, "RESOURCES":1776.00},
-			"2020-01": {"total":1875.00, "PLACE":1875.00},
-			"2020-05": {"total":2418.00, "RESOURCES":2418.00}
-		}
-	},
-	"9832": {
-		"name": "MARK MASON",
-		"total": 250.38,
-		"monthly": {
-			"2015-12": {"total":250.38, "PLACE":250.38}
-		}
-	},
-	"9833": {
-		"name": "MARK PARKER",
-		"total": 2130.16,
-		"monthly": {
-			"2012-03": {"total":1469.30, "REPOSSESSION PREVENTION FUND":1469.30},
-			"2015-07": {"total":350.86, "COMMUNITIES":350.86},
-			"2017-07": {"total":310.00, "COMMUNITIES":310.00}
-		}
-	},
-	"9834": {
-		"name": "MARK SAUNDERS",
-		"total": 6850,
-		"monthly": {
-			"2012-03": {"total":700.00, "CARE PROCEEDINGS (LEGAL FEES)":700.00},
-			"2012-09": {"total":2700.00, "CARE PROCEEDINGS (LEGAL FEES)":2700.00},
-			"2012-11": {"total":500.00, "CARE PROCEEDINGS (LEGAL FEES)":500.00},
-			"2013-01": {"total":2950.00, "CARE PROCEEDINGS (LEGAL FEES)":2950.00}
-		}
-	},
-	"9835": {
-		"name": "MARK SHANN LTD",
-		"total": 1670,
-		"monthly": {
-			"2014-09": {"total":1670.00, "HULL - HUMBER SUB REGION HAL":1670.00}
-		}
-	},
-	"9836": {
-		"name": "MARK SMITHSON TRANSPORT",
-		"total": 1500,
-		"monthly": {
-			"2014-04": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00}
-		}
-	},
-	"9837": {
-		"name": "MARK WATSON",
-		"total": 300,
-		"monthly": {
-			"2016-11": {"total":300.00, "PLACE":300.00}
-		}
-	},
-	"9838": {
-		"name": "MARK WELBOURN",
-		"total": 1420,
-		"monthly": {
-			"2017-05": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"9839": {
-		"name": "MARK WEST",
-		"total": 3348.08,
-		"monthly": {
-			"2015-10": {"total":482.24, "CYPF":482.24},
-			"2015-12": {"total":471.28, "CYPF":471.28},
-			"2016-02": {"total":471.28, "CYPF":471.28},
-			"2016-07": {"total":1205.60, "CYPF":1205.60},
-			"2018-02": {"total":717.68, "PEOPLE":717.68}
-		}
-	},
-	"9840": {
-		"name": "MARKERSTUDY",
-		"total": 817.82,
-		"monthly": {
-			"2012-02": {"total":817.82, "CLAIMS":817.82}
-		}
-	},
-	"9841": {
-		"name": "MARKETING MANCHESTER",
-		"total": 20930.16,
-		"monthly": {
-			"2016-02": {"total":3688.32, "CA LEP":3688.32},
-			"2016-03": {"total":10000.00, "CA LEP":10000.00},
-			"2016-04": {"total":2241.84, "CA LEP":2241.84},
-			"2017-01": {"total":5000.00, "CA LEP":5000.00}
-		}
-	},
-	"9842": {
-		"name": "MARKETING PEAK DISTRICT AND DERBYSHIRE",
-		"total": 285,
-		"monthly": {
-			"2019-12": {"total":285.00, "PEOPLE":285.00}
-		}
-	},
-	"9843": {
-		"name": "MARKHAM ENTERPRISES LTD",
-		"alternate-names": [
-			"MARKHAM ENTERPRISES LIMITED"
-		],
-		"total": 1120,
-		"monthly": {
-			"2016-12": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"9844": {
-		"name": "MARKHAM HOUSE",
-		"total": 69982.62,
-		"monthly": {
-			"2011-01": {"total":3037.32, "PHYSICAL DISABILITIES PURCHASI":3037.32},
-			"2011-02": {"total":3037.32, "PHYSICAL DISABILITIES PURCHASI":3037.32},
-			"2011-03": {"total":3037.32, "PHYSICAL DISABILITIES PURCHASI":3037.32},
-			"2011-04": {"total":3014.55, "PHYSICAL DISABILITIES PURCHASI":3014.55},
-			"2011-05": {"total":3006.96, "PHYSICAL DISABILITIES PURCHASI":3006.96},
-			"2011-06": {"total":3006.96, "PHYSICAL DISABILITIES PURCHASI":3006.96},
-			"2011-07": {"total":6013.92, "PHYSICAL DISABILITIES PURCHASI":6013.92},
-			"2011-08": {"total":3006.96, "PHYSICAL DISABILITIES PURCHASI":3006.96},
-			"2011-09": {"total":3006.96, "PDSI PURCHASING":3006.96},
-			"2011-10": {"total":3006.96, "PHYSICAL DISABILITIES PURCHASI":3006.96},
-			"2011-12": {"total":6013.92, "PDSI PURCHASING":6013.92},
-			"2012-01": {"total":3006.96, "PDSI PURCHASING":3006.96},
-			"2012-02": {"total":3006.96, "PDSI PURCHASING":3006.96},
-			"2012-03": {"total":3006.96, "PDSI PURCHASING":3006.96},
-			"2012-04": {"total":3087.39, "PDSI PURCHASING":3087.39},
-			"2012-05": {"total":3114.20, "PDSI PURCHASING":3114.20},
-			"2012-06": {"total":3114.20, "PDSI PURCHASING":3114.20},
-			"2012-07": {"total":3114.20, "PDSI PURCHASING":3114.20},
-			"2012-08": {"total":3114.20, "PDSI PURCHASING":3114.20},
-			"2012-09": {"total":3114.20, "PDSI PURCHASING":3114.20},
-			"2012-10": {"total":3114.20, "PDSI PURCHASING":3114.20}
-		}
-	},
-	"9845": {
-		"name": "MARKOVITZ LTD",
-		"total": 10335.42,
-		"monthly": {
-			"2011-01": {"total":3556.96, "SMALL EDUCATION CAP GRANTS":3556.96},
-			"2012-03": {"total":1327.11, "THORNBRIDGE OUTDOOR CENTRE":1327.11},
-			"2013-01": {"total":1157.39, "OUTDOOR EDUCATION":1157.39},
-			"2013-05": {"total":597.62, "OUTDOOR EDUCATION":597.62},
-			"2013-10": {"total":290.00, "OUTDOOR EDUCATION":290.00},
-			"2014-09": {"total":499.20, "OUTDOOR EDUCATION":499.20},
-			"2015-01": {"total":1167.57, "OUTDOOR EDUCATION":1167.57},
-			"2015-04": {"total":1402.67, "OUTDOOR EDUCATION":1402.67},
-			"2016-02": {"total":336.90, "CYPF":336.90}
-		}
-	},
-	"9846": {
-		"name": "MARKS SPECIALISED TRANSPORT LTD",
-		"total": 1352.16,
-		"monthly": {
-			"2012-10": {"total":1022.00, "FOSTERING NON-PLACEMENT LAC 1":1022.00},
-			"2013-02": {"total":330.16, "FOSTERING NON-PLACEMENT LAC 1":330.16}
-		}
-	},
-	"9847": {
-		"name": "MARLCLIFFE KIDS CLUB",
-		"total": 5882,
-		"monthly": {
-			"2011-06": {"total":882.00, "WEST SA - CIN S17":882.00},
-			"2013-01": {"total":5000.00, "TRANSITIONAL CHILDCARE FUND":5000.00}
-		}
-	},
-	"9848": {
-		"name": "MARLCLIFFE PRIMARY SCHOOL",
-		"total": 1500,
-		"monthly": {
-			"2017-02": {"total":1500.00, "CA LEP":1500.00}
-		}
-	},
-	"9849": {
-		"name": "MARLER HALEY LTD",
-		"total": 439,
-		"monthly": {
-			"2019-02": {"total":439.00, "PEOPLE":439.00}
 		}
 	}
 	}

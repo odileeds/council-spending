@@ -1,563 +1,714 @@
 {
-	"range": ["2011-01","2020-07"],
+	"range": ["2011-01","2020-09"],
 	"data": {
 	"13200": {
-		"name": "REWARD HEALTH LTD",
+		"name": "RELIGIOUS SOCIETY OF FRIENDS SHEFFIELD",
+		"total": 512,
+		"monthly": {
+			"2011-11": {"total":512.00, "CORPORATE ROOM BOOKINGS":512.00}
+		}
+	},
+	"13201": {
+		"name": "RELOCATE2SHEFFIELD LTD",
+		"total": 10951.75,
+		"monthly": {
+			"2011-01": {"total":1304.25, "CREATIVE SHEFF CO-BUS INV":1304.25},
+			"2011-02": {"total":1110.00, "CREATIVE SHEFF CO-BUS INV":1110.00},
+			"2011-03": {"total":1110.00, "CREATIVE SHEFF CO-BUS INV":1110.00},
+			"2011-04": {"total":1332.00, "CREATIVE SHEFF CO-BUS INV":1332.00},
+			"2011-07": {"total":1650.00, "BUSINESS GROWTH":1650.00},
+			"2013-10": {"total":750.00, "SECTOR GROWTH":750.00},
+			"2013-11": {"total":420.00, "SECTOR GROWTH":420.00},
+			"2014-07": {"total":990.00, "BUSINESS GROWTH TEAM":990.00},
+			"2017-07": {"total":1285.50, "PLACE":1285.50},
+			"2018-01": {"total":730.00, "PLACE":730.00},
+			"2018-07": {"total":270.00, "PLACE":270.00}
+		}
+	},
+	"13202": {
+		"name": "REMAP SURVEYS LTD",
+		"alternate-names": [
+			"REMAP SURVEYS LIMITED"
+		],
+		"total": 13120.75,
+		"monthly": {
+			"2011-02": {"total":1075.00, "PORTER VALLEY MASTERPLAN":1075.00},
+			"2015-04": {"total":1093.75, "RESOURCE COSTS":1093.75},
+			"2017-11": {"total":9902.00, "PLACE":9902.00},
+			"2018-01": {"total":1050.00, "PEOPLE":1050.00}
+		}
+	},
+	"13203": {
+		"name": "REMEDI",
+		"total": 2726535.96,
+		"monthly": {
+			"2011-01": {"total":37205.25, "YOUTH JUSTICE ISSP GRANT":13758.00, "YOUTH OFFENDING SERVICE":23447.25},
+			"2011-03": {"total":37205.25, "YOUTH JUSTICE ISSP GRANT":13758.00, "YOUTH OFFENDING SERVICE":23447.25},
+			"2011-05": {"total":3000.00, "COMMUNITY JUSTICE PANELS SP02":3000.00},
+			"2011-07": {"total":40838.49, "YOUTH JUSTICE ISSP GRANT":15574.62, "YOUTH OFFENDING SERVICE":25263.87},
+			"2011-09": {"total":25263.87, "YOUTH OFFENDING SERVICE":25263.87},
+			"2011-10": {"total":15574.62, "YOUTH JUSTICE ISSP GRANT":15574.62},
+			"2011-12": {"total":40838.49, "YOUTH JUSTICE ISSP GRANT":15574.62, "YOUTH OFFENDING SERVICE":25263.87},
+			"2012-02": {"total":4000.00, "YOUTH OFFENDING SERVICE":4000.00},
+			"2012-03": {"total":40838.49, "YOUTH JUSTICE ISSP GRANT":15574.62, "YOUTH OFFENDING SERVICE":25263.87},
+			"2012-07": {"total":35162.50, "YOUTH OFFENDING SERVICE":35162.50},
+			"2012-10": {"total":35162.50, "YOUTH JUSTICE SERVICE":35162.50},
+			"2013-01": {"total":35162.50, "YOUTH JUSTICE SERVICE":35162.50},
+			"2013-02": {"total":5000.00, "YOUTH JUSTICE SERVICE":5000.00},
+			"2013-03": {"total":45100.00, "COMMUNITY JUSTICE PANELS SP02":2600.00, "CREATIVE SERVICES":1000.00, "EGYV PROJECT":41500.00},
+			"2013-04": {"total":5350.00, "EGYV PROJECT":5000.00, "YOUTH JUSTICE SERVICE":350.00},
+			"2013-07": {"total":35162.50, "YOUTH JUSTICE SERVICE":35162.50},
+			"2013-10": {"total":35162.50, "YOUTH JUSTICE SERVICE":35162.50},
+			"2014-01": {"total":67500.00, "YOUTH JUSTICE SERVICE":67500.00},
+			"2014-03": {"total":77811.00, "YOUTH JUSTICE SERVICE":77811.00},
+			"2014-06": {"total":67500.00, "YOUTH JUSTICE SERVICE":67500.00},
+			"2014-10": {"total":67500.00, "YOUTH JUSTICE SERVICE":67500.00},
+			"2014-12": {"total":26250.00, "YOUTH JUSTICE SERVICE":26250.00},
+			"2015-01": {"total":57503.00, "YOUTH JUSTICE SERVICE":57503.00},
+			"2015-03": {"total":71500.00, "YOUTH JUSTICE SERVICE":71500.00},
+			"2015-06": {"total":82750.00, "YOUTH JUSTICE SERVICE":82750.00},
+			"2015-09": {"total":71500.00, "CYPF":71500.00},
+			"2016-01": {"total":71500.00, "CYPF":71500.00},
+			"2016-02": {"total":71500.00, "CYPF":71500.00},
+			"2016-03": {"total":1700.00, "CYPF":1700.00},
+			"2016-05": {"total":13333.00, "CYPF":13333.00},
+			"2016-06": {"total":70667.00, "CYPF":70667.00},
+			"2016-10": {"total":90250.00, "CYPF":90250.00},
+			"2017-01": {"total":90250.00, "CYPF":90250.00},
+			"2017-02": {"total":96495.00, "CYPF":96495.00},
+			"2017-04": {"total":3500.00, "CYPF":3500.00},
+			"2017-06": {"total":90250.00, "CYPF":90250.00},
+			"2017-11": {"total":90250.00, "PEOPLE":90250.00},
+			"2018-02": {"total":137750.00, "PEOPLE":137750.00},
+			"2018-03": {"total":48750.00, "PEOPLE":48750.00},
+			"2018-06": {"total":90250.00, "PEOPLE":90250.00},
+			"2018-10": {"total":90250.00, "PEOPLE":90250.00},
+			"2018-12": {"total":90250.00, "PEOPLE":90250.00},
+			"2019-03": {"total":90250.00, "PEOPLE":90250.00},
+			"2019-08": {"total":70000.00, "PEOPLE":70000.00},
+			"2019-09": {"total":70000.00, "PEOPLE":70000.00},
+			"2019-12": {"total":70000.00, "PEOPLE":70000.00},
+			"2020-03": {"total":70000.00, "PEOPLE":70000.00},
+			"2020-04": {"total":500.00, "PEOPLE":500.00},
+			"2020-05": {"total":3000.00, "PEOPLE":3000.00},
+			"2020-06": {"total":70000.00, "PEOPLE":70000.00},
+			"2020-09": {"total":70000.00, "PEOPLE":70000.00}
+		}
+	},
+	"13204": {
+		"name": "REMEMBERED TRADING LTD",
+		"alternate-names": [
+			"REMEMBERED TRADING LIMITED"
+		],
+		"total": 4565.76,
+		"monthly": {
+			"2018-06": {"total":1875.00, "PLACE":1875.00},
+			"2018-07": {"total":646.92, "PLACE":646.92},
+			"2018-09": {"total":1293.84, "PLACE":1293.84},
+			"2018-11": {"total":750.00, "PEOPLE":750.00}
+		}
+	},
+	"13205": {
+		"name": "REMINGTON CONSTRUCTION",
+		"total": 1420,
+		"monthly": {
+			"2016-02": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"13206": {
+		"name": "REMOTE-LEARNER UK LTD",
+		"total": 14681.5,
+		"monthly": {
+			"2011-09": {"total":2145.00, "TRAINING - BROCKWOOD":2145.00},
+			"2012-05": {"total":2090.00, "TRAINING - BROCKWOOD":2090.00},
+			"2013-05": {"total":2371.50, "TRAINING - BROCKWOOD":2371.50},
+			"2013-10": {"total":875.00, "MOORFOOT LEARNING CENTRE":875.00},
+			"2014-05": {"total":3600.00, "MOORFOOT LEARNING CENTRE":3600.00},
+			"2015-06": {"total":3600.00, "MOORFOOT LEARNING CENTRE":3600.00}
+		}
+	},
+	"13207": {
+		"name": "REMPLOY",
+		"total": 653868.71,
+		"monthly": {
+			"2011-01": {"total":44000.00, "DISADVANTAGED AREA FUNDING":7800.00, "SHEFFIELD EMPLOYABILITY PROJEC":36200.00},
+			"2011-03": {"total":134668.00, "DISADVANTAGED AREA FUNDING":67468.00, "SEP (ERDF/SP)":35100.00, "SHEFFIELD EMPLOYABILITY PROJEC":32100.00},
+			"2011-04": {"total":42700.00, "SEP (ERDF/SP)":24700.00, "SHEFFIELD EMPLOYABILITY PROJEC":18000.00},
+			"2011-06": {"total":91900.00, "SEP (ERDF/SP)":49400.00, "SHEFFIELD EMPLOYABILITY PROJEC":42500.00},
+			"2011-08": {"total":44000.00, "SEP (ERDF/SP)":27300.00, "SHEFFIELD EMPLOYABILITY PROJEC":16700.00},
+			"2011-10": {"total":82800.00, "SEP (ERDF/SP)":50700.00, "SHEFFIELD EMPLOYABILITY PROJEC":32100.00},
+			"2011-11": {"total":46600.00, "SEP (ERDF/SP)":31200.00, "SHEFFIELD EMPLOYABILITY PROJEC":15400.00},
+			"2012-01": {"total":59400.00, "SEP (ERDF/SP)":33800.00, "SHEFFIELD EMPLOYABILITY PROJEC":25600.00},
+			"2012-02": {"total":32300.00, "SEP (ERDF/SP)":19500.00, "SHEFFIELD EMPLOYABILITY PROJEC":12800.00},
+			"2012-03": {"total":12800.00, "SHEFFIELD EMPLOYABILITY PROJEC":12800.00},
+			"2012-04": {"total":12800.00, "SHEFFIELD EMPLOYABILITY PROJEC":12800.00},
+			"2014-03": {"total":42000.00, "DISADVANTAGED AREA FUNDING":42000.00},
+			"2015-08": {"total":279.00, "CYPF":279.00},
+			"2016-06": {"total":5086.71, "CYPF":5086.71},
+			"2016-08": {"total":2535.00, "CYPF":2535.00}
+		}
+	},
+	"13208": {
+		"name": "REMPLOY LTD",
+		"alternate-names": [
+			"REMPLOY LIMITED"
+		],
+		"total": 31984.71,
+		"monthly": {
+			"2012-03": {"total":2150.27, "BOOKS & OTHER MATERIALS":2150.27},
+			"2014-04": {"total":3275.00, "LDD SPECIALIST PLACEMENTS":3275.00},
+			"2014-08": {"total":1310.00, "LDD SPECIALIST PLACEMENTS":1310.00},
+			"2014-09": {"total":1310.00, "LDD SPECIALIST PLACEMENTS":1310.00},
+			"2015-02": {"total":1310.00, "LDD PLACEMENTS AUG14-JUL15":1310.00},
+			"2015-03": {"total":5240.00, "LDD PLACEMENTS AUG14-JUL15":5240.00},
+			"2015-06": {"total":6550.00, "LDD PLACEMENTS AUG14-JUL15":6550.00},
+			"2015-09": {"total":279.00, "CYPF":279.00},
+			"2016-01": {"total":2075.44, "CYPF":2075.44},
+			"2016-06": {"total":845.00, "CYPF":845.00},
+			"2017-11": {"total":7640.00, "PEOPLE":7640.00}
+		}
+	},
+	"13209": {
+		"name": "RENAISSANCE ONE",
+		"total": 4850,
+		"monthly": {
+			"2013-11": {"total":3000.00, "OFF THE SHELF":3000.00},
+			"2014-11": {"total":450.00, "OFF THE SHELF":450.00},
+			"2015-11": {"total":700.00, "PLACE":700.00},
+			"2015-12": {"total":700.00, "PLACE":700.00}
+		}
+	},
+	"13210": {
+		"name": "RENAISSANCE PROFESSIONAL DECORATORS LTD",
+		"total": 1420,
+		"monthly": {
+			"2016-10": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"13211": {
+		"name": "RENDAPLAST",
+		"total": 1420,
+		"monthly": {
+			"2017-09": {"total":1420.00, "LOCAL ENTERPRISE PARTNERSHIP":1420.00}
+		}
+	},
+	"13212": {
+		"name": "RENDEZVOUS YOUTH CLUB",
+		"total": 4065,
+		"monthly": {
+			"2013-03": {"total":4065.00, "CLIMATE IMPACT FUND":4065.00}
+		}
+	},
+	"13213": {
+		"name": "RENDIS LTD",
+		"total": 4794.8,
+		"monthly": {
+			"2019-04": {"total":296.00, "PEOPLE":296.00},
+			"2019-06": {"total":754.80, "PEOPLE":754.80},
+			"2019-07": {"total":312.00, "PEOPLE":312.00},
+			"2019-08": {"total":358.80, "PEOPLE":358.80},
+			"2019-09": {"total":343.20, "PEOPLE":343.20},
+			"2019-10": {"total":327.60, "PEOPLE":327.60},
+			"2019-12": {"total":686.40, "PEOPLE":686.40},
+			"2020-01": {"total":343.20, "PEOPLE":343.20},
+			"2020-02": {"total":358.80, "PEOPLE":358.80},
+			"2020-03": {"total":312.00, "PEOPLE":312.00},
+			"2020-07": {"total":343.20, "PEOPLE":343.20},
+			"2020-08": {"total":358.80, "PEOPLE":358.80}
+		}
+	},
+	"13214": {
+		"name": "RENE BARRETT LTD",
+		"alternate-names": [
+			"RENE BARRETT LIMITED"
+		],
+		"total": 7712.8,
+		"monthly": {
+			"2018-12": {"total":5000.00, "RESOURCES":5000.00},
+			"2019-07": {"total":1345.00, "RESOURCES":1345.00},
+			"2019-10": {"total":1367.80, "RESOURCES":1367.80}
+		}
+	},
+	"13215": {
+		"name": "RENIER GILLIES LTD TA RG SOLICITORS",
+		"total": 210700,
+		"monthly": {
+			"2018-06": {"total":65000.00, "PLACE":65000.00},
+			"2019-10": {"total":145700.00, "PLACE":145700.00}
+		}
+	},
+	"13216": {
+		"name": "RENSBURG ESTATES",
+		"total": 1600,
+		"monthly": {
+			"2017-05": {"total":1600.00, "COMMUNITIES":1600.00}
+		}
+	},
+	"13217": {
+		"name": "RENTOKIL INITIAL UK LTD",
+		"total": 207446.05,
+		"monthly": {
+			"2011-01": {"total":5338.12, "RESPONSIVE REPAIRS":5338.12},
+			"2011-02": {"total":2729.22, "RESPONSIVE REPAIRS":2729.22},
+			"2011-03": {"total":3181.75, "RESPONSIVE REPAIRS":3181.75},
+			"2011-04": {"total":7214.76, "CYCLICAL REPAIRS":2193.59, "RESPONSIVE REPAIRS":5021.17},
+			"2011-06": {"total":3181.75, "RESPONSIVE REPAIRS":3181.75},
+			"2011-08": {"total":828.98, "RESPONSIVE REPAIRS":828.98},
+			"2011-09": {"total":1364.61, "RESPONSIVE REPAIRS":1364.61},
+			"2011-10": {"total":9425.34, "RESPONSIVE REPAIRS":9425.34},
+			"2011-11": {"total":2729.22, "RESPONSIVE REPAIRS":2729.22},
+			"2011-12": {"total":4546.36, "RESPONSIVE REPAIRS":4546.36},
+			"2012-01": {"total":2193.59, "RESPONSIVE REPAIRS":2193.59},
+			"2012-02": {"total":1364.61, "RESPONSIVE REPAIRS":1364.61},
+			"2012-03": {"total":1364.61, "OTHER REPAIRS & FEES":1364.61},
+			"2012-04": {"total":3181.75, "OTHER REPAIRS & FEES":3181.75},
+			"2012-05": {"total":12510.52, "OTHER REPAIRS & FEES":8920.00, "RESPONSIVE HM&E":3590.52},
+			"2012-06": {"total":4546.36, "OTHER REPAIRS & FEES":4546.36},
+			"2012-07": {"total":11665.91, "OTHER REPAIRS & FEES":11665.91},
+			"2012-09": {"total":7275.58, "OTHER REPAIRS & FEES":7275.58},
+			"2012-10": {"total":2225.91, "OTHER REPAIRS & FEES":2225.91},
+			"2012-11": {"total":15759.61, "OTHER REPAIRS & FEES":15759.61},
+			"2012-12": {"total":420.00, "PUBLIC TOILETS":420.00},
+			"2013-01": {"total":14368.40, "OTHER REPAIRS & FEES":14368.40},
+			"2013-02": {"total":1364.61, "OTHER REPAIRS & FEES":1364.61},
+			"2013-03": {"total":4846.36, "OTHER REPAIRS & FEES":4846.36},
+			"2013-04": {"total":621.13, "OTHER REPAIRS & FEES":621.13},
+			"2013-05": {"total":2354.61, "OTHER REPAIRS & FEES":990.00, "RESPONSIVE HM&E":1364.61},
+			"2013-06": {"total":7347.49, "RESPONSIVE HM&E":7347.49},
+			"2013-07": {"total":3699.51, "RESPONSIVE HM&E":3699.51},
+			"2013-08": {"total":15600.61, "RESPONSIVE HM&E":15600.61},
+			"2013-09": {"total":1364.61, "RESPONSIVE HM&E":1364.61},
+			"2013-10": {"total":5327.47, "RESPONSIVE HM&E":5327.47},
+			"2013-11": {"total":2222.61, "RESPONSIVE HM&E":2222.61},
+			"2013-12": {"total":708.00, "RESPONSIVE HM&E":708.00},
+			"2014-01": {"total":7662.08, "RESPONSIVE HM&E":7662.08},
+			"2014-02": {"total":1652.61, "RESPONSIVE HM&E":1652.61},
+			"2014-03": {"total":1364.61, "RESPONSIVE HM&E":1364.61},
+			"2014-04": {"total":1829.51, "RESPONSIVE HM&E":1829.51},
+			"2014-05": {"total":4473.43, "RESPONSIVE HM&E":4473.43},
+			"2018-02": {"total":21772.00, "PEOPLE":21772.00},
+			"2018-06": {"total":3203.84, "PEOPLE":3203.84},
+			"2020-07": {"total":2614.00, "PEOPLE":2614.00}
+		}
+	},
+	"13218": {
+		"name": "RENTON PRODUCTIONS",
+		"total": 20965,
+		"monthly": {
+			"2011-07": {"total":565.00, "NEETS 16+":565.00},
+			"2012-02": {"total":15550.00, "LEARNING W/ DISABILITIES&DIFFI":15550.00},
+			"2012-03": {"total":750.00, "LA MUSIC SERVICES":750.00},
+			"2013-01": {"total":650.00, "LA MUSIC SERVICES":650.00},
+			"2013-04": {"total":600.00, "LA MUSIC SERVICES":600.00},
+			"2014-03": {"total":1000.00, "LA MUSIC SERVICES":1000.00},
+			"2014-06": {"total":600.00, "LA MUSIC SERVICES":600.00},
+			"2017-05": {"total":950.00, "CYPF":950.00},
+			"2018-07": {"total":300.00, "PLACE":300.00}
+		}
+	},
+	"13219": {
+		"name": "REPLAY EVENTS LTD",
+		"total": 500,
+		"monthly": {
+			"2014-05": {"total":500.00, "OFF THE SHELF":500.00}
+		}
+	},
+	"13220": {
+		"name": "REPLAY MAINTENANCE LTD",
+		"total": 2800,
+		"monthly": {
+			"2016-10": {"total":2800.00, "PLACE":2800.00}
+		}
+	},
+	"13221": {
+		"name": "RES ENVIRONMENTAL LTD",
+		"total": 2500,
+		"monthly": {
+			"2020-05": {"total":2500.00, "PLACE":2500.00}
+		}
+	},
+	"13222": {
+		"name": "RESET CERTIFICATION SCHEME LTD",
+		"alternate-names": [
+			"RESET CERTIFICATION SCHEME LIMITED"
+		],
+		"total": 3000,
+		"monthly": {
+			"2015-09": {"total":3000.00, "CYPF":3000.00}
+		}
+	},
+	"13223": {
+		"name": "RESHAPE ARS LTD",
+		"total": 1120,
+		"monthly": {
+			"2017-02": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"13224": {
+		"name": "RESIDENTIAL LANDLORDS ASSOCIATION",
+		"total": 15384.39,
+		"monthly": {
+			"2013-04": {"total":1285.00, "REGISTRATION & REGULATION":1285.00},
+			"2014-10": {"total":1248.00, "REGISTRATION & REGULATION":1248.00},
+			"2014-11": {"total":1144.00, "REGISTRATION & REGULATION":1144.00},
+			"2014-12": {"total":1196.00, "REGISTRATION & REGULATION":1196.00},
+			"2015-03": {"total":3588.00, "REGISTRATION & REGULATION":3588.00},
+			"2015-07": {"total":1092.00, "COMMUNITIES":1092.00},
+			"2015-09": {"total":1040.00, "COMMUNITIES":1040.00},
+			"2020-02": {"total":4791.39, "PLACE":4791.39}
+		}
+	},
+	"13225": {
+		"name": "RESILIENCE ENGINE",
+		"total": 250,
+		"monthly": {
+			"2017-10": {"total":250.00, "PEOPLE":250.00}
+		}
+	},
+	"13226": {
+		"name": "RESOLUTION LAW",
+		"total": 8400,
+		"monthly": {
+			"2015-01": {"total":2750.00, "CLAIMS":2750.00},
+			"2015-04": {"total":5650.00, "CLAIMS":5650.00}
+		}
+	},
+	"13227": {
+		"name": "RESOLUTION MICROSCOPE SERVICE LTD",
+		"total": 320,
+		"monthly": {
+			"2019-01": {"total":320.00, "PLACE":320.00}
+		}
+	},
+	"13228": {
+		"name": "RESOUND MEDIA",
+		"total": 3000,
+		"monthly": {
+			"2015-10": {"total":3000.00, "CA LEP":3000.00}
+		}
+	},
+	"13229": {
+		"name": "RESPIRATORY PROTECTIVE ASSESSMENT LIMITE",
+		"total": 4305,
+		"monthly": {
+			"2018-04": {"total":895.00, "PLACE":895.00},
+			"2018-10": {"total":850.00, "PLACE":850.00},
+			"2019-05": {"total":850.00, "PLACE":850.00},
+			"2019-06": {"total":940.00, "PLACE":940.00},
+			"2020-08": {"total":770.00, "PLACE":770.00}
+		}
+	},
+	"13230": {
+		"name": "RESPONSE VEHICLE LIGHTING",
+		"total": 1500,
+		"monthly": {
+			"2017-01": {"total":1500.00, "CA LEP":1500.00}
+		}
+	},
+	"13231": {
+		"name": "RESPONSIBLE HOSPITALITY PARTNERSHIP LTD",
+		"total": 13693,
+		"monthly": {
+			"2018-07": {"total":13693.00, "PLACE":13693.00}
+		}
+	},
+	"13232": {
+		"name": "RESTORE PLC",
+		"total": 46187.69,
+		"monthly": {
+			"2018-06": {"total":3539.74, "PEOPLE":3539.74},
+			"2018-07": {"total":1590.17, "PEOPLE":1590.17},
+			"2018-08": {"total":1557.31, "PEOPLE":1557.31},
+			"2018-09": {"total":1689.60, "PEOPLE":1689.60},
+			"2018-10": {"total":1548.19, "PEOPLE":1548.19},
+			"2018-11": {"total":1694.46, "PEOPLE":1694.46},
+			"2018-12": {"total":1545.08, "PEOPLE":1545.08},
+			"2019-01": {"total":1604.38, "PEOPLE":1604.38},
+			"2019-02": {"total":1697.15, "PEOPLE":1697.15},
+			"2019-03": {"total":1471.48, "PEOPLE":1471.48},
+			"2019-04": {"total":1612.53, "PEOPLE":1612.53},
+			"2019-06": {"total":3181.32, "PEOPLE":3181.32},
+			"2019-08": {"total":3240.23, "PEOPLE":3240.23},
+			"2019-09": {"total":1844.53, "PEOPLE":1844.53},
+			"2019-10": {"total":1585.74, "PEOPLE":1585.74},
+			"2019-11": {"total":1642.42, "PEOPLE":1642.42},
+			"2019-12": {"total":1620.05, "PEOPLE":1620.05},
+			"2020-01": {"total":1653.50, "PEOPLE":1653.50},
+			"2020-02": {"total":1758.97, "PEOPLE":1758.97},
+			"2020-03": {"total":1579.67, "PEOPLE":1579.67},
+			"2020-05": {"total":1350.27, "PEOPLE":1350.27},
+			"2020-06": {"total":1536.66, "PEOPLE":1536.66},
+			"2020-07": {"total":2853.72, "PEOPLE":2853.72},
+			"2020-08": {"total":1395.26, "PEOPLE":1395.26},
+			"2020-09": {"total":1395.26, "PEOPLE":1395.26}
+		}
+	},
+	"13233": {
+		"name": "RESTOVER LODGE",
+		"total": 1620,
+		"monthly": {
+			"2017-04": {"total":1120.00, "CA LEP":1120.00},
+			"2020-08": {"total":500.00, "PEOPLE":500.00}
+		}
+	},
+	"13234": {
+		"name": "RETFORD OAKS ACADEMY",
+		"total": 2900,
+		"monthly": {
+			"2016-01": {"total":633.00, "CYPF":633.00},
+			"2016-02": {"total":633.00, "CYPF":633.00},
+			"2016-05": {"total":634.00, "CYPF":634.00},
+			"2016-10": {"total":500.00, "CYPF":500.00},
+			"2017-02": {"total":500.00, "CYPF":500.00}
+		}
+	},
+	"13235": {
+		"name": "RETHINK",
+		"total": 350806.66,
+		"monthly": {
+			"2011-01": {"total":4004.00, "CARERS GRANT AMH":4004.00},
+			"2011-02": {"total":41241.00, "PARTNERSHIP & GRANT AID MH":41241.00},
+			"2011-03": {"total":13747.00, "PARTNERSHIP & GRANT AID MH":13747.00},
+			"2011-05": {"total":45958.00, "CARERS GRANT AMH":3924.00, "PARTNERSHIP & GRANT AID MH":42034.00},
+			"2011-07": {"total":45958.00, "CARERS GRANT AMH":3924.00, "PARTNERSHIP & GRANT AID MH":42034.00},
+			"2011-10": {"total":45958.00, "CARERS GRANT AMH":3924.00, "PARTNERSHIP & GRANT AID MH":42034.00},
+			"2012-01": {"total":45958.00, "CARERS GRANT AMH":3924.00, "PARTNERSHIP & GRANT AID MH":42034.00},
+			"2012-05": {"total":45879.52, "CARERS GRANT AMH":42034.00, "PARTNERSHIP & GRANT AID MH":3845.52},
+			"2012-08": {"total":45879.52, "CARERS GRANT AMH":42034.00, "PARTNERSHIP & GRANT AID MH":3845.52},
+			"2012-11": {"total":3845.52, "PARTNERSHIP & GRANT AID MH":3845.52},
+			"2013-01": {"total":3845.52, "PARTNERSHIP & GRANT AID MH":3845.52},
+			"2016-02": {"total":2870.30, "COMMUNITIES":2870.30},
+			"2016-03": {"total":5662.28, "COMMUNITIES":5662.28}
+		}
+	},
+	"13236": {
+		"name": "RETHINK (SP)",
+		"total": 538025.72,
+		"monthly": {
+			"2011-01": {"total":10873.40, "SUPPORTING PEOPLE":10873.40},
+			"2011-02": {"total":9944.94, "SUPPORTING PEOPLE":9944.94},
+			"2011-03": {"total":19686.13, "SUPPORTING PEOPLE":19686.13},
+			"2011-04": {"total":8855.50, "SUPPORTING PEOPLE":8855.50},
+			"2011-05": {"total":9296.32, "SUPPORTING PEOPLE":9296.32},
+			"2011-06": {"total":9296.32, "SUPPORTING PEOPLE":9296.32},
+			"2011-07": {"total":4749.96, "SUPPORTING PEOPLE":4749.96},
+			"2011-08": {"total":8317.76, "SUPPORTING PEOPLE":8317.76},
+			"2011-09": {"total":10152.56, "SUPPORTING PEOPLE":10152.56},
+			"2011-10": {"total":8807.04, "SUPPORTING PEOPLE":8807.04},
+			"2011-11": {"total":8807.04, "SUPPORTING PEOPLE":8807.04},
+			"2011-12": {"total":10397.20, "SUPPORTING PEOPLE":10397.20},
+			"2012-01": {"total":10274.88, "SUPPORTING PEOPLE":10274.88},
+			"2012-02": {"total":18225.68, "SUPPORTING PEOPLE":18225.68},
+			"2012-03": {"total":9296.32, "SUPPORTING PEOPLE":9296.32},
+			"2012-04": {"total":11742.72, "SUPPORTING PEOPLE":11742.72},
+			"2012-05": {"total":9785.60, "SUPPORTING PEOPLE":9785.60},
+			"2012-06": {"total":9785.60, "SUPPORTING PEOPLE":9785.60},
+			"2012-07": {"total":9785.60, "SUPPORTING PEOPLE":9785.60},
+			"2012-08": {"total":5504.40, "HOUSING RELATED SUPPORT":5504.40},
+			"2012-09": {"total":8317.76, "HOUSING RELATED SUPPORT":8317.76},
+			"2012-10": {"total":8317.76, "HOUSING RELATED SUPPORT":8317.76},
+			"2012-11": {"total":9663.28, "HOUSING RELATED SUPPORT":9663.28},
+			"2012-12": {"total":12598.96, "HOUSING RELATED SUPPORT":12598.96},
+			"2013-01": {"total":19571.20, "HOUSING RELATED SUPPORT":19571.20},
+			"2013-02": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2013-03": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2013-05": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2013-06": {"total":7706.16, "HOUSING RELATED SUPPORT":7706.16},
+			"2013-07": {"total":6360.64, "HOUSING RELATED SUPPORT":6360.64},
+			"2013-08": {"total":8317.76, "HOUSING RELATED SUPPORT":8317.76},
+			"2013-09": {"total":8317.76, "HOUSING RELATED SUPPORT":8317.76},
+			"2013-10": {"total":9418.64, "HOUSING RELATED SUPPORT":9418.64},
+			"2013-11": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2013-12": {"total":21772.96, "HOUSING RELATED SUPPORT":21772.96},
+			"2014-01": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2014-02": {"total":9785.60, "HOUSING RELATED SUPPORT":9785.60},
+			"2014-04": {"total":14166.48, "HOUSING RELATED SUPPORT":14166.48},
+			"2014-05": {"total":6899.76, "HOUSING RELATED SUPPORT":6899.76},
+			"2014-06": {"total":6899.76, "HOUSING RELATED SUPPORT":6899.76},
+			"2014-07": {"total":6899.76, "HOUSING RELATED SUPPORT":6899.76},
+			"2014-08": {"total":6899.76, "HOUSING RELATED SUPPORT":6899.76},
+			"2014-10": {"total":5914.08, "HOUSING RELATED SUPPORT":5914.08},
+			"2014-11": {"total":5914.08, "HOUSING RELATED SUPPORT":5914.08},
+			"2014-12": {"total":11828.16, "HOUSING RELATED SUPPORT":11828.16},
+			"2015-01": {"total":5914.08, "HOUSING RELATED SUPPORT":5914.08},
+			"2015-02": {"total":5914.08, "HOUSING RELATED SUPPORT":5914.08},
+			"2015-03": {"total":422.46, "HOUSING RELATED SUPPORT":422.46},
+			"2015-08": {"total":14253.51, "COMMUNITIES":14253.51},
+			"2015-09": {"total":3567.21, "COMMUNITIES":3567.21},
+			"2015-11": {"total":11599.20, "COMMUNITIES":11599.20},
+			"2015-12": {"total":4280.66, "COMMUNITIES":4280.66},
+			"2016-01": {"total":3828.80, "COMMUNITIES":3828.80},
+			"2016-02": {"total":8498.20, "COMMUNITIES":8498.20},
+			"2016-03": {"total":4249.10, "COMMUNITIES":4249.10},
+			"2016-07": {"total":332.94, "COMMUNITIES":332.94},
+			"2016-11": {"total":24297.46, "COMMUNITIES":24297.46},
+			"2017-02": {"total":895.00, "COMMUNITIES":895.00},
+			"2017-04": {"total":1038.20, "COMMUNITIES":1038.20},
+			"2018-04": {"total":851.53, "PEOPLE":851.53}
+		}
+	},
+	"13237": {
+		"name": "RETHINK CMYK LTD",
+		"total": 3000,
+		"monthly": {
+			"2016-06": {"total":1000.00, "PLACE":1000.00},
+			"2017-04": {"total":2000.00, "CA LEP":2000.00}
+		}
+	},
+	"13238": {
+		"name": "RETHINK MHREC",
+		"total": 235938.37,
+		"monthly": {
+			"2016-04": {"total":3903.42, "COMMUNITIES":3903.42},
+			"2016-05": {"total":4529.70, "COMMUNITIES":4529.70},
+			"2016-06": {"total":7063.10, "COMMUNITIES":7063.10},
+			"2016-07": {"total":8239.15, "COMMUNITIES":8239.15},
+			"2016-09": {"total":12091.63, "COMMUNITIES":12091.63},
+			"2016-10": {"total":9606.45, "COMMUNITIES":9606.45},
+			"2016-11": {"total":16992.90, "COMMUNITIES":16992.90},
+			"2016-12": {"total":17941.46, "COMMUNITIES":17941.46},
+			"2017-01": {"total":12819.89, "COMMUNITIES":12819.89},
+			"2017-02": {"total":14830.10, "COMMUNITIES":14830.10},
+			"2017-04": {"total":12741.11, "COMMUNITIES":12741.11},
+			"2017-05": {"total":11608.88, "COMMUNITIES":11608.88},
+			"2017-06": {"total":14831.88, "COMMUNITIES":14831.88},
+			"2017-07": {"total":11673.31, "COMMUNITIES":11673.31},
+			"2017-08": {"total":10067.57, "PEOPLE":10067.57},
+			"2017-09": {"total":7657.56, "PEOPLE":7657.56},
+			"2017-10": {"total":10311.16, "PEOPLE":10311.16},
+			"2017-11": {"total":17691.20, "PEOPLE":17691.20},
+			"2017-12": {"total":9697.93, "PEOPLE":9697.93},
+			"2018-01": {"total":11849.17, "PEOPLE":11849.17},
+			"2018-02": {"total":9790.80, "PEOPLE":9790.80}
+		}
+	},
+	"13239": {
+		"name": "RETHINK MHREC DP ONLY",
+		"total": 572555.919999997,
+		"monthly": {
+			"2018-03": {"total":12340.89, "PEOPLE":12340.89},
+			"2018-04": {"total":11247.95, "PEOPLE":11247.95},
+			"2018-05": {"total":11574.18, "PEOPLE":11574.18},
+			"2018-06": {"total":9293.68, "PEOPLE":9293.68},
+			"2018-07": {"total":10252.00, "PEOPLE":10252.00},
+			"2018-08": {"total":18412.58, "PEOPLE":18412.58},
+			"2018-09": {"total":27120.12, "PEOPLE":27120.12},
+			"2018-11": {"total":25819.31, "PEOPLE":25819.31},
+			"2018-12": {"total":12600.45, "PEOPLE":12600.45},
+			"2019-01": {"total":28269.27, "PEOPLE":28269.27},
+			"2019-02": {"total":15119.34, "PEOPLE":15119.34},
+			"2019-03": {"total":9234.91, "PEOPLE":9234.91},
+			"2019-04": {"total":9478.80, "PEOPLE":9478.80},
+			"2019-05": {"total":14829.14, "PEOPLE":14829.14},
+			"2019-06": {"total":15287.91, "PEOPLE":15287.91},
+			"2019-07": {"total":24711.89, "PEOPLE":24711.89},
+			"2019-08": {"total":12286.95, "PEOPLE":12286.95},
+			"2019-09": {"total":14111.62, "PEOPLE":14111.62},
+			"2019-10": {"total":24426.90, "PEOPLE":24426.90},
+			"2019-11": {"total":17834.94, "PEOPLE":17834.94},
+			"2019-12": {"total":102950.87, "PEOPLE":102950.87},
+			"2020-01": {"total":10081.11, "PEOPLE":10081.11},
+			"2020-02": {"total":18483.13, "PEOPLE":18483.13},
+			"2020-03": {"total":13101.16, "PEOPLE":13101.16},
+			"2020-04": {"total":14028.15, "PEOPLE":14028.15},
+			"2020-05": {"total":14675.90, "PEOPLE":14675.90},
+			"2020-06": {"total":13609.16, "PEOPLE":13609.16},
+			"2020-07": {"total":15358.17, "PEOPLE":15358.17},
+			"2020-08": {"total":14661.20, "PEOPLE":14661.20},
+			"2020-09": {"total":31354.24, "PEOPLE":31354.24}
+		}
+	},
+	"13240": {
+		"name": "REUBEN TAYLOR",
+		"total": 2500,
+		"monthly": {
+			"2015-08": {"total":2500.00, "PLACE":2500.00}
+		}
+	},
+	"13241": {
+		"name": "REVERT ALLOYS AND METALS LTD",
+		"total": 5000,
+		"monthly": {
+			"2016-01": {"total":5000.00, "PLACE":5000.00}
+		}
+	},
+	"13242": {
+		"name": "REVIEW CONSULTING LTD",
+		"total": 5119.2,
+		"monthly": {
+			"2013-05": {"total":5119.20, "SSCB":5119.20}
+		}
+	},
+	"13243": {
+		"name": "REVITALISING ECCLESFIELD PARK & PAVILION",
+		"total": 20927.36,
+		"monthly": {
+			"2011-01": {"total":500.00, "CA SMALL GRANT":500.00},
+			"2011-08": {"total":2000.00, "COMMUNITY ASSEMBLY NORTH":2000.00},
+			"2011-10": {"total":795.00, "POSITIVE ACTIVITIES FOR 8-13'S":795.00},
+			"2012-01": {"total":1071.00, "COMMUNITY ASSEMBLY NORTH":1071.00},
+			"2012-03": {"total":2365.48, "ECCLESFIELD PK COMMUNITY GDN":2365.48},
+			"2012-04": {"total":687.88, "ECCLESFIELD PK COMMUNITY GDN":687.88},
+			"2012-06": {"total":8295.00, "CLIMATE IMPACT FUND":8295.00},
+			"2012-10": {"total":1000.00, "COMMUNITY ASSEMBLY NORTH":1000.00},
+			"2014-01": {"total":920.00, "NORTH":920.00},
+			"2014-07": {"total":321.00, "NORTH":321.00},
+			"2015-08": {"total":500.00, "COMMUNITIES":500.00},
+			"2016-09": {"total":500.00, "COMMUNITIES":500.00},
+			"2017-02": {"total":1972.00, "COMMUNITIES":1972.00}
+		}
+	},
+	"13244": {
+		"name": "REVIVE BUSINESS RECOVERY LTD",
+		"alternate-names": [
+			"REVIVE BUSINESS RECOVERY LIMITED"
+		],
+		"total": 1120,
+		"monthly": {
+			"2016-12": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"13245": {
+		"name": "REVO CREATIVE LTD",
+		"total": 21100,
+		"monthly": {
+			"2015-08": {"total":5000.00, "ECONOMIC REGENERATION":5000.00},
+			"2016-01": {"total":8000.00, "CA LEP":8000.00},
+			"2016-03": {"total":8100.00, "CA LEP":8100.00}
+		}
+	},
+	"13246": {
+		"name": "REVOLUTION GYM AND FITNESS LTD",
 		"total": 1120,
 		"monthly": {
 			"2016-02": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"13201": {
-		"name": "REX GROUP SERVICES LTD",
-		"alternate-names": [
-			"REX GROUP SERVICES LIMITED"
-		],
-		"total": 465,
-		"monthly": {
-			"2015-08": {"total":465.00, "PLACE":465.00}
-		}
-	},
-	"13202": {
-		"name": "REXWAYS HOMES LTD",
-		"total": 174744.62,
-		"monthly": {
-			"2019-12": {"total":68088.62, "PEOPLE":68088.62},
-			"2020-01": {"total":26664.00, "PEOPLE":26664.00},
-			"2020-02": {"total":13332.00, "PEOPLE":13332.00},
-			"2020-03": {"total":13332.00, "PEOPLE":13332.00},
-			"2020-04": {"total":26664.00, "PEOPLE":26664.00},
-			"2020-06": {"total":13332.00, "PEOPLE":13332.00},
-			"2020-07": {"total":13332.00, "PEOPLE":13332.00}
-		}
-	},
-	"13203": {
-		"name": "REYMC 247 PVT LIMITED (ROYALCARE HEALTH)",
-		"total": 386161.34,
-		"monthly": {
-			"2020-02": {"total":45285.76, "PEOPLE":45285.76},
-			"2020-03": {"total":92865.57, "PEOPLE":92865.57},
-			"2020-04": {"total":86800.00, "PEOPLE":86800.00},
-			"2020-05": {"total":51900.01, "PEOPLE":51900.01},
-			"2020-06": {"total":55910.00, "PEOPLE":55910.00},
-			"2020-07": {"total":53400.00, "PEOPLE":53400.00}
-		}
-	},
-	"13204": {
-		"name": "REYMC 247 PVT LTD",
-		"alternate-names": [
-			"REYMC 247 PVT LIMITED"
-		],
-		"total": 1219479.9,
-		"monthly": {
-			"2016-12": {"total":786.66, "COMMUNITIES":786.66},
-			"2017-01": {"total":13423.79, "COMMUNITIES":13423.79},
-			"2017-03": {"total":9105.53, "COMMUNITIES":9105.53},
-			"2017-04": {"total":12378.47, "COMMUNITIES":12378.47},
-			"2017-05": {"total":13419.17, "COMMUNITIES":13419.17},
-			"2017-06": {"total":13762.99, "COMMUNITIES":13762.99},
-			"2017-07": {"total":12109.40, "COMMUNITIES":12109.40},
-			"2017-08": {"total":14052.94, "PEOPLE":14052.94},
-			"2017-09": {"total":18233.47, "PEOPLE":18233.47},
-			"2017-10": {"total":25648.99, "PEOPLE":25648.99},
-			"2017-11": {"total":18240.50, "PEOPLE":18240.50},
-			"2017-12": {"total":14365.01, "PEOPLE":14365.01},
-			"2018-01": {"total":41831.34, "PEOPLE":41831.34},
-			"2018-02": {"total":24243.80, "PEOPLE":24243.80},
-			"2018-03": {"total":33056.29, "PEOPLE":33056.29},
-			"2018-04": {"total":27107.21, "PEOPLE":27107.21},
-			"2018-05": {"total":32434.53, "PEOPLE":32434.53},
-			"2018-06": {"total":34894.56, "PEOPLE":34894.56},
-			"2018-07": {"total":32056.85, "PEOPLE":32056.85},
-			"2018-08": {"total":31796.29, "PEOPLE":31796.29},
-			"2018-09": {"total":86802.46, "PEOPLE":86802.46},
-			"2018-11": {"total":29343.49, "PEOPLE":29343.49},
-			"2018-12": {"total":60987.54, "PEOPLE":60987.54},
-			"2019-01": {"total":33588.23, "PEOPLE":33588.23},
-			"2019-02": {"total":35241.29, "PEOPLE":35241.29},
-			"2019-03": {"total":35263.95, "PEOPLE":35263.95},
-			"2019-04": {"total":37366.79, "PEOPLE":37366.79},
-			"2019-05": {"total":45310.09, "PEOPLE":45310.09},
-			"2019-06": {"total":53197.91, "PEOPLE":53197.91},
-			"2019-07": {"total":47427.78, "PEOPLE":47427.78},
-			"2019-08": {"total":46149.84, "PEOPLE":46149.84},
-			"2019-09": {"total":47312.87, "PEOPLE":47312.87},
-			"2019-10": {"total":47162.18, "PEOPLE":47162.18},
-			"2019-11": {"total":47065.14, "PEOPLE":47065.14},
-			"2019-12": {"total":95929.30, "PEOPLE":95929.30},
-			"2020-01": {"total":48383.25, "PEOPLE":48383.25}
-		}
-	},
-	"13205": {
-		"name": "REZOUND LTD",
-		"alternate-names": [
-			"REZOUND LIMITED"
-		],
-		"total": 5200,
-		"monthly": {
-			"2016-03": {"total":5200.00, "CYPF":5200.00}
-		}
-	},
-	"13206": {
-		"name": "RF JOINERY AND SHOPFITTING LTD",
-		"total": 2965215.87,
-		"monthly": {
-			"2013-11": {"total":63800.00, "SORBY HOUSE RECONFIG":63800.00},
-			"2013-12": {"total":43400.00, "SORBY HOUSE RECONFIG":43400.00},
-			"2014-01": {"total":35400.00, "SORBY HOUSE RECONFIG":35400.00},
-			"2014-03": {"total":23000.00, "KELHAM ISLAND MUSEUM ROOF":22600.00, "SORBY HOUSE RECONFIG":400.00},
-			"2014-04": {"total":45400.00, "KELHAM ISLAND MUSEUM ROOF":45400.00},
-			"2014-05": {"total":68800.00, "DARNALL SHOP FRONTS":27700.00, "KELHAM ISLAND MUSEUM ROOF":41100.00},
-			"2014-06": {"total":29900.00, "DARNALL SHOP FRONTS":29200.00, "SORBY HOUSE RECONFIG":700.00},
-			"2014-07": {"total":20500.00, "DARNALL SHOP FRONTS":20500.00},
-			"2014-08": {"total":55400.00, "DARNALL SHOP FRONTS":55400.00},
-			"2014-10": {"total":64000.00, "DARNALL SHOP FRONTS":64000.00},
-			"2014-11": {"total":32033.00, "DARNALL SHOP FRONTS":29300.00, "KELHAM ISLAND MUSEUM ROOF":2733.00},
-			"2014-12": {"total":20400.00, "DARNALL SHOP FRONTS":20400.00},
-			"2015-01": {"total":3666.35, "SORBY HOUSE RECONFIG":3666.35},
-			"2015-05": {"total":3500.00, "DARNALL SHOP FRONTS":3500.00},
-			"2015-06": {"total":334300.00, "FRA WORKS PROGRAMME - 14/15":334300.00},
-			"2015-07": {"total":71763.50, "CYPF":69300.00, "PLACE":2463.50},
-			"2015-08": {"total":207200.00, "CYPF":189100.00, "RESOURCES":18100.00},
-			"2015-09": {"total":257800.00, "CYPF":169300.00, "PLACE":44000.00, "RESOURCES":44500.00},
-			"2015-10": {"total":123800.00, "CYPF":27300.00, "PLACE":49300.00, "RESOURCES":47200.00},
-			"2015-11": {"total":179200.00, "CYPF":22600.00, "PLACE":100300.00, "RESOURCES":56300.00},
-			"2015-12": {"total":59600.00, "RESOURCES":59600.00},
-			"2016-01": {"total":61800.00, "PLACE":3300.00, "RESOURCES":58500.00},
-			"2016-03": {"total":45500.00, "RESOURCES":45500.00},
-			"2016-04": {"total":58145.00, "PLACE":57600.00, "RESOURCES":545.00},
-			"2016-05": {"total":41500.00, "PLACE":41500.00},
-			"2016-06": {"total":42423.00, "PLACE":42423.00},
-			"2016-07": {"total":55738.50, "PLACE":55738.50},
-			"2016-08": {"total":26700.00, "PLACE":26700.00},
-			"2016-09": {"total":46747.50, "PLACE":46747.50},
-			"2016-10": {"total":135965.12, "CYPF":12294.00, "PLACE":50800.00, "RESOURCES":72871.12},
-			"2016-11": {"total":71399.98, "PLACE":24700.00, "RESOURCES":46699.98},
-			"2016-12": {"total":66200.00, "PLACE":66200.00},
-			"2017-02": {"total":53900.00, "PLACE":30500.00, "RESOURCES":23400.00},
-			"2017-04": {"total":39500.00, "PLACE":29000.00, "RESOURCES":10500.00},
-			"2017-05": {"total":34500.00, "PLACE":34500.00},
-			"2017-06": {"total":32500.00, "PLACE":32500.00},
-			"2017-07": {"total":53800.00, "PLACE":53800.00},
-			"2017-08": {"total":883.00, "PLACE":883.00},
-			"2017-10": {"total":4638.75, "PLACE":4638.75},
-			"2017-11": {"total":1143.00, "PLACE":1143.00},
-			"2018-01": {"total":3412.00, "PLACE":3412.00},
-			"2018-02": {"total":4217.41, "PLACE":4217.41},
-			"2018-07": {"total":25692.00, "PLACE":25692.00},
-			"2018-08": {"total":6680.00, "PEOPLE":6680.00},
-			"2018-09": {"total":23808.75, "PLACE":23808.75},
-			"2018-11": {"total":23966.00, "PLACE":23966.00},
-			"2018-12": {"total":6804.00, "PLACE":6804.00},
-			"2019-02": {"total":14700.00, "PLACE":14700.00},
-			"2019-03": {"total":14670.00, "PEOPLE":790.00, "PLACE":13880.00},
-			"2019-04": {"total":9300.00, "PEOPLE":500.00, "PLACE":8800.00},
-			"2019-05": {"total":6535.00, "PLACE":6535.00},
-			"2019-07": {"total":40796.00, "PLACE":40796.00},
-			"2019-09": {"total":1155.00, "PLACE":1155.00},
-			"2019-10": {"total":28500.00, "PLACE":28500.00},
-			"2019-11": {"total":5500.00, "PLACE":5500.00},
-			"2019-12": {"total":1269.25, "PLACE":1269.25},
-			"2020-02": {"total":24300.00, "PLACE":24300.00},
-			"2020-03": {"total":22000.00, "PLACE":22000.00},
-			"2020-04": {"total":34763.76, "PLACE":34763.76},
-			"2020-05": {"total":21900.00, "PLACE":21900.00},
-			"2020-07": {"total":29400.00, "PLACE":29400.00}
-		}
-	},
-	"13207": {
-		"name": "RG JONES SOUND ENGINEERING LTD",
-		"total": 2935,
-		"monthly": {
-			"2011-10": {"total":2935.00, "CHILDRENS' FESTIVAL":2935.00}
-		}
-	},
-	"13208": {
-		"name": "RGH PROPERTY SERVICES",
-		"total": 2000,
-		"monthly": {
-			"2016-10": {"total":2000.00, "PLACE":2000.00}
-		}
-	},
-	"13209": {
-		"name": "RGW VEHICLE CONTRACTORS",
-		"total": 1120,
-		"monthly": {
-			"2017-05": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"13210": {
-		"name": "RH PLASTERING CONTRACTORS LTD",
-		"total": 2840,
-		"monthly": {
-			"2016-10": {"total":1420.00, "CA LEP":1420.00},
-			"2017-01": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"13211": {
-		"name": "RH PRINT SERVICES LTD",
-		"total": 2000,
-		"monthly": {
-			"2015-12": {"total":2000.00, "CA LEP":2000.00}
-		}
-	},
-	"13212": {
-		"name": "RHINEGOLD GARDEN CENTRE",
-		"total": 7079.54,
-		"monthly": {
-			"2012-03": {"total":3591.61, "NORTH OPEN SPACE MAINTENANCE":1657.47, "SHELTERED ESTATE OFFICERS":1300.07, "SHELTERED OPEN SPACE MAIN":634.07},
-			"2013-01": {"total":637.86, "SHELTERED ESTATE OFFICERS":637.86},
-			"2014-06": {"total":2600.07, "OLDER PERSONS LIVING":2600.07},
-			"2015-07": {"total":250.00, "COMMUNITIES":250.00}
-		}
-	},
-	"13213": {
-		"name": "RHINO ASPHALT SOLUTIONS LTD",
-		"alternate-names": [
-			"RHINO ASPHALT SOLUTIONS LIMITED"
-		],
-		"total": 17178.53,
-		"monthly": {
-			"2011-01": {"total":510.00, "STREET FORCE BALANCE SHEET":510.00},
-			"2011-03": {"total":15835.10, "STREET FORCE BALANCE SHEET":15835.10},
-			"2012-05": {"total":833.43, "STREET FORCE BALANCE SHEET":833.43}
-		}
-	},
-	"13214": {
-		"name": "RHJ ACCOUNTANTS",
-		"total": 1120,
-		"monthly": {
-			"2016-08": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"13215": {
-		"name": "RHODAR LTD",
-		"alternate-names": [
-			"RHODAR LIMITED"
-		],
-		"total": 8574.71,
-		"monthly": {
-			"2011-03": {"total":6685.71, "CHANCET WOOD":6119.04, "SPECIALIST SERVICES PROPERTY":566.67},
-			"2012-07": {"total":1039.00, "REV CONT TO CAP PROG":1039.00},
-			"2015-06": {"total":850.00, "LYDGATE INFANTS - MECHANICAL":850.00}
-		}
-	},
-	"13216": {
-		"name": "RHONDA HYATT",
-		"total": 2296.4,
-		"monthly": {
-			"2011-12": {"total":1722.30, "RESIDENCE ORDERS":1722.30},
-			"2012-03": {"total":574.10, "RESIDENCE ORDERS":574.10}
-		}
-	},
-	"13217": {
-		"name": "RHYME & REASON",
-		"total": 2130.72,
-		"monthly": {
-			"2011-02": {"total":975.00, "READING AND LITERACY ADULT":975.00},
-			"2011-03": {"total":1155.72, "TRANSFORMATION FUND":1155.72}
-		}
-	},
-	"13218": {
-		"name": "RHYTHM OF YOUR CHOICE",
-		"total": 800,
-		"monthly": {
-			"2015-11": {"total":800.00, "PLACE":800.00}
-		}
-	},
-	"13219": {
-		"name": "RHYTHM TIME (SPC) LTD",
-		"total": 480,
-		"monthly": {
-			"2019-08": {"total":480.00, "PEOPLE":480.00}
-		}
-	},
-	"13220": {
-		"name": "RIAS (LINK INSURANCE)",
-		"total": 5347.87,
-		"monthly": {
-			"2011-07": {"total":5347.87, "CLAIMS":5347.87}
-		}
-	},
-	"13221": {
-		"name": "RIBA",
-		"total": 3880,
-		"monthly": {
-			"2012-11": {"total":3610.00, "ARCHITECTS":2300.00, "HEAD OF SERVICE":1310.00},
-			"2013-12": {"total":270.00, "PLANNING PROJECTS (PMS)":270.00}
-		}
-	},
-	"13222": {
-		"name": "RIBA BOOKSHOPS",
-		"total": 1232,
-		"monthly": {
-			"2013-05": {"total":1232.00, "BUILDING STANDARDS":1232.00}
-		}
-	},
-	"13223": {
-		"name": "RIBA ENTERPRISES LTD",
-		"total": 93028.3,
-		"monthly": {
-			"2013-10": {"total":300.00, "ARCHITECTS":300.00},
-			"2013-11": {"total":9794.90, "ARCHITECTS":2294.00, "MECHANICAL & ELECTRICAL ENGINE":5000.90, "STRUCTURES":2500.00},
-			"2014-10": {"total":10385.30, "ARCHITECTS":10385.30},
-			"2014-11": {"total":1680.00, "HEAD OF PLANNING SERVICES":1680.00},
-			"2015-11": {"total":9618.60, "PLACE":9618.60},
-			"2016-09": {"total":11790.00, "COMMUNITIES":11790.00},
-			"2016-10": {"total":1629.00, "PLACE":1629.00},
-			"2016-11": {"total":9860.50, "PLACE":9860.50},
-			"2017-04": {"total":1730.00, "PLACE":1730.00},
-			"2017-11": {"total":14325.00, "PLACE":14325.00},
-			"2018-06": {"total":7020.00, "PLACE":7020.00},
-			"2018-11": {"total":14895.00, "PLACE":14895.00}
-		}
-	},
-	"13224": {
-		"name": "RIBA ENTERPRISES LTD T/A NBS",
-		"total": 31901.82,
-		"monthly": {
-			"2019-11": {"total":17890.00, "PLACE":17890.00},
-			"2020-02": {"total":171.82, "PLACE":171.82},
-			"2020-05": {"total":13840.00, "PLACE":13840.00}
-		}
-	},
-	"13225": {
-		"name": "RIBA SERVICES",
-		"total": 11605,
-		"monthly": {
-			"2019-05": {"total":9475.00, "PLACE":9475.00},
-			"2019-06": {"total":2130.00, "PLACE":2130.00}
-		}
-	},
-	"13226": {
-		"name": "RIBA YORKSHIRE",
-		"total": 10295,
-		"monthly": {
-			"2011-12": {"total":10000.00, "BUSINESS GROWTH":10000.00},
-			"2013-03": {"total":295.00, "HEAD OF SERVICE":295.00}
-		}
-	},
-	"13227": {
-		"name": "RIBER SURVEILLANCE LTD",
-		"alternate-names": [
-			"RIBER SURVEILLANCE LIMITED"
-		],
-		"total": 3000,
-		"monthly": {
-			"2016-09": {"total":3000.00, "CYPF":3000.00}
-		}
-	},
-	"13228": {
-		"name": "RICAHARD MARSHALL T/A B SECURE",
-		"total": 562.5,
-		"monthly": {
-			"2012-10": {"total":562.50, "AFFORDABLE WARMTH PROJECT":562.50}
-		}
-	},
-	"13229": {
-		"name": "RICARDO-AEA LTD",
-		"total": 24075,
-		"monthly": {
-			"2013-06": {"total":1915.00, "COMMERCIAL TEAM":1915.00},
-			"2014-04": {"total":1970.00, "COMMERCIAL TEAM":1970.00},
-			"2015-03": {"total":1970.00, "COMMERCIAL TEAM":1970.00},
-			"2016-01": {"total":1720.00, "PLACE":1720.00},
-			"2018-01": {"total":295.00, "PLACE":295.00},
-			"2018-05": {"total":3182.00, "PLACE":3182.00},
-			"2019-05": {"total":1839.00, "PLACE":1839.00},
-			"2019-10": {"total":4793.00, "LOCAL ENTERPRISE PARTNERSHIP":4793.00},
-			"2020-03": {"total":6391.00, "LOCAL ENTERPRISE PARTNERSHIP":6391.00}
-		}
-	},
-	"13230": {
-		"name": "RICH SOLUTIONS",
-		"total": 500,
-		"monthly": {
-			"2014-03": {"total":500.00, "INCLUSION CENTRE":500.00}
-		}
-	},
-	"13231": {
-		"name": "RICH TONE MUSIC LTD",
-		"total": 12127.54,
-		"monthly": {
-			"2012-11": {"total":7696.67, "LOWFIELD U-MIX FACILITY":7696.67},
-			"2017-01": {"total":1500.02, "CYPF":1500.02},
-			"2017-02": {"total":290.83, "CYPF":290.83},
-			"2019-03": {"total":2640.02, "PEOPLE":2640.02}
-		}
-	},
-	"13232": {
-		"name": "RICHARD DEARDEN",
-		"total": 1420,
-		"monthly": {
-			"2016-01": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"13233": {
-		"name": "RICHARD HARWOOD QC",
-		"total": 3000,
-		"monthly": {
-			"2013-08": {"total":3000.00, "WASTE MANAGEMENT TEAM":3000.00}
-		}
-	},
-	"13234": {
-		"name": "RICHARD HONEY",
-		"total": 70385,
-		"monthly": {
-			"2015-02": {"total":1250.00, "DEVELOPMENT CONTROL":1250.00},
-			"2015-04": {"total":2125.00, "DEVELOPMENT CONTROL":2125.00},
-			"2016-05": {"total":22300.00, "PLACE":22300.00},
-			"2016-06": {"total":33090.00, "PLACE":33090.00},
-			"2016-09": {"total":4285.00, "PLACE":4285.00},
-			"2016-10": {"total":700.00, "PLACE":700.00},
-			"2016-11": {"total":6635.00, "PLACE":6635.00}
-		}
-	},
-	"13235": {
-		"name": "RICHARD HUGHES",
-		"total": 1500,
-		"monthly": {
-			"2015-09": {"total":1500.00, "CYPF":1500.00}
-		}
-	},
-	"13236": {
-		"name": "RICHARD LINACRE PLASTERING",
-		"total": 6938.4,
-		"monthly": {
-			"2016-07": {"total":264.00, "CYPF":264.00},
-			"2016-08": {"total":264.00, "CYPF":264.00},
-			"2016-09": {"total":330.00, "CYPF":330.00},
-			"2016-10": {"total":264.00, "CYPF":264.00},
-			"2016-11": {"total":272.00, "CYPF":272.00},
-			"2017-01": {"total":344.00, "CYPF":344.00},
-			"2017-02": {"total":619.20, "CYPF":619.20},
-			"2017-04": {"total":275.20, "CYPF":275.20},
-			"2017-06": {"total":280.00, "CYPF":280.00},
-			"2017-07": {"total":630.00, "CYPF":630.00},
-			"2017-10": {"total":630.00, "PEOPLE":630.00},
-			"2017-11": {"total":280.00, "PEOPLE":280.00},
-			"2017-12": {"total":350.00, "PEOPLE":350.00},
-			"2018-01": {"total":280.00, "PEOPLE":280.00},
-			"2018-02": {"total":280.00, "PEOPLE":280.00},
-			"2018-03": {"total":350.00, "PEOPLE":350.00},
-			"2018-04": {"total":560.00, "PEOPLE":560.00},
-			"2018-05": {"total":370.00, "PEOPLE":370.00},
-			"2018-07": {"total":296.00, "PEOPLE":296.00}
-		}
-	},
-	"13237": {
-		"name": "RICHARD MANSFIELD",
-		"total": 1308,
-		"monthly": {
-			"2016-01": {"total":750.00, "PLACE":750.00},
-			"2016-12": {"total":558.00, "PLACE":558.00}
-		}
-	},
-	"13238": {
-		"name": "RICHARD MASTERS",
-		"total": 860,
-		"monthly": {
-			"2012-03": {"total":860.00, "HLF WINCOBANK WOOD/HILL":860.00}
-		}
-	},
-	"13239": {
-		"name": "RICHARD MUNDY BUILDING DESIGN LTD",
-		"total": 385,
-		"monthly": {
-			"2014-12": {"total":385.00, "DEVELOPMENT CONTROL":385.00}
-		}
-	},
-	"13240": {
-		"name": "RICHARD O'NEILL",
-		"total": 660,
-		"monthly": {
-			"2015-07": {"total":330.00, "CYPF":330.00},
-			"2017-01": {"total":330.00, "CYPF":330.00}
-		}
-	},
-	"13241": {
-		"name": "RICHARD PIERRE MOVE R STUFF",
-		"total": 730,
-		"monthly": {
-			"2018-03": {"total":730.00, "PLACE":730.00}
-		}
-	},
-	"13242": {
-		"name": "RICHARD POWELL",
-		"total": 6626.5,
-		"monthly": {
-			"2011-02": {"total":3750.00, "SHEFFIELD HOMES HUMAN RESOURCE":3750.00},
-			"2011-03": {"total":1250.00, "SHEFFIELD HOMES HUMAN RESOURCE":1250.00},
-			"2011-04": {"total":1064.00, "BUSINESS DEVELOPMENT":1064.00},
-			"2013-02": {"total":562.50, "HR & ORG DEVELOPMENT":562.50}
-		}
-	},
-	"13243": {
-		"name": "RICHARD ROBINSON",
-		"total": 1420,
-		"monthly": {
-			"2016-04": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"13244": {
-		"name": "RICHARD SHAW",
-		"total": 1420,
-		"monthly": {
-			"2017-05": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"13245": {
-		"name": "RICHARD SMITH",
-		"total": 400,
-		"monthly": {
-			"2014-07": {"total":400.00, "ADOPTION SERVICE":400.00}
-		}
-	},
-	"13246": {
-		"name": "RICHARD SMITH BUILDERS",
-		"total": 4579.31,
-		"monthly": {
-			"2011-08": {"total":4579.31, "EAST RIDING - SUB REGION HAL":4579.31}
-		}
-	},
 	"13247": {
-		"name": "RICHARD THORPE RACING LTD",
-		"total": 15008,
+		"name": "REVOLUTION HAIR CONCEPTS LTD",
+		"total": 22600,
 		"monthly": {
-			"2013-01": {"total":260.00, "100 APPRENTICES":260.00},
-			"2013-11": {"total":468.00, "100 APPRENTICES":468.00},
-			"2014-02": {"total":572.00, "100 APPRENTICES":572.00},
-			"2014-04": {"total":613.60, "100 APPRENTICES":613.60},
-			"2014-09": {"total":964.80, "100 APPRENTICES":964.80},
-			"2014-12": {"total":1150.80, "100 APPRENTICES":1150.80},
-			"2015-03": {"total":1644.00, "100 APPRENTICES":1644.00},
-			"2015-07": {"total":986.40, "CYPF":986.40},
-			"2015-08": {"total":986.40, "CYPF":986.40},
-			"2015-10": {"total":767.20, "CYPF":767.20},
-			"2015-11": {"total":274.00, "CYPF":274.00},
-			"2016-02": {"total":1122.00, "CYPF":1122.00},
-			"2016-04": {"total":330.00, "CYPF":330.00},
-			"2016-05": {"total":514.80, "CYPF":514.80},
-			"2016-10": {"total":1120.00, "CA LEP":1120.00},
-			"2017-01": {"total":1980.00, "CYPF":1980.00},
-			"2017-05": {"total":1254.00, "CYPF":1254.00}
+			"2013-11": {"total":3000.00, "STRATEGY AND SKILLS":3000.00},
+			"2014-04": {"total":10000.00, "STRATEGY AND SKILLS":10000.00},
+			"2015-07": {"total":5000.00, "PLACE":5000.00},
+			"2015-11": {"total":1120.00, "CA LEP":1120.00},
+			"2018-02": {"total":3480.00, "PLACE":3480.00}
 		}
 	},
 	"13248": {
-		"name": "RICHARD WOOD ASSOCIATES LTD",
-		"alternate-names": [
-			"RICHARD WOOD ASSOCIATES LIMITED"
-		],
-		"total": 700,
+		"name": "REVOLUTION LEARNING AND DEVELOPMENT LTD",
+		"total": 650,
 		"monthly": {
-			"2017-10": {"total":700.00, "PLACE":700.00}
+			"2018-08": {"total":650.00, "PEOPLE":650.00}
 		}
 	},
 	"13249": {
-		"name": "RICHARDSON JOINERY LTD",
-		"total": 1420,
+		"name": "REVOX UK LTD T/A THE NETHEREDGE HOTEL",
+		"total": 1692.06,
 		"monthly": {
-			"2016-10": {"total":1420.00, "CA LEP":1420.00}
+			"2011-04": {"total":575.26, "HOMELESSNESS BED & BREAKFAST":575.26},
+			"2011-05": {"total":581.39, "HOMELESSNESS BED & BREAKFAST":581.39},
+			"2011-06": {"total":535.41, "HOMELESSNESS BED & BREAKFAST":535.41}
 		}
 	}
 	}

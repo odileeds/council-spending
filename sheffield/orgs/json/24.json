@@ -1,28 +1,75 @@
 {
-	"range": ["2011-01","2020-07"],
+	"range": ["2011-01","2020-09"],
 	"data": {
 	"1200": {
+		"name": "ASBESTOS BUSINESS CONTRACTORS LTD",
+		"total": 19360,
+		"monthly": {
+			"2011-03": {"total":12150.00, "ASBESTOS REMOVAL":12150.00},
+			"2011-05": {"total":7210.00, "ASBESTOS REMOVAL":7210.00}
+		}
+	},
+	"1201": {
+		"name": "ASBESTOS CONSULTANTS TO THE ENVIRONMENT",
+		"total": 158218.5,
+		"monthly": {
+			"2011-06": {"total":38800.00, "ALMO ASBESTOS SURVEYS":38800.00},
+			"2011-07": {"total":26014.50, "ALMO ASBESTOS SURVEYS":26014.50},
+			"2011-08": {"total":12150.00, "ALMO ASBESTOS SURVEYS":12150.00},
+			"2011-09": {"total":4090.50, "ALMO ASBESTOS SURVEYS":4090.50},
+			"2011-10": {"total":13392.00, "ALMO ASBESTOS SURVEYS":13392.00},
+			"2011-11": {"total":12204.00, "ALMO ASBESTOS SURVEYS":12204.00},
+			"2012-02": {"total":24967.50, "ALMO ASBESTOS SURVEYS":24967.50},
+			"2012-07": {"total":26600.00, "ALMO ASBESTOS SURVEYS":26600.00}
+		}
+	},
+	"1202": {
+		"name": "ASC CARTONS LTD",
+		"total": 17720.57,
+		"monthly": {
+			"2011-01": {"total":890.00, "RECORD MANAGEMENT":890.00},
+			"2011-06": {"total":1013.36, "RECORD MANAGEMENT":1013.36},
+			"2011-08": {"total":960.00, "RECORD MANAGEMENT":960.00},
+			"2012-01": {"total":998.40, "RECORD MANAGEMENT":998.40},
+			"2012-08": {"total":992.64, "RECORD MANAGEMENT":992.64},
+			"2013-02": {"total":960.00, "RECORD MANAGEMENT":960.00},
+			"2013-06": {"total":960.00, "RECORD MANAGEMENT":960.00},
+			"2013-10": {"total":1036.80, "RECORD MANAGEMENT":1036.80},
+			"2014-05": {"total":953.57, "RECORD MANAGEMENT":953.57},
+			"2014-11": {"total":888.55, "RECORDS MANAGEMENT":888.55},
+			"2015-05": {"total":971.71, "RECORDS MANAGEMENT":971.71},
+			"2015-09": {"total":1063.44, "COMMUNITIES":1063.44},
+			"2016-03": {"total":1048.32, "COMMUNITIES":1048.32},
+			"2017-02": {"total":900.00, "COMMUNITIES":900.00},
+			"2017-06": {"total":263.25, "CYPF":263.25},
+			"2017-12": {"total":1131.90, "PEOPLE":1131.90},
+			"2018-08": {"total":292.50, "PEOPLE":292.50},
+			"2018-09": {"total":1188.64, "PEOPLE":1188.64},
+			"2020-02": {"total":1207.49, "PEOPLE":1207.49}
+		}
+	},
+	"1203": {
 		"name": "ASCEL",
 		"total": 400,
 		"monthly": {
 			"2017-01": {"total":400.00, "COMMUNITIES":400.00}
 		}
 	},
-	"1201": {
+	"1204": {
 		"name": "ASCL PROFESSIONAL DEVELOPMENT LTD",
 		"total": 275,
 		"monthly": {
 			"2017-10": {"total":275.00, "PEOPLE":275.00}
 		}
 	},
-	"1202": {
+	"1205": {
 		"name": "ASCOT ENVIRONMENTAL LTD",
 		"total": 2263.99,
 		"monthly": {
 			"2017-07": {"total":2263.99, "RESOURCES":2263.99}
 		}
 	},
-	"1203": {
+	"1206": {
 		"name": "ASCOT LODGE",
 		"total": 327828.95,
 		"monthly": {
@@ -35,9 +82,9 @@
 			"2011-08": {"total":24650.57, "PURCHASING ELDERLY":24650.57}
 		}
 	},
-	"1204": {
+	"1207": {
 		"name": "ASCOT LODGE CARE HOME",
-		"total": 6686063.22000006,
+		"total": 6803673.05000006,
 		"monthly": {
 			"2011-09": {"total":55775.71, "PURCHASING ELDERLY":55775.71},
 			"2011-10": {"total":2826.86, "PURCHASING ELDERLY":2826.86},
@@ -141,10 +188,12 @@
 			"2020-04": {"total":129755.06, "PEOPLE":129755.06},
 			"2020-05": {"total":81577.77, "PEOPLE":81577.77},
 			"2020-06": {"total":88255.64, "PEOPLE":88255.64},
-			"2020-07": {"total":139467.30, "PEOPLE":139467.30}
+			"2020-07": {"total":139467.30, "PEOPLE":139467.30},
+			"2020-08": {"total":30366.62, "PEOPLE":30366.62},
+			"2020-09": {"total":87243.21, "PEOPLE":87243.21}
 		}
 	},
-	"1205": {
+	"1208": {
 		"name": "ASCOT MARQUEES",
 		"total": 13862,
 		"monthly": {
@@ -162,7 +211,7 @@
 			"2020-01": {"total":1220.00, "PLACE":1220.00}
 		}
 	},
-	"1206": {
+	"1209": {
 		"name": "ASD SOLICITORS",
 		"total": 18200,
 		"monthly": {
@@ -170,7 +219,7 @@
 			"2012-07": {"total":6200.00, "CLAIMS":6200.00}
 		}
 	},
-	"1207": {
+	"1210": {
 		"name": "ASDA",
 		"total": 10280.28,
 		"monthly": {
@@ -184,9 +233,9 @@
 			"2015-04": {"total":1462.50, "ESTATE & ENVIORMENTAL SERVICES":1462.50}
 		}
 	},
-	"1208": {
+	"1211": {
 		"name": "ASDA PHARMACY - ADSA STORES LTD",
-		"total": 48737.06,
+		"total": 49942.12,
 		"monthly": {
 			"2013-07": {"total":328.80, "COMMUNITY PHARMACY":328.80},
 			"2013-09": {"total":444.80, "COMMUNITY PHARMACY":444.80},
@@ -254,12 +303,14 @@
 			"2020-03": {"total":522.40, "PEOPLE":522.40},
 			"2020-04": {"total":438.40, "PEOPLE":438.40},
 			"2020-06": {"total":629.73, "PEOPLE":629.73},
-			"2020-07": {"total":544.93, "PEOPLE":544.93}
+			"2020-07": {"total":544.93, "PEOPLE":544.93},
+			"2020-08": {"total":620.93, "PEOPLE":620.93},
+			"2020-09": {"total":584.13, "PEOPLE":584.13}
 		}
 	},
-	"1209": {
+	"1212": {
 		"name": "ASDA PHARMACY CHAPELTOWN",
-		"total": 4219.47,
+		"total": 4828.01,
 		"monthly": {
 			"2015-06": {"total":275.20, "CONTRACT PAYMENTS ÃÂ DRUGS":275.20},
 			"2015-07": {"total":320.00, "COMMUNITIES":320.00},
@@ -274,10 +325,12 @@
 			"2020-01": {"total":373.60, "PEOPLE":373.60},
 			"2020-03": {"total":299.20, "PEOPLE":299.20},
 			"2020-04": {"total":280.80, "PEOPLE":280.80},
-			"2020-07": {"total":327.47, "PEOPLE":327.47}
+			"2020-07": {"total":327.47, "PEOPLE":327.47},
+			"2020-08": {"total":306.67, "PEOPLE":306.67},
+			"2020-09": {"total":301.87, "PEOPLE":301.87}
 		}
 	},
-	"1210": {
+	"1213": {
 		"name": "ASDAN",
 		"total": 7085.7,
 		"monthly": {
@@ -295,7 +348,7 @@
 			"2019-11": {"total":745.00, "PEOPLE":745.00}
 		}
 	},
-	"1211": {
+	"1214": {
 		"name": "ASDAN LTD",
 		"alternate-names": [
 			"ASDAN LIMITED"
@@ -309,14 +362,14 @@
 			"2014-03": {"total":275.00, "VISION SUPPORT SERVICE":275.00}
 		}
 	},
-	"1212": {
+	"1215": {
 		"name": "ASDRUMARK LTD",
 		"total": 2000,
 		"monthly": {
 			"2016-10": {"total":2000.00, "CA LEP":2000.00}
 		}
 	},
-	"1213": {
+	"1216": {
 		"name": "ASH ELECTRICAL SERVICES",
 		"total": 50400,
 		"monthly": {
@@ -331,7 +384,7 @@
 			"2019-03": {"total":715.00, "PEOPLE":715.00}
 		}
 	},
-	"1214": {
+	"1217": {
 		"name": "ASH HILL ACADEMY",
 		"total": 6167,
 		"monthly": {
@@ -343,7 +396,7 @@
 			"2017-05": {"total":1000.00, "CYPF":1000.00}
 		}
 	},
-	"1215": {
+	"1218": {
 		"name": "ASH HOUSE RESIDENTIAL HOME",
 		"total": 2962905.35999999,
 		"monthly": {
@@ -443,16 +496,16 @@
 			"2019-02": {"total":6448.22, "PEOPLE":6448.22}
 		}
 	},
-	"1216": {
+	"1219": {
 		"name": "ASH HOUSE YORKSHIRE LTD T/A",
 		"total": 1925,
 		"monthly": {
 			"2014-04": {"total":1925.00, "DEVELOPMENT CONTROL":1925.00}
 		}
 	},
-	"1217": {
+	"1220": {
 		"name": "ASH LEA SCHOOL",
-		"total": 4000,
+		"total": 4500,
 		"monthly": {
 			"2018-03": {"total":500.00, "PEOPLE":500.00},
 			"2018-05": {"total":500.00, "PEOPLE":500.00},
@@ -461,10 +514,11 @@
 			"2019-05": {"total":500.00, "PEOPLE":500.00},
 			"2019-10": {"total":500.00, "PEOPLE":500.00},
 			"2020-01": {"total":500.00, "PEOPLE":500.00},
-			"2020-05": {"total":500.00, "PEOPLE":500.00}
+			"2020-05": {"total":500.00, "PEOPLE":500.00},
+			"2020-08": {"total":500.00, "PEOPLE":500.00}
 		}
 	},
-	"1218": {
+	"1221": {
 		"name": "ASH PADDOCK HOMES LTD",
 		"total": 65761.65,
 		"monthly": {
@@ -502,14 +556,14 @@
 			"2017-08": {"total":5221.92, "CORPORATE":5221.92}
 		}
 	},
-	"1219": {
+	"1222": {
 		"name": "ASHBROOK ROOFING AND SUPPLIES LTD",
 		"total": 4950,
 		"monthly": {
 			"2019-03": {"total":4950.00, "PLACE":4950.00}
 		}
 	},
-	"1220": {
+	"1223": {
 		"name": "ASHBROOK SCHOOL",
 		"total": 1867,
 		"monthly": {
@@ -517,7 +571,7 @@
 			"2015-06": {"total":634.00, "LAC PUPIL PREMIUM":634.00}
 		}
 	},
-	"1221": {
+	"1224": {
 		"name": "ASHCOR TARMACADAM  PAVING LTD",
 		"total": 17904.26,
 		"monthly": {
@@ -527,7 +581,7 @@
 			"2016-06": {"total":1109.24, "RESOURCES":1109.24}
 		}
 	},
-	"1222": {
+	"1225": {
 		"name": "ASHDELL PREPARATORY",
 		"total": 13536,
 		"monthly": {
@@ -542,12 +596,12 @@
 			"2013-06": {"total":480.00, "EARLY YEARS SEN TEAM":480.00}
 		}
 	},
-	"1223": {
+	"1226": {
 		"name": "ASHFIELD CARE LTD",
 		"alternate-names": [
 			"ASHFIELD CARE LIMITED"
 		],
-		"total": 704486.810000005,
+		"total": 711128.650000005,
 		"monthly": {
 			"2011-05": {"total":7173.60, "PURCHASING":4340.64, "PURCHASING ELDERLY":2832.96},
 			"2011-08": {"total":28694.40, "PURCHASING":14819.39, "PURCHASING ELDERLY":13875.01},
@@ -636,10 +690,12 @@
 			"2020-04": {"total":4347.12, "PEOPLE":4347.12},
 			"2020-05": {"total":14261.52, "PEOPLE":14261.52},
 			"2020-06": {"total":4443.84, "PEOPLE":4443.84},
-			"2020-07": {"total":4499.19, "PEOPLE":4499.19}
+			"2020-07": {"total":4499.19, "PEOPLE":4499.19},
+			"2020-08": {"total":2153.72, "PEOPLE":2153.72},
+			"2020-09": {"total":4488.12, "PEOPLE":4488.12}
 		}
 	},
-	"1224": {
+	"1227": {
 		"name": "ASHFIELD SCHOOL",
 		"total": 1300,
 		"monthly": {
@@ -648,7 +704,7 @@
 			"2017-11": {"total":500.00, "PEOPLE":500.00}
 		}
 	},
-	"1225": {
+	"1228": {
 		"name": "ASHFIELDS CARE HOME",
 		"total": 35294,
 		"monthly": {
@@ -663,14 +719,14 @@
 			"2012-09": {"total":3870.00, "PURCHASING ELDERLY":3870.00}
 		}
 	},
-	"1226": {
+	"1229": {
 		"name": "ASHFORD  ST PETERS HOSPITALS NHS FT",
 		"total": 397.7,
 		"monthly": {
 			"2016-11": {"total":397.70, "CYPF":397.70}
 		}
 	},
-	"1227": {
+	"1230": {
 		"name": "ASHGATE CROFT SCHOOL FUND",
 		"total": 1534,
 		"monthly": {
@@ -680,7 +736,7 @@
 			"2014-08": {"total":634.00, "LAC PUPIL PREMIUM":634.00}
 		}
 	},
-	"1228": {
+	"1231": {
 		"name": "ASHIANA (SP)",
 		"total": 661213.560000001,
 		"monthly": {
@@ -723,7 +779,7 @@
 			"2014-02": {"total":15362.56, "HOUSING RELATED SUPPORT":15362.56}
 		}
 	},
-	"1229": {
+	"1232": {
 		"name": "ASHIANA SHEFFIELD LTD",
 		"total": 97516.38,
 		"monthly": {
@@ -755,7 +811,7 @@
 			"2020-07": {"total":2250.00, "PEOPLE":2250.00}
 		}
 	},
-	"1230": {
+	"1233": {
 		"name": "ASHLEY HOUSE N HOME (WORKSOP)",
 		"total": 43439.76,
 		"monthly": {
@@ -763,14 +819,14 @@
 			"2011-04": {"total":7192.56, "PURCHASING":4351.60, "PURCHASING ELDERLY":2840.96}
 		}
 	},
-	"1231": {
+	"1234": {
 		"name": "ASHLEY SERR",
 		"total": 6650,
 		"monthly": {
 			"2012-01": {"total":6650.00, "LEADERSHIP STRATEGY & PERFORM":6650.00}
 		}
 	},
-	"1232": {
+	"1235": {
 		"name": "ASHLEY TRAVEL LTD",
 		"total": 416709,
 		"monthly": {
@@ -858,7 +914,7 @@
 			"2020-07": {"total":10939.00, "PEOPLE":10939.00}
 		}
 	},
-	"1233": {
+	"1236": {
 		"name": "ASHLEY-CLARKE CONSULTANTS LTD",
 		"total": 4435.28,
 		"monthly": {
@@ -869,14 +925,14 @@
 			"2017-06": {"total":2215.10, "CYPF":2215.10}
 		}
 	},
-	"1234": {
+	"1237": {
 		"name": "ASHMERE CARE GROUP",
 		"total": 1891.88,
 		"monthly": {
 			"2015-11": {"total":1891.88, "COMMUNITIES":1891.88}
 		}
 	},
-	"1235": {
+	"1238": {
 		"name": "ASHMORE FINANCIAL LTD",
 		"alternate-names": [
 			"ASHMORE FINANCIAL LIMITED"
@@ -886,19 +942,19 @@
 			"2018-12": {"total":63298.00, "CORPORATE":63298.00}
 		}
 	},
-	"1236": {
+	"1239": {
 		"name": "ASHTEAD PLANT HIRE - LIVE TRAKWAY",
 		"total": 1150,
 		"monthly": {
 			"2019-03": {"total":1150.00, "PLACE":1150.00}
 		}
 	},
-	"1237": {
+	"1240": {
 		"name": "ASHTEAD PLANT HIRE CO LTD",
 		"alternate-names": [
 			"ASHTEAD PLANT HIRE CO LIMITED"
 		],
-		"total": 29347.19,
+		"total": 31327.19,
 		"monthly": {
 			"2011-08": {"total":616.00, "STREET FORCE BALANCE SHEET":616.00},
 			"2011-10": {"total":588.00, "STREET FORCE BALANCE SHEET":588.00},
@@ -923,17 +979,19 @@
 			"2020-01": {"total":867.50, "PLACE":867.50},
 			"2020-05": {"total":860.00, "PLACE":860.00},
 			"2020-06": {"total":1935.00, "PLACE":1935.00},
-			"2020-07": {"total":990.00, "PLACE":990.00}
+			"2020-07": {"total":990.00, "PLACE":990.00},
+			"2020-08": {"total":1035.00, "PLACE":1035.00},
+			"2020-09": {"total":945.00, "PLACE":945.00}
 		}
 	},
-	"1238": {
+	"1241": {
 		"name": "ASHTEAD TECHNOLOGY LTD",
 		"total": 475,
 		"monthly": {
 			"2013-12": {"total":475.00, "CLOSED LANDFILL SITES":475.00}
 		}
 	},
-	"1239": {
+	"1242": {
 		"name": "ASHTON BENNETT CONSULTANCY",
 		"total": 38172.5,
 		"monthly": {
@@ -948,7 +1006,7 @@
 			"2014-02": {"total":8033.00, "PROJECT MANAGEMENT - SCHEME":8033.00}
 		}
 	},
-	"1240": {
+	"1243": {
 		"name": "ASHTON COURT RESIDENTIAL HOME",
 		"total": 64183.67,
 		"monthly": {
@@ -977,14 +1035,14 @@
 			"2016-10": {"total":1508.00, "COMMUNITIES":1508.00}
 		}
 	},
-	"1241": {
+	"1244": {
 		"name": "ASHTON WHITE JOINERY LTD",
 		"total": 1420,
 		"monthly": {
 			"2017-03": {"total":1420.00, "CA LEP":1420.00}
 		}
 	},
-	"1242": {
+	"1245": {
 		"name": "ASHWOODS AUTOMOTIVE LTD",
 		"alternate-names": [
 			"ASHWOODS AUTOMOTIVE LIMITED"
@@ -999,7 +1057,7 @@
 			"2018-03": {"total":2975.00, "PLACE":2975.00}
 		}
 	},
-	"1243": {
+	"1246": {
 		"name": "ASHWORTH BAILEY LTD",
 		"alternate-names": [
 			"ASHWORTH BAILEY LIMITED"
@@ -1009,7 +1067,7 @@
 			"2017-01": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"1244": {
+	"1247": {
 		"name": "ASIAN OLD PEOPLES CARING SOCIETY",
 		"total": 1432.5,
 		"monthly": {
@@ -1017,7 +1075,7 @@
 			"2011-11": {"total":507.50, "SMALL GRANTS":507.50}
 		}
 	},
-	"1245": {
+	"1248": {
 		"name": "ASIF RAFIQ",
 		"total": 4298.93,
 		"monthly": {
@@ -1027,7 +1085,7 @@
 			"2018-06": {"total":1500.00, "PLACE":1500.00}
 		}
 	},
-	"1246": {
+	"1249": {
 		"name": "ASK FOR RESEARCH LTD",
 		"total": 17990,
 		"monthly": {
@@ -1037,135 +1095,6 @@
 			"2013-09": {"total":1000.00, "CHILDRENS' FESTIVAL":1000.00},
 			"2013-11": {"total":2000.00, "CITY CENTRE VIBRANCY":2000.00},
 			"2013-12": {"total":4995.00, "NEW WORKS CLIENT":4995.00}
-		}
-	},
-	"1247": {
-		"name": "ASK4 BUSINESS LTD",
-		"total": 129934.04,
-		"monthly": {
-			"2011-01": {"total":6000.00, "ATTERCLIFFE TECHNOLOGY PARK":6000.00},
-			"2011-07": {"total":2562.50, "BURNGREAVE NEW DEAL":2562.50},
-			"2011-08": {"total":2143.00, "BURNGREAVE NEW DEAL":2143.00},
-			"2011-10": {"total":2985.00, "BURNGREAVE NEW DEAL":2985.00},
-			"2011-11": {"total":3383.50, "BURNGREAVE NEW DEAL":3383.50},
-			"2012-01": {"total":2372.00, "BURNGREAVE NEW DEAL":2372.00},
-			"2012-02": {"total":3799.50, "BURNGREAVE NEW DEAL":3799.50},
-			"2012-03": {"total":877.50, "BURNGREAVE NEW DEAL":877.50},
-			"2012-04": {"total":1171.00, "BURNGREAVE NEW DEAL":1171.00},
-			"2012-07": {"total":8580.00, "ATTERCLIFFE TECHNOLOGY PARK":3950.00, "BURNGREAVE NEW DEAL":4630.00},
-			"2012-09": {"total":2334.00, "BURNGREAVE NEW DEAL":2334.00},
-			"2012-10": {"total":6421.50, "BURNGREAVE NEW DEAL":6421.50},
-			"2012-11": {"total":2034.00, "BURNGREAVE NEW DEAL":2034.00},
-			"2013-01": {"total":3100.04, "BURNGREAVE NEW DEAL":3100.04},
-			"2013-02": {"total":1939.50, "BURNGREAVE NEW DEAL":1939.50},
-			"2013-03": {"total":1939.50, "BURNGREAVE NEW DEAL":1939.50},
-			"2013-05": {"total":3879.00, "BURNGREAVE NEW DEAL":3879.00},
-			"2013-06": {"total":1939.50, "BURNGREAVE NEW DEAL":1939.50},
-			"2013-07": {"total":1062.00, "BNDFC - SORBY HOUSE":1062.00},
-			"2013-09": {"total":2124.00, "BNDFC - SORBY HOUSE":2124.00},
-			"2013-10": {"total":2491.50, "BNDFC - SORBY HOUSE":1051.50, "GENERAL COMM AREAS - INC AREA":1440.00},
-			"2013-11": {"total":1051.50, "BNDFC - SORBY HOUSE":1051.50},
-			"2013-12": {"total":5428.50, "BNDFC - SORBY HOUSE":1041.00, "BNDFC - VESTRY HALL":4387.50},
-			"2014-01": {"total":2796.00, "BNDFC - SORBY HOUSE":1041.00, "BNDFC - VESTRY HALL":1755.00},
-			"2014-02": {"total":1041.00, "BNDFC - SORBY HOUSE":1041.00},
-			"2014-03": {"total":2796.00, "BNDFC - SORBY HOUSE":1041.00, "BNDFC - VESTRY HALL":1755.00},
-			"2014-05": {"total":2082.00, "BNDFC - SORBY HOUSE":2082.00},
-			"2014-06": {"total":2632.50, "BNDFC - VESTRY HALL":2632.50},
-			"2014-07": {"total":1918.50, "BNDFC - SORBY HOUSE":1041.00, "BNDFC - VESTRY HALL":877.50},
-			"2014-08": {"total":2970.00, "BNDFC - SORBY HOUSE":2092.50, "BNDFC - VESTRY HALL":877.50},
-			"2014-09": {"total":1929.00, "BNDFC - SORBY HOUSE":1051.50, "BNDFC - VESTRY HALL":877.50},
-			"2014-10": {"total":1929.00, "BNDFC - SORBY HOUSE":1051.50, "BNDFC - VESTRY HALL":877.50},
-			"2014-11": {"total":1939.50, "BNDFC - SORBY HOUSE":1062.00, "BNDFC - VESTRY HALL":877.50},
-			"2014-12": {"total":1929.00, "BNDFC - SORBY HOUSE":1051.50, "BNDFC - VESTRY HALL":877.50},
-			"2015-01": {"total":1929.00, "BNDFC - SORBY HOUSE":1051.50, "BNDFC - VESTRY HALL":877.50},
-			"2015-02": {"total":877.50, "BNDFC - VESTRY HALL":877.50},
-			"2015-03": {"total":1908.00, "BNDFC - SORBY HOUSE":1030.50, "BNDFC - VESTRY HALL":877.50},
-			"2015-04": {"total":877.50, "BNDFC - VESTRY HALL":877.50},
-			"2015-05": {"total":2938.50, "BNDFC - SORBY HOUSE":2061.00, "BNDFC - VESTRY HALL":877.50},
-			"2015-06": {"total":2946.50, "BNDFC - SORBY HOUSE":2069.00, "BNDFC - VESTRY HALL":877.50},
-			"2015-07": {"total":1908.00, "RESOURCES":1908.00},
-			"2015-08": {"total":877.50, "RESOURCES":877.50},
-			"2015-09": {"total":1908.00, "RESOURCES":1908.00},
-			"2015-10": {"total":877.50, "RESOURCES":877.50},
-			"2015-11": {"total":877.50, "RESOURCES":877.50},
-			"2015-12": {"total":877.50, "RESOURCES":877.50},
-			"2016-01": {"total":877.50, "RESOURCES":877.50},
-			"2016-02": {"total":877.50, "RESOURCES":877.50},
-			"2016-03": {"total":877.50, "RESOURCES":877.50},
-			"2016-04": {"total":877.50, "RESOURCES":877.50},
-			"2016-05": {"total":877.50, "RESOURCES":877.50},
-			"2016-06": {"total":877.50, "RESOURCES":877.50},
-			"2016-07": {"total":877.50, "RESOURCES":877.50},
-			"2016-08": {"total":877.50, "RESOURCES":877.50},
-			"2017-07": {"total":2632.50, "RESOURCES":2632.50},
-			"2017-09": {"total":877.50, "PLACE":877.50},
-			"2017-10": {"total":1755.00, "PLACE":1755.00},
-			"2018-03": {"total":5265.00, "PLACE":5265.00}
-		}
-	},
-	"1248": {
-		"name": "ASK4 LTD",
-		"alternate-names": [
-			"ASK4 LIMITED"
-		],
-		"total": 3077.84,
-		"monthly": {
-			"2014-05": {"total":3077.84, "EXTERNAL PROJECTS":3077.84}
-		}
-	},
-	"1249": {
-		"name": "ASKEWS LIBRARY SERVICES LTD",
-		"total": 879064.959999999,
-		"monthly": {
-			"2015-08": {"total":21869.07, "COMMUNITIES":21869.07},
-			"2015-09": {"total":11359.93, "COMMUNITIES":11359.93},
-			"2015-10": {"total":19698.06, "COMMUNITIES":19698.06},
-			"2015-11": {"total":24762.07, "COMMUNITIES":24762.07},
-			"2015-12": {"total":13134.77, "COMMUNITIES":13134.77},
-			"2016-01": {"total":14848.34, "COMMUNITIES":14848.34},
-			"2016-02": {"total":35875.72, "COMMUNITIES":35875.72},
-			"2016-03": {"total":60114.53, "COMMUNITIES":60114.53},
-			"2016-04": {"total":20516.89, "COMMUNITIES":20516.89},
-			"2016-05": {"total":15212.81, "COMMUNITIES":15212.81},
-			"2016-06": {"total":12380.25, "COMMUNITIES":12380.25},
-			"2016-07": {"total":20745.55, "COMMUNITIES":20745.55},
-			"2016-08": {"total":21357.22, "COMMUNITIES":21357.22},
-			"2016-09": {"total":17512.66, "COMMUNITIES":17512.66},
-			"2016-10": {"total":22606.28, "COMMUNITIES":22606.28},
-			"2016-11": {"total":17664.98, "COMMUNITIES":17664.98},
-			"2016-12": {"total":10936.43, "COMMUNITIES":10936.43},
-			"2017-01": {"total":20537.63, "COMMUNITIES":20537.63},
-			"2017-02": {"total":25686.11, "COMMUNITIES":25686.11},
-			"2017-04": {"total":11232.88, "COMMUNITIES":11232.88},
-			"2017-05": {"total":24551.09, "COMMUNITIES":24551.09},
-			"2017-06": {"total":30814.17, "COMMUNITIES":30814.17},
-			"2017-07": {"total":28210.22, "COMMUNITIES":28210.22},
-			"2017-08": {"total":22180.02, "CORPORATE":22180.02},
-			"2017-09": {"total":11117.93, "PEOPLE":11117.93},
-			"2017-10": {"total":2090.46, "PEOPLE":2090.46},
-			"2017-11": {"total":25889.47, "PEOPLE":25889.47},
-			"2017-12": {"total":267.58, "PEOPLE":267.58},
-			"2018-01": {"total":14056.34, "PEOPLE":14056.34},
-			"2018-02": {"total":15289.75, "PEOPLE":15289.75},
-			"2018-03": {"total":32230.39, "PEOPLE":32230.39},
-			"2018-04": {"total":7875.77, "PEOPLE":7875.77},
-			"2018-05": {"total":36814.22, "PEOPLE":36814.22},
-			"2018-06": {"total":11903.65, "PEOPLE":11903.65},
-			"2018-07": {"total":17311.69, "PEOPLE":17311.69},
-			"2018-08": {"total":19426.26, "PEOPLE":19426.26},
-			"2018-09": {"total":7062.63, "PEOPLE":7062.63},
-			"2018-10": {"total":24169.81, "PEOPLE":24169.81},
-			"2018-11": {"total":22463.18, "PEOPLE":22463.18},
-			"2018-12": {"total":13375.64, "PEOPLE":13375.64},
-			"2019-01": {"total":13662.74, "PEOPLE":13662.74},
-			"2019-02": {"total":28451.14, "PEOPLE":28451.14},
-			"2019-03": {"total":26281.40, "PEOPLE":26281.40},
-			"2019-04": {"total":14139.53, "PEOPLE":14139.53},
-			"2019-05": {"total":7375.16, "PEOPLE":7375.16},
-			"2019-06": {"total":1841.80, "PEOPLE":1841.80},
-			"2019-07": {"total":391.09, "PEOPLE":391.09},
-			"2020-02": {"total":410.24, "PEOPLE":410.24},
-			"2020-03": {"total":1359.41, "PEOPLE":1359.41}
 		}
 	}
 	}

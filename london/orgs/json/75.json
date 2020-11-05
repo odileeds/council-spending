@@ -1,23 +1,481 @@
 {
-	"range": ["2013-04","2020-07"],
+	"range": ["2013-04","2020-09"],
 	"data": {
 	"3750": {
-		"name": "OSMANI TRUST",
-		"total": 25205.5,
+		"name": "ONSITE TECHNOLOGIES LTD",
+		"alternate-names": [
+			"ONSITE TECHNOLOGIES LIMITED"
+		],
+		"total": 25330,
 		"monthly": {
-			"2018-06": {"total":515.50, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":515.50},
-			"2018-07": {"total":690.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":690.00},
-			"2020-03": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00}
+			"2016-10": {"total":5700.00, "COMPUTER HARDWARE":5700.00},
+			"2017-07": {"total":15830.00, "COMPUTER HARDWARE":15830.00},
+			"2018-08": {"total":1900.00, "HARDWARE MAINTENANCE":1900.00},
+			"2019-02": {"total":1900.00, "HARDWARE MAINTENANCE":1900.00}
 		}
 	},
 	"3751": {
+		"name": "ONTHECLOUD IT LTD",
+		"alternate-names": [
+			"ONTHECLOUD IT LTD."
+		],
+		"total": 2800,
+		"monthly": {
+			"2015-08": {"total":2800.00, "GRANTS TO EXTERNAL ORGANISATIONS":2800.00}
+		}
+	},
+	"3752": {
+		"name": "OOMK LTD",
+		"total": 806.91,
+		"monthly": {
+			"2019-10": {"total":806.91, "OTHER PROFESSIONAL FEES":806.91}
+		}
+	},
+	"3753": {
+		"name": "OP WORDS AND PICTURES LTD",
+		"total": 1837.4,
+		"monthly": {
+			"2020-02": {"total":1837.40, "OTHER PROFESSIONAL FEES":1837.40}
+		}
+	},
+	"3754": {
+		"name": "OPEN CITY ARCHITECTURE",
+		"total": 50000,
+		"monthly": {
+			"2014-10": {"total":4500.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4500.00},
+			"2016-12": {"total":3500.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":3500.00},
+			"2017-11": {"total":12000.00, "CONSULTANCY-PROJECT MANAGEMENT":12000.00},
+			"2019-07": {"total":22500.00, "GRANTS TO EXTERNAL ORGANISATIONS":22500.00},
+			"2019-12": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00}
+		}
+	},
+	"3755": {
+		"name": "OPEN DATA INSTITUTE",
+		"total": 67156,
+		"monthly": {
+			"2014-04": {"total":1560.00, "Staff Training":1560.00},
+			"2015-01": {"total":1198.00, "Development, Enterprise & Environment":1198.00},
+			"2015-03": {"total":2200.00, "PUBLICATIONS & PERIODICALS":2200.00},
+			"2015-04": {"total":1198.00, "STAFF TRAINING":1198.00},
+			"2016-02": {"total":2200.00, "STAFF TRAINING":2200.00},
+			"2017-03": {"total":2200.00, "STAFF TRAINING":2200.00},
+			"2018-03": {"total":2200.00, "OTHER PROFESSIONAL FEES":2200.00},
+			"2019-10": {"total":52200.00, "PUBLICATIONS & PERIODICALS":2200.00, "RESEARCH & STUDY FEES":50000.00},
+			"2020-05": {"total":2200.00, "OTHER PROFESSIONAL FEES":2200.00}
+		}
+	},
+	"3756": {
+		"name": "OPEN IQ",
+		"total": 137090,
+		"monthly": {
+			"2013-08": {"total":45760.00, "Computer Software":45760.00},
+			"2013-09": {"total":11440.00, "Computer Software":11440.00},
+			"2013-12": {"total":11440.00, "Computer Software":11440.00},
+			"2014-01": {"total":6000.00, "Manage IT Services":6000.00},
+			"2014-04": {"total":4000.00, "Manage IT Services":4000.00},
+			"2014-08": {"total":4000.00, "PARTNERSHIP MARKETING - COSTS INCURRED":4000.00},
+			"2014-09": {"total":4000.00, "MANAGE IT SERVICES":4000.00},
+			"2014-10": {"total":2000.00, "PARTNERSHIP MARKETING - COSTS INCURRED":2000.00},
+			"2014-12": {"total":2000.00, "MANAGE IT SERVICES":2000.00},
+			"2015-03": {"total":9200.00, "IT CONSULTANCY":9200.00},
+			"2015-09": {"total":2000.00, "MANAGE IT SERVICES":2000.00},
+			"2016-01": {"total":15000.00, "IT CONSULTANCY":15000.00},
+			"2016-02": {"total":3750.00, "MANAGE IT SERVICES":3750.00},
+			"2016-03": {"total":7000.00, "IT CONSULTANCY":7000.00},
+			"2016-07": {"total":9500.00, "IT CONSULTANCY":9500.00}
+		}
+	},
+	"3757": {
+		"name": "OPEN TEXT UK LTD",
+		"total": 107628.03,
+		"monthly": {
+			"2013-06": {"total":24681.41, "Software Maintenance":24681.41},
+			"2014-06": {"total":26409.10, "Software Maintenance":26409.10},
+			"2015-06": {"total":28257.74, "SOFTWARE MAINTENANCE":28257.74},
+			"2016-05": {"total":28279.78, "Resources":28279.78}
+		}
+	},
+	"3758": {
+		"name": "OPEN THE GATE",
+		"total": 5900,
+		"monthly": {
+			"2019-01": {"total":4400.00, "MISCELLANEOUS COSTS":4400.00},
+			"2019-06": {"total":1500.00, "EVENT MANAGEMENT FEE":1500.00}
+		}
+	},
+	"3759": {
+		"name": "OPEN UNIVERSITY",
+		"total": 3421,
+		"monthly": {
+			"2015-11": {"total":2160.00, "STAFF TRAINING":2160.00},
+			"2016-11": {"total":1261.00, "STAFF TRAINING":1261.00}
+		}
+	},
+	"3760": {
+		"name": "OPEN-CITY ARCHITECTURE",
+		"total": 5369.2,
+		"monthly": {
+			"2018-02": {"total":622.52, "AGENCY STAFF":622.52},
+			"2018-03": {"total":2475.00, "CONSULTANCY-PROJECT MANAGEMENT":2475.00},
+			"2018-05": {"total":813.75, "AGENCY STAFF":813.75},
+			"2018-06": {"total":752.00, "MEALS REFRESHMENTS & SUBSISTENCE":752.00},
+			"2018-07": {"total":705.93, "AGENCY STAFF":705.93}
+		}
+	},
+	"3761": {
+		"name": "OPENDOOR LTD",
+		"total": 525000,
+		"monthly": {
+			"2020-05": {"total":210000.00, "HSG GRANTS TO REGISTERED PROVIDERS":210000.00},
+			"2020-08": {"total":315000.00, "HSG GRANTS TO REGISTERED PROVIDERS":315000.00}
+		}
+	},
+	"3762": {
+		"name": "OPENNESS CONSULTING",
+		"total": 3500,
+		"monthly": {
+			"2019-05": {"total":3500.00, "CONFERENCES & SEMINARS":3500.00}
+		}
+	},
+	"3763": {
+		"name": "OPM",
+		"total": 48675,
+		"monthly": {
+			"2013-12": {"total":13675.00, "Research & Study Fees":13675.00},
+			"2016-02": {"total":7000.00, "RESEARCH & STUDY FEES":7000.00},
+			"2016-03": {"total":28000.00, "RESEARCH & STUDY FEES":28000.00}
+		}
+	},
+	"3764": {
+		"name": "OPM LTD",
+		"total": 63037.5,
+		"monthly": {
+			"2017-10": {"total":2000.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":2000.00},
+			"2018-03": {"total":61037.50, "CONSULTANCY  EVALUATION ASSESSMENT":35000.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":1087.50, "RESEARCH & STUDY FEES":24950.00}
+		}
+	},
+	"3765": {
+		"name": "OPP LTD",
+		"alternate-names": [
+			"OPP LIMITED"
+		],
+		"total": 14808.1,
+		"monthly": {
+			"2013-04": {"total":1988.10, "Staff Training":1988.10},
+			"2014-03": {"total":6187.00, "Staff Training":6187.00},
+			"2016-02": {"total":704.00, "STAFF TRAINING":704.00},
+			"2016-10": {"total":2050.00, "STAFF TRAINING":2050.00},
+			"2017-02": {"total":3879.00, "STAFF TRAINING":3879.00}
+		}
+	},
+	"3766": {
+		"name": "OPTANET LTD",
+		"total": 11731.28,
+		"monthly": {
+			"2015-05": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-08": {"total":3778.99, "GRANTS TO EXTERNAL ORGANISATIONS":3778.99},
+			"2015-12": {"total":1952.29, "GRANTS TO EXTERNAL ORGANISATIONS":1952.29},
+			"2016-08": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"3767": {
+		"name": "OPTIMITY LTD",
+		"total": 1902030.49,
+		"monthly": {
+			"2014-07": {"total":33000.00, "GRANTS TO EXTERNAL ORGANISATIONS":33000.00},
+			"2014-08": {"total":42000.00, "GRANTS TO EXTERNAL ORGANISATIONS":42000.00},
+			"2014-09": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00},
+			"2014-10": {"total":76838.69, "GRANTS TO EXTERNAL ORGANISATIONS":76838.69},
+			"2014-11": {"total":32836.35, "GRANTS TO EXTERNAL ORGANISATIONS":32836.35},
+			"2014-12": {"total":33894.00, "GRANTS TO EXTERNAL ORGANISATIONS":33894.00},
+			"2015-01": {"total":48429.55, "Development & Environment":48429.55},
+			"2015-02": {"total":22046.25, "Development & Environment":22046.25},
+			"2015-03": {"total":147414.00, "GRANTS TO EXTERNAL ORGANISATIONS":147414.00},
+			"2015-04": {"total":149665.48, "GRANTS TO EXTERNAL ORGANISATIONS":149665.48},
+			"2015-05": {"total":147000.00, "GRANTS TO EXTERNAL ORGANISATIONS":147000.00},
+			"2015-08": {"total":39000.00, "GRANTS TO EXTERNAL ORGANISATIONS":39000.00},
+			"2015-09": {"total":42000.00, "GRANTS TO EXTERNAL ORGANISATIONS":42000.00},
+			"2015-10": {"total":75000.00, "GRANTS TO EXTERNAL ORGANISATIONS":75000.00},
+			"2015-11": {"total":21000.00, "GRANTS TO EXTERNAL ORGANISATIONS":21000.00},
+			"2016-02": {"total":177588.27, "GRANTS TO EXTERNAL ORGANISATIONS":177588.27},
+			"2016-03": {"total":542143.00, "GRANTS TO EXTERNAL ORGANISATIONS":542143.00},
+			"2016-04": {"total":12628.40, "Development & Environment":12628.40},
+			"2016-05": {"total":27437.50, "Development, Enterprise & Environment":437.50, "Communities and Intelligence":3000.00, "Housing and Regeneration":6000.00, "Resources":18000.00},
+			"2016-06": {"total":48000.00, "GRANTS TO EXTERNAL ORGANISATIONS":48000.00},
+			"2016-08": {"total":88500.00, "GRANTS TO EXTERNAL ORGANISATIONS":88500.00},
+			"2016-09": {"total":5609.00, "GRANTS TO EXTERNAL ORGANISATIONS":5609.00},
+			"2016-10": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-11": {"total":63000.00, "GRANTS TO EXTERNAL ORGANISATIONS":63000.00}
+		}
+	},
+	"3768": {
+		"name": "OPTIONS TECHNOLOGY LTD",
+		"total": 13100,
+		"monthly": {
+			"2014-10": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00},
+			"2015-02": {"total":3000.00, "Development & Environment":3000.00},
+			"2015-03": {"total":1600.00, "GRANTS TO EXTERNAL ORGANISATIONS":1600.00},
+			"2015-05": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-08": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"3769": {
+		"name": "OPTIVO",
+		"total": 19050420,
+		"monthly": {
+			"2018-10": {"total":189000.00, "HSG GRANTS TO REGISTERED PROVIDERS":189000.00},
+			"2018-11": {"total":980000.00, "HSG GRANTS TO REGISTERED PROVIDERS":980000.00},
+			"2018-12": {"total":812000.00, "HSG GRANTS TO REGISTERED PROVIDERS":812000.00},
+			"2019-01": {"total":357842.00, "HSG GRANTS TO REGISTERED PROVIDERS":357842.00},
+			"2019-03": {"total":7075109.00, "HSG GRANTS TO REGISTERED PROVIDERS":7075109.00},
+			"2019-04": {"total":995374.00, "HSG GRANTS TO REGISTERED PROVIDERS":995374.00},
+			"2019-06": {"total":38390.00, "HSG GRANTS TO REGISTERED PROVIDERS":38390.00},
+			"2019-12": {"total":1455000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1455000.00},
+			"2020-02": {"total":525000.00, "HSG GRANTS TO REGISTERED PROVIDERS":525000.00},
+			"2020-03": {"total":6538939.00, "HSG GRANTS TO REGISTERED PROVIDERS":6538939.00},
+			"2020-07": {"total":83766.00, "HSG GRANTS TO REGISTERED PROVIDERS":83766.00}
+		}
+	},
+	"3770": {
+		"name": "OPUS 2 INTERNATIONAL LTD",
+		"total": 450,
+		"monthly": {
+			"2020-05": {"total":450.00, "TRANSCRIPTION":450.00}
+		}
+	},
+	"3771": {
+		"name": "OPUS NETWORK SERVICES LTD",
+		"alternate-names": [
+			"OPUS NETWORK SERVICES LIMITED"
+		],
+		"total": 26340,
+		"monthly": {
+			"2014-11": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2014-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-09": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2015-11": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-04": {"total":3000.00, "Development & Environment":3000.00},
+			"2016-06": {"total":2340.00, "GRANTS TO EXTERNAL ORGANISATIONS":2340.00}
+		}
+	},
+	"3772": {
+		"name": "OPUS TEAM",
+		"total": 17800,
+		"monthly": {
+			"2015-01": {"total":3000.00, "Development & Environment":3000.00},
+			"2015-02": {"total":3000.00, "Development & Environment":3000.00},
+			"2015-04": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-02": {"total":2800.00, "GRANTS TO EXTERNAL ORGANISATIONS":2800.00},
+			"2016-04": {"total":3000.00, "Development & Environment":3000.00}
+		}
+	},
+	"3773": {
+		"name": "ORACLE",
+		"total": 18666,
+		"monthly": {
+			"2014-09": {"total":18666.00, "SOFTWARE MAINTENANCE":18666.00}
+		}
+	},
+	"3774": {
+		"name": "ORBIT GROUP",
+		"total": 4000,
+		"monthly": {
+			"2017-05": {"total":4000.00, "CONSULTANCY  EVALUATION ASSESSMENT":4000.00}
+		}
+	},
+	"3775": {
+		"name": "ORBIT HOUSING GROUP LTD",
+		"total": 49438825,
+		"monthly": {
+			"2013-04": {"total":965337.00, "HSG Grants to Registered Providers":965337.00},
+			"2013-07": {"total":204075.00, "HSG Grants to Registered Providers":204075.00},
+			"2014-02": {"total":32000.00, "HSG Grants to Registered Providers":32000.00},
+			"2014-03": {"total":4189886.00, "HSG Grants to Registered Providers":4189886.00},
+			"2014-04": {"total":16000.00, "HSG Grants to Registered Providers":16000.00},
+			"2014-09": {"total":49684.00, "HSG GRANTS TO REGISTERED PROVIDERS":49684.00},
+			"2014-10": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2014-11": {"total":74526.00, "HSG GRANTS TO REGISTERED PROVIDERS":74526.00},
+			"2014-12": {"total":1554783.00, "HSG GRANTS TO REGISTERED PROVIDERS":1554783.00},
+			"2015-01": {"total":482960.00, "Housing":482960.00},
+			"2015-03": {"total":9925176.00, "HSG GRANTS TO REGISTERED PROVIDERS":9925176.00},
+			"2015-04": {"total":336000.00, "HSG GRANTS TO REGISTERED PROVIDERS":336000.00},
+			"2015-12": {"total":3290500.00, "HSG GRANTS TO REGISTERED PROVIDERS":3290500.00},
+			"2016-02": {"total":240000.00, "HSG GRANTS TO REGISTERED PROVIDERS":240000.00},
+			"2016-03": {"total":560000.00, "HSG GRANTS TO REGISTERED PROVIDERS":560000.00},
+			"2016-10": {"total":104178.00, "HSG GRANTS TO REGISTERED PROVIDERS":104178.00},
+			"2017-03": {"total":240000.00, "HSG GRANTS TO REGISTERED PROVIDERS":240000.00},
+			"2017-07": {"total":137000.00, "HSG GRANTS TO REGISTERED PROVIDERS":137000.00},
+			"2017-10": {"total":117000.00, "HSG GRANTS TO REGISTERED PROVIDERS":117000.00},
+			"2018-01": {"total":1019000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1019000.00},
+			"2018-02": {"total":717142.00, "HSG GRANTS TO REGISTERED PROVIDERS":717142.00},
+			"2018-03": {"total":1239759.00, "HSG GRANTS TO REGISTERED PROVIDERS":1239759.00},
+			"2018-05": {"total":1432500.00, "HSG GRANTS TO REGISTERED PROVIDERS":1432500.00},
+			"2018-06": {"total":120000.00, "HSG GRANTS TO REGISTERED PROVIDERS":120000.00},
+			"2018-07": {"total":146177.00, "HSG GRANTS TO REGISTERED PROVIDERS":146177.00},
+			"2018-08": {"total":480000.00, "HSG GRANTS TO REGISTERED PROVIDERS":480000.00},
+			"2018-09": {"total":108000.00, "HSG GRANTS TO REGISTERED PROVIDERS":108000.00},
+			"2018-10": {"total":120000.00, "HSG GRANTS TO REGISTERED PROVIDERS":120000.00},
+			"2018-11": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2018-12": {"total":406142.00, "HSG GRANTS TO REGISTERED PROVIDERS":406142.00},
+			"2019-01": {"total":150000.00, "HSG GRANTS TO REGISTERED PROVIDERS":150000.00},
+			"2019-02": {"total":180000.00, "HSG GRANTS TO REGISTERED PROVIDERS":180000.00},
+			"2019-03": {"total":1060000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1060000.00},
+			"2019-04": {"total":323000.00, "HSG GRANTS TO REGISTERED PROVIDERS":323000.00},
+			"2019-06": {"total":198000.00, "HSG GRANTS TO REGISTERED PROVIDERS":198000.00},
+			"2019-10": {"total":126000.00, "HSG GRANTS TO REGISTERED PROVIDERS":126000.00},
+			"2019-12": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2020-01": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2020-02": {"total":14137500.00, "HSG GRANTS TO REGISTERED PROVIDERS":14137500.00},
+			"2020-06": {"total":4760500.00, "HSG GRANTS TO REGISTERED PROVIDERS":4760500.00}
+		}
+	},
+	"3776": {
+		"name": "ORBITAL NET LTD",
+		"total": 2995,
+		"monthly": {
+			"2015-12": {"total":2995.00, "GRANTS TO EXTERNAL ORGANISATIONS":2995.00}
+		}
+	},
+	"3777": {
+		"name": "ORC INTERNATIONAL LTD",
+		"total": 104966.62,
+		"monthly": {
+			"2014-01": {"total":33333.32, "Consultancy  Evaluation Assessment":33333.32},
+			"2014-04": {"total":8333.33, "Consultancy  Evaluation Assessment":8333.33},
+			"2015-12": {"total":16516.66, "STAFF TRAINING":16516.66},
+			"2016-01": {"total":8258.33, "STAFF TRAINING":8258.33},
+			"2016-05": {"total":5010.00, "Resources":5010.00},
+			"2018-01": {"total":11171.66, "STAFF TRAINING":11171.66},
+			"2018-02": {"total":11171.66, "STAFF TRAINING":11171.66},
+			"2018-03": {"total":11171.66, "STAFF TRAINING":11171.66}
+		}
+	},
+	"3778": {
+		"name": "ORCHARD HILL COLLEGE",
+		"total": 1394925.2,
+		"monthly": {
+			"2019-08": {"total":171648.42, "GRANTS TO EXTERNAL ORGANISATIONS":171648.42},
+			"2019-09": {"total":101990.55, "GRANTS TO EXTERNAL ORGANISATIONS":101990.55},
+			"2019-10": {"total":103060.38, "GRANTS TO EXTERNAL ORGANISATIONS":103060.38},
+			"2019-11": {"total":84160.03, "GRANTS TO EXTERNAL ORGANISATIONS":84160.03},
+			"2019-12": {"total":67637.09, "GRANTS TO EXTERNAL ORGANISATIONS":67637.09},
+			"2020-01": {"total":88439.35, "GRANTS TO EXTERNAL ORGANISATIONS":88439.35},
+			"2020-02": {"total":64070.98, "GRANTS TO EXTERNAL ORGANISATIONS":64070.98},
+			"2020-03": {"total":63714.37, "GRANTS TO EXTERNAL ORGANISATIONS":63714.37},
+			"2020-04": {"total":150846.16, "GRANTS TO EXTERNAL ORGANISATIONS":150846.16},
+			"2020-05": {"total":121366.37, "GRANTS TO EXTERNAL ORGANISATIONS":121366.37},
+			"2020-06": {"total":103416.99, "GRANTS TO EXTERNAL ORGANISATIONS":103416.99},
+			"2020-07": {"total":68350.31, "GRANTS TO EXTERNAL ORGANISATIONS":68350.31},
+			"2020-08": {"total":129339.22, "GRANTS TO EXTERNAL ORGANISATIONS":129339.22},
+			"2020-09": {"total":76884.98, "GRANTS TO EXTERNAL ORGANISATIONS":76884.98}
+		}
+	},
+	"3779": {
+		"name": "ORDNANCE SURVEY",
+		"total": 10100,
+		"monthly": {
+			"2016-10": {"total":1500.00, "DATA PURCHASE":1500.00},
+			"2017-12": {"total":1500.00, "CONSULTANCY-PROJECT MANAGEMENT":1500.00},
+			"2018-10": {"total":1500.00, "DATA PURCHASE":1500.00},
+			"2019-04": {"total":1500.00, "DATA PURCHASE":1500.00},
+			"2019-11": {"total":2600.00, "OTHER PROFESSIONAL FEES":2600.00},
+			"2020-04": {"total":1500.00, "OTHER PROFESSIONAL FEES":1500.00}
+		}
+	},
+	"3780": {
+		"name": "ORGANICLEA",
+		"total": 72000,
+		"monthly": {
+			"2020-04": {"total":52577.97, "GRANTS TO EXTERNAL ORGANISATIONS":52577.97},
+			"2020-08": {"total":19422.03, "GRANTS TO EXTERNAL ORGANISATIONS":19422.03}
+		}
+	},
+	"3781": {
+		"name": "ORIGIN BROADBAND LTD",
+		"total": 1393,
+		"monthly": {
+			"2016-01": {"total":400.00, "GRANTS TO EXTERNAL ORGANISATIONS":400.00},
+			"2016-03": {"total":993.00, "GRANTS TO EXTERNAL ORGANISATIONS":993.00}
+		}
+	},
+	"3782": {
+		"name": "ORIGIN HOUSING LTD",
+		"alternate-names": [
+			"ORIGIN HOUSING LIMITED"
+		],
+		"total": 1258000,
+		"monthly": {
+			"2020-06": {"total":254000.00, "COMM LOANS - MKT RATE%":254000.00},
+			"2020-07": {"total":544000.00, "COMM LOANS - MKT RATE%":544000.00},
+			"2020-08": {"total":460000.00, "COMM LOANS - MKT RATE%":460000.00}
+		}
+	},
+	"3783": {
+		"name": "ORLETA",
+		"total": 300,
+		"monthly": {
+			"2018-12": {"total":300.00, "OTHER PROFESSIONAL FEES":300.00}
+		}
+	},
+	"3784": {
+		"name": "ORPINGTON OJAYS S.C",
+		"alternate-names": [
+			"ORPINGTON OJAYS S.C."
+		],
+		"total": 680,
+		"monthly": {
+			"2014-09": {"total":680.00, "GRANTS TO EXTERNAL ORGANISATIONS":680.00}
+		}
+	},
+	"3785": {
+		"name": "ORTIGA",
+		"total": 3000,
+		"monthly": {
+			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"3786": {
+		"name": "OSBORNE ENERGY LTD",
+		"total": 1615236.4,
+		"monthly": {
+			"2013-04": {"total":506164.27, "Contracted Services Buildings":506164.27},
+			"2013-06": {"total":664113.79, "Contracted Services Buildings":664113.79},
+			"2013-07": {"total":371110.93, "Contracted Services Buildings":371110.93},
+			"2013-08": {"total":9905.20, "Contracted Services Buildings":9905.20},
+			"2013-10": {"total":6723.96, "Contracted Services Buildings":6723.96},
+			"2013-11": {"total":3343.83, "Contracted Services Buildings":3343.83},
+			"2013-12": {"total":7492.70, "Contracted Services Buildings":7492.70},
+			"2014-02": {"total":24140.72, "Contracted Services Buildings":24140.72},
+			"2014-03": {"total":11844.00, "Contracted Services Buildings":11844.00},
+			"2014-04": {"total":10397.00, "Contracted Services Buildings":10397.00}
+		}
+	},
+	"3787": {
+		"name": "OSLO KOMMUNE",
+		"total": 3196.8,
+		"monthly": {
+			"2013-08": {"total":3196.80, "Marketing Exhibitions & Events":3196.80}
+		}
+	},
+	"3788": {
+		"name": "OSMANI TRUST",
+		"total": 49205.5,
+		"monthly": {
+			"2018-06": {"total":515.50, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":515.50},
+			"2018-07": {"total":690.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":690.00},
+			"2020-03": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00},
+			"2020-09": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00}
+		}
+	},
+	"3789": {
 		"name": "OSP HEALTHCARE",
 		"total": 495.6,
 		"monthly": {
 			"2015-06": {"total":495.60, "OFFICE CLEANING":495.60}
 		}
 	},
-	"3752": {
+	"3790": {
 		"name": "OSTRO FAYRE SHARE FOUNDATION",
 		"total": 50301,
 		"monthly": {
@@ -25,7 +483,7 @@
 			"2020-02": {"total":31258.50, "GRANTS TO EXTERNAL ORGANISATIONS":31258.50}
 		}
 	},
-	"3753": {
+	"3791": {
 		"name": "OTM (UK) LTD",
 		"total": 4760,
 		"monthly": {
@@ -34,7 +492,7 @@
 			"2017-08": {"total":500.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":500.00}
 		}
 	},
-	"3754": {
+	"3792": {
 		"name": "OUR AGENCY IN THE NORTH LTD",
 		"total": 12993,
 		"monthly": {
@@ -42,7 +500,7 @@
 			"2015-10": {"total":9192.00, "AGENCY FEES PAID TO MARKETING AGENCIES":9192.00}
 		}
 	},
-	"3755": {
+	"3793": {
 		"name": "OUR IT DEPARTMENT LTD",
 		"total": 15110,
 		"monthly": {
@@ -51,7 +509,7 @@
 			"2016-04": {"total":3000.00, "Development & Environment":3000.00}
 		}
 	},
-	"3756": {
+	"3794": {
 		"name": "OUTDOOR PEOPLE",
 		"total": 5725,
 		"monthly": {
@@ -60,14 +518,14 @@
 			"2020-02": {"total":2000.00, "GRANTS TO EXTERNAL ORGANISATIONS":2000.00}
 		}
 	},
-	"3757": {
+	"3795": {
 		"name": "OUTDOOR PEOPLE LTD",
 		"total": 660,
 		"monthly": {
 			"2016-03": {"total":660.00, "GRANTS TO EXTERNAL ORGANISATIONS":660.00}
 		}
 	},
-	"3758": {
+	"3796": {
 		"name": "OUTSET CONTEMPORARY ART FUND",
 		"total": 54000,
 		"monthly": {
@@ -77,14 +535,14 @@
 			"2020-07": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":9000.00}
 		}
 	},
-	"3759": {
+	"3797": {
 		"name": "OUTSIDE EDGE THEATRE COMPANY",
 		"total": 8000,
 		"monthly": {
 			"2020-01": {"total":8000.00, "GRANTS TO EXTERNAL ORGANISATIONS":8000.00}
 		}
 	},
-	"3760": {
+	"3798": {
 		"name": "OUTSOURCE TRAINING & DEV LTD",
 		"total": 15883.68,
 		"monthly": {
@@ -99,442 +557,11 @@
 			"2017-03": {"total":450.00, "STAFF TRAINING":450.00}
 		}
 	},
-	"3761": {
+	"3799": {
 		"name": "OVALHOUSE",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
-		}
-	},
-	"3762": {
-		"name": "OVE ARUP & PARTNERS LTD",
-		"alternate-names": [
-			"Ove Arup & Partners Ltd"
-		],
-		"total": 5620423.11,
-		"monthly": {
-			"2013-04": {"total":69869.75, "Consultancy-Project Management":69869.75},
-			"2013-06": {"total":61422.75, "Management & Support Consultancy":61422.75},
-			"2013-07": {"total":117374.96, "Management & Support Consultancy":51637.50, "Planning & Development Consultancy":65737.46},
-			"2013-08": {"total":105503.51, "Management & Support Consultancy":63987.25, "Planning & Development Consultancy":41516.26},
-			"2013-09": {"total":66062.00, "Management & Support Consultancy":66062.00},
-			"2013-11": {"total":73300.75, "Grants to External Organisations":25000.00, "Management & Support Consultancy":48300.75},
-			"2013-12": {"total":117369.10, "Management & Support Consultancy":117369.10},
-			"2014-01": {"total":123272.50, "Management & Support Consultancy":123272.50},
-			"2014-02": {"total":195324.54, "Management & Support Consultancy":195324.54},
-			"2014-03": {"total":612671.38, "Consultancy-Project Management":102697.64, "Management & Support Consultancy":332082.82, "Planning & Development Consultancy":177890.92},
-			"2014-04": {"total":90840.53, "Management & Support Consultancy":90840.53},
-			"2014-05": {"total":70859.47, "Management & Support Consultancy":70859.47},
-			"2014-06": {"total":21380.00, "Management & Support Consultancy":21380.00},
-			"2014-07": {"total":41658.03, "MANAGEMENT & SUPPORT CONSULTANCY":41658.03},
-			"2014-08": {"total":111559.50, "MANAGEMENT & SUPPORT CONSULTANCY":111559.50},
-			"2014-09": {"total":69808.52, "MANAGEMENT & SUPPORT CONSULTANCY":69808.52},
-			"2014-10": {"total":307141.23, "MANAGEMENT & SUPPORT CONSULTANCY":307141.23},
-			"2014-11": {"total":108832.49, "MANAGEMENT & SUPPORT CONSULTANCY":108832.49},
-			"2014-12": {"total":62553.00, "MANAGEMENT & SUPPORT CONSULTANCY":62553.00},
-			"2015-01": {"total":51722.00, "Development, Enterprise & Environment":51722.00},
-			"2015-02": {"total":125391.50, "Development, Enterprise & Environment":125391.50},
-			"2015-03": {"total":28813.38, "MANAGEMENT & SUPPORT CONSULTANCY":28813.38},
-			"2015-04": {"total":50960.22, "MANAGEMENT & SUPPORT CONSULTANCY":50960.22},
-			"2015-05": {"total":47389.19, "BUILDING MAINTENANCE & REPAIRS":25600.00, "CONSULTANCY-PROJECT MANAGEMENT":19915.07, "MANAGEMENT & SUPPORT CONSULTANCY":1874.12},
-			"2015-06": {"total":4550.00, "CONSULTANCY  EVALUATION ASSESSMENT":4550.00},
-			"2015-07": {"total":2125.00, "OTHER PROFESSIONAL FEES":2125.00},
-			"2015-09": {"total":60081.00, "MANAGEMENT & SUPPORT CONSULTANCY":52101.00, "OTHER PROFESSIONAL FEES":7980.00},
-			"2015-10": {"total":2098.00, "OTHER PROFESSIONAL FEES":2098.00},
-			"2015-11": {"total":19420.00, "MANAGEMENT & SUPPORT CONSULTANCY":19420.00},
-			"2015-12": {"total":19400.88, "MANAGEMENT & SUPPORT CONSULTANCY":19400.88},
-			"2016-01": {"total":14543.50, "MANAGEMENT & SUPPORT CONSULTANCY":14543.50},
-			"2016-02": {"total":1324.00, "MANAGEMENT & SUPPORT CONSULTANCY":1324.00},
-			"2016-03": {"total":58774.60, "CONSULTANCY-PROJECT MANAGEMENT":19938.00, "GRANTS TO EXTERNAL ORGANISATIONS":9263.60, "MANAGEMENT & SUPPORT CONSULTANCY":29573.00},
-			"2016-04": {"total":64820.00, "Development, Enterprise & Environment":51268.00, "Development & Environment":13552.00},
-			"2016-05": {"total":26178.05, "Communities and Intelligence":2102.35, "Development & Environment":16528.35, "Resources":7547.35},
-			"2016-06": {"total":31353.71, "CONSULTANCY-PROJECT MANAGEMENT":6537.14, "OTHER PROFESSIONAL FEES":24816.57},
-			"2016-07": {"total":38524.16, "GRANTS TO EXTERNAL ORGANISATIONS":13895.40, "OTHER PROFESSIONAL FEES":24628.76},
-			"2016-08": {"total":4998.00, "CONSULTANCY-PROJECT MANAGEMENT":4998.00},
-			"2016-09": {"total":16951.56, "OTHER PROFESSIONAL FEES":16951.56},
-			"2016-10": {"total":15336.64, "CONSULTANCY-PROJECT MANAGEMENT":1100.00, "OTHER PROFESSIONAL FEES":14236.64},
-			"2016-11": {"total":66101.25, "OTHER PROFESSIONAL FEES":4845.00, "PLANNING & DEVELOPMENT CONSULTANCY":61256.25},
-			"2016-12": {"total":3627.50, "MANAGEMENT & SUPPORT CONSULTANCY":3627.50},
-			"2017-01": {"total":122399.57, "GRANTS TO EXTERNAL ORGANISATIONS":19701.57, "MANAGEMENT & SUPPORT CONSULTANCY":102698.00},
-			"2017-02": {"total":25373.90, "OTHER PROFESSIONAL FEES":25373.90},
-			"2017-03": {"total":8871.50, "PLANNING & DEVELOPMENT CONSULTANCY":8871.50},
-			"2017-04": {"total":199231.02, "CONSULTANCY  EVALUATION ASSESSMENT":47639.00, "CONSULTANCY-COMMISSIONED REPORT":95000.00, "CONSULTANCY-PROJECT MANAGEMENT":4000.00, "MANAGEMENT & SUPPORT CONSULTANCY":24925.16, "OTHER PROFESSIONAL FEES":27666.86},
-			"2017-06": {"total":41994.63, "MANAGEMENT & SUPPORT CONSULTANCY":41994.63},
-			"2017-08": {"total":109296.30, "CONSULTANCY-PROJECT MANAGEMENT":60211.67, "MANAGEMENT & SUPPORT CONSULTANCY":29382.94, "OTHER PROFESSIONAL FEES":19701.69},
-			"2017-09": {"total":35850.00, "CONSULTANCY-PROJECT MANAGEMENT":14900.00, "MANAGEMENT & SUPPORT CONSULTANCY":13000.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":7950.00},
-			"2017-10": {"total":17000.00, "CONSULTANCY  EVALUATION ASSESSMENT":15000.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":2000.00},
-			"2017-11": {"total":44849.60, "CONSULTANCY  EVALUATION ASSESSMENT":19990.00, "OTHER PROFESSIONAL FEES":24859.60},
-			"2017-12": {"total":80203.26, "MANAGEMENT & SUPPORT CONSULTANCY":63176.26, "OTHER PROFESSIONAL FEES":17027.00},
-			"2018-01": {"total":11244.56, "CONSULTANCY-COMMISSIONED REPORT":3059.56, "CONSULTANCY-PROJECT MANAGEMENT":6015.00, "MANAGEMENT & SUPPORT CONSULTANCY":2170.00},
-			"2018-02": {"total":91981.51, "CONSULTANCY  EVALUATION ASSESSMENT":68844.50, "CONSULTANCY-COMMISSIONED REPORT":7039.01, "CONSULTANCY-PROJECT MANAGEMENT":10300.00, "MANAGEMENT & SUPPORT CONSULTANCY":5798.00},
-			"2018-03": {"total":51096.66, "OTHER PROFESSIONAL FEES":51096.66},
-			"2018-04": {"total":16135.87, "CONSULTANCY-COMMISSIONED REPORT":6585.87, "CONSULTANCY-PROJECT MANAGEMENT":9550.00},
-			"2018-06": {"total":59953.94, "CONSULTANCY-PROJECT MANAGEMENT":44368.94, "MANAGEMENT & SUPPORT CONSULTANCY":15585.00},
-			"2018-07": {"total":151781.59, "CONSULTANCY-COMMISSIONED REPORT":19618.84, "CONSULTANCY-PROJECT MANAGEMENT":92233.37, "MANAGEMENT & SUPPORT CONSULTANCY":39929.38},
-			"2018-08": {"total":7548.00, "MANAGEMENT & SUPPORT CONSULTANCY":7548.00},
-			"2018-10": {"total":18958.50, "CONSULTANCY-PROJECT MANAGEMENT":18958.50},
-			"2018-11": {"total":81309.44, "CONSULTANCY-COMMISSIONED REPORT":16176.94, "CONSULTANCY-PROJECT MANAGEMENT":58400.50, "MANAGEMENT & SUPPORT CONSULTANCY":6732.00},
-			"2018-12": {"total":17244.56, "CONSULTANCY-COMMISSIONED REPORT":17244.56},
-			"2019-01": {"total":11900.00, "CONSULTANCY-PROJECT MANAGEMENT":11900.00},
-			"2019-02": {"total":176474.49, "CONSULTANCY-COMMISSIONED REPORT":119907.65, "CONSULTANCY-PROJECT MANAGEMENT":41517.84, "MANAGEMENT & SUPPORT CONSULTANCY":15049.00},
-			"2019-03": {"total":17411.93, "CONSULTANCY  EVALUATION ASSESSMENT":400.00, "MANAGEMENT & SUPPORT CONSULTANCY":16011.93, "PLANNING & DEVELOPMENT CONSULTANCY":1000.00},
-			"2019-04": {"total":122115.50, "CONSULTANCY-COMMISSIONED REPORT":45500.00, "CONSULTANCY-PROJECT MANAGEMENT":53870.50, "MANAGEMENT & SUPPORT CONSULTANCY":22745.00},
-			"2019-05": {"total":84286.36, "CONSULTANCY-COMMISSIONED REPORT":75986.36, "CONSULTANCY-PROJECT MANAGEMENT":8300.00},
-			"2019-06": {"total":10321.50, "CONSULTANCY-COMMISSIONED REPORT":7500.00, "CONSULTANCY-PROJECT MANAGEMENT":2821.50},
-			"2019-07": {"total":26638.15, "CONSULTANCY-COMMISSIONED REPORT":16532.84, "CONSULTANCY-PROJECT MANAGEMENT":10105.31},
-			"2019-08": {"total":39133.56, "CONSULTANCY-PROJECT MANAGEMENT":27551.56, "MANAGEMENT & SUPPORT CONSULTANCY":11582.00},
-			"2019-09": {"total":31741.35, "MANAGEMENT & SUPPORT CONSULTANCY":31741.35},
-			"2019-10": {"total":134433.50, "CONSULTANCY-COMMISSIONED REPORT":42432.84, "CONSULTANCY-PROJECT MANAGEMENT":45473.38, "MANAGEMENT & SUPPORT CONSULTANCY":46527.28},
-			"2019-11": {"total":27500.00, "CONSULTANCY-PROJECT MANAGEMENT":27500.00},
-			"2019-12": {"total":98066.00, "CONSULTANCY-PROJECT MANAGEMENT":78405.00, "MANAGEMENT & SUPPORT CONSULTANCY":17561.00, "OTHER PROFESSIONAL FEES":2100.00},
-			"2020-01": {"total":54940.46, "CONSULTANCY-PROJECT MANAGEMENT":9733.50, "MANAGEMENT & SUPPORT CONSULTANCY":45206.96},
-			"2020-03": {"total":52601.57, "CONSULTANCY-COMMISSIONED REPORT":36589.64, "MANAGEMENT & SUPPORT CONSULTANCY":16011.93},
-			"2020-04": {"total":238694.00, "CONSULTANCY  EVALUATION ASSESSMENT":18410.00, "CONSULTANCY-COMMISSIONED REPORT":104239.00, "CONSULTANCY-PROJECT MANAGEMENT":20575.00, "MANAGEMENT & SUPPORT CONSULTANCY":29670.00, "PLANNING & DEVELOPMENT CONSULTANCY":65800.00},
-			"2020-05": {"total":62916.07, "MANAGEMENT & SUPPORT CONSULTANCY":62316.07, "PLANNING & DEVELOPMENT CONSULTANCY":600.00},
-			"2020-06": {"total":25166.11, "MANAGEMENT & SUPPORT CONSULTANCY":25166.11},
-			"2020-07": {"total":32470.00, "CONSULTANCY-PROJECT MANAGEMENT":4886.00, "MANAGEMENT & SUPPORT CONSULTANCY":27584.00}
-		}
-	},
-	"3763": {
-		"name": "OXFORD BROOKES UNIVERSITY",
-		"total": 3870,
-		"monthly": {
-			"2014-02": {"total":1500.00, "Staff Training":1500.00},
-			"2015-12": {"total":1580.00, "GRANTS TO EXTERNAL ORGANISATIONS":1580.00},
-			"2020-02": {"total":790.00, "STAFF TRAINING":790.00}
-		}
-	},
-	"3764": {
-		"name": "OXFORD ECONOMIC FORECASTING",
-		"total": 16426,
-		"monthly": {
-			"2014-01": {"total":3830.00, "Publications & Periodicals":3830.00},
-			"2019-01": {"total":6346.00, "DATA PURCHASE":6346.00},
-			"2020-02": {"total":6250.00, "DATA PURCHASE":6250.00}
-		}
-	},
-	"3765": {
-		"name": "OXFORD ECONOMICS",
-		"total": 105944,
-		"monthly": {
-			"2014-07": {"total":22847.50, "GRANTS TO EXTERNAL ORGANISATIONS":22847.50},
-			"2014-10": {"total":12302.50, "GRANTS TO EXTERNAL ORGANISATIONS":12302.50},
-			"2015-01": {"total":3980.00, "Communities and Intelligence":3980.00},
-			"2016-03": {"total":49492.00, "GRANTS TO EXTERNAL ORGANISATIONS":49492.00},
-			"2016-12": {"total":8600.00, "DATA PURCHASE":6100.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00},
-			"2017-03": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00},
-			"2017-11": {"total":6222.00, "DATA PURCHASE":6222.00}
-		}
-	},
-	"3766": {
-		"name": "OXFORD GARDENS PRIMARY SCHOOL",
-		"total": 10000,
-		"monthly": {
-			"2019-02": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
-		}
-	},
-	"3767": {
-		"name": "OXLEAS TREE CARE LTD",
-		"total": 7326,
-		"monthly": {
-			"2014-02": {"total":2400.00, "Landscape Maintenance":2400.00},
-			"2015-01": {"total":3080.00, "Housing & Land":3080.00},
-			"2015-05": {"total":1846.00, "LANDSCAPE MAINTENANCE":1846.00}
-		}
-	},
-	"3768": {
-		"name": "OYCOWIZNA",
-		"total": 810.72,
-		"monthly": {
-			"2016-06": {"total":810.72, "CATERERS SERVICE CHARGES":810.72}
-		}
-	},
-	"3769": {
-		"name": "OZ CLOUD LTD",
-		"total": 8945,
-		"monthly": {
-			"2015-04": {"total":5945.00, "GRANTS TO EXTERNAL ORGANISATIONS":5945.00},
-			"2015-05": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
-		}
-	},
-	"3770": {
-		"name": "Office Depot UK Ltd",
-		"total": 3784.89,
-		"monthly": {
-			"2017-12": {"total":2946.29, "STATIONERY":2946.29},
-			"2018-01": {"total":838.60, "STATIONERY":838.60}
-		}
-	},
-	"3771": {
-		"name": "Office for National Statistics",
-		"total": 350,
-		"monthly": {
-			"2017-12": {"total":350.00, "DATA PURCHASE":350.00}
-		}
-	},
-	"3772": {
-		"name": "Ofgem",
-		"total": 6541.72,
-		"monthly": {
-			"2018-08": {"total":6541.72, "LLITE-ELECTRICITY DEFICIT (TOP UP)":6541.72}
-		}
-	},
-	"3773": {
-		"name": "Olivia Timbs",
-		"total": 1200,
-		"monthly": {
-			"2014-11": {"total":1200.00, "STAFF TRAINING":1200.00}
-		}
-	},
-	"3774": {
-		"name": "Open-City Architecture",
-		"total": 1870.11,
-		"monthly": {
-			"2018-01": {"total":445.11, "CONFERENCES & SEMINARS":445.11},
-			"2018-04": {"total":600.00, "FURNITURE & EQUIPMENT":600.00},
-			"2018-08": {"total":825.00, "FURNITURE & EQUIPMENT":825.00}
-		}
-	},
-	"3775": {
-		"name": "Opening Doors London",
-		"total": 10000,
-		"monthly": {
-			"2017-03": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
-		}
-	},
-	"3776": {
-		"name": "Our Agency in the North Ltd",
-		"alternate-names": [
-			"Our Agency in the North Limited"
-		],
-		"total": 1720,
-		"monthly": {
-			"2014-09": {"total":1720.00, "IT CONSULTANCY":1720.00}
-		}
-	},
-	"3777": {
-		"name": "P & O D PARTNERS LTD",
-		"total": 9990,
-		"monthly": {
-			"2018-09": {"total":9990.00, "MANAGEMENT & SUPPORT CONSULTANCY":9990.00}
-		}
-	},
-	"3778": {
-		"name": "P CLARKE NEXXT STEP",
-		"total": 11000,
-		"monthly": {
-			"2018-09": {"total":11000.00, "OTHER PROFESSIONAL FEES":11000.00}
-		}
-	},
-	"3779": {
-		"name": "P D SUGGITT",
-		"total": 3000,
-		"monthly": {
-			"2014-05": {"total":3000.00, "Other Professional Fees":3000.00}
-		}
-	},
-	"3780": {
-		"name": "P&C MEDIA LTD",
-		"total": 4800,
-		"monthly": {
-			"2014-06": {"total":1800.00, "Photography & Video":1800.00},
-			"2015-02": {"total":1800.00, "Resources":1800.00},
-			"2015-08": {"total":1200.00, "CONSULTANCY-PROJECT MANAGEMENT":1200.00}
-		}
-	},
-	"3781": {
-		"name": "P&P HOUSE KEEPING LTD",
-		"alternate-names": [
-			"P&P HOUSE KEEPING LIMITED"
-		],
-		"total": 15903.59,
-		"monthly": {
-			"2020-06": {"total":15903.59, "HOTEL ACCOMMODATION":15903.59}
-		}
-	},
-	"3782": {
-		"name": "P3 CHARITY",
-		"total": 17557.44,
-		"monthly": {
-			"2020-03": {"total":17557.44, "GRANTS TO EXTERNAL ORGANISATIONS":17557.44}
-		}
-	},
-	"3783": {
-		"name": "PA CONSULTING GROUP",
-		"alternate-names": [
-			"PA CONSULTING SERVICES LTD"
-		],
-		"total": 49900,
-		"monthly": {
-			"2020-06": {"total":49900.00, "CONSULTANCY-PROJECT MANAGEMENT":49900.00}
-		}
-	},
-	"3784": {
-		"name": "PACE CHARITABLE TRUST",
-		"total": 400,
-		"monthly": {
-			"2014-09": {"total":400.00, "GRANTS TO EXTERNAL ORGANISATIONS":400.00}
-		}
-	},
-	"3785": {
-		"name": "PACE Sports Management SARL",
-		"total": 1200,
-		"monthly": {
-			"2015-03": {"total":1200.00, "OTHER PROFESSIONAL FEES":1200.00}
-		}
-	},
-	"3786": {
-		"name": "PACIFIC 7 LTD",
-		"total": 872,
-		"monthly": {
-			"2016-11": {"total":872.00, "OFFICE CLEANING":872.00}
-		}
-	},
-	"3787": {
-		"name": "PADDINGTON CHURCHES HA LTD",
-		"total": 34599947,
-		"monthly": {
-			"2013-04": {"total":2704689.00, "HSG GRANTS TO REGISTERED PROVIDERS":41500.00, "HSG Grants to Registered Providers":2663189.00},
-			"2013-12": {"total":72100.00, "HSG Grants to Registered Providers":72100.00},
-			"2014-01": {"total":64000.00, "HSG Grants to Registered Providers":64000.00},
-			"2014-02": {"total":64000.00, "HSG Grants to Registered Providers":64000.00},
-			"2014-03": {"total":17575444.00, "HSG Grants to Registered Providers":17575444.00},
-			"2014-08": {"total":91919.00, "HSG GRANTS TO REGISTERED PROVIDERS":91919.00},
-			"2014-12": {"total":80000.00, "HSG GRANTS TO REGISTERED PROVIDERS":80000.00},
-			"2015-02": {"total":3839875.00, "Housing":3839875.00},
-			"2015-03": {"total":929726.00, "HSG GRANTS TO REGISTERED PROVIDERS":929726.00},
-			"2015-09": {"total":670000.00, "HSG GRANTS TO REGISTERED PROVIDERS":670000.00},
-			"2015-10": {"total":455500.00, "HSG GRANTS TO REGISTERED PROVIDERS":455500.00},
-			"2015-11": {"total":48000.00, "HSG GRANTS TO REGISTERED PROVIDERS":48000.00},
-			"2016-02": {"total":32000.00, "HSG GRANTS TO REGISTERED PROVIDERS":32000.00},
-			"2016-03": {"total":124000.00, "HSG GRANTS TO REGISTERED PROVIDERS":124000.00},
-			"2016-10": {"total":570000.00, "HSG GRANTS TO REGISTERED PROVIDERS":570000.00},
-			"2017-01": {"total":399000.00, "HSG GRANTS TO REGISTERED PROVIDERS":399000.00},
-			"2017-03": {"total":4709326.00, "HSG GRANTS TO REGISTERED PROVIDERS":4709326.00},
-			"2017-04": {"total":275000.00, "HSG GRANTS TO REGISTERED PROVIDERS":275000.00},
-			"2018-01": {"total":240000.00, "HSG GRANTS TO REGISTERED PROVIDERS":240000.00},
-			"2018-03": {"total":1655368.00, "HSG GRANTS TO REGISTERED PROVIDERS":1655368.00}
-		}
-	},
-	"3788": {
-		"name": "PADDINGTON DEVELOPMENT TRUST",
-		"total": 372787.76,
-		"monthly": {
-			"2013-09": {"total":144000.00, "Grants to External Organisations":144000.00},
-			"2014-01": {"total":62787.76, "ERDF_Private Sector NPISH_Current":62787.76},
-			"2014-04": {"total":16000.00, "Grants to External Organisations":16000.00},
-			"2014-08": {"total":135000.00, "GRANTS TO EXTERNAL ORGANISATIONS":135000.00},
-			"2015-05": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00}
-		}
-	},
-	"3789": {
-		"name": "PADDINGTON WATERSIDE PARTNERSHIP",
-		"total": 10000,
-		"monthly": {
-			"2014-02": {"total":10000.00, "Grants to External Organisations":10000.00}
-		}
-	},
-	"3790": {
-		"name": "PAKFLATT (UK) LTD",
-		"total": 92343.96,
-		"monthly": {
-			"2016-08": {"total":92343.96, "NON PERMANENT SIGNAGE AND WAY FINDING":42843.96, "STATUTORY ADS NOTICES COMMUNICATIONS & CONSULTATIO":49500.00}
-		}
-	},
-	"3791": {
-		"name": "PALACE COURT HOTEL",
-		"total": 34825,
-		"monthly": {
-			"2020-05": {"total":27300.00, "HOTEL ACCOMMODATION":27300.00},
-			"2020-07": {"total":7525.00, "HOTEL ACCOMMODATION":7525.00}
-		}
-	},
-	"3792": {
-		"name": "PALACE COURT HOTEL LTD",
-		"alternate-names": [
-			"PALACE COURT HOTEL LIMITED"
-		],
-		"total": 72328.94,
-		"monthly": {
-			"2020-04": {"total":72328.94, "NON-GLA STAFF-HOTEL ACCOMMODATION":72328.94}
-		}
-	},
-	"3793": {
-		"name": "PALMA BLACK CONSULTING LTD",
-		"alternate-names": [
-			"PALMA BLACK CONSULTING LTD."
-		],
-		"total": 51800,
-		"monthly": {
-			"2019-03": {"total":9900.00, "CONSULTANCY-PROJECT MANAGEMENT":9900.00},
-			"2019-05": {"total":9450.00, "CONSULTANCY-COMMISSIONED REPORT":9450.00},
-			"2019-07": {"total":9450.00, "CONSULTANCY-COMMISSIONED REPORT":9450.00},
-			"2019-08": {"total":2700.00, "CONSULTANCY-COMMISSIONED REPORT":2700.00},
-			"2019-10": {"total":5400.00, "CONSULTANCY-COMMISSIONED REPORT":5400.00},
-			"2019-11": {"total":10575.00, "CONTRACTORS":10575.00},
-			"2019-12": {"total":4325.00, "CONTRACTORS":4325.00}
-		}
-	},
-	"3794": {
-		"name": "PALOMA VARGA WEISZ",
-		"total": 1279.95,
-		"monthly": {
-			"2020-02": {"total":1279.95, "OTHER PROFESSIONAL FEES":1279.95}
-		}
-	},
-	"3795": {
-		"name": "PAMELA BUXTON",
-		"total": 960,
-		"monthly": {
-			"2020-05": {"total":960.00, "OTHER PROFESSIONAL FEES":960.00}
-		}
-	},
-	"3796": {
-		"name": "PAN INTERCULTURAL ARTS",
-		"total": 62590,
-		"monthly": {
-			"2017-07": {"total":700.00, "OTHER PROFESSIONAL FEES":700.00},
-			"2019-03": {"total":20630.00, "GRANTS TO EXTERNAL ORGANISATIONS":20630.00},
-			"2019-07": {"total":20630.00, "GRANTS TO EXTERNAL ORGANISATIONS":20630.00},
-			"2020-02": {"total":20630.00, "GRANTS TO EXTERNAL ORGANISATIONS":20630.00}
-		}
-	},
-	"3797": {
-		"name": "PANATHLON FOUNDATION LTD",
-		"alternate-names": [
-			"PANATHLON FOUNDATION LIMITED"
-		],
-		"total": 71950,
-		"monthly": {
-			"2014-10": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
-			"2015-04": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00},
-			"2015-08": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00},
-			"2016-03": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
-			"2016-10": {"total":11950.00, "GRANTS TO EXTERNAL ORGANISATIONS":11950.00},
-			"2017-04": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00},
-			"2018-03": {"total":6250.00, "GRANTS TO EXTERNAL ORGANISATIONS":6250.00},
-			"2018-08": {"total":6250.00, "GRANTS TO EXTERNAL ORGANISATIONS":6250.00}
-		}
-	},
-	"3798": {
-		"name": "PANLOGIC LTD",
-		"total": 55365.11,
-		"monthly": {
-			"2013-06": {"total":1971.00, "Management & Support Consultancy":1971.00},
-			"2013-07": {"total":1971.00, "Management & Support Consultancy":1971.00},
-			"2013-11": {"total":1571.00, "Consultancy-Project Management":1571.00},
-			"2020-02": {"total":20352.00, "MANAGEMENT & SUPPORT CONSULTANCY":20352.00},
-			"2020-03": {"total":7094.55, "MANAGEMENT & SUPPORT CONSULTANCY":7094.55},
-			"2020-05": {"total":9192.20, "MANAGEMENT & SUPPORT CONSULTANCY":9192.20},
-			"2020-06": {"total":6595.23, "MANAGEMENT & SUPPORT CONSULTANCY":6595.23},
-			"2020-07": {"total":6618.13, "MANAGEMENT & SUPPORT CONSULTANCY":6618.13}
-		}
-	},
-	"3799": {
-		"name": "PAOLA ART",
-		"total": 1000,
-		"monthly": {
-			"2016-03": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00}
 		}
 	}
 	}

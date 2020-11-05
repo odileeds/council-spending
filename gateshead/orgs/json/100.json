@@ -1,21 +1,157 @@
 {
-	"range": ["2010-12","2020-06"],
+	"range": ["2010-12","2020-07"],
 	"data": {
 	"5000": {
+		"name": "MIRROR & GLASS PROCESSING LTD",
+		"total": 2501.59,
+		"monthly": {
+			"2013-02": {"total":1140.98, "Local Environmental Services":1140.98},
+			"2015-04": {"total":394.99, "Communities & Enviroment":394.99},
+			"2016-09": {"total":510.42, "Communities & Environment":510.42},
+			"2017-02": {"total":455.20, "Communities & Environment":455.20}
+		}
+	},
+	"5001": {
+		"name": "MIRROR IMAGE COACHING LTD",
+		"total": 9006,
+		"monthly": {
+			"2012-11": {"total":1746.00, "Development & Enterprise":1746.00},
+			"2014-03": {"total":1360.00, "Development & Enterprise":1360.00},
+			"2015-11": {"total":1650.00, "Policy, Economic Growth and Transformation":1650.00},
+			"2015-12": {"total":700.00, "Policy, Economic Growth and Transformation":700.00},
+			"2016-03": {"total":3550.00, "Policy, Economic Growth and Transformation":3550.00}
+		}
+	},
+	"5002": {
+		"name": "MIS LTD",
+		"total": 45074.88,
+		"monthly": {
+			"2011-05": {"total":600.00, "Local Environmental Services":600.00},
+			"2011-06": {"total":1135.00, "Local Environmental Services":1135.00},
+			"2011-07": {"total":1200.00, "Local Environmental Services":1200.00},
+			"2011-08": {"total":2400.00, "Local Environmental Services":2400.00},
+			"2011-09": {"total":3545.88, "Community Based Services":1550.00, "Local Environmental Services":1995.88},
+			"2011-10": {"total":1750.00, "Community Based Services":1250.00, "Local Environmental Services":500.00},
+			"2012-01": {"total":13950.00, "Local Environmental Services":13950.00},
+			"2012-09": {"total":600.00, "Local Environmental Services":600.00},
+			"2013-06": {"total":350.00, "Development & Enterprise":350.00},
+			"2013-07": {"total":6086.00, "Central Services":5080.00, "Development & Enterprise":1006.00},
+			"2013-09": {"total":3780.00, "Central Services":3780.00},
+			"2013-10": {"total":450.00, "Development & Enterprise":450.00},
+			"2013-11": {"total":6468.00, "Central Services":5940.00, "Community Based Services":528.00},
+			"2013-12": {"total":2000.00, "Central Services":2000.00},
+			"2014-01": {"total":760.00, "Central Services":760.00}
+		}
+	},
+	"5003": {
+		"name": "MISCO",
+		"total": 223827.14,
+		"monthly": {
+			"2011-03": {"total":569.89, "Central Services":569.89},
+			"2011-06": {"total":1969.58, "Central Services":1969.58},
+			"2011-08": {"total":839.97, "Central Services":489.97, "Community Based Services":350.00},
+			"2011-09": {"total":370.00, "Local Environmental Services":370.00},
+			"2011-12": {"total":357.30, "Local Environmental Services":357.30},
+			"2012-01": {"total":469.97, "Central Services":469.97},
+			"2012-02": {"total":1078.49, "Central Services":1078.49},
+			"2012-11": {"total":771.32, "Central Services":771.32},
+			"2013-01": {"total":1468.35, "Community Based Services":489.45, "Development & Enterprise":489.45, "Learning and Children":489.45},
+			"2013-02": {"total":1944.84, "Central Services":1944.84},
+			"2013-03": {"total":6655.87, "Central Services":2757.43, "Community Based Services":2939.96, "Local Environmental Services":958.48},
+			"2013-06": {"total":5094.30, "Central Services":5094.30},
+			"2013-07": {"total":374.99, "Central Services":374.99},
+			"2013-08": {"total":458.04, "Central Services":458.04},
+			"2013-10": {"total":861.41, "Central Services":861.41},
+			"2014-03": {"total":10617.50, "Central Services":10617.50},
+			"2014-04": {"total":4015.45, "Central Services":4015.45},
+			"2014-05": {"total":4301.84, "Central Services":4301.84},
+			"2014-06": {"total":6308.14, "Central Services":6308.14},
+			"2014-07": {"total":11064.15, "Central Services":11064.15},
+			"2014-08": {"total":10770.23, "Central Services":10770.23},
+			"2014-09": {"total":5611.39, "Central Services":4661.09, "Community Based Services":950.30},
+			"2014-10": {"total":13162.32, "Central Services":13162.32},
+			"2014-11": {"total":12782.08, "Corporate Resources":12782.08},
+			"2014-12": {"total":14736.05, "Corporate Resources":14736.05},
+			"2015-01": {"total":2909.72, "Corporate Resources":2909.72},
+			"2015-02": {"total":14863.47, "Corporate Resources":14863.47},
+			"2015-03": {"total":10394.09, "Corporate Resources":10394.09},
+			"2015-04": {"total":5518.29, "Corporate Resources":5518.29},
+			"2015-05": {"total":5571.36, "Corporate Resources":5571.36},
+			"2015-06": {"total":634.07, "Communities & Environment":634.07},
+			"2015-07": {"total":11235.60, "Corporate Resources":11235.60},
+			"2015-08": {"total":21222.81, "Corporate Resources":21222.81},
+			"2015-10": {"total":415.84, "Corporate Resources":415.84},
+			"2015-11": {"total":3853.81, "Corporate Resources":3853.81},
+			"2015-12": {"total":4853.69, "Corporate Resources":4853.69},
+			"2016-01": {"total":962.11, "Corporate Resources":962.11},
+			"2016-04": {"total":1508.99, "Corporate Resources":1508.99},
+			"2016-07": {"total":1047.64, "Corporate Resources":1047.64},
+			"2016-12": {"total":1710.70, "Corporate Resources":1710.70},
+			"2017-02": {"total":3226.61, "Communities & Environment":987.50, "Corporate Resources":2239.11},
+			"2017-03": {"total":5538.32, "Communities & Environment":802.80, "Corporate Resources":4735.52},
+			"2017-04": {"total":4446.38, "Corporate Resources":4446.38},
+			"2017-05": {"total":5798.91, "Corporate Resources":5798.91},
+			"2017-09": {"total":630.79, "Corporate Resources":630.79},
+			"2017-10": {"total":830.47, "Corporate Resources":830.47}
+		}
+	},
+	"5004": {
+		"name": "MISHCON DE REYA",
+		"total": 13909.68,
+		"monthly": {
+			"2015-07": {"total":5000.00, "Corporate Resources":5000.00},
+			"2016-06": {"total":1000.00, "Corporate Resources":1000.00},
+			"2016-09": {"total":2667.31, "Corporate Resources":2667.31},
+			"2017-07": {"total":2067.77, "Corporate Resources":2067.77},
+			"2018-02": {"total":2000.00, "Corporate Resources":2000.00},
+			"2020-03": {"total":1174.60, "Corporate Resources":1174.60}
+		}
+	},
+	"5005": {
+		"name": "MITAC PARTNERSHIP LTD",
+		"total": 2250,
+		"monthly": {
+			"2011-07": {"total":2250.00, "Learning and Children":2250.00}
+		}
+	},
+	"5006": {
+		"name": "MITCHELL DIESEL LTD",
+		"total": 1645.2,
+		"monthly": {
+			"2016-08": {"total":765.00, "Communities & Environment":765.00},
+			"2016-09": {"total":880.20, "Communities & Environment":880.20}
+		}
+	},
+	"5007": {
+		"name": "MITCHELL FLOORING",
+		"total": 19555,
+		"monthly": {
+			"2013-09": {"total":18060.00, "Community Based Services":18060.00},
+			"2016-02": {"total":1495.00, "Communities & Environment":1495.00}
+		}
+	},
+	"5008": {
+		"name": "MITCHELL MUSIC",
+		"total": 988.8,
+		"monthly": {
+			"2014-03": {"total":988.80, "Community Based Services":988.80}
+		}
+	},
+	"5009": {
 		"name": "MITCHELLS CHARTERED ACCOUNTANTS",
 		"total": 500,
 		"monthly": {
 			"2014-04": {"total":500.00, "Development & Enterprise":500.00}
 		}
 	},
-	"5001": {
+	"5010": {
 		"name": "MITIE PEST CONTROL",
 		"total": 1500,
 		"monthly": {
 			"2015-03": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"5002": {
+	"5011": {
 		"name": "MITIE PROPERTY SERVICES (UK) LTD",
 		"total": 154174.51,
 		"monthly": {
@@ -44,7 +180,7 @@
 			"2016-09": {"total":642.00, "Care, Wellbeing & Learning":642.00}
 		}
 	},
-	"5003": {
+	"5012": {
 		"name": "MITIE PROPERTY SERVS (NE) LTD",
 		"total": 46514.44,
 		"monthly": {
@@ -55,7 +191,7 @@
 			"2011-11": {"total":31021.61, "Local Environmental Services":31021.61}
 		}
 	},
-	"5004": {
+	"5013": {
 		"name": "MITIE TILLEY ROOFING LTD",
 		"total": 561280.05,
 		"monthly": {
@@ -75,7 +211,7 @@
 			"2016-09": {"total":12395.60, "Communities & Environment":12395.60}
 		}
 	},
-	"5005": {
+	"5014": {
 		"name": "MJ PHOENIX & SON LTD",
 		"total": 5274.86,
 		"monthly": {
@@ -84,14 +220,14 @@
 			"2016-01": {"total":998.00, "Communities & Environment":998.00}
 		}
 	},
-	"5006": {
+	"5015": {
 		"name": "MJS COMPUTER SERVICES",
 		"total": 458.33,
 		"monthly": {
 			"2017-08": {"total":458.33, "Corporate Resources":458.33}
 		}
 	},
-	"5007": {
+	"5016": {
 		"name": "MK CATERING NE LTD",
 		"total": 1389,
 		"monthly": {
@@ -99,7 +235,7 @@
 			"2017-07": {"total":689.00, "Communities & Environment":689.00}
 		}
 	},
-	"5008": {
+	"5017": {
 		"name": "MLL TELECOM LTD",
 		"total": 272944.88,
 		"monthly": {
@@ -127,7 +263,7 @@
 			"2018-10": {"total":11000.00, "Corporate Resources":11000.00}
 		}
 	},
-	"5009": {
+	"5018": {
 		"name": "MOBILITY CARE SOLUTIONS LTD",
 		"total": 23162.11,
 		"monthly": {
@@ -155,7 +291,7 @@
 			"2018-06": {"total":510.00, "Care, Wellbeing & Learning":510.00}
 		}
 	},
-	"5010": {
+	"5019": {
 		"name": "MODAL INNOVATION LTD T/A THE PARKING SHOP LTD",
 		"total": 3563.68,
 		"monthly": {
@@ -164,7 +300,7 @@
 			"2020-05": {"total":872.28, "Housing, Environment and Healthy Communities":872.28}
 		}
 	},
-	"5011": {
+	"5020": {
 		"name": "MODERN MINDSET LTD",
 		"total": 52000,
 		"monthly": {
@@ -173,7 +309,7 @@
 			"2016-03": {"total":650.00, "Central Services":650.00}
 		}
 	},
-	"5012": {
+	"5021": {
 		"name": "MODULAR LTD",
 		"total": 1010,
 		"monthly": {
@@ -181,7 +317,7 @@
 			"2016-04": {"total":525.00, "Communities & Environment":525.00}
 		}
 	},
-	"5013": {
+	"5022": {
 		"name": "MODULAR OFFICE & STORAGE SYSTE",
 		"total": 2195.78,
 		"monthly": {
@@ -189,21 +325,21 @@
 			"2011-12": {"total":1105.00, "Local Environmental Services":1105.00}
 		}
 	},
-	"5014": {
+	"5023": {
 		"name": "MOFO GRAPHIC DESIGN",
 		"total": 1500,
 		"monthly": {
 			"2014-01": {"total":1500.00, "Learning and Children":1500.00}
 		}
 	},
-	"5015": {
+	"5024": {
 		"name": "MOGUL DEVELOPMENTS LTD",
 		"total": 495,
 		"monthly": {
 			"2012-10": {"total":495.00, "Community Based Services":495.00}
 		}
 	},
-	"5016": {
+	"5025": {
 		"name": "MOLSON COORS BREWING COMPANY",
 		"total": 98658.75,
 		"monthly": {
@@ -262,7 +398,7 @@
 			"2020-03": {"total":624.46, "Corporate Resources":624.46}
 		}
 	},
-	"5017": {
+	"5026": {
 		"name": "MOMENTUM CARE",
 		"total": 241612.3,
 		"monthly": {
@@ -361,7 +497,7 @@
 			"2020-01": {"total":1496.42, "Care, Wellbeing & Learning":1496.42}
 		}
 	},
-	"5018": {
+	"5027": {
 		"name": "MOMENTUM NORTH EAST",
 		"total": 27668.87,
 		"monthly": {
@@ -387,7 +523,7 @@
 			"2013-02": {"total":1796.64, "Community Based Services":1796.64}
 		}
 	},
-	"5019": {
+	"5028": {
 		"name": "MONARCH PRODUCTS(MARKETING)LIMITED T/A KING EDWARD",
 		"total": 8027.5,
 		"monthly": {
@@ -396,14 +532,14 @@
 			"2014-03": {"total":1592.50, "Local Environmental Services":1592.50}
 		}
 	},
-	"5020": {
+	"5029": {
 		"name": "MONCKTON CHAMBER",
 		"total": 1500,
 		"monthly": {
 			"2020-02": {"total":1500.00, "Communities & Environment":1500.00}
 		}
 	},
-	"5021": {
+	"5030": {
 		"name": "MONDO UK LTD",
 		"total": 22807.75,
 		"monthly": {
@@ -413,7 +549,7 @@
 			"2014-05": {"total":15947.60, "Community Based Services":15947.60}
 		}
 	},
-	"5022": {
+	"5031": {
 		"name": "MONKHOUSE & BROWN",
 		"total": 27387.35,
 		"monthly": {
@@ -444,7 +580,7 @@
 			"2019-05": {"total":1710.00, "Communities & Environment":1710.00}
 		}
 	},
-	"5023": {
+	"5032": {
 		"name": "MONTAGUE L MEYER LTD",
 		"total": 2543.9,
 		"monthly": {
@@ -453,7 +589,7 @@
 			"2011-06": {"total":1397.60, "Local Environmental Services":1397.60}
 		}
 	},
-	"5024": {
+	"5033": {
 		"name": "MOONREACH",
 		"total": 65571,
 		"monthly": {
@@ -464,7 +600,7 @@
 			"2018-02": {"total":7285.80, "Care, Wellbeing & Learning":7285.80}
 		}
 	},
-	"5025": {
+	"5034": {
 		"name": "MORELOCK SIGNS LTD",
 		"total": 5097.49,
 		"monthly": {
@@ -473,14 +609,14 @@
 			"2014-08": {"total":1047.86, "Local Environmental Services":1047.86}
 		}
 	},
-	"5026": {
+	"5035": {
 		"name": "MORFOSE BARBERS",
 		"total": 1500,
 		"monthly": {
 			"2017-02": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"5027": {
+	"5036": {
 		"name": "MORGANA SYSTEMS LTD",
 		"total": 1153.29,
 		"monthly": {
@@ -488,7 +624,7 @@
 			"2020-03": {"total":594.00, "Corporate Services & Governance":594.00}
 		}
 	},
-	"5028": {
+	"5037": {
 		"name": "MORLEY'S OF BICESTER LTD",
 		"total": 7117,
 		"monthly": {
@@ -496,14 +632,14 @@
 			"2011-11": {"total":5267.00, "Local Environmental Services":5267.00}
 		}
 	},
-	"5029": {
+	"5038": {
 		"name": "MORRAL PLAY SOLUTIONS",
 		"total": 3598.5,
 		"monthly": {
 			"2011-01": {"total":3598.50, "Learning and Children":3598.50}
 		}
 	},
-	"5030": {
+	"5039": {
 		"name": "MORRISON FACILITIES SERVICES (GATESHEAD)",
 		"total": 1900805.18,
 		"monthly": {
@@ -526,49 +662,50 @@
 			"2012-04": {"total":8790.47, "Community Based Services":8790.47}
 		}
 	},
-	"5031": {
+	"5040": {
 		"name": "MORTAL FOOLS",
-		"total": 500,
+		"total": 2500,
 		"monthly": {
-			"2020-03": {"total":500.00, "Corporate Resources":500.00}
+			"2020-03": {"total":500.00, "Corporate Resources":500.00},
+			"2020-07": {"total":2000.00, "Public Health and Wellbeing":2000.00}
 		}
 	},
-	"5032": {
+	"5041": {
 		"name": "MORTGAGE OPTIONS",
 		"total": 1500,
 		"monthly": {
 			"2016-08": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"5033": {
+	"5042": {
 		"name": "MORTIMER COMMUNITY NETWORK CIC",
 		"total": 3000,
 		"monthly": {
 			"2016-04": {"total":3000.00, "Care, Wellbeing & Learning":3000.00}
 		}
 	},
-	"5034": {
+	"5043": {
 		"name": "MORTON MEDICAL",
 		"total": 375,
 		"monthly": {
 			"2011-03": {"total":375.00, "Learning and Children":375.00}
 		}
 	},
-	"5035": {
+	"5044": {
 		"name": "MOSAIC PRINT MANAGEMENT",
 		"total": 986.18,
 		"monthly": {
 			"2011-12": {"total":986.18, "Learning and Children":986.18}
 		}
 	},
-	"5036": {
+	"5045": {
 		"name": "MOSSPOOL COMMITTEE",
 		"total": 1044,
 		"monthly": {
 			"2014-09": {"total":1044.00, "Community Based Services":1044.00}
 		}
 	},
-	"5037": {
+	"5046": {
 		"name": "MOTHERCARE UK LTD",
 		"total": 6177.63,
 		"monthly": {
@@ -582,9 +719,9 @@
 			"2017-03": {"total":658.27, "Care, Wellbeing & Learning":658.27}
 		}
 	},
-	"5038": {
+	"5047": {
 		"name": "MOTT MACDONALD UK LTD",
-		"total": 495857.82,
+		"total": 496757.19,
 		"monthly": {
 			"2012-09": {"total":12303.00, "Community Based Services":12303.00},
 			"2013-03": {"total":5002.05, "Community Based Services":5002.05},
@@ -613,10 +750,11 @@
 			"2020-01": {"total":25857.12, "Policy, Economic Growth and Transformation":25857.12},
 			"2020-03": {"total":15065.13, "Policy, Economic Growth and Transformation":15065.13},
 			"2020-04": {"total":3984.21, "Policy, Economic Growth and Transformation":3984.21},
-			"2020-05": {"total":957.29, "Policy, Economic Growth and Transformation":957.29}
+			"2020-05": {"total":957.29, "Policy, Economic Growth and Transformation":957.29},
+			"2020-07": {"total":899.37, "Policy, Economic Growth and Transformation":899.37}
 		}
 	},
-	"5039": {
+	"5048": {
 		"name": "MOUCHEL LTD",
 		"alternate-names": [
 			"MOUCHEL LIMITED"
@@ -626,7 +764,7 @@
 			"2011-06": {"total":7000.00, "Development & Enterprise":7000.00}
 		}
 	},
-	"5040": {
+	"5049": {
 		"name": "MOULD GROWTH CONSULTANTS",
 		"total": 13464.15,
 		"monthly": {
@@ -634,103 +772,6 @@
 			"2014-11": {"total":2496.50, "Communities & Enviroment":2496.50},
 			"2015-07": {"total":886.40, "Communities & Environment":886.40},
 			"2015-09": {"total":3970.25, "Communities & Environment":3970.25}
-		}
-	},
-	"5041": {
-		"name": "MOUNT COMMUNITY ASSOCIATION",
-		"total": 5562,
-		"monthly": {
-			"2011-06": {"total":1980.00, "Community Based Services":1980.00},
-			"2013-06": {"total":1800.00, "Community Based Services":1800.00},
-			"2013-07": {"total":1782.00, "Community Based Services":1782.00}
-		}
-	},
-	"5042": {
-		"name": "MOUNTS & MORE",
-		"total": 692,
-		"monthly": {
-			"2012-02": {"total":692.00, "Learning and Children":692.00}
-		}
-	},
-	"5043": {
-		"name": "MOVING MEMORIES LTD",
-		"total": 7050,
-		"monthly": {
-			"2014-04": {"total":1125.00, "Learning and Children":1125.00},
-			"2014-08": {"total":4325.00, "Learning and Children":4325.00},
-			"2014-11": {"total":1600.00, "Care, Wellbeing & Learning":1600.00}
-		}
-	},
-	"5044": {
-		"name": "MOWBRAY SCHOOL",
-		"total": 21862.92,
-		"monthly": {
-			"2016-07": {"total":4648.48, "Care, Wellbeing & Learning":4648.48},
-			"2016-09": {"total":6257.57, "Care, Wellbeing & Learning":6257.57},
-			"2017-03": {"total":5274.24, "Care, Wellbeing & Learning":5274.24},
-			"2017-07": {"total":5682.63, "Care, Wellbeing & Learning":5682.63}
-		}
-	},
-	"5045": {
-		"name": "MPC NORTH LTD",
-		"total": 22375,
-		"monthly": {
-			"2010-12": {"total":5900.00, "Learning and Children":5900.00},
-			"2011-02": {"total":5275.00, "Learning and Children":5275.00},
-			"2011-04": {"total":11200.00, "Learning and Children":11200.00}
-		}
-	},
-	"5046": {
-		"name": "MPH ACCESSIBLE MEDIA LTD",
-		"total": 10833.68,
-		"monthly": {
-			"2011-09": {"total":751.43, "Central Services":751.43},
-			"2012-03": {"total":732.37, "Central Services":732.37},
-			"2012-07": {"total":926.02, "Central Services":926.02},
-			"2012-08": {"total":414.02, "Learning and Children":414.02},
-			"2012-10": {"total":670.90, "Central Services":670.90},
-			"2013-01": {"total":647.38, "Central Services":647.38},
-			"2013-04": {"total":686.20, "Central Services":686.20},
-			"2013-07": {"total":645.10, "Central Services":645.10},
-			"2013-10": {"total":643.30, "Central Services":643.30},
-			"2013-11": {"total":665.09, "Learning and Children":665.09},
-			"2014-01": {"total":643.30, "Central Services":643.30},
-			"2014-03": {"total":629.10, "Central Services":629.10},
-			"2014-10": {"total":569.30, "Learning and Children":569.30},
-			"2014-11": {"total":615.70, "Policy, Economic Growth and Transformation":615.70},
-			"2015-06": {"total":399.07, "Care, Wellbeing & Learning":399.07},
-			"2015-07": {"total":595.70, "Policy, Economic Growth and Transformation":595.70},
-			"2015-10": {"total":599.70, "Policy, Economic Growth and Transformation":599.70}
-		}
-	},
-	"5047": {
-		"name": "MPH GROUP",
-		"total": 5486.35,
-		"monthly": {
-			"2010-12": {"total":411.75, "Community Based Services":411.75},
-			"2011-01": {"total":572.00, "Community Based Services":572.00},
-			"2011-02": {"total":478.95, "Development & Enterprise":478.95},
-			"2011-05": {"total":350.25, "Central Services":350.25},
-			"2011-10": {"total":751.43, "Central Services":751.43},
-			"2012-02": {"total":732.37, "Central Services":732.37},
-			"2012-05": {"total":615.50, "Central Services":615.50},
-			"2012-11": {"total":486.40, "Central Services":486.40},
-			"2013-03": {"total":500.00, "Development & Enterprise":500.00},
-			"2016-02": {"total":587.70, "Policy, Economic Growth and Transformation":587.70}
-		}
-	},
-	"5048": {
-		"name": "MPI GROUP",
-		"total": 417.02,
-		"monthly": {
-			"2011-01": {"total":417.02, "Development & Enterprise":417.02}
-		}
-	},
-	"5049": {
-		"name": "MRM ELECTRICAL SOLUTIONS LTD",
-		"total": 428,
-		"monthly": {
-			"2019-10": {"total":428.00, "Communities & Environment":428.00}
 		}
 	}
 	}

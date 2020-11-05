@@ -1,14 +1,218 @@
 {
-	"range": ["2010-12","2020-07"],
+	"range": ["2010-12","2020-09"],
 	"data": {
 	"2050": {
+		"name": "Burnage Buddies",
+		"total": 5794,
+		"monthly": {
+			"2017-03": {"total":4004.00, "Manchester Leisure":4004.00},
+			"2018-03": {"total":1790.00, "Manchester Leisure":1790.00}
+		}
+	},
+	"2051": {
+		"name": "Burnage Cinemax",
+		"total": 778.96,
+		"monthly": {
+			"2013-06": {"total":778.96, "Regeneration Finance":778.96}
+		}
+	},
+	"2052": {
+		"name": "Burnage Comm Sports & Social Club",
+		"total": 6500,
+		"monthly": {
+			"2015-02": {"total":6500.00, "Regeneration Finance":6500.00}
+		}
+	},
+	"2053": {
+		"name": "Burnage Community Association",
+		"alternate-names": [
+			"Burnage Community Association."
+		],
+		"total": 38414.8,
+		"monthly": {
+			"2011-01": {"total":1050.00, "Chief Executives":1050.00},
+			"2011-02": {"total":1926.00, "Chief Executives":1926.00},
+			"2011-03": {"total":2301.00, "Chief Executives":2301.00},
+			"2012-01": {"total":3697.80, "Regeneration Finance":3697.80},
+			"2012-03": {"total":800.00, "Chief Executives":800.00},
+			"2013-04": {"total":500.00, "Regeneration Finance":500.00},
+			"2013-09": {"total":1060.80, "Regeneration Finance":1060.80},
+			"2014-03": {"total":1230.00, "Regeneration Finance":1230.00},
+			"2014-07": {"total":700.00, "Regeneration Finance":700.00},
+			"2014-11": {"total":1670.40, "Regeneration Finance":1670.40},
+			"2014-12": {"total":550.80, "Regeneration Finance":550.80},
+			"2015-10": {"total":535.00, "Regeneration Finance":535.00},
+			"2016-03": {"total":4751.00, "Regeneration Finance":4751.00},
+			"2016-10": {"total":8130.00, "Manchester Leisure":8130.00},
+			"2016-11": {"total":700.00, "Manchester Leisure":700.00},
+			"2017-11": {"total":900.00, "Manchester Leisure":900.00},
+			"2018-01": {"total":5292.00, "Manchester Leisure":5292.00},
+			"2018-10": {"total":825.00, "Manchester Leisure":825.00},
+			"2019-11": {"total":795.00, "Manchester Leisure":795.00},
+			"2019-12": {"total":1000.00, "Manchester Leisure":1000.00}
+		}
+	},
+	"2054": {
+		"name": "Burnage Cricket & Social Club",
+		"total": 1000,
+		"monthly": {
+			"2014-11": {"total":1000.00, "Environment and Operations":1000.00}
+		}
+	},
+	"2055": {
+		"name": "Burnage Foodbank",
+		"total": 9328,
+		"monthly": {
+			"2019-01": {"total":3928.00, "Manchester Leisure":3928.00},
+			"2019-03": {"total":5400.00, "Manchester Leisure":5400.00}
+		}
+	},
+	"2056": {
+		"name": "Burnage Garden Village",
+		"total": 607.86,
+		"monthly": {
+			"2011-01": {"total":607.86, "Chief Executives":607.86}
+		}
+	},
+	"2057": {
+		"name": "Burnage Good Neighbours",
+		"total": 335938,
+		"monthly": {
+			"2010-12": {"total":11721.00, "Adult Social Care":11721.00},
+			"2011-02": {"total":4748.00, "Chief Executives":4748.00},
+			"2012-05": {"total":1500.00, "Regeneration Finance":1500.00},
+			"2012-07": {"total":3916.64, "Adult Social Care":3916.64},
+			"2012-08": {"total":7833.34, "Adult Social Care":7833.34},
+			"2012-09": {"total":3916.67, "Adult Social Care":3916.67},
+			"2012-10": {"total":2416.67, "Adult Social Care":2416.67},
+			"2012-11": {"total":4416.67, "Adult Social Care":3916.67, "Regeneration Finance":500.00},
+			"2012-12": {"total":3916.67, "Adult Social Care":3916.67},
+			"2013-01": {"total":5416.67, "Adult Social Care":5416.67},
+			"2013-02": {"total":3916.67, "Adult Social Care":3916.67},
+			"2013-03": {"total":3916.67, "Adult Social Care":3916.67},
+			"2013-04": {"total":3916.67, "Adult Social Care":3916.67},
+			"2013-05": {"total":3916.67, "Adult Social Care":3916.67},
+			"2013-06": {"total":3916.66, "Adult Social Care":3916.66},
+			"2013-07": {"total":3916.66, "Adult Social Care":3916.66},
+			"2013-09": {"total":2417.50, "Adult Social Care":2417.50},
+			"2013-10": {"total":4833.00, "Adult Social Care":4833.00},
+			"2013-12": {"total":4833.00, "Adult Social Care":4833.00},
+			"2014-02": {"total":2416.50, "Adult Social Care":2416.50},
+			"2014-03": {"total":6383.00, "Adult Social Care":4833.00, "Regeneration Finance":1550.00},
+			"2014-05": {"total":4840.00, "Adult Social Care":4840.00},
+			"2014-06": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-07": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-08": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-09": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-10": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-11": {"total":2416.00, "Adult Social Care":2416.00},
+			"2014-12": {"total":2416.00, "Adult Social Care":2416.00},
+			"2015-01": {"total":2416.00, "Adult Social Care":2416.00},
+			"2015-02": {"total":4828.58, "Adult Social Care":2416.00, "Regeneration Finance":2412.58},
+			"2015-03": {"total":2416.00, "Adult Social Care":2416.00},
+			"2015-04": {"total":2175.00, "Adult Social Care":2175.00},
+			"2015-05": {"total":2175.00, "Adult Social Care":2175.00},
+			"2015-06": {"total":2175.00, "Adult Social Care":2175.00},
+			"2015-08": {"total":4350.00, "Adult Social Care":4350.00},
+			"2015-09": {"total":2175.00, "Adult Social Care":2175.00},
+			"2015-11": {"total":7007.00, "Adult Social Care":7007.00},
+			"2016-01": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-02": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-03": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-05": {"total":4350.00, "Adult Social Care":4350.00},
+			"2016-06": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-07": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-08": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-09": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-10": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-11": {"total":2175.00, "Adult Social Care":2175.00},
+			"2016-12": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-01": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-02": {"total":4125.00, "Adult Social Care":2175.00, "Manchester Leisure":1950.00},
+			"2017-03": {"total":5675.00, "Adult Social Care":5675.00},
+			"2017-05": {"total":4350.00, "Adult Social Care":4350.00},
+			"2017-06": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-07": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-08": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-09": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-10": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-11": {"total":2175.00, "Adult Social Care":2175.00},
+			"2017-12": {"total":2175.00, "Adult Social Care":2175.00},
+			"2018-01": {"total":6525.00, "Adult Social Care":6525.00},
+			"2018-03": {"total":4350.00, "Adult Social Care":4350.00},
+			"2018-05": {"total":22137.90, "Adult Social Care":22137.90},
+			"2018-09": {"total":11068.91, "Adult Social Care":11068.91},
+			"2018-12": {"total":11068.91, "Chief Executives":11068.91},
+			"2019-04": {"total":11068.91, "Chief Executives":11068.91},
+			"2019-06": {"total":11068.91, "Chief Executives":11068.91},
+			"2019-09": {"total":11068.91, "Chief Executives":11068.91},
+			"2019-12": {"total":11068.91, "Chief Executives":11068.91},
+			"2020-04": {"total":11068.91, "Chief Executives":11068.91},
+			"2020-05": {"total":11068.91, "Chief Executives":11068.91},
+			"2020-09": {"total":11068.91, "Chief Executives":11068.91}
+		}
+	},
+	"2058": {
+		"name": "Burnage Healthy Living Group",
+		"total": 1100,
+		"monthly": {
+			"2013-03": {"total":600.00, "Regeneration Finance":600.00},
+			"2020-02": {"total":500.00, "Manchester Leisure":500.00}
+		}
+	},
+	"2059": {
+		"name": "Burnage Hol Spec for Older People",
+		"total": 2350,
+		"monthly": {
+			"2013-01": {"total":1000.00, "Regeneration Finance":1000.00},
+			"2018-03": {"total":600.00, "Manchester Leisure":600.00},
+			"2020-04": {"total":750.00, "Manchester Leisure":750.00}
+		}
+	},
+	"2060": {
+		"name": "Burnage Lane Fusion",
+		"total": 830.08,
+		"monthly": {
+			"2013-06": {"total":830.08, "Regeneration Finance":830.08}
+		}
+	},
+	"2061": {
+		"name": "Burnage Media Arts College",
+		"total": 92054.35,
+		"monthly": {
+			"2011-03": {"total":37200.99, "Childrens Services":37200.99},
+			"2011-05": {"total":32101.86, "Insurance Fund":32101.86},
+			"2011-06": {"total":790.00, "Manchester Leisure":790.00},
+			"2012-04": {"total":5377.50, "Childrens Services":5377.50},
+			"2012-11": {"total":12222.00, "Childrens Services":10755.00, "Insurance Fund":1467.00},
+			"2012-12": {"total":3662.00, "Childrens Services":3662.00},
+			"2013-05": {"total":700.00, "Childrens Services":700.00}
+		}
+	},
+	"2062": {
+		"name": "Burnage Metro Football Club",
+		"total": 8649.55,
+		"monthly": {
+			"2014-08": {"total":6239.55, "Manchester Leisure":6239.55},
+			"2016-07": {"total":2410.00, "Manchester Leisure":2410.00}
+		}
+	},
+	"2063": {
+		"name": "Burnage Metro Football Club Ltd",
+		"total": 2800,
+		"monthly": {
+			"2011-06": {"total":1400.00, "Manchester Leisure":1400.00},
+			"2011-08": {"total":1400.00, "Manchester Leisure":1400.00}
+		}
+	},
+	"2064": {
 		"name": "Burnage Multi Agency Group",
 		"total": 11685.57,
 		"monthly": {
 			"2012-02": {"total":11685.57, "Regeneration Finance":11685.57}
 		}
 	},
-	"2051": {
+	"2065": {
 		"name": "Burnage Multi-Agency Group",
 		"total": 187966.64,
 		"monthly": {
@@ -30,21 +234,21 @@
 			"2013-06": {"total":6000.00, "Childrens Services":6000.00}
 		}
 	},
-	"2052": {
+	"2066": {
 		"name": "Burnage Parent and Community",
 		"total": 3474,
 		"monthly": {
 			"2012-01": {"total":3474.00, "Regeneration Finance":3474.00}
 		}
 	},
-	"2053": {
+	"2067": {
 		"name": "Burnage Rugby Football Club",
 		"total": 560,
 		"monthly": {
 			"2011-03": {"total":560.00, "Manchester Leisure":560.00}
 		}
 	},
-	"2054": {
+	"2068": {
 		"name": "Burnage Stained Glass Group",
 		"total": 11980.85,
 		"monthly": {
@@ -54,28 +258,28 @@
 			"2013-03": {"total":2900.00, "Regeneration Finance":2900.00}
 		}
 	},
-	"2055": {
+	"2069": {
 		"name": "Burnage Tenants & Residents Assoc",
 		"total": 1425.38,
 		"monthly": {
 			"2011-12": {"total":1425.38, "Regeneration Finance":1425.38}
 		}
 	},
-	"2056": {
+	"2070": {
 		"name": "Burnage parents & Community",
 		"total": 3055.85,
 		"monthly": {
 			"2011-03": {"total":3055.85, "Chief Executives":3055.85}
 		}
 	},
-	"2057": {
+	"2071": {
 		"name": "Burnetts",
 		"total": 8000,
 		"monthly": {
 			"2011-04": {"total":8000.00, "Adult Social Care":8000.00}
 		}
 	},
-	"2058": {
+	"2072": {
 		"name": "Burnley & Pendle Travel Ltd",
 		"total": 18608.61,
 		"monthly": {
@@ -102,7 +306,7 @@
 			"2019-06": {"total":875.75, "Corporate Services":875.75}
 		}
 	},
-	"2059": {
+	"2073": {
 		"name": "Burnley Borough Council",
 		"total": 73728.5,
 		"monthly": {
@@ -116,7 +320,7 @@
 			"2013-10": {"total":960.00, "Specialist Trading Standards":960.00}
 		}
 	},
-	"2060": {
+	"2074": {
 		"name": "Burnt Tree Group Ltd",
 		"total": 972407.32,
 		"monthly": {
@@ -172,7 +376,7 @@
 			"2016-08": {"total":24613.27, "Hospitality + Trading Services":24613.27}
 		}
 	},
-	"2061": {
+	"2075": {
 		"name": "Buro Four Project Services",
 		"total": 87425.88,
 		"monthly": {
@@ -212,12 +416,12 @@
 			"2015-04": {"total":933.00, "Chief Executives":933.00}
 		}
 	},
-	"2062": {
+	"2076": {
 		"name": "Buro Happold Ltd",
 		"alternate-names": [
 			"Buro Happold Limited"
 		],
-		"total": 7196929.01,
+		"total": 7355006.01,
 		"monthly": {
 			"2013-08": {"total":21450.00, "Chief Executives":21450.00},
 			"2013-09": {"total":2150.00, "Chief Executives":2150.00},
@@ -276,10 +480,12 @@
 			"2020-04": {"total":103725.70, "Chief Executives":98106.00, "Regeneration Finance":5619.70},
 			"2020-05": {"total":58000.00, "Chief Executives":58000.00},
 			"2020-06": {"total":28500.00, "Chief Executives":28500.00},
-			"2020-07": {"total":34329.40, "Chief Executives":11882.00, "Regeneration Finance":22447.40}
+			"2020-07": {"total":34329.40, "Chief Executives":11882.00, "Regeneration Finance":22447.40},
+			"2020-08": {"total":32996.00, "Chief Executives":32996.00},
+			"2020-09": {"total":125081.00, "Chief Executives":125081.00}
 		}
 	},
-	"2063": {
+	"2077": {
 		"name": "BurrBaxter Print Ltd",
 		"total": 23261.68,
 		"monthly": {
@@ -293,14 +499,14 @@
 			"2013-01": {"total":1982.00, "Chief Executives":1982.00}
 		}
 	},
-	"2064": {
+	"2078": {
 		"name": "Burroughs Day LLP",
 		"total": 1362,
 		"monthly": {
 			"2018-09": {"total":1362.00, "Highways Services":1362.00}
 		}
 	},
-	"2065": {
+	"2079": {
 		"name": "Burton Road Bakery",
 		"total": 2255.7,
 		"monthly": {
@@ -310,7 +516,7 @@
 			"2012-05": {"total":545.70, "Childrens Services":545.70}
 		}
 	},
-	"2066": {
+	"2080": {
 		"name": "Burwood Supply Ltd",
 		"total": 83282.5,
 		"monthly": {
@@ -337,7 +543,7 @@
 			"2016-09": {"total":5858.04, "Chief Executives":5858.04}
 		}
 	},
-	"2067": {
+	"2081": {
 		"name": "Bury College",
 		"total": 502786.3,
 		"monthly": {
@@ -371,14 +577,14 @@
 			"2020-06": {"total":5460.00, "Childrens & Education Services":5460.00}
 		}
 	},
-	"2068": {
+	"2082": {
 		"name": "Bury Council",
 		"total": 1463.56,
 		"monthly": {
 			"2020-04": {"total":1463.56, "Childrens & Education Services":1463.56}
 		}
 	},
-	"2069": {
+	"2083": {
 		"name": "Bury FC Community Trust",
 		"total": 154788.99,
 		"monthly": {
@@ -409,12 +615,12 @@
 			"2016-12": {"total":9984.01, "Adult Social Care":9984.01}
 		}
 	},
-	"2070": {
+	"2084": {
 		"name": "Bury M.B.C",
 		"alternate-names": [
 			"Bury M.B.C."
 		],
-		"total": 11245560.38,
+		"total": 11406153.64,
 		"monthly": {
 			"2010-12": {"total":74075.48, "Adult Social Care":74075.48},
 			"2011-01": {"total":95411.82, "Adult Social Care":95411.82},
@@ -519,17 +725,19 @@
 			"2020-03": {"total":3332.00, "Manchester Leisure":3332.00},
 			"2020-04": {"total":19506.48, "Manchester Leisure":19506.48},
 			"2020-05": {"total":197002.48, "Childrens & Education Services":197002.48},
-			"2020-06": {"total":177693.88, "Adult Social Care":47857.47, "Manchester Leisure":7925.58, "Regeneration Finance":121910.83}
+			"2020-06": {"total":177693.88, "Adult Social Care":47857.47, "Manchester Leisure":7925.58, "Regeneration Finance":121910.83},
+			"2020-08": {"total":38682.43, "Adult Social Care":38682.43},
+			"2020-09": {"total":121910.83, "Regeneration Finance":121910.83}
 		}
 	},
-	"2071": {
+	"2085": {
 		"name": "Bury MBC General Account",
 		"total": 6402,
 		"monthly": {
 			"2019-03": {"total":6402.00, "Adult Social Care":6402.00}
 		}
 	},
-	"2072": {
+	"2086": {
 		"name": "Bury Mbc",
 		"total": 70966.26,
 		"monthly": {
@@ -547,7 +755,7 @@
 			"2016-01": {"total":5153.32, "Adult Social Care":5153.32}
 		}
 	},
-	"2073": {
+	"2087": {
 		"name": "Bury Metro",
 		"total": 2703588.54,
 		"monthly": {
@@ -586,14 +794,14 @@
 			"2015-03": {"total":10657.55, "Libraries and Theatres":10657.55}
 		}
 	},
-	"2074": {
+	"2088": {
 		"name": "Busby Auctions Ltd",
 		"total": 871.88,
 		"monthly": {
 			"2014-07": {"total":871.88, "Manchester Leisure":871.88}
 		}
 	},
-	"2075": {
+	"2089": {
 		"name": "Business & Decision Ltd",
 		"total": 3900,
 		"monthly": {
@@ -601,21 +809,21 @@
 			"2011-04": {"total":650.00, "Chief Executives":650.00}
 		}
 	},
-	"2076": {
+	"2090": {
 		"name": "Business Continuity Training Ltd",
 		"total": 1135,
 		"monthly": {
 			"2018-03": {"total":1135.00, "Manchester Leisure":1135.00}
 		}
 	},
-	"2077": {
+	"2091": {
 		"name": "Business Disabilty Forum",
 		"total": 3800,
 		"monthly": {
 			"2020-04": {"total":3800.00, "Chief Executives":3800.00}
 		}
 	},
-	"2078": {
+	"2092": {
 		"name": "Business In The Community North",
 		"total": 452050,
 		"monthly": {
@@ -643,21 +851,21 @@
 			"2018-08": {"total":10000.00, "Manchester Leisure":10000.00}
 		}
 	},
-	"2079": {
+	"2093": {
 		"name": "Business Performance Ltd",
 		"total": 500,
 		"monthly": {
 			"2011-01": {"total":500.00, "Hospitality + Trading Services":500.00}
 		}
 	},
-	"2080": {
+	"2094": {
 		"name": "Business Property Law LLP",
 		"total": 136374.96,
 		"monthly": {
 			"2012-01": {"total":136374.96, "Housing General Fund":136374.96}
 		}
 	},
-	"2081": {
+	"2095": {
 		"name": "Business Risk Managemant Ltd",
 		"total": 4031,
 		"monthly": {
@@ -666,7 +874,7 @@
 			"2012-10": {"total":2641.00, "Corporate Services":2641.00}
 		}
 	},
-	"2082": {
+	"2096": {
 		"name": "Business Waste Ltd",
 		"alternate-names": [
 			"Business Waste Limited"
@@ -676,7 +884,7 @@
 			"2016-07": {"total":8846.34, "Manchester Leisure":8846.34}
 		}
 	},
-	"2083": {
+	"2097": {
 		"name": "Business Working With Wythenshawe",
 		"total": 106668.7,
 		"monthly": {
@@ -694,7 +902,7 @@
 			"2020-06": {"total":28700.00, "Chief Executives":28700.00}
 		}
 	},
-	"2084": {
+	"2098": {
 		"name": "Business in the arts: North West",
 		"total": 10425,
 		"monthly": {
@@ -703,157 +911,13 @@
 			"2012-04": {"total":725.00, "Section 48":725.00}
 		}
 	},
-	"2085": {
+	"2099": {
 		"name": "Busy Bees Day Nursery",
 		"total": 1939.99,
 		"monthly": {
 			"2012-10": {"total":585.20, "Regeneration Finance":585.20},
 			"2013-05": {"total":828.35, "Regeneration Finance":828.35},
 			"2014-11": {"total":526.44, "Childrens Services":526.44}
-		}
-	},
-	"2086": {
-		"name": "Busy Nought to Five Nursery",
-		"total": 1068.56,
-		"monthly": {
-			"2018-12": {"total":1068.56, "Adult Social Care":1068.56}
-		}
-	},
-	"2087": {
-		"name": "Butcher & Barlow",
-		"total": 55000,
-		"monthly": {
-			"2013-10": {"total":55000.00, "Corporate Services":55000.00}
-		}
-	},
-	"2088": {
-		"name": "Butcher Lane TARA",
-		"total": 9586.35,
-		"monthly": {
-			"2012-11": {"total":1940.00, "Regeneration Finance":1940.00},
-			"2013-02": {"total":1676.35, "Regeneration Finance":1676.35},
-			"2013-03": {"total":3150.00, "Regeneration Finance":3150.00},
-			"2014-05": {"total":2820.00, "Regeneration Finance":2820.00}
-		}
-	},
-	"2089": {
-		"name": "Butcher and Barlow",
-		"total": 226323,
-		"monthly": {
-			"2014-09": {"total":226323.00, "Corporate Services":226323.00}
-		}
-	},
-	"2090": {
-		"name": "Buttercup Corner Day Nursery",
-		"total": 6968,
-		"monthly": {
-			"2017-01": {"total":2574.00, "Adult Social Care":2574.00},
-			"2017-02": {"total":1836.00, "Adult Social Care":1836.00},
-			"2017-04": {"total":512.00, "Adult Social Care":512.00},
-			"2018-07": {"total":531.00, "Adult Social Care":531.00},
-			"2018-11": {"total":1515.00, "Adult Social Care":1515.00}
-		}
-	},
-	"2091": {
-		"name": "Butterflies Bereavement Group",
-		"total": 700,
-		"monthly": {
-			"2020-01": {"total":700.00, "Manchester Leisure":700.00}
-		}
-	},
-	"2092": {
-		"name": "Button Lane Community",
-		"total": 11115,
-		"monthly": {
-			"2016-08": {"total":8415.00, "Manchester Leisure":8415.00},
-			"2017-12": {"total":2700.00, "Manchester Leisure":2700.00}
-		}
-	},
-	"2093": {
-		"name": "Button Lane Primary School",
-		"total": 32919.22,
-		"monthly": {
-			"2014-03": {"total":11510.20, "Insurance Fund":11510.20},
-			"2015-03": {"total":18409.02, "Regeneration Finance":18409.02},
-			"2015-04": {"total":3000.00, "Regeneration Finance":3000.00}
-		}
-	},
-	"2094": {
-		"name": "Buttress",
-		"total": 396909.05,
-		"monthly": {
-			"2015-02": {"total":11850.00, "Housing Revenue Account":11850.00},
-			"2015-03": {"total":9500.00, "Housing Revenue Account":9500.00},
-			"2015-04": {"total":9250.00, "Housing Revenue Account":9250.00},
-			"2015-05": {"total":17775.00, "Housing Revenue Account":17775.00},
-			"2015-06": {"total":10256.25, "Housing Revenue Account":10256.25},
-			"2015-07": {"total":50920.00, "Housing Revenue Account":9000.00, "Regeneration Finance":41920.00},
-			"2015-11": {"total":4275.00, "Housing Revenue Account":4275.00},
-			"2015-12": {"total":4162.50, "Housing Revenue Account":4162.50},
-			"2016-06": {"total":3487.50, "Housing Revenue Account":3487.50},
-			"2016-11": {"total":43185.00, "Corporate Services":43185.00},
-			"2017-01": {"total":4590.00, "Corporate Services":4590.00},
-			"2017-03": {"total":21262.50, "Corporate Services":21262.50},
-			"2017-05": {"total":7087.50, "Corporate Services":7087.50},
-			"2017-07": {"total":8409.32, "Corporate Services":8409.32},
-			"2017-08": {"total":3150.00, "Corporate Services":3150.00},
-			"2017-09": {"total":3150.00, "Corporate Services":3150.00},
-			"2017-10": {"total":9450.00, "Corporate Services":9450.00},
-			"2020-01": {"total":175148.48, "Corporate Services":175148.48}
-		}
-	},
-	"2095": {
-		"name": "Buttress Fuller Alsop Williams Ltd",
-		"total": 117647.92,
-		"monthly": {
-			"2010-12": {"total":19460.64, "Chief Executives":19460.64},
-			"2011-01": {"total":7026.88, "Chief Executives":7026.88},
-			"2011-09": {"total":7500.00, "Manchester Leisure":7500.00},
-			"2012-05": {"total":26465.65, "Manchester Leisure":26465.65},
-			"2014-03": {"total":41701.00, "Housing Revenue Account":41701.00},
-			"2014-04": {"total":2500.00, "Chief Executives":2500.00},
-			"2015-01": {"total":12993.75, "Housing Revenue Account":12993.75}
-		}
-	},
-	"2096": {
-		"name": "Buy It Direct T/A Drones Direct",
-		"total": 4843.28,
-		"monthly": {
-			"2019-11": {"total":4843.28, "Manchester Leisure":4843.28}
-		}
-	},
-	"2097": {
-		"name": "Byrne Campbell Moloi LAW LLP",
-		"total": 8098,
-		"monthly": {
-			"2019-11": {"total":8098.00, "Highways Services":8098.00}
-		}
-	},
-	"2098": {
-		"name": "Byrne Campbell Moloi Law LLP",
-		"total": 500,
-		"monthly": {
-			"2019-11": {"total":500.00, "Highways Services":500.00}
-		}
-	},
-	"2099": {
-		"name": "Byrne Surfacing Ltd",
-		"total": 28971.74,
-		"monthly": {
-			"2010-12": {"total":6369.75, "Environment and Operations":6369.75},
-			"2011-01": {"total":751.92, "Environment and Operations":751.92},
-			"2011-08": {"total":3528.65, "Environment and Operations":3528.65},
-			"2011-11": {"total":755.08, "Environment and Operations":755.08},
-			"2011-12": {"total":755.08, "Environment and Operations":755.08},
-			"2012-02": {"total":2492.60, "Environment and Operations":2492.60},
-			"2012-06": {"total":2564.01, "Libraries and Theatres":2564.01},
-			"2012-07": {"total":2130.80, "Libraries and Theatres":2130.80},
-			"2013-01": {"total":2729.32, "Libraries and Theatres":2729.32},
-			"2013-02": {"total":1212.16, "Libraries and Theatres":1212.16},
-			"2013-05": {"total":2331.32, "Libraries and Theatres":2331.32},
-			"2013-08": {"total":791.37, "Libraries and Theatres":791.37},
-			"2013-11": {"total":1176.78, "Libraries and Theatres":1176.78},
-			"2014-02": {"total":1382.90, "Libraries and Theatres":1382.90}
 		}
 	}
 	}

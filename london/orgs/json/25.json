@@ -1,77 +1,298 @@
 {
-	"range": ["2013-04","2020-07"],
+	"range": ["2013-04","2020-09"],
 	"data": {
 	"1250": {
+		"name": "CVS BRENT",
+		"total": 19550,
+		"monthly": {
+			"2014-04": {"total":750.00, "Event Management Fee":750.00},
+			"2015-03": {"total":300.00, "HOTEL ACCOMMODATION":300.00},
+			"2016-06": {"total":18500.00, "GRANTS TO EXTERNAL ORGANISATIONS":18500.00}
+		}
+	},
+	"1251": {
+		"name": "CW DEBENHAM TIE LEUNG LTD",
+		"total": 3328,
+		"monthly": {
+			"2019-12": {"total":3328.00, "CONSULTANCY-COMMISSIONED REPORT":3328.00}
+		}
+	},
+	"1252": {
+		"name": "CYBERAIR & CYBER WARE",
+		"total": 11450,
+		"monthly": {
+			"2014-11": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-02": {"total":2450.00, "GRANTS TO EXTERNAL ORGANISATIONS":2450.00},
+			"2016-06": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"1253": {
+		"name": "CYBRAND AEC LTD",
+		"total": 3000,
+		"monthly": {
+			"2015-09": {"total":3000.00, "VEHICLE REPAIRS & MAINTENANCE":3000.00}
+		}
+	},
+	"1254": {
+		"name": "CYCLING CLUB HACKNEY",
+		"total": 1500,
+		"monthly": {
+			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
+		}
+	},
+	"1255": {
+		"name": "CYNERGIN",
+		"total": 92681,
+		"monthly": {
+			"2014-02": {"total":10450.00, "Other Professional Fees":10450.00},
+			"2014-06": {"total":5250.00, "Legal Fees":5250.00},
+			"2014-12": {"total":3750.00, "OTHER PROFESSIONAL FEES":3750.00},
+			"2016-01": {"total":5000.00, "PROPERTY MANAGEMENT FEES":5000.00},
+			"2016-05": {"total":3750.00, "Housing & Land":3750.00},
+			"2016-06": {"total":11945.00, "OTHER PROFESSIONAL FEES":8145.00, "PROPERTY MANAGEMENT FEES":3800.00},
+			"2016-11": {"total":3300.00, "PROPERTY MANAGEMENT FEES":3300.00},
+			"2017-04": {"total":1596.00, "OTHER PROFESSIONAL FEES":1596.00},
+			"2017-10": {"total":3300.00, "OTHER PROFESSIONAL FEES":3300.00},
+			"2018-05": {"total":11945.00, "OTHER PROFESSIONAL FEES":11945.00},
+			"2018-06": {"total":750.00, "OTHER PROFESSIONAL FEES":750.00},
+			"2019-02": {"total":8350.00, "OTHER PROFESSIONAL FEES":8350.00},
+			"2019-03": {"total":7275.00, "OTHER PROFESSIONAL FEES":7275.00},
+			"2020-04": {"total":16020.00, "CONSULTANCY-PROJECT MANAGEMENT":3995.00, "EXTERNAL AUDIT FEES":12025.00}
+		}
+	},
+	"1256": {
+		"name": "Canada Life",
+		"total": 1580,
+		"monthly": {
+			"2017-03": {"total":1580.00, "General Insurance":1580.00}
+		}
+	},
+	"1257": {
+		"name": "Capita PLC",
+		"alternate-names": [
+			"CAPITA BUSINESS SERV",
+			"CAPITA BUSINESS SERVICES LTD",
+			"CAPITA BUSINESS TRAVEL",
+			"CAPITA BUSINESS TRAVEL LTD",
+			"CAPITA LEARNING & DEVELOPMENT",
+			"CAPITA PROPERTY & INFRASTRUCTURE LT",
+			"CAPITA RESOURCING LTD",
+			"CAPITA SYMONDS",
+			"CAPITA SYMONDS LIMITED",
+			"CAPITA SYMONDS LTD",
+			"CAPITA TREASURY SOLUTIONS LTD",
+			"Capita Property & Infrastructure Lt"
+		],
+		"total": 5419284.72,
+		"monthly": {
+			"2013-04": {"total":41966.95, "Equipment Repairs & Maintenance":329.00, "Management & Support Consultancy":38337.95, "Staff Training":3300.00},
+			"2013-05": {"total":7018.46, "MANAGEMENT & SUPPORT CONSULTANCY":396.48, "Management & Support Consultancy":3821.98, "PLANNING & DEVELOPMENT CONSULTANCY":2800.00},
+			"2013-06": {"total":8400.00, "Planning & Development Consultancy":8400.00},
+			"2013-07": {"total":4253.75, "Management & Support Consultancy":3153.75, "Staff Training":1100.00},
+			"2013-08": {"total":19781.44, "Equipment Repairs & Maintenance":11900.00, "Management & Support Consultancy":7881.44},
+			"2013-09": {"total":7892.36, "Management & Support Consultancy":7892.36},
+			"2013-10": {"total":11057.11, "Management & Support Consultancy":1517.11, "Planning & Development Consultancy":9040.00, "Property Consultancy  Economic Appraisals":500.00},
+			"2013-11": {"total":6599.06, "Management & Support Consultancy":6599.06},
+			"2013-12": {"total":182591.23, "Consultancy-Project Management":123873.30, "Management & Support Consultancy":55917.93, "Planning & Development Consultancy":2800.00},
+			"2014-01": {"total":11855.76, "Management & Support Consultancy":9965.76, "Staff Training":1890.00},
+			"2014-02": {"total":47371.04, "Consultancy-Project Management":24653.40, "Management & Support Consultancy":22717.64},
+			"2014-03": {"total":72835.76, "Management & Support Consultancy":68235.76, "Staff Training":4600.00},
+			"2014-04": {"total":220237.65, "Consultancy-Project Management":203800.00, "Management & Support Consultancy":15787.65, "Staff Training":650.00},
+			"2014-05": {"total":6400.00, "Management & Support Consultancy":6400.00},
+			"2014-06": {"total":3521.00, "MANAGEMENT & SUPPORT CONSULTANCY":3521.00},
+			"2014-07": {"total":2800.00, "MANAGEMENT & SUPPORT CONSULTANCY":2800.00},
+			"2014-08": {"total":3350.00, "MANAGEMENT & SUPPORT CONSULTANCY":2800.00, "STAFF TRAINING":550.00},
+			"2014-09": {"total":7807.00, "STAFF TRAINING":7807.00},
+			"2014-10": {"total":107868.40, "MANAGEMENT & SUPPORT CONSULTANCY":107554.40, "STAFF TRAINING":314.00},
+			"2014-11": {"total":138116.29, "MANAGEMENT & SUPPORT CONSULTANCY":133432.29, "STAFF TRAINING":4684.00},
+			"2014-12": {"total":14946.82, "CONFERENCES & SEMINARS":875.00, "MANAGEMENT & SUPPORT CONSULTANCY":8208.82, "STAFF TRAINING":5863.00},
+			"2015-01": {"total":242558.50, "Development, Enterprise & Environment":834.36, "Housing":233392.64, "Resources":8331.50},
+			"2015-02": {"total":226207.63, "Housing":223407.63, "Housing & Land":2800.00},
+			"2015-03": {"total":88474.09, "BUILDING MAINTENANCE & REPAIRS":1800.00, "MANAGEMENT & SUPPORT CONSULTANCY":82561.09, "STAFF TRAINING":4113.00},
+			"2015-04": {"total":528358.09, "MANAGEMENT & SUPPORT CONSULTANCY":528358.09},
+			"2015-05": {"total":40740.10, "CONSULTANCY-PROJECT MANAGEMENT":3551.00, "MANAGEMENT & SUPPORT CONSULTANCY":8989.60, "STAFF TRAINING":28199.50},
+			"2015-06": {"total":72521.29, "MANAGEMENT & SUPPORT CONSULTANCY":72521.29},
+			"2015-07": {"total":2278.04, "CONSULTANCY-PROJECT MANAGEMENT":1971.38, "MANAGEMENT & SUPPORT CONSULTANCY":306.66},
+			"2015-08": {"total":88764.53, "CONSULTANCY-PROJECT MANAGEMENT":2800.00, "MANAGEMENT & SUPPORT CONSULTANCY":85164.53, "SECURITY SERVICES (GUARDS)":800.00},
+			"2015-09": {"total":93544.25, "EQUIPMENT REPAIRS & MAINTENANCE":850.00, "MANAGEMENT & SUPPORT CONSULTANCY":83773.25, "STAFF TRAINING":8921.00},
+			"2015-10": {"total":193532.91, "MANAGEMENT & SUPPORT CONSULTANCY":164940.95, "STAFF TRAINING":28591.96},
+			"2015-12": {"total":83992.62, "MANAGEMENT & SUPPORT CONSULTANCY":71040.12, "STAFF TRAINING":12952.50},
+			"2016-01": {"total":76175.35, "MANAGEMENT & SUPPORT CONSULTANCY":68434.79, "RECRUITMENT AGENCY FEES":1950.00, "STAFF TRAINING":5790.56},
+			"2016-02": {"total":72113.57, "CONSULTANCY-PROJECT MANAGEMENT":3900.00, "MANAGEMENT & SUPPORT CONSULTANCY":65463.57, "RECRUITMENT AGENCY FEES":2750.00},
+			"2016-03": {"total":112901.30, "MANAGEMENT & SUPPORT CONSULTANCY":99161.30, "RECRUITMENT AGENCY FEES":1800.00, "STAFF TRAINING":11940.00},
+			"2016-04": {"total":114987.99, "Housing":113187.99, "Resources":1800.00},
+			"2016-05": {"total":27999.49, "Communities and Intelligence":4618.49, "Housing & Land":3000.00, "Resources":20381.00},
+			"2016-06": {"total":129318.76, "MANAGEMENT & SUPPORT CONSULTANCY":125243.76, "STAFF TRAINING":4075.00},
+			"2016-07": {"total":65318.48, "MANAGEMENT & SUPPORT CONSULTANCY":63138.48, "STAFF TRAINING":2180.00},
+			"2016-08": {"total":94979.44, "CONSULTANCY-PROJECT MANAGEMENT":3000.00, "MANAGEMENT & SUPPORT CONSULTANCY":64059.94, "RECRUITMENT AGENCY FEES":1700.00, "STAFF TRAINING":26219.50},
+			"2016-09": {"total":66385.36, "MANAGEMENT & SUPPORT CONSULTANCY":66385.36},
+			"2016-10": {"total":66176.10, "MANAGEMENT & SUPPORT CONSULTANCY":63797.60, "STAFF TRAINING":2378.50},
+			"2016-11": {"total":6815.00, "CONSULTANCY-PROJECT MANAGEMENT":3000.00, "STAFF TRAINING":3815.00},
+			"2016-12": {"total":119150.12, "AGENCY STAFF":900.00, "MANAGEMENT & SUPPORT CONSULTANCY":113487.62, "STAFF TRAINING":4762.50},
+			"2017-01": {"total":61233.86, "MANAGEMENT & SUPPORT CONSULTANCY":61233.86},
+			"2017-02": {"total":113946.35, "CONSULTANCY-PROJECT MANAGEMENT":3000.00, "MANAGEMENT & SUPPORT CONSULTANCY":103185.35, "STAFF TRAINING":7761.00},
+			"2017-03": {"total":53802.12, "MANAGEMENT & SUPPORT CONSULTANCY":47482.12, "STAFF TRAINING":6320.00},
+			"2017-04": {"total":61127.25, "MANAGEMENT & SUPPORT CONSULTANCY":57772.25, "STAFF TRAINING":3355.00},
+			"2017-05": {"total":129171.97, "CONSULTANCY-PROJECT MANAGEMENT":3000.00, "MANAGEMENT & SUPPORT CONSULTANCY":117996.97, "STAFF TRAINING":8175.00},
+			"2017-06": {"total":57907.10, "CONSULTANCY-PROJECT MANAGEMENT":9756.00, "CONSULTANTS (CONTRACTORS)":48151.10},
+			"2017-07": {"total":131264.48, "CONFERENCES & SEMINARS":375.00, "CONSULTANTS (CONTRACTORS)":123874.48, "MANAGEMENT & SUPPORT CONSULTANCY":850.00, "STAFF TRAINING":6165.00},
+			"2017-08": {"total":2725.00, "STAFF TRAINING":2725.00},
+			"2017-09": {"total":113629.22, "CONSULTANTS (CONTRACTORS)":111156.72, "STAFF TRAINING":2472.50},
+			"2017-10": {"total":33426.58, "CONSULTANTS (CONTRACTORS)":25930.08, "OFFICE CLEANING":1124.00, "STAFF TRAINING":6372.50},
+			"2017-11": {"total":37559.55, "CONSULTANCY-PROJECT MANAGEMENT":2500.00, "CONSULTANTS (CONTRACTORS)":34409.55, "OTHER PROFESSIONAL FEES":650.00},
+			"2017-12": {"total":40337.51, "CONSULTANTS (CONTRACTORS)":40337.51},
+			"2018-01": {"total":4075.00, "STAFF TRAINING":4075.00},
+			"2018-02": {"total":6135.00, "OTHER PROFESSIONAL FEES":3150.00, "STAFF TRAINING":2985.00},
+			"2018-03": {"total":145583.52, "AGENCY STAFF":7000.00, "CONSULTANCY-PROJECT MANAGEMENT":9000.00, "CONTRACTORS":125768.52, "STAFF TRAINING":3815.00},
+			"2018-04": {"total":96209.91, "CONTRACTORS":83762.41, "STAFF TRAINING":12447.50},
+			"2018-05": {"total":11285.00, "OTHER PROFESSIONAL FEES":3150.00, "STAFF TRAINING":6930.00, "STAFF TRAVEL (BUSINESS FARES)":1205.00},
+			"2018-06": {"total":32200.01, "CONTRACTORS":26083.00, "STAFF TRAVEL (BUSINESS FARES)":6117.01},
+			"2018-07": {"total":123511.94, "CONTRACTORS":93576.28, "HOTEL ACCOMMODATION":654.78, "STAFF TRAINING":8020.00, "STAFF TRAVEL (BUSINESS FARES)":21260.88},
+			"2018-08": {"total":30978.95, "CONTRACTORS":10167.00, "HOTEL ACCOMMODATION":2884.51, "OTHER PROFESSIONAL FEES":2650.00, "PROPERTY MANAGEMENT FEES":500.00, "STAFF TRAINING":4490.00, "STAFF TRAVEL (BUSINESS FARES)":10287.44},
+			"2018-09": {"total":65032.94, "CONSULTANCY-PROJECT MANAGEMENT":9975.00, "CONTRACTORS":40068.72, "HOTEL ACCOMMODATION":900.00, "STAFF TRAINING":4075.00, "STAFF TRAVEL (BUSINESS FARES)":10014.22},
+			"2018-10": {"total":13609.01, "AGENCY STAFF":3000.00, "CONSULTANCY-PROJECT MANAGEMENT":6581.36, "HOTEL ACCOMMODATION":2318.10, "STAFF TRAINING":545.00, "STAFF TRAVEL (BUSINESS FARES)":1164.55},
+			"2018-11": {"total":93660.99, "AGENCY STAFF":1000.00, "CONTRACTORS":84597.04, "HOTEL ACCOMMODATION":1855.35, "STAFF TRAINING":4237.00, "STAFF TRAVEL (BUSINESS FARES)":1971.60},
+			"2018-12": {"total":82842.47, "CONTRACTORS":81214.07, "STAFF TRAVEL (BUSINESS FARES)":1628.40},
+			"2019-01": {"total":49085.45, "AGENCY STAFF":1000.00, "CONTRACTORS":38693.06, "HOTEL ACCOMMODATION":4340.89, "STAFF TRAINING":4360.00, "STAFF TRAVEL (BUSINESS FARES)":691.50},
+			"2019-02": {"total":43369.23, "AGENCY STAFF":1000.00, "CONTRACTORS":28194.14, "HOTEL ACCOMMODATION":276.67, "MINOR STAFF EXPENSES":255.50, "STAFF TRAINING":12510.00, "STAFF TRAVEL (BUSINESS FARES)":1132.92},
+			"2019-03": {"total":26246.81, "CONTRACTORS":18852.26, "STAFF TRAINING":6515.00, "STAFF TRAVEL (BUSINESS FARES)":879.55},
+			"2019-04": {"total":44530.66, "CONTRACTORS":37130.64, "HOTEL ACCOMMODATION":823.80, "STAFF TRAINING":3802.50, "STAFF TRAVEL (BUSINESS FARES)":2773.72},
+			"2019-05": {"total":65500.46, "CONTRACTORS":57611.18, "HOTEL ACCOMMODATION":2027.68, "STAFF TRAINING":3815.00, "STAFF TRAVEL (BUSINESS FARES)":2046.60},
+			"2019-06": {"total":4628.79, "HOTEL ACCOMMODATION":1061.79, "STAFF TRAINING":3270.00, "STAFF TRAVEL (BUSINESS FARES)":297.00},
+			"2019-07": {"total":2977.53, "HOTEL ACCOMMODATION":280.57, "STAFF TRAVEL (BUSINESS FARES)":2696.96},
+			"2019-08": {"total":7976.79, "HOTEL ACCOMMODATION":1634.41, "STAFF TRAINING":4905.00, "STAFF TRAVEL (BUSINESS FARES)":1437.38},
+			"2019-09": {"total":966.50, "HOTEL ACCOMMODATION":295.76, "STAFF TRAVEL (BUSINESS FARES)":670.74},
+			"2019-10": {"total":7299.14, "HOTEL ACCOMMODATION":2632.02, "STAFF TRAINING":2997.50, "STAFF TRAVEL (BUSINESS FARES)":1669.62},
+			"2019-11": {"total":6469.80, "RECRUITMENT AGENCY FEES":1000.00, "STAFF TRAINING":4905.00, "STAFF TRAVEL (BUSINESS FARES)":564.80},
+			"2019-12": {"total":12494.05, "HOTEL ACCOMMODATION":2415.15, "RECRUITMENT AGENCY FEES":2000.00, "STAFF TRAINING":7814.50, "STAFF TRAVEL (BUSINESS FARES)":264.40},
+			"2020-01": {"total":9256.91, "HOTEL ACCOMMODATION":347.70, "STAFF TRAINING":6880.50, "STAFF TRAVEL (BUSINESS FARES)":2028.71},
+			"2020-02": {"total":17615.23, "HOTEL ACCOMMODATION":8732.73, "IT CONSULTANCY":2750.00, "MINOR STAFF EXPENSES":1997.50, "STAFF TRAINING":3270.00, "STAFF TRAVEL (BUSINESS FARES)":865.00},
+			"2020-03": {"total":1798.30, "RECRUITMENT AGENCY FEES":1500.00, "STAFF TRAVEL (BUSINESS FARES)":298.30},
+			"2020-04": {"total":5450.00, "STAFF TRAINING":5450.00},
+			"2020-05": {"total":19108.50, "HOTEL ACCOMMODATION":8939.67, "STAFF TRAINING":4087.50, "STAFF TRAVEL (BUSINESS FARES)":6081.33},
+			"2020-06": {"total":2827.75, "STAFF TRAVEL (BUSINESS FARES)":2827.75},
+			"2020-07": {"total":5559.00, "STAFF TRAINING":5559.00},
+			"2020-08": {"total":2725.00, "STAFF TRAINING":2725.00},
+			"2020-09": {"total":2180.00, "STAFF TRAINING":2180.00}
+		}
+	},
+	"1258": {
+		"name": "Carbon Credentials Energy Serv Ltd",
+		"total": 5175,
+		"monthly": {
+			"2017-12": {"total":5175.00, "CONSULTANCY-PROJECT MANAGEMENT":5175.00}
+		}
+	},
+	"1259": {
+		"name": "Cardwell Primary School",
+		"total": 745,
+		"monthly": {
+			"2016-07": {"total":745.00, "GRANTS TO EXTERNAL ORGANISATIONS":745.00}
+		}
+	},
+	"1260": {
+		"name": "Career Development Institute",
+		"total": 450,
+		"monthly": {
+			"2017-03": {"total":450.00, "STAFF TRAINING":450.00}
+		}
+	},
+	"1261": {
+		"name": "Castle Water Ltd",
+		"alternate-names": [
+			"Castle Water Limited"
+		],
+		"total": 1279.07,
+		"monthly": {
+			"2017-12": {"total":1279.07, "WATER":1279.07}
+		}
+	},
+	"1262": {
+		"name": "Castlerea Brass & Reed band",
+		"total": 1500,
+		"monthly": {
+			"2017-03": {"total":1500.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":1500.00}
+		}
+	},
+	"1263": {
+		"name": "Cavalier Communications Ltd",
+		"total": 4992.06,
+		"monthly": {
+			"2017-03": {"total":4992.06, "MARKETING EXHIBITIONS & EVENTS":4992.06}
+		}
+	},
+	"1264": {
 		"name": "Cavendish Group International Ltd",
 		"total": 500,
 		"monthly": {
 			"2014-10": {"total":500.00, "STAFF TRAINING":500.00}
 		}
 	},
-	"1251": {
+	"1265": {
 		"name": "Celestine Catering Company",
 		"total": 1253.5,
 		"monthly": {
 			"2017-05": {"total":1253.50, "CATERERS SERVICE CHARGES":1253.50}
 		}
 	},
-	"1252": {
+	"1266": {
 		"name": "Charities Evaluation Services",
 		"total": 530,
 		"monthly": {
 			"2014-09": {"total":530.00, "STAFF TRAINING":530.00}
 		}
 	},
-	"1253": {
+	"1267": {
 		"name": "Charlotte Sharman Primary School",
 		"total": 10000,
 		"monthly": {
 			"2018-12": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
 		}
 	},
-	"1254": {
+	"1268": {
 		"name": "Chartered Institute of Housing",
 		"total": 265,
 		"monthly": {
 			"2015-06": {"total":265.00, "STAFF TRAINING":265.00}
 		}
 	},
-	"1255": {
+	"1269": {
 		"name": "Chelsea Rixson",
 		"total": 500,
 		"monthly": {
 			"2016-11": {"total":500.00, "CONSULTANCY-PROJECT MANAGEMENT":500.00}
 		}
 	},
-	"1256": {
+	"1270": {
 		"name": "Christ the Saviour CE School",
 		"total": 10000,
 		"monthly": {
 			"2018-12": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
 		}
 	},
-	"1257": {
+	"1271": {
 		"name": "City Nation Place Ltd",
 		"total": 549,
 		"monthly": {
 			"2017-12": {"total":549.00, "CONFERENCES & SEMINARS":549.00}
 		}
 	},
-	"1258": {
+	"1272": {
 		"name": "City Sprint (UK) Ltd",
 		"total": 1708.83,
 		"monthly": {
 			"2017-12": {"total":1708.83, "COURIERS":1708.83}
 		}
 	},
-	"1259": {
+	"1273": {
 		"name": "Civil Service College",
 		"total": 550,
 		"monthly": {
 			"2014-11": {"total":550.00, "STAFF TRAINING":550.00}
 		}
 	},
-	"1260": {
+	"1274": {
 		"name": "Civil Service College Ltd",
 		"alternate-names": [
 			"Civil Service College Limited"
@@ -81,7 +302,7 @@
 			"2017-12": {"total":595.00, "STAFF TRAINING":595.00}
 		}
 	},
-	"1261": {
+	"1275": {
 		"name": "Clearleft Ltd",
 		"alternate-names": [
 			"Clearleft Limited"
@@ -91,21 +312,21 @@
 			"2017-12": {"total":34415.00, "IT CONSULTANCY":34415.00}
 		}
 	},
-	"1262": {
+	"1276": {
 		"name": "Coachhire4U LLP",
 		"total": 377.41,
 		"monthly": {
 			"2014-09": {"total":377.41, "STAFF ENTERTAINMENT":377.41}
 		}
 	},
-	"1263": {
+	"1277": {
 		"name": "Coaching Artistry",
 		"total": 300,
 		"monthly": {
 			"2014-12": {"total":300.00, "EVENT MANAGEMENT FEE":300.00}
 		}
 	},
-	"1264": {
+	"1278": {
 		"name": "Code Enigma Ltd",
 		"alternate-names": [
 			"Code Enigma Limited"
@@ -115,91 +336,91 @@
 			"2017-12": {"total":770.00, "DATA HOSTING EMAIL DESIGN AND TRANSMISSION INC SMS":770.00}
 		}
 	},
-	"1265": {
+	"1279": {
 		"name": "Compass Contract Services (UK) Ltd",
 		"total": 720.22,
 		"monthly": {
 			"2016-07": {"total":720.22, "CATERERS SERVICE CHARGES":720.22}
 		}
 	},
-	"1266": {
+	"1280": {
 		"name": "Compass Services",
 		"total": 853.92,
 		"monthly": {
 			"2015-06": {"total":853.92, "MISCELLANEOUS COSTS":853.92}
 		}
 	},
-	"1267": {
+	"1281": {
 		"name": "Complete Drainage Ltd",
 		"total": 5303.58,
 		"monthly": {
 			"2018-01": {"total":5303.58, "CONTRACTED SERVICES BUILDINGS":5303.58}
 		}
 	},
-	"1268": {
+	"1282": {
 		"name": "Complete Health & Safety Ltd",
 		"total": 1345,
 		"monthly": {
 			"2014-12": {"total":1345.00, "STAFF TRAINING":1345.00}
 		}
 	},
-	"1269": {
+	"1283": {
 		"name": "Congrestolken-secretariaat",
 		"total": 1731.32,
 		"monthly": {
 			"2015-01": {"total":1731.32, "Communities and Intelligence":1731.32}
 		}
 	},
-	"1270": {
+	"1284": {
 		"name": "Conservative Central Office",
 		"total": 2600,
 		"monthly": {
 			"2015-06": {"total":2600.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":2600.00}
 		}
 	},
-	"1271": {
+	"1285": {
 		"name": "Corinthia Hotel London",
 		"total": 1113.93,
 		"monthly": {
 			"2017-12": {"total":1113.93, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":1113.93}
 		}
 	},
-	"1272": {
+	"1286": {
 		"name": "Cornwall Energy Associates Ltd",
 		"total": 395,
 		"monthly": {
 			"2017-12": {"total":395.00, "CONFERENCES & SEMINARS":395.00}
 		}
 	},
-	"1273": {
+	"1287": {
 		"name": "Corona Energy Retail 4 Ltd",
 		"total": 3339.53,
 		"monthly": {
 			"2018-01": {"total":3339.53, "GAS":3339.53}
 		}
 	},
-	"1274": {
+	"1288": {
 		"name": "Corporate Document Services Ltd",
 		"total": 53735.82,
 		"monthly": {
 			"2017-12": {"total":53735.82, "PRINTING":39968.25, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":11405.07, "STAFF TRAINING":1539.30, "STATUTORY ADS NOTICES COMMUNICATIONS & CONSULTATIO":823.20}
 		}
 	},
-	"1275": {
+	"1289": {
 		"name": "County Civil Enforcement Agents",
 		"total": 600,
 		"monthly": {
 			"2014-11": {"total":600.00, "PROPERTY MANAGEMENT FEES":600.00}
 		}
 	},
-	"1276": {
+	"1290": {
 		"name": "Cravenhill Publishing Ltd",
 		"total": 576,
 		"monthly": {
 			"2016-10": {"total":576.00, "MARKETING EXHIBITIONS & EVENTS":576.00}
 		}
 	},
-	"1277": {
+	"1291": {
 		"name": "Create AV (UK) Ltd",
 		"total": 907.2,
 		"monthly": {
@@ -207,49 +428,49 @@
 			"2017-12": {"total":453.60, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":453.60}
 		}
 	},
-	"1278": {
+	"1292": {
 		"name": "Create Cocktails Ltd",
 		"total": 275,
 		"monthly": {
 			"2014-09": {"total":275.00, "EVENT MANAGEMENT FEE":275.00}
 		}
 	},
-	"1279": {
+	"1293": {
 		"name": "Creative & Cultural Skills",
 		"total": 1749.98,
 		"monthly": {
 			"2017-12": {"total":1749.98, "GRANTS TO EXTERNAL ORGANISATIONS":1749.98}
 		}
 	},
-	"1280": {
+	"1294": {
 		"name": "Cushman & Wakefield LLP",
 		"total": 16620,
 		"monthly": {
 			"2017-12": {"total":16620.00, "CONSULTANCY  EVALUATION ASSESSMENT":16620.00}
 		}
 	},
-	"1281": {
+	"1295": {
 		"name": "D - ZINE FURNISHING SOLUTIONS LTD",
 		"total": 303.45,
 		"monthly": {
 			"2014-07": {"total":303.45, "FURNITURE & EQUIPMENT":303.45}
 		}
 	},
-	"1282": {
+	"1296": {
 		"name": "D M FORWOOD",
 		"total": 250,
 		"monthly": {
 			"2020-07": {"total":250.00, "OTHER PROFESSIONAL FEES":250.00}
 		}
 	},
-	"1283": {
+	"1297": {
 		"name": "D&AD",
 		"total": 7380,
 		"monthly": {
 			"2020-01": {"total":7380.00, "MARKETING STRATEGY AND CONSULTANCY":7380.00}
 		}
 	},
-	"1284": {
+	"1298": {
 		"name": "D-LAB STUDIOS",
 		"total": 15322.5,
 		"monthly": {
@@ -257,131 +478,11 @@
 			"2019-07": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
 		}
 	},
-	"1285": {
+	"1299": {
 		"name": "D.J.HOGAN & L R RUBENSTEIN",
 		"total": 7796.46,
 		"monthly": {
 			"2013-12": {"total":7796.46, "Staff Training":7796.46}
-		}
-	},
-	"1286": {
-		"name": "DAC Beachcroft LLP",
-		"total": 35000,
-		"monthly": {
-			"2017-05": {"total":35000.00, "MANAGEMENT & SUPPORT CONSULTANCY":35000.00}
-		}
-	},
-	"1287": {
-		"name": "DAGENHAM BANGLADESHI WN & CN ASSOC",
-		"total": 6000,
-		"monthly": {
-			"2018-05": {"total":4800.00, "GRANTS TO EXTERNAL ORGANISATIONS":4800.00},
-			"2019-03": {"total":1200.00, "GRANTS TO EXTERNAL ORGANISATIONS":1200.00}
-		}
-	},
-	"1288": {
-		"name": "DAGENHAM BANGLADESHI WOMEN & CHILDR",
-		"total": 1500,
-		"monthly": {
-			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
-		}
-	},
-	"1289": {
-		"name": "DAIMLER AG",
-		"total": 437533.52,
-		"monthly": {
-			"2014-07": {"total":272309.56, "GRANTS TO EXTERNAL ORGANISATIONS":272309.56},
-			"2016-02": {"total":60070.50, "GRANTS TO EXTERNAL ORGANISATIONS":60070.50},
-			"2017-08": {"total":105153.46, "GRANTS TO EXTERNAL ORGANISATIONS":105153.46}
-		}
-	},
-	"1290": {
-		"name": "DAISY COMMUNICATIONS LTD",
-		"total": 18450,
-		"monthly": {
-			"2016-09": {"total":18450.00, "COMPUTER HARDWARE":18450.00}
-		}
-	},
-	"1291": {
-		"name": "DAISY CORPORATE SERVICES LTD",
-		"total": 67284.6,
-		"monthly": {
-			"2015-06": {"total":12713.60, "COMPUTER HARDWARE":12713.60},
-			"2015-08": {"total":4305.00, "COMPUTER HARDWARE":4305.00},
-			"2015-10": {"total":2164.00, "MAINTENANCE OF TELECOMMUNICATIONS EQUIPMENT":2164.00},
-			"2016-02": {"total":460.00, "PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":460.00},
-			"2016-03": {"total":460.00, "PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":460.00},
-			"2016-05": {"total":47182.00, "Communities and Intelligence":46707.00, "External Affairs":475.00}
-		}
-	},
-	"1292": {
-		"name": "DAISY NOBLE",
-		"total": 3100,
-		"monthly": {
-			"2020-06": {"total":3100.00, "LEGAL FEES":3100.00}
-		}
-	},
-	"1293": {
-		"name": "DAJON DATA MANAGEMENT LTD",
-		"total": 1451.2,
-		"monthly": {
-			"2014-06": {"total":1451.20, "Data Purchase":1451.20}
-		}
-	},
-	"1294": {
-		"name": "DALLAS-PIERCE-QUINTERO",
-		"total": 12527.64,
-		"monthly": {
-			"2019-02": {"total":3331.66, "GRANTS TO EXTERNAL ORGANISATIONS":3331.66},
-			"2019-06": {"total":4664.32, "GRANTS TO EXTERNAL ORGANISATIONS":4664.32},
-			"2019-09": {"total":1200.00, "GRANTS TO EXTERNAL ORGANISATIONS":1200.00},
-			"2019-11": {"total":3331.66, "GRANTS TO EXTERNAL ORGANISATIONS":3331.66}
-		}
-	},
-	"1295": {
-		"name": "DALMAIN SCHOOL",
-		"total": 1450,
-		"monthly": {
-			"2014-08": {"total":1450.00, "GRANTS TO EXTERNAL ORGANISATIONS":1450.00}
-		}
-	},
-	"1296": {
-		"name": "DAMIAN ORTEGA STUDIO",
-		"total": 7000,
-		"monthly": {
-			"2017-04": {"total":7000.00, "OTHER PROFESSIONAL FEES":7000.00}
-		}
-	},
-	"1297": {
-		"name": "DAMILOLA TAYLOR TRUST",
-		"total": 24000,
-		"monthly": {
-			"2020-02": {"total":24000.00, "GRANTS TO EXTERNAL ORGANISATIONS":24000.00}
-		}
-	},
-	"1298": {
-		"name": "DAMMIT LTD",
-		"total": 750,
-		"monthly": {
-			"2015-10": {"total":750.00, "PHOTOGRAPHY & VIDEO":750.00}
-		}
-	},
-	"1299": {
-		"name": "DAMOVO UK LTD",
-		"total": 307307,
-		"monthly": {
-			"2013-04": {"total":42082.00, "Maintenance of Telecommunications Equipment":37145.00, "Software Maintenance":4937.00},
-			"2013-06": {"total":2371.00, "Computer Hardware":2371.00},
-			"2013-09": {"total":2479.00, "Computer Software":2124.00, "Software Maintenance":355.00},
-			"2013-11": {"total":670.00, "Computer Hardware":670.00},
-			"2013-12": {"total":66267.00, "Purchase of Telecommunications Equipment":66267.00},
-			"2014-03": {"total":94761.20, "Purchase of Telecommunications Equipment":94761.20},
-			"2014-05": {"total":46053.80, "Maintenance of Telecommunications Equipment":37646.00, "Purchase of Telecommunications Equipment":8407.80},
-			"2014-06": {"total":320.00, "PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":320.00},
-			"2014-10": {"total":517.00, "PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":517.00},
-			"2015-01": {"total":1302.00, "Resources":1302.00},
-			"2015-04": {"total":10012.00, "MAINTENANCE OF TELECOMMUNICATIONS EQUIPMENT":5794.00, "MANAGE IT SERVICES":4218.00},
-			"2015-05": {"total":40472.00, "MAINTENANCE OF TELECOMMUNICATIONS EQUIPMENT":40472.00}
 		}
 	}
 	}

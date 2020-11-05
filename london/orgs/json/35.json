@@ -1,56 +1,322 @@
 {
-	"range": ["2013-04","2020-07"],
+	"range": ["2013-04","2020-09"],
 	"data": {
 	"1750": {
+		"name": "EXCEL LONDON",
+		"total": 150646,
+		"monthly": {
+			"2014-07": {"total":13176.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":13176.00},
+			"2014-12": {"total":15440.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":15440.00},
+			"2015-09": {"total":39528.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":39528.00},
+			"2016-01": {"total":79056.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":79056.00},
+			"2017-01": {"total":3446.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":3446.00}
+		}
+	},
+	"1751": {
+		"name": "EXCELL BUSINESS SYSTEMS LTD",
+		"alternate-names": [
+			"EXCELL BUSINESS SYSTEMS LIMITED"
+		],
+		"total": 65323.13,
+		"monthly": {
+			"2014-08": {"total":2669.38, "GRANTS TO EXTERNAL ORGANISATIONS":2669.38},
+			"2014-09": {"total":2131.18, "GRANTS TO EXTERNAL ORGANISATIONS":2131.18},
+			"2014-11": {"total":4793.40, "GRANTS TO EXTERNAL ORGANISATIONS":4793.40},
+			"2015-01": {"total":2919.10, "Development & Environment":2919.10},
+			"2015-02": {"total":1970.00, "Development & Environment":1970.00},
+			"2015-03": {"total":11255.16, "GRANTS TO EXTERNAL ORGANISATIONS":11255.16},
+			"2015-05": {"total":5758.91, "GRANTS TO EXTERNAL ORGANISATIONS":5758.91},
+			"2015-07": {"total":11682.50, "GRANTS TO EXTERNAL ORGANISATIONS":11682.50},
+			"2015-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-01": {"total":15524.20, "GRANTS TO EXTERNAL ORGANISATIONS":15524.20},
+			"2016-02": {"total":648.05, "GRANTS TO EXTERNAL ORGANISATIONS":648.05},
+			"2016-05": {"total":2971.25, "Resources":2971.25}
+		}
+	},
+	"1752": {
+		"name": "EXCITECH",
+		"total": 11819.15,
+		"monthly": {
+			"2013-04": {"total":11819.15, "Computer Software":9259.16, "Software Maintenance":2559.99}
+		}
+	},
+	"1753": {
+		"name": "EXCITECH LTD",
+		"total": 18322,
+		"monthly": {
+			"2014-10": {"total":3197.00, "SOFTWARE MAINTENANCE":3197.00},
+			"2015-08": {"total":4460.00, "SOFTWARE MAINTENANCE":4460.00},
+			"2016-08": {"total":4515.00, "SOFTWARE MAINTENANCE":4515.00},
+			"2017-08": {"total":6150.00, "SOFTWARE MAINTENANCE":6150.00}
+		}
+	},
+	"1754": {
+		"name": "EXHIBITION POWER LTD",
+		"alternate-names": [
+			"EXHIBITION POWER LIMITED"
+		],
+		"total": 1284.5,
+		"monthly": {
+			"2017-02": {"total":1284.50, "PRINTING":1284.50}
+		}
+	},
+	"1755": {
+		"name": "EXPEDITION ENGINEERING LTD",
+		"total": 1612.99,
+		"monthly": {
+			"2020-06": {"total":1612.99, "CONSULTANCY-COMMISSIONED REPORT":1612.99}
+		}
+	},
+	"1756": {
+		"name": "EXPENSE PAID TO THIRD PARTIES",
+		"total": 1654.86,
+		"monthly": {
+			"2016-11": {"total":1174.61, "BUSINESS FARES":1174.61},
+			"2016-12": {"total":480.25, "BUSINESS FARES":480.25}
+		}
+	},
+	"1757": {
+		"name": "EXPENSES AID TO THIRD PARTIES",
+		"total": 375,
+		"monthly": {
+			"2019-11": {"total":375.00, "STAFF MEDICAL INSURANCE & TREATMENT":375.00}
+		}
+	},
+	"1758": {
+		"name": "EXPENSES PAID TO 3RD PARTIES",
+		"total": 536.7,
+		"monthly": {
+			"2014-12": {"total":286.70, "BUSINESS FARES":286.70},
+			"2015-01": {"total":250.00, "Communities and Intelligence":250.00}
+		}
+	},
+	"1759": {
+		"name": "EXPENSES PAID TO 3rd PARTIES",
+		"total": 350,
+		"monthly": {
+			"2013-10": {"total":350.00, "Marketing Exhibitions & Events":350.00}
+		}
+	},
+	"1760": {
+		"name": "EXPENSES PAID TO THIRD PARTIES",
+		"total": 501021.48,
+		"monthly": {
+			"2013-10": {"total":297.00, "Business Fares":297.00},
+			"2014-01": {"total":1867.30, "Business Fares":1867.30},
+			"2014-08": {"total":252.40, "BUSINESS FARES":252.40},
+			"2014-09": {"total":734.40, "BUSINESS FARES":734.40},
+			"2015-04": {"total":1207.00, "HOTEL ACCOMMODATION":1207.00},
+			"2015-05": {"total":1500.00, "MISCELLANEOUS FINANCE EXPENSES":1500.00},
+			"2015-08": {"total":1367.84, "BUSINESS FARES":267.62, "HOTEL ACCOMMODATION":568.82, "TRAVEL TO/FROM WORK (UNSOCIAL HOURS)":531.40},
+			"2015-09": {"total":1342.60, "BUSINESS FARES":542.60, "MISCELLANEOUS FINANCE EXPENSES":800.00},
+			"2016-02": {"total":258.10, "BUSINESS FARES":258.10},
+			"2016-05": {"total":11135.00, "Development, Enterprise & Environment":1070.00, "Assembly & Secretariat":2475.00, "Communities and Intelligence":2550.00, "Development & Environment":2830.00, "Resources":2210.00},
+			"2016-06": {"total":250.00, "BUSINESS FARES":250.00},
+			"2016-09": {"total":300.00, "EQUIPMENT HIRE & RENTAL":300.00},
+			"2016-10": {"total":1380.12, "BUSINESS FARES":1380.12},
+			"2016-11": {"total":316.00, "HOTEL ACCOMMODATION":316.00},
+			"2017-03": {"total":308.00, "BUSINESS FARES":308.00},
+			"2017-07": {"total":589.85, "OTHER PROFESSIONAL FEES":589.85},
+			"2018-09": {"total":2609.08, "NON-GLA BUSINESS FARES":1075.56, "NON-GLA STAFF-HOTEL ACCOMMODATION":358.52, "OTHER PROFESSIONAL FEES":1175.00},
+			"2018-10": {"total":37293.75, "LEGAL FEES":33332.00, "NON-GLA BUSINESS FARES":1224.45, "OTHER PROFESSIONAL FEES":1210.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":1155.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":372.30},
+			"2018-11": {"total":17693.65, "CONSULTANCY-PROJECT MANAGEMENT":3000.00, "LEGAL FEES":2280.00, "MANAGEMENT & SUPPORT CONSULTANCY":640.00, "MARKETING EXHIBITIONS & EVENTS":450.00, "MARKETING SERVICES":1000.00, "OTHER PROFESSIONAL FEES":10323.65},
+			"2018-12": {"total":6397.01, "CONSULTANCY-PROJECT MANAGEMENT":500.00, "OTHER PROFESSIONAL FEES":5897.01},
+			"2019-01": {"total":5976.90, "MANAGEMENT & SUPPORT CONSULTANCY":1356.90, "OTHER PROFESSIONAL FEES":4620.00},
+			"2019-02": {"total":21728.70, "CONSULTANCY-PROJECT MANAGEMENT":16709.00, "NON-GLA BUSINESS FARES":303.90, "OTHER PROFESSIONAL FEES":3315.80, "PLANNING & DEVELOPMENT CONSULTANCY":1400.00},
+			"2019-03": {"total":11370.65, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":340.83, "LEGAL FEES":4100.00, "MARKETING EXHIBITIONS & EVENTS":2200.00, "NON-GLA BUSINESS FARES":321.01, "OTHER PROFESSIONAL FEES":4408.81},
+			"2019-04": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00},
+			"2019-05": {"total":13712.80, "MANAGEMENT & SUPPORT CONSULTANCY":2160.00, "MARKETING EXHIBITIONS & EVENTS":10000.00, "NON-GLA BUSINESS FARES":1102.80, "NON-GLA STAFF-MEALS":450.00},
+			"2019-06": {"total":2188.03, "MARKETING EXHIBITIONS & EVENTS":1618.03, "OTHER PROFESSIONAL FEES":570.00},
+			"2019-07": {"total":1550.00, "MARKETING EXHIBITIONS & EVENTS":500.00, "OTHER PROFESSIONAL FEES":800.00, "PHOTOGRAPHY & VIDEO":250.00},
+			"2019-08": {"total":6840.00, "MARKETING EXHIBITIONS & EVENTS":6390.00, "OTHER PROFESSIONAL FEES":450.00},
+			"2019-09": {"total":7921.30, "MANAGE IT SERVICES":5130.00, "NON-GLA BUSINESS FARES":1791.30, "OTHER PROFESSIONAL FEES":1000.00},
+			"2019-10": {"total":425.00, "NON-GLA BUSINESS FARES":425.00},
+			"2019-11": {"total":13434.53, "GRANTS TO EXTERNAL ORGANISATIONS":13066.28, "NON-GLA STAFF-HOTEL ACCOMMODATION":368.25},
+			"2019-12": {"total":1167.50, "OTHER PROFESSIONAL FEES":1167.50},
+			"2020-01": {"total":25499.50, "ART AND POETRY INSTALLATIONS AND PROGRAMMES":337.00, "CONSULTANCY-PROJECT MANAGEMENT":6000.00, "LEGAL FEES":4462.50, "OTHER PROFESSIONAL FEES":8750.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":1900.00, "PLANNING & DEVELOPMENT CONSULTANCY":3000.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":1050.00},
+			"2020-02": {"total":23953.65, "CONSULTANCY  EVALUATION ASSESSMENT":1400.00, "CONSULTANCY-PROJECT MANAGEMENT":20500.00, "NON-GLA BUSINESS FARES":253.65, "PLANNING & DEVELOPMENT CONSULTANCY":1800.00},
+			"2020-03": {"total":215567.67, "CATERERS SERVICE CHARGES":415.00, "CONSULTANCY-COMMISSIONED REPORT":1200.00, "CONSULTANCY-PROJECT MANAGEMENT":23000.00, "EVENT MANAGEMENT FEE":424.00, "LEGAL FEES":146003.00, "MANAGEMENT & SUPPORT CONSULTANCY":1500.00, "NON-GLA BUSINESS FARES":830.23, "NON-GLA STAFF-HOTEL ACCOMMODATION":593.34, "NON-GLA STAFF-OTHER EXPENSES":4000.00, "OTHER PROFESSIONAL FEES":33367.10, "PHOTOGRAPHY & VIDEO":1050.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":1400.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":1785.00},
+			"2020-04": {"total":60313.15, "CONSULTANCY-COMMISSIONED REPORT":1950.00, "CONSULTANCY-PROJECT MANAGEMENT":18963.56, "LEGAL FEES":12501.50, "MISCELLANEOUS COSTS":1637.86, "NON-GLA STAFF-OTHER EXPENSES":265.23, "OTHER PROFESSIONAL FEES":12785.00, "PHOTOGRAPHY & VIDEO":350.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":1950.00, "PLANNING & DEVELOPMENT CONSULTANCY":1300.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":1360.00, "PUBLICATIONS & PERIODICALS":1400.00, "RESEARCH & STUDY FEES":5850.00},
+			"2020-05": {"total":1000.00, "FURNITURE & EQUIPMENT":250.00, "STAFF TRAINING":750.00},
+			"2020-06": {"total":273.00, "NON-GLA STAFF-OTHER EXPENSES":273.00}
+		}
+	},
+	"1761": {
+		"name": "EXPENSES PAID TO THIRD PARTY",
+		"total": 485.15,
+		"monthly": {
+			"2016-03": {"total":485.15, "BUSINESS FARES":485.15}
+		}
+	},
+	"1762": {
+		"name": "EXPERIAN LTD",
+		"alternate-names": [
+			"EXPERIAN LIMITED"
+		],
+		"total": 225475,
+		"monthly": {
+			"2013-04": {"total":35000.00, "Research & Study Fees":35000.00},
+			"2013-11": {"total":4925.00, "Research & Study Fees":4925.00},
+			"2014-03": {"total":28000.00, "Publications & Periodicals":28000.00},
+			"2015-01": {"total":14000.00, "Communities and Intelligence":14000.00},
+			"2015-12": {"total":14000.00, "PUBLICATIONS & PERIODICALS":14000.00},
+			"2017-01": {"total":36000.00, "CONSULTANCY-COMMISSIONED REPORT":36000.00},
+			"2017-02": {"total":40800.00, "CONSULTANCY-COMMISSIONED REPORT":26800.00, "DATA PURCHASE":14000.00},
+			"2017-04": {"total":14750.00, "CONSULTANCY-COMMISSIONED REPORT":14750.00},
+			"2018-01": {"total":14000.00, "DATA PURCHASE":14000.00},
+			"2019-02": {"total":14000.00, "DATA PURCHASE":14000.00},
+			"2020-03": {"total":10000.00, "DATA PURCHASE":10000.00}
+		}
+	},
+	"1763": {
+		"name": "EXPERIENCECO",
+		"total": 76986.92,
+		"monthly": {
+			"2013-07": {"total":10032.00, "Marketing Exhibitions & Events":10032.00},
+			"2013-10": {"total":780.00, "Marketing Exhibitions & Events":780.00},
+			"2014-01": {"total":1087.92, "Marketing Exhibitions & Events":1087.92},
+			"2014-02": {"total":54534.00, "Event Management Fee":34050.00, "Marketing Exhibitions & Events":20484.00},
+			"2014-04": {"total":10553.00, "Marketing Exhibitions & Events":10553.00}
+		}
+	},
+	"1764": {
+		"name": "EXPONENTIAL-E",
+		"total": 629214.96,
+		"monthly": {
+			"2014-06": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00, "Grants to External Organisations":6000.00},
+			"2014-07": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2014-09": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00},
+			"2014-10": {"total":7262.00, "GRANTS TO EXTERNAL ORGANISATIONS":7262.00},
+			"2014-11": {"total":12000.00, "GRANTS TO EXTERNAL ORGANISATIONS":12000.00},
+			"2014-12": {"total":20500.00, "GRANTS TO EXTERNAL ORGANISATIONS":20500.00},
+			"2015-01": {"total":25900.00, "Development & Environment":25900.00},
+			"2015-02": {"total":8999.00, "Development & Environment":8999.00},
+			"2015-03": {"total":44718.00, "GRANTS TO EXTERNAL ORGANISATIONS":44718.00},
+			"2015-04": {"total":36000.00, "GRANTS TO EXTERNAL ORGANISATIONS":36000.00},
+			"2015-05": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2015-07": {"total":18000.00, "GRANTS TO EXTERNAL ORGANISATIONS":18000.00},
+			"2015-08": {"total":12000.00, "GRANTS TO EXTERNAL ORGANISATIONS":12000.00},
+			"2015-09": {"total":115085.96, "GRANTS TO EXTERNAL ORGANISATIONS":115085.96},
+			"2015-10": {"total":36000.00, "GRANTS TO EXTERNAL ORGANISATIONS":36000.00},
+			"2015-11": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2015-12": {"total":38306.00, "GRANTS TO EXTERNAL ORGANISATIONS":38306.00},
+			"2016-01": {"total":37365.00, "GRANTS TO EXTERNAL ORGANISATIONS":37365.00},
+			"2016-02": {"total":32509.00, "GRANTS TO EXTERNAL ORGANISATIONS":32509.00},
+			"2016-03": {"total":83866.00, "GRANTS TO EXTERNAL ORGANISATIONS":83866.00},
+			"2016-04": {"total":20704.00, "Development & Environment":20704.00},
+			"2016-06": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-07": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-08": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-09": {"total":12000.00, "GRANTS TO EXTERNAL ORGANISATIONS":12000.00},
+			"2016-10": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2017-01": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"1765": {
+		"name": "EXTERION MEDIA (UK) LTD",
+		"alternate-names": [
+			"EXTERION MEDIA (UK) LIMITED"
+		],
+		"total": 15750,
+		"monthly": {
+			"2015-03": {"total":9000.00, "EQUIPMENT REPAIRS & MAINTENANCE":9000.00},
+			"2016-04": {"total":6750.00, "Assembly & Secretariat":6750.00}
+		}
+	},
+	"1766": {
+		"name": "EXTRIUM",
+		"total": 55970.34,
+		"monthly": {
+			"2013-12": {"total":14594.00, "Management & Support Consultancy":14594.00},
+			"2014-03": {"total":11710.54, "Management & Support Consultancy":11710.54},
+			"2016-03": {"total":5000.00, "MANAGEMENT & SUPPORT CONSULTANCY":5000.00},
+			"2016-05": {"total":5000.00, "Housing":5000.00},
+			"2016-10": {"total":7000.00, "GRANTS TO EXTERNAL ORGANISATIONS":7000.00},
+			"2017-03": {"total":10665.80, "MANAGEMENT & SUPPORT CONSULTANCY":10665.80},
+			"2017-10": {"total":2000.00, "MANAGEMENT & SUPPORT CONSULTANCY":2000.00}
+		}
+	},
+	"1767": {
+		"name": "EZPC LTD",
+		"alternate-names": [
+			"EZPC LIMITED"
+		],
+		"total": 3000,
+		"monthly": {
+			"2015-05": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"1768": {
+		"name": "Eat Jollof London Ltd",
+		"total": 537.5,
+		"monthly": {
+			"2015-01": {"total":537.50, "Communities and Intelligence":537.50}
+		}
+	},
+	"1769": {
+		"name": "Eleanor Bentall",
+		"total": 345,
+		"monthly": {
+			"2015-03": {"total":345.00, "MISCELLANEOUS COSTS":345.00}
+		}
+	},
+	"1770": {
+		"name": "Emily Young Sculpture",
+		"total": 1000,
+		"monthly": {
+			"2017-03": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00}
+		}
+	},
+	"1771": {
 		"name": "Enfield Learning Trust",
 		"total": 10000,
 		"monthly": {
 			"2018-12": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
 		}
 	},
-	"1751": {
+	"1772": {
 		"name": "England Athletics",
 		"total": 1500,
 		"monthly": {
 			"2014-10": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
 		}
 	},
-	"1752": {
+	"1773": {
 		"name": "Enjoy Presenting",
 		"total": 750,
 		"monthly": {
 			"2015-03": {"total":750.00, "STAFF TRAINING":750.00}
 		}
 	},
-	"1753": {
+	"1774": {
 		"name": "Entelechy Arts",
 		"total": 9974,
 		"monthly": {
 			"2017-03": {"total":9974.00, "GRANTS TO EXTERNAL ORGANISATIONS":9974.00}
 		}
 	},
-	"1754": {
+	"1775": {
 		"name": "Entrepreneur First CIC",
 		"total": 545.83,
 		"monthly": {
 			"2016-10": {"total":545.83, "STAFF TRAINING":545.83}
 		}
 	},
-	"1755": {
+	"1776": {
 		"name": "Erica Bolton & Jane Quinn Ltd",
 		"total": 6000,
 		"monthly": {
 			"2018-01": {"total":6000.00, "PHOTOGRAPHY & VIDEO":6000.00}
 		}
 	},
-	"1756": {
+	"1777": {
 		"name": "Evans & Levete",
 		"total": 1250,
 		"monthly": {
 			"2017-06": {"total":1250.00, "OTHER PROFESSIONAL FEES":1250.00}
 		}
 	},
-	"1757": {
+	"1778": {
 		"name": "Event Concept Ltd",
 		"alternate-names": [
 			"Event Concept Limited"
@@ -60,21 +326,21 @@
 			"2015-03": {"total":4332.00, "EVENT MANAGEMENT FEE":4332.00}
 		}
 	},
-	"1758": {
+	"1779": {
 		"name": "Eversheds",
 		"total": 558994.83,
 		"monthly": {
 			"2014-11": {"total":558994.83, "CLAIM SETTLEMENTS":558994.83}
 		}
 	},
-	"1759": {
+	"1780": {
 		"name": "Eversheds LLP",
 		"total": 5867076.94,
 		"monthly": {
 			"2016-04": {"total":5867076.94, "Housing":5867076.94}
 		}
 	},
-	"1760": {
+	"1781": {
 		"name": "Expenses Paid to Third Parties",
 		"total": 22299.93,
 		"monthly": {
@@ -84,7 +350,7 @@
 			"2017-09": {"total":1427.33, "MINOR STAFF EXPENSES":681.77, "Non-GLA Business Fares":316.56, "Non-GLA staff-Hotel Accommodation":429.00}
 		}
 	},
-	"1761": {
+	"1782": {
 		"name": "Expenses paid to third parties",
 		"total": 4679.02,
 		"monthly": {
@@ -92,7 +358,7 @@
 			"2017-11": {"total":939.02, "BUSINESS ENTERTAINING":939.02}
 		}
 	},
-	"1762": {
+	"1783": {
 		"name": "F M CONWAY LTD",
 		"total": 9907.6,
 		"monthly": {
@@ -100,7 +366,7 @@
 			"2014-08": {"total":6407.60, "CONSULTANCY-COMMISSIONED REPORT":6407.60}
 		}
 	},
-	"1763": {
+	"1784": {
 		"name": "F&Y LTD",
 		"alternate-names": [
 			"F&Y LIMITED"
@@ -110,7 +376,7 @@
 			"2018-11": {"total":1500.00, "OTHER PROFESSIONAL FEES":1500.00}
 		}
 	},
-	"1764": {
+	"1785": {
 		"name": "F6S NETWORK LTD",
 		"alternate-names": [
 			"F6S NETWORK LIMITED"
@@ -120,7 +386,7 @@
 			"2020-01": {"total":3000.00, "CONSULTANCY-COMMISSIONED REPORT":3000.00}
 		}
 	},
-	"1765": {
+	"1786": {
 		"name": "FACE EVENTS LTD",
 		"total": 46517.02,
 		"monthly": {
@@ -128,14 +394,14 @@
 			"2017-03": {"total":5517.02, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":5517.02}
 		}
 	},
-	"1766": {
+	"1787": {
 		"name": "FACTIVA LIMTED",
 		"total": 3108,
 		"monthly": {
 			"2017-11": {"total":3108.00, "PR COST PRODUCT COST & PR FEES":3108.00}
 		}
 	},
-	"1767": {
+	"1788": {
 		"name": "FACTIVA LTD",
 		"alternate-names": [
 			"FACTIVA LIMITED"
@@ -147,7 +413,7 @@
 			"2020-05": {"total":3345.48, "SOCIAL MEDIA AND DIGITAL ADVERTISING SPACE":3345.48}
 		}
 	},
-	"1768": {
+	"1789": {
 		"name": "FACULTY",
 		"total": 11000,
 		"monthly": {
@@ -156,14 +422,14 @@
 			"2015-10": {"total":2900.00, "CONSULTANCY-PROJECT MANAGEMENT":400.00, "OTHER PROFESSIONAL FEES":2500.00}
 		}
 	},
-	"1769": {
+	"1790": {
 		"name": "FAIRFIELD HALLS",
 		"total": 5767.22,
 		"monthly": {
 			"2016-05": {"total":5767.22, "Development, Enterprise & Environment":5767.22}
 		}
 	},
-	"1770": {
+	"1791": {
 		"name": "FAIRLAWN PRIMARY SCHOOL",
 		"total": 198605,
 		"monthly": {
@@ -175,7 +441,7 @@
 			"2016-01": {"total":18055.00, "GRANTS TO EXTERNAL ORGANISATIONS":18055.00}
 		}
 	},
-	"1771": {
+	"1792": {
 		"name": "FAIRVIEW NEW HOMES LTD",
 		"alternate-names": [
 			"FAIRVIEW NEW HOMES LIMITED"
@@ -185,14 +451,14 @@
 			"2013-05": {"total":13799.00, "HSG GRANTS TO NON-REGISTERED PROVIDERS":13799.00}
 		}
 	},
-	"1772": {
+	"1793": {
 		"name": "FAITHCHILD",
 		"total": 1050,
 		"monthly": {
 			"2017-01": {"total":1050.00, "MISCELLANEOUS COSTS":1050.00}
 		}
 	},
-	"1773": {
+	"1794": {
 		"name": "FAITHS FORUM FOR LONDON",
 		"total": 12000,
 		"monthly": {
@@ -201,14 +467,15 @@
 			"2020-03": {"total":2000.00, "GRANTS TO EXTERNAL ORGANISATIONS":2000.00}
 		}
 	},
-	"1774": {
+	"1795": {
 		"name": "FAMILY ACTION",
-		"total": 23914.08,
+		"total": 47828.16,
 		"monthly": {
-			"2020-03": {"total":23914.08, "GRANTS TO EXTERNAL ORGANISATIONS":23914.08}
+			"2020-03": {"total":23914.08, "GRANTS TO EXTERNAL ORGANISATIONS":23914.08},
+			"2020-08": {"total":23914.08, "GRANTS TO EXTERNAL ORGANISATIONS":23914.08}
 		}
 	},
-	"1775": {
+	"1796": {
 		"name": "FAMILY AND CHILDCARE TRUST",
 		"total": 74135,
 		"monthly": {
@@ -220,7 +487,7 @@
 			"2018-03": {"total":4050.00, "CONSULTANCY  EVALUATION ASSESSMENT":4050.00}
 		}
 	},
-	"1776": {
+	"1797": {
 		"name": "FAMILY KIDS AND YOUTH",
 		"total": 25650,
 		"monthly": {
@@ -228,7 +495,7 @@
 			"2020-04": {"total":13300.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":2210.00, "RESEARCH & STUDY FEES":11090.00}
 		}
 	},
-	"1777": {
+	"1798": {
 		"name": "FAMILY LIVES",
 		"total": 14971,
 		"monthly": {
@@ -236,7 +503,7 @@
 			"2019-12": {"total":7485.00, "GRANTS TO EXTERNAL ORGANISATIONS":7485.00}
 		}
 	},
-	"1778": {
+	"1799": {
 		"name": "FAMILY MOSAIC HOUSING ASSOCIATION",
 		"total": 42785520,
 		"monthly": {
@@ -261,188 +528,6 @@
 			"2018-03": {"total":6077601.00, "HSG GRANTS TO REGISTERED PROVIDERS":6077601.00},
 			"2019-04": {"total":342000.00, "HSG GRANTS TO REGISTERED PROVIDERS":342000.00},
 			"2019-05": {"total":144000.00, "HSG GRANTS TO REGISTERED PROVIDERS":144000.00}
-		}
-	},
-	"1779": {
-		"name": "FARNHAM GREEN PRIMARY SCHOOL",
-		"total": 1000,
-		"monthly": {
-			"2017-04": {"total":1000.00, "GRANTS TO EXTERNAL ORGANISATIONS":1000.00}
-		}
-	},
-	"1780": {
-		"name": "FASHION RETAIL ACADEMY",
-		"total": 544246,
-		"monthly": {
-			"2015-10": {"total":477795.26, "GRANTS TO EXTERNAL ORGANISATIONS":477795.26},
-			"2016-02": {"total":47696.03, "GRANTS TO EXTERNAL ORGANISATIONS":47696.03},
-			"2016-03": {"total":18754.71, "GRANTS TO EXTERNAL ORGANISATIONS":18754.71}
-		}
-	},
-	"1781": {
-		"name": "FASHION-ENTER LTD",
-		"total": 126206.15,
-		"monthly": {
-			"2019-10": {"total":47500.00, "GRANTS TO EXTERNAL ORGANISATIONS":47500.00},
-			"2020-02": {"total":13947.37, "GRANTS TO EXTERNAL ORGANISATIONS":13947.37},
-			"2020-04": {"total":13881.58, "GRANTS TO EXTERNAL ORGANISATIONS":13881.58},
-			"2020-05": {"total":32149.14, "GRANTS TO EXTERNAL ORGANISATIONS":32149.14},
-			"2020-07": {"total":18728.06, "GRANTS TO EXTERNAL ORGANISATIONS":18728.06}
-		}
-	},
-	"1782": {
-		"name": "FAST COMPLIANCE LTD",
-		"total": 27150,
-		"monthly": {
-			"2015-08": {"total":9050.00, "SOFTWARE MAINTENANCE":9050.00},
-			"2017-03": {"total":9050.00, "SOFTWARE MAINTENANCE":9050.00},
-			"2018-02": {"total":9050.00, "SOFTWARE MAINTENANCE":9050.00}
-		}
-	},
-	"1783": {
-		"name": "FAST CORPORATE",
-		"total": 9050,
-		"monthly": {
-			"2018-09": {"total":9050.00, "SOFTWARE MAINTENANCE":9050.00}
-		}
-	},
-	"1784": {
-		"name": "FAST CORPORATE SERVICES LTD",
-		"total": 18100,
-		"monthly": {
-			"2013-07": {"total":6740.00, "Publications & Periodicals":6740.00},
-			"2014-03": {"total":4620.00, "Publications & Periodicals":4620.00},
-			"2015-01": {"total":6740.00, "Resources":6740.00}
-		}
-	},
-	"1785": {
-		"name": "FASTNET",
-		"total": 20808.2,
-		"monthly": {
-			"2014-11": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-03": {"total":2080.20, "GRANTS TO EXTERNAL ORGANISATIONS":2080.20},
-			"2015-05": {"total":758.00, "GRANTS TO EXTERNAL ORGANISATIONS":758.00},
-			"2016-01": {"total":8970.00, "GRANTS TO EXTERNAL ORGANISATIONS":8970.00},
-			"2016-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2016-04": {"total":3000.00, "Development & Environment":3000.00}
-		}
-	},
-	"1786": {
-		"name": "FATHER NATURE LTD",
-		"total": 7500,
-		"monthly": {
-			"2016-11": {"total":7500.00, "GRANTS TO EXTERNAL ORGANISATIONS":7500.00}
-		}
-	},
-	"1787": {
-		"name": "FAVERSHAM HOUSE LTD",
-		"total": 670,
-		"monthly": {
-			"2016-07": {"total":335.00, "OTHER PROFESSIONAL FEES":335.00},
-			"2018-05": {"total":335.00, "CONFERENCES & SEMINARS":335.00}
-		}
-	},
-	"1788": {
-		"name": "FEAR PR",
-		"total": 3500,
-		"monthly": {
-			"2016-03": {"total":3500.00, "MARKETING DESIGN & ARTWORK":3500.00}
-		}
-	},
-	"1789": {
-		"name": "FEARLESS FUTURES",
-		"total": 8000,
-		"monthly": {
-			"2019-03": {"total":8000.00, "STAFF TRAINING":8000.00}
-		}
-	},
-	"1790": {
-		"name": "FEAST CATERING LTD",
-		"alternate-names": [
-			"FEAST CATERING LIMITED"
-		],
-		"total": 1330,
-		"monthly": {
-			"2018-11": {"total":1330.00, "CATERERS SERVICE CHARGES":1330.00}
-		}
-	},
-	"1791": {
-		"name": "FEAST LONDON LTD",
-		"total": 2232.7,
-		"monthly": {
-			"2013-09": {"total":994.00, "External Meeting Room Hire & Expenses":994.00},
-			"2013-11": {"total":1238.70, "External Meeting Room Hire & Expenses":1238.70}
-		}
-	},
-	"1792": {
-		"name": "FEATHERSTONE HIGH SCHOOL",
-		"total": 41333,
-		"monthly": {
-			"2018-08": {"total":16333.00, "GRANTS TO EXTERNAL ORGANISATIONS":16333.00},
-			"2019-06": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00}
-		}
-	},
-	"1793": {
-		"name": "FEDERATION OF SMALL BUSINESSES LTD",
-		"total": 25000,
-		"monthly": {
-			"2017-05": {"total":22000.00, "CONSULTANCY-COMMISSIONED REPORT":22000.00},
-			"2019-02": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
-		}
-	},
-	"1794": {
-		"name": "FEELGOOD CONTENT LTD",
-		"total": 20000,
-		"monthly": {
-			"2018-03": {"total":5000.00, "RESEARCH & STUDY FEES":5000.00},
-			"2018-06": {"total":5000.00, "RESEARCH & STUDY FEES":5000.00},
-			"2018-08": {"total":10000.00, "CONSULTANCY-PROJECT MANAGEMENT":10000.00}
-		}
-	},
-	"1795": {
-		"name": "FEILDEN FOWLES ARCHITECT LTD",
-		"total": 12737.7,
-		"monthly": {
-			"2017-07": {"total":11904.20, "CONSULTANCY-COMMISSIONED REPORT":11904.20},
-			"2018-03": {"total":833.50, "CONSULTANCY-COMMISSIONED REPORT":833.50}
-		}
-	},
-	"1796": {
-		"name": "FELIX DEXTER FOUNDATION",
-		"total": 1500,
-		"monthly": {
-			"2019-01": {"total":1500.00, "OTHER PROFESSIONAL FEES":1500.00}
-		}
-	},
-	"1797": {
-		"name": "FFT ASPIRE",
-		"total": 3000,
-		"monthly": {
-			"2017-03": {"total":3000.00, "CORPORATE SUBSCRIPTIONS":3000.00}
-		}
-	},
-	"1798": {
-		"name": "FFT EDUCATION LTD",
-		"alternate-names": [
-			"FFT EDUCATION LIMITED"
-		],
-		"total": 6800,
-		"monthly": {
-			"2018-10": {"total":3300.00, "PUBLICATIONS & PERIODICALS":3300.00},
-			"2019-09": {"total":3500.00, "PUBLICATIONS & PERIODICALS":3500.00}
-		}
-	},
-	"1799": {
-		"name": "FIBRE OPTIONS",
-		"total": 107569,
-		"monthly": {
-			"2015-01": {"total":16721.00, "Development & Environment":16721.00},
-			"2015-02": {"total":12488.00, "Development & Environment":12488.00},
-			"2015-03": {"total":31880.00, "GRANTS TO EXTERNAL ORGANISATIONS":31880.00},
-			"2015-04": {"total":32528.00, "GRANTS TO EXTERNAL ORGANISATIONS":32528.00},
-			"2015-05": {"total":9976.00, "GRANTS TO EXTERNAL ORGANISATIONS":9976.00},
-			"2015-08": {"total":3488.00, "GRANTS TO EXTERNAL ORGANISATIONS":3488.00},
-			"2016-01": {"total":488.00, "GRANTS TO EXTERNAL ORGANISATIONS":488.00}
 		}
 	}
 	}

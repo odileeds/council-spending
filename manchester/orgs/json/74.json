@@ -1,14 +1,337 @@
 {
-	"range": ["2010-12","2020-07"],
+	"range": ["2010-12","2020-09"],
 	"data": {
 	"3700": {
+		"name": "Department of Health",
+		"total": 193875.77,
+		"monthly": {
+			"2012-11": {"total":68386.45, "Adult Social Care":3807.49, "Chief Executives":64578.96},
+			"2013-02": {"total":14617.50, "Chief Executives":14617.50},
+			"2013-04": {"total":11325.73, "Chief Executives":11325.73},
+			"2013-10": {"total":29235.00, "Chief Executives":29235.00},
+			"2014-03": {"total":17120.25, "Investment Core Strategy":17120.25},
+			"2014-05": {"total":7430.50, "Investment Core Strategy":7430.50},
+			"2014-12": {"total":29917.46, "GMIST (Greater Mcr Integrated)":29917.46},
+			"2015-02": {"total":5280.96, "GMIST (Greater Mcr Integrated)":5280.96},
+			"2015-03": {"total":10561.92, "GMIST (Greater Mcr Integrated)":10561.92}
+		}
+	},
+	"3701": {
+		"name": "Department of Works and Pensions",
+		"total": 602.8,
+		"monthly": {
+			"2011-02": {"total":602.80, "Environment and Operations":602.80}
+		}
+	},
+	"3702": {
+		"name": "Depaul Ltd",
+		"total": 3971.43,
+		"monthly": {
+			"2012-09": {"total":3971.43, "Childrens Services":3971.43}
+		}
+	},
+	"3703": {
+		"name": "Depaul Trust",
+		"total": 132272.64,
+		"monthly": {
+			"2012-03": {"total":3934.36, "Childrens Services":3934.36},
+			"2012-07": {"total":1967.18, "Childrens Services":1967.18},
+			"2012-11": {"total":2780.00, "Childrens Services":2780.00},
+			"2012-12": {"total":3971.43, "Childrens Services":3971.43},
+			"2013-01": {"total":3018.29, "Childrens Services":3018.29},
+			"2013-02": {"total":10643.43, "Childrens Services":10643.43},
+			"2013-04": {"total":5639.43, "Childrens Services":5639.43},
+			"2013-05": {"total":3770.33, "Childrens Services":3770.33},
+			"2013-07": {"total":6477.59, "Childrens Services":6477.59},
+			"2013-09": {"total":4557.60, "Childrens Services":4557.60},
+			"2013-10": {"total":2848.50, "Childrens Services":2848.50},
+			"2013-11": {"total":7406.10, "Childrens Services":7406.10},
+			"2013-12": {"total":2557.10, "Childrens Services":2557.10},
+			"2014-03": {"total":2278.80, "Childrens Services":2278.80},
+			"2014-04": {"total":1383.56, "Childrens Services":1383.56},
+			"2014-06": {"total":2278.80, "Childrens Services":2278.80},
+			"2014-08": {"total":9383.14, "Childrens Services":9383.14},
+			"2014-09": {"total":1327.57, "Childrens Services":1327.57},
+			"2014-10": {"total":2173.71, "Childrens Services":2173.71},
+			"2015-01": {"total":2764.29, "Childrens Services":2764.29},
+			"2015-02": {"total":10603.71, "Adult Social Care":10603.71},
+			"2015-08": {"total":21360.00, "Adult Social Care":21360.00},
+			"2015-09": {"total":19147.72, "Adult Social Care":19147.72}
+		}
+	},
+	"3704": {
+		"name": "Depaul Trust (Rent Receivables)",
+		"total": 716402.96,
+		"monthly": {
+			"2011-01": {"total":2171.71, "Childrens Services":2171.71},
+			"2011-08": {"total":582.03, "Childrens Services":582.03},
+			"2012-06": {"total":3370.96, "Childrens Services":3370.96},
+			"2013-09": {"total":12670.52, "Adult Social Care":12670.52},
+			"2013-10": {"total":42936.46, "Adult Social Care":42936.46},
+			"2013-11": {"total":55606.98, "Adult Social Care":55606.98},
+			"2013-12": {"total":27803.49, "Adult Social Care":27803.49},
+			"2014-02": {"total":27803.49, "Adult Social Care":27803.49},
+			"2014-03": {"total":27803.49, "Adult Social Care":27803.49},
+			"2014-04": {"total":27803.49, "Adult Social Care":27803.49},
+			"2014-06": {"total":91766.76, "Adult Social Care":91766.76},
+			"2014-08": {"total":45883.38, "Adult Social Care":45883.38},
+			"2014-09": {"total":45883.38, "Adult Social Care":45883.38},
+			"2014-11": {"total":45883.38, "Adult Social Care":45883.38},
+			"2014-12": {"total":22941.69, "Adult Social Care":22941.69},
+			"2015-03": {"total":68825.07, "Adult Social Care":68825.07},
+			"2015-05": {"total":16666.74, "Adult Social Care":16666.74},
+			"2015-06": {"total":33333.32, "Adult Social Care":33333.32},
+			"2015-07": {"total":16666.66, "Adult Social Care":16666.66},
+			"2015-09": {"total":33333.32, "Adult Social Care":33333.32},
+			"2015-10": {"total":16666.66, "Adult Social Care":16666.66},
+			"2016-01": {"total":33333.32, "Adult Social Care":33333.32},
+			"2016-02": {"total":16666.66, "Adult Social Care":16666.66}
+		}
+	},
+	"3705": {
+		"name": "Depaul UK",
+		"total": 4606.86,
+		"monthly": {
+			"2012-09": {"total":4606.86, "Childrens Services":4606.86}
+		}
+	},
+	"3706": {
+		"name": "Dept Communities And Local Gov",
+		"total": 108964.98,
+		"monthly": {
+			"2015-09": {"total":108964.98, "Chief Executives":108964.98}
+		}
+	},
+	"3707": {
+		"name": "Dept for Business Innovation & Skil",
+		"total": 47568.28,
+		"monthly": {
+			"2012-09": {"total":17834.61, "Chief Executives":17834.61},
+			"2013-02": {"total":23779.48, "Chief Executives":23779.48},
+			"2013-05": {"total":5954.19, "Chief Executives":5954.19}
+		}
+	},
+	"3708": {
+		"name": "Dept for Communities and Local Govt",
+		"total": 400283950.13,
+		"monthly": {
+			"2011-05": {"total":67535265.00, "General Fund":67535265.00},
+			"2011-06": {"total":26951575.00, "General Fund":26951575.00},
+			"2011-07": {"total":697212.00, "General Fund":697212.00},
+			"2011-11": {"total":21173.00, "Regeneration Finance":21173.00},
+			"2012-03": {"total":357954.00, "Housing Revenue Account":357954.00},
+			"2012-07": {"total":5470.87, "Chief Executives":5470.87},
+			"2012-09": {"total":3526.89, "Chief Executives":3526.89},
+			"2013-01": {"total":461371.00, "Housing Revenue Account":461371.00},
+			"2013-04": {"total":58613.03, "Chief Executives":58613.03},
+			"2013-05": {"total":15662197.00, "General Fund":15662197.00},
+			"2013-06": {"total":15662199.00, "General Fund":15662199.00},
+			"2013-08": {"total":31324395.00, "General Fund":31324395.00},
+			"2013-09": {"total":15662198.00, "General Fund":15662198.00},
+			"2013-10": {"total":15662197.00, "General Fund":15662197.00},
+			"2013-11": {"total":15662199.00, "General Fund":15662199.00},
+			"2013-12": {"total":15662197.00, "General Fund":15662197.00},
+			"2014-01": {"total":11933103.00, "General Fund":11933103.00},
+			"2014-05": {"total":18620217.41, "Chief Executives":71435.41, "Collection Fund":17774815.00, "General Fund":773967.00},
+			"2014-06": {"total":18548784.00, "Collection Fund":17774816.00, "General Fund":773968.00},
+			"2014-07": {"total":18796341.40, "Chief Executives":247559.40, "Collection Fund":18548782.00},
+			"2014-08": {"total":18548784.00, "Collection Fund":17774816.00, "General Fund":773968.00},
+			"2014-09": {"total":18548784.00, "Collection Fund":17774816.00, "General Fund":773968.00},
+			"2014-10": {"total":18548782.00, "Collection Fund":18548782.00},
+			"2014-11": {"total":18548784.00, "Collection Fund":17774816.00, "General Fund":773968.00},
+			"2014-12": {"total":18548782.00, "Collection Fund":17774815.00, "General Fund":773967.00},
+			"2015-01": {"total":14132407.00, "Collection Fund":13542717.00, "General Fund":589690.00},
+			"2015-03": {"total":1861224.00, "Chief Executives":1861224.00},
+			"2016-01": {"total":2176963.00, "Collection Fund":1572582.00, "General Fund":604381.00},
+			"2016-12": {"total":6246.44, "Chief Executives":6246.44},
+			"2017-02": {"total":6835.06, "Housing General Fund":6835.06},
+			"2017-03": {"total":60778.31, "Chief Executives":60778.31},
+			"2018-03": {"total":7391.72, "Chief Executives":7391.72}
+		}
+	},
+	"3709": {
+		"name": "Dept for Social Development",
+		"total": 566,
+		"monthly": {
+			"2011-11": {"total":566.00, "Highways Services":566.00}
+		}
+	},
+	"3710": {
+		"name": "Dept of Business Energy & Ind Strat",
+		"total": 43114.8,
+		"monthly": {
+			"2019-08": {"total":43114.80, "General Fund":43114.80}
+		}
+	},
+	"3711": {
+		"name": "Derby City Council",
+		"total": 196573.51,
+		"monthly": {
+			"2011-01": {"total":20235.25, "Childrens Services":20235.25},
+			"2012-02": {"total":21643.53, "Childrens Services":21643.53},
+			"2012-08": {"total":21604.41, "Childrens Services":21604.41},
+			"2013-07": {"total":26759.33, "Childrens Services":26759.33},
+			"2015-02": {"total":16158.00, "Adult Social Care":16158.00},
+			"2015-03": {"total":5496.76, "Adult Social Care":5496.76},
+			"2017-07": {"total":5400.00, "Adult Social Care":5400.00},
+			"2017-08": {"total":3600.00, "Manchester Leisure":3600.00},
+			"2017-09": {"total":3803.50, "Manchester Leisure":3803.50},
+			"2017-11": {"total":3803.50, "Manchester Leisure":3803.50},
+			"2018-03": {"total":3803.50, "Manchester Leisure":3803.50},
+			"2018-05": {"total":5385.73, "Manchester Leisure":5385.73},
+			"2018-06": {"total":7875.00, "Manchester Leisure":7875.00},
+			"2018-11": {"total":7875.00, "Regeneration Finance":7875.00},
+			"2019-05": {"total":9850.00, "Manchester Leisure":1975.00, "Regeneration Finance":7875.00},
+			"2019-06": {"total":8125.00, "Regeneration Finance":8125.00},
+			"2019-08": {"total":8125.00, "Regeneration Finance":8125.00},
+			"2019-12": {"total":780.00, "Libraries and Theatres":780.00},
+			"2020-02": {"total":8125.00, "Regeneration Finance":8125.00},
+			"2020-06": {"total":8125.00, "Regeneration Finance":8125.00}
+		}
+	},
+	"3712": {
+		"name": "Derbyshire Aggregates Ltd",
+		"total": 1485.6,
+		"monthly": {
+			"2011-01": {"total":1485.60, "Corporate Services":1485.60}
+		}
+	},
+	"3713": {
+		"name": "Derbyshire Comm Health Servs NHS FT",
+		"total": 5745.78,
+		"monthly": {
+			"2017-05": {"total":2496.19, "Adult Social Care":2496.19},
+			"2017-06": {"total":2737.69, "Adult Social Care":2737.69},
+			"2018-04": {"total":511.90, "Adult Social Care":511.90}
+		}
+	},
+	"3714": {
+		"name": "Derbyshire County Council",
+		"total": 79433.82,
+		"monthly": {
+			"2011-02": {"total":5102.50, "Childrens Services":5102.50},
+			"2011-03": {"total":5652.00, "Childrens Services":5652.00},
+			"2011-08": {"total":4553.00, "Childrens Services":4553.00},
+			"2012-02": {"total":5206.50, "Childrens Services":5206.50},
+			"2012-03": {"total":6498.20, "Childrens Services":6498.20},
+			"2012-07": {"total":4645.80, "Childrens Services":4645.80},
+			"2012-08": {"total":9291.60, "Childrens Services":9291.60},
+			"2013-03": {"total":5831.25, "Childrens Services":5831.25},
+			"2013-05": {"total":5053.75, "Childrens Services":5053.75},
+			"2013-07": {"total":4276.25, "Childrens Services":4276.25},
+			"2014-03": {"total":1935.00, "Childrens Services":1935.00},
+			"2014-09": {"total":1440.00, "Childrens Services":1440.00},
+			"2014-10": {"total":2160.00, "Childrens Services":2160.00},
+			"2016-05": {"total":7913.33, "Adult Social Care":7913.33},
+			"2016-06": {"total":874.00, "Adult Social Care":874.00},
+			"2016-10": {"total":2185.00, "Adult Social Care":2185.00},
+			"2017-11": {"total":3028.14, "General Fund":3028.14},
+			"2018-09": {"total":3787.50, "Adult Social Care":3787.50}
+		}
+	},
+	"3715": {
+		"name": "Derbyshire Home Loans",
+		"total": 2000,
+		"monthly": {
+			"2016-03": {"total":2000.00, "Adult Social Care":2000.00}
+		}
+	},
+	"3716": {
+		"name": "Design & Artists Copyright Society",
+		"total": 524.82,
+		"monthly": {
+			"2012-01": {"total":524.82, "Manchester Leisure":524.82}
+		}
+	},
+	"3717": {
+		"name": "Design And Advertising",
+		"total": 1000,
+		"monthly": {
+			"2016-07": {"total":1000.00, "Manchester Leisure":1000.00}
+		}
+	},
+	"3718": {
+		"name": "Design By Day",
+		"total": 700,
+		"monthly": {
+			"2012-08": {"total":700.00, "Chief Executives":700.00}
+		}
+	},
+	"3719": {
+		"name": "Design By Music Ltd",
+		"total": 2580,
+		"monthly": {
+			"2013-11": {"total":2580.00, "Regeneration Finance":2580.00}
+		}
+	},
+	"3720": {
+		"name": "Design Catering Equipment",
+		"total": 52290.08,
+		"monthly": {
+			"2011-02": {"total":1940.00, "Childrens Services":1940.00},
+			"2011-03": {"total":6524.55, "Hospitality + Trading Services":6524.55},
+			"2011-06": {"total":23793.00, "Hospitality + Trading Services":23793.00},
+			"2011-08": {"total":582.00, "Hospitality + Trading Services":582.00},
+			"2012-02": {"total":2805.53, "Hospitality + Trading Services":2805.53},
+			"2012-04": {"total":1075.00, "Hospitality + Trading Services":1075.00},
+			"2012-06": {"total":600.00, "Hospitality + Trading Services":600.00},
+			"2012-09": {"total":5300.00, "Hospitality + Trading Services":5300.00},
+			"2013-01": {"total":925.00, "Hospitality + Trading Services":925.00},
+			"2013-04": {"total":925.00, "Hospitality + Trading Services":925.00},
+			"2013-05": {"total":5200.00, "Hospitality + Trading Services":5200.00},
+			"2014-03": {"total":2620.00, "Hospitality + Trading Services":2620.00}
+		}
+	},
+	"3721": {
+		"name": "Design Fire Consultants Ltd",
+		"total": 2595,
+		"monthly": {
+			"2019-09": {"total":2595.00, "Corporate Services":2595.00}
+		}
+	},
+	"3722": {
+		"name": "Design Initiative",
+		"total": 2000,
+		"monthly": {
+			"2011-11": {"total":2000.00, "Manchester Leisure":2000.00}
+		}
+	},
+	"3723": {
+		"name": "Design Lights (Stained Glass) Ltd",
+		"total": 2100,
+		"monthly": {
+			"2011-12": {"total":2100.00, "Corporate Services":2100.00}
+		}
+	},
+	"3724": {
+		"name": "Design Manchester Ltd",
+		"total": 260000,
+		"monthly": {
+			"2015-11": {"total":12500.00, "Regeneration Finance":12500.00},
+			"2015-12": {"total":10000.00, "Regeneration Finance":10000.00},
+			"2016-04": {"total":2500.00, "Regeneration Finance":2500.00},
+			"2016-08": {"total":37500.00, "Chief Executives":37500.00},
+			"2016-11": {"total":10000.00, "Chief Executives":10000.00},
+			"2017-03": {"total":2500.00, "Chief Executives":2500.00},
+			"2017-08": {"total":40000.00, "Chief Executives":40000.00},
+			"2017-11": {"total":20000.00, "Chief Executives":20000.00},
+			"2018-03": {"total":15000.00, "Chief Executives":15000.00},
+			"2018-04": {"total":5000.00, "Chief Executives":5000.00},
+			"2018-09": {"total":30000.00, "Chief Executives":30000.00},
+			"2019-01": {"total":20000.00, "Chief Executives":20000.00},
+			"2019-05": {"total":20000.00, "Chief Executives":20000.00},
+			"2019-11": {"total":30000.00, "Chief Executives":30000.00},
+			"2020-04": {"total":5000.00, "Chief Executives":5000.00}
+		}
+	},
+	"3725": {
 		"name": "Design Plus",
 		"total": 861.6,
 		"monthly": {
 			"2011-01": {"total":861.60, "Highways Services":861.60}
 		}
 	},
-	"3701": {
+	"3726": {
 		"name": "Design Supply Ltd",
 		"alternate-names": [
 			"Design Supply Limited"
@@ -18,7 +341,7 @@
 			"2015-12": {"total":4147.00, "Manchester Leisure":4147.00}
 		}
 	},
-	"3702": {
+	"3727": {
 		"name": "Designs For Education Ltd",
 		"total": 5160,
 		"monthly": {
@@ -27,14 +350,14 @@
 			"2012-04": {"total":2316.00, "Childrens Services":2316.00}
 		}
 	},
-	"3703": {
+	"3728": {
 		"name": "Destin Solutions",
 		"total": 3000,
 		"monthly": {
 			"2018-08": {"total":3000.00, "Corporate Services":3000.00}
 		}
 	},
-	"3704": {
+	"3729": {
 		"name": "Destin Solutions Ltd",
 		"alternate-names": [
 			"Destin Solutions Limited"
@@ -45,7 +368,7 @@
 			"2020-01": {"total":3000.00, "Corporate Services":3000.00}
 		}
 	},
-	"3705": {
+	"3730": {
 		"name": "Destination UK Ltd",
 		"total": 1030,
 		"monthly": {
@@ -53,9 +376,9 @@
 			"2015-09": {"total":505.00, "Chief Executives":505.00}
 		}
 	},
-	"3706": {
+	"3731": {
 		"name": "Detail Design Engineering Ltd",
-		"total": 99081.45,
+		"total": 109121.45,
 		"monthly": {
 			"2011-08": {"total":4898.00, "Chief Executives":4898.00},
 			"2011-09": {"total":8340.00, "Childrens Services":8340.00},
@@ -79,10 +402,11 @@
 			"2018-05": {"total":5300.00, "Corporate Services":5300.00},
 			"2019-03": {"total":2500.00, "Corporate Services":2500.00},
 			"2019-04": {"total":5980.00, "Corporate Services":5980.00},
-			"2019-11": {"total":3710.00, "Corporate Services":3710.00}
+			"2019-11": {"total":3710.00, "Corporate Services":3710.00},
+			"2020-08": {"total":10040.00, "Corporate Services":10040.00}
 		}
 	},
-	"3707": {
+	"3732": {
 		"name": "Dev Ltd",
 		"total": 25200,
 		"monthly": {
@@ -93,7 +417,7 @@
 			"2012-03": {"total":4200.00, "Housing Revenue Account":4200.00}
 		}
 	},
-	"3708": {
+	"3733": {
 		"name": "Developing Success",
 		"total": 1000,
 		"monthly": {
@@ -101,7 +425,7 @@
 			"2019-11": {"total":500.00, "Manchester Leisure":500.00}
 		}
 	},
-	"3709": {
+	"3734": {
 		"name": "Developing Success Ltd",
 		"total": 1500,
 		"monthly": {
@@ -110,14 +434,14 @@
 			"2020-01": {"total":500.00, "Manchester Leisure":500.00}
 		}
 	},
-	"3710": {
+	"3735": {
 		"name": "Development & Construction",
 		"total": 900,
 		"monthly": {
 			"2011-02": {"total":900.00, "Regeneration Finance":900.00}
 		}
 	},
-	"3711": {
+	"3736": {
 		"name": "Development & Construction Solution",
 		"total": 58974.82,
 		"monthly": {
@@ -138,21 +462,21 @@
 			"2012-09": {"total":2666.66, "Regeneration Finance":2666.66}
 		}
 	},
-	"3712": {
+	"3737": {
 		"name": "Development Process Group Plc",
 		"total": 2393.54,
 		"monthly": {
 			"2011-03": {"total":2393.54, "Chief Executives":2393.54}
 		}
 	},
-	"3713": {
+	"3738": {
 		"name": "Develpment & Construction Sol Ltd",
 		"total": 3795,
 		"monthly": {
 			"2011-04": {"total":3795.00, "Regeneration Finance":3795.00}
 		}
 	},
-	"3714": {
+	"3739": {
 		"name": "Devin Consulting Ltd",
 		"total": 7774,
 		"monthly": {
@@ -160,14 +484,14 @@
 			"2016-10": {"total":3887.00, "Regeneration Finance":3887.00}
 		}
 	},
-	"3715": {
+	"3740": {
 		"name": "Devo Connect",
 		"total": 4000,
 		"monthly": {
 			"2020-07": {"total":4000.00, "Manchester Leisure":4000.00}
 		}
 	},
-	"3716": {
+	"3741": {
 		"name": "Devon County Council",
 		"total": 99065.6,
 		"monthly": {
@@ -175,28 +499,28 @@
 			"2015-09": {"total":96285.60, "Adult Social Care":96285.60}
 		}
 	},
-	"3717": {
+	"3742": {
 		"name": "Devonshire Solicitors LLP",
 		"total": 600,
 		"monthly": {
 			"2015-12": {"total":600.00, "Environment and Operations":600.00}
 		}
 	},
-	"3718": {
+	"3743": {
 		"name": "Devonshires LLP",
 		"total": 10500,
 		"monthly": {
 			"2015-11": {"total":10500.00, "Regeneration Finance":10500.00}
 		}
 	},
-	"3719": {
+	"3744": {
 		"name": "Devonshires Solicitors",
 		"total": 2219,
 		"monthly": {
 			"2017-05": {"total":2219.00, "Highways Services":2219.00}
 		}
 	},
-	"3720": {
+	"3745": {
 		"name": "Dewberry Redpoint Ltd",
 		"total": 6405,
 		"monthly": {
@@ -209,14 +533,14 @@
 			"2019-07": {"total":930.00, "Hospitality + Trading Services":930.00}
 		}
 	},
-	"3721": {
+	"3746": {
 		"name": "Dewi Lewis Publishing",
 		"total": 575.94,
 		"monthly": {
 			"2017-03": {"total":575.94, "Manchester Leisure":575.94}
 		}
 	},
-	"3722": {
+	"3747": {
 		"name": "Dhl Express (Uk) Ltd",
 		"total": 2308.86,
 		"monthly": {
@@ -224,14 +548,14 @@
 			"2017-10": {"total":1154.16, "Manchester Leisure":1154.16}
 		}
 	},
-	"3723": {
+	"3748": {
 		"name": "Diagrama",
 		"total": 4000,
 		"monthly": {
 			"2017-03": {"total":4000.00, "Adult Social Care":4000.00}
 		}
 	},
-	"3724": {
+	"3749": {
 		"name": "Diagrama Foundation",
 		"total": 79642.13,
 		"monthly": {
@@ -243,278 +567,6 @@
 			"2018-10": {"total":22000.00, "Adult Social Care":22000.00},
 			"2018-11": {"total":1833.00, "Adult Social Care":1833.00},
 			"2019-01": {"total":1145.13, "Adult Social Care":1145.13}
-		}
-	},
-	"3725": {
-		"name": "Dialhouse Ltd",
-		"alternate-names": [
-			"Dialhouse Limited"
-		],
-		"total": 510,
-		"monthly": {
-			"2014-04": {"total":510.00, "Adult Social Care":510.00}
-		}
-	},
-	"3726": {
-		"name": "Diallo Design",
-		"total": 3943.22,
-		"monthly": {
-			"2012-09": {"total":3943.22, "Manchester Leisure":3943.22}
-		}
-	},
-	"3727": {
-		"name": "Diamond Bus (North West) Ltd",
-		"total": 1296,
-		"monthly": {
-			"2020-02": {"total":648.00, "Corporate Services":648.00},
-			"2020-03": {"total":648.00, "Corporate Services":648.00}
-		}
-	},
-	"3728": {
-		"name": "Diamond Business Interiors Ltd",
-		"total": 530.65,
-		"monthly": {
-			"2015-06": {"total":530.65, "Adult Social Care":530.65}
-		}
-	},
-	"3729": {
-		"name": "Diamond Soccer Ltd",
-		"total": 660,
-		"monthly": {
-			"2011-12": {"total":660.00, "Manchester Leisure":660.00}
-		}
-	},
-	"3730": {
-		"name": "Diane Modahl Sports Foundation",
-		"total": 2063.34,
-		"monthly": {
-			"2011-06": {"total":1031.67, "Manchester Leisure":1031.67},
-			"2011-08": {"total":1031.67, "Manchester Leisure":1031.67}
-		}
-	},
-	"3731": {
-		"name": "Diane Modhal Sports Foundation",
-		"total": 10849,
-		"monthly": {
-			"2016-01": {"total":10000.00, "Manchester Leisure":10000.00},
-			"2017-01": {"total":849.00, "Manchester Leisure":849.00}
-		}
-	},
-	"3732": {
-		"name": "Diane Vincent Consultancy Ltd",
-		"total": 35100,
-		"monthly": {
-			"2015-08": {"total":10350.00, "Adult Social Care":10350.00},
-			"2015-09": {"total":11700.00, "Adult Social Care":11700.00},
-			"2015-12": {"total":13050.00, "Adult Social Care":13050.00}
-		}
-	},
-	"3733": {
-		"name": "Dicey Tech",
-		"total": 7500,
-		"monthly": {
-			"2019-04": {"total":2500.00, "Manchester Leisure":2500.00},
-			"2019-10": {"total":5000.00, "Manchester Leisure":5000.00}
-		}
-	},
-	"3734": {
-		"name": "Dickinson Dees",
-		"total": 4335,
-		"monthly": {
-			"2011-02": {"total":4335.00, "Housing General Fund":4335.00}
-		}
-	},
-	"3735": {
-		"name": "Dickinson Environmental",
-		"total": 170231.12,
-		"monthly": {
-			"2010-12": {"total":3025.80, "Manchester Leisure":3025.80},
-			"2011-03": {"total":2698.00, "Manchester Leisure":2698.00},
-			"2011-04": {"total":4246.00, "Manchester Leisure":4246.00},
-			"2011-06": {"total":4799.60, "Manchester Leisure":4799.60},
-			"2011-08": {"total":4968.00, "Manchester Leisure":4968.00},
-			"2011-11": {"total":4138.00, "Manchester Leisure":4138.00},
-			"2011-12": {"total":3686.00, "Manchester Leisure":3686.00},
-			"2012-02": {"total":1774.00, "Manchester Leisure":1774.00},
-			"2012-03": {"total":1751.68, "Manchester Leisure":1751.68},
-			"2012-05": {"total":2098.00, "Manchester Leisure":2098.00},
-			"2012-07": {"total":3668.00, "Manchester Leisure":3668.00},
-			"2012-08": {"total":1922.00, "Manchester Leisure":1922.00},
-			"2012-10": {"total":4338.00, "Manchester Leisure":4338.00},
-			"2012-12": {"total":2474.00, "Manchester Leisure":2474.00},
-			"2013-02": {"total":2620.00, "Manchester Leisure":2620.00},
-			"2013-07": {"total":3716.00, "Manchester Leisure":3716.00},
-			"2013-11": {"total":2510.00, "Manchester Leisure":2510.00},
-			"2013-12": {"total":4560.84, "Manchester Leisure":4560.84},
-			"2014-01": {"total":1256.00, "Manchester Leisure":1256.00},
-			"2014-04": {"total":2236.00, "Manchester Leisure":2236.00},
-			"2014-05": {"total":1604.00, "Manchester Leisure":1604.00},
-			"2014-06": {"total":2613.80, "Manchester Leisure":2613.80},
-			"2014-07": {"total":3925.00, "Manchester Leisure":3925.00},
-			"2014-10": {"total":2197.80, "Manchester Leisure":2197.80},
-			"2014-11": {"total":3684.40, "Manchester Leisure":3684.40},
-			"2015-01": {"total":530.20, "Manchester Leisure":530.20},
-			"2015-04": {"total":3508.00, "Manchester Leisure":3508.00},
-			"2015-05": {"total":1808.00, "Manchester Leisure":1808.00},
-			"2015-06": {"total":1474.00, "Manchester Leisure":1474.00},
-			"2015-09": {"total":1674.00, "Manchester Leisure":1674.00},
-			"2015-10": {"total":949.00, "Manchester Leisure":949.00},
-			"2015-11": {"total":6126.00, "Manchester Leisure":6126.00},
-			"2015-12": {"total":2383.00, "Manchester Leisure":2383.00},
-			"2016-02": {"total":1942.00, "Manchester Leisure":1942.00},
-			"2016-03": {"total":1187.00, "Manchester Leisure":1187.00},
-			"2016-04": {"total":1387.00, "Manchester Leisure":1387.00},
-			"2016-12": {"total":11074.00, "Manchester Leisure":11074.00},
-			"2017-09": {"total":2092.00, "Manchester Leisure":2092.00},
-			"2017-10": {"total":4846.00, "Manchester Leisure":4846.00},
-			"2017-11": {"total":16394.00, "Manchester Leisure":16394.00},
-			"2018-02": {"total":1335.00, "Manchester Leisure":1335.00},
-			"2018-03": {"total":3056.00, "Manchester Leisure":3056.00},
-			"2018-04": {"total":3377.00, "Manchester Leisure":3377.00},
-			"2018-06": {"total":3887.00, "Manchester Leisure":3887.00},
-			"2018-08": {"total":1131.00, "Manchester Leisure":1131.00},
-			"2018-10": {"total":3391.00, "Manchester Leisure":3391.00},
-			"2018-12": {"total":571.00, "Manchester Leisure":571.00},
-			"2019-01": {"total":2135.00, "Manchester Leisure":2135.00},
-			"2019-03": {"total":2363.00, "Manchester Leisure":2363.00},
-			"2019-04": {"total":2435.00, "Manchester Leisure":2435.00},
-			"2019-09": {"total":2430.00, "Manchester Leisure":2430.00},
-			"2019-11": {"total":6142.00, "Manchester Leisure":6142.00},
-			"2020-01": {"total":905.00, "Manchester Leisure":905.00},
-			"2020-03": {"total":3188.00, "Manchester Leisure":3188.00}
-		}
-	},
-	"3736": {
-		"name": "Dicom Ltd",
-		"total": 7354.17,
-		"monthly": {
-			"2016-10": {"total":1276.09, "Hospitality + Trading Services":1276.09},
-			"2018-10": {"total":4055.44, "Hospitality + Trading Services":4055.44},
-			"2019-04": {"total":2022.64, "Hospitality + Trading Services":2022.64}
-		}
-	},
-	"3737": {
-		"name": "Didactease Ltd",
-		"total": 6968.21,
-		"monthly": {
-			"2014-07": {"total":6968.21, "Chief Executives":1048.31, "Manchester Leisure":5919.90}
-		}
-	},
-	"3738": {
-		"name": "Didsbury Arts Festival",
-		"total": 9000,
-		"monthly": {
-			"2013-05": {"total":673.65, "Regeneration Finance":673.65},
-			"2013-06": {"total":3326.35, "Regeneration Finance":3326.35},
-			"2014-10": {"total":2000.00, "Regeneration Finance":2000.00},
-			"2015-12": {"total":1000.00, "Regeneration Finance":1000.00},
-			"2016-11": {"total":1000.00, "Manchester Leisure":1000.00},
-			"2019-10": {"total":1000.00, "Manchester Leisure":1000.00}
-		}
-	},
-	"3739": {
-		"name": "Didsbury Arts Festival Association",
-		"total": 4000,
-		"monthly": {
-			"2011-09": {"total":4000.00, "Chief Executives":4000.00}
-		}
-	},
-	"3740": {
-		"name": "Didsbury Car Show",
-		"total": 8580.61,
-		"monthly": {
-			"2011-02": {"total":2832.00, "Chief Executives":2832.00},
-			"2011-09": {"total":2166.61, "Chief Executives":2166.61},
-			"2012-12": {"total":2082.00, "Regeneration Finance":2082.00},
-			"2014-04": {"total":1500.00, "Regeneration Finance":1500.00}
-		}
-	},
-	"3741": {
-		"name": "Didsbury Civic Society",
-		"total": 45453.21,
-		"monthly": {
-			"2011-03": {"total":12813.08, "Chief Executives":12813.08},
-			"2011-11": {"total":4644.65, "Regeneration Finance":4644.65},
-			"2012-03": {"total":16000.00, "Regeneration Finance":16000.00},
-			"2012-05": {"total":868.56, "Regeneration Finance":868.56},
-			"2012-07": {"total":2869.07, "Libraries and Theatres":2869.07},
-			"2012-08": {"total":880.00, "Regeneration Finance":880.00},
-			"2012-10": {"total":2930.00, "Regeneration Finance":2930.00},
-			"2013-02": {"total":2520.00, "Regeneration Finance":2520.00},
-			"2014-04": {"total":1000.00, "Regeneration Finance":1000.00},
-			"2019-04": {"total":927.85, "Manchester Leisure":927.85}
-		}
-	},
-	"3742": {
-		"name": "Didsbury Community Association",
-		"total": 44844.52,
-		"monthly": {
-			"2010-12": {"total":4000.00, "Chief Executives":4000.00},
-			"2011-01": {"total":4000.00, "Chief Executives":4000.00},
-			"2011-02": {"total":1177.20, "Chief Executives":1177.20},
-			"2012-04": {"total":3900.00, "Regeneration Finance":3900.00},
-			"2012-05": {"total":633.02, "Regeneration Finance":633.02},
-			"2012-08": {"total":3900.00, "Regeneration Finance":3900.00},
-			"2012-10": {"total":5290.00, "Regeneration Finance":5290.00},
-			"2012-12": {"total":4200.80, "Regeneration Finance":4200.80},
-			"2013-07": {"total":5200.00, "Regeneration Finance":5200.00},
-			"2015-02": {"total":6293.50, "Regeneration Finance":6293.50},
-			"2015-12": {"total":6250.00, "Regeneration Finance":6250.00}
-		}
-	},
-	"3743": {
-		"name": "Didsbury Community Church",
-		"total": 2322.59,
-		"monthly": {
-			"2011-01": {"total":2322.59, "Childrens Services":2322.59}
-		}
-	},
-	"3744": {
-		"name": "Didsbury Cricket Club",
-		"total": 1680,
-		"monthly": {
-			"2015-11": {"total":840.00, "Manchester Leisure":840.00},
-			"2016-09": {"total":840.00, "Manchester Leisure":840.00}
-		}
-	},
-	"3745": {
-		"name": "Didsbury Dinners",
-		"total": 1000,
-		"monthly": {
-			"2013-03": {"total":1000.00, "Regeneration Finance":1000.00}
-		}
-	},
-	"3746": {
-		"name": "Didsbury FM",
-		"total": 1472.15,
-		"monthly": {
-			"2018-04": {"total":1472.15, "Manchester Leisure":1472.15}
-		}
-	},
-	"3747": {
-		"name": "Didsbury Family Law Solicitors",
-		"total": 720,
-		"monthly": {
-			"2017-09": {"total":720.00, "Adult Social Care":720.00}
-		}
-	},
-	"3748": {
-		"name": "Didsbury Film",
-		"total": 10711,
-		"monthly": {
-			"2011-02": {"total":900.00, "Chief Executives":900.00},
-			"2011-09": {"total":1689.00, "Chief Executives":1689.00},
-			"2013-07": {"total":3421.00, "Regeneration Finance":3421.00},
-			"2014-03": {"total":1788.00, "Regeneration Finance":1788.00},
-			"2014-04": {"total":1788.00, "Regeneration Finance":1788.00},
-			"2017-03": {"total":1125.00, "Manchester Leisure":1125.00}
-		}
-	},
-	"3749": {
-		"name": "Didsbury Garden Society",
-		"total": 1336.86,
-		"monthly": {
-			"2019-11": {"total":1336.86, "Manchester Leisure":1336.86}
 		}
 	}
 	}
