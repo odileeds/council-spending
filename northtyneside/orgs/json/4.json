@@ -1,23 +1,45 @@
 {
-	"range": ["2014-04","2020-07"],
+	"range": ["2014-04","2020-09"],
 	"data": {
 	"200": {
+		"name": "AFTER ADOPTION",
+		"total": 168304,
+		"monthly": {
+			"2014-06": {"total":16434.00, "Children, Young People & Learning":16434.00},
+			"2014-10": {"total":8217.00, "Children, Young People & Learning":8217.00},
+			"2015-01": {"total":8217.00, "Children's & Education Services":8217.00},
+			"2015-02": {"total":27000.00, "Children's & Education Services":27000.00},
+			"2015-03": {"total":8217.00, "Children's & Education Services":8217.00},
+			"2015-06": {"total":8217.00, "Children's & Education Services":8217.00},
+			"2015-10": {"total":26217.00, "Children's & Education Services":26217.00},
+			"2015-11": {"total":8000.00, "Children's & Education Services":8000.00},
+			"2016-01": {"total":8217.00, "Children, Young People & Learning":8217.00},
+			"2016-03": {"total":8217.00, "Health, Education, Care and Safeguarding":8217.00},
+			"2016-06": {"total":8217.00, "Health, Education, Care and Safeguarding":8217.00},
+			"2016-09": {"total":8217.00, "Health, Education, Care and Safeguarding":8217.00},
+			"2016-10": {"total":9000.00, "Children's & Education Services":9000.00},
+			"2016-12": {"total":500.00, "Children's & Education Services":500.00},
+			"2017-01": {"total":8217.00, "Children's & Education Services":8217.00},
+			"2017-03": {"total":7200.00, "Children's & Education Services":7200.00}
+		}
+	},
+	"201": {
 		"name": "AG GATES LTD",
 		"total": 75.7,
 		"monthly": {
 			"2014-10": {"total":75.70, "Children, Young People & Learning":75.70}
 		}
 	},
-	"201": {
+	"202": {
 		"name": "AGE UK NEWCASTLE",
 		"total": 1363,
 		"monthly": {
 			"2016-10": {"total":1363.00, "Adult Social Care":1363.00}
 		}
 	},
-	"202": {
+	"203": {
 		"name": "AGE UK NORTH TYNESIDE",
-		"total": 15363738.76,
+		"total": 16289779.04,
 		"monthly": {
 			"2014-04": {"total":207393.97, "Children, Young People & Learning":3333.00, "Adult Social Care":204060.97},
 			"2014-05": {"total":249206.54, "Adult Social Care":249206.54},
@@ -69,19 +91,21 @@
 			"2020-04": {"total":728477.89, "Adult Social Care":723112.47, "Public Health":5365.42},
 			"2020-05": {"total":7104.59, "Adult Social Care":5304.34, "Public Health":1800.25},
 			"2020-06": {"total":159233.08, "Adult Social Care":157794.96, "Public Health":1438.12},
-			"2020-07": {"total":81486.38, "Adult Social Care":78776.58, "Public Health":2709.80}
+			"2020-07": {"total":479285.86, "Adult Social Care":471156.46, "Public Health":8129.40},
+			"2020-08": {"total":287.18, "Adult Social Care":287.18},
+			"2020-09": {"total":527953.62, "Adult Social Care":521700.24, "Public Health":6253.38}
 		}
 	},
-	"203": {
+	"204": {
 		"name": "AGE UK NORTH TYNESIDE - ISF FUND",
 		"total": 394.45,
 		"monthly": {
 			"2014-06": {"total":394.45, "Adult Social Care":394.45}
 		}
 	},
-	"204": {
+	"205": {
 		"name": "AGJUVO CARE AND SUPPORT LTD",
-		"total": 519787.16,
+		"total": 621770.3,
 		"monthly": {
 			"2019-06": {"total":112431.51, "Adult Social Care":112431.51},
 			"2019-10": {"total":113610.34, "Adult Social Care":113610.34},
@@ -90,26 +114,29 @@
 			"2020-02": {"total":1754.90, "Adult Social Care":1754.90},
 			"2020-03": {"total":29156.58, "Adult Social Care":25372.94, "Public Health":3783.64},
 			"2020-04": {"total":115662.63, "Adult Social Care":107808.59, "Public Health":7854.04},
-			"2020-06": {"total":28999.05, "Adult Social Care":27770.37, "Public Health":1228.68}
+			"2020-06": {"total":28999.05, "Adult Social Care":27770.37, "Public Health":1228.68},
+			"2020-07": {"total":33496.67, "Adult Social Care":31299.50, "Public Health":2197.17},
+			"2020-08": {"total":2108.34, "Adult Social Care":2108.34},
+			"2020-09": {"total":66378.13, "Adult Social Care":63018.61, "Public Health":3359.52}
 		}
 	},
-	"205": {
+	"206": {
 		"name": "AGODA",
 		"total": 213.93,
 		"monthly": {
 			"2014-11": {"total":213.93, "Children's & Education Services":213.93}
 		}
 	},
-	"206": {
+	"207": {
 		"name": "AGRI-GEM.CO.UK",
 		"total": 126.6,
 		"monthly": {
 			"2019-09": {"total":126.60, "Cultural & Related Services":126.60}
 		}
 	},
-	"207": {
+	"208": {
 		"name": "AIDAPT BATHROOMS LTD",
-		"total": 147821.9,
+		"total": 159672.32,
 		"monthly": {
 			"2014-04": {"total":3197.50, "Adult Social Care":3197.50},
 			"2014-05": {"total":1683.41, "Adult Social Care":1683.41},
@@ -156,10 +183,13 @@
 			"2020-03": {"total":6447.92, "Adult Social Care":6447.92},
 			"2020-04": {"total":9974.54, "Adult Social Care":9974.54},
 			"2020-05": {"total":3701.70, "Adult Social Care":3701.70},
-			"2020-06": {"total":1104.00, "Adult Social Care":1104.00}
+			"2020-06": {"total":1104.00, "Adult Social Care":1104.00},
+			"2020-07": {"total":4418.00, "Adult Social Care":4418.00},
+			"2020-08": {"total":4211.21, "Adult Social Care":4211.21},
+			"2020-09": {"total":3221.21, "Adult Social Care":3221.21}
 		}
 	},
-	"208": {
+	"209": {
 		"name": "AIGUILLE ALPINE EQUIPMENT",
 		"total": 7454.1,
 		"monthly": {
@@ -170,7 +200,7 @@
 			"2020-03": {"total":4618.26, "Children's & Education Services":4618.26}
 		}
 	},
-	"209": {
+	"210": {
 		"name": "AIKEN FLOORING CONTRACTS LTD",
 		"alternate-names": [
 			"AIKEN FLOORING CONTRACTS LIMITED"
@@ -185,28 +215,29 @@
 			"2020-04": {"total":6193.25, "Housing Revenue Account":6193.25}
 		}
 	},
-	"210": {
+	"211": {
 		"name": "AIM PROJECT",
 		"total": 1856.95,
 		"monthly": {
 			"2015-03": {"total":1856.95, "Children's & Education Services":1856.95}
 		}
 	},
-	"211": {
+	"212": {
 		"name": "AIMRANGE (NORTH EAST) LTD",
-		"total": 21838,
+		"total": 22728.4,
 		"monthly": {
 			"2014-05": {"total":70.00, "Commissioning & Fair Access":70.00},
 			"2015-10": {"total":840.00, "Capital":840.00},
 			"2015-11": {"total":560.00, "Capital":560.00},
 			"2016-01": {"total":1120.00, "Capital":1120.00},
 			"2020-01": {"total":10578.00, "Capital":8815.00, "Holding A/C":1763.00},
-			"2020-03": {"total":8670.00, "Capital":1384.00, "Holding A/C":1445.00, "Housing Services":5841.00}
+			"2020-03": {"total":8670.00, "Capital":1384.00, "Holding A/C":1445.00, "Housing Services":5841.00},
+			"2020-08": {"total":890.40, "Capital":742.00, "Holding A/C":148.40}
 		}
 	},
-	"212": {
+	"213": {
 		"name": "AINSWORTH SPARK ASSOCIATES",
-		"total": 79390.47,
+		"total": 102762.97,
 		"monthly": {
 			"2014-08": {"total":1113.00, "Business & Economy":1113.00},
 			"2019-06": {"total":9230.00, "Capital":9230.00},
@@ -219,24 +250,27 @@
 			"2020-03": {"total":3500.00, "Capital":3500.00},
 			"2020-04": {"total":1500.00, "Capital":1500.00},
 			"2020-05": {"total":8480.00, "Capital":8480.00},
-			"2020-06": {"total":9258.50, "Capital":2500.00, "Housing Services":6758.50}
+			"2020-06": {"total":9258.50, "Capital":2500.00, "Housing Services":6758.50},
+			"2020-07": {"total":10842.50, "Capital":10842.50},
+			"2020-08": {"total":650.00, "Capital":650.00},
+			"2020-09": {"total":11880.00, "Capital":11880.00}
 		}
 	},
-	"213": {
+	"214": {
 		"name": "AIR BAND NE LTD",
 		"total": 785.81,
 		"monthly": {
 			"2015-10": {"total":785.81, "Cultural & Related Services":785.81}
 		}
 	},
-	"214": {
+	"215": {
 		"name": "AIR SQUIRRELS",
 		"total": 10.04,
 		"monthly": {
 			"2015-08": {"total":10.04, "Children's & Education Services":10.04}
 		}
 	},
-	"215": {
+	"216": {
 		"name": "AIR SUPPLY NORTH EAST LTD",
 		"alternate-names": [
 			"AIR SUPPLY NORTH EAST LIMITED"
@@ -246,14 +280,14 @@
 			"2017-02": {"total":641.00, "Capital":641.00}
 		}
 	},
-	"216": {
+	"217": {
 		"name": "AIRBOXBOUNCE.CO.UK",
 		"total": 20,
 		"monthly": {
 			"2019-05": {"total":20.00, "Children's & Education Services":20.00}
 		}
 	},
-	"217": {
+	"218": {
 		"name": "AIRLANE PNEUMATICS LTD",
 		"alternate-names": [
 			"AIRLANE PNEUMATICS LIMITED"
@@ -264,7 +298,7 @@
 			"2019-08": {"total":940.00, "Unallocated":940.00}
 		}
 	},
-	"218": {
+	"219": {
 		"name": "AIRQUEE LTD",
 		"alternate-names": [
 			"AIRQUEE LIMITED"
@@ -279,35 +313,35 @@
 			"2020-03": {"total":405.00, "Cultural & Related Services":405.00}
 		}
 	},
-	"219": {
+	"220": {
 		"name": "AIRSPACE SOLUTIONS LTD",
 		"total": 8748,
 		"monthly": {
 			"2015-04": {"total":8748.00, "Cultural & Related Services":8748.00}
 		}
 	},
-	"220": {
+	"221": {
 		"name": "AIS SEWARD WYON LTD",
 		"total": 9000,
 		"monthly": {
 			"2015-10": {"total":9000.00, "Capital":9000.00}
 		}
 	},
-	"221": {
+	"222": {
 		"name": "AJ PRODUCTS",
 		"total": 408.9,
 		"monthly": {
 			"2016-12": {"total":408.90, "Children's & Education Services":408.90}
 		}
 	},
-	"222": {
+	"223": {
 		"name": "AJ WALTON ARCHITECTURE & SURVEYING LTD",
 		"total": 1750,
 		"monthly": {
 			"2019-04": {"total":1750.00, "Housing Services":1750.00}
 		}
 	},
-	"223": {
+	"224": {
 		"name": "AJP PROPERTY SERVICES LTD",
 		"total": 24150,
 		"monthly": {
@@ -347,7 +381,7 @@
 			"2017-03": {"total":690.00, "Adult Social Care":690.00}
 		}
 	},
-	"224": {
+	"225": {
 		"name": "AJSLADE LTD",
 		"total": 2625,
 		"monthly": {
@@ -360,12 +394,12 @@
 			"2016-06": {"total":375.00, "Health, Education, Care and Safeguarding":375.00}
 		}
 	},
-	"225": {
+	"226": {
 		"name": "AKARI CARE HOMES LTD",
 		"alternate-names": [
 			"AKARI CARE HOMES LIMITED"
 		],
-		"total": 25512830.1299983,
+		"total": 27522722.5599999,
 		"monthly": {
 			"2014-04": {"total":242930.72, "Adult Social Care":242930.72},
 			"2014-05": {"total":306964.21, "Adult Social Care":306964.21},
@@ -416,10 +450,13 @@
 			"2020-03": {"total":680655.00, "Adult Social Care":636084.87, "Public Health":44570.13},
 			"2020-04": {"total":708141.43, "Adult Social Care":626482.09, "Planning Services":44480.75, "Public Health":37178.59},
 			"2020-05": {"total":780710.49, "Adult Social Care":548048.51, "Capital":161723.37, "Planning Services":40107.09, "Public Health":30831.52},
-			"2020-06": {"total":720363.67, "Adult Social Care":588139.99, "Planning Services":102932.81, "Public Health":29290.87}
+			"2020-06": {"total":720363.67, "Adult Social Care":588139.99, "Planning Services":102932.81, "Public Health":29290.87},
+			"2020-07": {"total":589213.28, "Adult Social Care":488337.70, "Planning Services":75537.77, "Public Health":25337.81},
+			"2020-08": {"total":685065.32, "Adult Social Care":472230.20, "Planning Services":191587.43, "Public Health":21247.69},
+			"2020-09": {"total":735613.83, "Adult Social Care":609841.22, "Planning Services":100386.02, "Public Health":25386.59}
 		}
 	},
-	"226": {
+	"227": {
 		"name": "ALABASTER PUBLISHING",
 		"total": 1113,
 		"monthly": {
@@ -427,21 +464,21 @@
 			"2019-05": {"total":717.00, "Cultural & Related Services":321.00, "Housing Services":396.00}
 		}
 	},
-	"227": {
+	"228": {
 		"name": "ALAMY",
 		"total": 15,
 		"monthly": {
 			"2015-08": {"total":15.00, "Children's & Education Services":15.00}
 		}
 	},
-	"228": {
+	"229": {
 		"name": "ALAN FENTIMAN",
 		"total": 500,
 		"monthly": {
 			"2014-08": {"total":500.00, "Environment & Leisure":500.00}
 		}
 	},
-	"229": {
+	"230": {
 		"name": "ALAN HOLMES BUILDING SURVEYING SERVICES LTD",
 		"total": 1136,
 		"monthly": {
@@ -449,7 +486,7 @@
 			"2017-03": {"total":576.00, "Capital":576.00}
 		}
 	},
-	"230": {
+	"231": {
 		"name": "ALARM",
 		"total": 2010,
 		"monthly": {
@@ -457,7 +494,7 @@
 			"2016-10": {"total":480.00, "Central Services":480.00}
 		}
 	},
-	"231": {
+	"232": {
 		"name": "ALARM & COMMUNICATION SYSTEMS LTD",
 		"alternate-names": [
 			"ALARM & COMMUNICATION SYSTEMS LIMITED"
@@ -467,12 +504,12 @@
 			"2016-05": {"total":517.06, "Environment, Housing & Leisure":517.06}
 		}
 	},
-	"232": {
+	"233": {
 		"name": "ALBANY CARE HOMES LTD",
 		"alternate-names": [
 			"ALBANY CARE HOMES LIMITED"
 		],
-		"total": 940206.960000007,
+		"total": 1007645.50000001,
 		"monthly": {
 			"2014-04": {"total":16283.98, "Adult Social Care":16283.98},
 			"2014-05": {"total":16346.20, "Adult Social Care":16346.20},
@@ -523,12 +560,15 @@
 			"2020-03": {"total":23491.05, "Adult Social Care":23491.05},
 			"2020-04": {"total":23162.30, "Adult Social Care":22015.82, "Planning Services":1146.48},
 			"2020-05": {"total":27742.99, "Adult Social Care":17292.39, "Capital":10450.60},
-			"2020-06": {"total":22948.26, "Adult Social Care":22433.35, "Planning Services":514.91}
+			"2020-06": {"total":22948.26, "Adult Social Care":22433.35, "Planning Services":514.91},
+			"2020-07": {"total":17946.68, "Adult Social Care":17946.68},
+			"2020-08": {"total":27573.42, "Adult Social Care":17946.68, "Planning Services":9626.74},
+			"2020-09": {"total":21918.44, "Adult Social Care":21918.44}
 		}
 	},
-	"233": {
+	"234": {
 		"name": "ALBANY OFFICE EQUIPMENT (WHOLESALE) LTD",
-		"total": 257127,
+		"total": 277259,
 		"monthly": {
 			"2014-04": {"total":2020.00, "Adult Social Care":980.00, "Environment & Leisure":1040.00},
 			"2014-05": {"total":1537.50, "Environment & Leisure":1537.50},
@@ -568,30 +608,35 @@
 			"2020-01": {"total":9387.00, "Adult Social Care":2070.00, "Children's & Education Services":948.00, "Cultural & Related Services":6119.00, "Environmental & Regulatory Services":250.00},
 			"2020-02": {"total":5299.00, "Children's & Education Services":5049.00, "Environmental & Regulatory Services":250.00},
 			"2020-03": {"total":78221.00, "Central Services":75253.00, "Children's & Education Services":2448.00, "Housing Services":520.00},
-			"2020-06": {"total":2541.00, "Children's & Education Services":1792.00, "Cultural & Related Services":749.00}
+			"2020-06": {"total":2541.00, "Children's & Education Services":1792.00, "Cultural & Related Services":749.00},
+			"2020-07": {"total":250.00, "Central Services":250.00},
+			"2020-08": {"total":1440.00, "Children's & Education Services":1440.00},
+			"2020-09": {"total":18442.00, "Capital":18442.00}
 		}
 	},
-	"234": {
+	"235": {
 		"name": "ALBERT HAYWOOD & SONS LTD",
-		"total": 1745.6,
+		"total": 2576.28,
 		"monthly": {
 			"2016-06": {"total":272.00, "Health, Education, Care and Safeguarding":272.00},
 			"2017-03": {"total":235.50, "Adult Social Care":235.50},
 			"2019-10": {"total":337.50, "Adult Social Care":337.50},
 			"2019-11": {"total":563.10, "Adult Social Care":563.10},
-			"2020-04": {"total":337.50, "Adult Social Care":337.50}
+			"2020-04": {"total":337.50, "Adult Social Care":337.50},
+			"2020-07": {"total":357.18, "Adult Social Care":357.18},
+			"2020-09": {"total":473.50, "Adult Social Care":473.50}
 		}
 	},
-	"235": {
+	"236": {
 		"name": "ALBERTS SCHLOSS",
 		"total": 18.33,
 		"monthly": {
 			"2019-04": {"total":18.33, "Children's & Education Services":18.33}
 		}
 	},
-	"236": {
+	"237": {
 		"name": "ALBION PRIVATE HIRE",
-		"total": 720756.98,
+		"total": 762406.98,
 		"monthly": {
 			"2014-04": {"total":18835.09, "Children, Young People & Learning":203.84, "Commissioning & Fair Access":18631.25},
 			"2014-05": {"total":11557.92, "Commissioning & Fair Access":11557.92},
@@ -635,12 +680,12 @@
 			"2020-04": {"total":29750.00, "Children's & Education Services":29750.00},
 			"2020-05": {"total":11900.00, "Children's & Education Services":11900.00},
 			"2020-06": {"total":16660.00, "Children's & Education Services":16660.00},
-			"2020-07": {"total":23800.00, "Children's & Education Services":23800.00}
+			"2020-07": {"total":65450.00, "Children's & Education Services":65450.00}
 		}
 	},
-	"237": {
+	"238": {
 		"name": "ALCATRAZ GUEST HOUSE",
-		"total": 33054.43,
+		"total": 49044.06,
 		"monthly": {
 			"2016-06": {"total":480.00, "Health, Education, Care and Safeguarding":480.00},
 			"2016-07": {"total":840.00, "Children's & Education Services":840.00},
@@ -656,14 +701,14 @@
 			"2020-04": {"total":2337.49, "Housing Services":2337.49}
 		}
 	},
-	"238": {
+	"239": {
 		"name": "ALCOHOL CHANGE UK",
 		"total": 2250,
 		"monthly": {
 			"2020-04": {"total":2250.00, "Public Health":2250.00}
 		}
 	},
-	"239": {
+	"240": {
 		"name": "ALCOHOL CONCERN",
 		"total": 7500,
 		"monthly": {
@@ -671,7 +716,7 @@
 			"2016-11": {"total":4000.00, "Children's & Education Services":4000.00}
 		}
 	},
-	"240": {
+	"241": {
 		"name": "ALD AUTOMOTIVE LTD T/A FORD LEASE",
 		"total": 59330,
 		"monthly": {
@@ -682,7 +727,7 @@
 			"2017-03": {"total":890.00, "Children's & Education Services":890.00}
 		}
 	},
-	"241": {
+	"242": {
 		"name": "ALDERCOTE LTD",
 		"alternate-names": [
 			"ALDERCOTE LIMITED"
@@ -692,14 +737,14 @@
 			"2020-03": {"total":59015.00, "Capital":59015.00}
 		}
 	},
-	"242": {
+	"243": {
 		"name": "ALDERSON LAW LLP",
 		"total": 215,
 		"monthly": {
 			"2014-07": {"total":215.00, "Children, Young People & Learning":215.00}
 		}
 	},
-	"243": {
+	"244": {
 		"name": "ALDI",
 		"total": 5947.33,
 		"monthly": {
@@ -732,9 +777,9 @@
 			"2017-03": {"total":76.37, "Children's & Education Services":76.37}
 		}
 	},
-	"244": {
+	"245": {
 		"name": "ALDI STORES LTD",
-		"total": 2984.23,
+		"total": 3488.04,
 		"monthly": {
 			"2019-04": {"total":262.85, "Children's & Education Services":259.03, "Cultural & Related Services":3.82},
 			"2019-05": {"total":310.98, "Children's & Education Services":310.98},
@@ -748,7 +793,7 @@
 			"2020-04": {"total":164.64, "Children's & Education Services":164.64}
 		}
 	},
-	"245": {
+	"246": {
 		"name": "ALERE TOXICOLOGY",
 		"total": 2041.41,
 		"monthly": {
@@ -758,7 +803,7 @@
 			"2020-02": {"total":1098.33, "Children's & Education Services":1098.33}
 		}
 	},
-	"246": {
+	"247": {
 		"name": "ALEX CLARK ART LTD",
 		"total": 321.16,
 		"monthly": {
@@ -767,27 +812,21 @@
 			"2016-05": {"total":156.00, "Cultural & Related Services":156.00}
 		}
 	},
-	"247": {
+	"248": {
 		"name": "ALEX LEWIS",
-		"total": 8755.5,
+		"total": 10108,
 		"monthly": {
 			"2019-12": {"total":3903.00, "Children's & Education Services":3903.00},
 			"2020-03": {"total":3500.00, "Children's & Education Services":3500.00},
-			"2020-06": {"total":1352.50, "Children's & Education Services":1352.50}
+			"2020-06": {"total":1352.50, "Children's & Education Services":1352.50},
+			"2020-07": {"total":1352.50, "Children's & Education Services":1352.50}
 		}
 	},
-	"248": {
+	"249": {
 		"name": "ALEXANDRA SCOFFIN LTD",
 		"total": 438.85,
 		"monthly": {
 			"2016-07": {"total":438.85, "Children's & Education Services":438.85}
-		}
-	},
-	"249": {
-		"name": "ALEXIA ZIMBLER",
-		"total": 1500,
-		"monthly": {
-			"2016-08": {"total":1500.00, "Law & Governance":1500.00}
 		}
 	}
 	}
