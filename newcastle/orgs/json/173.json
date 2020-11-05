@@ -1,38 +1,560 @@
 {
-	"range": ["2010-04","2020-07"],
+	"range": ["2010-04","2020-09"],
 	"data": {
 	"8650": {
+		"name": "OFSTED",
+		"total": 150013.77,
+		"monthly": {
+			"2010-04": {"total":3734.70, "Adult and Culture":3734.70},
+			"2010-05": {"total":2422.20, "Adult and Culture":2422.20},
+			"2010-06": {"total":1420.10, "Adult and Culture":1420.10},
+			"2011-01": {"total":1529.00, "Adult and Culture":1529.00},
+			"2011-02": {"total":1420.10, "Adult and Culture":1420.10},
+			"2011-03": {"total":5395.59, "Adult and Culture":5395.59},
+			"2011-08": {"total":1562.11, "Childrens Services":1562.11},
+			"2012-01": {"total":1681.90, "Childrens Services":1681.90},
+			"2012-02": {"total":1562.11, "Childrens Services":1562.11},
+			"2012-03": {"total":5556.55, "Childrens Services":5556.55},
+			"2012-05": {"total":1718.32, "Childrens Services":1718.32},
+			"2013-01": {"total":1850.09, "unknown":1850.09},
+			"2013-02": {"total":1718.32, "unknown":1718.32},
+			"2013-04": {"total":3135.55, "unknown":3135.55},
+			"2013-06": {"total":4942.09, "unknown":4942.09},
+			"2013-07": {"total":1815.75, "unknown":1815.75},
+			"2014-01": {"total":2035.12, "Childrens Services":2035.12},
+			"2014-02": {"total":1890.17, "Childrens Services":1890.17},
+			"2014-04": {"total":3275.00, "Childrens Services":3275.00},
+			"2014-05": {"total":2078.00, "Childrens Services":2078.00},
+			"2014-06": {"total":2078.00, "Childrens Services":2078.00},
+			"2015-01": {"total":2237.00, "Childrens Services":2237.00},
+			"2015-02": {"total":2078.00, "Childrens Services":2078.00},
+			"2015-04": {"total":5892.00, "Adult and Culture":5892.00},
+			"2015-07": {"total":2289.00, "Adult and Culture":2289.00},
+			"2016-01": {"total":2465.00, "Childrens Services":2465.00},
+			"2016-02": {"total":3061.00, "Adult and Culture":3061.00},
+			"2016-04": {"total":2519.00, "Childrens Services":2519.00},
+			"2016-05": {"total":2289.00, "Childrens Services":2289.00},
+			"2016-07": {"total":3061.00, "Adult and Culture":3061.00},
+			"2016-08": {"total":1547.00, "Childrens Services":1547.00},
+			"2016-09": {"total":2417.00, "Adult and Culture":2417.00},
+			"2016-10": {"total":2519.00, "Childrens Services":2519.00},
+			"2017-01": {"total":2713.00, "Childrens Services":2713.00},
+			"2017-02": {"total":2519.00, "Childrens Services":2519.00},
+			"2017-04": {"total":7131.00, "Adult and Culture":7131.00},
+			"2017-12": {"total":2770.00, "Chief Executive's":2770.00},
+			"2018-02": {"total":5753.00, "Chief Executive's":5753.00},
+			"2018-05": {"total":7843.00, "Childrens Services":7843.00},
+			"2018-12": {"total":4792.00, "People":4792.00},
+			"2019-01": {"total":3280.00, "People":3280.00},
+			"2019-02": {"total":3046.00, "People":3046.00},
+			"2019-04": {"total":3046.00, "People":3046.00},
+			"2019-06": {"total":2925.00, "People":2925.00},
+			"2019-07": {"total":4450.00, "People":4450.00},
+			"2019-11": {"total":3349.00, "People":3349.00},
+			"2020-03": {"total":3349.00, "Children, Education and Skills":3349.00},
+			"2020-05": {"total":5275.00, "Children, Education and Skills":5275.00},
+			"2020-06": {"total":2578.00, "Children, Education and Skills":2578.00}
+		}
+	},
+	"8651": {
+		"name": "OGILVIE",
+		"total": 4905,
+		"monthly": {
+			"2013-05": {"total":450.00, "unknown":450.00},
+			"2014-05": {"total":470.00, "Childrens Services":470.00},
+			"2015-05": {"total":485.00, "Childrens Services":485.00},
+			"2016-03": {"total":3000.00, "Chief Executive's":3000.00},
+			"2016-04": {"total":500.00, "Childrens Services":500.00}
+		}
+	},
+	"8652": {
+		"name": "OHS LTD",
+		"alternate-names": [
+			"OHS LIMITED"
+		],
+		"total": 5125,
+		"monthly": {
+			"2014-01": {"total":1700.00, "Environment & Regeneration":1700.00},
+			"2016-10": {"total":3425.00, "HRA":3425.00}
+		}
+	},
+	"8653": {
+		"name": "OIL NRG",
+		"total": 7143136.11,
+		"monthly": {
+			"2016-08": {"total":116558.51, "Environment & Regeneration":116558.51},
+			"2016-09": {"total":113173.92, "Environment & Regeneration":113173.92},
+			"2016-10": {"total":87105.31, "Environment & Regeneration":87105.31},
+			"2016-11": {"total":189820.83, "Environment & Regeneration":189820.83},
+			"2016-12": {"total":157901.64, "Environment & Regeneration":157901.64},
+			"2017-01": {"total":127463.43, "Environment & Regeneration":127463.43},
+			"2017-02": {"total":153691.02, "Environment & Regeneration":153691.02},
+			"2017-03": {"total":174163.82, "Environment & Regeneration":174163.82},
+			"2017-04": {"total":122914.65, "Environment & Regeneration":122914.65},
+			"2017-05": {"total":132739.04, "Environment & Regeneration":132739.04},
+			"2017-06": {"total":158107.55, "Environment & Regeneration":158107.55},
+			"2017-07": {"total":130387.27, "Environment & Regeneration":130387.27},
+			"2017-08": {"total":135850.36, "Environment & Regeneration":135850.36},
+			"2017-09": {"total":151761.98, "Environment & Regeneration":151761.98},
+			"2017-10": {"total":159802.19, "Environment & Regeneration":159802.19},
+			"2017-11": {"total":137440.81, "Environment & Regeneration":137440.81},
+			"2017-12": {"total":124534.10, "Environment & Regeneration":124534.10},
+			"2018-01": {"total":160782.42, "Environment & Regeneration":160782.42},
+			"2018-02": {"total":135258.27, "Environment & Regeneration":135258.27},
+			"2018-03": {"total":164769.72, "Environment & Regeneration":164769.72},
+			"2018-04": {"total":172630.77, "Environment & Regeneration":172630.77},
+			"2018-05": {"total":142078.17, "Environment & Regeneration":142078.17},
+			"2018-06": {"total":211185.50, "Environment & Regeneration":211185.50},
+			"2018-07": {"total":195510.58, "Environment & Regeneration":195510.58},
+			"2018-08": {"total":157315.75, "Environment & Regeneration":157315.75},
+			"2018-09": {"total":139900.82, "Environment & Regeneration":139900.82},
+			"2018-10": {"total":188268.99, "Operations & Reg Services":188268.99},
+			"2018-11": {"total":147807.76, "Operations & Reg Services":147807.76},
+			"2018-12": {"total":127810.17, "Operations & Reg Services":127810.17},
+			"2019-01": {"total":127236.26, "Operations & Reg Services":127236.26},
+			"2019-02": {"total":161110.44, "Operations & Reg Services":161110.44},
+			"2019-03": {"total":131016.48, "Operations & Reg Services":131016.48},
+			"2019-04": {"total":208469.45, "Operations & Reg Services":208469.45},
+			"2019-05": {"total":160185.10, "Operations & Reg Services":160185.10},
+			"2019-06": {"total":144968.56, "Operations & Reg Services":144968.56},
+			"2019-07": {"total":139227.61, "Operations & Reg Services":139227.61},
+			"2019-08": {"total":145838.62, "Operations & Reg Services":145838.62},
+			"2019-09": {"total":177696.39, "Operations & Reg Services":177696.39},
+			"2019-10": {"total":139395.15, "Operations & Reg Services":139395.15},
+			"2019-11": {"total":112304.27, "Operations & Reg Services":112304.27},
+			"2019-12": {"total":114393.55, "Operations & Reg Services":114393.55},
+			"2020-01": {"total":183224.04, "Operations & Reg Services":183224.04},
+			"2020-02": {"total":113477.91, "Operations & Reg Services":113477.91},
+			"2020-03": {"total":78455.40, "Operations & Reg Services":78455.40},
+			"2020-04": {"total":127004.45, "Operations & Reg Services":127004.45},
+			"2020-05": {"total":96057.86, "Operations & Reg Services":96057.86},
+			"2020-06": {"total":99542.16, "Operations & Reg Services":99542.16},
+			"2020-07": {"total":106221.56, "Operations & Reg Services":106221.56},
+			"2020-08": {"total":165587.85, "Operations & Reg Services":165587.85},
+			"2020-09": {"total":94987.65, "Operations & Reg Services":94987.65}
+		}
+	},
+	"8654": {
+		"name": "OISC NO 2 ACCOUNT",
+		"total": 3450,
+		"monthly": {
+			"2013-10": {"total":575.00, "Chief Executive's":575.00},
+			"2015-02": {"total":1150.00, "Chief Executive's":575.00, "Childrens Services":575.00},
+			"2016-02": {"total":575.00, "Childrens Services":575.00},
+			"2017-01": {"total":575.00, "Childrens Services":575.00},
+			"2018-01": {"total":575.00, "Chief Executive's":575.00}
+		}
+	},
+	"8655": {
+		"name": "OLD RECTORY CARE HOME",
+		"total": 6000,
+		"monthly": {
+			"2020-09": {"total":6000.00, "ASC & Integrated Services":6000.00}
+		}
+	},
+	"8656": {
+		"name": "OLD WALL COTTAGE CARE HOME",
+		"total": 55045.36,
+		"monthly": {
+			"2017-02": {"total":7770.64, "Adult and Culture":7770.64},
+			"2017-03": {"total":2706.80, "Adult and Culture":2706.80},
+			"2017-04": {"total":1653.20, "Adult and Culture":1653.20},
+			"2017-05": {"total":3863.55, "Adult and Culture":3863.55},
+			"2017-06": {"total":2946.80, "Adult and Culture":2946.80},
+			"2017-07": {"total":2946.80, "Adult and Culture":2946.80},
+			"2017-08": {"total":2946.80, "Adult and Culture":2946.80},
+			"2017-09": {"total":2946.80, "Adult and Culture":2946.80},
+			"2017-10": {"total":3023.80, "Adult and Culture":3023.80},
+			"2017-11": {"total":2957.80, "Adult and Culture":2957.80},
+			"2017-12": {"total":2957.80, "Adult and Culture":2957.80},
+			"2018-01": {"total":2957.80, "Adult and Culture":2957.80},
+			"2018-02": {"total":2957.80, "Adult and Culture":2957.80},
+			"2018-03": {"total":2957.80, "Adult and Culture":2957.80},
+			"2018-04": {"total":2957.80, "Adult and Culture":2957.80},
+			"2018-05": {"total":6493.37, "Adult and Culture":6493.37}
+		}
+	},
+	"8657": {
+		"name": "OLDHAM BOROUGH COUNCIL",
+		"total": 7900,
+		"monthly": {
+			"2013-06": {"total":7900.00, "unknown":7900.00}
+		}
+	},
+	"8658": {
+		"name": "OLDHAM MBC",
+		"total": 47400,
+		"monthly": {
+			"2014-08": {"total":7900.00, "Chief Executive's":7900.00},
+			"2016-01": {"total":7900.00, "Chief Executive's":7900.00},
+			"2016-07": {"total":7900.00, "Chief Executive's":7900.00},
+			"2017-09": {"total":7900.00, "Chief Executive's":7900.00},
+			"2019-01": {"total":7900.00, "Assistant Chief Executive":7900.00},
+			"2020-01": {"total":7900.00, "City Futures":7900.00}
+		}
+	},
+	"8659": {
+		"name": "OLIVER HOUSE PRIORY",
+		"total": 118295.41,
+		"monthly": {
+			"2014-02": {"total":59371.88, "Childrens Services":59371.88},
+			"2015-03": {"total":58923.53, "Childrens Services":58923.53}
+		}
+	},
+	"8660": {
+		"name": "OLIVER TREE SERVICE LTD",
+		"total": 2329,
+		"monthly": {
+			"2010-04": {"total":675.00, "Environment & Regeneration":675.00},
+			"2011-04": {"total":748.00, "Environment & Regeneration":748.00},
+			"2011-05": {"total":426.00, "Environment & Regeneration":426.00},
+			"2011-10": {"total":480.00, "Environment & Regeneration":480.00}
+		}
+	},
+	"8661": {
+		"name": "OLIVERS TREE SERVICES LTD",
+		"total": 1140,
+		"monthly": {
+			"2019-03": {"total":1140.00, "Operations & Reg Services":1140.00}
+		}
+	},
+	"8662": {
+		"name": "OLM E-BUSINESS LTD",
+		"total": 1000,
+		"monthly": {
+			"2011-11": {"total":1000.00, "Environment & Regeneration":1000.00}
+		}
+	},
+	"8663": {
+		"name": "OLM PROFESSIONAL SERVICES",
+		"total": 1086.5,
+		"monthly": {
+			"2011-01": {"total":1086.50, "Chief Executives":1086.50}
+		}
+	},
+	"8664": {
+		"name": "OLM SYSTEMS LTD",
+		"total": 2842604.01,
+		"monthly": {
+			"2010-06": {"total":151250.91, "City Service":151250.91},
+			"2010-12": {"total":2815.70, "Chief Executives":2815.70},
+			"2011-03": {"total":2783.22, "Chief Executives":2783.22},
+			"2011-06": {"total":224336.05, "Adult and Culture":224336.05},
+			"2012-01": {"total":5467.41, "Adult and Culture":5467.41},
+			"2012-03": {"total":1122.79, "Adult and Culture":1122.79},
+			"2012-04": {"total":167476.05, "Adult and Culture":167476.05},
+			"2012-06": {"total":3900.00, "Adult and Culture":3900.00},
+			"2012-08": {"total":13000.00, "Adult & Culture":13000.00},
+			"2012-11": {"total":1000.00, "unknown":1000.00},
+			"2013-01": {"total":5630.21, "unknown":5630.21},
+			"2013-04": {"total":167476.05, "unknown":167476.05},
+			"2014-04": {"total":1000.00, "Adult and Culture":1000.00},
+			"2014-07": {"total":299000.00, "Adult and Culture":299000.00},
+			"2014-08": {"total":1700.00, "Adult and Culture":1700.00},
+			"2014-09": {"total":650.00, "Adult and Culture":650.00},
+			"2014-10": {"total":1435.00, "Adult and Culture":1435.00},
+			"2014-11": {"total":500.00, "Adult and Culture":500.00},
+			"2015-06": {"total":131000.00, "Adult and Culture":131000.00},
+			"2015-07": {"total":36700.00, "Adult and Culture":36700.00},
+			"2015-08": {"total":45500.00, "Adult and Culture":45500.00},
+			"2015-11": {"total":1600.00, "Adult and Culture":1600.00},
+			"2016-03": {"total":6550.00, "Adult and Culture":6550.00},
+			"2016-04": {"total":3350.00, "Adult and Culture":3350.00},
+			"2016-05": {"total":12391.65, "Adult and Culture":12391.65},
+			"2016-06": {"total":22958.30, "Adult and Culture":22958.30},
+			"2016-08": {"total":11541.65, "Adult and Culture":11541.65},
+			"2016-09": {"total":11541.65, "Adult and Culture":11541.65},
+			"2016-10": {"total":11266.65, "Adult and Culture":11266.65},
+			"2016-11": {"total":11541.65, "Adult and Culture":11541.65},
+			"2016-12": {"total":11541.65, "Adult and Culture":11541.65},
+			"2017-01": {"total":11941.65, "Adult and Culture":11941.65},
+			"2017-03": {"total":23708.30, "Adult and Culture":23708.30},
+			"2017-04": {"total":11541.65, "Adult and Culture":11541.65},
+			"2017-07": {"total":219000.00, "Adult and Culture":219000.00},
+			"2017-08": {"total":7800.00, "Adult and Culture":7800.00},
+			"2017-10": {"total":270.00, "Adult and Culture":270.00},
+			"2018-02": {"total":10450.00, "Chief Executive's":10450.00},
+			"2018-04": {"total":222000.00, "Adult and Culture":222000.00},
+			"2018-08": {"total":500.00, "Adult and Culture":500.00},
+			"2018-12": {"total":1000.00, "People":1000.00},
+			"2019-03": {"total":320000.00, "People":320000.00},
+			"2019-04": {"total":219000.00, "People":219000.00},
+			"2020-03": {"total":52500.00, "ASC & Integrated Services":52500.00},
+			"2020-06": {"total":102865.82, "Resources":102865.82},
+			"2020-07": {"total":178000.00, "Resources":178000.00},
+			"2020-08": {"total":94000.00, "Resources":94000.00}
+		}
+	},
+	"8665": {
+		"name": "OM INTERACTIVE LTD",
+		"total": 24095,
+		"monthly": {
+			"2012-06": {"total":24095.00, "Chief Executive's":24095.00}
+		}
+	},
+	"8666": {
+		"name": "OMBEA LTD",
+		"total": 2048,
+		"monthly": {
+			"2018-08": {"total":1648.00, "Adult and Culture":1648.00},
+			"2019-11": {"total":400.00, "Operations & Reg Services":400.00}
+		}
+	},
+	"8667": {
+		"name": "OMEGA FIRE ENGINEERING LTD",
+		"alternate-names": [
+			"OMEGA FIRE ENGINEERING LIMITED"
+		],
+		"total": 5650,
+		"monthly": {
+			"2017-03": {"total":2000.00, "HRA":2000.00},
+			"2020-06": {"total":3650.00, "Housing Revenue Account":3650.00}
+		}
+	},
+	"8668": {
+		"name": "OMEGA MUSIC (UK) LTD",
+		"total": 5441.97,
+		"monthly": {
+			"2010-11": {"total":588.90, "Childrens Services":588.90},
+			"2011-05": {"total":530.50, "Childrens Services":530.50},
+			"2012-12": {"total":224.92, "unknown":224.92},
+			"2014-05": {"total":290.65, "Childrens Services":290.65},
+			"2014-07": {"total":3180.00, "Childrens Services":3180.00},
+			"2014-11": {"total":627.00, "Childrens Services":627.00}
+		}
+	},
+	"8669": {
+		"name": "OMEGA RED GROUP LTD",
+		"total": 2030.36,
+		"monthly": {
+			"2010-06": {"total":814.30, "Environment & Regeneration":814.30},
+			"2010-11": {"total":431.62, "Environment & Regeneration":431.62},
+			"2012-03": {"total":784.44, "Environment & Regeneration":784.44}
+		}
+	},
+	"8670": {
+		"name": "OMFAX SYSTEMS LTD",
+		"total": 60853,
+		"monthly": {
+			"2014-10": {"total":2500.00, "Environment & Regeneration":2500.00},
+			"2016-03": {"total":5620.00, "HRA":5620.00},
+			"2016-07": {"total":3300.00, "HRA":3300.00},
+			"2017-01": {"total":3300.00, "HRA":3300.00},
+			"2017-02": {"total":548.00, "HRA":548.00},
+			"2017-04": {"total":3388.00, "HRA":3388.00},
+			"2018-02": {"total":30150.00, "HRA":30150.00},
+			"2018-03": {"total":3489.00, "HRA":3489.00},
+			"2018-04": {"total":3400.00, "HRA":3400.00},
+			"2019-05": {"total":5158.00, "HRA Expenditure":5158.00}
+		}
+	},
+	"8671": {
+		"name": "OMNICOM IT SERVICES",
+		"total": 725,
+		"monthly": {
+			"2010-04": {"total":725.00, "Childrens Services":725.00}
+		}
+	},
+	"8672": {
+		"name": "OMOSLIMITED",
+		"total": 6214.41,
+		"monthly": {
+			"2012-05": {"total":6214.41, "Environment & Regeneration":6214.41}
+		}
+	},
+	"8673": {
+		"name": "ON A ROLL SANDWICH CO LTD",
+		"total": 59117.7,
+		"monthly": {
+			"2013-10": {"total":2322.26, "Environment & Regeneration":2322.26},
+			"2013-11": {"total":2480.82, "Environment & Regeneration":2480.82},
+			"2013-12": {"total":5271.41, "Environment & Regeneration":5271.41},
+			"2014-01": {"total":872.09, "Environment & Regeneration":872.09},
+			"2014-03": {"total":612.69, "Environment & Regeneration":612.69},
+			"2014-04": {"total":2320.44, "Environment & Regeneration":2320.44},
+			"2014-11": {"total":343.08, "Environment & Regeneration":343.08},
+			"2014-12": {"total":1054.44, "Environment & Regeneration":1054.44},
+			"2016-08": {"total":742.50, "Environment & Regeneration":742.50},
+			"2019-06": {"total":724.20, "People":724.20},
+			"2019-08": {"total":453.57, "People":453.57},
+			"2019-09": {"total":18696.20, "Public Health Service":18696.20},
+			"2019-10": {"total":2959.80, "People":374.80, "Public Health Service":2585.00},
+			"2019-12": {"total":333.20, "Operations & Reg Services":333.20},
+			"2020-01": {"total":1524.10, "Operations & Reg Services":1524.10},
+			"2020-04": {"total":583.00, "Public Health Service":583.00},
+			"2020-05": {"total":6806.80, "Operations & Reg Services":6426.20, "Public Health Service":380.60},
+			"2020-06": {"total":627.20, "Operations & Reg Services":627.20},
+			"2020-09": {"total":10389.90, "Operations & Reg Services":10389.90}
+		}
+	},
+	"8674": {
+		"name": "ON MEDICAL LTD",
+		"total": 2040,
+		"monthly": {
+			"2011-06": {"total":540.00, "Chief Executive's":540.00},
+			"2013-02": {"total":450.00, "unknown":450.00},
+			"2013-04": {"total":540.00, "unknown":540.00},
+			"2013-07": {"total":510.00, "unknown":510.00}
+		}
+	},
+	"8675": {
+		"name": "ON THE MARK LEARNING LTD",
+		"total": 1632.16,
+		"monthly": {
+			"2014-05": {"total":982.16, "Childrens Services":982.16},
+			"2016-04": {"total":650.00, "Childrens Services":650.00}
+		}
+	},
+	"8676": {
+		"name": "ON-PROPERTY",
+		"total": 253683.51,
+		"monthly": {
+			"2011-04": {"total":5750.00, "Adult and Culture":5750.00},
+			"2011-07": {"total":6123.08, "Adult and Culture":6123.08},
+			"2011-10": {"total":5750.00, "Adult and Culture":5750.00},
+			"2012-01": {"total":5750.00, "Adult and Culture":5750.00},
+			"2012-04": {"total":5750.00, "Adult and Culture":5750.00},
+			"2012-07": {"total":5750.00, "Adult & Culture":5750.00},
+			"2012-09": {"total":5750.00, "unknown":5750.00},
+			"2012-12": {"total":5750.00, "unknown":5750.00},
+			"2013-03": {"total":5750.00, "unknown":5750.00},
+			"2013-05": {"total":369.40, "unknown":369.40},
+			"2013-07": {"total":6900.00, "unknown":6900.00},
+			"2013-09": {"total":6612.50, "Childrens Services":6612.50},
+			"2014-01": {"total":6612.50, "Adult and Culture":6612.50},
+			"2014-03": {"total":6612.50, "Adult and Culture":6612.50},
+			"2014-05": {"total":372.20, "Adult and Culture":372.20},
+			"2014-07": {"total":6612.50, "Adult and Culture":6612.50},
+			"2014-09": {"total":6612.50, "Adult and Culture":6612.50},
+			"2014-12": {"total":6612.50, "Adult and Culture":6612.50},
+			"2015-04": {"total":6612.50, "Adult and Culture":6612.50},
+			"2015-06": {"total":6990.46, "Adult and Culture":6990.46},
+			"2015-09": {"total":6612.50, "Adult and Culture":6612.50},
+			"2015-12": {"total":6612.50, "Adult and Culture":6612.50},
+			"2016-04": {"total":6612.50, "Adult and Culture":6612.50},
+			"2016-06": {"total":6955.19, "Adult and Culture":6955.19},
+			"2016-09": {"total":6612.50, "Adult and Culture":6612.50},
+			"2017-01": {"total":6612.50, "Adult and Culture":6612.50},
+			"2017-03": {"total":6612.50, "Adult and Culture":6612.50},
+			"2017-06": {"total":320.00, "Adult and Culture":320.00},
+			"2017-07": {"total":6612.50, "Adult and Culture":6612.50},
+			"2017-10": {"total":6612.50, "Adult and Culture":6612.50},
+			"2018-01": {"total":6612.50, "Adult and Culture":6612.50},
+			"2018-04": {"total":6612.50, "Adult and Culture":6612.50},
+			"2018-06": {"total":344.46, "Adult and Culture":344.46},
+			"2018-08": {"total":6612.50, "Adult and Culture":6612.50},
+			"2018-10": {"total":6612.50, "People":6612.50},
+			"2019-01": {"total":6612.50, "People":6612.50},
+			"2019-04": {"total":6612.50, "People":6612.50},
+			"2019-06": {"total":6956.96, "People":6956.96},
+			"2019-10": {"total":6612.50, "People":6612.50},
+			"2020-04": {"total":13225.00, "ASC & Integrated Services":13225.00},
+			"2020-06": {"total":6612.50, "ASC & Integrated Services":6612.50},
+			"2020-07": {"total":426.76, "ASC & Integrated Services":426.76},
+			"2020-09": {"total":6612.50, "ASC & Integrated Services":6612.50}
+		}
+	},
+	"8677": {
+		"name": "ONE ASSOCIATES LTD",
+		"total": 625.26,
+		"monthly": {
+			"2014-02": {"total":625.26, "Adult and Culture":625.26}
+		}
+	},
+	"8678": {
+		"name": "ONE AWARDS",
+		"total": 450,
+		"monthly": {
+			"2015-09": {"total":450.00, "Childrens Services":450.00}
+		}
+	},
+	"8679": {
+		"name": "ONE CALL AIR CONDITIONING LTD",
+		"total": 3681,
+		"monthly": {
+			"2014-12": {"total":2912.00, "Environment & Regeneration":2912.00},
+			"2015-04": {"total":769.00, "Environment & Regeneration":769.00}
+		}
+	},
+	"8680": {
+		"name": "ONE DAY CREATIVE LTD",
+		"total": 1285,
+		"monthly": {
+			"2014-10": {"total":990.00, "Childrens Services":990.00},
+			"2014-11": {"total":295.00, "Childrens Services":295.00}
+		}
+	},
+	"8681": {
+		"name": "ONE LANDSCAPES LTD",
+		"total": 2292.62,
+		"monthly": {
+			"2013-10": {"total":416.84, "Adult and Culture":416.84},
+			"2013-12": {"total":416.84, "Adult and Culture":416.84},
+			"2014-02": {"total":416.84, "Adult and Culture":416.84},
+			"2014-05": {"total":625.26, "Adult and Culture":625.26},
+			"2014-08": {"total":416.84, "Adult and Culture":416.84}
+		}
+	},
+	"8682": {
+		"name": "ONE LOVE NORTH EAST CIC",
+		"total": 7218,
+		"monthly": {
+			"2012-11": {"total":888.00, "unknown":888.00},
+			"2013-05": {"total":4700.00, "unknown":4700.00},
+			"2013-09": {"total":400.00, "Adult and Culture":400.00},
+			"2013-11": {"total":400.00, "Childrens Services":400.00},
+			"2014-03": {"total":400.00, "Adult and Culture":400.00},
+			"2016-03": {"total":430.00, "Environment & Regeneration":430.00}
+		}
+	},
+	"8683": {
+		"name": "ONE NORTH EAST",
+		"total": 77426.05,
+		"monthly": {
+			"2010-05": {"total":6762.00, "Environment & Regeneration":6762.00},
+			"2010-09": {"total":5000.00, "Chief Executives":5000.00},
+			"2010-11": {"total":21250.00, "Environment & Regeneration":21250.00},
+			"2011-03": {"total":21250.00, "Environment & Regeneration":21250.00},
+			"2011-09": {"total":14918.58, "Chief Executive's":14918.58},
+			"2011-10": {"total":3272.61, "Environment & Regeneration":3272.61},
+			"2011-11": {"total":4972.86, "Chief Executive's":4972.86}
+		}
+	},
+	"8684": {
 		"name": "ONE NUCLEUS LTD",
 		"alternate-names": [
 			"ONE NUCLEUS LIMITED"
 		],
-		"total": 3075,
+		"total": 4300,
 		"monthly": {
 			"2018-10": {"total":1875.00, "Place":1875.00},
-			"2019-11": {"total":1200.00, "Place":1200.00}
+			"2019-11": {"total":1200.00, "Place":1200.00},
+			"2020-08": {"total":1225.00, "Place":1225.00}
 		}
 	},
-	"8651": {
+	"8685": {
 		"name": "ONE PLUS ONE MARRIAGE AND PARTNERSHIP RE",
 		"total": 1750,
 		"monthly": {
 			"2018-03": {"total":1750.00, "Childrens Services":1750.00}
 		}
 	},
-	"8652": {
+	"8686": {
 		"name": "ONE STEP CARE LTD",
 		"alternate-names": [
 			"ONE STEP CARE LIMITED"
 		],
-		"total": 71461,
+		"total": 96317,
 		"monthly": {
 			"2020-04": {"total":34177.00, "Children, Education and Skills":34177.00},
 			"2020-05": {"total":12428.00, "Children, Education and Skills":12428.00},
 			"2020-06": {"total":12428.00, "Children, Education and Skills":12428.00},
-			"2020-07": {"total":12428.00, "Children, Education and Skills":12428.00}
+			"2020-07": {"total":12428.00, "Children, Education and Skills":12428.00},
+			"2020-08": {"total":12428.00, "Children, Education and Skills":12428.00},
+			"2020-09": {"total":12428.00, "Children, Education and Skills":12428.00}
 		}
 	},
-	"8653": {
+	"8687": {
 		"name": "ONE STOP 3053",
 		"total": 1178.32,
 		"monthly": {
@@ -41,16 +563,16 @@
 			"2016-01": {"total":544.04, "Adult and Culture":544.04}
 		}
 	},
-	"8654": {
+	"8688": {
 		"name": "ONE WORLD TRADING LTD",
 		"total": 639.76,
 		"monthly": {
 			"2012-09": {"total":639.76, "unknown":639.76}
 		}
 	},
-	"8655": {
+	"8689": {
 		"name": "ONE51 ES PLASTICS (UK) LTD",
-		"total": 543169,
+		"total": 561859,
 		"monthly": {
 			"2016-06": {"total":9800.00, "Environment & Regeneration":9800.00},
 			"2016-07": {"total":4400.00, "Environment & Regeneration":4400.00},
@@ -78,10 +600,11 @@
 			"2020-04": {"total":1602.00, "Operations & Reg Services":1602.00},
 			"2020-05": {"total":6285.00, "Operations & Reg Services":6285.00},
 			"2020-06": {"total":25380.00, "Operations & Reg Services":25380.00},
-			"2020-07": {"total":9570.00, "Operations & Reg Services":9570.00}
+			"2020-07": {"total":9570.00, "Operations & Reg Services":9570.00},
+			"2020-08": {"total":18690.00, "Operations & Reg Services":18690.00}
 		}
 	},
-	"8656": {
+	"8690": {
 		"name": "ONENINEFOUR STUDIO",
 		"total": 23000,
 		"monthly": {
@@ -92,7 +615,7 @@
 			"2017-07": {"total":2000.00, "Environment & Regeneration":2000.00}
 		}
 	},
-	"8657": {
+	"8691": {
 		"name": "ONESOURCE INFORMATION SERVICES",
 		"total": 9200,
 		"monthly": {
@@ -100,7 +623,7 @@
 			"2013-03": {"total":4600.00, "unknown":4600.00}
 		}
 	},
-	"8658": {
+	"8692": {
 		"name": "ONLINE ENGINEERING LTD",
 		"total": 152210.3,
 		"monthly": {
@@ -114,7 +637,7 @@
 			"2011-12": {"total":2407.20, "HRA":2407.20}
 		}
 	},
-	"8659": {
+	"8693": {
 		"name": "ONLINE ERGONOMICS",
 		"total": 1334.8,
 		"monthly": {
@@ -122,7 +645,7 @@
 			"2017-12": {"total":530.64, "Childrens Services":530.64}
 		}
 	},
-	"8660": {
+	"8694": {
 		"name": "ONLINE OFFICE SUPPLIES UK LTD",
 		"total": 4972.5,
 		"monthly": {
@@ -133,7 +656,7 @@
 			"2014-10": {"total":1218.00, "Childrens Services":1218.00}
 		}
 	},
-	"8661": {
+	"8695": {
 		"name": "ONLINE-ERGONOMICS",
 		"total": 1441.41,
 		"monthly": {
@@ -141,7 +664,7 @@
 			"2011-08": {"total":740.48, "Adult and Culture":740.48}
 		}
 	},
-	"8662": {
+	"8696": {
 		"name": "ONYX INTERNET LTD",
 		"alternate-names": [
 			"ONYX INTERNET LIMITED"
@@ -152,7 +675,7 @@
 			"2015-09": {"total":3000.00, "Chief Executive's":3000.00}
 		}
 	},
-	"8663": {
+	"8697": {
 		"name": "OPAL CS LTD",
 		"total": 63000,
 		"monthly": {
@@ -161,7 +684,7 @@
 			"2015-09": {"total":3000.00, "Chief Executive's":3000.00}
 		}
 	},
-	"8664": {
+	"8698": {
 		"name": "OPAL ENVELOPES LTD",
 		"total": 17641.31,
 		"monthly": {
@@ -180,522 +703,11 @@
 			"2020-05": {"total":11029.50, "Resources":11029.50}
 		}
 	},
-	"8665": {
+	"8699": {
 		"name": "OPAL TELECOM",
 		"total": 548.4,
 		"monthly": {
 			"2010-04": {"total":548.40, "Childrens Services":548.40}
-		}
-	},
-	"8666": {
-		"name": "OPEN CLASP THEATRE COMPANY",
-		"total": 66042.98,
-		"monthly": {
-			"2010-04": {"total":1000.00, "Childrens Services":1000.00},
-			"2010-08": {"total":5000.00, "Adult and Culture":5000.00},
-			"2011-02": {"total":1000.00, "Chief Executives":1000.00},
-			"2011-03": {"total":700.00, "Childrens Services":700.00},
-			"2011-06": {"total":4229.07, "Adult and Culture":4229.07},
-			"2011-09": {"total":4423.51, "Adult and Culture":4423.51},
-			"2011-10": {"total":2000.00, "Adult and Culture":2000.00},
-			"2011-12": {"total":4423.51, "Adult and Culture":4423.51},
-			"2012-01": {"total":1300.00, "Childrens Services":1300.00},
-			"2012-03": {"total":4423.91, "Adult and Culture":4423.91},
-			"2012-05": {"total":1000.00, "Adult and Culture":1000.00},
-			"2012-06": {"total":4141.20, "Adult and Culture":4141.20},
-			"2012-09": {"total":4433.52, "unknown":4433.52},
-			"2012-12": {"total":4433.52, "unknown":4433.52},
-			"2013-03": {"total":4434.74, "unknown":4434.74},
-			"2013-07": {"total":4374.37, "unknown":4374.37},
-			"2013-09": {"total":4374.37, "Adult and Culture":4374.37},
-			"2013-12": {"total":4374.37, "Adult and Culture":4374.37},
-			"2014-03": {"total":4376.89, "Adult and Culture":4376.89},
-			"2015-03": {"total":600.00, "Childrens Services":600.00},
-			"2015-05": {"total":1000.00, "Childrens Services":1000.00}
-		}
-	},
-	"8667": {
-		"name": "OPEN COLLEGE NETWORK (NE REGION)",
-		"total": 5025,
-		"monthly": {
-			"2010-06": {"total":1025.00, "Childrens Services":1025.00},
-			"2010-07": {"total":3275.00, "Chief Executives":2600.00, "Childrens Services":675.00},
-			"2011-01": {"total":725.00, "Childrens Services":725.00}
-		}
-	},
-	"8668": {
-		"name": "OPEN DOORS MEDIA LTD",
-		"total": 480,
-		"monthly": {
-			"2012-12": {"total":480.00, "unknown":480.00}
-		}
-	},
-	"8669": {
-		"name": "OPEN FORUM EVENTS",
-		"total": 1604.85,
-		"monthly": {
-			"2015-12": {"total":1604.85, "Chief Executive's":1604.85}
-		}
-	},
-	"8670": {
-		"name": "OPEN MINDS",
-		"total": 4175.35,
-		"monthly": {
-			"2012-07": {"total":2935.05, "Adult & Culture":2935.05},
-			"2012-11": {"total":1240.30, "unknown":1240.30}
-		}
-	},
-	"8671": {
-		"name": "OPEN OBJECTS SOFTWARE LTD",
-		"total": 120120,
-		"monthly": {
-			"2011-04": {"total":14857.00, "Childrens Services":14857.00},
-			"2011-05": {"total":1714.00, "Childrens Services":1714.00},
-			"2012-01": {"total":3990.00, "Childrens Services":3990.00},
-			"2012-02": {"total":13025.00, "Childrens Services":13025.00},
-			"2012-04": {"total":1900.00, "Childrens Services":1900.00},
-			"2013-04": {"total":12905.00, "unknown":12905.00},
-			"2013-09": {"total":6740.00, "Childrens Services":6740.00},
-			"2014-02": {"total":13729.00, "Childrens Services":13729.00},
-			"2015-09": {"total":15000.00, "Childrens Services":15000.00},
-			"2016-02": {"total":21000.00, "Childrens Services":21000.00},
-			"2016-08": {"total":15260.00, "Childrens Services":15260.00}
-		}
-	},
-	"8672": {
-		"name": "OPEN REALITY LTD",
-		"total": 6494,
-		"monthly": {
-			"2015-06": {"total":4596.00, "Chief Executive's":4596.00},
-			"2016-07": {"total":585.00, "Chief Executive's":585.00},
-			"2017-04": {"total":614.00, "Chief Executive's":614.00},
-			"2018-05": {"total":699.00, "Chief Executive's":699.00}
-		}
-	},
-	"8673": {
-		"name": "OPEN TEXT UK LTD",
-		"total": 144001.05,
-		"monthly": {
-			"2010-07": {"total":14276.10, "City Service":14276.10},
-			"2014-04": {"total":38713.00, "Chief Executive's":38713.00},
-			"2015-04": {"total":20022.92, "Chief Executive's":20022.92},
-			"2016-03": {"total":22025.21, "Chief Executive's":22025.21},
-			"2017-03": {"total":24227.74, "Chief Executive's":24227.74},
-			"2018-03": {"total":24227.74, "Chief Executive's":24227.74},
-			"2020-07": {"total":508.34, "Resources":508.34}
-		}
-	},
-	"8674": {
-		"name": "OPEN UNIVERSITY",
-		"total": 50913.1,
-		"monthly": {
-			"2010-04": {"total":825.00, "Adult and Culture":825.00},
-			"2010-06": {"total":5675.00, "Adult and Culture":5675.00},
-			"2010-07": {"total":3365.00, "Adult and Culture":3365.00},
-			"2010-12": {"total":600.00, "Adult and Culture":600.00},
-			"2011-02": {"total":650.00, "Childrens Services":650.00},
-			"2011-03": {"total":3300.00, "Adult and Culture":3300.00},
-			"2011-07": {"total":3420.00, "Adult and Culture":3420.00},
-			"2011-11": {"total":2910.00, "Adult and Culture":915.00, "Childrens Services":1995.00},
-			"2012-03": {"total":3275.00, "Adult and Culture":3275.00},
-			"2012-06": {"total":3160.00, "Adult and Culture":3160.00},
-			"2012-12": {"total":1250.00, "unknown":1250.00},
-			"2013-02": {"total":8959.50, "unknown":8959.50},
-			"2013-07": {"total":1250.00, "unknown":1250.00},
-			"2013-10": {"total":9735.60, "Childrens Services":9735.60},
-			"2013-11": {"total":830.00, "Adult and Culture":830.00},
-			"2013-12": {"total":427.00, "Childrens Services":427.00},
-			"2014-03": {"total":1281.00, "Adult and Culture":1281.00}
-		}
-	},
-	"8675": {
-		"name": "OPENING DOORS NEWCASTLE",
-		"total": 44362,
-		"monthly": {
-			"2017-06": {"total":5650.68, "Adult and Culture":5650.68},
-			"2017-09": {"total":5529.16, "Adult and Culture":5529.16},
-			"2017-12": {"total":5529.16, "Adult and Culture":5529.16},
-			"2018-03": {"total":5472.00, "Adult and Culture":5472.00},
-			"2018-04": {"total":5589.92, "Adult and Culture":5589.92},
-			"2018-06": {"total":5529.16, "Adult and Culture":5529.16},
-			"2018-09": {"total":5529.16, "Adult and Culture":5529.16},
-			"2018-12": {"total":5532.76, "Assistant Chief Executive":5532.76}
-		}
-	},
-	"8676": {
-		"name": "OPENING THE BOOK FURNITURE",
-		"total": 6189.5,
-		"monthly": {
-			"2015-05": {"total":550.00, "Adult and Culture":550.00},
-			"2016-03": {"total":1084.50, "Adult and Culture":1084.50},
-			"2016-05": {"total":1565.00, "Adult and Culture":1565.00},
-			"2016-07": {"total":800.00, "Adult and Culture":800.00},
-			"2016-12": {"total":450.00, "Adult and Culture":450.00},
-			"2017-12": {"total":375.00, "Adult and Culture":375.00},
-			"2018-04": {"total":1365.00, "Adult and Culture":1365.00}
-		}
-	},
-	"8677": {
-		"name": "OPENING THE BOOK PROMOTIONS LTD",
-		"total": 5814,
-		"monthly": {
-			"2011-01": {"total":1205.00, "Adult and Culture":1205.00},
-			"2011-03": {"total":2449.00, "Adult and Culture":2449.00},
-			"2012-03": {"total":2160.00, "Adult and Culture":2160.00}
-		}
-	},
-	"8678": {
-		"name": "OPENREACH (A BT GP.BUSINESS)",
-		"total": 326335.03,
-		"monthly": {
-			"2010-05": {"total":12958.90, "Environment & Regeneration":12958.90},
-			"2010-09": {"total":519.04, "Environment & Regeneration":519.04},
-			"2010-12": {"total":1067.28, "Environment & Regeneration":1067.28},
-			"2011-02": {"total":5001.14, "Environment & Regeneration":5001.14},
-			"2011-04": {"total":4325.38, "Environment & Regeneration":4325.38},
-			"2011-05": {"total":1297.60, "Environment & Regeneration":1297.60},
-			"2011-06": {"total":9920.94, "Environment & Regeneration":9920.94},
-			"2011-07": {"total":1257.87, "Environment & Regeneration":1257.87},
-			"2011-10": {"total":810.00, "Environment & Regeneration":810.00},
-			"2011-12": {"total":3976.00, "Environment & Regeneration":3976.00},
-			"2012-02": {"total":2423.20, "Environment & Regeneration":2423.20},
-			"2012-03": {"total":1126.12, "Environment & Regeneration":1126.12},
-			"2012-05": {"total":866.95, "Environment & Regeneration":866.95},
-			"2012-07": {"total":1456.40, "Environment & Regeneration":1456.40},
-			"2012-08": {"total":4309.27, "Environment & Regeneration":4309.27},
-			"2012-11": {"total":1244.00, "unknown":1244.00},
-			"2012-12": {"total":839.96, "unknown":839.96},
-			"2013-01": {"total":3518.87, "unknown":3518.87},
-			"2013-09": {"total":1082.72, "Environment & Regeneration":1082.72},
-			"2013-12": {"total":36173.21, "Environment & Regeneration":36173.21},
-			"2014-01": {"total":2000.00, "Environment & Regeneration":2000.00},
-			"2014-02": {"total":9732.91, "Environment & Regeneration":9732.91},
-			"2014-03": {"total":2094.52, "Environment & Regeneration":2094.52},
-			"2014-06": {"total":15652.39, "Environment & Regeneration":15652.39},
-			"2014-07": {"total":7431.75, "Environment & Regeneration":7431.75},
-			"2014-09": {"total":147086.09, "Environment & Regeneration":147086.09},
-			"2014-10": {"total":525.83, "Environment & Regeneration":525.83},
-			"2015-05": {"total":609.39, "Environment & Regeneration":609.39},
-			"2015-06": {"total":812.52, "Environment & Regeneration":812.52},
-			"2015-09": {"total":2505.27, "Environment & Regeneration":2505.27},
-			"2015-11": {"total":2683.27, "Environment & Regeneration":2683.27},
-			"2016-09": {"total":6112.45, "Environment & Regeneration":6112.45},
-			"2016-10": {"total":1610.23, "Environment & Regeneration":1050.15, "HRA":560.08},
-			"2016-11": {"total":812.52, "Environment & Regeneration":812.52},
-			"2016-12": {"total":31440.89, "Environment & Regeneration":31440.89},
-			"2017-02": {"total":1050.15, "Environment & Regeneration":1050.15}
-		}
-	},
-	"8679": {
-		"name": "OPENVIEW GROUP",
-		"total": 529.68,
-		"monthly": {
-			"2012-05": {"total":529.68, "Chief Executive's":529.68}
-		}
-	},
-	"8680": {
-		"name": "OPENVIEW SECURITY SOLUTIONS LTD",
-		"total": 9380216.3,
-		"monthly": {
-			"2012-10": {"total":20305.00, "unknown":20305.00},
-			"2012-11": {"total":51527.95, "unknown":51527.95},
-			"2013-01": {"total":28910.48, "unknown":28910.48},
-			"2013-02": {"total":701531.69, "unknown":701531.69},
-			"2013-04": {"total":382541.10, "unknown":382541.10},
-			"2013-05": {"total":167451.09, "unknown":167451.09},
-			"2013-06": {"total":729632.17, "unknown":729632.17},
-			"2013-07": {"total":592577.82, "unknown":592577.82},
-			"2013-08": {"total":115128.50, "Environment & Regeneration":610.00, "HRA":114518.50},
-			"2013-09": {"total":287647.81, "HRA":287647.81},
-			"2013-10": {"total":305.00, "Environment & Regeneration":305.00},
-			"2013-11": {"total":696415.47, "HRA":696415.47},
-			"2014-01": {"total":339450.52, "Environment & Regeneration":305.00, "HRA":339145.52},
-			"2014-02": {"total":606102.60, "Environment & Regeneration":305.00, "HRA":605797.60},
-			"2014-03": {"total":244755.88, "HRA":244755.88},
-			"2014-04": {"total":720.00, "Environment & Regeneration":305.00, "HRA":415.00},
-			"2014-05": {"total":374386.98, "Environment & Regeneration":305.00, "HRA":374081.98},
-			"2014-06": {"total":63744.71, "Environment & Regeneration":305.00, "HRA":63439.71},
-			"2014-07": {"total":90978.39, "HRA":90978.39},
-			"2014-08": {"total":305.00, "Environment & Regeneration":305.00},
-			"2014-09": {"total":604409.98, "Environment & Regeneration":610.00, "HRA":603799.98},
-			"2014-11": {"total":82966.01, "Environment & Regeneration":305.00, "HRA":82661.01},
-			"2014-12": {"total":460834.53, "HRA":460834.53},
-			"2015-03": {"total":156438.98, "HRA":156438.98},
-			"2015-04": {"total":2738.00, "Environment & Regeneration":488.00, "HRA":2250.00},
-			"2015-06": {"total":192739.19, "HRA":192739.19},
-			"2015-07": {"total":295018.81, "HRA":295018.81},
-			"2015-08": {"total":305.00, "Environment & Regeneration":305.00},
-			"2015-09": {"total":54027.15, "HRA":54027.15},
-			"2015-10": {"total":1800.00, "HRA":1800.00},
-			"2015-11": {"total":160709.27, "Environment & Regeneration":305.00, "HRA":160404.27},
-			"2015-12": {"total":152377.21, "HRA":152377.21},
-			"2016-01": {"total":94669.71, "Environment & Regeneration":1260.00, "HRA":93409.71},
-			"2016-02": {"total":1248.23, "Environment & Regeneration":498.23, "HRA":750.00},
-			"2016-03": {"total":139391.83, "HRA":139391.83},
-			"2016-04": {"total":305.00, "Environment & Regeneration":305.00},
-			"2016-05": {"total":235733.21, "HRA":235733.21},
-			"2016-06": {"total":445415.93, "HRA":445415.93},
-			"2016-08": {"total":2194.00, "Environment & Regeneration":305.00, "HRA":1889.00},
-			"2016-11": {"total":4500.00, "HRA":4500.00},
-			"2016-12": {"total":27481.50, "HRA":27481.50},
-			"2017-01": {"total":19909.81, "HRA":19909.81},
-			"2017-02": {"total":228082.41, "HRA":228082.41},
-			"2017-03": {"total":19223.40, "HRA":19223.40},
-			"2017-05": {"total":31428.35, "HRA":31428.35},
-			"2017-06": {"total":9237.29, "HRA":9237.29},
-			"2017-07": {"total":42732.68, "HRA":42732.68},
-			"2017-08": {"total":8954.57, "HRA":8954.57},
-			"2017-09": {"total":750.00, "HRA":750.00},
-			"2017-10": {"total":21167.01, "HRA":21167.01},
-			"2017-12": {"total":6908.82, "HRA":6908.82},
-			"2018-01": {"total":11018.24, "HRA":11018.24},
-			"2018-02": {"total":2345.38, "HRA":2345.38},
-			"2018-03": {"total":750.00, "HRA":750.00},
-			"2018-04": {"total":8188.58, "HRA":8188.58},
-			"2018-05": {"total":750.00, "HRA":750.00},
-			"2018-06": {"total":3700.00, "HRA":3700.00},
-			"2018-07": {"total":42456.03, "HRA":42456.03},
-			"2018-08": {"total":31331.99, "HRA":31331.99},
-			"2018-09": {"total":1500.00, "HRA":1500.00},
-			"2018-11": {"total":30721.85, "HRA Expenditure":30721.85},
-			"2018-12": {"total":750.00, "HRA Expenditure":750.00},
-			"2019-01": {"total":31752.34, "HRA Expenditure":31752.34},
-			"2019-02": {"total":23941.40, "HRA Expenditure":23941.40},
-			"2019-03": {"total":13833.50, "HRA Expenditure":13233.50, "Housing Revenue Account":600.00},
-			"2019-04": {"total":23433.48, "HRA Expenditure":23433.48},
-			"2019-06": {"total":435.09, "Operations & Reg Services":435.09},
-			"2019-07": {"total":1579.40, "HRA Expenditure":1579.40},
-			"2019-10": {"total":20412.72, "HRA Expenditure":1500.00, "Operations & Reg Services":18912.72},
-			"2019-11": {"total":61060.27, "HRA Expenditure":7919.72, "Operations & Reg Services":53140.55},
-			"2020-01": {"total":15763.61, "Operations & Reg Services":15763.61},
-			"2020-02": {"total":28148.10, "HRA Expenditure":15302.78, "Operations & Reg Services":12845.32},
-			"2020-04": {"total":16476.52, "Operations & Reg Services":16476.52},
-			"2020-06": {"total":10251.76, "Operations & Reg Services":10251.76},
-			"2020-07": {"total":1500.00, "HRA Expenditure":1500.00}
-		}
-	},
-	"8681": {
-		"name": "OPEX CONSULTANCY LTD",
-		"total": 4250,
-		"monthly": {
-			"2016-02": {"total":4250.00, "Childrens Services":4250.00}
-		}
-	},
-	"8682": {
-		"name": "OPEX CONSULTING",
-		"total": 19740.59,
-		"monthly": {
-			"2011-02": {"total":2158.40, "Childrens Services":2158.40},
-			"2011-03": {"total":3000.00, "Childrens Services":3000.00},
-			"2011-05": {"total":5000.00, "Childrens Services":5000.00},
-			"2011-11": {"total":4341.00, "Chief Executive's":4341.00},
-			"2012-04": {"total":5241.19, "Childrens Services":5241.19}
-		}
-	},
-	"8683": {
-		"name": "OPEX CONSULTING LTD",
-		"total": 500,
-		"monthly": {
-			"2016-10": {"total":500.00, "Childrens Services":500.00}
-		}
-	},
-	"8684": {
-		"name": "OPM",
-		"total": 39174.25,
-		"monthly": {
-			"2010-07": {"total":17927.40, "Chief Executives":17927.40},
-			"2010-09": {"total":5159.15, "Chief Executives":5159.15},
-			"2010-11": {"total":900.00, "Chief Executives":900.00},
-			"2011-03": {"total":1350.00, "Chief Executives":1350.00},
-			"2011-06": {"total":1989.90, "Chief Executive's":1989.90},
-			"2011-09": {"total":3794.60, "Chief Executive's":3794.60},
-			"2011-10": {"total":8053.20, "Chief Executive's":8053.20}
-		}
-	},
-	"8685": {
-		"name": "OPP LTD",
-		"alternate-names": [
-			"OPP LIMITED"
-		],
-		"total": 14809,
-		"monthly": {
-			"2013-02": {"total":1927.00, "unknown":1927.00},
-			"2013-04": {"total":1656.00, "unknown":1656.00},
-			"2013-05": {"total":1656.00, "unknown":1656.00},
-			"2014-09": {"total":405.00, "Chief Executive's":405.00},
-			"2014-10": {"total":262.50, "Chief Executive's":262.50},
-			"2015-02": {"total":2580.00, "Chief Executive's":2580.00},
-			"2015-06": {"total":1006.50, "Childrens Services":1006.50},
-			"2016-09": {"total":3199.50, "Chief Executive's":3199.50},
-			"2017-05": {"total":302.50, "Chief Executive's":302.50},
-			"2017-07": {"total":671.00, "Chief Executive's":671.00},
-			"2017-08": {"total":319.50, "Chief Executive's":319.50},
-			"2018-04": {"total":555.50, "Chief Executive's":555.50},
-			"2018-05": {"total":268.00, "Chief Executive's":268.00}
-		}
-	},
-	"8686": {
-		"name": "OPP TRAINING SUPPORT",
-		"total": 16169.5,
-		"monthly": {
-			"2010-04": {"total":2650.00, "City Service":2650.00},
-			"2010-05": {"total":630.00, "Chief Executives":630.00},
-			"2010-06": {"total":2517.50, "Chief Executives":2517.50},
-			"2010-09": {"total":2160.00, "Chief Executives":2160.00},
-			"2010-11": {"total":4270.00, "Chief Executives":1620.00, "Childrens Services":2650.00},
-			"2010-12": {"total":531.00, "Chief Executives":531.00},
-			"2011-02": {"total":540.00, "Chief Executives":540.00},
-			"2011-07": {"total":1305.00, "Chief Executive's":1305.00},
-			"2011-08": {"total":522.00, "Chief Executive's":522.00},
-			"2011-09": {"total":1044.00, "Chief Executive's":1044.00}
-		}
-	},
-	"8687": {
-		"name": "OPPORTUNITY LINKS",
-		"total": 9040,
-		"monthly": {
-			"2010-04": {"total":515.00, "Childrens Services":515.00},
-			"2010-09": {"total":8525.00, "Childrens Services":8525.00}
-		}
-	},
-	"8688": {
-		"name": "OPTALIS LTD",
-		"total": 256.75,
-		"monthly": {
-			"2015-10": {"total":256.75, "Adult and Culture":256.75}
-		}
-	},
-	"8689": {
-		"name": "OPTELEC",
-		"total": 1995,
-		"monthly": {
-			"2010-10": {"total":1995.00, "Adult and Culture":1995.00}
-		}
-	},
-	"8690": {
-		"name": "OPTELEC LTD",
-		"total": 1995,
-		"monthly": {
-			"2017-10": {"total":1995.00, "Adult and Culture":1995.00}
-		}
-	},
-	"8691": {
-		"name": "OPTIMA LEGAL",
-		"total": 33353.43,
-		"monthly": {
-			"2015-10": {"total":14732.43, "Adult and Culture":14732.43},
-			"2015-12": {"total":14732.43, "Adult and Culture":14732.43},
-			"2018-02": {"total":3888.57, "Chief Executive's":3888.57}
-		}
-	},
-	"8692": {
-		"name": "OPTIMAL LEARNING",
-		"total": 970.3,
-		"monthly": {
-			"2010-12": {"total":970.30, "Childrens Services":970.30}
-		}
-	},
-	"8693": {
-		"name": "OPTIMUS EDUCATION",
-		"total": 3671.99,
-		"monthly": {
-			"2010-12": {"total":717.99, "Environment & Regeneration":717.99},
-			"2011-10": {"total":718.00, "Childrens Services":718.00},
-			"2012-10": {"total":359.00, "unknown":359.00},
-			"2012-12": {"total":382.00, "unknown":382.00},
-			"2014-02": {"total":518.00, "Childrens Services":518.00},
-			"2014-05": {"total":518.00, "Childrens Services":518.00},
-			"2017-01": {"total":459.00, "Chief Executive's":459.00}
-		}
-	},
-	"8694": {
-		"name": "OPTIMUS PUBLISHING LTD",
-		"total": 285,
-		"monthly": {
-			"2013-12": {"total":285.00, "Childrens Services":285.00}
-		}
-	},
-	"8695": {
-		"name": "OPTIONS MANAGEMENT LTD",
-		"total": 15353.66,
-		"monthly": {
-			"2010-10": {"total":807.95, "Environment & Regeneration":807.95},
-			"2010-11": {"total":700.42, "Environment & Regeneration":700.42},
-			"2011-12": {"total":1854.77, "Environment & Regeneration":1854.77},
-			"2013-05": {"total":145.44, "unknown":145.44},
-			"2014-10": {"total":258.54, "Environment & Regeneration":258.54},
-			"2014-11": {"total":364.00, "Environment & Regeneration":364.00},
-			"2014-12": {"total":364.00, "Environment & Regeneration":364.00},
-			"2015-01": {"total":628.87, "Environment & Regeneration":628.87},
-			"2015-02": {"total":364.00, "Environment & Regeneration":364.00},
-			"2016-01": {"total":810.48, "Environment & Regeneration":810.48},
-			"2016-05": {"total":728.00, "Childrens Services":364.00, "Environment & Regeneration":364.00},
-			"2016-08": {"total":742.22, "Environment & Regeneration":742.22},
-			"2016-10": {"total":642.22, "Environment & Regeneration":642.22},
-			"2016-12": {"total":364.00, "Environment & Regeneration":364.00},
-			"2017-01": {"total":364.00, "Environment & Regeneration":364.00},
-			"2017-02": {"total":621.37, "Childrens Services":364.00, "Environment & Regeneration":257.37},
-			"2017-03": {"total":346.64, "Environment & Regeneration":346.64},
-			"2017-06": {"total":728.00, "Environment & Regeneration":728.00},
-			"2017-09": {"total":364.00, "Environment & Regeneration":364.00},
-			"2017-10": {"total":621.37, "Childrens Services":257.37, "Environment & Regeneration":364.00},
-			"2018-01": {"total":364.00, "Environment & Regeneration":364.00},
-			"2018-02": {"total":257.37, "Environment & Regeneration":257.37},
-			"2018-04": {"total":364.00, "Environment & Regeneration":364.00},
-			"2018-05": {"total":364.00, "Environment & Regeneration":364.00},
-			"2018-10": {"total":364.00, "Operations & Reg Services":364.00},
-			"2018-11": {"total":364.00, "Operations & Reg Services":364.00},
-			"2019-01": {"total":364.00, "Operations & Reg Services":364.00},
-			"2019-04": {"total":364.00, "Operations & Reg Services":364.00},
-			"2019-07": {"total":364.00, "Operations & Reg Services":364.00},
-			"2020-02": {"total":364.00, "Operations & Reg Services":364.00}
-		}
-	},
-	"8696": {
-		"name": "OPUBLISHING LTD",
-		"total": 26500,
-		"monthly": {
-			"2012-02": {"total":4000.00, "Environment & Regeneration":4000.00},
-			"2012-10": {"total":8500.00, "unknown":8500.00},
-			"2013-11": {"total":3500.00, "Environment & Regeneration":3500.00},
-			"2014-08": {"total":3500.00, "Environment & Regeneration":3500.00},
-			"2016-07": {"total":7000.00, "Environment & Regeneration":7000.00}
-		}
-	},
-	"8697": {
-		"name": "OPUS  GAS ENERGY",
-		"total": 329.71,
-		"monthly": {
-			"2017-10": {"total":329.71, "Chief Executive's":329.71}
-		}
-	},
-	"8698": {
-		"name": "OPUS 2 DIGITAL TRANSCRIPTION",
-		"total": 3322.64,
-		"monthly": {
-			"2018-05": {"total":1331.10, "Chief Executive's":1331.10},
-			"2019-10": {"total":494.04, "People":494.04},
-			"2019-12": {"total":510.60, "Children, Education and Skills":510.60},
-			"2020-01": {"total":986.90, "Children, Education and Skills":986.90}
-		}
-	},
-	"8699": {
-		"name": "OPUS BUILDING SERVICES",
-		"total": 1455844.63,
-		"monthly": {
-			"2018-06": {"total":24088.32, "Environment & Regeneration":24088.32},
-			"2018-08": {"total":3976.65, "Environment & Regeneration":3976.65},
-			"2018-12": {"total":100000.00, "Housing Revenue Account":100000.00},
-			"2019-01": {"total":100313.83, "Housing Revenue Account":100313.83},
-			"2019-02": {"total":119520.59, "Housing Revenue Account":119520.59},
-			"2019-03": {"total":220615.72, "Housing Revenue Account":220615.72},
-			"2019-05": {"total":267892.27, "Housing Revenue Account":267892.27},
-			"2019-07": {"total":97092.50, "Housing Revenue Account":97092.50},
-			"2019-08": {"total":179950.08, "Housing Revenue Account":173269.92, "Place":6680.16},
-			"2019-09": {"total":120717.31, "Housing Revenue Account":120717.31},
-			"2019-10": {"total":110057.63, "Housing Revenue Account":110057.63},
-			"2019-11": {"total":104352.52, "Housing Revenue Account":104352.52},
-			"2020-02": {"total":7267.21, "Place":7267.21}
 		}
 	}
 	}

@@ -1,16 +1,669 @@
 {
-	"range": ["2010-04","2020-07"],
+	"range": ["2010-04","2020-09"],
 	"data": {
 	"10450": {
+		"name": "SELECT TELECOM",
+		"total": 26793.46,
+		"monthly": {
+			"2010-04": {"total":7375.00, "Environment & Regeneration":7375.00},
+			"2010-12": {"total":1500.00, "Environment & Regeneration":1500.00},
+			"2011-01": {"total":5450.00, "Chief Executives":5450.00},
+			"2012-05": {"total":1500.00, "Chief Executive's":1500.00},
+			"2012-12": {"total":1400.00, "unknown":1400.00},
+			"2014-11": {"total":580.00, "Chief Executive's":580.00},
+			"2015-05": {"total":1400.00, "Chief Executive's":1400.00},
+			"2015-06": {"total":1400.96, "Chief Executive's":1400.96},
+			"2017-08": {"total":1400.00, "Chief Executive's":1400.00},
+			"2018-03": {"total":1400.00, "Chief Executive's":1400.00},
+			"2019-03": {"total":1400.00, "Place":1400.00},
+			"2020-02": {"total":547.50, "Place":547.50},
+			"2020-04": {"total":1440.00, "Place":1440.00}
+		}
+	},
+	"10451": {
+		"name": "SELECTA MARK SECURITY SYSTEMS PLC",
+		"total": 4396.25,
+		"monthly": {
+			"2012-08": {"total":1159.50, "HRA":1159.50},
+			"2012-10": {"total":1159.00, "unknown":1159.00},
+			"2016-03": {"total":435.00, "Chief Executive's":435.00},
+			"2019-01": {"total":1642.75, "Operations & Reg Services":1642.75}
+		}
+	},
+	"10452": {
+		"name": "SELECTA UK LTD",
+		"total": 48386.52,
+		"monthly": {
+			"2017-11": {"total":1152.21, "Childrens Services":284.79, "Environment & Regeneration":867.42},
+			"2018-01": {"total":1256.61, "Childrens Services":1256.61},
+			"2018-02": {"total":2036.80, "Childrens Services":901.42, "Environment & Regeneration":1135.38},
+			"2018-03": {"total":901.42, "Childrens Services":901.42},
+			"2018-04": {"total":1151.32, "Childrens Services":755.68, "Environment & Regeneration":395.64},
+			"2018-05": {"total":1110.73, "Childrens Services":1110.73},
+			"2018-06": {"total":1746.15, "Childrens Services":1217.48, "Environment & Regeneration":528.67},
+			"2018-07": {"total":774.19, "Childrens Services":774.19},
+			"2018-08": {"total":1125.91, "Childrens Services":1125.91},
+			"2018-09": {"total":1411.58, "Childrens Services":1411.58},
+			"2018-10": {"total":1548.93, "Operations & Reg Services":1548.93},
+			"2018-11": {"total":916.05, "Operations & Reg Services":916.05},
+			"2018-12": {"total":741.68, "Operations & Reg Services":741.68},
+			"2019-03": {"total":2219.97, "Operations & Reg Services":2219.97},
+			"2019-04": {"total":848.06, "Operations & Reg Services":848.06},
+			"2019-05": {"total":1245.62, "Operations & Reg Services":977.32, "Place":268.30},
+			"2019-07": {"total":968.51, "Operations & Reg Services":968.51},
+			"2019-08": {"total":1345.65, "Operations & Reg Services":484.51, "Place":861.14},
+			"2019-09": {"total":823.21, "Operations & Reg Services":484.51, "Place":338.70},
+			"2019-10": {"total":800.92, "Operations & Reg Services":484.51, "Place":316.41},
+			"2019-12": {"total":329.28, "Place":329.28},
+			"2020-01": {"total":3184.37, "Children, Education and Skills":287.78, "Operations & Reg Services":975.05, "Place":1921.54},
+			"2020-02": {"total":2244.71, "Children, Education and Skills":296.44, "Operations & Reg Services":1168.86, "Place":779.41},
+			"2020-03": {"total":4787.81, "Children, Education and Skills":587.81, "Operations & Reg Services":1107.24, "Place":3092.76},
+			"2020-05": {"total":2337.84, "Children, Education and Skills":387.00, "Operations & Reg Services":431.43, "Place":1519.41},
+			"2020-06": {"total":3791.64, "Children, Education and Skills":387.00, "Operations & Reg Services":1863.84, "Place":1540.80},
+			"2020-07": {"total":2922.66, "Children, Education and Skills":387.00, "Operations & Reg Services":1209.68, "Place":1325.98},
+			"2020-08": {"total":4104.99, "Children, Education and Skills":699.58, "Operations & Reg Services":1761.56, "Place":1643.85},
+			"2020-09": {"total":557.70, "Operations & Reg Services":557.70}
+		}
+	},
+	"10453": {
+		"name": "SELF UNLIMITED",
+		"total": 104147.68,
+		"monthly": {
+			"2010-04": {"total":2671.09, "Adult and Culture":2671.09},
+			"2010-06": {"total":5280.62, "Adult and Culture":5280.62},
+			"2010-07": {"total":2597.87, "Adult and Culture":2597.87},
+			"2010-08": {"total":2684.47, "Adult and Culture":2684.47},
+			"2010-09": {"total":2684.47, "Adult and Culture":2684.47},
+			"2010-10": {"total":2597.87, "Adult and Culture":2597.87},
+			"2010-11": {"total":2684.47, "Adult and Culture":2684.47},
+			"2011-01": {"total":2597.87, "Adult and Culture":2597.87},
+			"2011-02": {"total":2684.47, "Adult and Culture":2684.47},
+			"2011-03": {"total":5109.15, "Adult and Culture":5109.15},
+			"2011-05": {"total":2684.47, "Adult and Culture":2684.47},
+			"2011-07": {"total":5282.34, "Adult and Culture":5282.34},
+			"2011-08": {"total":2597.87, "Adult and Culture":2597.87},
+			"2011-09": {"total":5195.75, "Adult and Culture":5195.75},
+			"2012-09": {"total":12398.73, "unknown":12398.73},
+			"2013-02": {"total":4178.79, "unknown":4178.79},
+			"2013-03": {"total":2387.88, "unknown":2387.88},
+			"2013-04": {"total":20898.74, "unknown":20898.74},
+			"2013-05": {"total":9255.43, "unknown":9255.43},
+			"2013-06": {"total":4775.76, "unknown":4775.76},
+			"2013-07": {"total":2387.88, "unknown":2387.88},
+			"2013-08": {"total":511.69, "Adult and Culture":511.69}
+		}
+	},
+	"10454": {
+		"name": "SELLES MEDICAL",
+		"total": 531.07,
+		"monthly": {
+			"2014-10": {"total":259.00, "Childrens Services":259.00},
+			"2014-12": {"total":272.07, "Childrens Services":272.07}
+		}
+	},
+	"10455": {
+		"name": "SELSIUS LTD",
+		"total": 6137.8,
+		"monthly": {
+			"2013-10": {"total":845.00, "Chief Executive's":845.00},
+			"2014-03": {"total":755.00, "Chief Executive's":755.00},
+			"2014-09": {"total":4069.80, "Childrens Services":4069.80},
+			"2014-11": {"total":468.00, "Childrens Services":468.00}
+		}
+	},
+	"10456": {
+		"name": "SELWOOD LTD",
+		"total": 22979.36,
+		"monthly": {
+			"2012-11": {"total":8467.40, "unknown":8467.40},
+			"2013-01": {"total":2581.88, "unknown":2581.88},
+			"2013-02": {"total":1067.75, "unknown":1067.75},
+			"2013-07": {"total":1492.55, "unknown":1492.55},
+			"2013-09": {"total":929.10, "Environment & Regeneration":929.10},
+			"2017-01": {"total":2797.40, "Environment & Regeneration":2797.40},
+			"2017-02": {"total":4965.28, "Environment & Regeneration":4965.28},
+			"2017-03": {"total":678.00, "Environment & Regeneration":678.00}
+		}
+	},
+	"10457": {
+		"name": "SEMITONES",
+		"total": 660,
+		"monthly": {
+			"2016-02": {"total":660.00, "Chief Executive's":660.00}
+		}
+	},
+	"10458": {
+		"name": "SENBLA LIVE EVENTS",
+		"total": 4984.28,
+		"monthly": {
+			"2013-05": {"total":4984.28, "unknown":4984.28}
+		}
+	},
+	"10459": {
+		"name": "SENDRIG CONSTRUCTION LTD",
+		"total": 48949.93,
+		"monthly": {
+			"2012-03": {"total":2827.92, "Childrens Services":2827.92},
+			"2014-06": {"total":4500.00, "HRA":4500.00},
+			"2016-01": {"total":35760.59, "HRA":35760.59},
+			"2016-11": {"total":3477.67, "Childrens Services":3477.67},
+			"2017-02": {"total":2383.75, "HRA":2383.75}
+		}
+	},
+	"10460": {
+		"name": "SENIOR MOVE PARTNERSHIP LTD",
+		"total": 942.6,
+		"monthly": {
+			"2019-06": {"total":942.60, "Place":942.60}
+		}
+	},
+	"10461": {
+		"name": "SENIOR PRESS",
+		"total": 299,
+		"monthly": {
+			"2014-10": {"total":299.00, "Childrens Services":299.00}
+		}
+	},
+	"10462": {
+		"name": "SENSORY CONCEPTS UK LTD",
+		"total": 15899.58,
+		"monthly": {
+			"2011-03": {"total":15899.58, "Environment & Regeneration":15899.58}
+		}
+	},
+	"10463": {
+		"name": "SENSORY PLUS",
+		"total": 4107.62,
+		"monthly": {
+			"2010-04": {"total":3092.85, "Childrens Services":3092.85},
+			"2010-06": {"total":547.25, "Childrens Services":547.25},
+			"2011-03": {"total":467.52, "Childrens Services":467.52}
+		}
+	},
+	"10464": {
+		"name": "SENSORY SPACES",
+		"total": 1721.22,
+		"monthly": {
+			"2013-09": {"total":1721.22, "Childrens Services":1721.22}
+		}
+	},
+	"10465": {
+		"name": "SENSORYPLUS LTD",
+		"total": 3382.45,
+		"monthly": {
+			"2019-11": {"total":595.00, "People":595.00},
+			"2019-12": {"total":2787.45, "Children, Education and Skills":2787.45}
+		}
+	},
+	"10466": {
+		"name": "SENTINEL SYSTEMS LTD",
+		"alternate-names": [
+			"SENTINEL SYSTEMS LIMITED"
+		],
+		"total": 2190,
+		"monthly": {
+			"2012-01": {"total":2190.00, "Environment & Regeneration":2190.00}
+		}
+	},
+	"10467": {
+		"name": "SENTOMA LTD",
+		"total": 319,
+		"monthly": {
+			"2014-08": {"total":319.00, "Chief Executive's":319.00}
+		}
+	},
+	"10468": {
+		"name": "SEQM",
+		"total": 590,
+		"monthly": {
+			"2012-10": {"total":590.00, "unknown":590.00}
+		}
+	},
+	"10469": {
+		"name": "SEQUENTIAL SOLUTIONS LTD",
+		"total": 112.37,
+		"monthly": {
+			"2013-03": {"total":112.37, "unknown":112.37}
+		}
+	},
+	"10470": {
+		"name": "SERCO LEARNING",
+		"total": 12797.25,
+		"monthly": {
+			"2014-03": {"total":3400.00, "Childrens Services":3400.00},
+			"2014-06": {"total":3440.00, "Environment & Regeneration":3440.00},
+			"2014-10": {"total":944.00, "Childrens Services":944.00},
+			"2015-05": {"total":1628.25, "Environment & Regeneration":1628.25},
+			"2019-03": {"total":1670.00, "Resources":1670.00},
+			"2019-10": {"total":880.00, "People":880.00},
+			"2020-01": {"total":835.00, "Resources":835.00}
+		}
+	},
+	"10471": {
+		"name": "SERCO LEISURE OPERATING LTD",
+		"total": 786.88,
+		"monthly": {
+			"2014-12": {"total":786.88, "Childrens Services":786.88}
+		}
+	},
+	"10472": {
+		"name": "SERCO LTD",
+		"total": 45648,
+		"monthly": {
+			"2010-07": {"total":598.00, "Environment & Regeneration":598.00},
+			"2012-07": {"total":5100.00, "Chief Executives":5100.00},
+			"2012-08": {"total":4250.00, "Chief Executives":4250.00},
+			"2012-09": {"total":4250.00, "unknown":4250.00},
+			"2012-11": {"total":6800.00, "unknown":6800.00},
+			"2013-01": {"total":5950.00, "unknown":5950.00},
+			"2013-03": {"total":4250.00, "unknown":4250.00},
+			"2013-04": {"total":3400.00, "unknown":3400.00},
+			"2013-05": {"total":4250.00, "unknown":4250.00},
+			"2013-07": {"total":6800.00, "unknown":6800.00}
+		}
+	},
+	"10473": {
+		"name": "SERCO SHARED SERVICES",
+		"total": 64069.46,
+		"monthly": {
+			"2013-10": {"total":15860.23, "Chief Executive's":14450.00, "Environment & Regeneration":1410.23},
+			"2013-11": {"total":5660.23, "Chief Executive's":5660.23},
+			"2014-10": {"total":1444.00, "Childrens Services":1444.00},
+			"2015-12": {"total":2295.00, "Adult and Culture":2295.00},
+			"2016-03": {"total":4715.00, "Environment & Regeneration":4715.00},
+			"2016-04": {"total":4715.00, "Environment & Regeneration":4715.00},
+			"2016-05": {"total":4695.00, "Environment & Regeneration":4695.00},
+			"2017-11": {"total":4700.00, "Environment & Regeneration":4700.00},
+			"2018-01": {"total":1785.00, "Environment & Regeneration":1785.00},
+			"2018-02": {"total":2750.00, "Chief Executive's":2750.00},
+			"2018-03": {"total":880.00, "Environment & Regeneration":880.00},
+			"2018-05": {"total":2750.00, "Environment & Regeneration":2750.00},
+			"2019-07": {"total":7030.00, "Operations & Reg Services":4710.00, "People":2320.00},
+			"2020-03": {"total":4790.00, "ASC & Integrated Services":4790.00}
+		}
+	},
+	"10474": {
+		"name": "SERJEANTS INN CHAMBERS",
+		"total": 14427.5,
+		"monthly": {
+			"2019-12": {"total":425.00, "ASC & Integrated Services":425.00},
+			"2020-01": {"total":14002.50, "ASC & Integrated Services":14002.50}
+		}
+	},
+	"10475": {
+		"name": "SERMAC",
+		"total": 1190,
+		"monthly": {
+			"2010-04": {"total":1190.00, "Childrens Services":1190.00}
+		}
+	},
+	"10476": {
+		"name": "SERVICE 2000 COMMERCIAL LTD",
+		"total": 26486.06,
+		"monthly": {
+			"2010-05": {"total":515.12, "Environment & Regeneration":515.12},
+			"2010-06": {"total":1120.25, "Environment & Regeneration":1120.25},
+			"2010-08": {"total":523.81, "Environment & Regeneration":523.81},
+			"2010-09": {"total":789.50, "Environment & Regeneration":789.50},
+			"2010-10": {"total":1257.78, "Environment & Regeneration":1257.78},
+			"2011-02": {"total":720.76, "Environment & Regeneration":720.76},
+			"2011-05": {"total":478.50, "Environment & Regeneration":478.50},
+			"2011-06": {"total":478.50, "Environment & Regeneration":478.50},
+			"2011-07": {"total":557.75, "Environment & Regeneration":557.75},
+			"2011-08": {"total":4370.95, "Environment & Regeneration":4370.95},
+			"2011-10": {"total":1789.12, "Chief Executive's":490.10, "Environment & Regeneration":1299.02},
+			"2011-11": {"total":615.75, "Environment & Regeneration":615.75},
+			"2011-12": {"total":2214.48, "Environment & Regeneration":2214.48},
+			"2012-01": {"total":487.21, "Environment & Regeneration":487.21},
+			"2012-03": {"total":4647.96, "Environment & Regeneration":4647.96},
+			"2012-04": {"total":646.88, "Environment & Regeneration":646.88},
+			"2012-05": {"total":552.07, "Environment & Regeneration":552.07},
+			"2012-09": {"total":1264.91, "unknown":1264.91},
+			"2013-02": {"total":3454.76, "unknown":3454.76}
+		}
+	},
+	"10477": {
+		"name": "SERVICE BIRMINGHAM ITD",
+		"total": 126052.53,
+		"monthly": {
+			"2010-10": {"total":500.00, "Chief Executives":500.00},
+			"2011-06": {"total":14496.00, "Adult and Culture":14496.00},
+			"2011-07": {"total":1500.00, "Adult and Culture":1500.00},
+			"2012-10": {"total":15346.00, "unknown":15346.00},
+			"2013-05": {"total":18259.00, "unknown":18259.00},
+			"2013-07": {"total":4350.00, "unknown":4350.00},
+			"2013-08": {"total":5708.00, "Adult and Culture":5708.00},
+			"2013-11": {"total":620.00, "Adult and Culture":620.00},
+			"2013-12": {"total":310.00, "Adult and Culture":310.00},
+			"2014-05": {"total":26292.13, "Adult and Culture":26292.13},
+			"2014-09": {"total":620.00, "Adult and Culture":620.00},
+			"2014-11": {"total":3350.00, "Adult and Culture":3350.00},
+			"2015-06": {"total":23534.80, "Adult and Culture":23534.80},
+			"2016-11": {"total":5085.80, "Adult and Culture":5085.80},
+			"2017-06": {"total":5085.80, "Adult and Culture":5085.80},
+			"2018-07": {"total":995.00, "Adult and Culture":995.00}
+		}
+	},
+	"10478": {
+		"name": "SERVICE DIRECT",
+		"total": 2501741.27,
+		"monthly": {
+			"2010-04": {"total":65114.45, "HRA":65114.45},
+			"2010-05": {"total":4990.68, "Environment & Regeneration":904.12, "HRA":4086.56},
+			"2010-06": {"total":21056.84, "HRA":21056.84},
+			"2010-07": {"total":12484.19, "HRA":12484.19},
+			"2010-08": {"total":15724.19, "HRA":15724.19},
+			"2010-09": {"total":14428.89, "HRA":14428.89},
+			"2010-10": {"total":19806.53, "HRA":19806.53},
+			"2010-11": {"total":2613.00, "HRA":2613.00},
+			"2010-12": {"total":21759.24, "HRA":21759.24},
+			"2011-02": {"total":14127.29, "Environment & Regeneration":502.01, "HRA":13625.28},
+			"2011-03": {"total":43534.48, "HRA":43534.48},
+			"2011-04": {"total":14003.20, "HRA":14003.20},
+			"2011-05": {"total":55159.89, "Environment & Regeneration":825.58, "HRA":54334.31},
+			"2011-06": {"total":9829.79, "HRA":9829.79},
+			"2011-07": {"total":1248.00, "HRA":1248.00},
+			"2011-08": {"total":15797.55, "HRA":15797.55},
+			"2011-09": {"total":36313.84, "HRA":36313.84},
+			"2011-10": {"total":2512.26, "HRA":2512.26},
+			"2011-11": {"total":36485.38, "HRA":36485.38},
+			"2011-12": {"total":21790.18, "HRA":21790.18},
+			"2012-01": {"total":24498.60, "HRA":24498.60},
+			"2012-02": {"total":2891.60, "HRA":2891.60},
+			"2012-03": {"total":61445.74, "HRA":61445.74},
+			"2012-04": {"total":3341.71, "HRA":3341.71},
+			"2012-05": {"total":30406.96, "HRA":30406.96},
+			"2012-06": {"total":9000.60, "HRA":9000.60},
+			"2012-07": {"total":39996.69, "Adult & Culture":26927.26, "HRA":13069.43},
+			"2012-08": {"total":37364.82, "Adult & Culture":28325.55, "HRA":9039.27},
+			"2012-09": {"total":24085.16, "unknown":24085.16},
+			"2012-10": {"total":33717.00, "unknown":33717.00},
+			"2012-11": {"total":31156.85, "unknown":31156.85},
+			"2012-12": {"total":32642.19, "unknown":32642.19},
+			"2013-01": {"total":10466.48, "unknown":10466.48},
+			"2013-02": {"total":30055.31, "unknown":30055.31},
+			"2013-03": {"total":46163.23, "unknown":46163.23},
+			"2013-04": {"total":15648.53, "unknown":15648.53},
+			"2013-05": {"total":21575.14, "unknown":21575.14},
+			"2013-06": {"total":20666.14, "unknown":20666.14},
+			"2013-07": {"total":27375.66, "unknown":27375.66},
+			"2013-08": {"total":16482.84, "Adult and Culture":16482.84},
+			"2013-09": {"total":10162.22, "HRA":10162.22},
+			"2013-10": {"total":34289.23, "Adult and Culture":8686.04, "Childrens Services":13803.53, "HRA":11799.66},
+			"2013-11": {"total":29470.66, "Adult and Culture":2758.00, "Childrens Services":12497.52, "HRA":14215.14},
+			"2013-12": {"total":20646.17, "Adult and Culture":13260.76, "HRA":7385.41},
+			"2014-01": {"total":24462.21, "Adult and Culture":15557.94, "HRA":8904.27},
+			"2014-02": {"total":20381.00, "Adult and Culture":2940.00, "Childrens Services":15817.00, "HRA":1624.00},
+			"2014-03": {"total":39688.58, "Adult and Culture":15040.43, "HRA":24648.15},
+			"2014-04": {"total":29679.75, "Adult and Culture":26035.69, "HRA":3644.06},
+			"2014-05": {"total":30514.16, "Adult and Culture":14144.19, "HRA":16369.97},
+			"2014-06": {"total":23816.83, "Adult and Culture":9809.47, "HRA":14007.36},
+			"2014-07": {"total":32949.71, "Adult and Culture":22436.25, "HRA":10513.46},
+			"2014-08": {"total":38629.33, "Adult and Culture":20065.00, "Childrens Services":2387.00, "HRA":16177.33},
+			"2014-09": {"total":19537.00, "Adult and Culture":13093.65, "HRA":6443.35},
+			"2014-10": {"total":19023.71, "Adult and Culture":2716.00, "HRA":16307.71},
+			"2014-11": {"total":14865.38, "HRA":14865.38},
+			"2014-12": {"total":30842.15, "Adult and Culture":20056.38, "HRA":10785.77},
+			"2015-01": {"total":37769.66, "Adult and Culture":26305.60, "HRA":11464.06},
+			"2015-02": {"total":22435.26, "HRA":22435.26},
+			"2015-03": {"total":37912.27, "Adult and Culture":18435.21, "HRA":19477.06},
+			"2015-04": {"total":13995.76, "Adult and Culture":13995.76},
+			"2015-05": {"total":28708.73, "Adult and Culture":3424.00, "HRA":25284.73},
+			"2015-06": {"total":42077.67, "Adult and Culture":42077.67},
+			"2015-07": {"total":50657.23, "Adult and Culture":10585.23, "HRA":40072.00},
+			"2015-08": {"total":18005.10, "Adult and Culture":736.00, "HRA":17269.10},
+			"2015-09": {"total":31447.23, "Adult and Culture":15211.13, "HRA":16236.10},
+			"2015-10": {"total":21223.27, "HRA":21223.27},
+			"2015-11": {"total":38486.97, "Adult and Culture":26311.32, "HRA":12175.65},
+			"2015-12": {"total":17628.17, "Adult and Culture":5292.85, "HRA":12335.32},
+			"2016-01": {"total":31077.36, "Adult and Culture":18817.51, "HRA":12259.85},
+			"2016-02": {"total":656.00, "Adult and Culture":656.00},
+			"2016-03": {"total":38133.70, "Adult and Culture":20477.50, "HRA":17656.20},
+			"2016-04": {"total":35350.41, "Adult and Culture":10053.56, "HRA":25296.85},
+			"2016-05": {"total":7531.13, "Adult and Culture":7531.13},
+			"2016-06": {"total":23982.46, "HRA":23982.46},
+			"2016-07": {"total":37203.80, "Adult and Culture":29643.65, "HRA":7560.15},
+			"2016-08": {"total":13008.29, "HRA":13008.29},
+			"2016-09": {"total":26411.79, "Adult and Culture":13809.45, "HRA":12602.34},
+			"2016-10": {"total":26048.58, "Adult and Culture":11813.07, "Childrens Services":1929.10, "HRA":12306.41},
+			"2016-11": {"total":27546.04, "Adult and Culture":15050.98, "HRA":12495.06},
+			"2016-12": {"total":4490.51, "Adult and Culture":4490.51},
+			"2017-01": {"total":35865.32, "Adult and Culture":12290.12, "HRA":23575.20},
+			"2017-02": {"total":23557.62, "Adult and Culture":12903.38, "HRA":10654.24},
+			"2017-03": {"total":23014.65, "Adult and Culture":11878.94, "HRA":11135.71},
+			"2017-05": {"total":19197.54, "Adult and Culture":8602.47, "HRA":10595.07},
+			"2017-06": {"total":27191.17, "Adult and Culture":11892.16, "HRA":15299.01},
+			"2017-07": {"total":8801.61, "Adult and Culture":6804.09, "HRA":1997.52},
+			"2017-08": {"total":36012.91, "Adult and Culture":20197.33, "HRA":15815.58},
+			"2017-09": {"total":56322.24, "Adult and Culture":11125.26, "Childrens Services":31635.00, "HRA":13561.98},
+			"2017-10": {"total":20889.59, "Adult and Culture":8291.73, "HRA":12597.86},
+			"2017-11": {"total":25454.10, "Adult and Culture":10462.21, "HRA":14991.89},
+			"2017-12": {"total":7500.65, "Adult and Culture":7500.65},
+			"2018-01": {"total":34584.44, "Adult and Culture":7156.69, "HRA":27427.75},
+			"2018-02": {"total":3618.54, "Adult and Culture":3618.54},
+			"2018-03": {"total":39996.52, "Adult and Culture":9639.20, "HRA":30357.32},
+			"2018-04": {"total":3915.13, "Adult and Culture":3915.13},
+			"2018-05": {"total":18990.28, "Adult and Culture":10326.02, "HRA":8664.26},
+			"2018-06": {"total":395.63, "HRA":395.63},
+			"2018-07": {"total":37254.94, "Adult and Culture":10114.94, "HRA":27140.00},
+			"2018-08": {"total":11060.85, "Adult and Culture":11060.85},
+			"2018-09": {"total":22833.50, "HRA":22833.50},
+			"2018-10": {"total":19886.92, "HRA Expenditure":11589.52, "People":8297.40},
+			"2018-11": {"total":26890.52, "HRA Expenditure":11796.48, "People":15094.04}
+		}
+	},
+	"10479": {
+		"name": "SERVICE ENGINES (NEWCASTLE) LTD",
+		"total": 9027.18,
+		"monthly": {
+			"2012-02": {"total":4456.21, "Chief Executive's":4456.21},
+			"2012-03": {"total":536.20, "Environment & Regeneration":536.20},
+			"2012-05": {"total":627.94, "Environment & Regeneration":627.94},
+			"2014-08": {"total":2835.00, "Environment & Regeneration":2835.00},
+			"2019-05": {"total":571.83, "Operations & Reg Services":571.83}
+		}
+	},
+	"10480": {
+		"name": "SERVICE GRAPHICS LTD",
+		"alternate-names": [
+			"SERVICE GRAPHICS LIMITED"
+		],
+		"total": 1470,
+		"monthly": {
+			"2012-08": {"total":1470.00, "Environment & Regeneration":1470.00}
+		}
+	},
+	"10481": {
+		"name": "SERVICE NETWORK (NE) LTD",
+		"total": 399,
+		"monthly": {
+			"2013-11": {"total":399.00, "Environment & Regeneration":399.00}
+		}
+	},
+	"10482": {
+		"name": "SERVICE POINT DOCUMENT MANAGEMENT",
+		"total": 13397.87,
+		"monthly": {
+			"2010-07": {"total":5225.00, "Chief Executives":5225.00},
+			"2011-07": {"total":5084.00, "Chief Executive's":5084.00},
+			"2012-07": {"total":3088.87, "Chief Executives":3088.87}
+		}
+	},
+	"10483": {
+		"name": "SERVICES FOR EDUCATION",
+		"total": 18511.81,
+		"monthly": {
+			"2016-06": {"total":7290.21, "Adult and Culture":6208.80, "Childrens Services":1081.41},
+			"2016-08": {"total":1267.86, "Childrens Services":1267.86},
+			"2016-09": {"total":1143.56, "Childrens Services":1143.56},
+			"2016-10": {"total":5180.62, "Childrens Services":5180.62},
+			"2016-11": {"total":683.65, "Childrens Services":683.65},
+			"2016-12": {"total":1678.05, "Childrens Services":1678.05},
+			"2017-01": {"total":1267.86, "Childrens Services":1267.86}
+		}
+	},
+	"10484": {
+		"name": "SERVICES MACHINERY & TRUCKS LTD",
+		"total": 1502.02,
+		"monthly": {
+			"2018-07": {"total":358.00, "Environment & Regeneration":358.00},
+			"2019-08": {"total":751.20, "Operations & Reg Services":751.20},
+			"2020-07": {"total":392.82, "Operations & Regulatory Services":392.82}
+		}
+	},
+	"10485": {
+		"name": "SES CIC",
+		"total": 519190.02,
+		"monthly": {
+			"2010-07": {"total":20901.52, "Chief Executives":20901.52},
+			"2010-08": {"total":20651.70, "Chief Executives":20651.70},
+			"2010-11": {"total":31278.90, "Chief Executives":31278.90},
+			"2010-12": {"total":21800.86, "Chief Executives":21800.86},
+			"2011-03": {"total":19627.29, "Chief Executives":19627.29},
+			"2011-06": {"total":46532.72, "Chief Executive's":46532.72},
+			"2011-09": {"total":43180.08, "Chief Executive's":43180.08},
+			"2011-11": {"total":27318.37, "Chief Executive's":27318.37},
+			"2011-12": {"total":18121.11, "Chief Executive's":18121.11},
+			"2012-02": {"total":3830.82, "Chief Executive's":3830.82},
+			"2012-04": {"total":7661.64, "Chief Executive's":7661.64},
+			"2012-05": {"total":4109.22, "Chief Executive's":4109.22},
+			"2012-08": {"total":11869.66, "Environment & Regeneration":11869.66},
+			"2012-09": {"total":10724.89, "unknown":10724.89},
+			"2012-11": {"total":13661.70, "unknown":13661.70},
+			"2012-12": {"total":9624.89, "unknown":9624.89},
+			"2013-02": {"total":11855.66, "unknown":11855.66},
+			"2013-03": {"total":11272.84, "unknown":11272.84},
+			"2013-04": {"total":7661.64, "unknown":7661.64},
+			"2013-05": {"total":13195.82, "unknown":13195.82},
+			"2013-06": {"total":3830.82, "unknown":3830.82},
+			"2013-07": {"total":4999.54, "unknown":4999.54},
+			"2013-08": {"total":3830.82, "Chief Executive's":3830.82},
+			"2013-09": {"total":8830.36, "Adult and Culture":4999.54, "Chief Executive's":3830.82},
+			"2013-10": {"total":8499.10, "Chief Executive's":8499.10},
+			"2013-11": {"total":13830.82, "Chief Executive's":13830.82},
+			"2013-12": {"total":8830.36, "Adult and Culture":4999.54, "Chief Executive's":3830.82},
+			"2014-02": {"total":7845.86, "Chief Executive's":7845.86},
+			"2014-03": {"total":5001.38, "Adult and Culture":5001.38},
+			"2014-04": {"total":3830.32, "Chief Executive's":3830.32},
+			"2014-05": {"total":8888.70, "Chief Executive's":8888.70},
+			"2014-06": {"total":4899.42, "Chief Executive's":4899.42},
+			"2014-08": {"total":5085.69, "Chief Executive's":5085.69},
+			"2015-06": {"total":7716.30, "Adult and Culture":7716.30},
+			"2015-09": {"total":7889.70, "Adult and Culture":7889.70},
+			"2015-12": {"total":7889.70, "Adult and Culture":7889.70},
+			"2016-03": {"total":7890.30, "Adult and Culture":7890.30},
+			"2016-06": {"total":5299.56, "Adult and Culture":5299.56},
+			"2016-09": {"total":5741.19, "Adult and Culture":5741.19},
+			"2016-12": {"total":5741.19, "Adult and Culture":5741.19},
+			"2017-03": {"total":6185.06, "Adult and Culture":6185.06},
+			"2017-06": {"total":7356.30, "Adult and Culture":7356.30},
+			"2017-09": {"total":7198.10, "Adult and Culture":7198.10},
+			"2017-12": {"total":7198.10, "Adult and Culture":7198.10}
+		}
+	},
+	"10486": {
+		"name": "SESSIONS OF YORK",
+		"total": 598.56,
+		"monthly": {
+			"2011-04": {"total":598.56, "Environment & Regeneration":598.56}
+		}
+	},
+	"10487": {
+		"name": "SETH LOVIS & CO",
+		"total": 91220,
+		"monthly": {
+			"2015-01": {"total":32220.00, "Chief Executive's":32220.00},
+			"2016-09": {"total":59000.00, "Chief Executive's":59000.00}
+		}
+	},
+	"10488": {
+		"name": "SETON",
+		"total": 790.15,
+		"monthly": {
+			"2014-12": {"total":366.95, "Childrens Services":366.95},
+			"2015-05": {"total":423.20, "Environment & Regeneration":423.20}
+		}
+	},
+	"10489": {
+		"name": "SETON LTD",
+		"total": 2436.29,
+		"monthly": {
+			"2017-08": {"total":995.00, "HRA":995.00},
+			"2017-09": {"total":277.45, "HRA":277.45},
+			"2019-04": {"total":590.40, "Operations & Reg Services":590.40},
+			"2019-07": {"total":573.44, "Operations & Reg Services":573.44}
+		}
+	},
+	"10490": {
+		"name": "SETONCARE",
+		"total": 2726.06,
+		"monthly": {
+			"2010-10": {"total":1512.86, "Adult and Culture":1512.86},
+			"2012-01": {"total":1213.20, "Adult and Culture":1213.20}
+		}
+	},
+	"10491": {
+		"name": "SETTLE DOWN CAFE",
+		"total": 558.5,
+		"monthly": {
+			"2010-11": {"total":558.50, "Childrens Services":558.50}
+		}
+	},
+	"10492": {
+		"name": "SEV AUTOMOTIVE & PLANT LTD",
+		"total": 4721.12,
+		"monthly": {
+			"2016-12": {"total":2732.50, "Environment & Regeneration":2732.50},
+			"2017-01": {"total":579.28, "Environment & Regeneration":579.28},
+			"2017-02": {"total":446.00, "Environment & Regeneration":446.00},
+			"2017-08": {"total":313.34, "Environment & Regeneration":313.34},
+			"2017-10": {"total":357.50, "Environment & Regeneration":357.50},
+			"2018-10": {"total":292.50, "Operations & Reg Services":292.50}
+		}
+	},
+	"10493": {
+		"name": "SEV GROUP LTD",
+		"total": 255806,
+		"monthly": {
+			"2010-09": {"total":63992.75, "Environment & Regeneration":63992.75},
+			"2010-12": {"total":63937.75, "Environment & Regeneration":63937.75},
+			"2011-02": {"total":127875.50, "Environment & Regeneration":127875.50}
+		}
+	},
+	"10494": {
+		"name": "SEVACARE UK LTD",
+		"total": 38589.24,
+		"monthly": {
+			"2015-03": {"total":512.40, "Adult and Culture":512.40},
+			"2015-04": {"total":1265.75, "Adult and Culture":1265.75},
+			"2015-05": {"total":2007.71, "Adult and Culture":2007.71},
+			"2015-06": {"total":1380.98, "Adult and Culture":1380.98},
+			"2015-07": {"total":1361.84, "Adult and Culture":1361.84},
+			"2015-08": {"total":1833.73, "Adult and Culture":1833.73},
+			"2015-09": {"total":4291.42, "Adult and Culture":4291.42},
+			"2015-10": {"total":1460.32, "Adult and Culture":1460.32},
+			"2015-11": {"total":1469.02, "Adult and Culture":1469.02},
+			"2015-12": {"total":1793.94, "Adult and Culture":1793.94},
+			"2016-01": {"total":3105.67, "Adult and Culture":3105.67},
+			"2016-02": {"total":1866.32, "Adult and Culture":1866.32},
+			"2016-03": {"total":1892.43, "Adult and Culture":1892.43},
+			"2016-04": {"total":1648.71, "Adult and Culture":1648.71},
+			"2016-08": {"total":2986.43, "Adult and Culture":2986.43},
+			"2016-10": {"total":8522.05, "Adult and Culture":8522.05},
+			"2016-11": {"total":813.06, "Adult and Culture":813.06},
+			"2016-12": {"total":377.46, "Adult and Culture":377.46}
+		}
+	},
+	"10495": {
 		"name": "SEVEN PUBLISHING GROUP LTD",
 		"total": 445,
 		"monthly": {
 			"2014-07": {"total":445.00, "Chief Executive's":445.00}
 		}
 	},
-	"10451": {
+	"10496": {
 		"name": "SEVEN STORIES",
-		"total": 528295.59,
+		"total": 529295.59,
 		"monthly": {
 			"2010-04": {"total":7741.80, "Childrens Services":7741.80},
 			"2010-11": {"total":50000.00, "Adult and Culture":50000.00},
@@ -35,10 +688,11 @@
 			"2016-08": {"total":275.00, "Adult and Culture":275.00},
 			"2019-09": {"total":950.00, "Assistant Chief Executive":950.00},
 			"2020-01": {"total":2200.00, "Operations & Reg Services":2200.00},
-			"2020-03": {"total":533.15, "Operations & Reg Services":533.15}
+			"2020-03": {"total":533.15, "Operations & Reg Services":533.15},
+			"2020-08": {"total":1000.00, "City Futures":1000.00}
 		}
 	},
-	"10452": {
+	"10497": {
 		"name": "SEVEN STORIES TRADING",
 		"total": 13143.06,
 		"monthly": {
@@ -47,7 +701,7 @@
 			"2020-04": {"total":2863.06, "Operations & Reg Services":2863.06}
 		}
 	},
-	"10453": {
+	"10498": {
 		"name": "SEW ALTER MAKE CREATE",
 		"total": 6961,
 		"monthly": {
@@ -55,7 +709,7 @@
 			"2015-02": {"total":2269.00, "Adult and Culture":2269.00}
 		}
 	},
-	"10454": {
+	"10499": {
 		"name": "SEXUAL BEHAVIOUR UNIT",
 		"total": 33996.12,
 		"monthly": {
@@ -73,686 +727,6 @@
 			"2013-10": {"total":2200.00, "Childrens Services":2200.00},
 			"2014-05": {"total":2400.00, "Childrens Services":2400.00},
 			"2014-08": {"total":2450.00, "Childrens Services":2450.00}
-		}
-	},
-	"10455": {
-		"name": "SEYMOUR CEC LTD",
-		"total": 12311.65,
-		"monthly": {
-			"2011-06": {"total":2064.24, "Environment & Regeneration":2064.24},
-			"2012-03": {"total":8214.49, "Environment & Regeneration":8214.49},
-			"2012-10": {"total":657.92, "unknown":657.92},
-			"2012-12": {"total":1375.00, "unknown":1375.00}
-		}
-	},
-	"10456": {
-		"name": "SEYMOUR CIVIL ENGINEERING CONTRACTORS LT",
-		"total": 10146.05,
-		"monthly": {
-			"2016-10": {"total":1549.00, "Environment & Regeneration":1549.00},
-			"2017-01": {"total":2399.74, "Environment & Regeneration":2399.74},
-			"2017-03": {"total":2256.92, "Environment & Regeneration":2256.92},
-			"2017-06": {"total":2922.54, "Environment & Regeneration":2922.54},
-			"2017-07": {"total":1017.85, "Chief Executive's":405.00, "Environment & Regeneration":612.85}
-		}
-	},
-	"10457": {
-		"name": "SEYMOUR LTD",
-		"total": 257.22,
-		"monthly": {
-			"2013-04": {"total":257.22, "unknown":257.22}
-		}
-	},
-	"10458": {
-		"name": "SF SOFTWARE LTD",
-		"alternate-names": [
-			"SF SOFTWARE LIMITED"
-		],
-		"total": 19307.03,
-		"monthly": {
-			"2010-09": {"total":1456.20, "Adult and Culture":1456.20},
-			"2010-11": {"total":5692.10, "Adult and Culture":2203.39, "Chief Executives":3488.71},
-			"2011-01": {"total":3385.77, "Adult and Culture":3385.77},
-			"2011-02": {"total":5935.42, "Adult and Culture":4975.42, "Childrens Services":960.00},
-			"2011-03": {"total":2503.14, "Adult and Culture":2503.14},
-			"2014-09": {"total":334.40, "Childrens Services":334.40}
-		}
-	},
-	"10459": {
-		"name": "SF3O LTD",
-		"total": 2134.49,
-		"monthly": {
-			"2012-12": {"total":670.60, "unknown":670.60},
-			"2014-07": {"total":284.50, "Childrens Services":284.50},
-			"2018-06": {"total":1179.39, "Childrens Services":1179.39}
-		}
-	},
-	"10460": {
-		"name": "SG ELECTRICAL SERVICES",
-		"total": 270,
-		"monthly": {
-			"2018-11": {"total":270.00, "People":270.00}
-		}
-	},
-	"10461": {
-		"name": "SG MANUFACTURING LTD",
-		"total": 319.95,
-		"monthly": {
-			"2014-12": {"total":319.95, "Childrens Services":319.95}
-		}
-	},
-	"10462": {
-		"name": "SG WORLD LTD",
-		"total": 3537.59,
-		"monthly": {
-			"2010-09": {"total":585.84, "Environment & Regeneration":585.84},
-			"2013-06": {"total":607.00, "unknown":607.00},
-			"2014-09": {"total":915.50, "Childrens Services":915.50},
-			"2014-10": {"total":252.00, "Childrens Services":252.00},
-			"2014-11": {"total":754.25, "Childrens Services":754.25},
-			"2014-12": {"total":423.00, "Childrens Services":423.00}
-		}
-	},
-	"10463": {
-		"name": "SGM (UK) LTD",
-		"total": 4026,
-		"monthly": {
-			"2010-05": {"total":630.00, "Environment & Regeneration":630.00},
-			"2010-08": {"total":2916.00, "Environment & Regeneration":2916.00},
-			"2012-06": {"total":480.00, "Environment & Regeneration":480.00}
-		}
-	},
-	"10464": {
-		"name": "SGS BOOKS",
-		"total": 341.5,
-		"monthly": {
-			"2014-11": {"total":341.50, "Childrens Services":341.50}
-		}
-	},
-	"10465": {
-		"name": "SGS MIS ENVIROMENTAL LTD",
-		"total": 1655560.69,
-		"monthly": {
-			"2013-11": {"total":89766.18, "Childrens Services":5300.00, "Environment & Regeneration":14366.18, "HRA":70100.00},
-			"2013-12": {"total":73909.56, "Environment & Regeneration":40649.56, "HRA":33260.00},
-			"2014-01": {"total":38073.62, "Environment & Regeneration":21683.62, "HRA":16390.00},
-			"2014-02": {"total":57063.36, "Environment & Regeneration":37593.36, "HRA":19470.00},
-			"2014-03": {"total":71703.86, "Environment & Regeneration":25943.86, "HRA":45760.00},
-			"2014-04": {"total":46084.99, "Environment & Regeneration":26144.99, "HRA":19940.00},
-			"2014-05": {"total":56199.97, "Environment & Regeneration":11589.97, "HRA":44610.00},
-			"2014-06": {"total":33285.89, "Environment & Regeneration":11450.89, "HRA":21835.00},
-			"2014-07": {"total":38395.59, "Environment & Regeneration":13285.59, "HRA":25110.00},
-			"2014-08": {"total":27384.23, "Environment & Regeneration":8589.23, "HRA":18795.00},
-			"2014-09": {"total":30293.51, "Environment & Regeneration":13423.51, "HRA":16870.00},
-			"2014-10": {"total":36294.81, "Environment & Regeneration":12024.81, "HRA":24270.00},
-			"2014-11": {"total":58109.34, "Environment & Regeneration":17889.34, "HRA":40220.00},
-			"2014-12": {"total":45676.53, "Environment & Regeneration":25811.53, "HRA":19865.00},
-			"2015-01": {"total":30286.64, "Environment & Regeneration":22171.64, "HRA":8115.00},
-			"2015-02": {"total":42413.83, "Environment & Regeneration":10223.83, "HRA":32190.00},
-			"2015-03": {"total":33070.46, "Environment & Regeneration":16995.46, "HRA":16075.00},
-			"2015-04": {"total":14520.00, "Environment & Regeneration":11770.00, "HRA":2750.00},
-			"2015-05": {"total":14567.21, "Environment & Regeneration":14567.21},
-			"2015-06": {"total":31735.00, "Environment & Regeneration":9340.00, "HRA":22395.00},
-			"2015-07": {"total":29282.75, "Environment & Regeneration":12972.75, "HRA":16310.00},
-			"2015-08": {"total":26949.31, "Environment & Regeneration":15559.31, "HRA":11390.00},
-			"2015-09": {"total":29973.00, "Environment & Regeneration":4325.00, "HRA":25648.00},
-			"2015-10": {"total":30500.88, "Environment & Regeneration":10390.88, "HRA":20110.00},
-			"2015-11": {"total":61495.00, "Environment & Regeneration":13915.00, "HRA":47580.00},
-			"2015-12": {"total":18540.88, "Environment & Regeneration":11630.88, "HRA":6910.00},
-			"2016-01": {"total":9102.50, "Environment & Regeneration":9102.50},
-			"2016-02": {"total":89721.88, "Environment & Regeneration":11361.88, "HRA":78360.00},
-			"2016-03": {"total":62350.00, "Environment & Regeneration":3040.00, "HRA":59310.00},
-			"2016-04": {"total":18191.82, "Chief Executive's":380.00, "Environment & Regeneration":5621.82, "HRA":12190.00},
-			"2016-05": {"total":11880.00, "Environment & Regeneration":3480.00, "HRA":8400.00},
-			"2016-06": {"total":12425.00, "Environment & Regeneration":5605.00, "HRA":6820.00},
-			"2016-07": {"total":7610.10, "Environment & Regeneration":1860.10, "HRA":5750.00},
-			"2016-08": {"total":22976.20, "Environment & Regeneration":15906.20, "HRA":7070.00},
-			"2016-09": {"total":16490.00, "Environment & Regeneration":3730.00, "HRA":12760.00},
-			"2016-10": {"total":24710.00, "Environment & Regeneration":8400.00, "HRA":16310.00},
-			"2016-11": {"total":46055.10, "Environment & Regeneration":5455.10, "HRA":40600.00},
-			"2016-12": {"total":12805.40, "Environment & Regeneration":10585.40, "HRA":2220.00},
-			"2017-01": {"total":10272.08, "Environment & Regeneration":7382.08, "HRA":2890.00},
-			"2017-02": {"total":5442.00, "Environment & Regeneration":5092.00, "HRA":350.00},
-			"2017-03": {"total":19529.42, "Environment & Regeneration":5411.42, "HRA":14118.00},
-			"2017-05": {"total":6448.00, "Environment & Regeneration":4965.00, "HRA":1483.00},
-			"2017-06": {"total":3289.90, "Childrens Services":700.00, "Environment & Regeneration":1509.90, "HRA":1080.00},
-			"2017-07": {"total":2591.60, "Environment & Regeneration":2291.60, "HRA":300.00},
-			"2017-08": {"total":6831.60, "Environment & Regeneration":6096.60, "HRA":735.00},
-			"2017-09": {"total":5448.50, "Environment & Regeneration":2477.50, "HRA":2971.00},
-			"2017-10": {"total":13999.60, "Environment & Regeneration":5081.60, "HRA":8918.00},
-			"2017-11": {"total":3479.46, "Environment & Regeneration":2940.46, "HRA":539.00},
-			"2017-12": {"total":5541.70, "Environment & Regeneration":3777.70, "HRA":1764.00},
-			"2018-01": {"total":9784.40, "Childrens Services":2185.00, "Environment & Regeneration":3770.00, "HRA":3829.40},
-			"2018-02": {"total":8747.46, "Environment & Regeneration":6395.46, "HRA":2352.00},
-			"2018-03": {"total":8825.97, "Environment & Regeneration":6425.97, "HRA":2400.00},
-			"2018-04": {"total":4606.60, "Environment & Regeneration":4606.60},
-			"2018-05": {"total":7261.60, "Environment & Regeneration":4311.60, "HRA":2950.00},
-			"2018-06": {"total":9126.00, "Environment & Regeneration":6626.00, "HRA":2500.00},
-			"2018-07": {"total":4165.00, "Environment & Regeneration":4165.00},
-			"2018-08": {"total":6286.34, "Environment & Regeneration":4926.35, "HRA":1359.99},
-			"2018-09": {"total":5046.00, "Environment & Regeneration":2900.00, "HRA":2146.00},
-			"2018-10": {"total":5582.27, "Assistant Chief Executive":600.00, "HRA Expenditure":2129.00, "Operations & Reg Services":1580.00, "Operations&Regulatory Services":350.00, "Place":923.27},
-			"2018-11": {"total":11951.00, "Assistant Chief Executive":630.00, "HRA Expenditure":5263.00, "Operations & Reg Services":1200.00, "Place":4858.00},
-			"2018-12": {"total":7527.27, "HRA Expenditure":1534.00, "Operations & Reg Services":750.00, "Place":2863.27, "Resources":2380.00},
-			"2019-01": {"total":7957.03, "Place":6952.03, "Public Health":1005.00},
-			"2019-02": {"total":18900.50, "HRA Expenditure":15554.00, "Operations & Reg Services":670.00, "Place":2676.50},
-			"2019-03": {"total":7330.83, "HRA Expenditure":4534.00, "Place":1620.83, "Public Health Service":1176.00},
-			"2019-04": {"total":7986.00, "HRA Expenditure":5750.00, "Operations & Reg Services":500.00, "People":300.00, "Place":1436.00},
-			"2019-05": {"total":10823.80, "HRA Expenditure":5250.00, "Housing Revenue Account":3380.96, "Operations & Reg Services":300.00, "Place":1892.84},
-			"2019-06": {"total":950.00, "HRA Expenditure":350.00, "Place":600.00},
-			"2019-07": {"total":5127.76, "Operations & Reg Services":1740.00, "Place":3387.76},
-			"2019-08": {"total":9558.60, "HRA Expenditure":2010.00, "Housing Revenue Account":3413.60, "Operations & Reg Services":645.00, "Place":3080.00, "Public Health Service":410.00},
-			"2019-09": {"total":5166.00, "HRA Income":88.00, "Operations & Reg Services":1734.00, "Place":2994.00, "Public Health Service":350.00},
-			"2019-10": {"total":3980.00, "Operations & Reg Services":1690.00, "Operations&Regulatory Services":1500.00, "Place":790.00},
-			"2019-11": {"total":6102.00, "Operations & Reg Services":704.00, "People":88.00, "Place":5310.00}
-		}
-	},
-	"10466": {
-		"name": "SGS TESTING LTD",
-		"total": 7875,
-		"monthly": {
-			"2017-06": {"total":7875.00, "Environment & Regeneration":7875.00}
-		}
-	},
-	"10467": {
-		"name": "SGS UNITED KINGDOM LTD",
-		"total": 41174.22,
-		"monthly": {
-			"2010-05": {"total":1353.20, "Adult and Culture":1353.20},
-			"2010-06": {"total":2103.80, "Environment & Regeneration":2103.80},
-			"2011-06": {"total":550.00, "Environment & Regeneration":550.00},
-			"2011-08": {"total":3730.10, "Adult and Culture":3730.10},
-			"2012-04": {"total":1692.60, "Adult and Culture":1692.60},
-			"2012-07": {"total":1367.50, "Adult & Culture":1367.50},
-			"2013-03": {"total":300.82, "unknown":300.82},
-			"2013-06": {"total":1357.60, "unknown":1357.60},
-			"2013-08": {"total":1357.60, "Adult and Culture":1357.60},
-			"2014-06": {"total":1740.00, "Adult and Culture":1740.00},
-			"2019-12": {"total":12804.00, "Children, Education and Skills":2470.00, "City Futures":350.00, "Place":9984.00},
-			"2020-01": {"total":4422.00, "HRA Expenditure":1515.00, "Operations & Reg Services":205.00, "Place":2052.00, "Resources":650.00},
-			"2020-02": {"total":3884.00, "ASC & Integrated Services":264.00, "City Futures":88.00, "HRA Expenditure":526.00, "Operations & Reg Services":88.00, "Place":2918.00},
-			"2020-03": {"total":2253.00, "ASC & Integrated Services":350.00, "HRA Expenditure":176.00, "Housing Revenue Account":319.00, "Operations & Reg Services":176.00, "Place":1232.00},
-			"2020-04": {"total":1418.00, "Children, Education and Skills":670.00, "ASC & Integrated Services":176.00, "City Futures":88.00, "Operations & Reg Services":88.00, "Place":396.00},
-			"2020-07": {"total":840.00, "Place":840.00}
-		}
-	},
-	"10468": {
-		"name": "SGS YARSLEY INTERNATIONAL SERVICES LTD",
-		"alternate-names": [
-			"SGS YARSLEY INTERNATIONAL SERVICES LTD."
-		],
-		"total": 303265.57,
-		"monthly": {
-			"2010-06": {"total":14324.85, "Environment & Regeneration":14324.85},
-			"2011-02": {"total":29012.88, "Environment & Regeneration":29012.88},
-			"2011-05": {"total":2383.00, "Environment & Regeneration":2383.00},
-			"2011-07": {"total":14171.40, "Environment & Regeneration":14171.40},
-			"2011-08": {"total":558.65, "Environment & Regeneration":558.65},
-			"2011-09": {"total":4509.55, "Environment & Regeneration":4509.55},
-			"2011-10": {"total":7229.24, "Environment & Regeneration":7229.24},
-			"2011-12": {"total":12358.80, "Environment & Regeneration":12358.80},
-			"2012-02": {"total":2383.00, "Environment & Regeneration":2383.00},
-			"2012-05": {"total":2800.00, "Environment & Regeneration":2800.00},
-			"2012-08": {"total":8960.00, "Environment & Regeneration":8960.00},
-			"2012-09": {"total":1554.00, "unknown":1554.00},
-			"2012-11": {"total":16920.00, "unknown":16920.00},
-			"2013-02": {"total":3102.80, "unknown":3102.80},
-			"2013-05": {"total":3920.00, "unknown":3920.00},
-			"2013-07": {"total":2800.00, "unknown":2800.00},
-			"2013-09": {"total":2141.80, "Environment & Regeneration":2141.80},
-			"2013-10": {"total":10191.00, "Environment & Regeneration":10191.00},
-			"2013-11": {"total":7840.00, "Childrens Services":7840.00},
-			"2014-03": {"total":7037.80, "Environment & Regeneration":7037.80},
-			"2014-04": {"total":2875.00, "Environment & Regeneration":2875.00},
-			"2014-06": {"total":4025.00, "Environment & Regeneration":4025.00},
-			"2014-07": {"total":4600.00, "Environment & Regeneration":4600.00},
-			"2014-09": {"total":1671.00, "Environment & Regeneration":1671.00},
-			"2014-10": {"total":5375.00, "Environment & Regeneration":5375.00},
-			"2014-11": {"total":4025.00, "Environment & Regeneration":4025.00},
-			"2014-12": {"total":4025.00, "Environment & Regeneration":4025.00},
-			"2015-03": {"total":1387.60, "Childrens Services":1387.60},
-			"2015-07": {"total":1449.50, "Childrens Services":1449.50},
-			"2015-08": {"total":26705.10, "Adult and Culture":1767.60, "Environment & Regeneration":24937.50},
-			"2015-11": {"total":8763.70, "Environment & Regeneration":8763.70},
-			"2015-12": {"total":3500.00, "Environment & Regeneration":3500.00},
-			"2016-05": {"total":9625.00, "Environment & Regeneration":9625.00},
-			"2016-06": {"total":1429.80, "Adult and Culture":1429.80},
-			"2016-08": {"total":1415.40, "Adult and Culture":1415.40},
-			"2016-12": {"total":7875.00, "Environment & Regeneration":7875.00},
-			"2017-02": {"total":1850.00, "Environment & Regeneration":1850.00},
-			"2017-06": {"total":1550.00, "Adult and Culture":1550.00},
-			"2017-07": {"total":1937.50, "Adult and Culture":1937.50},
-			"2017-08": {"total":437.50, "Environment & Regeneration":437.50},
-			"2017-12": {"total":8750.00, "Environment & Regeneration":8750.00},
-			"2018-03": {"total":437.50, "Environment & Regeneration":437.50},
-			"2018-04": {"total":1937.50, "Adult and Culture":1937.50},
-			"2018-07": {"total":16475.00, "Adult and Culture":1600.00, "Environment & Regeneration":14875.00},
-			"2018-12": {"total":7875.00, "Operations & Reg Services":7875.00},
-			"2019-06": {"total":9465.00, "Operations & Reg Services":9465.00},
-			"2019-11": {"total":1729.70, "Place":1729.70},
-			"2020-01": {"total":7875.00, "Operations & Reg Services":7875.00}
-		}
-	},
-	"10469": {
-		"name": "SHAMWARI GROUP EXPEDITION",
-		"total": 1195,
-		"monthly": {
-			"2020-03": {"total":1195.00, "Children, Education and Skills":1195.00}
-		}
-	},
-	"10470": {
-		"name": "SHANDON WAY COMMUNITY ASSOCIATION",
-		"total": 2915.33,
-		"monthly": {
-			"2010-07": {"total":592.88, "Environment & Regeneration":592.88},
-			"2011-04": {"total":592.88, "Environment & Regeneration":592.88},
-			"2013-08": {"total":1729.57, "Chief Executive's":1729.57}
-		}
-	},
-	"10471": {
-		"name": "SHANDON WAY COMMUNITY CENTRE",
-		"total": 32797.39,
-		"monthly": {
-			"2010-04": {"total":4817.48, "Childrens Services":4817.48},
-			"2010-06": {"total":2890.48, "Childrens Services":2890.48},
-			"2010-08": {"total":592.50, "Environment & Regeneration":592.50},
-			"2010-10": {"total":2305.80, "Childrens Services":2305.80},
-			"2010-11": {"total":1112.40, "Childrens Services":1112.40},
-			"2010-12": {"total":3952.80, "Childrens Services":3952.80},
-			"2011-02": {"total":1317.60, "Childrens Services":1317.60},
-			"2011-03": {"total":1185.76, "Environment & Regeneration":1185.76},
-			"2011-04": {"total":7953.83, "Childrens Services":7953.83},
-			"2011-06": {"total":4198.74, "Childrens Services":4198.74},
-			"2012-11": {"total":2470.00, "unknown":2470.00}
-		}
-	},
-	"10472": {
-		"name": "SHANDON WAY PLAYGROUP",
-		"total": 720,
-		"monthly": {
-			"2010-05": {"total":720.00, "Childrens Services":720.00}
-		}
-	},
-	"10473": {
-		"name": "SHANKLYS SOLICITORS LTD",
-		"total": 10000,
-		"monthly": {
-			"2014-09": {"total":10000.00, "Chief Executive's":10000.00}
-		}
-	},
-	"10474": {
-		"name": "SHAPE ADAPTATIONS",
-		"total": 31322.57,
-		"monthly": {
-			"2017-02": {"total":6755.57, "Environment & Regeneration":6755.57},
-			"2017-08": {"total":1865.00, "Environment & Regeneration":1865.00},
-			"2018-08": {"total":10000.00, "Environment & Regeneration":10000.00},
-			"2018-11": {"total":12702.00, "Place":12702.00}
-		}
-	},
-	"10475": {
-		"name": "SHARDALE (ST ANNES) LTD",
-		"total": 72594.4,
-		"monthly": {
-			"2013-12": {"total":1495.00, "Adult and Culture":1495.00},
-			"2014-01": {"total":2990.00, "Adult and Culture":2990.00},
-			"2014-02": {"total":1495.00, "Adult and Culture":1495.00},
-			"2014-03": {"total":2990.00, "Adult and Culture":2990.00},
-			"2014-05": {"total":1495.00, "Adult and Culture":1495.00},
-			"2014-06": {"total":3166.43, "Adult and Culture":3166.43},
-			"2014-07": {"total":2915.44, "Adult and Culture":2915.44},
-			"2014-09": {"total":2952.72, "Adult and Culture":2952.72},
-			"2014-10": {"total":6954.56, "Adult and Culture":6954.56},
-			"2014-11": {"total":1402.80, "Adult and Culture":1402.80},
-			"2014-12": {"total":1402.80, "Adult and Culture":1402.80},
-			"2015-01": {"total":1985.42, "Adult and Culture":1985.42},
-			"2015-04": {"total":2758.30, "Adult and Culture":2758.30},
-			"2015-06": {"total":1404.54, "Adult and Culture":1404.54},
-			"2015-08": {"total":1439.92, "Adult and Culture":1439.92},
-			"2015-09": {"total":8653.84, "Adult and Culture":7251.04, "Childrens Services":1402.80},
-			"2015-10": {"total":3148.68, "Adult and Culture":3148.68},
-			"2015-11": {"total":5917.13, "Adult and Culture":5917.13},
-			"2015-12": {"total":5734.32, "Adult and Culture":5734.32},
-			"2016-01": {"total":2895.46, "Adult and Culture":2895.46},
-			"2016-03": {"total":6780.12, "Adult and Culture":6780.12},
-			"2016-08": {"total":2616.92, "Adult and Culture":2616.92}
-		}
-	},
-	"10476": {
-		"name": "SHARDALELTD",
-		"total": 8728.32,
-		"monthly": {
-			"2015-01": {"total":1402.80, "Adult and Culture":1402.80},
-			"2015-06": {"total":1480.68, "Adult and Culture":1480.68},
-			"2015-07": {"total":1480.68, "Adult and Culture":1480.68},
-			"2015-08": {"total":2883.48, "Adult and Culture":2883.48},
-			"2015-12": {"total":1480.68, "Adult and Culture":1480.68}
-		}
-	},
-	"10477": {
-		"name": "SHARED INTELLIGENCE LTD",
-		"total": 45123.95,
-		"monthly": {
-			"2010-06": {"total":2500.00, "Chief Executives":2500.00},
-			"2014-03": {"total":28082.38, "Childrens Services":28082.38},
-			"2014-08": {"total":12413.07, "Chief Executive's":12413.07},
-			"2015-04": {"total":2128.50, "Chief Executive's":2128.50}
-		}
-	},
-	"10478": {
-		"name": "SHARED LIVES PLUS",
-		"total": 6963.66,
-		"monthly": {
-			"2016-06": {"total":275.00, "Adult and Culture":275.00},
-			"2017-03": {"total":255.00, "Adult and Culture":255.00},
-			"2019-10": {"total":277.00, "People":277.00},
-			"2020-03": {"total":6156.66, "ASC & Integrated Services":6156.66}
-		}
-	},
-	"10479": {
-		"name": "SHARED SPACE ORGANISATION",
-		"total": 21048.89,
-		"monthly": {
-			"2015-02": {"total":560.00, "Chief Executive's":560.00},
-			"2015-05": {"total":280.00, "Chief Executive's":280.00},
-			"2016-02": {"total":10623.65, "Chief Executive's":10623.65},
-			"2016-06": {"total":9585.24, "Chief Executive's":9585.24}
-		}
-	},
-	"10480": {
-		"name": "SHARK CLUB",
-		"total": 873.25,
-		"monthly": {
-			"2012-06": {"total":873.25, "Environment & Regeneration":873.25}
-		}
-	},
-	"10481": {
-		"name": "SHAUN GORDON ASSOCIATES",
-		"total": 600,
-		"monthly": {
-			"2010-08": {"total":600.00, "Chief Executives":600.00}
-		}
-	},
-	"10482": {
-		"name": "SHAW & CO SOLICITORS",
-		"total": 251029.29,
-		"monthly": {
-			"2012-02": {"total":22500.00, "Chief Executive's":22500.00},
-			"2012-06": {"total":8500.00, "Chief Executive's":8500.00},
-			"2012-08": {"total":8000.00, "Chief Executives":8000.00},
-			"2012-10": {"total":6150.00, "unknown":6150.00},
-			"2012-11": {"total":11500.00, "unknown":11500.00},
-			"2012-12": {"total":24842.69, "unknown":24842.69},
-			"2013-02": {"total":10036.60, "unknown":10036.60},
-			"2014-11": {"total":22000.00, "Chief Executive's":22000.00},
-			"2015-01": {"total":25000.00, "Chief Executive's":25000.00},
-			"2017-06": {"total":75000.00, "Chief Executive's":75000.00},
-			"2019-02": {"total":37500.00, "Corporate Budgets":37500.00}
-		}
-	},
-	"10483": {
-		"name": "SHAW & SONS LTD",
-		"alternate-names": [
-			"SHAW & SONS LIMITED"
-		],
-		"total": 46739.39,
-		"monthly": {
-			"2010-06": {"total":675.00, "Chief Executives":675.00},
-			"2010-07": {"total":668.00, "Environment & Regeneration":668.00},
-			"2011-04": {"total":788.00, "Environment & Regeneration":788.00},
-			"2011-05": {"total":2541.75, "Chief Executive's":2541.75},
-			"2012-04": {"total":3426.25, "Chief Executive's":3426.25},
-			"2012-06": {"total":748.00, "Environment & Regeneration":748.00},
-			"2012-08": {"total":438.00, "Chief Executives":438.00},
-			"2012-10": {"total":1897.50, "unknown":1897.50},
-			"2013-03": {"total":333.80, "unknown":333.80},
-			"2013-10": {"total":842.54, "Environment & Regeneration":842.54},
-			"2014-02": {"total":2849.60, "Chief Executive's":2849.60},
-			"2014-05": {"total":425.25, "Chief Executive's":425.25},
-			"2014-06": {"total":398.00, "Chief Executive's":398.00},
-			"2015-03": {"total":3032.70, "Chief Executive's":3032.70},
-			"2015-05": {"total":315.39, "Chief Executive's":315.39},
-			"2016-03": {"total":3496.00, "Chief Executive's":3496.00},
-			"2016-06": {"total":2660.00, "Chief Executive's":2660.00},
-			"2016-10": {"total":792.81, "Chief Executive's":792.81},
-			"2016-12": {"total":668.00, "Environment & Regeneration":668.00},
-			"2017-06": {"total":2366.40, "Chief Executive's":2366.40},
-			"2018-04": {"total":2097.60, "Chief Executive's":2097.60},
-			"2018-07": {"total":790.00, "Environment & Regeneration":790.00},
-			"2019-06": {"total":3523.40, "Assistant Chief Executive":3523.40},
-			"2019-07": {"total":2782.00, "Assistant Chief Executive":2782.00},
-			"2019-08": {"total":2288.00, "Assistant Chief Executive":2288.00},
-			"2019-12": {"total":2873.00, "Resources":2873.00},
-			"2020-04": {"total":3022.40, "Resources":3022.40}
-		}
-	},
-	"10484": {
-		"name": "SHAW CONSTRUCTION MANAGEMENT LTD",
-		"total": 34868.73,
-		"monthly": {
-			"2020-04": {"total":34868.73, "Operations & Reg Services":34868.73}
-		}
-	},
-	"10485": {
-		"name": "SHAW TRUST",
-		"total": 5799,
-		"monthly": {
-			"2014-11": {"total":4999.00, "Chief Executive's":4999.00},
-			"2016-11": {"total":525.00, "Adult and Culture":525.00},
-			"2017-07": {"total":275.00, "Adult and Culture":275.00}
-		}
-	},
-	"10486": {
-		"name": "SHB HIRE LTD",
-		"total": 56185.85,
-		"monthly": {
-			"2011-02": {"total":1169.44, "Environment & Regeneration":1169.44},
-			"2012-01": {"total":522.01, "Environment & Regeneration":522.01},
-			"2012-02": {"total":1400.13, "Environment & Regeneration":1400.13},
-			"2012-04": {"total":896.00, "Environment & Regeneration":896.00},
-			"2013-08": {"total":1141.00, "Environment & Regeneration":1141.00},
-			"2013-09": {"total":1176.00, "Environment & Regeneration":1176.00},
-			"2013-10": {"total":2940.00, "Environment & Regeneration":2940.00},
-			"2013-11": {"total":392.00, "Environment & Regeneration":392.00},
-			"2014-01": {"total":1643.00, "Environment & Regeneration":1643.00},
-			"2014-02": {"total":1643.00, "Environment & Regeneration":1643.00},
-			"2014-03": {"total":636.00, "Environment & Regeneration":636.00},
-			"2014-07": {"total":1994.00, "Environment & Regeneration":1994.00},
-			"2015-06": {"total":342.00, "Environment & Regeneration":342.00},
-			"2015-07": {"total":850.00, "Environment & Regeneration":850.00},
-			"2016-05": {"total":1867.50, "Environment & Regeneration":1867.50},
-			"2016-06": {"total":2671.50, "Environment & Regeneration":2671.50},
-			"2016-07": {"total":1867.50, "Environment & Regeneration":1867.50},
-			"2016-08": {"total":1846.75, "Environment & Regeneration":1846.75},
-			"2016-09": {"total":1636.50, "Environment & Regeneration":1636.50},
-			"2016-10": {"total":622.50, "Environment & Regeneration":622.50},
-			"2016-11": {"total":643.25, "Environment & Regeneration":643.25},
-			"2016-12": {"total":622.50, "Environment & Regeneration":622.50},
-			"2017-01": {"total":643.25, "Environment & Regeneration":643.25},
-			"2017-02": {"total":643.25, "Environment & Regeneration":643.25},
-			"2017-03": {"total":581.00, "Environment & Regeneration":581.00},
-			"2018-01": {"total":1521.50, "Environment & Regeneration":1521.50},
-			"2018-04": {"total":264.00, "Environment & Regeneration":264.00},
-			"2018-05": {"total":1554.00, "Environment & Regeneration":1554.00},
-			"2018-06": {"total":560.00, "Environment & Regeneration":560.00},
-			"2018-11": {"total":2636.00, "Operations & Reg Services":2636.00},
-			"2018-12": {"total":1784.25, "Operations & Reg Services":1784.25},
-			"2019-01": {"total":906.75, "Operations & Reg Services":906.75},
-			"2019-02": {"total":906.75, "Operations & Reg Services":906.75},
-			"2019-04": {"total":936.00, "Operations & Reg Services":936.00},
-			"2019-07": {"total":361.50, "Operations & Reg Services":361.50},
-			"2019-08": {"total":1471.50, "Operations & Reg Services":1471.50},
-			"2019-09": {"total":2849.77, "Operations & Reg Services":2849.77},
-			"2019-11": {"total":2622.50, "Operations & Reg Services":2622.50},
-			"2019-12": {"total":825.00, "Operations & Reg Services":825.00},
-			"2020-02": {"total":1573.25, "Operations & Reg Services":1573.25},
-			"2020-03": {"total":3840.00, "Operations & Reg Services":3840.00},
-			"2020-04": {"total":852.50, "Operations & Reg Services":852.50},
-			"2020-06": {"total":330.50, "Operations & Reg Services":330.50}
-		}
-	},
-	"10487": {
-		"name": "SHEELAGH TICKELL CONSULTANCY SERVICES LT",
-		"total": 13085,
-		"monthly": {
-			"2016-10": {"total":3010.00, "Childrens Services":3010.00},
-			"2016-11": {"total":2365.00, "Childrens Services":2365.00},
-			"2016-12": {"total":860.00, "Childrens Services":860.00},
-			"2017-01": {"total":2780.00, "Childrens Services":2780.00},
-			"2017-02": {"total":3010.00, "Childrens Services":3010.00},
-			"2017-05": {"total":1060.00, "Childrens Services":1060.00}
-		}
-	},
-	"10488": {
-		"name": "SHEFFIELD CHILDRENS NHS FOUNDATION TRUST",
-		"total": 2971.45,
-		"monthly": {
-			"2011-11": {"total":1096.50, "Chief Executive's":1096.50},
-			"2014-01": {"total":258.20, "Chief Executive's":258.20},
-			"2014-07": {"total":1100.35, "Chief Executive's":1100.35},
-			"2014-08": {"total":258.20, "Chief Executive's":258.20},
-			"2016-02": {"total":258.20, "Chief Executive's":258.20}
-		}
-	},
-	"10489": {
-		"name": "SHEFFIELD CITY COUNCIL",
-		"total": 13314.71,
-		"monthly": {
-			"2010-12": {"total":10873.58, "Adult and Culture":10873.58},
-			"2013-07": {"total":2061.13, "unknown":2061.13},
-			"2019-06": {"total":380.00, "People":380.00}
-		}
-	},
-	"10490": {
-		"name": "SHEFFIELD HALLAM UNIVERSITY",
-		"total": 7000,
-		"monthly": {
-			"2016-04": {"total":2000.00, "Environment & Regeneration":2000.00},
-			"2016-07": {"total":2000.00, "Environment & Regeneration":2000.00},
-			"2017-01": {"total":1500.00, "Environment & Regeneration":1500.00},
-			"2018-03": {"total":1000.00, "Environment & Regeneration":1000.00},
-			"2018-05": {"total":500.00, "Childrens Services":500.00}
-		}
-	},
-	"10491": {
-		"name": "SHEFFIELD INSULATIONS LTD",
-		"total": 18360.05,
-		"monthly": {
-			"2010-08": {"total":1198.37, "Environment & Regeneration":1198.37},
-			"2011-01": {"total":432.73, "Environment & Regeneration":432.73},
-			"2011-02": {"total":595.30, "Environment & Regeneration":595.30},
-			"2011-10": {"total":680.00, "Environment & Regeneration":680.00},
-			"2012-04": {"total":439.16, "Environment & Regeneration":439.16},
-			"2012-05": {"total":452.74, "Environment & Regeneration":452.74},
-			"2012-07": {"total":458.80, "Environment & Regeneration":458.80},
-			"2012-09": {"total":528.48, "unknown":528.48},
-			"2012-11": {"total":524.59, "unknown":524.59},
-			"2013-02": {"total":1337.47, "unknown":1337.47},
-			"2013-04": {"total":320.54, "unknown":320.54},
-			"2014-05": {"total":312.60, "Environment & Regeneration":312.60},
-			"2014-07": {"total":1848.70, "Environment & Regeneration":1848.70},
-			"2014-08": {"total":423.36, "Environment & Regeneration":423.36},
-			"2014-10": {"total":267.35, "Environment & Regeneration":267.35},
-			"2014-11": {"total":439.54, "Environment & Regeneration":439.54},
-			"2014-12": {"total":410.40, "Environment & Regeneration":410.40},
-			"2015-03": {"total":267.35, "Environment & Regeneration":267.35},
-			"2015-06": {"total":504.17, "Environment & Regeneration":504.17},
-			"2015-07": {"total":550.80, "Environment & Regeneration":550.80},
-			"2015-09": {"total":2078.67, "Environment & Regeneration":2078.67},
-			"2015-10": {"total":636.77, "Environment & Regeneration":636.77},
-			"2015-11": {"total":2096.00, "Environment & Regeneration":2096.00},
-			"2016-05": {"total":866.07, "Environment & Regeneration":866.07},
-			"2016-07": {"total":312.00, "Environment & Regeneration":312.00},
-			"2017-05": {"total":378.09, "Environment & Regeneration":378.09}
-		}
-	},
-	"10492": {
-		"name": "SHEFFIELD TEACHING HOSPITALS NHS",
-		"total": 1882,
-		"monthly": {
-			"2015-03": {"total":276.00, "Adult and Culture":276.00},
-			"2015-05": {"total":276.00, "Adult and Culture":276.00},
-			"2015-06": {"total":276.00, "Adult and Culture":276.00},
-			"2016-06": {"total":414.00, "Adult and Culture":414.00},
-			"2018-02": {"total":384.00, "Chief Executive's":384.00},
-			"2020-02": {"total":256.00, "Public Health Service":256.00}
-		}
-	},
-	"10493": {
-		"name": "SHEILA SPENCER",
-		"total": 17500,
-		"monthly": {
-			"2013-05": {"total":17500.00, "unknown":17500.00}
-		}
-	},
-	"10494": {
-		"name": "SHELLEY SIGNS LTD",
-		"total": 1315,
-		"monthly": {
-			"2018-04": {"total":1315.00, "Environment & Regeneration":1315.00}
-		}
-	},
-	"10495": {
-		"name": "SHELTER",
-		"total": 119127.12,
-		"monthly": {
-			"2010-12": {"total":1269.89, "Adult and Culture":1269.89},
-			"2011-02": {"total":789.58, "Adult and Culture":789.58},
-			"2011-03": {"total":1914.16, "Adult and Culture":1914.16},
-			"2011-06": {"total":789.58, "Adult and Culture":789.58},
-			"2011-07": {"total":3462.03, "HRA":3462.03},
-			"2011-09": {"total":679.22, "Adult and Culture":679.22},
-			"2013-07": {"total":49906.00, "unknown":49906.00},
-			"2013-10": {"total":300.00, "Adult and Culture":300.00},
-			"2014-11": {"total":300.00, "Adult and Culture":300.00},
-			"2015-07": {"total":10866.66, "Chief Executive's":10866.66},
-			"2015-10": {"total":300.00, "Adult and Culture":300.00},
-			"2016-05": {"total":508.00, "Chief Executive's":508.00},
-			"2016-12": {"total":300.00, "Adult and Culture":300.00},
-			"2018-04": {"total":6926.68, "Adult and Culture":6926.68},
-			"2018-06": {"total":6851.39, "Adult and Culture":6851.39},
-			"2018-08": {"total":2500.00, "Adult and Culture":2500.00},
-			"2018-09": {"total":6851.39, "Adult and Culture":6851.39},
-			"2018-10": {"total":2500.00, "People":2500.00},
-			"2018-12": {"total":6852.54, "People":6852.54},
-			"2019-02": {"total":2500.00, "People":2500.00},
-			"2019-06": {"total":2500.00, "People":2500.00},
-			"2019-07": {"total":2500.00, "People":2500.00},
-			"2019-10": {"total":2500.00, "People":2500.00},
-			"2020-01": {"total":2500.00, "ASC & Integrated Services":2500.00},
-			"2020-03": {"total":260.00, "ASC & Integrated Services":260.00},
-			"2020-05": {"total":2500.00, "ASC & Integrated Services":2500.00}
-		}
-	},
-	"10496": {
-		"name": "SHELTER HOUSING AID CENTRE",
-		"total": 3462.03,
-		"monthly": {
-			"2011-06": {"total":3462.03, "HRA":3462.03}
-		}
-	},
-	"10497": {
-		"name": "SHELTER LEGAL SERVICES",
-		"total": 2661,
-		"monthly": {
-			"2013-12": {"total":2661.00, "Chief Executive's":2661.00}
-		}
-	},
-	"10498": {
-		"name": "SHELTER STORE LLP",
-		"total": 1790,
-		"monthly": {
-			"2015-03": {"total":1790.00, "Environment & Regeneration":1790.00}
-		}
-	},
-	"10499": {
-		"name": "SHELTER TRAINING",
-		"total": 9599.69,
-		"monthly": {
-			"2011-05": {"total":1992.00, "Adult and Culture":1992.00},
-			"2012-10": {"total":300.00, "unknown":300.00},
-			"2018-03": {"total":4807.69, "Adult and Culture":4807.69},
-			"2018-06": {"total":2500.00, "Adult and Culture":2500.00}
 		}
 	}
 	}

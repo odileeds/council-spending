@@ -1,14 +1,180 @@
 {
-	"range": ["2010-04","2020-07"],
+	"range": ["2010-04","2020-09"],
 	"data": {
 	"1500": {
+		"name": "BLUE KANGAROO",
+		"total": 10802.83,
+		"monthly": {
+			"2010-04": {"total":3116.65, "Childrens Services":625.35, "Environment & Regeneration":2491.30},
+			"2010-05": {"total":1482.75, "Childrens Services":1482.75},
+			"2010-06": {"total":797.40, "Childrens Services":797.40},
+			"2010-08": {"total":1773.55, "Childrens Services":1773.55},
+			"2010-10": {"total":3185.88, "Chief Executives":1220.00, "Childrens Services":1254.33, "Environment & Regeneration":711.55},
+			"2010-11": {"total":446.60, "Childrens Services":446.60}
+		}
+	},
+	"1501": {
+		"name": "BLUE LINE TAXIS",
+		"total": 106009.84,
+		"monthly": {
+			"2010-09": {"total":1053.00, "Adult and Culture":1053.00},
+			"2014-02": {"total":407.00, "Childrens Services":407.00},
+			"2014-03": {"total":589.34, "Adult and Culture":280.34, "Childrens Services":309.00},
+			"2014-04": {"total":858.02, "Adult and Culture":858.02},
+			"2014-05": {"total":574.60, "Adult and Culture":574.60},
+			"2014-06": {"total":303.70, "Adult and Culture":303.70},
+			"2014-08": {"total":252.90, "Adult and Culture":252.90},
+			"2014-09": {"total":341.30, "Adult and Culture":341.30},
+			"2014-11": {"total":496.10, "Childrens Services":496.10},
+			"2014-12": {"total":936.30, "Adult and Culture":936.30},
+			"2015-03": {"total":273.40, "Adult and Culture":273.40},
+			"2015-06": {"total":523.00, "Adult and Culture":523.00},
+			"2015-07": {"total":944.30, "Adult and Culture":944.30},
+			"2015-08": {"total":2098.00, "Childrens Services":2098.00},
+			"2015-10": {"total":275.10, "Childrens Services":275.10},
+			"2015-11": {"total":287.70, "Adult and Culture":287.70},
+			"2015-12": {"total":1023.70, "Childrens Services":1023.70},
+			"2016-01": {"total":552.90, "Adult and Culture":552.90},
+			"2016-02": {"total":2167.00, "Adult and Culture":2167.00},
+			"2016-03": {"total":644.00, "Childrens Services":644.00},
+			"2016-04": {"total":310.10, "Adult and Culture":310.10},
+			"2016-05": {"total":266.80, "Adult and Culture":266.80},
+			"2016-06": {"total":1127.60, "Childrens Services":1127.60},
+			"2016-07": {"total":1273.00, "Childrens Services":1273.00},
+			"2016-08": {"total":947.00, "Childrens Services":947.00},
+			"2016-09": {"total":1812.70, "Adult and Culture":275.70, "Childrens Services":1537.00},
+			"2016-10": {"total":322.50, "Adult and Culture":322.50},
+			"2016-11": {"total":4709.45, "Adult and Culture":639.45, "Childrens Services":4070.00},
+			"2017-01": {"total":851.45, "Adult and Culture":581.45, "Childrens Services":270.00},
+			"2017-02": {"total":1812.70, "Adult and Culture":314.20, "Childrens Services":1498.50},
+			"2017-03": {"total":850.70, "Adult and Culture":298.70, "Childrens Services":552.00},
+			"2017-04": {"total":2001.90, "Adult and Culture":291.90, "Childrens Services":1710.00},
+			"2017-05": {"total":6383.50, "Childrens Services":6383.50},
+			"2017-06": {"total":1444.20, "Adult and Culture":296.80, "Childrens Services":1147.40},
+			"2017-07": {"total":3551.80, "Adult and Culture":569.70, "Childrens Services":2982.10},
+			"2017-08": {"total":1920.13, "Adult and Culture":652.93, "Childrens Services":1267.20},
+			"2017-09": {"total":1600.00, "Childrens Services":1600.00},
+			"2017-11": {"total":3670.28, "Adult and Culture":566.98, "Childrens Services":3103.30},
+			"2017-12": {"total":633.88, "Adult and Culture":633.88},
+			"2018-01": {"total":664.30, "Adult and Culture":304.30, "Chief Executive's":360.00},
+			"2018-02": {"total":1144.00, "Chief Executive's":408.00, "Childrens Services":736.00},
+			"2018-03": {"total":3707.84, "Adult and Culture":814.34, "Chief Executive's":912.00, "Childrens Services":1981.50},
+			"2018-04": {"total":1114.70, "Adult and Culture":263.70, "Childrens Services":851.00},
+			"2018-05": {"total":2818.00, "Childrens Services":2818.00},
+			"2018-07": {"total":1288.00, "Childrens Services":1288.00},
+			"2018-08": {"total":2483.15, "Adult and Culture":380.00, "Chief Executive's":476.55, "Childrens Services":1626.60},
+			"2018-09": {"total":1326.28, "Adult and Culture":622.28, "Childrens Services":704.00},
+			"2018-10": {"total":2003.54, "People":2003.54},
+			"2018-11": {"total":806.20, "People":806.20},
+			"2018-12": {"total":2153.90, "People":2153.90},
+			"2019-01": {"total":1151.40, "People":1151.40},
+			"2019-02": {"total":875.70, "People":875.70},
+			"2019-03": {"total":465.60, "People":465.60},
+			"2019-04": {"total":570.00, "People":570.00},
+			"2019-06": {"total":1191.70, "People":1191.70},
+			"2019-07": {"total":3055.80, "People":3055.80},
+			"2019-08": {"total":653.96, "People":653.96},
+			"2019-09": {"total":2004.98, "People":2004.98},
+			"2019-10": {"total":2010.31, "People":2010.31},
+			"2019-11": {"total":2183.90, "People":2183.90},
+			"2019-12": {"total":2893.50, "Children, Education and Skills":570.50, "ASC & Integrated Services":2323.00},
+			"2020-01": {"total":1115.90, "ASC & Integrated Services":1115.90},
+			"2020-02": {"total":1601.50, "Children, Education and Skills":423.50, "ASC & Integrated Services":1178.00},
+			"2020-03": {"total":5034.43, "Children, Education and Skills":2309.40, "ASC & Integrated Services":2725.03},
+			"2020-04": {"total":1284.90, "ASC & Integrated Services":1284.90},
+			"2020-05": {"total":5599.50, "Children, Education and Skills":5599.50},
+			"2020-07": {"total":708.00, "Children, Education and Skills":708.00},
+			"2020-08": {"total":2131.00, "Children, Education and Skills":2131.00},
+			"2020-09": {"total":1876.80, "Children, Education and Skills":1876.80}
+		}
+	},
+	"1502": {
+		"name": "BLUE MACHINERY (SCOTLAND) LTD",
+		"total": 858116.9,
+		"monthly": {
+			"2010-04": {"total":4200.00, "Environment & Regeneration":4200.00},
+			"2010-05": {"total":6700.00, "Environment & Regeneration":6700.00},
+			"2010-06": {"total":6700.00, "Environment & Regeneration":6700.00},
+			"2010-07": {"total":16900.00, "Environment & Regeneration":16900.00},
+			"2010-09": {"total":16900.00, "Environment & Regeneration":16900.00},
+			"2010-10": {"total":11465.35, "Environment & Regeneration":11465.35},
+			"2010-11": {"total":8450.00, "Environment & Regeneration":8450.00},
+			"2010-12": {"total":10200.00, "Environment & Regeneration":10200.00},
+			"2011-03": {"total":20400.00, "Environment & Regeneration":20400.00},
+			"2011-04": {"total":23900.00, "Environment & Regeneration":23900.00},
+			"2011-05": {"total":10200.00, "Environment & Regeneration":10200.00},
+			"2011-06": {"total":7541.75, "Environment & Regeneration":7541.75},
+			"2011-07": {"total":10200.00, "Environment & Regeneration":10200.00},
+			"2011-08": {"total":15150.00, "Environment & Regeneration":15150.00},
+			"2011-10": {"total":28100.00, "Environment & Regeneration":28100.00},
+			"2011-11": {"total":10200.00, "Environment & Regeneration":10200.00},
+			"2012-01": {"total":10700.00, "Environment & Regeneration":10700.00},
+			"2012-02": {"total":16417.00, "Environment & Regeneration":16417.00},
+			"2012-03": {"total":23600.00, "Environment & Regeneration":23600.00},
+			"2012-05": {"total":22150.00, "Environment & Regeneration":22150.00},
+			"2012-06": {"total":10200.00, "Environment & Regeneration":10200.00},
+			"2012-07": {"total":11950.00, "Environment & Regeneration":11950.00},
+			"2012-09": {"total":22950.00, "unknown":22950.00},
+			"2012-11": {"total":6350.00, "unknown":6350.00},
+			"2012-12": {"total":17600.00, "unknown":17600.00},
+			"2013-01": {"total":12350.00, "unknown":12350.00},
+			"2013-02": {"total":17310.00, "unknown":17310.00},
+			"2013-03": {"total":10600.00, "unknown":10600.00},
+			"2013-04": {"total":10600.00, "unknown":10600.00},
+			"2013-05": {"total":8900.00, "unknown":8900.00},
+			"2013-06": {"total":4300.00, "unknown":4300.00},
+			"2013-07": {"total":5900.00, "unknown":5900.00},
+			"2013-09": {"total":6932.80, "Environment & Regeneration":6932.80},
+			"2013-10": {"total":6300.00, "Environment & Regeneration":6300.00},
+			"2013-11": {"total":16200.00, "Environment & Regeneration":16200.00},
+			"2013-12": {"total":3600.00, "Environment & Regeneration":3600.00},
+			"2014-01": {"total":4000.00, "Environment & Regeneration":4000.00},
+			"2014-02": {"total":16200.00, "Environment & Regeneration":16200.00},
+			"2014-03": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2014-04": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2014-05": {"total":8600.00, "Environment & Regeneration":8600.00},
+			"2014-07": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2014-08": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2014-09": {"total":16200.00, "Environment & Regeneration":16200.00},
+			"2014-10": {"total":8600.00, "Environment & Regeneration":8600.00},
+			"2015-01": {"total":23800.00, "Childrens Services":7600.00, "Environment & Regeneration":16200.00},
+			"2015-03": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2015-04": {"total":7600.00, "Environment & Regeneration":7600.00},
+			"2015-05": {"total":283000.00, "Environment & Regeneration":283000.00}
+		}
+	},
+	"1503": {
+		"name": "BLUE RAIN PRODUCTIONS LTD",
+		"total": 1702.13,
+		"monthly": {
+			"2010-12": {"total":1702.13, "Adult and Culture":1702.13}
+		}
+	},
+	"1504": {
+		"name": "BLUE REEF AQUARIUM",
+		"total": 300.42,
+		"monthly": {
+			"2016-08": {"total":300.42, "Childrens Services":300.42}
+		}
+	},
+	"1505": {
+		"name": "BLUE SHARK DESIGNS LTD",
+		"total": 3160,
+		"monthly": {
+			"2012-11": {"total":885.00, "unknown":885.00},
+			"2013-08": {"total":400.00, "Childrens Services":400.00},
+			"2013-10": {"total":900.00, "Childrens Services":900.00},
+			"2014-01": {"total":975.00, "Childrens Services":975.00}
+		}
+	},
+	"1506": {
 		"name": "BLUE SKY THINK LLP",
 		"total": 500,
 		"monthly": {
 			"2013-05": {"total":500.00, "unknown":500.00}
 		}
 	},
-	"1501": {
+	"1507": {
 		"name": "BLUE SKY TRUST",
 		"total": 287942.71,
 		"monthly": {
@@ -55,9 +221,9 @@
 			"2020-07": {"total":6905.08, "ASC & Integrated Services":6905.08}
 		}
 	},
-	"1502": {
+	"1508": {
 		"name": "BLUE STONE CONSORTIUM",
-		"total": 596224.16,
+		"total": 629619.66,
 		"monthly": {
 			"2017-04": {"total":4800.00, "Adult and Culture":4800.00},
 			"2017-08": {"total":25000.00, "Adult and Culture":25000.00},
@@ -81,10 +247,12 @@
 			"2020-01": {"total":25000.00, "Public Health Service":25000.00},
 			"2020-02": {"total":13999.20, "Public Health Service":13999.20},
 			"2020-03": {"total":76024.00, "Public Health Service":76024.00},
-			"2020-06": {"total":57565.00, "Public Health Service":57565.00}
+			"2020-06": {"total":57565.00, "Public Health Service":57565.00},
+			"2020-08": {"total":899.50, "Public Health Service":899.50},
+			"2020-09": {"total":32496.00, "Public Health Service":32496.00}
 		}
 	},
-	"1503": {
+	"1509": {
 		"name": "BLUE TIGER",
 		"total": 4526.92,
 		"monthly": {
@@ -96,9 +264,9 @@
 			"2016-02": {"total":463.92, "Childrens Services":463.92}
 		}
 	},
-	"1504": {
+	"1510": {
 		"name": "BLUEBIRD CARE (NEWCASTLE)",
-		"total": 291424.87,
+		"total": 291873.41,
 		"monthly": {
 			"2015-08": {"total":9179.95, "Adult and Culture":9179.95},
 			"2015-09": {"total":1558.60, "Adult and Culture":1558.60},
@@ -152,10 +320,11 @@
 			"2020-04": {"total":8024.72, "ASC & Integrated Services":8024.72},
 			"2020-05": {"total":1722.00, "ASC & Integrated Services":1722.00},
 			"2020-06": {"total":563.44, "ASC & Integrated Services":563.44},
-			"2020-07": {"total":355.56, "ASC & Integrated Services":355.56}
+			"2020-07": {"total":355.56, "ASC & Integrated Services":355.56},
+			"2020-09": {"total":448.54, "ASC & Integrated Services":448.54}
 		}
 	},
-	"1505": {
+	"1511": {
 		"name": "BLUECHIP TECHNOLOGIES LTD",
 		"alternate-names": [
 			"BLUECHIP TECHNOLOGIES LIMITED"
@@ -167,14 +336,14 @@
 			"2012-03": {"total":468.00, "Childrens Services":468.00}
 		}
 	},
-	"1506": {
+	"1512": {
 		"name": "BLUEGATE PROPERTY INVESTMENTS LT",
 		"total": 302.61,
 		"monthly": {
 			"2013-09": {"total":302.61, "Chief Executive's":302.61}
 		}
 	},
-	"1507": {
+	"1513": {
 		"name": "BLUEGRASS",
 		"total": 17615,
 		"monthly": {
@@ -191,7 +360,7 @@
 			"2019-05": {"total":2592.50, "Place":2592.50}
 		}
 	},
-	"1508": {
+	"1514": {
 		"name": "BLUESKY INTERNATIONAL LTD",
 		"total": 29503,
 		"monthly": {
@@ -202,19 +371,19 @@
 			"2016-03": {"total":3441.00, "Chief Executive's":3441.00}
 		}
 	},
-	"1509": {
+	"1515": {
 		"name": "BLUMILK",
 		"total": 555,
 		"monthly": {
 			"2014-10": {"total":555.00, "Childrens Services":555.00}
 		}
 	},
-	"1510": {
+	"1516": {
 		"name": "BLYTH STAR ENTERPRISES LTD",
 		"alternate-names": [
 			"BLYTH STAR ENTERPRISES LIMITED"
 		],
-		"total": 677461.840000001,
+		"total": 680379.6,
 		"monthly": {
 			"2013-06": {"total":17833.00, "unknown":17833.00},
 			"2013-12": {"total":17028.05, "Adult and Culture":17028.05},
@@ -288,10 +457,12 @@
 			"2020-02": {"total":6048.43, "ASC & Integrated Services":6048.43},
 			"2020-04": {"total":1448.54, "ASC & Integrated Services":1448.54},
 			"2020-05": {"total":725.56, "ASC & Integrated Services":725.56},
-			"2020-06": {"total":1453.71, "ASC & Integrated Services":1453.71}
+			"2020-06": {"total":1453.71, "ASC & Integrated Services":1453.71},
+			"2020-08": {"total":729.44, "ASC & Integrated Services":729.44},
+			"2020-09": {"total":2188.32, "ASC & Integrated Services":2188.32}
 		}
 	},
-	"1511": {
+	"1517": {
 		"name": "BLYTH VALLEY ARTS & LEISURE",
 		"total": 1365,
 		"monthly": {
@@ -299,35 +470,35 @@
 			"2014-10": {"total":625.00, "Childrens Services":625.00}
 		}
 	},
-	"1512": {
+	"1518": {
 		"name": "BLYTHMAN AND PARTNERS LTD",
 		"total": 269.42,
 		"monthly": {
 			"2015-04": {"total":269.42, "Adult and Culture":269.42}
 		}
 	},
-	"1513": {
+	"1519": {
 		"name": "BM BLINDS",
 		"total": 685,
 		"monthly": {
 			"2017-07": {"total":685.00, "HRA":685.00}
 		}
 	},
-	"1514": {
+	"1520": {
 		"name": "BMG RESEARCH LTD",
 		"total": 28100,
 		"monthly": {
 			"2018-03": {"total":28100.00, "Chief Executive's":28100.00}
 		}
 	},
-	"1515": {
+	"1521": {
 		"name": "BMJ PUBLISHING GROUP LTD",
 		"total": 4976.2,
 		"monthly": {
 			"2016-04": {"total":4976.20, "Chief Executive's":4976.20}
 		}
 	},
-	"1516": {
+	"1522": {
 		"name": "BNP PARIBAS",
 		"total": 19358.15,
 		"monthly": {
@@ -348,7 +519,7 @@
 			"2014-01": {"total":3750.00, "Environment & Regeneration":3750.00}
 		}
 	},
-	"1517": {
+	"1523": {
 		"name": "BNP PARIBAS LEASE GROUP (RENTALS) LTD",
 		"total": 11885.2,
 		"monthly": {
@@ -361,7 +532,7 @@
 			"2014-10": {"total":3219.53, "Childrens Services":3219.53}
 		}
 	},
-	"1518": {
+	"1524": {
 		"name": "BNP PARIBAS LEASING SOLUTIONS",
 		"total": 18984.01,
 		"monthly": {
@@ -376,7 +547,7 @@
 			"2015-03": {"total":2070.37, "Childrens Services":2070.37}
 		}
 	},
-	"1519": {
+	"1525": {
 		"name": "BNP PARIBAS LEASING SOLUTIONS LTD",
 		"total": 271031.6,
 		"monthly": {
@@ -404,7 +575,7 @@
 			"2019-10": {"total":387.78, "People":387.78}
 		}
 	},
-	"1520": {
+	"1526": {
 		"name": "BNP PARIBAS REAL ESTATE",
 		"total": 59187.61,
 		"monthly": {
@@ -418,7 +589,7 @@
 			"2020-07": {"total":1750.00, "Place":1750.00}
 		}
 	},
-	"1521": {
+	"1527": {
 		"name": "BOB CROSBY AGENCIES LTD",
 		"alternate-names": [
 			"BOB CROSBY AGENCIES LIMITED"
@@ -486,16 +657,16 @@
 			"2018-06": {"total":6833.37, "Adult and Culture":2303.88, "Environment & Regeneration":4529.49}
 		}
 	},
-	"1522": {
+	"1528": {
 		"name": "BOB RUDD GAMING & AMUSEMENT MACHINES",
 		"total": 1030,
 		"monthly": {
 			"2016-12": {"total":1030.00, "Childrens Services":515.00, "Environment & Regeneration":515.00}
 		}
 	},
-	"1523": {
+	"1529": {
 		"name": "BOC LTD",
-		"total": 37074.72,
+		"total": 37355.29,
 		"monthly": {
 			"2010-05": {"total":2325.20, "Environment & Regeneration":2325.20},
 			"2010-06": {"total":566.68, "Environment & Regeneration":566.68},
@@ -527,10 +698,11 @@
 			"2018-07": {"total":3945.15, "Childrens Services":3113.15, "Environment & Regeneration":832.00},
 			"2018-09": {"total":1502.00, "Environment & Regeneration":1502.00},
 			"2019-05": {"total":2132.98, "Operations & Reg Services":2132.98},
-			"2020-05": {"total":2394.13, "Operations & Reg Services":2394.13}
+			"2020-05": {"total":2394.13, "Operations & Reg Services":2394.13},
+			"2020-08": {"total":280.57, "Operations & Reg Services":280.57}
 		}
 	},
-	"1524": {
+	"1530": {
 		"name": "BODY POSITIVE NORTH EAST LTD",
 		"total": 89594.45,
 		"monthly": {
@@ -547,16 +719,16 @@
 			"2013-03": {"total":9796.75, "unknown":9796.75}
 		}
 	},
-	"1525": {
+	"1531": {
 		"name": "BODYPOWER SPORTS PLC",
 		"total": 332.5,
 		"monthly": {
 			"2014-10": {"total":332.50, "Childrens Services":332.50}
 		}
 	},
-	"1526": {
+	"1532": {
 		"name": "BOE SOLUTIONS LTD",
-		"total": 5925,
+		"total": 6180,
 		"monthly": {
 			"2018-09": {"total":360.00, "Environment & Regeneration":360.00},
 			"2018-10": {"total":580.00, "Place":580.00},
@@ -568,10 +740,11 @@
 			"2019-12": {"total":575.00, "Place":575.00},
 			"2020-03": {"total":265.00, "Place":265.00},
 			"2020-04": {"total":265.00, "Place":265.00},
-			"2020-06": {"total":395.00, "Place":395.00}
+			"2020-06": {"total":395.00, "Place":395.00},
+			"2020-08": {"total":255.00, "ASC & Integrated Services":255.00}
 		}
 	},
-	"1527": {
+	"1533": {
 		"name": "BOHEMIANS TENNIS CLUB",
 		"total": 4621,
 		"monthly": {
@@ -579,7 +752,7 @@
 			"2019-01": {"total":876.00, "Assistant Chief Executive":876.00}
 		}
 	},
-	"1528": {
+	"1534": {
 		"name": "BOILERHOUSE COMMUNICATIONS LTD",
 		"alternate-names": [
 			"BOILERHOUSE COMMUNICATIONS LIMITED"
@@ -589,14 +762,14 @@
 			"2016-11": {"total":2950.00, "Adult and Culture":2950.00}
 		}
 	},
-	"1529": {
+	"1535": {
 		"name": "BOLDON BUILDERS",
 		"total": 6083.33,
 		"monthly": {
 			"2012-09": {"total":6083.33, "unknown":6083.33}
 		}
 	},
-	"1530": {
+	"1536": {
 		"name": "BOLDON FARMHOUSE PANTRY",
 		"total": 3142,
 		"monthly": {
@@ -605,7 +778,7 @@
 			"2019-08": {"total":2124.00, "Place":2124.00}
 		}
 	},
-	"1531": {
+	"1537": {
 		"name": "BOLINDA DIGITAL LTD",
 		"total": 73872.25,
 		"monthly": {
@@ -630,7 +803,7 @@
 			"2020-07": {"total":1798.96, "Operations & Reg Services":1798.96}
 		}
 	},
-	"1532": {
+	"1538": {
 		"name": "BOLLARD LOAD TESTING LTD",
 		"total": 26740,
 		"monthly": {
@@ -640,21 +813,21 @@
 			"2020-03": {"total":7440.00, "Place":7440.00}
 		}
 	},
-	"1533": {
+	"1539": {
 		"name": "BOLLIN LEGAL ASSOCIATES LTD",
 		"total": 9000,
 		"monthly": {
 			"2012-03": {"total":9000.00, "Chief Executive's":9000.00}
 		}
 	},
-	"1534": {
+	"1540": {
 		"name": "BOLTON COUNCIL",
 		"total": 27000,
 		"monthly": {
 			"2014-10": {"total":27000.00, "Childrens Services":27000.00}
 		}
 	},
-	"1535": {
+	"1541": {
 		"name": "BOLTON GATE CO LTD",
 		"total": 3447.25,
 		"monthly": {
@@ -662,7 +835,7 @@
 			"2019-06": {"total":840.25, "HRA Expenditure":840.25}
 		}
 	},
-	"1536": {
+	"1542": {
 		"name": "BOLTON GATE COMPANY LTD",
 		"total": 78280,
 		"monthly": {
@@ -676,7 +849,7 @@
 			"2018-10": {"total":1675.00, "Operations & Reg Services":1675.00}
 		}
 	},
-	"1537": {
+	"1543": {
 		"name": "BOLTON GATE SERVICES LTD",
 		"total": 10793,
 		"monthly": {
@@ -685,14 +858,14 @@
 			"2020-05": {"total":900.00, "Operations & Reg Services":900.00}
 		}
 	},
-	"1538": {
+	"1544": {
 		"name": "BOLTON NHS FOUNDATION TRUST",
 		"total": 368,
 		"monthly": {
 			"2017-11": {"total":368.00, "Childrens Services":368.00}
 		}
 	},
-	"1539": {
+	"1545": {
 		"name": "BOMB COSMETICS",
 		"total": 1915.76,
 		"monthly": {
@@ -701,21 +874,21 @@
 			"2017-11": {"total":650.58, "Environment & Regeneration":650.58}
 		}
 	},
-	"1540": {
+	"1546": {
 		"name": "BONACCORD ECOSSE LTD",
 		"total": 400,
 		"monthly": {
 			"2019-12": {"total":400.00, "City Futures":400.00}
 		}
 	},
-	"1541": {
+	"1547": {
 		"name": "BONACIA LTD",
 		"total": 329.67,
 		"monthly": {
 			"2012-10": {"total":329.67, "unknown":329.67}
 		}
 	},
-	"1542": {
+	"1548": {
 		"name": "BOND DICKINSON LLP",
 		"total": 3414411.25,
 		"monthly": {
@@ -776,76 +949,11 @@
 			"2018-03": {"total":1660776.00, "Chief Executive's":27817.00, "Childrens Services":1632959.00}
 		}
 	},
-	"1543": {
+	"1549": {
 		"name": "BOND DICKINSON LLP EXORS OF L GR",
 		"total": 337.15,
 		"monthly": {
 			"2014-10": {"total":337.15, "Chief Executive's":337.15}
-		}
-	},
-	"1544": {
-		"name": "BOND HOTEL",
-		"total": 660,
-		"monthly": {
-			"2012-05": {"total":660.00, "Adult and Culture":660.00}
-		}
-	},
-	"1545": {
-		"name": "BOND MAILROOM",
-		"total": 742,
-		"monthly": {
-			"2013-09": {"total":742.00, "Environment & Regeneration":742.00}
-		}
-	},
-	"1546": {
-		"name": "BOND SOLON TRAINING LTD",
-		"total": 1721.2,
-		"monthly": {
-			"2019-11": {"total":1721.20, "Operations & Reg Services":1721.20}
-		}
-	},
-	"1547": {
-		"name": "BONG UK LTD",
-		"total": 991.25,
-		"monthly": {
-			"2010-10": {"total":991.25, "Environment & Regeneration":991.25}
-		}
-	},
-	"1548": {
-		"name": "BONHOMIE HOUSE CARE HOME",
-		"total": 136071.43,
-		"monthly": {
-			"2014-09": {"total":16071.43, "Adult and Culture":16071.43},
-			"2014-10": {"total":5000.00, "Adult and Culture":5000.00},
-			"2014-11": {"total":5000.00, "Adult and Culture":5000.00},
-			"2014-12": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-01": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-02": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-03": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-04": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-05": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-06": {"total":10000.00, "Adult and Culture":10000.00},
-			"2015-07": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-08": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-09": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-10": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-11": {"total":5000.00, "Adult and Culture":5000.00},
-			"2015-12": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-01": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-02": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-03": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-04": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-05": {"total":10000.00, "Adult and Culture":10000.00},
-			"2016-06": {"total":5000.00, "Adult and Culture":5000.00},
-			"2016-07": {"total":5000.00, "Adult and Culture":5000.00}
-		}
-	},
-	"1549": {
-		"name": "BONNER & WHITE CARPET FLOORING",
-		"total": 50860,
-		"monthly": {
-			"2012-12": {"total":49860.00, "unknown":49860.00},
-			"2013-01": {"total":1000.00, "unknown":1000.00}
 		}
 	}
 	}

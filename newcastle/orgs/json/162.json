@@ -1,7 +1,715 @@
 {
-	"range": ["2010-04","2020-07"],
+	"range": ["2010-04","2020-09"],
 	"data": {
 	"8100": {
+		"name": "NEWCASTLE UPON TYNE HOSPITALS",
+		"total": 9857.47,
+		"monthly": {
+			"2010-06": {"total":760.91, "Adult and Culture":760.91},
+			"2011-08": {"total":1029.56, "Adult and Culture":1029.56},
+			"2016-03": {"total":8067.00, "Adult and Culture":8067.00}
+		}
+	},
+	"8101": {
+		"name": "NEWCASTLE UPON TYNE HOSPITALS NHS TRUST",
+		"total": 16575493.37,
+		"monthly": {
+			"2010-04": {"total":34579.00, "Adult and Culture":7405.00, "Childrens Services":27174.00},
+			"2010-05": {"total":50273.34, "Chief Executives":50273.34},
+			"2010-06": {"total":17652.36, "Chief Executives":17652.36},
+			"2010-07": {"total":16363.36, "Adult and Culture":2183.43, "Chief Executives":14179.93},
+			"2010-08": {"total":59048.00, "Childrens Services":59048.00},
+			"2010-09": {"total":13404.75, "Adult and Culture":7571.00, "Childrens Services":5833.75},
+			"2010-10": {"total":132089.27, "Chief Executives":63165.52, "Childrens Services":68923.75},
+			"2010-11": {"total":63150.00, "Childrens Services":63150.00},
+			"2011-01": {"total":112023.15, "Adult and Culture":7571.00, "Chief Executives":70140.90, "Childrens Services":34311.25},
+			"2011-02": {"total":39844.60, "Adult and Culture":1221.60, "Childrens Services":38623.00},
+			"2011-03": {"total":2761.92, "Adult and Culture":1221.60, "Childrens Services":1540.32},
+			"2011-04": {"total":155927.81, "Chief Executive's":80641.81, "Childrens Services":75286.00},
+			"2011-05": {"total":51656.27, "Adult and Culture":49888.27, "Chief Executive's":1768.00},
+			"2011-06": {"total":47697.10, "Adult and Culture":24834.00, "Childrens Services":5833.75, "Environment & Regeneration":17029.35},
+			"2011-07": {"total":18374.51, "Adult and Culture":18374.51},
+			"2011-08": {"total":89609.83, "Chief Executive's":51057.83, "Childrens Services":38552.00},
+			"2011-09": {"total":47338.08, "Adult and Culture":12559.52, "Chief Executive's":18818.56, "Childrens Services":15960.00},
+			"2011-10": {"total":31293.02, "Adult and Culture":26332.02, "Childrens Services":4961.00},
+			"2011-11": {"total":330354.63, "Adult and Culture":285262.88, "Childrens Services":45091.75},
+			"2011-12": {"total":80112.10, "Adult and Culture":45448.10, "Childrens Services":34664.00},
+			"2012-01": {"total":76984.91, "Adult and Culture":14669.30, "Childrens Services":58315.61, "Environment & Regeneration":4000.00},
+			"2012-02": {"total":129901.76, "Adult and Culture":45832.26, "Childrens Services":84069.50},
+			"2012-03": {"total":24834.00, "Adult and Culture":24834.00},
+			"2012-04": {"total":249939.55, "Adult and Culture":28688.02, "Chief Executive's":102980.18, "Childrens Services":118271.35},
+			"2012-05": {"total":251921.77, "Adult and Culture":149890.04, "Childrens Services":102031.73},
+			"2012-06": {"total":252876.71, "Adult and Culture":179909.12, "Chief Executive's":50297.87, "Childrens Services":22669.72},
+			"2012-07": {"total":54589.33, "Adult & Culture":18751.08, "Childrens Services":35838.25},
+			"2012-08": {"total":100442.86, "Adult & Culture":42957.64, "Chief Executives":20730.22, "Childrens Services":36755.00},
+			"2012-09": {"total":202169.50, "unknown":202169.50},
+			"2012-10": {"total":99809.89, "unknown":99809.89},
+			"2012-11": {"total":122071.16, "unknown":122071.16},
+			"2012-12": {"total":42515.02, "unknown":42515.02},
+			"2013-01": {"total":92127.96, "unknown":92127.96},
+			"2013-02": {"total":288068.78, "unknown":288068.78},
+			"2013-03": {"total":235823.20, "unknown":235823.20},
+			"2013-04": {"total":137110.39, "unknown":137110.39},
+			"2013-05": {"total":38212.40, "unknown":38212.40},
+			"2013-06": {"total":26245.49, "unknown":26245.49},
+			"2013-07": {"total":448.17, "unknown":448.17},
+			"2013-08": {"total":123965.98, "Adult and Culture":24834.00, "Chief Executive's":57560.98, "Childrens Services":41571.00},
+			"2013-09": {"total":76409.86, "Adult and Culture":1076.43, "Childrens Services":75333.43},
+			"2013-10": {"total":729416.77, "Adult and Culture":729416.77},
+			"2013-11": {"total":127937.01, "Adult and Culture":21044.44, "Chief Executive's":80892.08, "Childrens Services":26000.49},
+			"2013-12": {"total":58813.95, "Adult and Culture":24834.00, "Chief Executive's":25429.95, "Childrens Services":8550.00},
+			"2014-01": {"total":210247.90, "Adult and Culture":24731.94, "Childrens Services":185515.96},
+			"2014-02": {"total":38097.00, "Childrens Services":38097.00},
+			"2014-03": {"total":1281505.91, "Adult and Culture":1222617.66, "Chief Executive's":58180.95, "Childrens Services":707.30},
+			"2014-04": {"total":37246.78, "Adult and Culture":3187.50, "Chief Executive's":313.28, "Childrens Services":33746.00},
+			"2014-05": {"total":65579.32, "Adult and Culture":58771.25, "Childrens Services":6808.07},
+			"2014-06": {"total":368492.65, "Adult and Culture":240087.49, "Chief Executive's":115350.16, "Childrens Services":13055.00},
+			"2014-07": {"total":58291.48, "Adult and Culture":58039.46, "Chief Executive's":252.02},
+			"2014-08": {"total":652237.42, "Adult and Culture":618610.04, "Chief Executive's":33627.38},
+			"2014-09": {"total":169680.14, "Adult and Culture":150830.14, "Childrens Services":18850.00},
+			"2014-10": {"total":159477.09, "Adult and Culture":28586.79, "Chief Executive's":77271.07, "Childrens Services":53619.23},
+			"2014-11": {"total":24000.00, "Childrens Services":24000.00},
+			"2014-12": {"total":7182.02, "Adult and Culture":6582.02, "Childrens Services":600.00},
+			"2015-01": {"total":309506.42, "Adult and Culture":309506.42},
+			"2015-02": {"total":7182.00, "Adult and Culture":7182.00},
+			"2015-03": {"total":739020.28, "Adult and Culture":632520.26, "Chief Executive's":106500.02},
+			"2015-04": {"total":659637.56, "Adult and Culture":628204.56, "Childrens Services":31433.00},
+			"2015-05": {"total":253539.85, "Adult and Culture":185192.67, "Chief Executive's":68347.18},
+			"2015-06": {"total":274901.00, "Adult and Culture":274901.00},
+			"2015-07": {"total":78559.61, "Adult and Culture":78306.61, "Chief Executive's":253.00},
+			"2015-08": {"total":473399.53, "Adult and Culture":447195.20, "Chief Executive's":26204.33},
+			"2015-09": {"total":16277.63, "Childrens Services":16277.63},
+			"2015-10": {"total":130425.97, "Adult and Culture":44203.56, "Chief Executive's":86222.41},
+			"2015-11": {"total":908495.86, "Adult and Culture":692942.40, "Chief Executive's":47238.08, "Childrens Services":168315.38},
+			"2015-12": {"total":139199.75, "Adult and Culture":138894.75, "Chief Executive's":305.00},
+			"2016-01": {"total":553570.26, "Adult and Culture":553570.26},
+			"2016-02": {"total":99329.33, "Adult and Culture":37152.70, "Chief Executive's":61796.63, "Childrens Services":380.00},
+			"2016-03": {"total":1015762.19, "Adult and Culture":1015762.19},
+			"2016-04": {"total":511138.07, "Adult and Culture":487345.07, "Chief Executive's":277.00, "Childrens Services":23516.00},
+			"2016-05": {"total":434489.88, "Adult and Culture":278311.72, "Chief Executive's":62398.36, "Childrens Services":93779.80},
+			"2016-06": {"total":229500.21, "Adult and Culture":229500.21},
+			"2016-07": {"total":1064.00, "Childrens Services":1064.00},
+			"2016-08": {"total":603571.79, "Adult and Culture":603289.79, "Chief Executive's":282.00},
+			"2016-09": {"total":744.80, "Childrens Services":744.80},
+			"2016-10": {"total":17235.38, "Childrens Services":17235.38},
+			"2016-12": {"total":516040.93, "Adult and Culture":515640.80, "Childrens Services":400.13},
+			"2017-01": {"total":364.80, "Childrens Services":364.80},
+			"2017-02": {"total":17167.26, "Childrens Services":17167.26},
+			"2017-03": {"total":1395.00, "Environment & Regeneration":1395.00},
+			"2017-04": {"total":54827.09, "Childrens Services":54827.09},
+			"2017-05": {"total":982.50, "Chief Executive's":289.50, "Childrens Services":693.00},
+			"2017-06": {"total":28140.78, "Childrens Services":28140.78},
+			"2017-07": {"total":340.00, "Adult and Culture":340.00},
+			"2017-08": {"total":1619.58, "Adult and Culture":1619.58},
+			"2017-09": {"total":2604.17, "Adult and Culture":2604.17},
+			"2017-10": {"total":58595.33, "Adult and Culture":58595.33},
+			"2017-11": {"total":402129.80, "Adult and Culture":2865.00, "Chief Executive's":399264.80},
+			"2017-12": {"total":3658.75, "Adult and Culture":3658.75},
+			"2018-01": {"total":2331.26, "Adult and Culture":2331.26},
+			"2018-02": {"total":1599.17, "Adult and Culture":1599.17},
+			"2018-04": {"total":1358.34, "Adult and Culture":1358.34},
+			"2018-05": {"total":4811.25, "Adult and Culture":4811.25},
+			"2018-08": {"total":2450.42, "Adult and Culture":2450.42},
+			"2018-09": {"total":4607.09, "Adult and Culture":4607.09},
+			"2018-11": {"total":5691.25, "People":5691.25}
+		}
+	},
+	"8102": {
+		"name": "NEWCASTLE UPON TYNE LAW SOCIETY",
+		"total": 3915,
+		"monthly": {
+			"2012-04": {"total":2915.00, "HRA":2915.00},
+			"2014-11": {"total":1000.00, "Environment & Regeneration":1000.00}
+		}
+	},
+	"8103": {
+		"name": "NEWCASTLE UPON TYNE NHS FOUNDATION TRUST",
+		"total": 1235228.74,
+		"monthly": {
+			"2010-05": {"total":6592.14, "Childrens Services":6592.14},
+			"2010-08": {"total":41587.25, "Childrens Services":41587.25},
+			"2010-09": {"total":5897.00, "Childrens Services":5897.00},
+			"2011-05": {"total":14532.00, "Childrens Services":14532.00},
+			"2011-10": {"total":7353.00, "Childrens Services":7353.00},
+			"2011-11": {"total":4000.00, "Environment & Regeneration":4000.00},
+			"2012-01": {"total":8390.20, "Adult and Culture":1009.20, "Childrens Services":7381.00},
+			"2012-02": {"total":8368.99, "Adult and Culture":8368.99},
+			"2012-04": {"total":10390.12, "Adult and Culture":10390.12},
+			"2012-05": {"total":4000.00, "Environment & Regeneration":4000.00},
+			"2012-06": {"total":33317.55, "Adult and Culture":28317.55, "Environment & Regeneration":5000.00},
+			"2012-07": {"total":12487.32, "Adult & Culture":12487.32},
+			"2012-08": {"total":3703.33, "Adult & Culture":3703.33},
+			"2012-09": {"total":1114.06, "unknown":1114.06},
+			"2012-10": {"total":140858.81, "unknown":140858.81},
+			"2012-11": {"total":23486.12, "unknown":23486.12},
+			"2012-12": {"total":22730.16, "unknown":22730.16},
+			"2013-02": {"total":27535.39, "unknown":27535.39},
+			"2013-03": {"total":15705.80, "unknown":15705.80},
+			"2013-04": {"total":2234.96, "unknown":2234.96},
+			"2013-06": {"total":21922.19, "unknown":21922.19},
+			"2013-07": {"total":23838.60, "unknown":23838.60},
+			"2013-08": {"total":13560.00, "Adult and Culture":12960.00, "Childrens Services":600.00},
+			"2013-09": {"total":12232.35, "Adult and Culture":12232.35},
+			"2013-10": {"total":20695.16, "Adult and Culture":20695.16},
+			"2013-12": {"total":32180.38, "Adult and Culture":32180.38},
+			"2014-01": {"total":10348.62, "Adult and Culture":10348.62},
+			"2014-03": {"total":97939.69, "Adult and Culture":97939.69},
+			"2014-04": {"total":607827.55, "Adult and Culture":468932.80, "Childrens Services":138894.75},
+			"2014-05": {"total":400.00, "Adult and Culture":400.00}
+		}
+	},
+	"8104": {
+		"name": "NEWCASTLE UPON TYNE YMCA",
+		"total": 157183.66,
+		"monthly": {
+			"2010-06": {"total":5000.00, "Environment & Regeneration":5000.00},
+			"2010-07": {"total":4135.22, "Adult and Culture":4135.22},
+			"2010-08": {"total":14674.07, "Adult and Culture":14674.07},
+			"2010-11": {"total":10202.70, "Adult and Culture":5202.70, "Chief Executives":5000.00},
+			"2010-12": {"total":1315.88, "Adult and Culture":1315.88},
+			"2011-02": {"total":5206.28, "Adult and Culture":5206.28},
+			"2011-03": {"total":12513.46, "Adult and Culture":12513.46},
+			"2011-04": {"total":2288.57, "Chief Executive's":2288.57},
+			"2011-05": {"total":8060.86, "Adult and Culture":8060.86},
+			"2011-06": {"total":8700.00, "Childrens Services":8700.00},
+			"2011-07": {"total":1000.00, "Chief Executive's":1000.00},
+			"2011-09": {"total":9881.17, "Adult and Culture":781.17, "Childrens Services":9100.00},
+			"2011-12": {"total":9100.00, "Childrens Services":9100.00},
+			"2012-01": {"total":5000.00, "Childrens Services":5000.00},
+			"2012-03": {"total":9100.00, "Childrens Services":9100.00},
+			"2012-04": {"total":11265.80, "Childrens Services":11265.80},
+			"2012-06": {"total":4647.40, "Childrens Services":4647.40},
+			"2012-08": {"total":23942.20, "Childrens Services":16971.10, "unknown":6971.10},
+			"2012-09": {"total":9150.05, "unknown":9150.05},
+			"2014-08": {"total":2000.00, "Adult and Culture":2000.00}
+		}
+	},
+	"8105": {
+		"name": "NEWCASTLE UTD FOUNDATION",
+		"total": 27060.54,
+		"monthly": {
+			"2012-01": {"total":11792.54, "Environment & Regeneration":11792.54},
+			"2013-03": {"total":15268.00, "unknown":15268.00}
+		}
+	},
+	"8106": {
+		"name": "NEWCASTLE UXL",
+		"total": 339066.83,
+		"monthly": {
+			"2010-05": {"total":8350.00, "Childrens Services":8350.00},
+			"2010-06": {"total":20000.00, "Childrens Services":20000.00},
+			"2010-09": {"total":15910.00, "Childrens Services":15910.00},
+			"2010-12": {"total":10810.00, "Childrens Services":10810.00},
+			"2011-01": {"total":14070.00, "Childrens Services":14070.00},
+			"2011-02": {"total":9575.00, "Childrens Services":9575.00},
+			"2011-04": {"total":15000.00, "Childrens Services":15000.00},
+			"2011-12": {"total":17250.00, "Childrens Services":17250.00},
+			"2012-02": {"total":11000.00, "Childrens Services":11000.00},
+			"2012-04": {"total":10330.00, "Childrens Services":10330.00},
+			"2012-08": {"total":12950.00, "Childrens Services":12950.00},
+			"2012-09": {"total":13900.00, "unknown":13900.00},
+			"2012-10": {"total":7480.00, "unknown":7480.00},
+			"2012-11": {"total":8000.00, "unknown":8000.00},
+			"2012-12": {"total":16080.00, "unknown":16080.00},
+			"2013-01": {"total":1200.00, "unknown":1200.00},
+			"2013-02": {"total":1500.00, "unknown":1500.00},
+			"2013-09": {"total":3360.00, "Childrens Services":3360.00},
+			"2013-10": {"total":2480.00, "Childrens Services":2480.00},
+			"2013-12": {"total":2600.00, "Childrens Services":2600.00},
+			"2014-01": {"total":800.00, "Childrens Services":800.00},
+			"2015-05": {"total":2800.00, "Childrens Services":2800.00},
+			"2015-07": {"total":2700.00, "Childrens Services":2700.00},
+			"2015-09": {"total":700.00, "Childrens Services":700.00},
+			"2016-06": {"total":7614.60, "Adult and Culture":7614.60},
+			"2016-09": {"total":8249.15, "Adult and Culture":8249.15},
+			"2016-12": {"total":8249.15, "Adult and Culture":8249.15},
+			"2017-03": {"total":8887.10, "Adult and Culture":8887.10},
+			"2017-06": {"total":8408.13, "Adult and Culture":8408.13},
+			"2017-09": {"total":8227.31, "Adult and Culture":8227.31},
+			"2017-12": {"total":8227.31, "Adult and Culture":8227.31},
+			"2018-03": {"total":8137.25, "Adult and Culture":8137.25},
+			"2018-04": {"total":7001.20, "Adult and Culture":7001.20},
+			"2018-06": {"total":6925.10, "Adult and Culture":6925.10},
+			"2018-09": {"total":6925.10, "Adult and Culture":6925.10},
+			"2018-12": {"total":6927.60, "Place":6927.60},
+			"2019-04": {"total":5754.84, "Place":5754.84},
+			"2019-07": {"total":5754.84, "Place":5754.84},
+			"2019-10": {"total":5754.84, "Place":5754.84},
+			"2020-01": {"total":5884.48, "City Futures":5884.48},
+			"2020-04": {"total":6824.64, "City Futures":6824.64},
+			"2020-07": {"total":6469.19, "City Futures":6469.19}
+		}
+	},
+	"8107": {
+		"name": "NEWCASTLE VISION SUPPORT",
+		"total": 1135.35,
+		"monthly": {
+			"2017-11": {"total":378.45, "Adult and Culture":378.45},
+			"2017-12": {"total":756.90, "Adult and Culture":756.90}
+		}
+	},
+	"8108": {
+		"name": "NEWCASTLE WEST END FOOD BANK",
+		"total": 30383.61,
+		"monthly": {
+			"2015-10": {"total":4500.00, "Chief Executive's":4500.00},
+			"2016-02": {"total":3500.00, "Chief Executive's":3500.00},
+			"2018-12": {"total":500.00, "Assistant Chief Executive":500.00},
+			"2019-01": {"total":815.00, "Assistant Chief Executive":815.00},
+			"2019-04": {"total":3469.83, "People":3469.83},
+			"2019-07": {"total":3469.83, "People":3469.83},
+			"2019-10": {"total":3469.83, "People":3469.83},
+			"2020-01": {"total":3547.51, "ASC & Integrated Services":3547.51},
+			"2020-04": {"total":3650.88, "ASC & Integrated Services":3650.88},
+			"2020-07": {"total":3460.73, "ASC & Integrated Services":3460.73}
+		}
+	},
+	"8109": {
+		"name": "NEWCASTLE WESTGATE JUNIOR F C",
+		"total": 336,
+		"monthly": {
+			"2014-11": {"total":336.00, "Chief Executive's":336.00}
+		}
+	},
+	"8110": {
+		"name": "NEWCASTLE WINTER BOOK FESTIVAL CIC",
+		"total": 2394.53,
+		"monthly": {
+			"2012-01": {"total":2394.53, "Adult and Culture":2394.53}
+		}
+	},
+	"8111": {
+		"name": "NEWCASTLE WOMENS AID",
+		"total": 1144388.99,
+		"monthly": {
+			"2010-04": {"total":12578.16, "Adult and Culture":12578.16},
+			"2010-05": {"total":12578.16, "Adult and Culture":12578.16},
+			"2010-06": {"total":22650.81, "Adult and Culture":12578.81, "Childrens Services":10072.00},
+			"2010-07": {"total":12578.44, "Adult and Culture":12578.44},
+			"2010-08": {"total":12578.44, "Adult and Culture":12578.44},
+			"2010-09": {"total":12578.44, "Adult and Culture":12578.44},
+			"2010-10": {"total":12578.44, "Adult and Culture":12578.44},
+			"2010-11": {"total":12578.44, "Adult and Culture":12578.44},
+			"2010-12": {"total":26595.19, "Adult and Culture":26595.19},
+			"2011-01": {"total":14329.28, "Adult and Culture":14329.28},
+			"2011-02": {"total":14330.24, "Adult and Culture":14330.24},
+			"2011-03": {"total":7636.74, "Adult and Culture":7636.74},
+			"2011-04": {"total":13578.16, "Adult and Culture":12578.16, "Chief Executive's":1000.00},
+			"2011-05": {"total":12578.16, "Adult and Culture":12578.16},
+			"2011-06": {"total":14946.30, "Adult and Culture":14946.30},
+			"2011-07": {"total":12578.16, "Adult and Culture":12578.16},
+			"2011-08": {"total":12578.16, "Adult and Culture":12578.16},
+			"2011-09": {"total":15120.34, "Adult and Culture":12643.32, "Chief Executive's":2477.02},
+			"2011-10": {"total":13466.04, "Adult and Culture":13466.04},
+			"2011-11": {"total":13466.04, "Adult and Culture":13466.04},
+			"2011-12": {"total":29409.10, "Adult and Culture":29409.10},
+			"2012-01": {"total":13466.04, "Adult and Culture":13466.04},
+			"2012-02": {"total":13466.94, "Adult and Culture":13466.94},
+			"2012-03": {"total":9454.51, "Adult and Culture":9454.51},
+			"2012-04": {"total":13018.60, "Adult and Culture":13018.60},
+			"2012-05": {"total":13018.60, "Adult and Culture":13018.60},
+			"2012-06": {"total":13018.60, "Adult and Culture":13018.60},
+			"2012-07": {"total":13018.60, "Adult & Culture":13018.60},
+			"2012-08": {"total":13018.60, "Adult & Culture":13018.60},
+			"2012-09": {"total":15501.27, "unknown":15501.27},
+			"2012-10": {"total":13146.84, "unknown":13146.84},
+			"2012-11": {"total":26293.68, "unknown":26293.68},
+			"2012-12": {"total":15629.32, "unknown":15629.32},
+			"2013-01": {"total":13146.84, "unknown":13146.84},
+			"2013-02": {"total":13147.76, "unknown":13147.76},
+			"2013-03": {"total":8774.76, "unknown":8774.76},
+			"2013-04": {"total":12578.16, "unknown":12578.16},
+			"2013-05": {"total":12578.16, "unknown":12578.16},
+			"2013-06": {"total":12578.16, "unknown":12578.16},
+			"2013-07": {"total":16831.50, "unknown":16831.50},
+			"2013-08": {"total":14396.31, "Adult and Culture":12578.16, "Childrens Services":1818.15},
+			"2013-09": {"total":12918.34, "Adult and Culture":12578.16, "Childrens Services":340.18},
+			"2013-10": {"total":12903.34, "Adult and Culture":12578.16, "Childrens Services":325.18},
+			"2013-11": {"total":25156.32, "Adult and Culture":25156.32},
+			"2013-12": {"total":6172.42, "Adult and Culture":6172.42},
+			"2014-01": {"total":22625.33, "Adult and Culture":22625.33},
+			"2014-02": {"total":13478.92, "Adult and Culture":13478.92},
+			"2014-03": {"total":7221.75, "Adult and Culture":7221.75},
+			"2014-07": {"total":3196.25, "Adult and Culture":3196.25},
+			"2014-08": {"total":72596.89, "Adult and Culture":72596.89},
+			"2014-09": {"total":13870.64, "Adult and Culture":13870.64},
+			"2014-10": {"total":13870.64, "Adult and Culture":13870.64},
+			"2014-11": {"total":27741.28, "Adult and Culture":27741.28},
+			"2014-12": {"total":13870.64, "Adult and Culture":13870.64},
+			"2015-01": {"total":13870.64, "Adult and Culture":13870.64},
+			"2015-02": {"total":13874.95, "Adult and Culture":13874.95},
+			"2015-03": {"total":6083.63, "Adult and Culture":6083.63},
+			"2015-04": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-05": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-06": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-07": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-08": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-09": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-10": {"total":13233.64, "Adult and Culture":13233.64},
+			"2015-11": {"total":26467.28, "Adult and Culture":26467.28},
+			"2015-12": {"total":13267.63, "Adult and Culture":13267.63},
+			"2016-02": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-03": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-04": {"total":13549.64, "Adult and Culture":13281.80, "Chief Executive's":267.84},
+			"2016-05": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-06": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-07": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-08": {"total":13281.80, "Adult and Culture":13281.80},
+			"2016-09": {"total":15659.65, "Adult and Culture":15659.65},
+			"2016-10": {"total":26163.44, "Adult and Culture":26163.44},
+			"2016-11": {"total":10108.60, "Adult and Culture":10108.60}
+		}
+	},
+	"8112": {
+		"name": "NEWCASTLE YMCA",
+		"total": 15087.96,
+		"monthly": {
+			"2010-07": {"total":2500.00, "Environment & Regeneration":2500.00},
+			"2012-11": {"total":1000.00, "unknown":1000.00},
+			"2013-09": {"total":1500.00, "Chief Executive's":1500.00},
+			"2013-11": {"total":4000.00, "Childrens Services":4000.00},
+			"2014-03": {"total":716.38, "Chief Executive's":716.38},
+			"2015-11": {"total":900.00, "Chief Executive's":900.00},
+			"2016-02": {"total":1730.00, "Chief Executive's":1730.00},
+			"2016-05": {"total":1500.00, "Chief Executive's":1500.00},
+			"2016-07": {"total":500.00, "Chief Executive's":500.00},
+			"2016-11": {"total":741.58, "Chief Executive's":741.58}
+		}
+	},
+	"8113": {
+		"name": "NEWCASTLE YOUTH COUNCIL",
+		"total": 1323,
+		"monthly": {
+			"2014-02": {"total":518.00, "Chief Executive's":518.00},
+			"2014-06": {"total":402.50, "Chief Executive's":402.50},
+			"2014-07": {"total":402.50, "Chief Executive's":402.50}
+		}
+	},
+	"8114": {
+		"name": "NEWCASTLE YOUTH ENTERPRISE CENTRE",
+		"total": -8.61,
+		"monthly": {
+			"2010-11": {"total":-8.61, "Chief Executives":-8.61}
+		}
+	},
+	"8115": {
+		"name": "NEWCASTLE&NORTH TYNESIDE LIFT",
+		"total": 1370800.68,
+		"monthly": {
+			"2019-10": {"total":94253.00, "Operations & Reg Services":94253.00},
+			"2019-11": {"total":94941.36, "Operations & Reg Services":94941.36},
+			"2019-12": {"total":95687.08, "Operations & Reg Services":95687.08},
+			"2020-01": {"total":95323.57, "Operations & Reg Services":95323.57},
+			"2020-02": {"total":101410.74, "Operations & Reg Services":101410.74},
+			"2020-03": {"total":98064.44, "Operations & Reg Services":98064.44},
+			"2020-04": {"total":309322.48, "Operations & Reg Services":309322.48},
+			"2020-05": {"total":96961.48, "Operations & Reg Services":96961.48},
+			"2020-06": {"total":100121.35, "Operations & Reg Services":100121.35},
+			"2020-07": {"total":95768.45, "Operations & Reg Services":95768.45},
+			"2020-08": {"total":93969.30, "Operations & Reg Services":93969.30},
+			"2020-09": {"total":94977.43, "Operations & Reg Services":94977.43}
+		}
+	},
+	"8116": {
+		"name": "NEWCASTLE/ NTYNESIDE LIFT CO LTD",
+		"total": 678046.27,
+		"monthly": {
+			"2019-10": {"total":50006.84, "Operations & Reg Services":50006.84},
+			"2019-11": {"total":48806.84, "Operations & Reg Services":48806.84},
+			"2019-12": {"total":49662.51, "Operations & Reg Services":49662.51},
+			"2020-01": {"total":48806.84, "Operations & Reg Services":48806.84},
+			"2020-02": {"total":51842.81, "Operations & Reg Services":51842.81},
+			"2020-03": {"total":33934.60, "Operations & Reg Services":33934.60},
+			"2020-04": {"total":105311.86, "Operations & Reg Services":105311.86},
+			"2020-05": {"total":65817.37, "Operations & Reg Services":65817.37},
+			"2020-06": {"total":50313.55, "Operations & Reg Services":50313.55},
+			"2020-07": {"total":50005.61, "Operations & Reg Services":50005.61},
+			"2020-08": {"total":72167.83, "Operations & Reg Services":72167.83},
+			"2020-09": {"total":51369.61, "Operations & Reg Services":51369.61}
+		}
+	},
+	"8117": {
+		"name": "NEWCASTLEUPONTYNE HOSPITALTRUST",
+		"total": 11488206.48,
+		"monthly": {
+			"2019-10": {"total":2531373.12, "People":188087.62, "Public Health Service":2343285.50},
+			"2019-11": {"total":329971.33, "People":280129.33, "Resources":49842.00},
+			"2019-12": {"total":178653.00, "Children, Education and Skills":33064.41, "ASC & Integrated Services":26319.25, "Resources":119269.34},
+			"2020-01": {"total":2651221.48, "Children, Education and Skills":120254.14, "ASC & Integrated Services":58309.85, "Public Health Service":2440660.48, "Resources":31997.01},
+			"2020-02": {"total":50383.27, "Children, Education and Skills":17543.99, "Resources":32839.28},
+			"2020-03": {"total":407859.88, "Children, Education and Skills":615.00, "ASC & Integrated Services":395467.40, "Public Health Service":11777.48},
+			"2020-04": {"total":2562570.89, "Children, Education and Skills":176008.88, "ASC & Integrated Services":26061.00, "Public Health Service":2360501.01},
+			"2020-05": {"total":1833.66, "Resources":1833.66},
+			"2020-06": {"total":2224.17, "ASC & Integrated Services":2224.17},
+			"2020-07": {"total":2571467.41, "Children, Education and Skills":100897.52, "ASC & Integrated Services":31259.50, "Public Health Service":2307788.21, "Resources":131522.18},
+			"2020-08": {"total":123996.27, "Children, Education and Skills":22757.46, "ASC & Integrated Services":34290.00, "Public Health Service":25530.96, "Resources":41417.85},
+			"2020-09": {"total":76652.00, "ASC & Integrated Services":76652.00}
+		}
+	},
+	"8118": {
+		"name": "NEWCROSS HEALTHCARE",
+		"total": 221519.48,
+		"monthly": {
+			"2015-10": {"total":6556.69, "Adult and Culture":6556.69},
+			"2017-01": {"total":10456.22, "Adult and Culture":10456.22},
+			"2017-03": {"total":15129.73, "Adult and Culture":15129.73},
+			"2017-04": {"total":4738.28, "Adult and Culture":4738.28},
+			"2017-05": {"total":4844.41, "Adult and Culture":4844.41},
+			"2017-07": {"total":10255.08, "Adult and Culture":10255.08},
+			"2017-08": {"total":10427.00, "Adult and Culture":10427.00},
+			"2017-09": {"total":6719.47, "Adult and Culture":6719.47},
+			"2017-10": {"total":7093.84, "Adult and Culture":7093.84},
+			"2017-11": {"total":7136.70, "Adult and Culture":7136.70},
+			"2017-12": {"total":6418.08, "Adult and Culture":6418.08},
+			"2018-02": {"total":15162.21, "Adult and Culture":15162.21},
+			"2018-03": {"total":8005.44, "Adult and Culture":8005.44},
+			"2018-04": {"total":7375.75, "Adult and Culture":7375.75},
+			"2018-06": {"total":15656.16, "Adult and Culture":15656.16},
+			"2018-07": {"total":15092.70, "Adult and Culture":15092.70},
+			"2018-08": {"total":7367.20, "Adult and Culture":7367.20},
+			"2018-09": {"total":7659.84, "Adult and Culture":7659.84},
+			"2018-10": {"total":7309.86, "People":7309.86},
+			"2018-11": {"total":7450.44, "People":7450.44},
+			"2018-12": {"total":7398.03, "People":7398.03},
+			"2019-01": {"total":7631.72, "People":7631.72},
+			"2019-02": {"total":9017.94, "People":9017.94},
+			"2019-03": {"total":7477.32, "People":7477.32},
+			"2019-04": {"total":7567.62, "People":7567.62},
+			"2019-05": {"total":1571.75, "People":1571.75}
+		}
+	},
+	"8119": {
+		"name": "NEWEY & EYRE LTD",
+		"total": 410323.47,
+		"monthly": {
+			"2010-04": {"total":3414.00, "Environment & Regeneration":3414.00},
+			"2010-05": {"total":21144.83, "Environment & Regeneration":21144.83},
+			"2010-06": {"total":59341.32, "Environment & Regeneration":59341.32},
+			"2010-07": {"total":2113.30, "Environment & Regeneration":2113.30},
+			"2010-08": {"total":4589.29, "Environment & Regeneration":4589.29},
+			"2010-09": {"total":4339.84, "Environment & Regeneration":4339.84},
+			"2010-10": {"total":807.87, "Environment & Regeneration":807.87},
+			"2010-11": {"total":3233.92, "Environment & Regeneration":3233.92},
+			"2011-02": {"total":3899.14, "Environment & Regeneration":3899.14},
+			"2011-03": {"total":3060.80, "Environment & Regeneration":3060.80},
+			"2011-05": {"total":49526.66, "Environment & Regeneration":49526.66},
+			"2011-08": {"total":1578.48, "Environment & Regeneration":1578.48},
+			"2011-10": {"total":5725.68, "Environment & Regeneration":5725.68},
+			"2011-12": {"total":917.26, "Environment & Regeneration":917.26},
+			"2012-02": {"total":523.80, "Environment & Regeneration":523.80},
+			"2012-03": {"total":2463.73, "Environment & Regeneration":2463.73},
+			"2012-04": {"total":663.10, "Environment & Regeneration":663.10},
+			"2012-05": {"total":2890.70, "Environment & Regeneration":2890.70},
+			"2012-06": {"total":1391.97, "Environment & Regeneration":1391.97},
+			"2012-08": {"total":1018.81, "Environment & Regeneration":1018.81},
+			"2012-10": {"total":1328.55, "unknown":1328.55},
+			"2012-11": {"total":599.44, "unknown":599.44},
+			"2012-12": {"total":560.25, "unknown":560.25},
+			"2013-04": {"total":679.74, "unknown":679.74},
+			"2013-05": {"total":340.00, "unknown":340.00},
+			"2013-06": {"total":257.45, "unknown":257.45},
+			"2013-08": {"total":360.55, "Environment & Regeneration":360.55},
+			"2014-01": {"total":426.78, "Environment & Regeneration":426.78},
+			"2014-02": {"total":905.52, "Environment & Regeneration":905.52},
+			"2014-03": {"total":1167.00, "Environment & Regeneration":1167.00},
+			"2014-05": {"total":341.30, "Environment & Regeneration":341.30},
+			"2014-06": {"total":126705.76, "Environment & Regeneration":126705.76},
+			"2014-08": {"total":519.55, "Environment & Regeneration":519.55},
+			"2014-09": {"total":2913.43, "Environment & Regeneration":2913.43},
+			"2014-10": {"total":7218.45, "Environment & Regeneration":7218.45},
+			"2014-11": {"total":34935.94, "Environment & Regeneration":34935.94},
+			"2014-12": {"total":1457.60, "Environment & Regeneration":1457.60},
+			"2015-01": {"total":540.00, "Childrens Services":540.00},
+			"2015-03": {"total":3206.23, "Adult and Culture":399.95, "Environment & Regeneration":2806.28},
+			"2015-05": {"total":806.68, "Environment & Regeneration":806.68},
+			"2015-06": {"total":9544.28, "Environment & Regeneration":9544.28},
+			"2015-07": {"total":252.00, "Environment & Regeneration":252.00},
+			"2015-08": {"total":571.52, "Environment & Regeneration":571.52},
+			"2015-09": {"total":29632.31, "Environment & Regeneration":29632.31},
+			"2015-11": {"total":252.81, "Environment & Regeneration":252.81},
+			"2015-12": {"total":646.48, "Environment & Regeneration":646.48},
+			"2016-01": {"total":2158.63, "Environment & Regeneration":2158.63},
+			"2016-11": {"total":1388.96, "Environment & Regeneration":1388.96},
+			"2017-04": {"total":7961.76, "Environment & Regeneration":7961.76}
+		}
+	},
+	"8120": {
+		"name": "NEWFANGLED SOLUTIONS LTD",
+		"total": 114085.71,
+		"monthly": {
+			"2017-01": {"total":9750.00, "HRA":9750.00},
+			"2017-02": {"total":23625.00, "HRA":23625.00},
+			"2017-03": {"total":14625.00, "HRA":14625.00},
+			"2017-04": {"total":10625.00, "HRA":10625.00},
+			"2017-06": {"total":1500.00, "HRA":1500.00},
+			"2017-12": {"total":2025.00, "HRA":2025.00},
+			"2018-01": {"total":4050.00, "HRA":4050.00},
+			"2018-02": {"total":1350.00, "HRA":1350.00},
+			"2018-03": {"total":3750.00, "HRA":3750.00},
+			"2018-04": {"total":11000.00, "HRA":11000.00},
+			"2018-05": {"total":7750.00, "HRA":7750.00},
+			"2018-06": {"total":2625.00, "HRA":2625.00},
+			"2018-07": {"total":11500.00, "HRA":11500.00},
+			"2018-08": {"total":4125.00, "HRA":4125.00},
+			"2018-09": {"total":1285.71, "HRA":1285.71},
+			"2018-10": {"total":4500.00, "HRA Expenditure":4500.00}
+		}
+	},
+	"8121": {
+		"name": "NEWGATE (NEWARK) LTD",
+		"total": 13570,
+		"monthly": {
+			"2011-02": {"total":1118.00, "Environment & Regeneration":1118.00},
+			"2012-03": {"total":3224.00, "Environment & Regeneration":3224.00},
+			"2012-04": {"total":687.00, "Environment & Regeneration":687.00},
+			"2013-02": {"total":677.00, "unknown":677.00},
+			"2013-08": {"total":4581.00, "Environment & Regeneration":4581.00},
+			"2016-07": {"total":1388.00, "Environment & Regeneration":1388.00},
+			"2016-09": {"total":1895.00, "Environment & Regeneration":1895.00}
+		}
+	},
+	"8122": {
+		"name": "NEWITT & CO LTD",
+		"total": 9252.58,
+		"monthly": {
+			"2010-06": {"total":559.94, "Childrens Services":559.94},
+			"2010-09": {"total":3072.00, "Environment & Regeneration":3072.00},
+			"2013-04": {"total":2677.83, "unknown":2677.83},
+			"2013-06": {"total":779.70, "unknown":779.70},
+			"2013-08": {"total":385.83, "Environment & Regeneration":385.83},
+			"2013-10": {"total":674.57, "Childrens Services":674.57},
+			"2014-12": {"total":332.99, "Childrens Services":332.99},
+			"2016-06": {"total":493.32, "Childrens Services":493.32},
+			"2019-03": {"total":276.40, "Public Health Service":276.40}
+		}
+	},
+	"8123": {
+		"name": "NEWLAND CORPORATE COMMUNICATIONS LTD",
+		"total": 2550,
+		"monthly": {
+			"2013-08": {"total":2550.00, "Chief Executive's":2550.00}
+		}
+	},
+	"8124": {
+		"name": "NEWLANDMEDIA LTD",
+		"total": 29798,
+		"monthly": {
+			"2011-03": {"total":15649.00, "HRA":15649.00},
+			"2011-10": {"total":2547.00, "HRA":2547.00},
+			"2012-01": {"total":469.00, "Environment & Regeneration":469.00},
+			"2012-06": {"total":785.00, "HRA":785.00},
+			"2012-12": {"total":2623.00, "unknown":2623.00},
+			"2013-02": {"total":5117.00, "unknown":5117.00},
+			"2014-07": {"total":376.00, "Environment & Regeneration":376.00},
+			"2015-06": {"total":1169.00, "HRA":1169.00},
+			"2015-09": {"total":387.00, "Environment & Regeneration":387.00},
+			"2016-10": {"total":676.00, "HRA":676.00}
+		}
+	},
+	"8125": {
+		"name": "NEWLANDS ADVENTURE CENTRE",
+		"total": 1050,
+		"monthly": {
+			"2014-11": {"total":1050.00, "Childrens Services":1050.00}
+		}
+	},
+	"8126": {
+		"name": "NEWLIFE CARE SERVICES",
+		"total": 2770.25,
+		"monthly": {
+			"2019-02": {"total":360.00, "People":360.00},
+			"2019-04": {"total":1302.00, "People":1302.00},
+			"2019-05": {"total":1108.25, "People":1108.25}
+		}
+	},
+	"8127": {
+		"name": "NEWLIFE CLEANING SYSTEMS LTD",
+		"total": 45894.08,
+		"monthly": {
+			"2010-04": {"total":585.00, "Environment & Regeneration":585.00},
+			"2010-06": {"total":2569.41, "Environment & Regeneration":2569.41},
+			"2010-10": {"total":930.00, "Environment & Regeneration":930.00},
+			"2010-12": {"total":6867.31, "Environment & Regeneration":6867.31},
+			"2011-04": {"total":8940.35, "Childrens Services":600.00, "Environment & Regeneration":8340.35},
+			"2011-05": {"total":856.00, "Environment & Regeneration":856.00},
+			"2011-06": {"total":713.05, "Environment & Regeneration":713.05},
+			"2011-08": {"total":3511.66, "Environment & Regeneration":3511.66},
+			"2011-09": {"total":7080.39, "Environment & Regeneration":7080.39},
+			"2011-10": {"total":2044.03, "Environment & Regeneration":2044.03},
+			"2011-11": {"total":542.84, "Environment & Regeneration":542.84},
+			"2012-01": {"total":2944.11, "Environment & Regeneration":2944.11},
+			"2012-12": {"total":298.88, "unknown":298.88},
+			"2013-05": {"total":298.88, "unknown":298.88},
+			"2013-06": {"total":298.88, "unknown":298.88},
+			"2013-10": {"total":298.88, "Environment & Regeneration":298.88},
+			"2014-01": {"total":3641.00, "Environment & Regeneration":3641.00},
+			"2014-03": {"total":1258.41, "Environment & Regeneration":1258.41},
+			"2015-06": {"total":1331.00, "Childrens Services":994.00, "Environment & Regeneration":337.00},
+			"2015-07": {"total":884.00, "Environment & Regeneration":884.00}
+		}
+	},
+	"8128": {
+		"name": "NEWLINE PHARMACY LTD",
+		"total": 293,
+		"monthly": {
+			"2016-02": {"total":293.00, "Environment & Regeneration":293.00}
+		}
+	},
+	"8129": {
+		"name": "NEWMAN BROS (N.E) LTD",
+		"total": 2882,
+		"monthly": {
+			"2010-09": {"total":2382.00, "Environment & Regeneration":2382.00},
+			"2012-04": {"total":500.00, "Environment & Regeneration":500.00}
+		}
+	},
+	"8130": {
+		"name": "NEWMAN INSULATION",
+		"total": 33932.74,
+		"monthly": {
+			"2010-04": {"total":504.00, "Environment & Regeneration":504.00},
+			"2010-07": {"total":1056.00, "Environment & Regeneration":1056.00},
+			"2010-08": {"total":1278.60, "Environment & Regeneration":1278.60},
+			"2010-11": {"total":6199.04, "Environment & Regeneration":6199.04},
+			"2011-01": {"total":4090.69, "Environment & Regeneration":4090.69},
+			"2011-05": {"total":3565.11, "Environment & Regeneration":3565.11},
+			"2011-11": {"total":5010.66, "Environment & Regeneration":5010.66},
+			"2012-01": {"total":949.64, "Environment & Regeneration":949.64},
+			"2012-04": {"total":1110.00, "Environment & Regeneration":1110.00},
+			"2012-07": {"total":1669.00, "Environment & Regeneration":1669.00},
+			"2012-09": {"total":8500.00, "unknown":8500.00}
+		}
+	},
+	"8131": {
+		"name": "NEWMAN INSULATION LTD",
+		"total": 110685.98,
+		"monthly": {
+			"2012-10": {"total":2338.00, "unknown":2338.00},
+			"2012-11": {"total":32381.77, "unknown":32381.77},
+			"2012-12": {"total":11517.69, "unknown":11517.69},
+			"2013-01": {"total":1212.00, "unknown":1212.00},
+			"2013-02": {"total":855.00, "unknown":855.00},
+			"2013-03": {"total":7264.22, "unknown":7264.22},
+			"2013-04": {"total":8438.00, "unknown":8438.00},
+			"2013-06": {"total":3800.00, "unknown":3800.00},
+			"2013-07": {"total":571.94, "unknown":571.94},
+			"2013-08": {"total":7099.61, "Environment & Regeneration":3964.15, "unknown":3135.46},
+			"2013-09": {"total":12072.64, "Environment & Regeneration":12072.64},
+			"2013-10": {"total":11900.73, "Environment & Regeneration":11900.73},
+			"2013-11": {"total":9774.11, "Environment & Regeneration":9774.11},
+			"2014-01": {"total":517.84, "Environment & Regeneration":517.84},
+			"2014-02": {"total":346.00, "Environment & Regeneration":346.00},
+			"2014-03": {"total":596.43, "Environment & Regeneration":596.43}
+		}
+	},
+	"8132": {
+		"name": "NEWMARKET PROMOTIONS LTD",
+		"total": 810,
+		"monthly": {
+			"2014-09": {"total":810.00, "Childrens Services":810.00}
+		}
+	},
+	"8133": {
 		"name": "NEWPORT PAPER NORTH EAST LTD",
 		"total": 4885,
 		"monthly": {
@@ -13,7 +721,7 @@
 			"2013-07": {"total":540.00, "unknown":540.00}
 		}
 	},
-	"8101": {
+	"8134": {
 		"name": "NEWSHOUND",
 		"total": 6367.14,
 		"monthly": {
@@ -37,35 +745,35 @@
 			"2019-11": {"total":261.00, "Operations & Reg Services":261.00}
 		}
 	},
-	"8102": {
+	"8135": {
 		"name": "NEWSPAPERS IN EDUCATION",
 		"total": 1800,
 		"monthly": {
 			"2014-10": {"total":1800.00, "Childrens Services":1800.00}
 		}
 	},
-	"8103": {
+	"8136": {
 		"name": "NEWTON & RICHARDSON",
 		"total": 3300,
 		"monthly": {
 			"2010-07": {"total":3300.00, "Environment & Regeneration":3300.00}
 		}
 	},
-	"8104": {
+	"8137": {
 		"name": "NEWTON HALL (NORTHUMBERLAND) LTD",
 		"total": 779.41,
 		"monthly": {
 			"2019-12": {"total":779.41, "Resources":779.41}
 		}
 	},
-	"8105": {
+	"8138": {
 		"name": "NEWTON REPLICAS LTD",
 		"total": 780,
 		"monthly": {
 			"2017-02": {"total":780.00, "Chief Executive's":780.00}
 		}
 	},
-	"8106": {
+	"8139": {
 		"name": "NEWTONS SOLICITORS LTD",
 		"total": 750,
 		"monthly": {
@@ -73,42 +781,42 @@
 			"2019-05": {"total":450.00, "People":450.00}
 		}
 	},
-	"8107": {
+	"8140": {
 		"name": "NEWTOY LTD",
 		"total": 1000,
 		"monthly": {
 			"2011-01": {"total":1000.00, "Adult and Culture":1000.00}
 		}
 	},
-	"8108": {
+	"8141": {
 		"name": "NEWZEYE LTD",
 		"total": 350,
 		"monthly": {
 			"2013-03": {"total":350.00, "unknown":350.00}
 		}
 	},
-	"8109": {
+	"8142": {
 		"name": "NEXT GENERATION MEDIA GROUP",
 		"total": 858,
 		"monthly": {
 			"2011-05": {"total":858.00, "Childrens Services":858.00}
 		}
 	},
-	"8110": {
+	"8143": {
 		"name": "NEXT MOVE PROPERTIES",
 		"total": 650,
 		"monthly": {
 			"2014-04": {"total":650.00, "Childrens Services":650.00}
 		}
 	},
-	"8111": {
+	"8144": {
 		"name": "NEXT RETAIL LTD",
 		"total": 8000.08,
 		"monthly": {
 			"2012-01": {"total":8000.08, "Chief Executive's":8000.08}
 		}
 	},
-	"8112": {
+	"8145": {
 		"name": "NEXT STEP CARE MANAGEMENT LTD",
 		"total": 19884.26,
 		"monthly": {
@@ -121,9 +829,9 @@
 			"2017-01": {"total":3245.70, "Childrens Services":3245.70}
 		}
 	},
-	"8113": {
+	"8146": {
 		"name": "NEXUS",
-		"total": 4144931.19,
+		"total": 4152936.19,
 		"monthly": {
 			"2010-04": {"total":11918.63, "Environment & Regeneration":11918.63},
 			"2010-05": {"total":5620.98, "Environment & Regeneration":5620.98},
@@ -245,10 +953,11 @@
 			"2020-03": {"total":118473.40, "Children, Education and Skills":106913.40, "Operations & Reg Services":11560.00},
 			"2020-05": {"total":17253.00, "Operations & Reg Services":17253.00},
 			"2020-06": {"total":4319.70, "Children, Education and Skills":4319.70},
-			"2020-07": {"total":2890.00, "Operations & Reg Services":2890.00}
+			"2020-07": {"total":2890.00, "Operations & Reg Services":2890.00},
+			"2020-08": {"total":8005.00, "Operations & Reg Services":8005.00}
 		}
 	},
-	"8114": {
+	"8147": {
 		"name": "NEXUS RAIL RENEWALS DEPARTMENT",
 		"total": 5092402,
 		"monthly": {
@@ -261,7 +970,7 @@
 			"2019-12": {"total":500.00, "Place":500.00}
 		}
 	},
-	"8115": {
+	"8148": {
 		"name": "NEXUS THE EDUCATORS CONNECTION LTD",
 		"total": 4413.28,
 		"monthly": {
@@ -270,7 +979,7 @@
 			"2014-11": {"total":428.00, "Childrens Services":428.00}
 		}
 	},
-	"8116": {
+	"8149": {
 		"name": "NFER TRADING LTD",
 		"alternate-names": [
 			"NFER TRADING LIMITED"
@@ -280,396 +989,6 @@
 			"2014-10": {"total":312.88, "Childrens Services":312.88},
 			"2014-11": {"total":650.00, "Childrens Services":650.00},
 			"2014-12": {"total":497.04, "Childrens Services":497.04}
-		}
-	},
-	"8117": {
-		"name": "NFER-NELSON PUBLISHING CO LTD",
-		"total": 1701.6,
-		"monthly": {
-			"2011-03": {"total":682.25, "Childrens Services":682.25},
-			"2011-04": {"total":516.20, "Childrens Services":516.20},
-			"2011-05": {"total":503.15, "Childrens Services":503.15}
-		}
-	},
-	"8118": {
-		"name": "NFPS LTD",
-		"total": 1200,
-		"monthly": {
-			"2012-04": {"total":1200.00, "Environment & Regeneration":1200.00}
-		}
-	},
-	"8119": {
-		"name": "NFS DISTRIBUTION",
-		"total": 4061.72,
-		"monthly": {
-			"2010-05": {"total":714.08, "Chief Executives":714.08},
-			"2010-06": {"total":796.26, "Chief Executives":796.26},
-			"2011-07": {"total":614.97, "Adult and Culture":614.97},
-			"2011-12": {"total":681.93, "Adult and Culture":681.93},
-			"2012-04": {"total":627.24, "Adult and Culture":627.24},
-			"2012-05": {"total":627.24, "Adult and Culture":627.24}
-		}
-	},
-	"8120": {
-		"name": "NFS HOSPITALITY",
-		"total": 106152.76,
-		"monthly": {
-			"2010-12": {"total":2209.00, "Environment & Regeneration":2209.00},
-			"2011-02": {"total":650.00, "Chief Executives":650.00},
-			"2011-06": {"total":18250.00, "Chief Executive's":18250.00},
-			"2012-01": {"total":2209.00, "Environment & Regeneration":2209.00},
-			"2012-03": {"total":5900.00, "Chief Executive's":5900.00},
-			"2012-09": {"total":4380.00, "unknown":4380.00},
-			"2013-02": {"total":2320.00, "unknown":2320.00},
-			"2013-07": {"total":3811.50, "unknown":3811.50},
-			"2014-01": {"total":2436.00, "Chief Executive's":2436.00},
-			"2014-07": {"total":1920.80, "Chief Executive's":1920.80},
-			"2015-01": {"total":2557.00, "Environment & Regeneration":2557.00},
-			"2015-08": {"total":2016.84, "Chief Executive's":2016.84},
-			"2016-01": {"total":2685.00, "Environment & Regeneration":2685.00},
-			"2016-03": {"total":29190.00, "Childrens Services":29190.00},
-			"2016-06": {"total":2117.68, "Childrens Services":2117.68},
-			"2016-07": {"total":1434.19, "Environment & Regeneration":1434.19},
-			"2016-11": {"total":3600.00, "Environment & Regeneration":3600.00},
-			"2017-01": {"total":2819.25, "Environment & Regeneration":2819.25},
-			"2017-06": {"total":2224.00, "Childrens Services":2224.00},
-			"2018-02": {"total":2961.00, "Childrens Services":2961.00},
-			"2018-08": {"total":2336.00, "Childrens Services":2336.00},
-			"2019-02": {"total":3110.00, "Operations & Reg Services":3110.00},
-			"2020-02": {"total":3265.50, "Place":3265.50},
-			"2020-04": {"total":1750.00, "Operations & Reg Services":1750.00}
-		}
-	},
-	"8121": {
-		"name": "NGC NETWORK SERVICES LTD",
-		"total": 3000,
-		"monthly": {
-			"2015-10": {"total":3000.00, "Chief Executive's":3000.00}
-		}
-	},
-	"8122": {
-		"name": "NGF PLAY LTD",
-		"total": 915,
-		"monthly": {
-			"2019-12": {"total":915.00, "ASC & Integrated Services":915.00}
-		}
-	},
-	"8123": {
-		"name": "NGI SOLUTIONS LTD",
-		"total": 35281.25,
-		"monthly": {
-			"2016-06": {"total":35000.00, "Chief Executive's":35000.00},
-			"2020-02": {"total":281.25, "Operations & Reg Services":281.25}
-		}
-	},
-	"8124": {
-		"name": "NHBC SERVICES LTD",
-		"total": 22561,
-		"monthly": {
-			"2011-06": {"total":4500.00, "Environment & Regeneration":4500.00},
-			"2011-07": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2011-08": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2011-09": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2011-10": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2011-12": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2012-08": {"total":2005.00, "Environment & Regeneration":2005.00},
-			"2013-02": {"total":2021.00, "unknown":2021.00},
-			"2015-10": {"total":4010.00, "Childrens Services":4010.00}
-		}
-	},
-	"8125": {
-		"name": "NHBS",
-		"total": 317.61,
-		"monthly": {
-			"2012-12": {"total":317.61, "unknown":317.61}
-		}
-	},
-	"8126": {
-		"name": "NHS BUSINESS AUTHORITY",
-		"total": 27816.25,
-		"monthly": {
-			"2010-04": {"total":6351.25, "Environment & Regeneration":6351.25},
-			"2010-08": {"total":1350.00, "Environment & Regeneration":1350.00},
-			"2011-07": {"total":2925.00, "Environment & Regeneration":2925.00},
-			"2012-08": {"total":6120.00, "Environment & Regeneration":6120.00},
-			"2013-10": {"total":4950.00, "Environment & Regeneration":4950.00},
-			"2014-02": {"total":6120.00, "Environment & Regeneration":6120.00}
-		}
-	},
-	"8127": {
-		"name": "NHS BUSINESS SERVICES AUTHORITY",
-		"total": 4653240.82,
-		"monthly": {
-			"2014-04": {"total":373493.98, "Adult and Culture":373493.98},
-			"2014-06": {"total":62764.10, "Adult and Culture":62764.10},
-			"2014-07": {"total":131125.78, "Adult and Culture":131125.78},
-			"2014-08": {"total":64307.97, "Adult and Culture":64307.97},
-			"2014-09": {"total":62436.94, "Adult and Culture":62436.94},
-			"2015-01": {"total":62660.07, "Adult and Culture":62660.07},
-			"2015-02": {"total":63468.35, "Adult and Culture":63468.35},
-			"2015-03": {"total":57358.56, "Adult and Culture":57358.56},
-			"2015-07": {"total":64251.49, "Adult and Culture":64251.49},
-			"2015-09": {"total":53192.34, "Adult and Culture":53192.34},
-			"2015-11": {"total":170878.35, "Adult and Culture":170878.35},
-			"2015-12": {"total":230994.85, "Adult and Culture":230994.85},
-			"2016-03": {"total":64980.50, "Adult and Culture":64980.50},
-			"2016-04": {"total":168602.06, "Adult and Culture":168602.06},
-			"2016-06": {"total":60047.57, "Adult and Culture":60047.57},
-			"2016-10": {"total":54670.99, "Adult and Culture":54670.99},
-			"2016-12": {"total":161965.34, "Adult and Culture":161965.34},
-			"2017-01": {"total":57457.85, "Adult and Culture":57457.85},
-			"2017-02": {"total":55445.80, "Childrens Services":55445.80},
-			"2017-03": {"total":56115.55, "Adult and Culture":56115.55},
-			"2017-04": {"total":109928.60, "Adult and Culture":109928.60},
-			"2017-05": {"total":51047.34, "Adult and Culture":51047.34},
-			"2017-09": {"total":164940.62, "Adult and Culture":164940.62},
-			"2017-10": {"total":110787.53, "Adult and Culture":110787.53},
-			"2018-02": {"total":226673.89, "Chief Executive's":226673.89},
-			"2018-06": {"total":220243.84, "Chief Executive's":220243.84},
-			"2018-07": {"total":70711.72, "Chief Executive's":70711.72},
-			"2018-09": {"total":63920.15, "Chief Executive's":63920.15},
-			"2018-10": {"total":63986.12, "Public Health Service":63986.12},
-			"2018-11": {"total":61203.49, "Public Health Service":61203.49},
-			"2018-12": {"total":118597.23, "Public Health Service":118597.23},
-			"2019-01": {"total":66697.07, "Public Health Service":66697.07},
-			"2019-03": {"total":64347.94, "Public Health Service":64347.94},
-			"2019-04": {"total":73599.85, "Public Health Service":73599.85},
-			"2019-07": {"total":214817.28, "Public Health Service":214817.28},
-			"2019-08": {"total":74219.70, "Public Health Service":74219.70},
-			"2019-09": {"total":68986.23, "Public Health Service":68986.23},
-			"2019-10": {"total":73439.27, "Public Health Service":73439.27},
-			"2020-02": {"total":225986.85, "Public Health Service":225986.85},
-			"2020-03": {"total":75854.46, "Public Health Service":75854.46},
-			"2020-05": {"total":155024.98, "Public Health Service":155024.98},
-			"2020-07": {"total":222008.22, "Public Health Service":222008.22}
-		}
-	},
-	"8128": {
-		"name": "NHS CUMBRIA CCG",
-		"total": 2000,
-		"monthly": {
-			"2016-02": {"total":1000.00, "Adult and Culture":1000.00},
-			"2016-04": {"total":1000.00, "Adult and Culture":1000.00}
-		}
-	},
-	"8129": {
-		"name": "NHS ENGLAND RE PCT SHA CLOSURE",
-		"total": 16975.24,
-		"monthly": {
-			"2015-07": {"total":16975.24, "Adult and Culture":16975.24}
-		}
-	},
-	"8130": {
-		"name": "NHS FLEET SOLUTIONS",
-		"total": 91054.85,
-		"monthly": {
-			"2014-03": {"total":2983.10, "Environment & Regeneration":2983.10},
-			"2015-12": {"total":926.19, "Environment & Regeneration":926.19},
-			"2016-01": {"total":30550.24, "Environment & Regeneration":30550.24},
-			"2016-02": {"total":51344.09, "Environment & Regeneration":51344.09},
-			"2020-07": {"total":5251.23, "Operations & Reg Services":5251.23}
-		}
-	},
-	"8131": {
-		"name": "NHS FOUNDATION TRUST",
-		"total": 211765.08,
-		"monthly": {
-			"2011-11": {"total":805.50, "Adult and Culture":805.50},
-			"2013-06": {"total":3302.00, "unknown":3302.00},
-			"2013-12": {"total":1104.58, "Adult and Culture":1104.58},
-			"2015-07": {"total":945.00, "Childrens Services":945.00},
-			"2016-07": {"total":1758.00, "Adult and Culture":1758.00},
-			"2018-03": {"total":27700.00, "Childrens Services":27700.00},
-			"2018-05": {"total":39000.00, "Childrens Services":39000.00},
-			"2018-11": {"total":68500.00, "People":68500.00},
-			"2019-10": {"total":68650.00, "People":68650.00}
-		}
-	},
-	"8132": {
-		"name": "NHS FOUNDATION TRUST SURREY & BORDERS PA",
-		"total": 3500,
-		"monthly": {
-			"2017-11": {"total":3500.00, "Childrens Services":3500.00}
-		}
-	},
-	"8133": {
-		"name": "NHS LOGISTICS HEADQUARTERS",
-		"total": 55396.11,
-		"monthly": {
-			"2017-08": {"total":55396.11, "Adult and Culture":55396.11}
-		}
-	},
-	"8134": {
-		"name": "NHS NEWCASTLE GATESHEAD CCG",
-		"total": 1210853.92,
-		"monthly": {
-			"2016-12": {"total":76809.00, "Adult and Culture":76809.00},
-			"2017-08": {"total":665000.00, "Adult and Culture":665000.00},
-			"2017-11": {"total":32370.00, "Chief Executive's":32370.00},
-			"2018-03": {"total":5499.00, "Chief Executive's":5499.00},
-			"2018-04": {"total":31141.27, "Chief Executive's":31141.27},
-			"2018-05": {"total":39808.67, "Chief Executive's":39808.67},
-			"2018-06": {"total":69607.00, "Chief Executive's":69607.00},
-			"2018-07": {"total":29443.66, "Chief Executive's":29443.66},
-			"2019-03": {"total":52961.62, "People":52961.62},
-			"2019-05": {"total":69676.00, "Public Health Service":69676.00},
-			"2019-08": {"total":78778.47, "People":78778.47},
-			"2019-10": {"total":7264.66, "People":7264.66},
-			"2019-11": {"total":35399.49, "People":35399.49},
-			"2020-02": {"total":17095.08, "ASC & Integrated Services":17095.08}
-		}
-	},
-	"8135": {
-		"name": "NHS NEWCASTLE WEST CCG",
-		"total": 731000,
-		"monthly": {
-			"2014-09": {"total":30000.00, "Childrens Services":30000.00},
-			"2015-11": {"total":700000.00, "Childrens Services":700000.00},
-			"2015-12": {"total":1000.00, "Adult and Culture":1000.00}
-		}
-	},
-	"8136": {
-		"name": "NHS NORTH OF ENGLAND COMMISSIONING UNIT",
-		"total": 119482,
-		"monthly": {
-			"2016-03": {"total":21000.00, "Adult and Culture":21000.00},
-			"2017-05": {"total":21538.00, "Childrens Services":21538.00},
-			"2017-09": {"total":25084.00, "Adult and Culture":25084.00},
-			"2018-04": {"total":5513.00, "Environment & Regeneration":5513.00},
-			"2019-07": {"total":25084.00, "People":25084.00},
-			"2019-12": {"total":18813.00, "Children, Education and Skills":9406.50, "ASC & Integrated Services":9406.50},
-			"2020-05": {"total":2450.00, "Children, Education and Skills":1225.00, "ASC & Integrated Services":1225.00}
-		}
-	},
-	"8137": {
-		"name": "NHS NORTH OF ENGLAND CSU",
-		"total": 39359.24,
-		"monthly": {
-			"2015-02": {"total":22384.00, "Adult and Culture":22384.00},
-			"2015-04": {"total":16975.24, "Adult and Culture":16975.24}
-		}
-	},
-	"8138": {
-		"name": "NHS NORTH OF TYNE",
-		"total": 2708.4,
-		"monthly": {
-			"2012-09": {"total":2708.40, "unknown":2708.40}
-		}
-	},
-	"8139": {
-		"name": "NHS NORTH TYNESIDE CCG",
-		"total": 3200.89,
-		"monthly": {
-			"2014-04": {"total":1867.89, "Childrens Services":1867.89},
-			"2016-04": {"total":1333.00, "Childrens Services":1333.00}
-		}
-	},
-	"8140": {
-		"name": "NHS PENSION SCHEME",
-		"total": 13447.1,
-		"monthly": {
-			"2020-01": {"total":6758.01, "Public Health Service":6758.01},
-			"2020-07": {"total":6689.09, "Public Health Service":6689.09}
-		}
-	},
-	"8141": {
-		"name": "NHS PROPERTY SERVICES LTD",
-		"alternate-names": [
-			"NHS PROPERTY SERVICES LIMITED"
-		],
-		"total": 438500,
-		"monthly": {
-			"2018-04": {"total":438500.00, "Chief Executive's":438500.00}
-		}
-	},
-	"8142": {
-		"name": "NHS SUNDERLAND CCG",
-		"total": 49998,
-		"monthly": {
-			"2018-04": {"total":16666.00, "Chief Executive's":16666.00},
-			"2019-03": {"total":16666.00, "Operations & Reg Services":16666.00},
-			"2020-04": {"total":16666.00, "Operations & Reg Services":16666.00}
-		}
-	},
-	"8143": {
-		"name": "NHS SUPPLY CHAIN",
-		"total": 109623.81,
-		"monthly": {
-			"2017-01": {"total":53508.26, "Adult and Culture":53508.26},
-			"2017-04": {"total":56115.55, "Adult and Culture":56115.55}
-		}
-	},
-	"8144": {
-		"name": "NIACE PUBLICATIONS",
-		"total": 1484,
-		"monthly": {
-			"2011-03": {"total":1484.00, "Chief Executives":1484.00}
-		}
-	},
-	"8145": {
-		"name": "NICE N NAUGHTY UK LTD",
-		"total": 905.05,
-		"monthly": {
-			"2019-09": {"total":905.05, "Operations & Reg Services":905.05}
-		}
-	},
-	"8146": {
-		"name": "NICEIC SALES",
-		"total": 27677,
-		"monthly": {
-			"2010-05": {"total":580.00, "Environment & Regeneration":580.00},
-			"2010-08": {"total":580.00, "Environment & Regeneration":580.00},
-			"2011-10": {"total":2560.00, "Environment & Regeneration":2560.00},
-			"2012-03": {"total":2325.00, "Environment & Regeneration":2325.00},
-			"2012-08": {"total":870.00, "Environment & Regeneration":870.00},
-			"2013-03": {"total":399.00, "unknown":399.00},
-			"2013-08": {"total":870.00, "Environment & Regeneration":870.00},
-			"2014-03": {"total":410.00, "Environment & Regeneration":410.00},
-			"2014-05": {"total":390.00, "Environment & Regeneration":390.00},
-			"2014-11": {"total":1160.00, "Environment & Regeneration":1160.00},
-			"2015-03": {"total":800.00, "Environment & Regeneration":800.00},
-			"2015-05": {"total":580.00, "Environment & Regeneration":580.00},
-			"2015-10": {"total":1450.00, "Environment & Regeneration":1450.00},
-			"2016-03": {"total":430.00, "Environment & Regeneration":430.00},
-			"2016-10": {"total":1830.00, "Environment & Regeneration":1830.00},
-			"2016-12": {"total":1830.00, "Environment & Regeneration":1830.00},
-			"2017-04": {"total":445.00, "Environment & Regeneration":445.00},
-			"2017-07": {"total":315.00, "Environment & Regeneration":315.00},
-			"2017-11": {"total":2205.00, "Environment & Regeneration":2205.00},
-			"2017-12": {"total":1500.00, "Environment & Regeneration":1500.00},
-			"2018-03": {"total":455.00, "Environment & Regeneration":455.00},
-			"2018-05": {"total":315.00, "Environment & Regeneration":315.00},
-			"2018-11": {"total":630.00, "Operations & Reg Services":630.00},
-			"2019-01": {"total":328.00, "Operations & Reg Services":328.00},
-			"2019-02": {"total":253.00, "Operations & Reg Services":253.00},
-			"2019-03": {"total":377.00, "Operations & Reg Services":377.00},
-			"2019-04": {"total":465.00, "Operations & Reg Services":465.00},
-			"2019-11": {"total":2240.00, "Operations & Reg Services":2240.00},
-			"2019-12": {"total":331.00, "Operations & Reg Services":331.00},
-			"2020-01": {"total":279.00, "Operations & Reg Services":279.00},
-			"2020-04": {"total":475.00, "Operations & Reg Services":475.00}
-		}
-	},
-	"8147": {
-		"name": "NICHOLAS VEHICLE MANAGEMENT",
-		"total": 1115,
-		"monthly": {
-			"2019-08": {"total":1115.00, "People":1115.00}
-		}
-	},
-	"8148": {
-		"name": "NICHOLSON & MORGAN",
-		"total": 274245.31,
-		"monthly": {
-			"2011-06": {"total":24245.31, "Adult and Culture":24245.31},
-			"2012-07": {"total":250000.00, "Environment & Regeneration":250000.00}
-		}
-	},
-	"8149": {
-		"name": "NICHOLSON & MORGAN CLIENT REF:SM",
-		"total": 268.01,
-		"monthly": {
-			"2013-09": {"total":268.01, "Chief Executive's":268.01}
 		}
 	}
 	}
