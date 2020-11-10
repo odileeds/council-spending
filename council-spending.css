@@ -1,5 +1,71 @@
+/* ODI Site Styles. Last updated 2019-12-18 */
+
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+body { line-height: 1em; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+table { border-collapse: collapse; border-spacing: 0; }
+/* apply a natural box layout model to all elements */
+*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+/* End of reset */
+
+
+
+/* Main site styling */
+body {
+	background-color: #000000;
+	font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+	font-size: 16px;
+	color: #efefef;
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.44em;
+	text-rendering: optimizeLegibility;
+}
+#site-message { top: 0px; left: 0px; width: 100%; line-height: 1em; text-align: center; }
+#site-message > div { padding: 1em; }
+#site-message a, #site-message a:visited { color: inherit; }
+header {
+	width: 100%;
+	padding: 0px;
+	font-size: 1.2em;
+}
+#main { background-color: #ffffff; color: #333333; }
+.holder { position: relative; width: 1080px; max-width: 100%; margin: auto; }
+.padded { padding: 1em; }
+.doublepadded { padding: 2em; }
+.tallpadded, #main .tallpadded { padding-top: 5em; padding-bottom: 5em; }
+h1 { font-size: 2em; margin-top: 1em; }
+h2 { font-size: 1.7em; margin-top: 1.7647058823529411em; font-weight: 500; }
+h3 { font-size: 1.4em; margin-top: 1.428571em; }
+h1:first-child, h2:first-child, h3:first-child { margin-top: 0; }
+strong { font-weight: 700; }
+em { font-style: italic; }
+h2 a, h3 a,p a { color: #2254F4; text-decoration: underline; }
+p, time, li, td, th, footer, div { font-weight: 300; }
+button, .button { border: 0px; font-size: 1em; background-color: #efefef; color: black; text-decoration: none!important; display: inline-block; padding: 0.5em 1em; cursor: pointer; vertical-align: top; line-height: 1.25em; }
+a:hover, a:focus { text-decoration: underline; }
+a:visited { color: inherit; }
+header a { text-decoration: none; }
+footer { width: 100%; padding: 1em; padding-bottom: 3em; }
+
+header > div { padding: 1em; }
+#main > div,footer > div { padding: 2em 1em; }
+
 header img { height: 4em; }
-#main > .holder { padding: 2em; }
 h1 { margin-top: 0; line-height: 1.5em; }
 #search { position: relative; }
 #search input {
@@ -21,7 +87,6 @@ h1 { margin-top: 0; line-height: 1.5em; }
 #barchart .bar, #barchart .antibar { transition: height 0.5s linear; }
 /*#barchart .antibar { background-color: rgba(0,0,0,0.2); }*/
 .barchart .balloon { text-align: left; color: black; }
-.barchart .bar-right .balloon::after { border-right-color: white; }
 #othernames { margin-top: 1em; }
 .tableholder { max-width: 100%; overflow-x: auto; margin-bottom: 0em; margin-top: 1em; }
 .highlightrow td, .odi tr:hover td, .odi td.selected { background-color: #dfdfdf; }
@@ -41,6 +106,14 @@ h1 { margin-top: 0; line-height: 1.5em; }
 .c12-bg, .c12-bg-hover:hover { background-color: #D60303!important; color: white!important; }
 .c13-bg, .c13-bg-hover:hover { background-color: #FF6700!important; color: black!important; }
 .c14-bg, .c14-bg-hover:hover { background-color: #F9BC26!important; color: black!important; }
+.b1-bg { background-color: #000000; color: white!important; }
+.b2-bg { background-color: #333333; color: white!important; }
+.bk-bg { background-color: #6D6D6D; color: white!important; }
+.b3-bg, .github:hover { background-color: #999999; color: black!important; }
+.b4-bg { background-color: #bbbbbb; color: black!important; }
+.b5-bg { background-color: #dfdfdf; color: black!important; }
+.b6-bg { background-color: #ffffff; color: black!important; }
+
 #main ul.key { list-style: none; margin: 0px; margin-top: 0.5em; }
 #main ul.key:before { content: "Select:"; margin-right: 0.25em; }
 #main ul.key li { display: inline-block; line-height: 1.5em; padding: 0 0.25em; margin: 0.25em 0.25em 0 0; cursor: pointer; }
@@ -52,6 +125,64 @@ h1 { margin-top: 0; line-height: 1.5em; }
 #main ul.key li.deactivate:hover {
 	background-color: black!important;
 }
+footer { padding: 0; }
+footer a,
 footer a:visited { color: inherit; }
 
-ul.grid.councils li a { padding: 0 0 1em 0; line-height: 1em; }
+table.odi { margin-bottom: 16px; width: 100%; }
+table.odi td, table th { border: 1px solid #333333; padding: 4px 8px; }
+table.odi th { background-color: #bbbbbb; color: black; }
+
+
+
+/* Use CSS Grid */
+ul.grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-auto-rows: auto;
+	grid-gap: 1em;
+	list-style: none;
+	order: 1;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 1em;
+}
+ul.grid > li > a { display:block; min-height: auto; height: 100%; padding: 1.5em; text-decoration: none; }
+ul.grid > li > a *:first-child { margin-top:0px; }
+ul.grid > li > a *:last-child { margin-bottom:0px; }
+ul.grid > li > a > img { width: 100%; }
+ul.grid > li.twocol { grid-column: auto / span 2; }
+ul.grid > li.threecol { grid-column: auto / span 3; }
+ul.grid > li.fullwidth { grid-column: auto / span 3; }
+ul.grid.fullwidth > li { grid-column: auto / span 3; }
+ul.grid > li.tworow, ul.grid > li.tall { grid-row: auto / span 2; }
+ul.grid > li.threerow { grid-row: auto / span 3; }
+ul.grid > li p.map { min-height: 332px; }
+ul.grid > li .leaflet-container { width: 100%; height: 300px; }
+ul.grid > li .leaflet-container .leaflet-control-zoom a { text-decoration: none!important; color: black!important; }
+ul.grid > li > a, ul.grid > li > div, .block, .person {
+	padding: 1.5em;
+	display: block;
+	text-decoration: none;
+	transition: background-color 0.3s ease-in, color 0.3s ease-in, background 0.3s ease-in;
+}
+ul.grid li > a.image-span { background-position: center center; background-size: cover; }
+ul.grid li > a.image-span:hover { animation: zoomIn 0.3s ease-in; animation-iteration-count: 1; background-position: center center; }
+ul.grid li > a:hover, ul.grid li > a:focus { background: black; color: white; }
+ul.grid div a { color: inherit; }
+ul.grid div a.button { color: #333333; }
+ul.grid li.img a, ul.grid li.img iframe { padding: 0; line-height: 0; }
+ul.grid li.img img { width: 100%; }
+ul.grid li.img iframe { width: 100%; height: 204px; margin-bottom: 0px!important; padding: 0px; }
+ul.grid li.double {
+	max-height: 424px;
+	height: 424px!important;
+}
+ul.grid li.double > div {
+	height: 100%;
+	border: 1px solid #999999;
+}
+ul.grid ul { margin-left: 1em; margin-bottom: 0px; }
+/* End of CSS Grid */
+
+ul.grid.councils > li > a { padding: 0 0 1em 0; line-height: 1em; }
