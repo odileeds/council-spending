@@ -186,6 +186,18 @@ ul.grid li.double > div {
 ul.grid ul { margin-left: 1em; margin-bottom: 0px; }
 /* End of CSS Grid */
 
+ul.grid.councils { grid-gap: 0.25em; grid-template-columns: repeat(4, 1fr); margin-top: 1em; }
 ul.grid.councils > li > a { padding: 0 0 1em 0; line-height: 1em; }
 
 ul.grid.councils > li > a.c8-bg:hover, ul.grid.councils > li > a.c8-bg:focus { background-color: #E6007C!important; }
+
+@media only screen and (max-width: 1080px) {
+	ul.grid.councils { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media only screen and (max-width: 700px) {
+	ul.grid.councils { grid-template-columns: repeat(2, 1fr); }
+}
+@media only screen and (max-width: 600px) {
+	ul.grid.councils { grid-template-columns: 100%; }
+}
