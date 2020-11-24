@@ -1,5 +1,5 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"50": {
 		"name": "PLURALSIGHT,LLC",
@@ -12,9 +12,9 @@
 		"name": "PRECISION ESCALATOR PRODUCTS, INC.",
 		"total": 49809,
 		"monthly": {
-			"2013-09": {"total":12093.01, "unknown":12093.01},
-			"2013-10": {"total":11490.00, "unknown":11490.00},
-			"2013-11": {"total":5285.40, "unknown":5285.40},
+			"2013-09": {"total":12093.01, "Escalators":12093.01},
+			"2013-10": {"total":11490.00, "Escalators":11490.00},
+			"2013-11": {"total":5285.40, "Escalators":5285.40},
 			"2014-07": {"total":3245.99, "LUL NOMINEE BCV LIMITED":3245.99},
 			"2014-09": {"total":17694.60, "LUL NOMINEE BCV LIMITED":17694.60}
 		}
@@ -60,17 +60,17 @@
 		"name": "SISCOG - SISTEMAS COGNITIVOS, SA",
 		"total": 5915200.7,
 		"monthly": {
-			"2013-05": {"total":89480.66, "unknown":89480.66},
-			"2013-06": {"total":48321.08, "unknown":48321.08},
-			"2013-07": {"total":50200.66, "unknown":50200.66},
-			"2013-08": {"total":44740.33, "unknown":44740.33},
-			"2013-09": {"total":44740.33, "unknown":44740.33},
-			"2013-10": {"total":142404.25, "unknown":142404.25},
-			"2013-11": {"total":48012.83, "unknown":48012.83},
-			"2013-12": {"total":44740.33, "unknown":44740.33},
-			"2014-01": {"total":106565.75, "unknown":106565.75},
-			"2014-02": {"total":43530.92, "unknown":43530.92},
-			"2014-03": {"total":68554.00, "unknown":68554.00},
+			"2013-05": {"total":89480.66, "Software Maintenance":89480.66},
+			"2013-06": {"total":48321.08, "Software Maintenance":48321.08},
+			"2013-07": {"total":50200.66, "Software Maintenance":50200.66},
+			"2013-08": {"total":44740.33, "Software Maintenance":44740.33},
+			"2013-09": {"total":44740.33, "Software Maintenance":44740.33},
+			"2013-10": {"total":142404.25, "Software Maintenance":142404.25},
+			"2013-11": {"total":48012.83, "Manage IT Services":3272.50, "Software Maintenance":44740.33},
+			"2013-12": {"total":44740.33, "Software Maintenance":44740.33},
+			"2014-01": {"total":106565.75, "Software Maintenance":106565.75},
+			"2014-02": {"total":43530.92, "Software Maintenance":43530.92},
+			"2014-03": {"total":68554.00, "Computer Software":25023.08, "Software Maintenance":43530.92},
 			"2014-05": {"total":101672.26, "LONDON UNDERGROUND LTD":14610.42, "TFL CORPORATE":87061.84},
 			"2014-06": {"total":43530.92, "TFL CORPORATE":43530.92},
 			"2014-07": {"total":43530.92, "TFL CORPORATE":43530.92},
@@ -160,11 +160,11 @@
 		"name": "SQUIRE, SANDERS & DEMPSEY (UK) LLP",
 		"total": 30286.2,
 		"monthly": {
-			"2013-04": {"total":2176.60, "unknown":2176.60},
-			"2013-05": {"total":6904.60, "unknown":6904.60},
-			"2013-07": {"total":11524.37, "unknown":11524.37},
-			"2013-08": {"total":4489.60, "unknown":4489.60},
-			"2013-12": {"total":3632.98, "unknown":3632.98},
+			"2013-04": {"total":2176.60, "Legal Fees":2176.60},
+			"2013-05": {"total":6904.60, "Legal Fees":6904.60},
+			"2013-07": {"total":11524.37, "Legal Fees":11524.37},
+			"2013-08": {"total":4489.60, "Legal Fees":4489.60},
+			"2013-12": {"total":3632.98, "Legal Fees":3632.98},
 			"2014-04": {"total":1558.05, "LONDON UNDERGROUND LTD":1558.05}
 		}
 	},
@@ -198,7 +198,7 @@
 	},
 	"64": {
 		"name": "SYSTEMS ENGINEERING, ASSESSMENT",
-		"total": 6975290.37,
+		"total": 7029934.8,
 		"monthly": {
 			"2015-01": {"total":380107.61, "SURFACE TRANSPORT CORP":380107.61},
 			"2015-02": {"total":29707.00, "SURFACE TRANSPORT CORP":29707.00},
@@ -261,14 +261,15 @@
 			"2020-04": {"total":106911.86, "SURFACE TRANSPORT CORP":106911.86},
 			"2020-05": {"total":75371.09, "SURFACE TRANSPORT CORP":75371.09},
 			"2020-06": {"total":115639.36, "SURFACE TRANSPORT CORP":115639.36},
-			"2020-08": {"total":54644.43, "SURFACE TRANSPORT CORP":54644.43}
+			"2020-08": {"total":54644.43, "SURFACE TRANSPORT CORP":54644.43},
+			"2020-09": {"total":54644.43, "SURFACE TRANSPORT CORP":54644.43}
 		}
 	},
 	"65": {
 		"name": "TELERIK, INC.",
 		"total": 6680.41,
 		"monthly": {
-			"2013-10": {"total":1603.24, "unknown":1603.24},
+			"2013-10": {"total":1603.24, "Software Maintenance":1603.24},
 			"2014-08": {"total":1494.72, "TRANSPORT TRADING LTD":1494.72},
 			"2015-05": {"total":1717.55, "TRANSPORT TRADING LTD":1717.55},
 			"2016-08": {"total":1864.90, "TRANSPORT TRADING LTD":1864.90}
@@ -306,10 +307,10 @@
 		"name": "TOYE, KENNING & SPENCER LTD",
 		"total": 38867.34,
 		"monthly": {
-			"2013-10": {"total":3160.54, "unknown":3160.54},
-			"2013-12": {"total":526.06, "unknown":526.06},
-			"2014-01": {"total":707.28, "unknown":707.28},
-			"2014-03": {"total":375.00, "unknown":375.00},
+			"2013-10": {"total":3160.54, "Management & Support Consultancy":3160.54},
+			"2013-12": {"total":526.06, "Management & Support Consultancy":526.06},
+			"2014-01": {"total":707.28, "Management & Support Consultancy":707.28},
+			"2014-03": {"total":375.00, "Management & Support Consultancy":375.00},
 			"2014-05": {"total":962.76, "LONDON BUS SERVICES LTD":962.76},
 			"2014-06": {"total":25561.64, "LONDON BUS SERVICES LTD":612.14, "TRANSPORT TRADING LTD":24949.50},
 			"2014-08": {"total":1947.98, "LONDON BUS SERVICES LTD":615.48, "TRANSPORT TRADING LTD":1332.50},
@@ -321,11 +322,11 @@
 	},
 	"68": {
 		"name": "TTI, INC",
-		"total": 75019.91,
+		"total": 71714.81,
 		"monthly": {
-			"2013-04": {"total":900.60, "unknown":900.60},
-			"2013-05": {"total":4663.50, "unknown":4663.50},
-			"2013-10": {"total":4917.66, "unknown":4917.66},
+			"2013-04": {"total":900.60, "Fleet":900.60},
+			"2013-05": {"total":1358.40, "Stock of Fleet":1358.40},
+			"2013-10": {"total":4917.66, "Materials":4917.66},
 			"2014-08": {"total":54991.19, "TUBE LINES LTD":54991.19},
 			"2014-09": {"total":8708.00, "TUBE LINES LTD":8708.00},
 			"2016-10": {"total":409.37, "TUBELINES LTD":409.37},
@@ -364,14 +365,14 @@
 		"name": "WIDGIX,LLC D/B/A SURVEYGIZMO",
 		"total": 1042.13,
 		"monthly": {
-			"2014-02": {"total":1042.13, "unknown":1042.13}
+			"2014-02": {"total":1042.13, "Management & Support Consultancy":1042.13}
 		}
 	},
 	"74": {
 		"name": "WILD WIRES, LLC",
 		"total": 312.23,
 		"monthly": {
-			"2013-11": {"total":312.23, "unknown":312.23}
+			"2013-11": {"total":312.23, "IT Consultancy":312.23}
 		}
 	},
 	"75": {
@@ -395,21 +396,21 @@
 		"name": "(ATLAS TRANSPORT LIMITED) A.RAZA",
 		"total": 1365,
 		"monthly": {
-			"2013-06": {"total":1365.00, "unknown":1365.00}
+			"2013-06": {"total":1365.00, "Licence Fee Refunds":1365.00}
 		}
 	},
 	"78": {
 		"name": "(BEKTAS CELEBI) M.A.MOHAMED",
 		"total": 682,
 		"monthly": {
-			"2013-07": {"total":682.00, "unknown":682.00}
+			"2013-07": {"total":682.00, "Licence Fee Refunds":682.00}
 		}
 	},
 	"79": {
 		"name": "(C. UMOLE) JACOBS CAR HIRE LTD",
 		"total": 1707,
 		"monthly": {
-			"2013-09": {"total":1707.00, "unknown":1707.00}
+			"2013-09": {"total":1707.00, "Licence Fee Refunds":1707.00}
 		}
 	},
 	"80": {
@@ -429,11 +430,11 @@
 	},
 	"81": {
 		"name": "(EURO) PLASSER UK LTD",
-		"total": 10852235.03,
+		"total": 10147109.83,
 		"monthly": {
 			"2017-09": {"total":1043078.96, "RAIL FOR LONDON LIMITED":1043078.96},
 			"2018-09": {"total":2988071.71, "RAIL FOR LONDON LIMITED":2988071.71},
-			"2018-11": {"total":4654471.49, "RAIL FOR LONDON LIMITED":4654471.49},
+			"2018-11": {"total":3949346.29, "RAIL FOR LONDON LIMITED":3949346.29},
 			"2019-01": {"total":178319.01, "LUL NOMINEE BCV LIMITED":178319.01},
 			"2019-11": {"total":1988293.86, "RAIL FOR LONDON LIMITED":1988293.86}
 		}
@@ -456,14 +457,14 @@
 		"name": "(I CHOUDRY) CHEETAH LIMITED/MR I CH",
 		"total": 1024,
 		"monthly": {
-			"2013-04": {"total":1024.00, "unknown":1024.00}
+			"2013-04": {"total":1024.00, "Licence Fee Refunds":1024.00}
 		}
 	},
 	"85": {
 		"name": "(S AHMAD) A SHAKIB",
 		"total": 682,
 		"monthly": {
-			"2013-04": {"total":682.00, "unknown":682.00}
+			"2013-04": {"total":682.00, "Licence Fee Refunds":682.00}
 		}
 	},
 	"86": {

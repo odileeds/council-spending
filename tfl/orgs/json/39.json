@@ -1,14 +1,327 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"1950": {
+		"name": "AUTOGLASS",
+		"total": 3970,
+		"monthly": {
+			"2015-01": {"total":260.00, "RAIL FOR LONDON LIMITED":260.00},
+			"2015-03": {"total":260.00, "RAIL FOR LONDON LIMITED":260.00},
+			"2015-04": {"total":480.00, "RAIL FOR LONDON LIMITED":480.00},
+			"2015-05": {"total":260.00, "RAIL FOR LONDON LIMITED":260.00},
+			"2015-07": {"total":1820.00, "RAIL FOR LONDON LIMITED":1820.00},
+			"2015-09": {"total":270.00, "RAIL FOR LONDON LIMITED":270.00},
+			"2015-10": {"total":620.00, "RAIL FOR LONDON LIMITED":620.00}
+		}
+	},
+	"1951": {
+		"name": "AUTOGLASS LTD",
+		"total": 756.25,
+		"monthly": {
+			"2013-10": {"total":489.70, "Maintenance":489.70},
+			"2018-10": {"total":266.55, "TUBE LINES LTD":266.55}
+		}
+	},
+	"1952": {
+		"name": "AUTOGLYM",
+		"total": 40343.02,
+		"monthly": {
+			"2013-06": {"total":1750.00, "Vehicle Repairs & Maintenance":1750.00},
+			"2013-10": {"total":1750.00, "Vehicle Repairs & Maintenance":1750.00},
+			"2013-12": {"total":757.60, "Vehicle Repairs & Maintenance":757.60},
+			"2014-03": {"total":1775.00, "Vehicle Repairs & Maintenance":1775.00},
+			"2014-06": {"total":3295.00, "DIAL A RIDE":3295.00},
+			"2014-07": {"total":380.00, "DIAL A RIDE":380.00},
+			"2014-08": {"total":1775.00, "DIAL A RIDE":1775.00},
+			"2014-11": {"total":2140.00, "DIAL A RIDE":2140.00},
+			"2015-02": {"total":1828.00, "DIAL A RIDE":1828.00},
+			"2015-03": {"total":767.00, "DIAL A RIDE":767.00},
+			"2015-05": {"total":1828.00, "DIAL A RIDE":1828.00},
+			"2015-06": {"total":782.00, "DIAL A RIDE":782.00},
+			"2015-07": {"total":391.00, "DIAL A RIDE":391.00},
+			"2015-08": {"total":1828.00, "DIAL A RIDE":1828.00},
+			"2015-11": {"total":1828.00, "DIAL A RIDE":1828.00},
+			"2015-12": {"total":1549.00, "DIAL A RIDE":1549.00},
+			"2016-02": {"total":391.00, "DIAL A RIDE":391.00},
+			"2016-03": {"total":1865.00, "DIAL A RIDE":1865.00},
+			"2016-05": {"total":1865.00, "DIAL A RIDE":1865.00},
+			"2016-06": {"total":384.00, "DIAL A RIDE":384.00},
+			"2016-11": {"total":3446.00, "DIAL A RIDE":3446.00},
+			"2017-04": {"total":1902.30, "DIAL A RIDE":1902.30},
+			"2017-06": {"total":1190.34, "DIAL A RIDE":1190.34},
+			"2017-07": {"total":813.96, "DIAL A RIDE":813.96},
+			"2018-05": {"total":813.96, "DIAL A RIDE":813.96},
+			"2018-07": {"total":813.96, "DIAL A RIDE":813.96},
+			"2019-02": {"total":399.00, "DIAL A RIDE":399.00},
+			"2019-08": {"total":1220.94, "DIAL A RIDE":1220.94},
+			"2019-10": {"total":813.96, "DIAL A RIDE":813.96}
+		}
+	},
+	"1953": {
+		"name": "AUTOHAUS UK LTD",
+		"alternate-names": [
+			"AUTOHAUS UK LIMITED"
+		],
+		"total": 1644.33,
+		"monthly": {
+			"2014-08": {"total":1644.33, "DIAL A RIDE":1644.33}
+		}
+	},
+	"1954": {
+		"name": "AUTOHOME FLEET RESCUE LTD",
+		"total": 14190.81,
+		"monthly": {
+			"2013-08": {"total":570.00, "Maintenance":570.00},
+			"2013-10": {"total":270.00, "Maintenance":270.00},
+			"2013-12": {"total":267.50, "Maintenance":267.50},
+			"2014-01": {"total":305.00, "Maintenance":305.00},
+			"2014-03": {"total":250.00, "Vehicles":250.00},
+			"2014-09": {"total":250.00, "TUBE LINES LTD":250.00},
+			"2014-10": {"total":685.00, "TUBE LINES LTD":685.00},
+			"2015-04": {"total":250.00, "TUBELINES LTD":250.00},
+			"2015-06": {"total":517.50, "TUBELINES LTD":517.50},
+			"2015-08": {"total":574.95, "TUBELINES LTD":574.95},
+			"2015-10": {"total":913.90, "TUBE LINES LTD":652.00, "TUBELINES LTD":261.90},
+			"2015-11": {"total":-139.00, "TUBELINES LTD":-139.00},
+			"2015-12": {"total":350.00, "TUBELINES LTD":350.00},
+			"2016-03": {"total":850.00, "TUBELINES LTD":850.00},
+			"2016-04": {"total":250.00, "TUBELINES LTD":250.00},
+			"2016-05": {"total":290.00, "TUBELINES LTD":290.00},
+			"2016-07": {"total":285.00, "TUBELINES LTD":285.00},
+			"2016-08": {"total":251.00, "TUBELINES LTD":251.00},
+			"2016-09": {"total":298.84, "TUBELINES LTD":298.84},
+			"2016-10": {"total":250.00, "TUBELINES LTD":250.00},
+			"2016-11": {"total":492.50, "TUBELINES LTD":492.50},
+			"2017-02": {"total":1017.50, "TUBELINES LTD":1017.50},
+			"2017-06": {"total":796.50, "TUBELINES LTD":796.50},
+			"2017-08": {"total":285.00, "TUBELINES LTD":285.00},
+			"2017-10": {"total":265.00, "TUBE LINES LTD":265.00},
+			"2018-01": {"total":1277.00, "TUBE LINES LTD":1277.00},
+			"2018-04": {"total":340.25, "TUBE LINES LTD":340.25},
+			"2018-06": {"total":281.00, "TUBE LINES LTD":281.00},
+			"2018-09": {"total":266.05, "TUBE LINES LTD":266.05},
+			"2018-10": {"total":512.13, "TUBE LINES LTD":512.13},
+			"2019-03": {"total":1118.19, "TUBE LINES LTD":1118.19}
+		}
+	},
+	"1955": {
+		"name": "AUTOHOME RECOVERY",
+		"total": 4429.48,
+		"monthly": {
+			"2019-06": {"total":363.50, "LONDON UNDERGROUND LTD":363.50},
+			"2020-01": {"total":1047.87, "LONDON UNDERGROUND LTD":1047.87},
+			"2020-04": {"total":1228.14, "LONDON UNDERGROUND LTD":1228.14},
+			"2020-06": {"total":423.50, "LONDON UNDERGROUND LTD":423.50},
+			"2020-07": {"total":1366.47, "LONDON UNDERGROUND LTD":1366.47}
+		}
+	},
+	"1956": {
+		"name": "AUTOMATED DESIGNS LTD",
+		"alternate-names": [
+			"AUTOMATED DESIGNS LIMITED"
+		],
+		"total": 1600,
+		"monthly": {
+			"2013-09": {"total":1600.00, "Computer Hardware":1600.00}
+		}
+	},
+	"1957": {
+		"name": "AUTOMATIC TEST SERVICES LTD",
+		"total": 121933.25,
+		"monthly": {
+			"2013-05": {"total":3416.36, "Heating & Lighting":3416.36},
+			"2013-06": {"total":518.50, "Heating & Lighting":518.50},
+			"2013-07": {"total":532.50, "Heating & Lighting":532.50},
+			"2013-08": {"total":868.50, "Heating & Lighting":868.50},
+			"2013-09": {"total":1350.00, "Heating & Lighting":1350.00},
+			"2013-11": {"total":927.75, "Heating & Lighting":927.75},
+			"2013-12": {"total":470.50, "Heating & Lighting":470.50},
+			"2014-01": {"total":872.00, "Building Maintenance & Repairs":872.00},
+			"2014-02": {"total":1050.22, "Building Maintenance & Repairs":1050.22},
+			"2014-03": {"total":516.51, "Building Maintenance & Repairs":516.51},
+			"2014-04": {"total":1022.50, "LUL NOMINEE SSL LIMITED":1022.50},
+			"2014-05": {"total":947.50, "LUL NOMINEE SSL LIMITED":947.50},
+			"2014-07": {"total":2546.87, "LUL NOMINEE BCV LIMITED":1433.00, "LUL NOMINEE SSL LIMITED":1113.87},
+			"2014-12": {"total":516.27, "LONDON UNDERGROUND LTD":516.27},
+			"2015-01": {"total":9126.10, "LONDON UNDERGROUND LTD":9126.10},
+			"2015-02": {"total":4367.16, "LONDON UNDERGROUND LTD":3548.40, "LUL NOMINEE SSL LIMITED":818.76},
+			"2015-03": {"total":1098.20, "LONDON UNDERGROUND LTD":1098.20},
+			"2015-04": {"total":1546.27, "LONDON UNDERGROUND LTD":1546.27},
+			"2015-05": {"total":25123.19, "LONDON UNDERGROUND LTD":25123.19},
+			"2015-06": {"total":2134.25, "LONDON UNDERGROUND LTD":2134.25},
+			"2015-07": {"total":725.00, "LONDON UNDERGROUND LTD":725.00},
+			"2015-08": {"total":2815.20, "LONDON UNDERGROUND LTD":2815.20},
+			"2015-09": {"total":460.00, "LONDON UNDERGROUND LTD":460.00},
+			"2015-11": {"total":3543.80, "LONDON UNDERGROUND LTD":3543.80},
+			"2016-03": {"total":446.20, "LUL NOMINEE SSL LIMITED":446.20},
+			"2016-11": {"total":1420.32, "LONDON UNDERGROUND LTD":1420.32},
+			"2017-01": {"total":268.40, "LONDON UNDERGROUND LTD":268.40},
+			"2017-03": {"total":430.50, "LUL NOMINEE SSL LIMITED":430.50},
+			"2017-04": {"total":2855.00, "LUL NOMINEE SSL LIMITED":2855.00},
+			"2017-05": {"total":2312.50, "LONDON UNDERGROUND LTD":2312.50},
+			"2017-07": {"total":1489.32, "LONDON UNDERGROUND LTD":1489.32},
+			"2017-09": {"total":1307.40, "LUL NOMINEE BCV LIMITED":605.00, "LUL NOMINEE SSL LIMITED":702.40},
+			"2017-10": {"total":512.00, "LONDON UNDERGROUND LTD":512.00},
+			"2018-05": {"total":1873.11, "LONDON UNDERGROUND LTD":1873.11},
+			"2018-07": {"total":1618.52, "LONDON UNDERGROUND LTD":1618.52},
+			"2018-10": {"total":803.50, "LUL NOMINEE SSL LIMITED":803.50},
+			"2018-11": {"total":1676.50, "LONDON UNDERGROUND LTD":1676.50},
+			"2018-12": {"total":798.00, "LONDON UNDERGROUND LTD":798.00},
+			"2019-01": {"total":730.00, "LUL NOMINEE SSL LIMITED":730.00},
+			"2019-02": {"total":2477.80, "LONDON UNDERGROUND LTD":1624.80, "LUL NOMINEE SSL LIMITED":853.00},
+			"2019-03": {"total":3918.00, "LONDON UNDERGROUND LTD":3918.00},
+			"2019-12": {"total":1960.80, "LONDON UNDERGROUND LTD":1960.80},
+			"2020-01": {"total":2112.00, "LONDON UNDERGROUND LTD":2112.00},
+			"2020-02": {"total":12417.15, "LONDON UNDERGROUND LTD":12417.15},
+			"2020-03": {"total":2462.28, "LONDON UNDERGROUND LTD":2462.28},
+			"2020-04": {"total":1960.80, "LONDON UNDERGROUND LTD":1960.80},
+			"2020-06": {"total":1497.46, "LONDON UNDERGROUND LTD":1497.46},
+			"2020-08": {"total":3927.74, "LONDON UNDERGROUND LTD":3927.74},
+			"2020-10": {"total":4162.80, "LONDON UNDERGROUND LTD":4162.80}
+		}
+	},
+	"1958": {
+		"name": "AUTOMATIC TRANSMISSIONS",
+		"total": 483470.5,
+		"monthly": {
+			"2013-05": {"total":2050.00, "Vehicle Repairs & Maintenance":2050.00},
+			"2013-07": {"total":2589.00, "Vehicle Repairs & Maintenance":2589.00},
+			"2013-08": {"total":2050.00, "Vehicle Repairs & Maintenance":2050.00},
+			"2013-11": {"total":539.00, "Vehicle Repairs & Maintenance":539.00},
+			"2013-12": {"total":2050.00, "Vehicle Repairs & Maintenance":2050.00},
+			"2014-01": {"total":2050.00, "Vehicle Repairs & Maintenance":2050.00},
+			"2014-02": {"total":1600.00, "Vehicle Repairs & Maintenance":1600.00},
+			"2014-03": {"total":10315.00, "Vehicle Repairs & Maintenance":10315.00},
+			"2014-04": {"total":2485.00, "DIAL A RIDE":2485.00},
+			"2014-05": {"total":5137.00, "DIAL A RIDE":5137.00},
+			"2014-06": {"total":9150.00, "DIAL A RIDE":9150.00},
+			"2014-07": {"total":7348.00, "DIAL A RIDE":7348.00},
+			"2014-08": {"total":2850.00, "DIAL A RIDE":2850.00},
+			"2014-09": {"total":14887.00, "DIAL A RIDE":14887.00},
+			"2014-10": {"total":4180.00, "DIAL A RIDE":4180.00},
+			"2014-11": {"total":6310.00, "DIAL A RIDE":6310.00},
+			"2014-12": {"total":4590.00, "DIAL A RIDE":4590.00},
+			"2015-01": {"total":9180.00, "DIAL A RIDE":9180.00},
+			"2015-02": {"total":11435.00, "DIAL A RIDE":11435.00},
+			"2015-03": {"total":4590.00, "DIAL A RIDE":4590.00},
+			"2015-04": {"total":8003.00, "DIAL A RIDE":8003.00},
+			"2015-05": {"total":2295.00, "DIAL A RIDE":2295.00},
+			"2015-06": {"total":11110.00, "DIAL A RIDE":11110.00},
+			"2015-07": {"total":10331.89, "DIAL A RIDE":10331.89},
+			"2015-08": {"total":10408.55, "DIAL A RIDE":10408.55},
+			"2015-09": {"total":10627.76, "DIAL A RIDE":10627.76},
+			"2015-10": {"total":9983.75, "DIAL A RIDE":9983.75},
+			"2015-11": {"total":6378.70, "DIAL A RIDE":6378.70},
+			"2015-12": {"total":7002.25, "DIAL A RIDE":7002.25},
+			"2016-01": {"total":16969.05, "DIAL A RIDE":16969.05},
+			"2016-02": {"total":18559.00, "DIAL A RIDE":18559.00},
+			"2016-03": {"total":2295.00, "DIAL A RIDE":2295.00},
+			"2016-04": {"total":14266.20, "DIAL A RIDE":14266.20},
+			"2016-05": {"total":12571.00, "DIAL A RIDE":12571.00},
+			"2016-06": {"total":3185.00, "DIAL A RIDE":3185.00},
+			"2016-07": {"total":5400.00, "DIAL A RIDE":5400.00},
+			"2016-08": {"total":9715.00, "DIAL A RIDE":9715.00},
+			"2016-09": {"total":11452.20, "DIAL A RIDE":11452.20},
+			"2016-10": {"total":15738.74, "DIAL A RIDE":15738.74},
+			"2016-11": {"total":15585.00, "DIAL A RIDE":15585.00},
+			"2016-12": {"total":13660.40, "DIAL A RIDE":13660.40},
+			"2017-01": {"total":8680.00, "DIAL A RIDE":8680.00},
+			"2017-02": {"total":12679.00, "DIAL A RIDE":12679.00},
+			"2017-03": {"total":15135.00, "DIAL A RIDE":15135.00},
+			"2017-04": {"total":11695.50, "DIAL A RIDE":11695.50},
+			"2017-05": {"total":1213.60, "DIAL A RIDE":1213.60},
+			"2017-06": {"total":11991.20, "DIAL A RIDE":11991.20},
+			"2017-07": {"total":6885.00, "DIAL A RIDE":6885.00},
+			"2017-09": {"total":6145.00, "DIAL A RIDE":6145.00},
+			"2017-11": {"total":4590.00, "DIAL A RIDE":4590.00},
+			"2017-12": {"total":1213.60, "DIAL A RIDE":1213.60},
+			"2018-01": {"total":595.00, "DIAL A RIDE":595.00},
+			"2018-02": {"total":11268.20, "DIAL A RIDE":11268.20},
+			"2018-03": {"total":5261.00, "DIAL A RIDE":5261.00},
+			"2018-04": {"total":650.00, "DIAL A RIDE":650.00},
+			"2018-05": {"total":8411.98, "DIAL A RIDE":8411.98},
+			"2018-06": {"total":2711.00, "DIAL A RIDE":2711.00},
+			"2018-07": {"total":7811.00, "DIAL A RIDE":7811.00},
+			"2018-08": {"total":3230.40, "DIAL A RIDE":3230.40},
+			"2018-09": {"total":6080.00, "DIAL A RIDE":6080.00},
+			"2018-10": {"total":10310.00, "DIAL A RIDE":10310.00},
+			"2018-12": {"total":6844.32, "DIAL A RIDE":6844.32},
+			"2019-04": {"total":6760.40, "DIAL A RIDE":6760.40},
+			"2019-05": {"total":6080.00, "DIAL A RIDE":6080.00},
+			"2019-06": {"total":4403.21, "DIAL A RIDE":4403.21},
+			"2019-08": {"total":453.60, "DIAL A RIDE":453.60},
+			"2020-09": {"total":1450.00, "DIAL A RIDE":1450.00}
+		}
+	},
+	"1959": {
+		"name": "AUTOMATIC VENDING ASSOCIATION",
+		"total": 2600,
+		"monthly": {
+			"2019-07": {"total":1300.00, "TRANSPORT TRADING LTD":1300.00},
+			"2020-02": {"total":1300.00, "TRANSPORT TRADING LTD":1300.00}
+		}
+	},
+	"1960": {
+		"name": "AUTOMOBILE ASSOCIATION",
+		"total": 639.35,
+		"monthly": {
+			"2018-10": {"total":169.57, "TUBE LINES LTD":169.57},
+			"2020-01": {"total":469.78, "TFL CORPORATE":469.78}
+		}
+	},
+	"1961": {
+		"name": "AUTOMOTIVE PAINT SUPPLIES",
+		"total": 499.41,
+		"monthly": {
+			"2018-07": {"total":499.41, "TUBE LINES LTD":499.41}
+		}
+	},
+	"1962": {
+		"name": "AUTOMOTIVE PAINT SUPPLY",
+		"total": 545.88,
+		"monthly": {
+			"2017-08": {"total":396.68, "TUBE LINES LTD":396.68},
+			"2017-11": {"total":149.20, "TUBE LINES LTD":149.20}
+		}
+	},
+	"1963": {
+		"name": "AUTOMOTIVE TRIM DEVELOPMENTS LTD",
+		"total": 18791.76,
+		"monthly": {
+			"2015-02": {"total":15824.64, "DOCKLANDS LIGHT RAILWAY":15824.64},
+			"2015-04": {"total":2967.12, "DOCKLANDS LIGHT RAILWAY":2967.12}
+		}
+	},
+	"1964": {
+		"name": "AUTOSCAN",
+		"total": 2000,
+		"monthly": {
+			"2016-04": {"total":2000.00, "LONDON TRANSPORT MUSEUM":2000.00}
+		}
+	},
+	"1965": {
+		"name": "AUTOTECH SLOUGH  LTD",
+		"total": 7704.24,
+		"monthly": {
+			"2016-05": {"total":5528.19, "TUBELINES LTD":5528.19},
+			"2016-06": {"total":2176.05, "TUBELINES LTD":2176.05}
+		}
+	},
+	"1966": {
+		"name": "AUTOTRADER",
+		"total": 113.9,
+		"monthly": {
+			"2015-02": {"total":113.90, "LONDON TRANSPORT MUSEUM":113.90}
+		}
+	},
+	"1967": {
 		"name": "AUTOWINDSCREENS",
 		"total": 44.56,
 		"monthly": {
 			"2014-08": {"total":44.56, "TUBE LINES LTD":44.56}
 		}
 	},
-	"1951": {
+	"1968": {
 		"name": "AUVSI NF",
 		"total": 1686.42,
 		"monthly": {
@@ -16,36 +329,36 @@
 			"2018-09": {"total":1211.80, "TFL CORPORATE":1211.80}
 		}
 	},
-	"1952": {
+	"1969": {
 		"name": "AV & SA PATEL",
 		"total": 1078.29,
 		"monthly": {
 			"2015-12": {"total":1078.29, "TRANSPORT TRADING LTD":1078.29}
 		}
 	},
-	"1953": {
+	"1970": {
 		"name": "AV ACCESS LTD",
 		"alternate-names": [
 			"AV ACCESS LIMITED"
 		],
 		"total": 112810,
 		"monthly": {
-			"2013-09": {"total":16350.00, "unknown":16350.00},
-			"2013-12": {"total":5895.00, "unknown":5895.00},
-			"2014-01": {"total":3750.00, "unknown":3750.00},
-			"2014-02": {"total":400.00, "unknown":400.00},
-			"2014-03": {"total":9380.00, "unknown":9380.00},
+			"2013-09": {"total":16350.00, "Civil Engineering Construction Works":16350.00},
+			"2013-12": {"total":5895.00, "Civil Engineering Construction Works":5895.00},
+			"2014-01": {"total":3750.00, "Signalling Systems":3750.00},
+			"2014-02": {"total":400.00, "Civil Engineering Construction Works":400.00},
+			"2014-03": {"total":9380.00, "Signalling Systems":9380.00},
 			"2014-05": {"total":13755.00, "DOCKLANDS LIGHT RAILWAY":13755.00},
 			"2014-07": {"total":30250.00, "LUL NOMINEE SSL LIMITED":30250.00},
 			"2015-01": {"total":9000.00, "DOCKLANDS LIGHT RAILWAY":9000.00},
 			"2016-12": {"total":24030.00, "LONDON UNDERGROUND LTD":24030.00}
 		}
 	},
-	"1954": {
+	"1971": {
 		"name": "AV BIRCH LTD",
 		"total": 106629.96,
 		"monthly": {
-			"2013-12": {"total":1755.00, "unknown":1755.00},
+			"2013-12": {"total":1755.00, "Maintenance":1755.00},
 			"2017-02": {"total":24030.00, "LONDON UNDERGROUND LTD":24030.00},
 			"2017-06": {"total":4120.00, "RAIL FOR LONDON LIMITED":4120.00},
 			"2018-09": {"total":8250.00, "LUL NOMINEE BCV LIMITED":8250.00},
@@ -54,35 +367,35 @@
 			"2020-05": {"total":14849.96, "LUL NOMINEE SSL LIMITED":14849.96}
 		}
 	},
-	"1955": {
+	"1972": {
 		"name": "AV LAW SOLICITORS",
 		"total": 840,
 		"monthly": {
 			"2017-03": {"total":840.00, "LONDON UNDERGROUND LTD":840.00}
 		}
 	},
-	"1956": {
+	"1973": {
 		"name": "AV PARTMASTER",
 		"total": 459.59,
 		"monthly": {
 			"2017-07": {"total":459.59, "TUBELINES LTD":459.59}
 		}
 	},
-	"1957": {
+	"1974": {
 		"name": "AVA TECHNOLOGIES LTD",
 		"total": 3000,
 		"monthly": {
 			"2015-02": {"total":3000.00, "LONDON UNDERGROUND LTD":3000.00}
 		}
 	},
-	"1958": {
+	"1975": {
 		"name": "AVADO",
 		"total": 200,
 		"monthly": {
 			"2017-02": {"total":200.00, "TFL CORPORATE":200.00}
 		}
 	},
-	"1959": {
+	"1976": {
 		"name": "AVALON LICENSING LTD",
 		"alternate-names": [
 			"AVALON LICENSING LIMITED"
@@ -108,14 +421,14 @@
 			"2019-10": {"total":319.00, "TFL CORPORATE":319.00}
 		}
 	},
-	"1960": {
+	"1977": {
 		"name": "AVANCIER LTD",
 		"total": 1975,
 		"monthly": {
-			"2013-05": {"total":1975.00, "unknown":1975.00}
+			"2013-05": {"total":1975.00, "Staff Training":1975.00}
 		}
 	},
-	"1961": {
+	"1978": {
 		"name": "AVANTA",
 		"total": 37400,
 		"monthly": {
@@ -129,7 +442,7 @@
 			"2015-05": {"total":3400.00, "TRANSPORT TRADING LTD":3400.00}
 		}
 	},
-	"1962": {
+	"1979": {
 		"name": "AVANTA NORTH ROW",
 		"total": 16969.71,
 		"monthly": {
@@ -137,17 +450,17 @@
 			"2014-10": {"total":1978.80, "TRANSPORT TRADING LTD":1978.80}
 		}
 	},
-	"1963": {
+	"1980": {
 		"name": "AVANTA PROPERTIES LTD",
 		"alternate-names": [
 			"AVANTA PROPERTIES LIMITED"
 		],
-		"total": 401686.76,
+		"total": 395797.54,
 		"monthly": {
-			"2013-06": {"total":38425.50, "unknown":38425.50},
-			"2013-09": {"total":38425.50, "unknown":38425.50},
-			"2013-12": {"total":38425.50, "unknown":38425.50},
-			"2014-03": {"total":38425.50, "unknown":38425.50},
+			"2013-06": {"total":38425.50, "Commercial Property Rent":38425.50},
+			"2013-09": {"total":38425.50, "Commercial Property Rent":38425.50},
+			"2013-12": {"total":38425.50, "Commercial Property Rent":38425.50},
+			"2014-03": {"total":38425.50, "Commercial Property Rent":38425.50},
 			"2014-05": {"total":1308.00, "LONDON UNDERGROUND LTD":1308.00},
 			"2014-06": {"total":38425.50, "TRANSPORT TRADING LTD":38425.50},
 			"2014-09": {"total":38425.50, "TRANSPORT TRADING LTD":38425.50},
@@ -155,11 +468,11 @@
 			"2015-03": {"total":38425.50, "TRANSPORT TRADING LTD":38425.50},
 			"2015-06": {"total":48660.04, "TRANSPORT TRADING LTD":48660.04},
 			"2015-09": {"total":38425.50, "TRANSPORT TRADING LTD":38425.50},
-			"2018-06": {"total":2939.78, "TRANSPORT TRADING LTD":2939.78},
-			"2018-12": {"total":2949.44, "TRANSPORT TRADING LTD":2949.44}
+			"2018-06": {"total":0.00, "TRANSPORT TRADING LTD":0.00},
+			"2018-12": {"total":0.00, "TRANSPORT TRADING LTD":0.00}
 		}
 	},
-	"1964": {
+	"1981": {
 		"name": "AVANTGARDE MARKETING LTD",
 		"total": 173684.26,
 		"monthly": {
@@ -167,16 +480,16 @@
 			"2016-02": {"total":99028.61, "TFL CORPORATE":99028.61}
 		}
 	},
-	"1965": {
+	"1982": {
 		"name": "AVANTGARDE TRAINING LTD",
 		"alternate-names": [
 			"AVANTGARDE TRAINING LIMITED"
 		],
 		"total": 107315.65,
 		"monthly": {
-			"2013-04": {"total":500.00, "unknown":500.00},
-			"2013-06": {"total":1000.00, "unknown":1000.00},
-			"2013-07": {"total":600.00, "unknown":600.00},
+			"2013-04": {"total":500.00, "Staff Training":500.00},
+			"2013-06": {"total":1000.00, "Staff Training":1000.00},
+			"2013-07": {"total":600.00, "Staff Training":600.00},
 			"2014-08": {"total":8825.00, "LONDON UNDERGROUND LTD":8825.00},
 			"2015-02": {"total":6845.00, "LONDON UNDERGROUND LTD":6845.00},
 			"2015-04": {"total":1150.00, "LONDON UNDERGROUND LTD":1150.00},
@@ -192,7 +505,7 @@
 			"2017-02": {"total":425.00, "LONDON UNDERGROUND LTD":425.00}
 		}
 	},
-	"1966": {
+	"1983": {
 		"name": "AVANTI HOUSE SCHOOL",
 		"total": 500,
 		"monthly": {
@@ -200,21 +513,21 @@
 			"2019-03": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00}
 		}
 	},
-	"1967": {
+	"1984": {
 		"name": "AVANTI HOUSE SECONDARY SCHOOL",
 		"total": 250,
 		"monthly": {
 			"2020-03": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00}
 		}
 	},
-	"1968": {
+	"1985": {
 		"name": "AVANTI HOUSE TRUST T/A AVANTI HOUSE",
 		"total": 250,
 		"monthly": {
 			"2016-04": {"total":250.00, "LONDON TRANSPORT MUSEUM":250.00}
 		}
 	},
-	"1969": {
+	"1986": {
 		"name": "AVCO SYSTEMS LTD",
 		"alternate-names": [
 			"AVCO SYSTEMS LIMITED"
@@ -226,7 +539,7 @@
 			"2020-02": {"total":1500.00, "TFL CORPORATE":1500.00}
 		}
 	},
-	"1970": {
+	"1987": {
 		"name": "AVENTICS LIITED",
 		"total": 3672.4,
 		"monthly": {
@@ -234,7 +547,7 @@
 			"2019-04": {"total":1836.20, "LUL NOMINEE BCV LIMITED":1836.20}
 		}
 	},
-	"1971": {
+	"1988": {
 		"name": "AVENTICS LTD",
 		"total": 7841.55,
 		"monthly": {
@@ -245,36 +558,36 @@
 			"2018-03": {"total":1836.20, "LUL NOMINEE BCV LIMITED":1836.20}
 		}
 	},
-	"1972": {
+	"1989": {
 		"name": "AVENUE COATING",
 		"total": 1113.28,
 		"monthly": {
-			"2014-01": {"total":1113.28, "unknown":1113.28}
+			"2014-01": {"total":1113.28, "Materials":1113.28}
 		}
 	},
-	"1973": {
+	"1990": {
 		"name": "AVERY BERKEL LTD (USE 10003647)",
 		"total": 1040.58,
 		"monthly": {
 			"2015-10": {"total":1040.58, "LONDON UNDERGROUND LTD":1040.58}
 		}
 	},
-	"1974": {
+	"1991": {
 		"name": "AVERY WEIGH TRONIX",
 		"total": 2922.83,
 		"monthly": {
-			"2013-08": {"total":665.83, "unknown":665.83},
-			"2014-03": {"total":1315.00, "unknown":1315.00},
+			"2013-08": {"total":665.83, "Maintenance":665.83},
+			"2014-03": {"total":1315.00, "Materials":1315.00},
 			"2014-04": {"total":265.00, "TUBE LINES LTD":265.00},
 			"2014-05": {"total":677.00, "TUBE LINES LTD":677.00}
 		}
 	},
-	"1975": {
+	"1992": {
 		"name": "AVERY WEIGH TRONIX LTD",
-		"total": 20369.02,
+		"total": 18731.42,
 		"monthly": {
-			"2013-07": {"total":1158.50, "unknown":1158.50},
-			"2013-11": {"total":593.92, "unknown":593.92},
+			"2013-07": {"total":1158.50, "Building Maintenance & Repairs":1158.50},
+			"2013-11": {"total":593.92, "Stationery":593.92},
 			"2014-04": {"total":320.22, "LONDON UNDERGROUND LTD":320.22},
 			"2014-06": {"total":524.37, "LONDON UNDERGROUND LTD":524.37},
 			"2014-07": {"total":1193.25, "LONDON UNDERGROUND LTD":1193.25},
@@ -287,7 +600,7 @@
 			"2016-05": {"total":300.00, "TUBELINES LTD":300.00},
 			"2016-08": {"total":1071.79, "LONDON UNDERGROUND LTD":1071.79},
 			"2016-12": {"total":818.80, "TUBELINES LTD":818.80},
-			"2017-01": {"total":1842.30, "TUBELINES LTD":1842.30},
+			"2017-01": {"total":204.70, "TUBELINES LTD":204.70},
 			"2017-05": {"total":300.00, "TUBELINES LTD":300.00},
 			"2017-07": {"total":310.01, "TRANSPORT TRADING LTD":310.01},
 			"2017-11": {"total":4400.01, "LUL NOMINEE SSL LIMITED":4090.00, "TRANSPORT TRADING LTD":310.01},
@@ -302,28 +615,28 @@
 			"2020-01": {"total":296.75, "TRANSPORT TRADING LTD":296.75}
 		}
 	},
-	"1976": {
+	"1993": {
 		"name": "AVERY'S GARAGE & TRANSPORT SERVICES",
 		"total": 5790,
 		"monthly": {
 			"2014-07": {"total":5790.00, "LONDON TRANSPORT MUSEUM":5790.00}
 		}
 	},
-	"1977": {
+	"1994": {
 		"name": "AVG",
 		"total": 79.99,
 		"monthly": {
 			"2014-05": {"total":79.99, "TUBE LINES LTD":79.99}
 		}
 	},
-	"1978": {
+	"1995": {
 		"name": "AVIATION SPC",
 		"total": 8100,
 		"monthly": {
 			"2017-01": {"total":8100.00, "TFL CORPORATE":8100.00}
 		}
 	},
-	"1979": {
+	"1996": {
 		"name": "AVILA ROA GLORIA",
 		"total": 917.69,
 		"monthly": {
@@ -331,12 +644,12 @@
 			"2015-09": {"total":650.93, "LONDON UNDERGROUND LTD":650.93}
 		}
 	},
-	"1980": {
+	"1997": {
 		"name": "AVIS BUDGET UK LTD",
 		"alternate-names": [
 			"AVIS BUDGET UK LIMITED"
 		],
-		"total": 731711.96999998,
+		"total": 718729.209999981,
 		"monthly": {
 			"2017-02": {"total":498.14, "VICTORIA COACH STATN LTD":498.14},
 			"2017-06": {"total":25037.72, "TUBELINES LTD":25037.72},
@@ -344,25 +657,25 @@
 			"2017-08": {"total":11911.68, "TUBELINES LTD":11911.68},
 			"2017-09": {"total":39354.31, "TUBE LINES LTD":30350.16, "TUBELINES LTD":9004.15},
 			"2017-10": {"total":42831.94, "TUBE LINES LTD":42831.94},
-			"2017-11": {"total":14291.63, "TUBE LINES LTD":14291.63},
+			"2017-11": {"total":10442.83, "TUBE LINES LTD":10442.83},
 			"2017-12": {"total":29097.21, "TUBE LINES LTD":29097.21},
 			"2018-01": {"total":16704.98, "TUBE LINES LTD":16704.98},
 			"2018-02": {"total":9227.50, "TUBE LINES LTD":9227.50},
 			"2018-03": {"total":12086.70, "TUBE LINES LTD":12086.70},
 			"2018-04": {"total":17135.23, "TUBE LINES LTD":17135.23},
-			"2018-05": {"total":11109.48, "TUBE LINES LTD":11109.48},
+			"2018-05": {"total":7790.34, "TUBE LINES LTD":7790.34},
 			"2018-06": {"total":11942.30, "TUBE LINES LTD":11942.30},
 			"2018-07": {"total":22834.51, "TUBE LINES LTD":22834.51},
-			"2018-08": {"total":17917.33, "TUBE LINES LTD":17917.33},
-			"2018-09": {"total":14380.78, "TUBE LINES LTD":14380.78},
+			"2018-08": {"total":9876.93, "TUBE LINES LTD":9876.93},
+			"2018-09": {"total":13297.22, "TUBE LINES LTD":13297.22},
 			"2018-10": {"total":28879.01, "TUBE LINES LTD":28879.01},
-			"2018-11": {"total":14575.49, "TUBE LINES LTD":14575.49},
+			"2018-11": {"total":7649.09, "TUBE LINES LTD":7649.09},
 			"2018-12": {"total":24266.37, "TUBE LINES LTD":24266.37},
 			"2019-01": {"total":15752.40, "TUBE LINES LTD":15752.40},
 			"2019-02": {"total":12792.51, "TUBE LINES LTD":12792.51},
-			"2019-03": {"total":15863.29, "TUBE LINES LTD":15863.29},
+			"2019-03": {"total":13840.57, "TUBE LINES LTD":13840.57},
 			"2019-04": {"total":11122.46, "TUBE LINES LTD":11122.46},
-			"2019-05": {"total":23545.77, "TUBE LINES LTD":23545.77},
+			"2019-05": {"total":20188.97, "TUBE LINES LTD":20188.97},
 			"2019-06": {"total":45205.31, "LONDON UNDERGROUND LTD":44706.15, "TUBE LINES LTD":499.16},
 			"2019-07": {"total":22351.22, "LONDON UNDERGROUND LTD":22351.22},
 			"2019-08": {"total":32304.46, "LONDON UNDERGROUND LTD":32304.46},
@@ -374,259 +687,30 @@
 			"2020-02": {"total":7942.13, "LONDON UNDERGROUND LTD":7942.13},
 			"2020-03": {"total":7660.28, "LONDON UNDERGROUND LTD":7660.28},
 			"2020-04": {"total":13214.14, "LONDON UNDERGROUND LTD":13214.14},
-			"2020-05": {"total":30804.50, "LONDON UNDERGROUND LTD":30804.50},
+			"2020-05": {"total":30259.10, "LONDON UNDERGROUND LTD":30259.10},
 			"2020-06": {"total":16700.23, "LONDON UNDERGROUND LTD":16700.23},
-			"2020-08": {"total":10911.95, "LONDON UNDERGROUND LTD":10911.95},
-			"2020-09": {"total":18076.21, "LONDON UNDERGROUND LTD":18076.21}
+			"2020-08": {"total":10001.25, "LONDON UNDERGROUND LTD":10001.25},
+			"2020-09": {"total":28377.25, "LONDON UNDERGROUND LTD":28377.25},
+			"2020-10": {"total":6770.12, "LONDON UNDERGROUND LTD":6770.12}
 		}
 	},
-	"1981": {
+	"1998": {
 		"name": "AVIS RENT A CAR UK",
 		"total": 7571.51,
 		"monthly": {
-			"2013-09": {"total":319.56, "unknown":319.56},
+			"2013-09": {"total":319.56, "VCS Non Coach Payments":319.56},
 			"2014-06": {"total":285.49, "DOCKLANDS LIGHT RAILWAY":285.49},
 			"2019-04": {"total":638.76, "LONDON UNDERGROUND LTD":638.76},
 			"2019-05": {"total":6327.70, "LONDON UNDERGROUND LTD":6327.70}
 		}
 	},
-	"1982": {
+	"1999": {
 		"name": "AVISON YOUNG UK - LLP",
 		"total": 7395.29,
 		"monthly": {
 			"2016-06": {"total":6495.29, "TRANSPORT TRADING LTD":6495.29},
 			"2016-08": {"total":600.00, "TRANSPORT TRADING LTD":600.00},
 			"2016-10": {"total":300.00, "TRANSPORT TRADING LTD":300.00}
-		}
-	},
-	"1983": {
-		"name": "AVIUS LTD",
-		"total": 31252.03,
-		"monthly": {
-			"2016-05": {"total":7840.00, "DOCKLANDS LIGHT RAILWAY":7840.00},
-			"2016-11": {"total":552.03, "DOCKLANDS LIGHT RAILWAY":552.03},
-			"2017-06": {"total":8628.00, "DOCKLANDS LIGHT RAILWAY":8628.00},
-			"2018-06": {"total":7236.00, "DOCKLANDS LIGHT RAILWAY":7236.00},
-			"2019-05": {"total":6996.00, "DOCKLANDS LIGHT RAILWAY":6996.00}
-		}
-	},
-	"1984": {
-		"name": "AVIVA GROUP PROTECTION",
-		"total": 19420,
-		"monthly": {
-			"2018-04": {"total":19420.00, "TFL CORPORATE":19420.00}
-		}
-	},
-	"1985": {
-		"name": "AVIVA RISK MANAGEMENT SOLUTIONS UK",
-		"total": 760.75,
-		"monthly": {
-			"2013-06": {"total":760.75, "unknown":760.75}
-		}
-	},
-	"1986": {
-		"name": "AVM IMPACT",
-		"total": 83218,
-		"monthly": {
-			"2014-05": {"total":83218.00, "TUBE LINES LTD":83218.00}
-		}
-	},
-	"1987": {
-		"name": "AVM IMPACT LTD",
-		"total": 1064522.84,
-		"monthly": {
-			"2013-04": {"total":6294.25, "unknown":6294.25},
-			"2013-05": {"total":13081.25, "unknown":13081.25},
-			"2013-06": {"total":12397.19, "unknown":12397.19},
-			"2013-07": {"total":7077.94, "unknown":7077.94},
-			"2013-08": {"total":18701.66, "unknown":18701.66},
-			"2013-09": {"total":8157.42, "unknown":8157.42},
-			"2013-10": {"total":5306.94, "unknown":5306.94},
-			"2013-11": {"total":35979.52, "unknown":35979.52},
-			"2013-12": {"total":9678.74, "unknown":9678.74},
-			"2014-01": {"total":7837.27, "unknown":7837.27},
-			"2014-02": {"total":8663.96, "unknown":8663.96},
-			"2014-03": {"total":6793.08, "unknown":6793.08},
-			"2014-04": {"total":24708.43, "LONDON UNDERGROUND LTD":20510.87, "TFL CORPORATE":4197.56},
-			"2014-05": {"total":10445.94, "LONDON UNDERGROUND LTD":7942.66, "SURFACE TRANSPORT CORP":2503.28},
-			"2014-06": {"total":19119.74, "LONDON UNDERGROUND LTD":6517.16, "TFL CORPORATE":12602.58},
-			"2014-07": {"total":9116.04, "LONDON UNDERGROUND LTD":9116.04},
-			"2014-08": {"total":29996.53, "LONDON UNDERGROUND LTD":6583.19, "TFL CORPORATE":23413.34},
-			"2014-09": {"total":9545.39, "LONDON UNDERGROUND LTD":5306.94, "TFL CORPORATE":3060.00, "TRANSPORT TRADING LTD":1178.45},
-			"2014-10": {"total":11633.52, "LONDON UNDERGROUND LTD":6993.74, "TFL CORPORATE":4189.12, "TRANSPORT TRADING LTD":450.66},
-			"2014-11": {"total":5808.04, "LONDON UNDERGROUND LTD":5808.04},
-			"2014-12": {"total":7558.62, "LONDON UNDERGROUND LTD":5306.94, "TFL CORPORATE":2251.68},
-			"2015-01": {"total":10253.46, "LONDON UNDERGROUND LTD":5611.21, "SURFACE TRANSPORT CORP":1977.25, "TFL CORPORATE":2665.00},
-			"2015-02": {"total":5895.69, "LONDON UNDERGROUND LTD":5895.69},
-			"2015-03": {"total":30434.78, "LONDON UNDERGROUND LTD":28909.78, "TFL CORPORATE":1525.00},
-			"2015-04": {"total":10833.61, "LONDON UNDERGROUND LTD":10833.61},
-			"2015-05": {"total":7036.43, "LONDON UNDERGROUND LTD":5306.94, "SURFACE TRANSPORT CORP":1729.49},
-			"2015-06": {"total":12365.91, "LONDON UNDERGROUND LTD":6080.46, "SURFACE TRANSPORT CORP":2053.85, "TFL CORPORATE":4231.60},
-			"2015-07": {"total":5768.53, "LONDON UNDERGROUND LTD":5768.53},
-			"2015-08": {"total":40113.17, "LONDON UNDERGROUND LTD":6079.17, "SURFACE TRANSPORT CORP":34034.00},
-			"2015-09": {"total":5918.67, "LONDON UNDERGROUND LTD":5918.67},
-			"2015-10": {"total":5306.94, "LONDON UNDERGROUND LTD":5306.94},
-			"2015-11": {"total":9441.52, "LONDON UNDERGROUND LTD":8235.29, "TRANSPORT TRADING LTD":1206.23},
-			"2015-12": {"total":5306.94, "LONDON UNDERGROUND LTD":5306.94},
-			"2016-01": {"total":9367.99, "LONDON UNDERGROUND LTD":5306.94, "SURFACE TRANSPORT CORP":4061.05},
-			"2016-02": {"total":6953.17, "LONDON UNDERGROUND LTD":6665.67, "SURFACE TRANSPORT CORP":287.50},
-			"2016-03": {"total":16434.32, "LONDON UNDERGROUND LTD":15639.71, "TFL CORPORATE":794.61},
-			"2016-04": {"total":21244.37, "LONDON UNDERGROUND LTD":21244.37},
-			"2016-05": {"total":5306.90, "LONDON UNDERGROUND LTD":5306.90},
-			"2016-06": {"total":11888.83, "LONDON UNDERGROUND LTD":7002.46, "TFL CORPORATE":4886.37},
-			"2016-07": {"total":5690.69, "LONDON UNDERGROUND LTD":5690.69},
-			"2016-08": {"total":5948.90, "LONDON UNDERGROUND LTD":5948.90},
-			"2016-09": {"total":6205.69, "LONDON UNDERGROUND LTD":6205.69},
-			"2016-10": {"total":12161.26, "LONDON UNDERGROUND LTD":12161.26},
-			"2016-11": {"total":7756.51, "LONDON UNDERGROUND LTD":7756.51},
-			"2016-12": {"total":13988.06, "LONDON UNDERGROUND LTD":13988.06},
-			"2017-01": {"total":6020.40, "LONDON UNDERGROUND LTD":6020.40},
-			"2017-02": {"total":7038.59, "LONDON UNDERGROUND LTD":7038.59},
-			"2017-03": {"total":23486.16, "LONDON UNDERGROUND LTD":5690.69, "SURFACE TRANSPORT CORP":486.86, "TUBELINES LTD":17308.61},
-			"2017-04": {"total":23297.04, "LONDON UNDERGROUND LTD":5690.69, "SURFACE TRANSPORT CORP":297.75, "TUBELINES LTD":17308.60},
-			"2017-05": {"total":76635.33, "LONDON UNDERGROUND LTD":72973.33, "SURFACE TRANSPORT CORP":2782.00, "TRANSPORT TRADING LTD":880.00},
-			"2017-06": {"total":9783.00, "LONDON UNDERGROUND LTD":2337.77, "TFL CORPORATE":3683.00, "TUBELINES LTD":3762.23},
-			"2017-07": {"total":675.70, "LONDON UNDERGROUND LTD":675.70},
-			"2017-08": {"total":556.03, "LONDON UNDERGROUND LTD":253.37, "TFL CORPORATE":302.66},
-			"2017-09": {"total":1536.58, "LONDON UNDERGROUND LTD":1536.58},
-			"2017-11": {"total":1265.38, "LONDON UNDERGROUND LTD":263.52, "TFL CORPORATE":1001.86},
-			"2018-01": {"total":904.70, "LONDON UNDERGROUND LTD":904.70},
-			"2018-04": {"total":113749.82, "LONDON UNDERGROUND LTD":112490.58, "TFL CORPORATE":1259.24},
-			"2018-05": {"total":62864.00, "LONDON UNDERGROUND LTD":62864.00},
-			"2018-06": {"total":2863.00, "TFL CORPORATE":2863.00},
-			"2018-08": {"total":475.61, "LONDON UNDERGROUND LTD":475.61},
-			"2018-09": {"total":1618.34, "LONDON UNDERGROUND LTD":1618.34},
-			"2018-10": {"total":3531.00, "LONDON UNDERGROUND LTD":3530.00, "SURFACE TRANSPORT CORP":1.00},
-			"2018-12": {"total":2534.11, "LONDON UNDERGROUND LTD":1135.11, "TUBE LINES LTD":1399.00},
-			"2019-02": {"total":9056.80, "LONDON UNDERGROUND LTD":9056.80},
-			"2019-03": {"total":915.01, "LONDON UNDERGROUND LTD":915.01},
-			"2019-04": {"total":819.37, "LONDON UNDERGROUND LTD":402.61, "TFL CORPORATE":416.76},
-			"2019-05": {"total":3256.15, "LONDON UNDERGROUND LTD":3256.15},
-			"2019-06": {"total":6951.02, "LONDON UNDERGROUND LTD":4656.28, "TFL CORPORATE":2294.74},
-			"2019-08": {"total":2247.42, "LONDON UNDERGROUND LTD":2247.42},
-			"2019-09": {"total":137386.06, "LONDON UNDERGROUND LTD":131494.06, "TFL CORPORATE":5892.00},
-			"2019-10": {"total":710.00, "LONDON UNDERGROUND LTD":710.00},
-			"2019-11": {"total":506.40, "LONDON UNDERGROUND LTD":506.40},
-			"2020-01": {"total":916.60, "LONDON UNDERGROUND LTD":916.60},
-			"2020-02": {"total":268.24, "TFL CORPORATE":268.24},
-			"2020-03": {"total":3387.08, "LONDON UNDERGROUND LTD":3387.08},
-			"2020-04": {"total":19744.09, "LONDON UNDERGROUND LTD":19744.09}
-		}
-	},
-	"1988": {
-		"name": "AVNET TECHNOLOGY SOLUTIONS LTD",
-		"total": 2465,
-		"monthly": {
-			"2016-10": {"total":2465.00, "PUBLIC CARRIAGE OFFICE":2465.00}
-		}
-	},
-	"1989": {
-		"name": "AVOLUTION PTY LTD",
-		"total": 17070,
-		"monthly": {
-			"2013-06": {"total":17070.00, "unknown":17070.00}
-		}
-	},
-	"1990": {
-		"name": "AVON BARRIER COMPANY LTD",
-		"total": 44119.29,
-		"monthly": {
-			"2013-09": {"total":18403.65, "unknown":18403.65},
-			"2013-11": {"total":21182.50, "unknown":21182.50},
-			"2013-12": {"total":1834.00, "unknown":1834.00},
-			"2014-04": {"total":2699.14, "TUBE LINES LTD":2699.14}
-		}
-	},
-	"1991": {
-		"name": "AVON BARRIER CORPORATION LTD",
-		"total": 48298.19,
-		"monthly": {
-			"2014-08": {"total":1926.00, "TUBE LINES LTD":1926.00},
-			"2014-09": {"total":1926.00, "TUBE LINES LTD":1926.00},
-			"2016-11": {"total":38171.19, "TUBELINES LTD":38171.19},
-			"2017-04": {"total":6275.00, "TUBELINES LTD":6275.00}
-		}
-	},
-	"1992": {
-		"name": "AVON PROTECTION SYSTEMS",
-		"total": 84522.15,
-		"monthly": {
-			"2016-05": {"total":24666.75, "TUBELINES LTD":24666.75},
-			"2016-06": {"total":12331.05, "TUBELINES LTD":12331.05},
-			"2016-12": {"total":4554.30, "TUBELINES LTD":4554.30},
-			"2017-02": {"total":5349.30, "TUBELINES LTD":5349.30},
-			"2017-03": {"total":8496.00, "TUBELINES LTD":8496.00},
-			"2017-04": {"total":9380.75, "TUBELINES LTD":9380.75},
-			"2017-07": {"total":4900.00, "TUBELINES LTD":4900.00},
-			"2019-05": {"total":14844.00, "LONDON UNDERGROUND LTD":14844.00}
-		}
-	},
-	"1993": {
-		"name": "AVONDALE CONSTRUCTION LTD",
-		"alternate-names": [
-			"AVONDALE CONSTRUCTION LIMITED"
-		],
-		"total": 13057.74,
-		"monthly": {
-			"2015-07": {"total":5598.35, "TRANSPORT TRADING LTD":5598.35},
-			"2016-08": {"total":1275.60, "TRANSPORT TRADING LTD":1275.60},
-			"2018-11": {"total":6183.79, "TRANSPORT TRADING LTD":6183.79}
-		}
-	},
-	"1994": {
-		"name": "AVONDALE ENVIRONMENTAL SERVICES LTD",
-		"total": 181392,
-		"monthly": {
-			"2014-06": {"total":28282.00, "RAIL FOR LONDON LIMITED":28282.00},
-			"2018-02": {"total":33595.00, "RAIL FOR LONDON LIMITED":33595.00},
-			"2018-04": {"total":15215.00, "RAIL FOR LONDON LIMITED":15215.00},
-			"2019-03": {"total":21560.00, "RAIL FOR LONDON LIMITED":21560.00},
-			"2019-04": {"total":25970.00, "RAIL FOR LONDON LIMITED":25970.00},
-			"2020-06": {"total":56770.00, "RAIL FOR LONDON LIMITED":56770.00}
-		}
-	},
-	"1995": {
-		"name": "AVONWOOD DEVELOPMENTS LTD",
-		"total": 5378.8,
-		"monthly": {
-			"2014-01": {"total":3525.00, "unknown":3525.00},
-			"2014-03": {"total":413.62, "unknown":413.62},
-			"2015-06": {"total":414.69, "TUBELINES LTD":414.69},
-			"2016-04": {"total":1025.49, "TUBELINES LTD":1025.49}
-		}
-	},
-	"1996": {
-		"name": "AVPARTMASTER",
-		"total": 591.59,
-		"monthly": {
-			"2015-11": {"total":591.59, "LONDON TRANSPORT MUSEUM":591.59}
-		}
-	},
-	"1997": {
-		"name": "AVR LONDON",
-		"total": 29950,
-		"monthly": {
-			"2014-11": {"total":18350.00, "LONDON UNDERGROUND LTD":18350.00},
-			"2015-08": {"total":1000.00, "LONDON UNDERGROUND LTD":1000.00},
-			"2015-12": {"total":7850.00, "SURFACE TRANSPORT CORP":7850.00},
-			"2019-10": {"total":2750.00, "LONDON UNDERGROUND LTD":2750.00}
-		}
-	},
-	"1998": {
-		"name": "AVRIL  WILLIAMS",
-		"total": 2996.61,
-		"monthly": {
-			"2014-06": {"total":423.60, "LONDON TRANSPORT MUSEUM":423.60},
-			"2014-07": {"total":56.40, "LONDON TRANSPORT MUSEUM":56.40},
-			"2014-12": {"total":2506.29, "LONDON TRANSPORT MUSEUM":2506.29},
-			"2017-03": {"total":10.32, "LONDON TRANSPORT MUSEUM":10.32}
-		}
-	},
-	"1999": {
-		"name": "AVRIL CARSON ASSOCIATES LTD",
-		"total": 3068.2,
-		"monthly": {
-			"2014-11": {"total":3068.20, "TFL CORPORATE":3068.20}
 		}
 	}
 	}

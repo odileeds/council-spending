@@ -1,21 +1,92 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"600": {
+		"name": "ACUTEST",
+		"total": 8483.4,
+		"monthly": {
+			"2019-08": {"total":8483.40, "TFL CORPORATE":8483.40}
+		}
+	},
+	"601": {
+		"name": "ACUUTECH LTD",
+		"alternate-names": [
+			"ACUUTECH LIMITED"
+		],
+		"total": 77000,
+		"monthly": {
+			"2013-05": {"total":3060.00, "Software Maintenance":3060.00},
+			"2014-08": {"total":3060.00, "TRANSPORT TRADING LTD":3060.00},
+			"2015-05": {"total":3060.00, "TRANSPORT TRADING LTD":3060.00},
+			"2016-02": {"total":10200.00, "TUBELINES LTD":10200.00},
+			"2016-07": {"total":3060.00, "TRANSPORT TRADING LTD":3060.00},
+			"2017-04": {"total":15260.00, "TRANSPORT TRADING LTD":3060.00, "TUBELINES LTD":12200.00},
+			"2018-03": {"total":11400.00, "TUBE LINES LTD":11400.00},
+			"2018-04": {"total":3060.00, "TRANSPORT TRADING LTD":3060.00},
+			"2019-03": {"total":11970.00, "TUBE LINES LTD":11970.00},
+			"2020-03": {"total":12870.00, "LONDON UNDERGROUND LTD":12870.00}
+		}
+	},
+	"602": {
+		"name": "ACXIS LTD",
+		"alternate-names": [
+			"ACXIS LIMITED"
+		],
+		"total": 182028.75,
+		"monthly": {
+			"2013-04": {"total":4950.00, "Management & Support Consultancy":4950.00},
+			"2013-09": {"total":49252.50, "Management & Support Consultancy":49252.50},
+			"2013-10": {"total":17325.00, "Management & Support Consultancy":17325.00},
+			"2013-11": {"total":8415.00, "Management & Support Consultancy":8415.00},
+			"2013-12": {"total":5940.00, "Management & Support Consultancy":5940.00},
+			"2014-01": {"total":5445.00, "Management & Support Consultancy":5445.00},
+			"2014-03": {"total":9281.25, "Management & Support Consultancy":9281.25},
+			"2014-04": {"total":11675.00, "TRANSPORT TRADING LTD":11675.00},
+			"2014-05": {"total":8500.00, "TRANSPORT TRADING LTD":8500.00},
+			"2014-09": {"total":14875.00, "TRANSPORT TRADING LTD":14875.00},
+			"2014-12": {"total":8910.00, "TRANSPORT TRADING LTD":8910.00},
+			"2015-04": {"total":13205.00, "TRANSPORT TRADING LTD":13205.00},
+			"2015-07": {"total":3588.75, "TRANSPORT TRADING LTD":3588.75},
+			"2015-10": {"total":3588.75, "TRANSPORT TRADING LTD":3588.75},
+			"2015-11": {"total":3588.75, "TRANSPORT TRADING LTD":3588.75},
+			"2015-12": {"total":3588.75, "TRANSPORT TRADING LTD":3588.75},
+			"2016-01": {"total":4950.00, "TRANSPORT TRADING LTD":4950.00},
+			"2016-05": {"total":4950.00, "TRANSPORT TRADING LTD":4950.00}
+		}
+	},
+	"603": {
+		"name": "AD HOC PROPERTY MANAGEMENT LTD",
+		"alternate-names": [
+			"AD HOC PROPERTY MANAGEMENT LIMITED"
+		],
+		"total": 325,
+		"monthly": {
+			"2014-08": {"total":325.00, "TRANSPORT TRADING LTD":325.00}
+		}
+	},
+	"604": {
+		"name": "ADA CARSON",
+		"total": 681.86,
+		"monthly": {
+			"2013-09": {"total":681.86, "Interpreters":681.86},
+			"2013-10": {"total":0.00, "Interpreters":0.00}
+		}
+	},
+	"605": {
 		"name": "ADAFRUIT INDUSTRIES",
 		"total": 168.23,
 		"monthly": {
 			"2014-06": {"total":168.23, "LONDON TRANSPORT MUSEUM":168.23}
 		}
 	},
-	"601": {
+	"606": {
 		"name": "ADAM ANDREW PATRICK",
 		"total": 10000,
 		"monthly": {
 			"2019-05": {"total":10000.00, "SURFACE TRANSPORT CORP":10000.00}
 		}
 	},
-	"602": {
+	"607": {
 		"name": "ADAM AZIZ",
 		"total": 9000,
 		"monthly": {
@@ -23,14 +94,14 @@
 			"2019-12": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
 		}
 	},
-	"603": {
+	"608": {
 		"name": "ADAM BECKMAN",
 		"total": 375,
 		"monthly": {
 			"2014-08": {"total":375.00, "TFL CORPORATE":375.00}
 		}
 	},
-	"604": {
+	"609": {
 		"name": "ADAM CUTLER",
 		"total": 18000,
 		"monthly": {
@@ -39,12 +110,12 @@
 			"2019-12": {"total":2000.00, "SURFACE TRANSPORT CORP":2000.00}
 		}
 	},
-	"605": {
+	"610": {
 		"name": "ADAM GORDON",
-		"total": 14204.42,
+		"total": 13704.42,
 		"monthly": {
-			"2013-09": {"total":1072.22, "unknown":1072.22},
-			"2013-12": {"total":1817.76, "unknown":1817.76},
+			"2013-09": {"total":1072.22, "Purchase of Books for Resale":1072.22},
+			"2013-12": {"total":1817.76, "Purchase of Books for Resale":1817.76},
 			"2014-10": {"total":339.96, "LT MUSEUM TRADING LTD":339.96},
 			"2014-12": {"total":359.64, "LT MUSEUM TRADING LTD":359.64},
 			"2015-01": {"total":339.96, "LT MUSEUM TRADING LTD":339.96},
@@ -61,35 +132,35 @@
 			"2017-11": {"total":942.96, "LT MUSEUM TRADING LTD":942.96},
 			"2018-01": {"total":1015.45, "LT MUSEUM TRADING LTD":1015.45},
 			"2018-02": {"total":269.98, "LT MUSEUM TRADING LTD":269.98},
-			"2018-08": {"total":598.23, "LT MUSEUM TRADING LTD":598.23},
+			"2018-08": {"total":98.23, "LT MUSEUM TRADING LTD":98.23},
 			"2018-11": {"total":536.47, "LT MUSEUM TRADING LTD":536.47},
 			"2019-01": {"total":453.47, "LT MUSEUM TRADING LTD":453.47},
 			"2019-04": {"total":380.73, "LT MUSEUM TRADING LTD":380.73},
 			"2020-09": {"total":361.67, "LT MUSEUM TRADING LTD":361.67}
 		}
 	},
-	"606": {
+	"611": {
 		"name": "ADAM HABIB",
 		"total": 1000,
 		"monthly": {
 			"2020-01": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
 		}
 	},
-	"607": {
+	"612": {
 		"name": "ADAM HABID",
 		"total": 9000,
 		"monthly": {
 			"2019-07": {"total":9000.00, "SURFACE TRANSPORT CORP":9000.00}
 		}
 	},
-	"608": {
+	"613": {
 		"name": "ADAM HOLLINGWORTH PHOTOGRAPHY",
 		"total": 550,
 		"monthly": {
 			"2015-07": {"total":550.00, "LONDON TRANSPORT MUSEUM":550.00}
 		}
 	},
-	"609": {
+	"614": {
 		"name": "ADAM SHAH SOLICITORS",
 		"total": 550,
 		"monthly": {
@@ -97,44 +168,44 @@
 			"2016-07": {"total":250.00, "LONDON UNDERGROUND LTD":250.00}
 		}
 	},
-	"610": {
+	"615": {
 		"name": "ADAM TERENCE PLACEY",
 		"total": 8000,
 		"monthly": {
 			"2020-04": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
 		}
 	},
-	"611": {
+	"616": {
 		"name": "ADAM WILKINSON",
 		"total": 6500,
 		"monthly": {
 			"2014-05": {"total":6500.00, "SURFACE TRANSPORT CORP":6500.00}
 		}
 	},
-	"612": {
+	"617": {
 		"name": "ADAM&EVEDDB",
 		"total": 5000,
 		"monthly": {
 			"2020-08": {"total":5000.00, "TFL CORPORATE":5000.00}
 		}
 	},
-	"613": {
+	"618": {
 		"name": "ADAMPORT FIRE PROTECTION LTD",
-		"total": 53980.5,
+		"total": 44678.5,
 		"monthly": {
 			"2018-08": {"total":9293.00, "TRANSPORT TRADING LTD":9293.00},
-			"2018-09": {"total":28837.50, "TRANSPORT TRADING LTD":28837.50},
+			"2018-09": {"total":19535.50, "TRANSPORT TRADING LTD":19535.50},
 			"2018-10": {"total":15850.00, "TRANSPORT TRADING LTD":15850.00}
 		}
 	},
-	"614": {
+	"619": {
 		"name": "ADAMS HARRISON OFFICE ACCOUNT",
 		"total": 420,
 		"monthly": {
 			"2020-02": {"total":420.00, "LONDON UNDERGROUND LTD":420.00}
 		}
 	},
-	"615": {
+	"620": {
 		"name": "ADAMS HENDRY CONSULTING LTD",
 		"total": 117769.5,
 		"monthly": {
@@ -150,16 +221,16 @@
 			"2015-02": {"total":32800.00, "TFL CORPORATE":32800.00}
 		}
 	},
-	"616": {
+	"621": {
 		"name": "ADAMS INFRA. PLAN. LTD",
 		"total": 12090,
 		"monthly": {
-			"2013-07": {"total":875.00, "unknown":875.00},
-			"2013-09": {"total":980.00, "unknown":980.00},
+			"2013-07": {"total":875.00, "Legal Fees":875.00},
+			"2013-09": {"total":980.00, "Legal Fees":980.00},
 			"2015-02": {"total":10235.00, "LONDON RIVER SERVICES LTD":10235.00}
 		}
 	},
-	"617": {
+	"622": {
 		"name": "ADAMS LUBETECH LTD",
 		"total": 558.1,
 		"monthly": {
@@ -167,7 +238,7 @@
 			"2016-01": {"total":304.50, "LUL NOMINEE BCV LIMITED":304.50}
 		}
 	},
-	"618": {
+	"623": {
 		"name": "ADAMSON'S LABORATORY SERVICES LTD",
 		"total": 1500,
 		"monthly": {
@@ -175,7 +246,7 @@
 			"2016-03": {"total":750.00, "LONDON UNDERGROUND LTD":750.00}
 		}
 	},
-	"619": {
+	"624": {
 		"name": "ADAPT (UK) LTD",
 		"total": 7888.21,
 		"monthly": {
@@ -185,36 +256,36 @@
 			"2016-09": {"total":6045.65, "TUBELINES LTD":6045.65}
 		}
 	},
-	"620": {
+	"625": {
 		"name": "ADAPT EUROPE LTD",
 		"total": 548.5,
 		"monthly": {
 			"2020-03": {"total":548.50, "LONDON UNDERGROUND LTD":548.50}
 		}
 	},
-	"621": {
+	"626": {
 		"name": "ADAPT UK LTD",
-		"total": 6536.59,
+		"total": 5662.99,
 		"monthly": {
 			"2018-03": {"total":2438.36, "LONDON UNDERGROUND LTD":2438.36},
-			"2018-05": {"total":3081.31, "LONDON UNDERGROUND LTD":3081.31},
+			"2018-05": {"total":2207.71, "LONDON UNDERGROUND LTD":2207.71},
 			"2019-08": {"total":1016.92, "LONDON UNDERGROUND LTD":1016.92}
 		}
 	},
-	"622": {
+	"627": {
 		"name": "ADAPT-IT",
 		"total": 575,
 		"monthly": {
 			"2019-09": {"total":575.00, "TFL CORPORATE":575.00}
 		}
 	},
-	"623": {
+	"628": {
 		"name": "ADAS UK LTD",
 		"total": 161989.9,
 		"monthly": {
-			"2013-12": {"total":21865.00, "unknown":21865.00},
-			"2014-01": {"total":41648.00, "unknown":41648.00},
-			"2014-02": {"total":7321.00, "unknown":7321.00},
+			"2013-12": {"total":21865.00, "Sub-Contractor":21865.00},
+			"2014-01": {"total":41648.00, "Professional Engineering Services":41648.00},
+			"2014-02": {"total":7321.00, "Professional Engineering Services":7321.00},
 			"2014-12": {"total":41648.00, "LONDON UNDERGROUND LTD":41648.00},
 			"2016-01": {"total":3219.02, "LUL NOMINEE SSL LIMITED":3219.02},
 			"2016-02": {"total":1839.43, "LUL NOMINEE SSL LIMITED":1839.43},
@@ -222,7 +293,7 @@
 			"2016-04": {"total":13179.00, "RAIL FOR LONDON LIMITED":13179.00}
 		}
 	},
-	"624": {
+	"629": {
 		"name": "ADBRO CONTROLS LTD",
 		"total": 73474.5,
 		"monthly": {
@@ -230,14 +301,14 @@
 			"2019-04": {"total":40077.00, "LUL NOMINEE SSL LIMITED":40077.00}
 		}
 	},
-	"625": {
+	"630": {
 		"name": "ADBULLAHI MOHAMED DIGE",
 		"total": 9000,
 		"monthly": {
 			"2019-06": {"total":9000.00, "SURFACE TRANSPORT CORP":9000.00}
 		}
 	},
-	"626": {
+	"631": {
 		"name": "ADDACARD LTD",
 		"alternate-names": [
 			"ADDACARD LIMITED"
@@ -247,9 +318,9 @@
 			"2015-08": {"total":432.00, "LONDON UNDERGROUND LTD":432.00}
 		}
 	},
-	"627": {
+	"632": {
 		"name": "ADDEX GROUP",
-		"total": 375424.25,
+		"total": 374723.66,
 		"monthly": {
 			"2016-03": {"total":22752.30, "TUBELINES LTD":22752.30},
 			"2016-05": {"total":8403.60, "TUBELINES LTD":8403.60},
@@ -260,7 +331,7 @@
 			"2016-12": {"total":1756.58, "TUBELINES LTD":1756.58},
 			"2017-01": {"total":665.91, "TUBELINES LTD":665.91},
 			"2017-02": {"total":5567.02, "TUBELINES LTD":5567.02},
-			"2017-03": {"total":10127.42, "TUBELINES LTD":10127.42},
+			"2017-03": {"total":8280.62, "TUBELINES LTD":8280.62},
 			"2017-05": {"total":9524.87, "TUBELINES LTD":9524.87},
 			"2017-06": {"total":10284.90, "TUBELINES LTD":10284.90},
 			"2017-08": {"total":9597.25, "TUBELINES LTD":9597.25},
@@ -291,24 +362,24 @@
 			"2020-04": {"total":46084.34, "LONDON UNDERGROUND LTD":46084.34},
 			"2020-05": {"total":1250.56, "LONDON UNDERGROUND LTD":1250.56},
 			"2020-08": {"total":770.00, "LONDON UNDERGROUND LTD":770.00},
-			"2020-09": {"total":3630.60, "LONDON UNDERGROUND LTD":3630.60}
+			"2020-09": {"total":4776.81, "LONDON UNDERGROUND LTD":4776.81}
 		}
 	},
-	"628": {
+	"633": {
 		"name": "ADDICTION RECOVERY FOUNDATION LTD",
 		"total": 750,
 		"monthly": {
-			"2013-04": {"total":750.00, "unknown":750.00}
+			"2013-04": {"total":750.00, "Staff Training":750.00}
 		}
 	},
-	"629": {
+	"634": {
 		"name": "ADDIES BISTRO BAR",
 		"total": 20.01,
 		"monthly": {
 			"2019-03": {"total":20.01, "TFL CORPORATE":20.01}
 		}
 	},
-	"630": {
+	"635": {
 		"name": "ADDIS HOUSEWARES LTD",
 		"total": 737.29,
 		"monthly": {
@@ -317,13 +388,13 @@
 			"2017-03": {"total":242.35, "LONDON TRANSPORT MUSEUM":242.35}
 		}
 	},
-	"631": {
+	"636": {
 		"name": "ADDISON LEE PLC",
 		"total": 10740.76,
 		"monthly": {
-			"2013-04": {"total":4142.81, "unknown":4142.81},
-			"2013-12": {"total":1063.88, "unknown":1063.88},
-			"2014-01": {"total":1055.52, "unknown":1055.52},
+			"2013-04": {"total":4142.81, "Couriers":1752.08, "Miscellaneous Costs":2390.73},
+			"2013-12": {"total":1063.88, "Couriers":1063.88},
+			"2014-01": {"total":1055.52, "Couriers":1055.52},
 			"2015-02": {"total":1258.60, "LT MUSEUM TRADING LTD":1258.60},
 			"2015-03": {"total":876.78, "LT MUSEUM TRADING LTD":876.78},
 			"2015-04": {"total":607.59, "LT MUSEUM TRADING LTD":607.59},
@@ -333,7 +404,7 @@
 			"2018-01": {"total":552.50, "LONDON UNDERGROUND LTD":552.50}
 		}
 	},
-	"632": {
+	"637": {
 		"name": "ADDISONLEE",
 		"total": 836.54,
 		"monthly": {
@@ -344,7 +415,7 @@
 			"2019-03": {"total":76.67, "TFL CORPORATE":76.67}
 		}
 	},
-	"633": {
+	"638": {
 		"name": "ADDITAE ARTES LTD",
 		"alternate-names": [
 			"ADDITAE ARTES LIMITED"
@@ -355,19 +426,19 @@
 			"2018-11": {"total":9025.00, "TFL CORPORATE":9025.00}
 		}
 	},
-	"634": {
+	"639": {
 		"name": "ADDJECT LTD",
 		"total": 2491.2,
 		"monthly": {
-			"2013-05": {"total":614.40, "unknown":614.40},
-			"2013-07": {"total":614.40, "unknown":614.40},
-			"2013-08": {"total":902.40, "unknown":902.40},
-			"2013-12": {"total":360.00, "unknown":360.00}
+			"2013-05": {"total":614.40, "Purchase of Souvenirs for Resale":614.40},
+			"2013-07": {"total":614.40, "Purchase of Souvenirs for Resale":614.40},
+			"2013-08": {"total":902.40, "Purchase of Souvenirs for Resale":902.40},
+			"2013-12": {"total":360.00, "Purchase of Souvenirs for Resale":360.00}
 		}
 	},
-	"635": {
+	"640": {
 		"name": "ADDLESHAW GODDARD LLP",
-		"total": 589602.14,
+		"total": 592602.14,
 		"monthly": {
 			"2016-05": {"total":30877.50, "RAIL FOR LONDON LIMITED":30877.50},
 			"2016-09": {"total":53936.90, "RAIL FOR LONDON LIMITED":53936.90},
@@ -390,17 +461,18 @@
 			"2020-02": {"total":26032.50, "LONDON BUS SERVICES LTD":26032.50},
 			"2020-03": {"total":181149.50, "LONDON BUS SERVICES LTD":79228.50, "LONDON UNDERGROUND LTD":91445.00, "PUBLIC CARRIAGE OFFICE":10476.00},
 			"2020-05": {"total":82118.50, "LONDON BUS SERVICES LTD":50272.50, "LONDON UNDERGROUND LTD":25192.50, "TFL CORPORATE":6653.50},
-			"2020-09": {"total":1323.00, "PUBLIC CARRIAGE OFFICE":1323.00}
+			"2020-09": {"total":1323.00, "PUBLIC CARRIAGE OFFICE":1323.00},
+			"2020-10": {"total":3000.00, "LONDON BUS SERVICES LTD":3000.00}
 		}
 	},
-	"636": {
+	"641": {
 		"name": "ADE SHODIMU",
 		"total": 250,
 		"monthly": {
 			"2018-06": {"total":250.00, "LONDON BUS SERVICES LTD":250.00}
 		}
 	},
-	"637": {
+	"642": {
 		"name": "ADEC MARINE LTD",
 		"total": 1211.45,
 		"monthly": {
@@ -409,22 +481,22 @@
 			"2019-01": {"total":349.10, "LONDON RIVER SERVICES LTD":349.10}
 		}
 	},
-	"638": {
+	"643": {
 		"name": "ADECCO UK LTD",
-		"total": 943483.290000001,
+		"total": 875745.870000001,
 		"monthly": {
-			"2013-04": {"total":21872.35, "unknown":21872.35},
-			"2013-05": {"total":25443.12, "unknown":25443.12},
-			"2013-06": {"total":28610.39, "unknown":28610.39},
-			"2013-07": {"total":38158.75, "unknown":38158.75},
-			"2013-08": {"total":40203.09, "unknown":40203.09},
-			"2013-09": {"total":23212.73, "unknown":23212.73},
-			"2013-10": {"total":46150.54, "unknown":46150.54},
-			"2013-11": {"total":24910.79, "unknown":24910.79},
-			"2013-12": {"total":24746.03, "unknown":24746.03},
-			"2014-01": {"total":21135.77, "unknown":21135.77},
-			"2014-02": {"total":18578.53, "unknown":18578.53},
-			"2014-03": {"total":35699.05, "unknown":35699.05},
+			"2013-04": {"total":21872.35, "Agency Staff":21872.35},
+			"2013-05": {"total":22342.12, "Agency Staff":22342.12},
+			"2013-06": {"total":22600.16, "Agency Staff":22600.16},
+			"2013-07": {"total":34689.70, "Agency Staff":34689.70},
+			"2013-08": {"total":22592.77, "Agency Staff":22592.77},
+			"2013-09": {"total":23212.73, "Agency Staff":23212.73},
+			"2013-10": {"total":17767.57, "Agency Staff":17767.57},
+			"2013-11": {"total":17570.93, "Agency Staff":17570.93},
+			"2013-12": {"total":22922.04, "Agency Staff":22922.04},
+			"2014-01": {"total":21135.77, "Agency Staff":21135.77},
+			"2014-02": {"total":18578.53, "Agency Staff":18578.53},
+			"2014-03": {"total":35699.05, "Agency Staff":35699.05},
 			"2014-04": {"total":54075.13, "LONDON UNDERGROUND LTD":12869.54, "PUBLIC CARRIAGE OFFICE":10930.43, "SURFACE TRANSPORT CORP":1962.12, "TFL CORPORATE":5275.60, "TRANSPORT TRADING LTD":23037.44},
 			"2014-05": {"total":32826.55, "LONDON UNDERGROUND LTD":6071.41, "PUBLIC CARRIAGE OFFICE":7049.63, "SURFACE TRANSPORT CORP":1697.16, "TFL CORPORATE":5734.99, "TRANSPORT TRADING LTD":12273.36},
 			"2014-06": {"total":68068.44, "LONDON UNDERGROUND LTD":11826.31, "PUBLIC CARRIAGE OFFICE":11952.90, "SURFACE TRANSPORT CORP":3252.89, "TFL CORPORATE":13698.86, "TRANSPORT TRADING LTD":26799.40, "VICTORIA COACH STATN LTD":538.08},
@@ -436,14 +508,14 @@
 			"2014-12": {"total":26425.49, "DIAL A RIDE":646.10, "LONDON UNDERGROUND LTD":2678.79, "PUBLIC CARRIAGE OFFICE":2373.28, "SURFACE TRANSPORT CORP":2803.30, "TFL CORPORATE":12434.75, "TRANSPORT TRADING LTD":5489.27}
 		}
 	},
-	"639": {
+	"644": {
 		"name": "ADEKUNLE LAWSON",
 		"total": 250,
 		"monthly": {
 			"2018-10": {"total":250.00, "LONDON BUS SERVICES LTD":250.00}
 		}
 	},
-	"640": {
+	"645": {
 		"name": "ADELAJA AYINLA YINUSA",
 		"total": 10000,
 		"monthly": {
@@ -451,11 +523,11 @@
 			"2019-10": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
 		}
 	},
-	"641": {
+	"646": {
 		"name": "ADELARD LLP",
 		"total": 52900,
 		"monthly": {
-			"2013-12": {"total":21450.00, "unknown":21450.00},
+			"2013-12": {"total":21450.00, "Software Maintenance":21450.00},
 			"2014-12": {"total":2600.00, "LONDON UNDERGROUND LTD":2600.00},
 			"2015-02": {"total":2600.00, "LONDON UNDERGROUND LTD":2600.00},
 			"2016-01": {"total":650.00, "LONDON UNDERGROUND LTD":650.00},
@@ -464,7 +536,7 @@
 			"2016-07": {"total":8450.00, "LONDON UNDERGROUND LTD":8450.00}
 		}
 	},
-	"642": {
+	"647": {
 		"name": "ADELE FLETCHER",
 		"total": 750,
 		"monthly": {
@@ -472,7 +544,7 @@
 			"2018-07": {"total":500.00, "TFL CORPORATE":500.00}
 		}
 	},
-	"643": {
+	"648": {
 		"name": "ADELPHI ASSOCIATES",
 		"total": 4445,
 		"monthly": {
@@ -480,152 +552,13 @@
 			"2016-11": {"total":3287.00, "SURFACE TRANSPORT CORP":3287.00}
 		}
 	},
-	"644": {
+	"649": {
 		"name": "ADEPT",
 		"total": 12000,
 		"monthly": {
 			"2016-07": {"total":3000.00, "SURFACE TRANSPORT CORP":3000.00},
 			"2017-04": {"total":3000.00, "SURFACE TRANSPORT CORP":3000.00},
 			"2019-02": {"total":6000.00, "SURFACE TRANSPORT CORP":6000.00}
-		}
-	},
-	"645": {
-		"name": "ADEPT CONTRACTS LTD",
-		"total": 608066.86,
-		"monthly": {
-			"2016-01": {"total":5053.51, "TRANSPORT TRADING LTD":5053.51},
-			"2016-02": {"total":5557.51, "TRANSPORT TRADING LTD":5557.51},
-			"2016-07": {"total":570.00, "LONDON UNDERGROUND LTD":570.00},
-			"2016-10": {"total":2850.00, "LONDON UNDERGROUND LTD":2850.00},
-			"2016-11": {"total":28928.50, "LONDON UNDERGROUND LTD":28928.50},
-			"2016-12": {"total":4049.13, "LONDON UNDERGROUND LTD":4049.13},
-			"2017-01": {"total":74003.94, "LONDON UNDERGROUND LTD":2759.94, "LUL NOMINEE SSL LIMITED":71244.00},
-			"2017-03": {"total":9067.65, "LONDON UNDERGROUND LTD":9067.65},
-			"2017-05": {"total":9040.00, "LONDON UNDERGROUND LTD":9040.00},
-			"2017-07": {"total":7055.00, "LUL NOMINEE SSL LIMITED":7055.00},
-			"2017-12": {"total":271490.45, "LONDON UNDERGROUND LTD":271490.45},
-			"2018-01": {"total":9475.84, "LONDON UNDERGROUND LTD":9475.84},
-			"2018-02": {"total":50030.66, "LONDON UNDERGROUND LTD":50030.66},
-			"2018-03": {"total":300.00, "LONDON UNDERGROUND LTD":300.00},
-			"2018-04": {"total":1849.66, "LONDON UNDERGROUND LTD":1849.66},
-			"2018-05": {"total":24150.42, "LONDON UNDERGROUND LTD":23782.92, "RAIL FOR LONDON LIMITED":367.50},
-			"2018-06": {"total":17576.46, "LONDON UNDERGROUND LTD":17576.46},
-			"2018-07": {"total":1849.18, "LONDON UNDERGROUND LTD":300.00, "TRANSPORT TRADING LTD":1549.18},
-			"2018-08": {"total":1160.00, "LONDON UNDERGROUND LTD":310.00, "LUL NOMINEE SSL LIMITED":850.00},
-			"2018-11": {"total":1269.71, "LONDON UNDERGROUND LTD":1269.71},
-			"2019-01": {"total":16098.13, "LONDON UNDERGROUND LTD":16098.13},
-			"2019-02": {"total":3442.50, "LONDON UNDERGROUND LTD":1500.00, "LUL NOMINEE SSL LIMITED":1942.50},
-			"2019-05": {"total":3247.22, "LONDON UNDERGROUND LTD":1709.38, "TRANSPORT TRADING LTD":1537.84},
-			"2019-12": {"total":56770.00, "LONDON UNDERGROUND LTD":56770.00},
-			"2020-01": {"total":2286.77, "LONDON UNDERGROUND LTD":2286.77},
-			"2020-03": {"total":444.62, "TRANSPORT TRADING LTD":444.62},
-			"2020-09": {"total":450.00, "LONDON UNDERGROUND LTD":450.00}
-		}
-	},
-	"646": {
-		"name": "ADEPT TELECOM PLC",
-		"total": 13328.76,
-		"monthly": {
-			"2013-08": {"total":606.58, "unknown":606.58},
-			"2013-09": {"total":295.78, "unknown":295.78},
-			"2013-11": {"total":635.21, "unknown":635.21},
-			"2014-01": {"total":783.81, "unknown":783.81},
-			"2014-02": {"total":302.43, "unknown":302.43},
-			"2014-03": {"total":396.03, "unknown":396.03},
-			"2014-04": {"total":381.57, "RAIL FOR LONDON LIMITED":381.57},
-			"2014-06": {"total":694.24, "RAIL FOR LONDON LIMITED":694.24},
-			"2014-07": {"total":350.90, "RAIL FOR LONDON LIMITED":350.90},
-			"2014-09": {"total":726.83, "RAIL FOR LONDON LIMITED":726.83},
-			"2014-10": {"total":350.80, "RAIL FOR LONDON LIMITED":350.80},
-			"2014-11": {"total":348.48, "RAIL FOR LONDON LIMITED":348.48},
-			"2015-01": {"total":725.16, "RAIL FOR LONDON LIMITED":725.16},
-			"2015-02": {"total":344.19, "RAIL FOR LONDON LIMITED":344.19},
-			"2015-03": {"total":337.18, "RAIL FOR LONDON LIMITED":337.18},
-			"2015-04": {"total":349.83, "RAIL FOR LONDON LIMITED":349.83},
-			"2015-05": {"total":333.69, "RAIL FOR LONDON LIMITED":333.69},
-			"2015-06": {"total":350.52, "RAIL FOR LONDON LIMITED":350.52},
-			"2015-07": {"total":335.61, "RAIL FOR LONDON LIMITED":335.61},
-			"2015-08": {"total":341.22, "RAIL FOR LONDON LIMITED":341.22},
-			"2015-09": {"total":342.73, "RAIL FOR LONDON LIMITED":342.73},
-			"2015-11": {"total":676.69, "RAIL FOR LONDON LIMITED":676.69},
-			"2015-12": {"total":332.34, "RAIL FOR LONDON LIMITED":332.34},
-			"2016-01": {"total":333.42, "RAIL FOR LONDON LIMITED":333.42},
-			"2016-02": {"total":336.41, "RAIL FOR LONDON LIMITED":336.41},
-			"2016-03": {"total":330.45, "RAIL FOR LONDON LIMITED":330.45},
-			"2016-04": {"total":330.45, "RAIL FOR LONDON LIMITED":330.45},
-			"2016-05": {"total":331.07, "RAIL FOR LONDON LIMITED":331.07},
-			"2016-06": {"total":330.44, "RAIL FOR LONDON LIMITED":330.44},
-			"2016-07": {"total":330.46, "RAIL FOR LONDON LIMITED":330.46},
-			"2016-08": {"total":333.80, "RAIL FOR LONDON LIMITED":333.80},
-			"2016-10": {"total":330.44, "RAIL FOR LONDON LIMITED":330.44}
-		}
-	},
-	"647": {
-		"name": "ADFIELD HARVEY LTD",
-		"total": 675295.45,
-		"monthly": {
-			"2013-09": {"total":41163.50, "unknown":41163.50},
-			"2013-11": {"total":17793.00, "unknown":17793.00},
-			"2014-01": {"total":844.00, "unknown":844.00},
-			"2014-03": {"total":11270.00, "unknown":11270.00},
-			"2014-05": {"total":9620.00, "LONDON BUS SERVICES LTD":9620.00},
-			"2014-06": {"total":37032.00, "LONDON BUS SERVICES LTD":37032.00},
-			"2014-07": {"total":4072.00, "PUBLIC CARRIAGE OFFICE":4072.00},
-			"2014-08": {"total":24700.00, "TFL CORPORATE":24700.00},
-			"2014-09": {"total":2650.00, "TFL CORPORATE":2650.00},
-			"2014-10": {"total":4670.00, "TFL CORPORATE":4670.00},
-			"2014-11": {"total":16236.00, "TFL CORPORATE":16236.00},
-			"2015-02": {"total":59705.25, "LONDON UNDERGROUND LTD":59705.25},
-			"2015-03": {"total":15445.00, "RAIL FOR LONDON LIMITED":6495.00, "TFL CORPORATE":8950.00},
-			"2015-04": {"total":42100.00, "TFL CORPORATE":42100.00},
-			"2015-05": {"total":1050.00, "LONDON UNDERGROUND LTD":1050.00},
-			"2015-06": {"total":11694.65, "LONDON UNDERGROUND LTD":395.00, "RAIL FOR LONDON LIMITED":872.40, "TFL CORPORATE":10427.25},
-			"2015-07": {"total":10228.15, "LUL NOMINEE SSL LIMITED":4989.50, "SURFACE TRANSPORT CORP":4613.65, "TFL CORPORATE":625.00},
-			"2015-08": {"total":1854.00, "LONDON UNDERGROUND LTD":1424.00, "LUL NOMINEE SSL LIMITED":430.00},
-			"2015-09": {"total":1125.00, "TFL CORPORATE":1125.00},
-			"2015-10": {"total":2435.70, "TFL CORPORATE":2435.70},
-			"2015-11": {"total":944.00, "LONDON UNDERGROUND LTD":944.00},
-			"2015-12": {"total":23774.95, "LONDON UNDERGROUND LTD":5924.95, "TFL CORPORATE":17850.00},
-			"2016-01": {"total":1650.00, "LONDON UNDERGROUND LTD":1650.00},
-			"2016-02": {"total":28171.00, "SURFACE TRANSPORT CORP":8855.00, "TFL CORPORATE":19316.00},
-			"2016-03": {"total":26065.00, "TFL CORPORATE":26065.00},
-			"2016-04": {"total":9560.00, "TFL CORPORATE":9560.00},
-			"2017-04": {"total":18000.00, "TFL CORPORATE":18000.00},
-			"2017-08": {"total":9450.00, "TFL CORPORATE":9450.00},
-			"2018-01": {"total":15172.50, "TFL CORPORATE":15172.50},
-			"2018-02": {"total":10212.00, "TFL CORPORATE":10212.00},
-			"2018-03": {"total":9650.00, "TFL CORPORATE":9650.00},
-			"2018-07": {"total":15437.00, "TFL CORPORATE":15437.00},
-			"2018-09": {"total":15750.00, "TFL CORPORATE":15750.00},
-			"2018-10": {"total":22147.90, "TFL CORPORATE":22147.90},
-			"2018-12": {"total":27035.65, "TFL CORPORATE":27035.65},
-			"2019-03": {"total":11450.00, "TFL CORPORATE":11450.00},
-			"2019-04": {"total":4500.00, "TFL CORPORATE":4500.00},
-			"2019-06": {"total":18100.00, "TFL CORPORATE":18100.00},
-			"2019-07": {"total":32350.00, "TFL CORPORATE":32350.00},
-			"2019-08": {"total":6215.00, "RAIL FOR LONDON LIMITED":6215.00},
-			"2019-09": {"total":6966.00, "TFL CORPORATE":6966.00},
-			"2019-11": {"total":9700.00, "TFL CORPORATE":9700.00},
-			"2019-12": {"total":9200.00, "TFL CORPORATE":9200.00},
-			"2020-03": {"total":13175.00, "TFL CORPORATE":13175.00},
-			"2020-09": {"total":14931.20, "TFL CORPORATE":14931.20}
-		}
-	},
-	"648": {
-		"name": "ADGIFT DISCOUNTS",
-		"total": 1993.2,
-		"monthly": {
-			"2015-08": {"total":1993.20, "LONDON UNDERGROUND LTD":1993.20}
-		}
-	},
-	"649": {
-		"name": "ADH LAW",
-		"alternate-names": [
-			"ADH LAW."
-		],
-		"total": 2500,
-		"monthly": {
-			"2017-07": {"total":2500.00, "PUBLIC CARRIAGE OFFICE":2500.00}
 		}
 	}
 	}

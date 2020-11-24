@@ -1,36 +1,283 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"1200": {
+		"name": "AMEY KEOLIS PROJECTS",
+		"total": 142170,
+		"monthly": {
+			"2016-06": {"total":27030.00, "DOCKLANDS LIGHT RAILWAY":27030.00},
+			"2016-07": {"total":55400.00, "DOCKLANDS LIGHT RAILWAY":55400.00},
+			"2016-09": {"total":15965.00, "DOCKLANDS LIGHT RAILWAY":15965.00},
+			"2016-11": {"total":18540.00, "DOCKLANDS LIGHT RAILWAY":18540.00},
+			"2016-12": {"total":18540.00, "DOCKLANDS LIGHT RAILWAY":18540.00},
+			"2017-01": {"total":6695.00, "DOCKLANDS LIGHT RAILWAY":6695.00}
+		}
+	},
+	"1201": {
+		"name": "AMEY LG LTD",
+		"alternate-names": [
+			"AMEY LG LIMITED"
+		],
+		"total": 11902386.68,
+		"monthly": {
+			"2013-04": {"total":4445336.97, "Contracted Services - Highway Bridges":3383479.81, "Road Maintenance":1061857.16},
+			"2013-05": {"total":1732701.91, "Contracted Services - Roads":454994.07, "Road Maintenance":1053747.34, "Traffic Signals":223960.50},
+			"2013-06": {"total":1036509.82, "Contracted Services - Roads":225423.57, "Road Maintenance":774557.07, "Traffic Signals":36529.18},
+			"2013-07": {"total":887103.21, "Contracted Services - Roads":11661.20, "Road Maintenance":778972.94, "Traffic Signals":96469.07},
+			"2013-08": {"total":162741.06, "Contracted Services - Roads":73289.59, "Road Maintenance":32897.96, "Traffic Signals":56553.51},
+			"2013-09": {"total":82117.54, "Contracted Services - Roads":10843.94, "Traffic Signals":71273.60},
+			"2013-10": {"total":6458.85, "Traffic Signals":6458.85},
+			"2013-11": {"total":963707.77, "Contracted Services - Highway Bridges":889760.29, "Retentions Control Account > 1Year":-159519.82, "Road Maintenance":117478.54, "Traffic Signals":115988.76},
+			"2013-12": {"total":882848.74, "Contracted Services - Roads":104416.83, "Road Maintenance":778431.91},
+			"2014-01": {"total":54372.69, "Contracted Services - Roads":54372.69},
+			"2014-02": {"total":1648488.12, "Contracted Services - Highway Bridges":1648488.12}
+		}
+	},
+	"1202": {
+		"name": "AMEY LTD",
+		"total": 2972.74,
+		"monthly": {
+			"2014-06": {"total":1486.37, "LONDON UNDERGROUND LTD":1486.37},
+			"2014-07": {"total":1486.37, "LONDON UNDERGROUND LTD":1486.37}
+		}
+	},
+	"1203": {
+		"name": "AMEY LUL 2 LTD",
+		"alternate-names": [
+			"AMEY LUL 2 LIMITED"
+		],
+		"total": 187284370.08,
+		"monthly": {
+			"2013-07": {"total":346955.00, "Maintenance & Operations":346955.00},
+			"2013-08": {"total":393073.33, "Maintenance & Operations":393073.33},
+			"2013-09": {"total":510847.11, "Maintenance & Operations":510847.11},
+			"2013-10": {"total":358304.20, "Maintenance & Operations":358304.20},
+			"2013-11": {"total":67196.48, "Maintenance & Operations":67196.48},
+			"2013-12": {"total":38826142.87, "Maintenance & Operations":38826142.87},
+			"2014-01": {"total":420501.73, "Maintenance & Operations":420501.73},
+			"2014-02": {"total":341150.36, "Maintenance & Operations":341150.36},
+			"2014-03": {"total":512955.33, "Maintenance & Operations":512955.33},
+			"2014-04": {"total":331036.90, "TUBE LINES LTD":331036.90},
+			"2014-05": {"total":415112.60, "TUBE LINES LTD":415112.60},
+			"2014-06": {"total":4837144.49, "TUBE LINES LTD":4837144.49},
+			"2014-07": {"total":110423.54, "LONDON UNDERGROUND LTD":1486.37, "TUBE LINES LTD":108937.17},
+			"2014-08": {"total":589467.89, "TUBE LINES LTD":589467.89},
+			"2014-09": {"total":409503.63, "TUBE LINES LTD":409503.63},
+			"2014-10": {"total":163397.14, "TUBE LINES LTD":163397.14},
+			"2014-11": {"total":89436.32, "TUBE LINES LTD":89436.32},
+			"2014-12": {"total":41285758.23, "TUBE LINES LTD":41285758.23},
+			"2015-01": {"total":230335.03, "TUBE LINES LTD":230335.03},
+			"2015-02": {"total":224122.92, "TUBE LINES LTD":224122.92},
+			"2015-03": {"total":265221.05, "TUBELINES LTD":265221.05},
+			"2015-04": {"total":297449.65, "TUBELINES LTD":297449.65},
+			"2015-05": {"total":301593.44, "TUBELINES LTD":301593.44},
+			"2015-06": {"total":4880743.35, "TUBELINES LTD":4880743.35},
+			"2015-07": {"total":343306.18, "TUBELINES LTD":343306.18},
+			"2015-08": {"total":321172.68, "TUBELINES LTD":321172.68},
+			"2015-09": {"total":267645.30, "TUBELINES LTD":267645.30},
+			"2015-10": {"total":307867.60, "TUBELINES LTD":307867.60},
+			"2015-11": {"total":396760.58, "TUBE LINES LTD":396760.58},
+			"2015-12": {"total":33115818.03, "TUBELINES LTD":33115818.03},
+			"2016-01": {"total":320417.86, "TUBELINES LTD":320417.86},
+			"2016-02": {"total":260544.44, "TUBELINES LTD":260544.44},
+			"2016-03": {"total":295328.57, "TUBELINES LTD":295328.57},
+			"2016-04": {"total":286439.71, "TUBELINES LTD":286439.71},
+			"2016-05": {"total":261461.70, "TUBELINES LTD":261461.70},
+			"2016-06": {"total":3328088.09, "TUBELINES LTD":3328088.09},
+			"2016-07": {"total":305267.04, "TUBELINES LTD":305267.04},
+			"2016-08": {"total":336229.25, "TUBELINES LTD":336229.25},
+			"2016-09": {"total":321641.10, "TUBELINES LTD":321641.10},
+			"2016-10": {"total":292174.39, "TUBELINES LTD":292174.39},
+			"2016-11": {"total":292916.11, "TUBELINES LTD":292916.11},
+			"2016-12": {"total":22957095.11, "TUBELINES LTD":22957095.11},
+			"2017-01": {"total":260483.87, "TUBELINES LTD":260483.87},
+			"2017-02": {"total":128285.61, "TUBELINES LTD":128285.61},
+			"2017-03": {"total":181331.04, "TUBELINES LTD":181331.04},
+			"2017-04": {"total":131541.82, "TUBELINES LTD":131541.82},
+			"2017-06": {"total":281192.25, "TUBELINES LTD":281192.25},
+			"2017-07": {"total":103150.60, "TUBELINES LTD":103150.60},
+			"2017-08": {"total":6518369.87, "TUBELINES LTD":6518369.87},
+			"2017-09": {"total":278578.47, "TUBE LINES LTD":278578.47},
+			"2017-11": {"total":228341.92, "TUBE LINES LTD":228341.92},
+			"2017-12": {"total":15510347.08, "TUBE LINES LTD":15510347.08},
+			"2018-02": {"total":245667.77, "TUBE LINES LTD":245667.77},
+			"2018-03": {"total":99033.45, "TUBE LINES LTD":99033.45},
+			"2018-04": {"total":3100000.00, "TUBE LINES LTD":3100000.00}
+		}
+	},
+	"1204": {
+		"name": "AMEY METERING LTD",
+		"total": 809434.09,
+		"monthly": {
+			"2014-10": {"total":642636.29, "LONDON UNDERGROUND LTD":642636.29},
+			"2014-11": {"total":100000.00, "LONDON UNDERGROUND LTD":100000.00},
+			"2016-02": {"total":3622.92, "LONDON UNDERGROUND LTD":3622.92},
+			"2016-03": {"total":830.62, "LONDON UNDERGROUND LTD":830.62},
+			"2016-07": {"total":16603.09, "LONDON UNDERGROUND LTD":16603.09},
+			"2016-08": {"total":23171.24, "LONDON UNDERGROUND LTD":23171.24},
+			"2016-10": {"total":830.62, "LONDON UNDERGROUND LTD":830.62},
+			"2016-11": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2016-12": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-01": {"total":8129.60, "LONDON UNDERGROUND LTD":8129.60},
+			"2017-02": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-03": {"total":1919.20, "LONDON UNDERGROUND LTD":1919.20},
+			"2017-05": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-06": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-07": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-08": {"total":1919.20, "LONDON UNDERGROUND LTD":1919.20},
+			"2017-10": {"total":959.60, "LONDON UNDERGROUND LTD":959.60},
+			"2017-11": {"total":3054.11, "LONDON UNDERGROUND LTD":3054.11}
+		}
+	},
+	"1205": {
+		"name": "AMEY OWR LTD",
+		"alternate-names": [
+			"AMEY OWR LIMITED"
+		],
+		"total": 2503828.92,
+		"monthly": {
+			"2013-07": {"total":89198.33, "Security Equipment":39998.33, "Sub-Contractor":49200.00},
+			"2013-09": {"total":70394.69, "Building Maintenance & Repairs":46920.94, "Materials":22353.75, "Security Equipment":1120.00},
+			"2013-10": {"total":92481.50, "Building Maintenance & Repairs":16161.58, "Subcontractor Labour":76319.92},
+			"2013-11": {"total":35617.20, "Materials":12498.60, "Staff":23118.60},
+			"2013-12": {"total":90555.67, "Maintenance & Operations":63098.38, "Materials":6628.86, "Security Equipment":5796.92, "Staff":15031.51},
+			"2014-02": {"total":18800.99, "Staff":18800.99},
+			"2014-03": {"total":1841.50, "Materials":1841.50},
+			"2014-04": {"total":38865.02, "TUBE LINES LTD":38865.02},
+			"2014-05": {"total":56950.00, "TUBE LINES LTD":56950.00},
+			"2014-06": {"total":32953.97, "TUBE LINES LTD":32953.97},
+			"2014-07": {"total":20970.59, "RAIL FOR LONDON LIMITED":18233.89, "TUBE LINES LTD":2736.70},
+			"2014-08": {"total":35548.00, "LUL NOMINEE SSL LIMITED":1087.00, "TUBE LINES LTD":34461.00},
+			"2014-09": {"total":42792.68, "TUBE LINES LTD":42792.68},
+			"2014-11": {"total":42663.20, "LUL NOMINEE SSL LIMITED":1186.11, "TUBE LINES LTD":41477.09},
+			"2014-12": {"total":52590.89, "LUL NOMINEE SSL LIMITED":2058.00, "TUBE LINES LTD":50532.89},
+			"2015-01": {"total":63306.20, "TUBE LINES LTD":63306.20},
+			"2015-03": {"total":139546.40, "RAIL FOR LONDON LIMITED":70375.83, "TUBELINES LTD":69170.57},
+			"2015-04": {"total":12065.24, "TUBELINES LTD":12065.24},
+			"2015-07": {"total":56332.50, "TUBELINES LTD":56332.50},
+			"2015-08": {"total":40635.87, "RAIL FOR LONDON LIMITED":5004.68, "TUBELINES LTD":35631.19},
+			"2015-09": {"total":56345.64, "RAIL FOR LONDON LIMITED":19775.25, "TUBELINES LTD":36570.39},
+			"2015-10": {"total":19959.90, "RAIL FOR LONDON LIMITED":5722.00, "TUBELINES LTD":14237.90},
+			"2015-11": {"total":20153.41, "RAIL FOR LONDON LIMITED":5915.52, "TUBE LINES LTD":14237.89},
+			"2015-12": {"total":28971.28, "TUBELINES LTD":28971.28},
+			"2016-03": {"total":24025.84, "RAIL FOR LONDON LIMITED":6672.92, "TUBELINES LTD":17352.92},
+			"2016-04": {"total":9984.00, "TUBELINES LTD":9984.00},
+			"2016-06": {"total":33288.32, "RAIL FOR LONDON LIMITED":5669.24, "TUBELINES LTD":27619.08},
+			"2016-07": {"total":30264.11, "RAIL FOR LONDON LIMITED":11818.43, "TUBELINES LTD":18445.68},
+			"2016-08": {"total":15500.00, "RAIL FOR LONDON LIMITED":15500.00},
+			"2016-09": {"total":27610.04, "TUBELINES LTD":27610.04},
+			"2016-10": {"total":32211.44, "RAIL FOR LONDON LIMITED":11032.99, "TUBELINES LTD":21178.45},
+			"2016-11": {"total":9471.84, "TUBELINES LTD":9471.84},
+			"2016-12": {"total":37657.52, "RAIL FOR LONDON LIMITED":14473.43, "TUBELINES LTD":23184.09},
+			"2017-09": {"total":42807.94, "TUBE LINES LTD":42807.94},
+			"2017-10": {"total":60952.18, "DOCKLANDS LIGHT RAILWAY":60952.18},
+			"2017-11": {"total":28790.82, "DOCKLANDS LIGHT RAILWAY":28790.82},
+			"2017-12": {"total":4915.28, "TUBE LINES LTD":4915.28},
+			"2018-04": {"total":12969.00, "TFL CORPORATE":12969.00},
+			"2018-10": {"total":3480.91, "RAIL FOR LONDON LIMITED":3480.91},
+			"2018-12": {"total":49500.07, "RAIL FOR LONDON LIMITED":49500.07},
+			"2019-01": {"total":57015.46, "LONDON UNDERGROUND LTD":26218.46, "RAIL FOR LONDON LIMITED":30797.00},
+			"2019-02": {"total":3924.47, "RAIL FOR LONDON LIMITED":1351.21, "TFL CORPORATE":2573.26},
+			"2019-03": {"total":82217.65, "RAIL FOR LONDON LIMITED":82217.65},
+			"2019-04": {"total":7364.11, "RAIL FOR LONDON LIMITED":7364.11},
+			"2019-05": {"total":157188.45, "RAIL FOR LONDON LIMITED":157188.45},
+			"2019-08": {"total":92290.09, "LONDON UNDERGROUND LTD":92290.09},
+			"2019-10": {"total":58311.97, "LONDON UNDERGROUND LTD":971.00, "RAIL FOR LONDON LIMITED":57340.97},
+			"2019-11": {"total":105170.17, "RAIL FOR LONDON LIMITED":105170.17},
+			"2019-12": {"total":11262.65, "RAIL FOR LONDON LIMITED":11262.65},
+			"2020-01": {"total":250000.00, "RAIL FOR LONDON LIMITED":250000.00},
+			"2020-03": {"total":96113.92, "RAIL FOR LONDON LIMITED":96113.92}
+		}
+	},
+	"1206": {
+		"name": "AMEY TPT LTD",
+		"total": 247648.44,
+		"monthly": {
+			"2016-09": {"total":4615.38, "TRANSPORT TRADING LTD":4615.38},
+			"2016-10": {"total":2307.69, "TRANSPORT TRADING LTD":2307.69},
+			"2017-02": {"total":23076.92, "TRANSPORT TRADING LTD":23076.92},
+			"2017-03": {"total":24692.30, "TRANSPORT TRADING LTD":24692.30},
+			"2017-04": {"total":11538.46, "TRANSPORT TRADING LTD":11538.46},
+			"2017-05": {"total":15576.92, "TRANSPORT TRADING LTD":15576.92},
+			"2017-06": {"total":11884.61, "TRANSPORT TRADING LTD":11884.61},
+			"2017-07": {"total":12461.54, "TRANSPORT TRADING LTD":12461.54},
+			"2017-08": {"total":12461.54, "TRANSPORT TRADING LTD":12461.54},
+			"2017-09": {"total":23769.22, "TRANSPORT TRADING LTD":23769.22},
+			"2017-10": {"total":11884.61, "TRANSPORT TRADING LTD":11884.61},
+			"2017-11": {"total":11884.61, "TRANSPORT TRADING LTD":11884.61},
+			"2017-12": {"total":11110.05, "TRANSPORT TRADING LTD":11110.05},
+			"2018-01": {"total":23423.07, "TRANSPORT TRADING LTD":23423.07},
+			"2018-02": {"total":346.15, "TRANSPORT TRADING LTD":346.15},
+			"2018-03": {"total":23769.22, "TRANSPORT TRADING LTD":23769.22},
+			"2018-04": {"total":13269.23, "TRANSPORT TRADING LTD":13269.23},
+			"2018-05": {"total":9576.92, "TRANSPORT TRADING LTD":9576.92}
+		}
+	},
+	"1207": {
+		"name": "AMICI CONSULTING",
+		"total": 101300,
+		"monthly": {
+			"2013-05": {"total":4050.00, "Staff Training":4050.00},
+			"2013-07": {"total":900.00, "Staff Training":900.00},
+			"2013-08": {"total":1350.00, "Staff Training":1350.00},
+			"2013-10": {"total":2250.00, "Staff Training":2250.00},
+			"2013-12": {"total":3600.00, "Management & Support Consultancy":3600.00},
+			"2014-01": {"total":1350.00, "Management & Support Consultancy":1350.00},
+			"2014-02": {"total":3600.00, "Management & Support Consultancy":3150.00, "Staff Training":450.00},
+			"2014-03": {"total":7200.00, "Management & Support Consultancy":3150.00, "Staff Training":4050.00},
+			"2014-05": {"total":1200.00, "TFL CORPORATE":1200.00},
+			"2014-12": {"total":3600.00, "TFL CORPORATE":3600.00},
+			"2015-02": {"total":5400.00, "TFL CORPORATE":5400.00},
+			"2015-03": {"total":5400.00, "TFL CORPORATE":5400.00},
+			"2015-09": {"total":9000.00, "TFL CORPORATE":9000.00},
+			"2015-10": {"total":7400.00, "TFL CORPORATE":7400.00},
+			"2015-11": {"total":4800.00, "TFL CORPORATE":4800.00},
+			"2016-02": {"total":11300.00, "LONDON RIVER SERVICES LTD":11300.00},
+			"2016-03": {"total":9550.00, "LONDON RIVER SERVICES LTD":4900.00, "TFL CORPORATE":4650.00},
+			"2016-07": {"total":1650.00, "TFL CORPORATE":1650.00},
+			"2016-08": {"total":900.00, "LONDON RIVER SERVICES LTD":900.00},
+			"2016-11": {"total":8700.00, "TFL CORPORATE":8700.00},
+			"2016-12": {"total":1800.00, "LONDON RIVER SERVICES LTD":1800.00},
+			"2017-01": {"total":6300.00, "TFL CORPORATE":6300.00}
+		}
+	},
+	"1208": {
 		"name": "AMIN NEWS",
 		"total": 1082.03,
 		"monthly": {
 			"2015-12": {"total":1082.03, "TRANSPORT TRADING LTD":1082.03}
 		}
 	},
-	"1201": {
+	"1209": {
 		"name": "AMIN P K & U P",
 		"total": 1300.76,
 		"monthly": {
 			"2014-05": {"total":1300.76, "TRANSPORT TRADING LTD":1300.76}
 		}
 	},
-	"1202": {
+	"1210": {
 		"name": "AMIR COHEN",
 		"total": 10000,
 		"monthly": {
 			"2019-06": {"total":10000.00, "SURFACE TRANSPORT CORP":10000.00}
 		}
 	},
-	"1203": {
+	"1211": {
+		"name": "AMIR HAJI",
+		"total": 6000,
+		"monthly": {
+			"2020-10": {"total":6000.00, "SURFACE TRANSPORT CORP":6000.00}
+		}
+	},
+	"1212": {
 		"name": "AMIR RASOOL",
 		"total": 14101.25,
 		"monthly": {
-			"2013-08": {"total":1101.25, "unknown":1101.25},
-			"2013-09": {"total":13000.00, "unknown":13000.00}
+			"2013-08": {"total":1101.25, "Transys Control - TTL":1101.25},
+			"2013-09": {"total":13000.00, "Transys Control - TTL":13000.00}
 		}
 	},
-	"1204": {
+	"1213": {
 		"name": "AMITY PHYSIOTHERAPY SERVICES",
 		"total": 4200,
 		"monthly": {
@@ -39,40 +286,40 @@
 			"2016-05": {"total":1400.00, "TFL CORPORATE":1400.00}
 		}
 	},
-	"1205": {
+	"1214": {
 		"name": "AMK CHAUFFEUR DRIV",
 		"total": 79,
 		"monthly": {
 			"2014-05": {"total":79.00, "LONDON TRANSPORT MUSEUM":79.00}
 		}
 	},
-	"1206": {
+	"1215": {
 		"name": "AMMERHURST LTD",
 		"total": 1507.92,
 		"monthly": {
-			"2013-09": {"total":380.96, "unknown":380.96},
-			"2013-11": {"total":358.76, "unknown":358.76},
-			"2014-01": {"total":768.20, "unknown":768.20}
+			"2013-09": {"total":380.96, "Furniture":380.96},
+			"2013-11": {"total":358.76, "Furniture":358.76},
+			"2014-01": {"total":768.20, "Furniture":768.20}
 		}
 	},
-	"1207": {
+	"1216": {
 		"name": "AMMIE CRARFORD",
 		"total": 12000,
 		"monthly": {
 			"2020-08": {"total":12000.00, "SURFACE TRANSPORT CORP":12000.00}
 		}
 	},
-	"1208": {
+	"1217": {
 		"name": "AMMONITE GROUP",
-		"total": 952073.419999997,
+		"total": 949356.659999997,
 		"monthly": {
 			"2015-01": {"total":36650.00, "TRANSPORT TRADING LTD":36650.00},
 			"2015-02": {"total":49321.25, "TRANSPORT TRADING LTD":49321.25},
 			"2015-03": {"total":75245.88, "TRANSPORT TRADING LTD":75245.88},
 			"2015-04": {"total":43223.25, "TRANSPORT TRADING LTD":43223.25},
-			"2015-05": {"total":73285.75, "TRANSPORT TRADING LTD":73285.75},
+			"2015-05": {"total":72605.75, "TRANSPORT TRADING LTD":72605.75},
 			"2015-06": {"total":40472.25, "TRANSPORT TRADING LTD":40472.25},
-			"2015-07": {"total":49373.99, "TRANSPORT TRADING LTD":49373.99},
+			"2015-07": {"total":47337.23, "TRANSPORT TRADING LTD":47337.23},
 			"2015-08": {"total":37818.98, "TRANSPORT TRADING LTD":37818.98},
 			"2015-09": {"total":22129.64, "TRANSPORT TRADING LTD":22129.64},
 			"2015-10": {"total":25436.71, "TRANSPORT TRADING LTD":25436.71},
@@ -97,20 +344,20 @@
 			"2017-05": {"total":35000.00, "TRANSPORT TRADING LTD":35000.00}
 		}
 	},
-	"1209": {
+	"1218": {
 		"name": "AMNITEC LTD",
 		"alternate-names": [
 			"AMNITEC LIMITED"
 		],
 		"total": 242155.92,
 		"monthly": {
-			"2013-04": {"total":4241.00, "unknown":4241.00},
-			"2013-08": {"total":2549.94, "unknown":2549.94},
-			"2013-09": {"total":7396.43, "unknown":7396.43},
-			"2013-11": {"total":4976.00, "unknown":4976.00},
-			"2013-12": {"total":2488.00, "unknown":2488.00},
-			"2014-02": {"total":4976.00, "unknown":4976.00},
-			"2014-03": {"total":2488.00, "unknown":2488.00},
+			"2013-04": {"total":4241.00, "Maintenance Materials":4241.00},
+			"2013-08": {"total":2549.94, "Maintenance Materials":2549.94},
+			"2013-09": {"total":7396.43, "Maintenance Materials":7396.43},
+			"2013-11": {"total":4976.00, "Maintenance Materials":4976.00},
+			"2013-12": {"total":2488.00, "Maintenance Materials":2488.00},
+			"2014-02": {"total":4976.00, "Maintenance Materials":4976.00},
+			"2014-03": {"total":2488.00, "Maintenance Materials":2488.00},
 			"2014-04": {"total":2585.00, "TUBE LINES LTD":2585.00},
 			"2014-06": {"total":2593.79, "TUBE LINES LTD":2593.79},
 			"2014-12": {"total":2620.09, "TUBE LINES LTD":2620.09},
@@ -147,27 +394,27 @@
 			"2020-08": {"total":8460.00, "LUL NOMINEE SSL LIMITED":8460.00}
 		}
 	},
-	"1210": {
+	"1219": {
 		"name": "AMOLD PRAYER",
 		"total": 8000,
 		"monthly": {
 			"2020-02": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
 		}
 	},
-	"1211": {
+	"1220": {
 		"name": "AMPHENOL LTD",
 		"alternate-names": [
 			"AMPHENOL LIMITED"
 		],
 		"total": 1301173.45,
 		"monthly": {
-			"2013-09": {"total":27071.80, "unknown":27071.80},
-			"2013-10": {"total":79078.20, "unknown":79078.20},
-			"2013-11": {"total":94324.65, "unknown":94324.65},
-			"2013-12": {"total":110953.05, "unknown":110953.05},
-			"2014-01": {"total":134749.50, "unknown":134749.50},
-			"2014-02": {"total":73471.04, "unknown":73471.04},
-			"2014-03": {"total":133851.17, "unknown":133851.17},
+			"2013-09": {"total":27071.80, "Fleet":27071.80},
+			"2013-10": {"total":79078.20, "Electrical & Electronic Engineering":6355.90, "Fleet":71866.40, "Stock Issues - Repairables":855.90},
+			"2013-11": {"total":94324.65, "Fleet":94324.65},
+			"2013-12": {"total":110953.05, "Electrical & Electronic Engineering":16628.40, "Fleet":94324.65},
+			"2014-01": {"total":134749.50, "Fleet":134749.50},
+			"2014-02": {"total":73471.04, "Electrical & Electronic Engineering":1604.64, "Fleet":71866.40},
+			"2014-03": {"total":133851.17, "Fleet":133851.17},
 			"2014-04": {"total":11486.27, "LUL NOMINEE BCV LIMITED":11486.27},
 			"2014-05": {"total":8304.20, "LUL NOMINEE BCV LIMITED":8304.20},
 			"2014-06": {"total":1128.56, "LUL NOMINEE BCV LIMITED":1128.56},
@@ -202,23 +449,23 @@
 			"2020-02": {"total":37560.82, "LUL NOMINEE BCV LIMITED":37560.82}
 		}
 	},
-	"1212": {
+	"1221": {
 		"name": "AMPLICON LIVELINE",
 		"total": 990,
 		"monthly": {
-			"2013-09": {"total":990.00, "unknown":990.00}
+			"2013-09": {"total":990.00, "Materials":990.00}
 		}
 	},
-	"1213": {
+	"1222": {
 		"name": "AMPLICON LIVELINE LTD",
 		"total": 48327.9,
 		"monthly": {
-			"2013-05": {"total":1924.00, "unknown":1924.00},
-			"2013-07": {"total":520.00, "unknown":520.00},
-			"2013-08": {"total":1627.00, "unknown":1627.00},
-			"2013-09": {"total":4832.50, "unknown":4832.50},
-			"2013-11": {"total":560.00, "unknown":560.00},
-			"2014-02": {"total":540.00, "unknown":540.00},
+			"2013-05": {"total":1924.00, "Traffic Signals":1924.00},
+			"2013-07": {"total":520.00, "Street Furniture":520.00},
+			"2013-08": {"total":1627.00, "Building Maintenance & Repairs":1627.00},
+			"2013-09": {"total":4832.50, "Signalling Systems":2149.50, "Street Furniture":2683.00},
+			"2013-11": {"total":560.00, "Maintenance Materials":560.00},
+			"2014-02": {"total":540.00, "Street Furniture":540.00},
 			"2014-04": {"total":2125.02, "LUL NOMINEE BCV LIMITED":2125.02},
 			"2014-05": {"total":5546.00, "LUL NOMINEE SSL LIMITED":5546.00},
 			"2014-09": {"total":4779.80, "SURFACE TRANSPORT CORP":4779.80},
@@ -228,7 +475,7 @@
 			"2019-09": {"total":1805.00, "LONDON UNDERGROUND LTD":1805.00}
 		}
 	},
-	"1214": {
+	"1223": {
 		"name": "AMPLIVOX LTD",
 		"total": 14984.25,
 		"monthly": {
@@ -243,17 +490,17 @@
 			"2019-06": {"total":398.00, "TFL CORPORATE":398.00}
 		}
 	},
-	"1215": {
+	"1224": {
 		"name": "AMS ACOUSTICS LTD",
 		"total": 149433.83,
 		"monthly": {
-			"2013-04": {"total":15550.00, "unknown":15550.00},
-			"2013-07": {"total":8020.00, "unknown":8020.00},
-			"2013-08": {"total":465.00, "unknown":465.00},
-			"2013-09": {"total":1575.00, "unknown":1575.00},
-			"2013-10": {"total":7755.00, "unknown":7755.00},
-			"2013-11": {"total":6620.00, "unknown":6620.00},
-			"2013-12": {"total":4210.00, "unknown":4210.00},
+			"2013-04": {"total":15550.00, "Management & Support Consultancy":11560.00, "Professional Engineering Services":3990.00},
+			"2013-07": {"total":8020.00, "Civil Engineering Construction Works":8020.00},
+			"2013-08": {"total":465.00, "Civil Engineering Construction Works":465.00},
+			"2013-09": {"total":1575.00, "MR Construction Costs":1575.00},
+			"2013-10": {"total":7755.00, "MR Construction Costs":7755.00},
+			"2013-11": {"total":6620.00, "MR Construction Costs":6620.00},
+			"2013-12": {"total":4210.00, "Civil Engineering Construction Works":4210.00},
 			"2014-12": {"total":3875.00, "LUL NOMINEE SSL LIMITED":3875.00},
 			"2015-05": {"total":76927.58, "DOCKLANDS LIGHT RAILWAY":76927.58},
 			"2015-06": {"total":1230.00, "LONDON UNDERGROUND LTD":1230.00},
@@ -264,26 +511,26 @@
 			"2019-05": {"total":4553.75, "LONDON UNDERGROUND LTD":4553.75}
 		}
 	},
-	"1216": {
+	"1225": {
 		"name": "AMSYS",
 		"total": 1450,
 		"monthly": {
 			"2014-10": {"total":1450.00, "TFL CORPORATE":1450.00}
 		}
 	},
-	"1217": {
+	"1226": {
 		"name": "AMT SYBEX LTD",
-		"total": 5269674.33,
+		"total": 5236674.33,
 		"monthly": {
-			"2013-04": {"total":894914.00, "unknown":894914.00},
-			"2013-05": {"total":269992.50, "unknown":269992.50},
-			"2013-06": {"total":34050.00, "unknown":34050.00},
-			"2013-07": {"total":218000.00, "unknown":218000.00},
-			"2013-09": {"total":353000.00, "unknown":353000.00},
-			"2013-11": {"total":53150.00, "unknown":53150.00},
-			"2013-12": {"total":2215.00, "unknown":2215.00},
-			"2014-02": {"total":300.00, "unknown":300.00},
-			"2014-03": {"total":59650.00, "unknown":59650.00},
+			"2013-04": {"total":894914.00, "IT Consultancy":279700.00, "Software Maintenance":615214.00},
+			"2013-05": {"total":269992.50, "Computer Hardware":560.00, "IT Consultancy":266725.00, "Road Maintenance":2707.50},
+			"2013-06": {"total":34050.00, "IT Consultancy":34050.00},
+			"2013-07": {"total":218000.00, "Computer Software":178000.00, "IT Consultancy":40000.00},
+			"2013-09": {"total":353000.00, "IT Consultancy":353000.00},
+			"2013-11": {"total":53150.00, "IT Consultancy":53150.00},
+			"2013-12": {"total":2215.00, "Road Maintenance":290.00, "Software Maintenance":1925.00},
+			"2014-02": {"total":300.00, "Road Maintenance":300.00},
+			"2014-03": {"total":26650.00, "IT Consultancy":26650.00},
 			"2014-04": {"total":159310.00, "TFL CORPORATE":159310.00},
 			"2014-05": {"total":648214.00, "TFL CORPORATE":648214.00},
 			"2014-06": {"total":155160.00, "TFL CORPORATE":155160.00},
@@ -307,18 +554,18 @@
 			"2019-10": {"total":5966.00, "RAIL FOR LONDON LIMITED":5966.00}
 		}
 	},
-	"1218": {
+	"1227": {
 		"name": "AMTEC CONSULTING",
 		"total": 168191.09,
 		"monthly": {
-			"2013-04": {"total":50470.59, "unknown":50470.59},
-			"2013-05": {"total":73816.72, "unknown":73816.72},
-			"2013-06": {"total":30878.47, "unknown":30878.47},
-			"2013-07": {"total":11832.81, "unknown":11832.81},
-			"2013-08": {"total":1192.50, "unknown":1192.50}
+			"2013-04": {"total":50470.59, "Agency Staff":50470.59},
+			"2013-05": {"total":73816.72, "Agency Staff":73816.72},
+			"2013-06": {"total":30878.47, "Agency Staff":30878.47},
+			"2013-07": {"total":11832.81, "Agency Staff":11832.81},
+			"2013-08": {"total":1192.50, "Agency Staff":1192.50}
 		}
 	},
-	"1219": {
+	"1228": {
 		"name": "AMTECH GROUP",
 		"total": 42740.66,
 		"monthly": {
@@ -331,28 +578,28 @@
 			"2017-09": {"total":885.00, "LONDON UNDERGROUND LTD":885.00}
 		}
 	},
-	"1220": {
+	"1229": {
 		"name": "AMTECH GROUP LTD",
 		"alternate-names": [
 			"AMTECH GROUP LIMITED"
 		],
 		"total": 29744.4,
 		"monthly": {
-			"2013-07": {"total":19180.00, "unknown":19180.00},
-			"2013-12": {"total":2400.00, "unknown":2400.00},
-			"2014-02": {"total":8164.40, "unknown":8164.40}
+			"2013-07": {"total":19180.00, "MR Construction Costs":19180.00},
+			"2013-12": {"total":2400.00, "Materials":2400.00},
+			"2014-02": {"total":8164.40, "Materials":8164.40}
 		}
 	},
-	"1221": {
+	"1230": {
 		"name": "AMTECS LTD",
-		"total": 2045394.44,
+		"total": 1880976.28,
 		"monthly": {
-			"2013-05": {"total":5857.50, "unknown":5857.50},
-			"2013-07": {"total":1419.00, "unknown":1419.00},
-			"2013-09": {"total":6192.00, "unknown":6192.00},
-			"2013-10": {"total":4236.00, "unknown":4236.00},
-			"2014-01": {"total":9265.00, "unknown":9265.00},
-			"2014-03": {"total":7250.00, "unknown":7250.00},
+			"2013-05": {"total":5857.50, "Fleet":5857.50},
+			"2013-07": {"total":1419.00, "Electrical & Electronic Engineering":1419.00},
+			"2013-09": {"total":6192.00, "Fleet":6192.00},
+			"2013-10": {"total":4236.00, "Fleet":2925.00, "Rolling Stock":1311.00},
+			"2014-01": {"total":9265.00, "Electrical & Electronic Engineering":1419.00, "Fleet":6192.00, "MR Construction Costs":1000.00, "Rolling Stock":654.00},
+			"2014-03": {"total":7250.00, "Fleet":7250.00},
 			"2014-04": {"total":2004.00, "LONDON UNDERGROUND LTD":1350.00, "TUBE LINES LTD":654.00},
 			"2014-05": {"total":27959.00, "TUBE LINES LTD":27959.00},
 			"2014-07": {"total":7722.00, "LUL NOMINEE SSL LIMITED":7722.00},
@@ -402,7 +649,7 @@
 			"2018-06": {"total":41100.00, "LUL NOMINEE SSL LIMITED":41100.00},
 			"2018-07": {"total":50984.00, "LUL NOMINEE SSL LIMITED":41509.00, "TUBE LINES LTD":9475.00},
 			"2018-09": {"total":45103.00, "LUL NOMINEE SSL LIMITED":45103.00},
-			"2018-10": {"total":263405.84, "LUL NOMINEE SSL LIMITED":261761.84, "TUBE LINES LTD":1644.00},
+			"2018-10": {"total":98987.68, "LUL NOMINEE SSL LIMITED":97343.68, "TUBE LINES LTD":1644.00},
 			"2018-11": {"total":46631.94, "LUL NOMINEE BCV LIMITED":1057.94, "LUL NOMINEE SSL LIMITED":43108.00, "TUBE LINES LTD":2466.00},
 			"2018-12": {"total":90436.00, "LUL NOMINEE SSL LIMITED":86216.00, "TUBE LINES LTD":4220.00},
 			"2019-01": {"total":43108.00, "LUL NOMINEE SSL LIMITED":43108.00},
@@ -420,50 +667,50 @@
 			"2020-07": {"total":16780.00, "LONDON UNDERGROUND LTD":16780.00}
 		}
 	},
-	"1222": {
+	"1231": {
 		"name": "AMTR SOLUTIONS LTD",
 		"alternate-names": [
 			"AMTR SOLUTIONS LIMITED"
 		],
 		"total": 132000,
 		"monthly": {
-			"2013-06": {"total":22800.00, "unknown":22800.00},
-			"2013-08": {"total":22800.00, "unknown":22800.00},
-			"2013-09": {"total":22800.00, "unknown":22800.00},
-			"2013-10": {"total":46800.00, "unknown":46800.00},
-			"2013-12": {"total":6000.00, "unknown":6000.00},
-			"2014-01": {"total":10800.00, "unknown":10800.00}
+			"2013-06": {"total":22800.00, "Professional Engineering Services":22800.00},
+			"2013-08": {"total":22800.00, "Professional Engineering Services":22800.00},
+			"2013-09": {"total":22800.00, "Professional Engineering Services":22800.00},
+			"2013-10": {"total":46800.00, "Management & Support Consultancy":46800.00},
+			"2013-12": {"total":6000.00, "Professional Engineering Services":6000.00},
+			"2014-01": {"total":10800.00, "Management & Support Consultancy":10800.00}
 		}
 	},
-	"1223": {
+	"1232": {
 		"name": "AMTRAIN (MIDLANDS) LTD",
 		"alternate-names": [
 			"AMTRAIN (MIDLANDS) LIMITED"
 		],
-		"total": 16188,
+		"total": 15087,
 		"monthly": {
-			"2013-12": {"total":3300.00, "unknown":3300.00},
-			"2014-02": {"total":1100.00, "unknown":1100.00},
+			"2013-12": {"total":3300.00, "Staff Training":3300.00},
+			"2014-02": {"total":1100.00, "Staff Training":1100.00},
 			"2014-04": {"total":2200.00, "TFL CORPORATE":2200.00},
 			"2014-12": {"total":1650.00, "TFL CORPORATE":1650.00},
 			"2015-11": {"total":1205.00, "TFL CORPORATE":1205.00},
 			"2015-12": {"total":1217.00, "TFL CORPORATE":1217.00},
 			"2016-02": {"total":1100.00, "TFL CORPORATE":1100.00},
 			"2016-07": {"total":1100.00, "TFL CORPORATE":1100.00},
-			"2017-01": {"total":3316.00, "TFL CORPORATE":3316.00}
+			"2017-01": {"total":2215.00, "TFL CORPORATE":2215.00}
 		}
 	},
-	"1224": {
+	"1233": {
 		"name": "AMU SURVEYS",
 		"total": 762910,
 		"monthly": {
-			"2013-09": {"total":1025.00, "unknown":1025.00},
-			"2013-10": {"total":10820.00, "unknown":10820.00},
-			"2013-11": {"total":1900.00, "unknown":1900.00},
-			"2013-12": {"total":13300.00, "unknown":13300.00},
-			"2014-01": {"total":5100.00, "unknown":5100.00},
-			"2014-02": {"total":13600.00, "unknown":13600.00},
-			"2014-03": {"total":8000.00, "unknown":8000.00},
+			"2013-09": {"total":1025.00, "Professional Engineering Services":1025.00},
+			"2013-10": {"total":10820.00, "Professional Engineering Services":10820.00},
+			"2013-11": {"total":1900.00, "Professional Engineering Services":1900.00},
+			"2013-12": {"total":13300.00, "Professional Engineering Services":13300.00},
+			"2014-01": {"total":5100.00, "Professional Engineering Services":5100.00},
+			"2014-02": {"total":13600.00, "Professional Engineering Services":13600.00},
+			"2014-03": {"total":8000.00, "Professional Engineering Services":8000.00},
 			"2014-04": {"total":21600.00, "SURFACE TRANSPORT CORP":21600.00},
 			"2014-05": {"total":5500.00, "SURFACE TRANSPORT CORP":5500.00},
 			"2014-06": {"total":9150.00, "SURFACE TRANSPORT CORP":9150.00},
@@ -534,13 +781,13 @@
 			"2020-05": {"total":14500.00, "SURFACE TRANSPORT CORP":14500.00}
 		}
 	},
-	"1225": {
+	"1234": {
 		"name": "AMY CLARKE",
 		"total": 18369.6,
 		"monthly": {
-			"2013-08": {"total":1980.00, "unknown":1980.00},
-			"2013-10": {"total":1320.00, "unknown":1320.00},
-			"2014-02": {"total":1650.00, "unknown":1650.00},
+			"2013-08": {"total":1980.00, "Legal Fees":1980.00},
+			"2013-10": {"total":1320.00, "Legal Fees":1320.00},
+			"2014-02": {"total":1650.00, "Legal Fees":1650.00},
 			"2014-07": {"total":1320.00, "TFL CORPORATE":1320.00},
 			"2014-09": {"total":1320.00, "TFL CORPORATE":1320.00},
 			"2014-12": {"total":660.00, "TFL CORPORATE":660.00},
@@ -558,7 +805,7 @@
 			"2017-07": {"total":420.00, "TFL CORPORATE":420.00}
 		}
 	},
-	"1226": {
+	"1235": {
 		"name": "AMY HOOPER LTD",
 		"alternate-names": [
 			"AMY HOOPER LIMITED"
@@ -637,49 +884,49 @@
 			"2020-04": {"total":555.00, "LONDON TRANSPORT MUSEUM":555.00}
 		}
 	},
-	"1227": {
+	"1236": {
 		"name": "AMZ SUNVALLEYTEK-UK",
-		"total": 69.95,
+		"total": -69.95,
 		"monthly": {
-			"2017-07": {"total":69.95, "TUBELINES LTD":69.95}
+			"2017-07": {"total":-69.95, "TUBELINES LTD":-69.95}
 		}
 	},
-	"1228": {
+	"1237": {
 		"name": "AMZ*AMAZON BUSINESS UK",
-		"total": 33.33,
+		"total": -33.33,
 		"monthly": {
-			"2019-10": {"total":33.33, "LONDON TRANSPORT MUSEUM":33.33}
+			"2019-10": {"total":-33.33, "LONDON TRANSPORT MUSEUM":-33.33}
 		}
 	},
-	"1229": {
+	"1238": {
 		"name": "AMZ*AMUFI GADGETS",
-		"total": 395.29,
+		"total": -395.29,
 		"monthly": {
-			"2019-10": {"total":395.29, "LONDON TRANSPORT MUSEUM":395.29}
+			"2019-10": {"total":-395.29, "LONDON TRANSPORT MUSEUM":-395.29}
 		}
 	},
-	"1230": {
+	"1239": {
 		"name": "AMZ*APPLIANCES DIREC",
 		"total": 35.79,
 		"monthly": {
 			"2019-04": {"total":35.79, "TFL CORPORATE":35.79}
 		}
 	},
-	"1231": {
+	"1240": {
 		"name": "AMZ*ELECTRO WORLD",
-		"total": 11.5,
+		"total": -11.5,
 		"monthly": {
-			"2018-08": {"total":11.50, "PUBLIC CARRIAGE OFFICE":11.50}
+			"2018-08": {"total":-11.50, "PUBLIC CARRIAGE OFFICE":-11.50}
 		}
 	},
-	"1232": {
+	"1241": {
 		"name": "AMZ*MAKERHAWK",
-		"total": 202.02,
+		"total": -202.02,
 		"monthly": {
-			"2018-07": {"total":202.02, "TFL CORPORATE":202.02}
+			"2018-07": {"total":-202.02, "TFL CORPORATE":-202.02}
 		}
 	},
-	"1233": {
+	"1242": {
 		"name": "AMZN MKTP UK",
 		"total": 122.17,
 		"monthly": {
@@ -687,28 +934,28 @@
 			"2018-12": {"total":99.68, "TFL CORPORATE":99.68}
 		}
 	},
-	"1234": {
+	"1243": {
 		"name": "AMZN MKTP UK*M034T2754 AM",
 		"total": 60,
 		"monthly": {
 			"2018-12": {"total":60.00, "TFL CORPORATE":60.00}
 		}
 	},
-	"1235": {
+	"1244": {
 		"name": "AMZN MKTP UK*M084A67E4",
 		"total": 169.96,
 		"monthly": {
 			"2018-12": {"total":169.96, "TFL CORPORATE":169.96}
 		}
 	},
-	"1236": {
+	"1245": {
 		"name": "AMZNMKTPLACE",
 		"total": 6.92,
 		"monthly": {
 			"2019-04": {"total":6.92, "TFL CORPORATE":6.92}
 		}
 	},
-	"1237": {
+	"1246": {
 		"name": "AN ENDLESS SUPPLY",
 		"total": 17050,
 		"monthly": {
@@ -719,163 +966,34 @@
 			"2020-03": {"total":4400.00, "TFL CORPORATE":4400.00}
 		}
 	},
-	"1238": {
+	"1247": {
 		"name": "ANA COMAN",
 		"total": 10546.1,
 		"monthly": {
-			"2013-05": {"total":1326.12, "unknown":1326.12},
-			"2013-07": {"total":524.52, "unknown":524.52},
-			"2013-09": {"total":1089.03, "unknown":1089.03},
-			"2013-11": {"total":1890.91, "unknown":1890.91},
-			"2013-12": {"total":1169.06, "unknown":1169.06},
-			"2014-01": {"total":474.60, "unknown":474.60},
-			"2014-03": {"total":941.67, "unknown":941.67},
+			"2013-05": {"total":1326.12, "Interpreters":1326.12},
+			"2013-07": {"total":524.52, "Interpreters":524.52},
+			"2013-09": {"total":1089.03, "Interpreters":1089.03},
+			"2013-11": {"total":1890.91, "Interpreters":1890.91},
+			"2013-12": {"total":1169.06, "Interpreters":1169.06},
+			"2014-01": {"total":474.60, "Interpreters":474.60},
+			"2014-03": {"total":941.67, "Interpreters":941.67},
 			"2014-04": {"total":1974.05, "LONDON UNDERGROUND LTD":1974.05},
 			"2014-05": {"total":447.58, "LONDON UNDERGROUND LTD":447.58},
 			"2014-06": {"total":708.56, "LONDON UNDERGROUND LTD":708.56}
 		}
 	},
-	"1239": {
+	"1248": {
 		"name": "ANA INTERNET TICKETLESS",
 		"total": 148.08,
 		"monthly": {
 			"2015-04": {"total":148.08, "TFL CORPORATE":148.08}
 		}
 	},
-	"1240": {
+	"1249": {
 		"name": "ANA MARGARITA PORRES GALVEZ",
 		"total": 519.37,
 		"monthly": {
 			"2020-03": {"total":519.37, "TFL CORPORATE":519.37}
-		}
-	},
-	"1241": {
-		"name": "ANALYSIS LEGAL LLP",
-		"total": 420,
-		"monthly": {
-			"2018-12": {"total":420.00, "TFL CORPORATE":420.00}
-		}
-	},
-	"1242": {
-		"name": "ANALYSYS MASON",
-		"total": 108950.95,
-		"monthly": {
-			"2013-04": {"total":24820.00, "unknown":24820.00},
-			"2013-06": {"total":11310.00, "unknown":11310.00},
-			"2013-07": {"total":13870.00, "unknown":13870.00},
-			"2013-10": {"total":23076.00, "unknown":23076.00},
-			"2014-01": {"total":7869.00, "unknown":7869.00},
-			"2014-09": {"total":3505.95, "LONDON BUS SERVICES LTD":3505.95},
-			"2014-12": {"total":17150.00, "LONDON BUS SERVICES LTD":17150.00},
-			"2015-01": {"total":7350.00, "LONDON BUS SERVICES LTD":7350.00}
-		}
-	},
-	"1243": {
-		"name": "ANALYSYS MASON LTD",
-		"alternate-names": [
-			"ANALYSYS MASON LIMITED"
-		],
-		"total": 105200,
-		"monthly": {
-			"2020-05": {"total":77400.00, "TFL CORPORATE":77400.00},
-			"2020-09": {"total":27800.00, "TFL CORPORATE":27800.00}
-		}
-	},
-	"1244": {
-		"name": "ANANTHAVARATHAN DR.S",
-		"total": 282.88,
-		"monthly": {
-			"2015-05": {"total":282.88, "LONDON UNDERGROUND LTD":282.88}
-		}
-	},
-	"1245": {
-		"name": "ANC TRADING LONDON LTD",
-		"total": 2293.34,
-		"monthly": {
-			"2015-05": {"total":2293.34, "TRANSPORT TRADING LTD":2293.34}
-		}
-	},
-	"1246": {
-		"name": "ANCASTER GROUP LTD",
-		"total": 9040,
-		"monthly": {
-			"2013-07": {"total":9040.00, "unknown":9040.00}
-		}
-	},
-	"1247": {
-		"name": "ANCHOR DOOR SYSTEMS LTD",
-		"alternate-names": [
-			"ANCHOR DOOR SYSTEMS LIMITED"
-		],
-		"total": 84950,
-		"monthly": {
-			"2013-04": {"total":2960.00, "unknown":2960.00},
-			"2013-08": {"total":1690.00, "unknown":1690.00},
-			"2013-09": {"total":1590.00, "unknown":1590.00},
-			"2014-02": {"total":1260.00, "unknown":1260.00},
-			"2014-03": {"total":930.00, "unknown":930.00},
-			"2014-04": {"total":1350.00, "TRANSPORT TRADING LTD":830.00, "VICTORIA COACH STATN LTD":520.00},
-			"2014-07": {"total":325.00, "TRANSPORT TRADING LTD":325.00},
-			"2014-09": {"total":325.00, "VICTORIA COACH STATN LTD":325.00},
-			"2014-10": {"total":780.00, "TRANSPORT TRADING LTD":780.00},
-			"2015-02": {"total":885.00, "TRANSPORT TRADING LTD":885.00},
-			"2015-04": {"total":520.00, "VICTORIA COACH STATN LTD":520.00},
-			"2015-05": {"total":1714.00, "TRANSPORT TRADING LTD":1195.00, "VICTORIA COACH STATN LTD":519.00},
-			"2015-06": {"total":2660.00, "TRANSPORT TRADING LTD":2400.00, "VICTORIA COACH STATN LTD":260.00},
-			"2015-07": {"total":260.00, "VICTORIA COACH STATN LTD":260.00},
-			"2015-08": {"total":5340.00, "TRANSPORT TRADING LTD":5340.00},
-			"2015-10": {"total":1900.00, "TRANSPORT TRADING LTD":1610.00, "VICTORIA COACH STATN LTD":290.00},
-			"2015-12": {"total":3340.00, "LONDON UNDERGROUND LTD":3340.00},
-			"2016-01": {"total":285.00, "VICTORIA COACH STATN LTD":285.00},
-			"2016-02": {"total":2400.00, "TRANSPORT TRADING LTD":2400.00},
-			"2016-03": {"total":325.00, "VICTORIA COACH STATN LTD":325.00},
-			"2016-04": {"total":520.00, "VICTORIA COACH STATN LTD":520.00},
-			"2016-09": {"total":2560.00, "TRANSPORT TRADING LTD":2560.00},
-			"2016-12": {"total":998.00, "TRANSPORT TRADING LTD":998.00},
-			"2017-03": {"total":1200.00, "TRANSPORT TRADING LTD":1200.00},
-			"2017-04": {"total":260.00, "VICTORIA COACH STATN LTD":260.00},
-			"2017-05": {"total":390.00, "TRANSPORT TRADING LTD":390.00},
-			"2017-06": {"total":2100.00, "TRANSPORT TRADING LTD":2100.00},
-			"2017-07": {"total":1365.00, "TRANSPORT TRADING LTD":1365.00},
-			"2017-09": {"total":3060.00, "TRANSPORT TRADING LTD":3060.00},
-			"2017-10": {"total":2960.00, "TRANSPORT TRADING LTD":2960.00},
-			"2017-11": {"total":1420.00, "TRANSPORT TRADING LTD":1420.00},
-			"2017-12": {"total":880.00, "TRANSPORT TRADING LTD":880.00},
-			"2018-02": {"total":4980.00, "TRANSPORT TRADING LTD":1130.00, "VICTORIA COACH STATN LTD":3850.00},
-			"2018-04": {"total":3360.00, "TRANSPORT TRADING LTD":280.00, "VICTORIA COACH STATN LTD":3080.00},
-			"2018-05": {"total":2800.00, "TRANSPORT TRADING LTD":2800.00},
-			"2018-08": {"total":2320.00, "TRANSPORT TRADING LTD":2320.00},
-			"2018-09": {"total":790.00, "VICTORIA COACH STATN LTD":790.00},
-			"2018-10": {"total":274.00, "VICTORIA COACH STATN LTD":274.00},
-			"2018-12": {"total":544.00, "TRANSPORT TRADING LTD":544.00},
-			"2019-03": {"total":664.00, "TRANSPORT TRADING LTD":664.00},
-			"2019-04": {"total":644.00, "TRANSPORT TRADING LTD":644.00},
-			"2019-06": {"total":4216.00, "TRANSPORT TRADING LTD":4216.00},
-			"2019-07": {"total":1720.00, "TRANSPORT TRADING LTD":680.00, "VICTORIA COACH STATN LTD":1040.00},
-			"2019-08": {"total":272.00, "TRANSPORT TRADING LTD":272.00},
-			"2019-09": {"total":2400.00, "TRANSPORT TRADING LTD":2400.00},
-			"2019-10": {"total":272.00, "VICTORIA COACH STATN LTD":272.00},
-			"2019-11": {"total":2860.00, "TRANSPORT TRADING LTD":2860.00},
-			"2020-02": {"total":2974.00, "TRANSPORT TRADING LTD":2974.00},
-			"2020-03": {"total":4492.00, "TRANSPORT TRADING LTD":4492.00},
-			"2020-04": {"total":544.00, "TRANSPORT TRADING LTD":544.00},
-			"2020-06": {"total":272.00, "TRANSPORT TRADING LTD":272.00}
-		}
-	},
-	"1248": {
-		"name": "ANCHOR SYSTEMS (EUROPE) LTD",
-		"total": 4846.6,
-		"monthly": {
-			"2018-11": {"total":4263.30, "LUL NOMINEE BCV LIMITED":4263.30},
-			"2019-03": {"total":583.30, "LONDON UNDERGROUND LTD":583.30}
-		}
-	},
-	"1249": {
-		"name": "ANCHOR SYSTEMS (INTL) LTD",
-		"total": 11710.06,
-		"monthly": {
-			"2015-08": {"total":6725.86, "LUL NOMINEE SSL LIMITED":6725.86},
-			"2016-07": {"total":4984.20, "LUL NOMINEE SSL LIMITED":4984.20}
 		}
 	}
 	}

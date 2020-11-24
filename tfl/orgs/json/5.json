@@ -1,5 +1,5 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"250": {
 		"name": "A NABIH",
@@ -22,8 +22,8 @@
 		],
 		"total": 27018.3,
 		"monthly": {
-			"2013-04": {"total":4500.00, "unknown":4500.00},
-			"2013-07": {"total":6552.00, "unknown":6552.00},
+			"2013-04": {"total":4500.00, "Marketing Exhibitions & Events":4500.00},
+			"2013-07": {"total":6552.00, "Marketing Exhibitions & Events":6552.00},
 			"2017-04": {"total":6624.00, "LONDON UNDERGROUND LTD":6624.00},
 			"2017-08": {"total":9342.30, "TFL CORPORATE":9342.30}
 		}
@@ -80,7 +80,7 @@
 		"name": "A PATEL",
 		"total": 1000,
 		"monthly": {
-			"2014-02": {"total":1000.00, "unknown":1000.00}
+			"2014-02": {"total":1000.00, "Medical Reports":1000.00}
 		}
 	},
 	"259": {
@@ -146,8 +146,8 @@
 		"name": "A S PECK ENGINEERING LTD",
 		"total": 63348,
 		"monthly": {
-			"2013-09": {"total":2700.00, "unknown":2700.00},
-			"2013-10": {"total":4950.00, "unknown":4950.00},
+			"2013-09": {"total":2700.00, "Fleet":1500.00, "Stock Issues - Repairables":1200.00},
+			"2013-10": {"total":4950.00, "Stock Issues - Repairables":4950.00},
 			"2014-06": {"total":450.00, "LUL NOMINEE SSL LIMITED":450.00},
 			"2014-07": {"total":10657.50, "LUL NOMINEE SSL LIMITED":10657.50},
 			"2014-10": {"total":4406.25, "LUL NOMINEE SSL LIMITED":4406.25},
@@ -235,27 +235,28 @@
 	},
 	"277": {
 		"name": "A&A COVERS (KENT) LTD",
-		"total": 67587.75,
+		"total": 89405,
 		"monthly": {
 			"2020-08": {"total":3876.00, "TFL CORPORATE":3876.00},
-			"2020-09": {"total":63711.75, "LUL NOMINEE SSL LIMITED":61923.75, "TFL CORPORATE":1788.00}
+			"2020-09": {"total":63711.75, "LUL NOMINEE SSL LIMITED":61923.75, "TFL CORPORATE":1788.00},
+			"2020-10": {"total":21817.25, "LUL NOMINEE SSL LIMITED":21817.25}
 		}
 	},
 	"278": {
 		"name": "A&A ELECTRICAL DISTRIBUTORS LTD",
-		"total": 2120711.22,
+		"total": 2105155.59,
 		"monthly": {
-			"2013-04": {"total":12511.70, "unknown":12511.70},
-			"2013-05": {"total":14588.05, "unknown":14588.05},
-			"2013-06": {"total":3578.10, "unknown":3578.10},
-			"2013-08": {"total":2030.33, "unknown":2030.33},
-			"2013-09": {"total":13169.71, "unknown":13169.71},
-			"2013-10": {"total":16131.68, "unknown":16131.68},
-			"2013-11": {"total":7687.18, "unknown":7687.18},
-			"2013-12": {"total":12509.74, "unknown":12509.74},
-			"2014-01": {"total":9576.21, "unknown":9576.21},
-			"2014-02": {"total":7692.27, "unknown":7692.27},
-			"2014-03": {"total":11361.41, "unknown":11361.41},
+			"2013-04": {"total":12511.70, "Building Maintenance & Repairs":3077.01, "Electrical Equipment Maintenance":7548.51, "Equipment Repairs & Maintenance":749.30, "Heating & Lighting":1136.88},
+			"2013-05": {"total":14588.05, "Building Maintenance & Repairs":6019.95, "Electrical Equipment Maintenance":934.79, "Heating & Lighting":660.89, "Plant & Equipment Purchases":3802.26, "Stock of Lifts and Escalators":3170.16},
+			"2013-06": {"total":3578.10, "Building Maintenance & Repairs":546.00, "Electrical Equipment Maintenance":1273.80, "Equipment Repairs & Maintenance":1196.60, "Heating & Lighting":561.70},
+			"2013-08": {"total":2030.33, "Building Maintenance & Repairs":402.00, "Escalators":982.30, "Heating & Lighting":646.03},
+			"2013-09": {"total":13169.71, "Building Maintenance & Repairs":5611.59, "Electrical Equipment Maintenance":4471.50, "Heating & Lighting":3086.62},
+			"2013-10": {"total":16131.68, "Building Maintenance & Repairs":3575.63, "Electrical & Electronic Engineering":1758.61, "Equipment Repairs & Maintenance":1718.64, "Heating & Lighting":8065.80, "Stock of Lifts and Escalators":1013.00},
+			"2013-11": {"total":7687.18, "Building Maintenance & Repairs":1953.76, "Electrical Equipment Maintenance":742.49, "Equipment Repairs & Maintenance":1665.82, "Heating & Lighting":293.20, "Lease/Rental of Telecommunications Equipment":1365.98, "Maintenance Materials":1110.50, "Plant & Equipment Purchases":555.43},
+			"2013-12": {"total":12509.74, "Building Maintenance & Repairs":5355.46, "Electrical Equipment Maintenance":1570.35, "Equipment Repairs & Maintenance":2428.36, "Lease/Rental of Telecommunications Equipment":1055.17, "Plant & Equipment Purchases":2100.40},
+			"2014-01": {"total":9576.21, "Building Maintenance & Repairs":6834.70, "Electrical Equipment Maintenance":1044.48, "Equipment Repairs & Maintenance":299.00, "Maintenance of Plant & Equipment":1398.03},
+			"2014-02": {"total":4732.67, "Building Maintenance & Repairs":2012.58, "Equipment Repairs & Maintenance":510.45, "Escalators":1227.48, "Heating & Lighting":982.16},
+			"2014-03": {"total":11361.41, "Building Maintenance & Repairs":5832.51, "Equipment Repairs & Maintenance":413.40, "Escalators":961.80, "Heating & Lighting":2347.93, "Maintenance Materials":771.77, "Plant & Equipment Purchases":1034.00},
 			"2014-04": {"total":17867.41, "LONDON UNDERGROUND LTD":9935.04, "LUL NOMINEE BCV LIMITED":2815.15, "LUL NOMINEE SSL LIMITED":5117.22},
 			"2014-05": {"total":5780.33, "LONDON UNDERGROUND LTD":2581.91, "LUL NOMINEE BCV LIMITED":569.72, "LUL NOMINEE SSL LIMITED":2628.70},
 			"2014-06": {"total":23097.58, "LONDON UNDERGROUND LTD":11226.88, "LUL NOMINEE BCV LIMITED":6588.91, "LUL NOMINEE SSL LIMITED":3703.02, "TFL CORPORATE":1578.77},
@@ -297,7 +298,7 @@
 			"2017-06": {"total":17818.96, "LONDON UNDERGROUND LTD":14776.90, "LUL NOMINEE SSL LIMITED":3042.06},
 			"2017-07": {"total":18137.29, "LONDON UNDERGROUND LTD":2394.50, "LUL NOMINEE BCV LIMITED":8541.05, "LUL NOMINEE SSL LIMITED":7201.74},
 			"2017-08": {"total":93636.83, "LONDON UNDERGROUND LTD":2326.00, "LUL NOMINEE BCV LIMITED":7273.75, "LUL NOMINEE SSL LIMITED":84037.08},
-			"2017-09": {"total":36069.48, "LONDON UNDERGROUND LTD":403.29, "LUL NOMINEE BCV LIMITED":2877.30, "LUL NOMINEE SSL LIMITED":32788.89},
+			"2017-09": {"total":35554.48, "LONDON UNDERGROUND LTD":403.29, "LUL NOMINEE BCV LIMITED":2877.30, "LUL NOMINEE SSL LIMITED":32273.89},
 			"2017-10": {"total":60765.25, "LONDON UNDERGROUND LTD":54283.75, "LUL NOMINEE BCV LIMITED":764.00, "LUL NOMINEE SSL LIMITED":5717.50},
 			"2017-11": {"total":14841.93, "LONDON UNDERGROUND LTD":420.00, "LUL NOMINEE BCV LIMITED":8681.04, "LUL NOMINEE SSL LIMITED":5740.89},
 			"2017-12": {"total":3424.94, "LUL NOMINEE SSL LIMITED":3424.94},
@@ -309,7 +310,7 @@
 			"2018-06": {"total":2174.60, "LUL NOMINEE BCV LIMITED":1618.50, "LUL NOMINEE SSL LIMITED":556.10},
 			"2018-07": {"total":7480.83, "LONDON UNDERGROUND LTD":2769.28, "LUL NOMINEE BCV LIMITED":529.49, "LUL NOMINEE SSL LIMITED":4182.06},
 			"2018-08": {"total":16389.08, "LUL NOMINEE BCV LIMITED":2859.80, "LUL NOMINEE SSL LIMITED":3195.78, "TUBE LINES LTD":10333.50},
-			"2018-09": {"total":11591.37, "LONDON UNDERGROUND LTD":10367.49, "LUL NOMINEE SSL LIMITED":1223.88},
+			"2018-09": {"total":9623.85, "LONDON UNDERGROUND LTD":8399.97, "LUL NOMINEE SSL LIMITED":1223.88},
 			"2018-10": {"total":6293.18, "LONDON UNDERGROUND LTD":4672.63, "LUL NOMINEE BCV LIMITED":1337.80, "LUL NOMINEE SSL LIMITED":282.75},
 			"2018-11": {"total":3294.48, "LONDON UNDERGROUND LTD":1067.96, "LUL NOMINEE BCV LIMITED":1104.71, "LUL NOMINEE SSL LIMITED":1121.81},
 			"2018-12": {"total":2716.36, "LONDON UNDERGROUND LTD":289.20, "LUL NOMINEE BCV LIMITED":1176.56, "LUL NOMINEE SSL LIMITED":1250.60},
@@ -318,21 +319,22 @@
 			"2019-03": {"total":10575.24, "LUL NOMINEE SSL LIMITED":10575.24},
 			"2019-04": {"total":28439.87, "LONDON UNDERGROUND LTD":6030.20, "LUL NOMINEE BCV LIMITED":2015.86, "LUL NOMINEE SSL LIMITED":20393.81},
 			"2019-05": {"total":44967.96, "LONDON UNDERGROUND LTD":3174.00, "LUL NOMINEE BCV LIMITED":8611.94, "LUL NOMINEE SSL LIMITED":33182.02},
-			"2019-06": {"total":33572.41, "LONDON UNDERGROUND LTD":7700.50, "LUL NOMINEE BCV LIMITED":18948.72, "LUL NOMINEE SSL LIMITED":6923.19},
-			"2019-07": {"total":32821.02, "LONDON UNDERGROUND LTD":1086.65, "LUL NOMINEE BCV LIMITED":10368.26, "LUL NOMINEE SSL LIMITED":21366.11},
+			"2019-06": {"total":19398.97, "LONDON UNDERGROUND LTD":2413.30, "LUL NOMINEE BCV LIMITED":10062.48, "LUL NOMINEE SSL LIMITED":6923.19},
+			"2019-07": {"total":31275.58, "LONDON UNDERGROUND LTD":1086.65, "LUL NOMINEE BCV LIMITED":8822.82, "LUL NOMINEE SSL LIMITED":21366.11},
 			"2019-08": {"total":6555.69, "LONDON UNDERGROUND LTD":2710.00, "LUL NOMINEE SSL LIMITED":3845.69},
 			"2019-09": {"total":25836.26, "LONDON UNDERGROUND LTD":5481.47, "LUL NOMINEE BCV LIMITED":7693.95, "LUL NOMINEE SSL LIMITED":12660.84},
 			"2019-10": {"total":30682.32, "LONDON UNDERGROUND LTD":4276.31, "LUL NOMINEE BCV LIMITED":22419.81, "LUL NOMINEE SSL LIMITED":2338.80, "TUBE LINES LTD":1647.40},
 			"2019-11": {"total":9550.18, "LONDON UNDERGROUND LTD":387.00, "LUL NOMINEE BCV LIMITED":1921.75, "LUL NOMINEE SSL LIMITED":7241.43},
 			"2019-12": {"total":24868.49, "LONDON UNDERGROUND LTD":1226.86, "LUL NOMINEE BCV LIMITED":21746.73, "LUL NOMINEE SSL LIMITED":1894.90},
-			"2020-01": {"total":8558.25, "LUL NOMINEE BCV LIMITED":989.25, "LUL NOMINEE SSL LIMITED":7569.00},
+			"2020-01": {"total":7001.25, "LUL NOMINEE BCV LIMITED":989.25, "LUL NOMINEE SSL LIMITED":6012.00},
 			"2020-02": {"total":24611.48, "LONDON UNDERGROUND LTD":8979.25, "LUL NOMINEE BCV LIMITED":1359.25, "LUL NOMINEE SSL LIMITED":14272.98},
 			"2020-03": {"total":40802.75, "LONDON UNDERGROUND LTD":2006.49, "LUL NOMINEE BCV LIMITED":16605.03, "LUL NOMINEE SSL LIMITED":22191.23},
 			"2020-04": {"total":32269.41, "LONDON UNDERGROUND LTD":9982.52, "LUL NOMINEE BCV LIMITED":15534.61, "LUL NOMINEE SSL LIMITED":6752.28},
 			"2020-05": {"total":18351.44, "LONDON UNDERGROUND LTD":4351.52, "LUL NOMINEE BCV LIMITED":7257.12, "LUL NOMINEE SSL LIMITED":6742.80},
 			"2020-06": {"total":17144.98, "LONDON UNDERGROUND LTD":926.08, "LUL NOMINEE BCV LIMITED":570.00, "LUL NOMINEE SSL LIMITED":15648.90},
 			"2020-08": {"total":4684.25, "LONDON UNDERGROUND LTD":638.00, "LUL NOMINEE SSL LIMITED":4046.25},
-			"2020-09": {"total":715.00, "LONDON UNDERGROUND LTD":360.00, "LUL NOMINEE SSL LIMITED":355.00}
+			"2020-09": {"total":3238.17, "LONDON UNDERGROUND LTD":1127.67, "LUL NOMINEE SSL LIMITED":2110.50},
+			"2020-10": {"total":4639.20, "LUL NOMINEE BCV LIMITED":1077.40, "LUL NOMINEE SSL LIMITED":3561.80}
 		}
 	},
 	"279": {
@@ -368,10 +370,10 @@
 	},
 	"283": {
 		"name": "A&O ENGINEERING DESIGNS LTD",
-		"total": 59442.67,
+		"total": 57153.77,
 		"monthly": {
 			"2018-10": {"total":2286.90, "TRANSPORT TRADING LTD":2286.90},
-			"2019-01": {"total":7955.20, "TRANSPORT TRADING LTD":7955.20},
+			"2019-01": {"total":5666.30, "TRANSPORT TRADING LTD":5666.30},
 			"2019-04": {"total":39774.17, "TRANSPORT TRADING LTD":39774.17},
 			"2019-07": {"total":1000.00, "TRANSPORT TRADING LTD":1000.00},
 			"2019-08": {"total":3026.40, "TRANSPORT TRADING LTD":3026.40},
@@ -405,8 +407,8 @@
 		"name": "A-Z SUDBURY LTD",
 		"total": 15000,
 		"monthly": {
-			"2014-02": {"total":7500.00, "unknown":7500.00},
-			"2014-03": {"total":7500.00, "unknown":7500.00}
+			"2014-02": {"total":7500.00, "Transys Control - TTL":7500.00},
+			"2014-03": {"total":7500.00, "Transys Control - TTL":7500.00}
 		}
 	},
 	"288": {
@@ -446,7 +448,7 @@
 	},
 	"293": {
 		"name": "A.E PETSCHE",
-		"total": 235721.16,
+		"total": 233435.74,
 		"monthly": {
 			"2016-03": {"total":756.61, "LUL NOMINEE BCV LIMITED":756.61},
 			"2016-05": {"total":510.28, "LUL NOMINEE BCV LIMITED":510.28},
@@ -463,7 +465,7 @@
 			"2017-08": {"total":854.06, "LUL NOMINEE BCV LIMITED":854.06},
 			"2017-10": {"total":863.99, "LUL NOMINEE BCV LIMITED":863.99},
 			"2017-11": {"total":373.50, "LUL NOMINEE BCV LIMITED":373.50},
-			"2018-02": {"total":4571.42, "LUL NOMINEE BCV LIMITED":4571.42},
+			"2018-02": {"total":2286.00, "LUL NOMINEE BCV LIMITED":2286.00},
 			"2018-04": {"total":22176.89, "LUL NOMINEE BCV LIMITED":22176.89},
 			"2018-05": {"total":3239.73, "LONDON UNDERGROUND LTD":2375.98, "LUL NOMINEE BCV LIMITED":863.75},
 			"2018-06": {"total":864.15, "LUL NOMINEE BCV LIMITED":864.15},
@@ -484,13 +486,20 @@
 		}
 	},
 	"294": {
+		"name": "A.E. THOMPSON",
+		"total": 1000,
+		"monthly": {
+			"2020-09": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
+		}
+	},
+	"295": {
 		"name": "A.G.T. WELLER",
 		"total": 600,
 		"monthly": {
 			"2017-04": {"total":600.00, "LONDON UNDERGROUND LTD":600.00}
 		}
 	},
-	"295": {
+	"296": {
 		"name": "A.H.I",
 		"alternate-names": [
 			"A.H.I."
@@ -504,32 +513,25 @@
 			"2018-06": {"total":94.00, "LONDON TRANSPORT MUSEUM":94.00}
 		}
 	},
-	"296": {
+	"297": {
+		"name": "A.J.CUMMINGS",
+		"total": 6000,
+		"monthly": {
+			"2020-09": {"total":6000.00, "SURFACE TRANSPORT CORP":6000.00}
+		}
+	},
+	"298": {
 		"name": "A.J.S SCAFFOLDINGLTD",
 		"total": 300,
 		"monthly": {
 			"2018-04": {"total":300.00, "SURFACE TRANSPORT CORP":300.00}
 		}
 	},
-	"297": {
+	"299": {
 		"name": "A.K.AKINWUMI",
 		"total": 250,
 		"monthly": {
-			"2013-12": {"total":250.00, "unknown":250.00}
-		}
-	},
-	"298": {
-		"name": "A.M SALMASI",
-		"total": 1050,
-		"monthly": {
-			"2013-10": {"total":1050.00, "unknown":1050.00}
-		}
-	},
-	"299": {
-		"name": "A.M. GREGORY",
-		"total": 6000,
-		"monthly": {
-			"2020-09": {"total":6000.00, "SURFACE TRANSPORT CORP":6000.00}
+			"2013-12": {"total":250.00, "Licence Fee Refunds":250.00}
 		}
 	}
 	}

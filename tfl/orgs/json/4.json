@@ -1,5 +1,5 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-10"],
 	"data": {
 	"200": {
 		"name": "A & R ENGINEERING LTD",
@@ -65,7 +65,7 @@
 		"name": "A B PATEL",
 		"total": 2013.48,
 		"monthly": {
-			"2013-07": {"total":2013.48, "unknown":2013.48}
+			"2013-07": {"total":2013.48, "Transys Control - TTL":2013.48}
 		}
 	},
 	"209": {
@@ -79,7 +79,7 @@
 		"name": "A C TOURS",
 		"total": 323.86,
 		"monthly": {
-			"2013-11": {"total":323.86, "unknown":323.86}
+			"2013-11": {"total":323.86, "Transys Control - TTL":323.86}
 		}
 	},
 	"211": {
@@ -108,7 +108,7 @@
 		"name": "A E I CABLES LTD",
 		"total": 41053.91,
 		"monthly": {
-			"2014-03": {"total":28979.77, "unknown":28979.77},
+			"2014-03": {"total":28979.77, "Fleet":9773.24, "Traffic Signals":19206.53},
 			"2014-04": {"total":7848.70, "LUL NOMINEE SSL LIMITED":7848.70},
 			"2014-07": {"total":4225.44, "LUL NOMINEE SSL LIMITED":4225.44}
 		}
@@ -134,20 +134,20 @@
 		],
 		"total": 640,
 		"monthly": {
-			"2013-10": {"total":640.00, "unknown":640.00}
+			"2013-10": {"total":640.00, "Track General Maintenance":640.00}
 		}
 	},
 	"218": {
 		"name": "A FULTON COMPANY LTD",
 		"total": 22715.68,
 		"monthly": {
-			"2013-06": {"total":645.00, "unknown":645.00},
-			"2013-08": {"total":645.00, "unknown":645.00},
-			"2013-09": {"total":1612.50, "unknown":1612.50},
-			"2013-11": {"total":619.20, "unknown":619.20},
-			"2013-12": {"total":645.00, "unknown":645.00},
-			"2014-01": {"total":619.20, "unknown":619.20},
-			"2014-03": {"total":619.20, "unknown":619.20},
+			"2013-06": {"total":645.00, "Purchase of Souvenirs for Resale":645.00},
+			"2013-08": {"total":645.00, "Purchase of Souvenirs for Resale":645.00},
+			"2013-09": {"total":1612.50, "Purchase of Souvenirs for Resale":1612.50},
+			"2013-11": {"total":619.20, "Purchase of Souvenirs for Resale":619.20},
+			"2013-12": {"total":645.00, "Purchase of Souvenirs for Resale":645.00},
+			"2014-01": {"total":619.20, "Purchase of Souvenirs for Resale":619.20},
+			"2014-03": {"total":619.20, "Purchase of Souvenirs for Resale":619.20},
 			"2014-07": {"total":619.20, "LT MUSEUM TRADING LTD":619.20},
 			"2014-09": {"total":619.20, "LT MUSEUM TRADING LTD":619.20},
 			"2015-03": {"total":645.00, "LT MUSEUM TRADING LTD":645.00},
@@ -191,7 +191,7 @@
 		"name": "A IFERGAN (DARKEI NOAM LTD)",
 		"total": 1988,
 		"monthly": {
-			"2013-12": {"total":1988.00, "unknown":1988.00}
+			"2013-12": {"total":1988.00, "Licence Fee Refunds":1988.00}
 		}
 	},
 	"224": {
@@ -212,7 +212,7 @@
 		"name": "A J GILBERT LTD",
 		"total": 504.95,
 		"monthly": {
-			"2013-05": {"total":504.95, "unknown":504.95}
+			"2013-05": {"total":504.95, "Plant & Equipment Purchases":504.95}
 		}
 	},
 	"227": {
@@ -224,13 +224,13 @@
 	},
 	"228": {
 		"name": "A J SEWELL LTD",
-		"total": 93894.47,
+		"total": 92403.47,
 		"monthly": {
-			"2013-06": {"total":6783.15, "unknown":6783.15},
-			"2013-09": {"total":3373.05, "unknown":3373.05},
-			"2014-01": {"total":3709.95, "unknown":3709.95},
-			"2014-02": {"total":2646.45, "unknown":2646.45},
-			"2014-03": {"total":913.45, "unknown":913.45},
+			"2013-06": {"total":6783.15, "Management & Support Consultancy":6783.15},
+			"2013-09": {"total":3373.05, "Management & Support Consultancy":3373.05},
+			"2014-01": {"total":3709.95, "Management & Support Consultancy":3709.95},
+			"2014-02": {"total":2646.45, "Management & Support Consultancy":2646.45},
+			"2014-03": {"total":913.45, "Management & Support Consultancy":913.45},
 			"2014-05": {"total":1663.50, "LT MUSEUM TRADING LTD":1663.50},
 			"2014-09": {"total":5048.80, "LT MUSEUM TRADING LTD":5048.80},
 			"2014-12": {"total":3113.45, "LT MUSEUM TRADING LTD":3113.45},
@@ -255,7 +255,7 @@
 			"2018-03": {"total":2934.00, "LT MUSEUM TRADING LTD":2934.00},
 			"2018-05": {"total":3873.20, "LT MUSEUM TRADING LTD":3873.20},
 			"2018-07": {"total":1490.00, "LT MUSEUM TRADING LTD":1490.00},
-			"2018-08": {"total":4832.50, "LT MUSEUM TRADING LTD":4832.50}
+			"2018-08": {"total":3341.50, "LT MUSEUM TRADING LTD":3341.50}
 		}
 	},
 	"229": {
@@ -267,20 +267,20 @@
 	},
 	"230": {
 		"name": "A J WELLS & SONS LTD",
-		"total": 2944583.43,
+		"total": 3006935.43,
 		"monthly": {
-			"2013-04": {"total":13596.00, "unknown":13596.00},
-			"2013-05": {"total":6514.00, "unknown":6514.00},
-			"2013-06": {"total":7246.00, "unknown":7246.00},
-			"2013-07": {"total":66034.72, "unknown":66034.72},
-			"2013-08": {"total":1575.00, "unknown":1575.00},
-			"2013-09": {"total":8699.00, "unknown":8699.00},
-			"2013-10": {"total":49752.00, "unknown":49752.00},
-			"2013-11": {"total":6532.00, "unknown":6532.00},
-			"2013-12": {"total":4535.00, "unknown":4535.00},
-			"2014-01": {"total":69695.80, "unknown":69695.80},
-			"2014-02": {"total":19589.00, "unknown":19589.00},
-			"2014-03": {"total":28757.00, "unknown":28757.00},
+			"2013-04": {"total":13596.00, "Civil Engineering Construction Works":9802.00, "Signalling Systems":3794.00},
+			"2013-05": {"total":6514.00, "Civil Engineering Construction Works":1225.00, "Signalling Systems":4111.00, "Track General Maintenance":1178.00},
+			"2013-06": {"total":7246.00, "Marketing Exhibitions & Events":750.00, "Marketing Services":1645.00, "Signalling Systems":4851.00},
+			"2013-07": {"total":66034.72, "Civil Engineering Construction Works":1162.50, "Maintenance Materials":1340.00, "Sign Manufacture":57705.00, "Signalling Systems":966.00, "Street Furniture":4861.22},
+			"2013-08": {"total":1575.00, "Marketing Exhibitions & Events":635.00, "Marketing Services":690.00, "Stationery":250.00},
+			"2013-09": {"total":8699.00, "Civil Engineering Construction Works":2069.00, "Marketing Exhibitions & Events":2896.00, "Sign Manufacture":268.00, "Signalling Systems":3466.00},
+			"2013-10": {"total":49502.00, "Maintenance Materials":1795.00, "Maintenance of Information Signs":758.00, "Marketing Exhibitions & Events":16659.00, "Marketing Services":23045.00, "Signalling Systems":2095.00, "Stationery":5150.00},
+			"2013-11": {"total":6532.00, "Civil Engineering Construction Works":3471.00, "Marketing Services":655.00, "Signalling Systems":2406.00},
+			"2013-12": {"total":4535.00, "Maintenance Materials":2937.00, "Marketing Exhibitions & Events":320.00, "Marketing Services":320.00, "Signalling Systems":958.00},
+			"2014-01": {"total":69695.80, "Building Maintenance & Repairs":1284.00, "Maintenance Materials":1225.00, "Maintenance of Information Signs":958.00, "Marketing Exhibitions & Events":10869.00, "Marketing Services":53137.80, "Signalling Systems":2222.00},
+			"2014-02": {"total":19589.00, "Civil Engineering Construction Works":264.00, "Management & Support Consultancy":522.00, "Marketing Exhibitions & Events":16521.00, "Signalling Systems":2282.00},
+			"2014-03": {"total":28243.00, "Maintenance Materials":4130.00, "Marketing Exhibitions & Events":4290.00, "Marketing Services":16810.00, "Signalling Systems":3013.00},
 			"2014-04": {"total":5920.50, "LONDON BUS SERVICES LTD":2267.50, "LONDON UNDERGROUND LTD":961.00, "LUL NOMINEE BCV LIMITED":498.00, "LUL NOMINEE SSL LIMITED":2194.00},
 			"2014-05": {"total":11729.50, "LONDON BUS SERVICES LTD":3089.50, "LONDON UNDERGROUND LTD":350.00, "LUL NOMINEE SSL LIMITED":440.00, "TFL CORPORATE":7850.00},
 			"2014-06": {"total":73717.76, "LONDON BUS SERVICES LTD":2067.00, "LONDON UNDERGROUND LTD":65707.76, "LUL NOMINEE SSL LIMITED":5943.00},
@@ -353,27 +353,28 @@
 			"2020-02": {"total":6235.00, "LONDON UNDERGROUND LTD":5535.00, "LUL NOMINEE SSL LIMITED":285.00, "TFL CORPORATE":415.00},
 			"2020-03": {"total":435.00, "TFL CORPORATE":435.00},
 			"2020-04": {"total":1949.00, "LUL NOMINEE SSL LIMITED":1949.00},
-			"2020-05": {"total":68201.77, "LONDON UNDERGROUND LTD":1705.00, "LUL NOMINEE BCV LIMITED":1230.00, "LUL NOMINEE SSL LIMITED":65266.77}
+			"2020-05": {"total":68201.77, "LONDON UNDERGROUND LTD":1705.00, "LUL NOMINEE BCV LIMITED":1230.00, "LUL NOMINEE SSL LIMITED":65266.77},
+			"2020-10": {"total":63116.00, "LONDON UNDERGROUND LTD":2005.00, "LUL NOMINEE BCV LIMITED":3560.00, "LUL NOMINEE SSL LIMITED":1271.00, "TFL CORPORATE":56280.00}
 		}
 	},
 	"231": {
 		"name": "A JOCKTHAN",
 		"total": 250,
 		"monthly": {
-			"2014-01": {"total":250.00, "unknown":250.00}
+			"2014-01": {"total":250.00, "Licence Fee Refunds":250.00}
 		}
 	},
 	"232": {
 		"name": "A K CONTRACTS",
 		"total": 184391,
 		"monthly": {
-			"2013-07": {"total":1800.00, "unknown":1800.00},
-			"2013-08": {"total":3730.00, "unknown":3730.00},
-			"2013-09": {"total":9100.00, "unknown":9100.00},
-			"2013-10": {"total":1500.00, "unknown":1500.00},
-			"2013-11": {"total":6890.00, "unknown":6890.00},
-			"2014-02": {"total":6550.00, "unknown":6550.00},
-			"2014-03": {"total":9443.00, "unknown":9443.00},
+			"2013-07": {"total":1800.00, "Building Maintenance & Repairs":1800.00},
+			"2013-08": {"total":3730.00, "Building Maintenance & Repairs":3730.00},
+			"2013-09": {"total":9100.00, "Building Maintenance & Repairs":9100.00},
+			"2013-10": {"total":1500.00, "Building Maintenance & Repairs":1500.00},
+			"2013-11": {"total":6890.00, "Building Maintenance & Repairs":6890.00},
+			"2014-02": {"total":6550.00, "Building Maintenance & Repairs":6550.00},
+			"2014-03": {"total":9443.00, "Building Maintenance & Repairs":9443.00},
 			"2014-04": {"total":36108.00, "TRANSPORT TRADING LTD":36108.00},
 			"2014-06": {"total":6540.00, "TRANSPORT TRADING LTD":6540.00},
 			"2014-07": {"total":4945.00, "TRANSPORT TRADING LTD":4945.00},
@@ -429,7 +430,7 @@
 		"name": "A KIFLE",
 		"total": 2150,
 		"monthly": {
-			"2014-03": {"total":2150.00, "unknown":2150.00}
+			"2014-03": {"total":2150.00, "Licence Fee Refunds":2150.00}
 		}
 	},
 	"238": {
@@ -471,15 +472,15 @@
 	},
 	"243": {
 		"name": "A M FORKTRUCKS LTD",
-		"total": 123774.44,
+		"total": 123518.77,
 		"monthly": {
-			"2013-07": {"total":9175.00, "unknown":9175.00},
-			"2013-09": {"total":1577.48, "unknown":1577.48},
-			"2013-11": {"total":1027.01, "unknown":1027.01},
-			"2013-12": {"total":1152.68, "unknown":1152.68},
-			"2014-01": {"total":641.34, "unknown":641.34},
-			"2014-02": {"total":641.34, "unknown":641.34},
-			"2014-03": {"total":641.34, "unknown":641.34},
+			"2013-07": {"total":9175.00, "Postage & Couriers":9175.00},
+			"2013-09": {"total":1577.48, "Hire Plant & Equipment":1066.14, "Subcontractor Labour":511.34},
+			"2013-11": {"total":1027.01, "Hire Plant & Equipment":771.34, "Subcontractor Labour":255.67},
+			"2013-12": {"total":897.01, "Hire Plant & Equipment":897.01, "Subcontractor Labour":0.00},
+			"2014-01": {"total":641.34, "Hire Plant & Equipment":641.34},
+			"2014-02": {"total":641.34, "Hire Plant & Equipment":641.34},
+			"2014-03": {"total":641.34, "Hire Plant & Equipment":641.34},
 			"2014-05": {"total":22517.00, "TUBE LINES LTD":22517.00},
 			"2014-06": {"total":12027.05, "TUBE LINES LTD":12027.05},
 			"2014-07": {"total":2636.34, "TUBE LINES LTD":2636.34},
@@ -554,7 +555,7 @@
 		"name": "A MAJEED",
 		"total": 1024,
 		"monthly": {
-			"2013-12": {"total":1024.00, "unknown":1024.00}
+			"2013-12": {"total":1024.00, "Licence Fee Refunds":1024.00}
 		}
 	},
 	"248": {
