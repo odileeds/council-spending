@@ -1,7 +1,788 @@
 {
-	"range": ["2009-09","2020-09"],
+	"range": ["2009-09","2020-10"],
 	"data": {
 	"5050": {
+		"name": "British Red Cross",
+		"total": 768,
+		"monthly": {
+			"2012-07": {"total":768.00, "Communities":768.00}
+		}
+	},
+	"5051": {
+		"name": "British Rubber Company",
+		"total": 6291,
+		"monthly": {
+			"2011-05": {"total":3680.00, "Safer and Stronger":3680.00},
+			"2013-11": {"total":740.00, "Communities":740.00},
+			"2014-06": {"total":790.00, "Communities":790.00},
+			"2015-11": {"total":551.00, "Communities & Service Support":551.00},
+			"2018-02": {"total":530.00, "Communities & Service Support":530.00}
+		}
+	},
+	"5052": {
+		"name": "British Sugar PLC",
+		"total": 4298.11,
+		"monthly": {
+			"2012-12": {"total":512.28, "Communities":512.28},
+			"2013-06": {"total":519.05, "Communities":519.05},
+			"2013-07": {"total":513.00, "Communities":513.00},
+			"2014-06": {"total":2753.78, "Communities":2753.78}
+		}
+	},
+	"5053": {
+		"name": "British Telecommunications",
+		"total": 10821.13,
+		"monthly": {
+			"2011-03": {"total":514.06, "Safer and Stronger":514.06},
+			"2012-10": {"total":9731.70, "Deputy Chief Executive":9731.70},
+			"2013-11": {"total":575.37, "Deputy Chief Executive":575.37}
+		}
+	},
+	"5054": {
+		"name": "British Telecommunications PLC",
+		"total": 13622.33,
+		"monthly": {
+			"2010-10": {"total":7682.19, "Adults, Health and Social Care":0.00},
+			"2011-01": {"total":5940.14, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5055": {
+		"name": "British Telecommunications Plc",
+		"total": 1490389.28,
+		"monthly": {
+			"2010-10": {"total":19181.32, "Adults, Health and Social Care":0.00, "Chief Executive's Office":10138.50, "Children and Young People":708.21, "Deputy Chief Executive":5204.04, "Safer and Stronger":2373.82},
+			"2010-11": {"total":12122.79, "Children and Young People":445.50, "Deputy Chief Executive":5520.00, "Economy and Environment":3729.41, "Safer and Stronger":2427.88},
+			"2010-12": {"total":13709.09, "Children and Young People":1817.44, "Deputy Chief Executive":3176.74, "Safer and Stronger":8714.91},
+			"2011-01": {"total":12638.64, "Adults, Health and Social Care":0.00, "Chief Executive's Office":37.53, "Children and Young People":2009.41, "Deputy Chief Executive":5204.04, "Economy and Environment":656.28, "Safer and Stronger":4009.72},
+			"2011-02": {"total":24243.57, "Adults, Health and Social Care":0.00, "Chief Executive's Office":5774.90, "Children and Young People":748.22, "Deputy Chief Executive":5520.00, "Economy and Environment":3068.92, "Safer and Stronger":8652.90},
+			"2011-03": {"total":5297.91, "Children and Young People":2456.75, "Deputy Chief Executive":490.00, "Economy and Environment":426.52, "Safer and Stronger":1924.64},
+			"2011-04": {"total":43008.26, "Children and Young People":1063.15, "Deputy Chief Executive":33168.85, "Safer and Stronger":8776.26},
+			"2011-05": {"total":33135.39, "Deputy Chief Executive":32519.28, "Safer and Stronger":616.11},
+			"2011-06": {"total":11250.34, "Deputy Chief Executive":11250.34},
+			"2011-07": {"total":20872.61, "Children and Young People":490.00, "Deputy Chief Executive":20382.61},
+			"2011-08": {"total":23934.08, "Deputy Chief Executive":23934.08},
+			"2011-09": {"total":12924.40, "Deputy Chief Executive":12924.40},
+			"2011-10": {"total":24933.00, "Deputy Chief Executive":20862.10, "Economy and Environment":4070.90},
+			"2011-11": {"total":17609.40, "Deputy Chief Executive":17609.40},
+			"2011-12": {"total":7876.53, "Deputy Chief Executive":7876.53},
+			"2012-01": {"total":30196.53, "Deputy Chief Executive":30196.53},
+			"2012-02": {"total":18470.82, "Deputy Chief Executive":18470.82},
+			"2012-03": {"total":8824.37, "Deputy Chief Executive":8824.37},
+			"2012-04": {"total":49176.50, "Deputy Chief Executive":49176.50},
+			"2012-05": {"total":25313.59, "Deputy Chief Executive":25313.59},
+			"2012-06": {"total":7633.52, "Deputy Chief Executive":7633.52},
+			"2012-07": {"total":31281.86, "Deputy Chief Executive":31281.86},
+			"2012-08": {"total":18182.08, "Deputy Chief Executive":18182.08},
+			"2012-09": {"total":9941.23, "Deputy Chief Executive":9941.23},
+			"2012-10": {"total":15324.18, "Deputy Chief Executive":15324.18},
+			"2012-11": {"total":8190.79, "Deputy Chief Executive":8190.79},
+			"2012-12": {"total":13524.24, "Deputy Chief Executive":13524.24},
+			"2013-01": {"total":21815.61, "Deputy Chief Executive":20727.61, "Economy and Environment":1088.00},
+			"2013-02": {"total":13527.54, "Deputy Chief Executive":13527.54},
+			"2013-03": {"total":7985.23, "Deputy Chief Executive":7985.23},
+			"2013-04": {"total":27882.95, "Deputy Chief Executive":27882.95},
+			"2013-05": {"total":11026.06, "Deputy Chief Executive":11026.06},
+			"2013-06": {"total":3359.61, "Deputy Chief Executive":3359.61},
+			"2013-07": {"total":16025.25, "Deputy Chief Executive":16025.25},
+			"2013-08": {"total":9351.09, "Deputy Chief Executive":9351.09},
+			"2013-09": {"total":132183.55, "Communities":28000.00, "Deputy Chief Executive":104183.55},
+			"2013-10": {"total":15052.28, "Deputy Chief Executive":15052.28},
+			"2013-11": {"total":5413.69, "Deputy Chief Executive":5413.69},
+			"2014-01": {"total":9975.98, "Deputy Chief Executive":9975.98},
+			"2014-02": {"total":6125.43, "Deputy Chief Executive":6125.43},
+			"2014-05": {"total":2885.93, "Deputy Chief Executive":2208.83, "Economy and Environment":677.10},
+			"2014-06": {"total":3260.19, "Deputy Chief Executive":3260.19},
+			"2014-07": {"total":691.80, "Deputy Chief Executive":691.80},
+			"2014-08": {"total":4027.95, "Deputy Chief Executive":4027.95},
+			"2014-09": {"total":541.68, "Economy and Environment":541.68},
+			"2014-10": {"total":7497.09, "Economy and Environment":7497.09},
+			"2014-11": {"total":1817.10, "Deputy Chief Executive":1817.10},
+			"2015-02": {"total":1123.08, "Deputy Chief Executive":1123.08},
+			"2015-03": {"total":656.51, "Deputy Chief Executive":656.51},
+			"2015-04": {"total":1354.20, "Economy and Environment":1354.20},
+			"2015-07": {"total":1354.20, "Economy and Environment":1354.20},
+			"2015-09": {"total":10648.93, "Economy and Environment":10648.93},
+			"2015-10": {"total":549.33, "Deputy Chief Executive":549.33},
+			"2015-12": {"total":4820.45, "Economy and Environment":4820.45},
+			"2016-04": {"total":7583.52, "Economy and Environment":7583.52},
+			"2016-05": {"total":88531.51, "Economy and Environment":88531.51},
+			"2017-03": {"total":554071.50, "Economy and Environment":554071.50},
+			"2018-12": {"total":453.00, "Deputy Chief Executive (obsolete)":453.00}
+		}
+	},
+	"5056": {
+		"name": "British Thornton ESF Ltd",
+		"total": 17234.24,
+		"monthly": {
+			"2012-05": {"total":6445.90, "Children and Young People":6445.90},
+			"2014-10": {"total":10788.34, "Children and Young People":10788.34}
+		}
+	},
+	"5057": {
+		"name": "British Waterways",
+		"total": 6700,
+		"monthly": {
+			"2011-01": {"total":1400.00, "Economy and Environment":1400.00},
+			"2012-01": {"total":3550.00, "Economy and Environment":3550.00},
+			"2012-04": {"total":1750.00, "Economy and Environment":1750.00}
+		}
+	},
+	"5058": {
+		"name": "British Youth Council",
+		"total": 7470,
+		"monthly": {
+			"2012-11": {"total":885.00, "Children and Young People":885.00},
+			"2013-06": {"total":1005.00, "Children and Young People":1005.00},
+			"2014-07": {"total":640.00, "Children and Young People":640.00},
+			"2015-05": {"total":570.00, "Children and Young People":570.00},
+			"2016-03": {"total":500.00, "Children and Young People":500.00},
+			"2016-04": {"total":650.00, "Children and Young People":650.00},
+			"2017-05": {"total":1110.00, "Children and Young People":1110.00},
+			"2018-03": {"total":525.00, "Children and Young People (obsolete)":525.00},
+			"2019-05": {"total":1020.00, "Children and Young People's Services":1020.00},
+			"2020-04": {"total":565.00, "Children and Young People's Services":565.00}
+		}
+	},
+	"5059": {
+		"name": "Britton Price Ltd",
+		"total": 2944.82,
+		"monthly": {
+			"2012-06": {"total":1370.00, "Communities":1370.00},
+			"2012-12": {"total":855.79, "Communities":855.79},
+			"2013-04": {"total":719.03, "Communities":719.03}
+		}
+	},
+	"5060": {
+		"name": "Brixham College",
+		"total": 3153,
+		"monthly": {
+			"2013-01": {"total":623.00, "Children and Young People":623.00},
+			"2014-10": {"total":630.00, "Children and Young People":630.00},
+			"2015-01": {"total":630.00, "Children and Young People":630.00},
+			"2015-05": {"total":640.00, "Children and Young People":640.00},
+			"2015-07": {"total":630.00, "Children and Young People":630.00}
+		}
+	},
+	"5061": {
+		"name": "Broadbent Stanley Ltd",
+		"total": 7125,
+		"monthly": {
+			"2014-03": {"total":4000.00, "Economy and Environment":4000.00},
+			"2015-01": {"total":3125.00, "Economy and Environment":3125.00}
+		}
+	},
+	"5062": {
+		"name": "Broadcliffe Fabrications",
+		"total": 1101,
+		"monthly": {
+			"2010-10": {"total":621.00, "Economy and Environment":621.00},
+			"2010-11": {"total":480.00, "Economy and Environment":480.00}
+		}
+	},
+	"5063": {
+		"name": "Broadley & Co",
+		"total": 40577,
+		"monthly": {
+			"2010-11": {"total":12998.80, "Adults, Health and Social Care":0.00},
+			"2011-02": {"total":6499.40, "Adults, Health and Social Care":0.00},
+			"2011-05": {"total":750.00, "Adults, Health and Social Care":0.00},
+			"2011-07": {"total":6484.00, "Adults, Health and Social Care":0.00},
+			"2011-09": {"total":7347.40, "Adults, Health and Social Care":0.00},
+			"2011-12": {"total":6497.40, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5064": {
+		"name": "Broadley & Co   (Services)",
+		"total": 7347.4,
+		"monthly": {
+			"2012-05": {"total":6497.40, "Adults, Health and Social Care":0.00},
+			"2012-06": {"total":850.00, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5065": {
+		"name": "Broadley & Co  (Charges)",
+		"total": 850,
+		"monthly": {
+			"2013-09": {"total":850.00, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5066": {
+		"name": "Broadway House Chambers- Fees Account",
+		"total": 54353.75,
+		"monthly": {
+			"2014-02": {"total":430.00, "Children and Young People":430.00},
+			"2014-04": {"total":700.00, "Children and Young People":700.00},
+			"2015-10": {"total":1775.00, "Children and Young People":1775.00},
+			"2016-03": {"total":1750.00, "Economy and Environment":1750.00},
+			"2016-05": {"total":1750.00, "Economy and Environment":1750.00},
+			"2016-07": {"total":1230.00, "Economy and Environment":1230.00},
+			"2016-09": {"total":450.00, "Economy and Environment":450.00},
+			"2017-02": {"total":1200.00, "Economy and Environment":1200.00},
+			"2017-03": {"total":5260.00, "Deputy Chief Executive":5260.00},
+			"2017-04": {"total":1500.00, "Chief Executive's Office":750.00, "Deputy Chief Executive":750.00},
+			"2018-03": {"total":1840.00, "Economy and Environment (obsolete)":1840.00},
+			"2018-07": {"total":450.00, "Economy and Environment (obsolete)":450.00},
+			"2018-12": {"total":600.00, "Economy and Environment (obsolete)":600.00},
+			"2019-03": {"total":1010.00, "Economy and Environment (obsolete)":1010.00},
+			"2019-04": {"total":3525.00, "Economy and Environment (obsolete)":3525.00},
+			"2019-06": {"total":1200.00, "Economy and Environment (obsolete)":1200.00},
+			"2019-07": {"total":2150.00, "Economy and Environment (obsolete)":2150.00},
+			"2019-11": {"total":9587.50, "Communities & Service Support (obsolete)":4750.00, "Economy and Environment (obsolete)":4837.50},
+			"2020-01": {"total":750.00, "Economy and Environment (obsolete)":750.00},
+			"2020-04": {"total":1362.50, "Children and Young People's Services":462.50, "Communities & Service Support (obsolete)":900.00},
+			"2020-05": {"total":875.00, "Children and Young People's Services":875.00},
+			"2020-06": {"total":2123.75, "Children and Young People's Services":2123.75},
+			"2020-07": {"total":7375.00, "Children and Young People's Services":4925.00, "Deputy Chief Executive (obsolete)":2450.00},
+			"2020-08": {"total":2800.00, "Children and Young People's Services":2800.00},
+			"2020-09": {"total":2210.00, "Children and Young People's Services":2210.00},
+			"2020-10": {"total":450.00, "Children and Young People's Services":450.00}
+		}
+	},
+	"5067": {
+		"name": "Broadwood Educational Services Ltd",
+		"total": 3200557.8,
+		"monthly": {
+			"2010-10": {"total":10286.43, "Children and Young People":10286.43},
+			"2011-01": {"total":19445.86, "Children and Young People":19445.86},
+			"2011-03": {"total":12400.08, "Children and Young People":12400.08},
+			"2011-05": {"total":231528.58, "Children and Young People":231528.58},
+			"2011-07": {"total":10990.98, "Children and Young People":10990.98},
+			"2011-10": {"total":50023.05, "Children and Young People":50023.05},
+			"2012-03": {"total":319227.30, "Children and Young People":319227.30},
+			"2012-09": {"total":20356.98, "Children and Young People":20356.98},
+			"2013-03": {"total":319227.30, "Children and Young People":319227.30},
+			"2014-02": {"total":319224.36, "Children and Young People":319224.36},
+			"2014-03": {"total":900.00, "Children and Young People":900.00},
+			"2015-02": {"total":92537.64, "Children and Young People":92537.64},
+			"2015-03": {"total":2000.00, "Children and Young People":2000.00},
+			"2015-04": {"total":3400.00, "Children and Young People":3400.00},
+			"2015-06": {"total":106408.12, "Children and Young People's Services":106408.12},
+			"2015-10": {"total":720.00, "Children and Young People":720.00},
+			"2015-11": {"total":122778.60, "Children and Young People":122778.60},
+			"2016-01": {"total":88400.59, "Children and Young People":88400.59},
+			"2016-05": {"total":116229.26, "Children and Young People":116229.26},
+			"2016-08": {"total":1600.00, "Children and Young People":1600.00},
+			"2016-10": {"total":114593.36, "Children and Young People":114593.36},
+			"2016-12": {"total":18540.00, "Children and Young People":18540.00},
+			"2017-01": {"total":100365.83, "Children and Young People":100365.83},
+			"2017-02": {"total":6120.00, "Children and Young People":6120.00},
+			"2017-05": {"total":108045.17, "Children and Young People":108045.17},
+			"2017-10": {"total":114593.36, "Children and Young People":114593.36},
+			"2018-02": {"total":88399.08, "Children and Young People":88399.08},
+			"2018-03": {"total":18240.00, "Children and Young People (obsolete)":18240.00},
+			"2018-05": {"total":120585.17, "Children and Young People (obsolete)":120585.17},
+			"2018-09": {"total":119504.50, "Children and Young People (obsolete)":119504.50},
+			"2019-02": {"total":97583.40, "Children and Young People's Services":97583.40},
+			"2019-09": {"total":12920.00, "Children and Young People's Services":12920.00},
+			"2019-10": {"total":121282.50, "Children and Young People's Services":121282.50},
+			"2020-01": {"total":92174.70, "Children and Young People's Services":92174.70},
+			"2020-04": {"total":101877.30, "Children and Young People's Services":101877.30},
+			"2020-09": {"total":118048.30, "Children and Young People's Services":118048.30}
+		}
+	},
+	"5068": {
+		"name": "Broadwood Residential Ltd",
+		"total": 1049131.06,
+		"monthly": {
+			"2010-10": {"total":10628.66, "Children and Young People":10628.66},
+			"2010-11": {"total":10285.80, "Children and Young People":10285.80},
+			"2010-12": {"total":10628.66, "Children and Young People":10628.66},
+			"2011-01": {"total":10628.66, "Children and Young People":10628.66},
+			"2011-03": {"total":6857.20, "Children and Young People":6857.20},
+			"2012-03": {"total":11314.38, "Children and Young People":11314.38},
+			"2012-04": {"total":10285.80, "Children and Young People":10285.80},
+			"2012-05": {"total":10628.66, "Children and Young People":10628.66},
+			"2012-06": {"total":10285.80, "Children and Young People":10285.80},
+			"2012-10": {"total":10714.20, "Children and Young People":10714.20},
+			"2012-11": {"total":11071.34, "Children and Young People":11071.34},
+			"2012-12": {"total":10714.20, "Children and Young People":10714.20},
+			"2013-01": {"total":22142.68, "Children and Young People":22142.68},
+			"2013-02": {"total":9999.92, "Children and Young People":9999.92},
+			"2013-04": {"total":11071.34, "Children and Young People":11071.34},
+			"2013-05": {"total":21785.54, "Children and Young People":21785.54},
+			"2013-07": {"total":10714.20, "Children and Young People":10714.20},
+			"2013-08": {"total":11071.34, "Children and Young People":11071.34},
+			"2013-09": {"total":11071.34, "Children and Young People":11071.34},
+			"2013-10": {"total":21785.54, "Children and Young People":21785.54},
+			"2013-11": {"total":10714.20, "Children and Young People":10714.20},
+			"2013-12": {"total":11071.34, "Children and Young People":11071.34},
+			"2014-01": {"total":11071.34, "Children and Young People":11071.34},
+			"2014-02": {"total":9999.92, "Children and Young People":9999.92},
+			"2014-03": {"total":11071.34, "Children and Young People":11071.34},
+			"2014-04": {"total":10714.20, "Children and Young People":10714.20},
+			"2014-06": {"total":21785.54, "Children and Young People":21785.54},
+			"2014-07": {"total":12642.80, "Children and Young People":12642.80},
+			"2014-09": {"total":30456.97, "Children and Young People":30456.97},
+			"2014-10": {"total":41828.31, "Children and Young People":41828.31},
+			"2014-12": {"total":41828.31, "Children and Young People":41828.31},
+			"2015-02": {"total":21257.01, "Children and Young People":21257.01},
+			"2015-03": {"total":40456.89, "Children and Young People":40456.89},
+			"2015-05": {"total":20571.30, "Children and Young People":20571.30},
+			"2015-06": {"total":41828.31, "Children and Young People's Services":41828.31},
+			"2015-08": {"total":11071.34, "Children and Young People":11071.34},
+			"2015-09": {"total":21257.01, "Children and Young People":21257.01},
+			"2015-10": {"total":30942.72, "Children and Young People":30942.72},
+			"2015-11": {"total":9857.10, "Children and Young People":9857.10},
+			"2016-01": {"total":10185.67, "Children and Young People":10185.67},
+			"2016-02": {"total":10185.67, "Children and Young People":10185.67},
+			"2016-12": {"total":38000.00, "Children and Young People":38000.00},
+			"2017-01": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-02": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-03": {"total":29500.00, "Children and Young People":29500.00},
+			"2017-05": {"total":15000.00, "Children and Young People":15000.00},
+			"2017-06": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-07": {"total":15000.00, "Children and Young People":15000.00},
+			"2017-08": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-09": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-10": {"total":15000.00, "Children and Young People":15000.00},
+			"2017-11": {"total":15500.00, "Children and Young People":15500.00},
+			"2017-12": {"total":15000.00, "Children and Young People":15000.00},
+			"2018-01": {"total":15500.00, "Children and Young People":15500.00},
+			"2018-02": {"total":15500.00, "Children and Young People":15500.00},
+			"2018-11": {"total":13185.71, "Children and Young People's Services":13185.71},
+			"2019-06": {"total":109962.80, "Children and Young People's Services":109962.80}
+		}
+	},
+	"5069": {
+		"name": "Brocklyn Designs Ltd",
+		"alternate-names": [
+			"Brocklyn Designs Limited"
+		],
+		"total": 18412.49,
+		"monthly": {
+			"2014-01": {"total":8135.00, "Economy and Environment":8135.00},
+			"2014-07": {"total":6783.73, "Economy and Environment":6783.73},
+			"2015-02": {"total":3493.76, "Economy and Environment":3493.76}
+		}
+	},
+	"5070": {
+		"name": "Brompton Hall School",
+		"total": 109086,
+		"monthly": {
+			"2016-12": {"total":21817.00, "Children and Young People":21817.00},
+			"2017-04": {"total":21817.00, "Children and Young People":21817.00},
+			"2017-08": {"total":21818.00, "Children and Young People":21818.00},
+			"2017-12": {"total":21817.00, "Children and Young People":21817.00},
+			"2018-04": {"total":21817.00, "Children and Young People (obsolete)":21817.00}
+		}
+	},
+	"5071": {
+		"name": "Bron Sanders",
+		"total": 832.39,
+		"monthly": {
+			"2012-03": {"total":832.39, "Children and Young People":832.39}
+		}
+	},
+	"5072": {
+		"name": "Bronia Hartley",
+		"total": 500,
+		"monthly": {
+			"2013-01": {"total":500.00, "Economy and Environment":500.00}
+		}
+	},
+	"5073": {
+		"name": "Bronte Academy Trust T/A Haworth Primary School",
+		"total": 16177,
+		"monthly": {
+			"2017-02": {"total":1890.00, "Children and Young People":1890.00},
+			"2017-04": {"total":1890.00, "Children and Young People":1890.00},
+			"2017-08": {"total":1260.00, "Children and Young People":1260.00},
+			"2018-02": {"total":1107.00, "Children and Young People":1107.00},
+			"2018-06": {"total":1630.00, "Children and Young People (obsolete)":1630.00},
+			"2018-08": {"total":2100.00, "Children and Young People (obsolete)":2100.00},
+			"2019-02": {"total":1400.00, "Children and Young People's Services":1400.00},
+			"2019-06": {"total":1400.00, "Children and Young People's Services":1400.00},
+			"2019-10": {"total":1400.00, "Children and Young People's Services":1400.00},
+			"2020-03": {"total":700.00, "Children and Young People's Services":700.00},
+			"2020-06": {"total":700.00, "Children and Young People's Services":700.00},
+			"2020-08": {"total":700.00, "Children and Young People's Services":700.00}
+		}
+	},
+	"5074": {
+		"name": "Bronte Boats",
+		"total": 1460,
+		"monthly": {
+			"2012-08": {"total":500.00, "Communities":500.00},
+			"2014-04": {"total":960.00, "Economy and Environment":960.00}
+		}
+	},
+	"5075": {
+		"name": "Bronte Park Nursing Home",
+		"total": 49958.87,
+		"monthly": {
+			"2012-02": {"total":2279.16, "Adults, Health and Social Care":0.00},
+			"2012-03": {"total":1636.32, "Adults, Health and Social Care":0.00},
+			"2012-04": {"total":1636.32, "Adults, Health and Social Care":0.00},
+			"2012-05": {"total":3454.34, "Adults, Health and Social Care":0.00},
+			"2012-07": {"total":3401.44, "Adults, Health and Social Care":0.00},
+			"2012-08": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2012-09": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2012-10": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2012-11": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2012-12": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2013-01": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2013-02": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2013-03": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2013-04": {"total":1700.72, "Adults, Health and Social Care":0.00},
+			"2013-05": {"total":1718.57, "Adults, Health and Social Care":0.00},
+			"2013-06": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2013-07": {"total":3421.04, "Adults, Health and Social Care":0.00},
+			"2013-08": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2013-09": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2013-10": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2013-11": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2013-12": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2014-01": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2014-02": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2014-03": {"total":1710.52, "Adults, Health and Social Care":0.00},
+			"2014-04": {"total":1710.52, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5076": {
+		"name": "Bronte Water Coolers Ltd",
+		"total": 2580.7,
+		"monthly": {
+			"2019-04": {"total":515.25, "Adult Services and Wellbeing":20.00, "Communities & Service Support (obsolete)":258.75, "Economy and Environment (obsolete)":236.50},
+			"2019-08": {"total":498.85, "Adult Services and Wellbeing":20.00, "Communities & Service Support (obsolete)":283.60, "Economy and Environment (obsolete)":195.25},
+			"2019-10": {"total":533.75, "Adult Services and Wellbeing":20.00, "Communities & Service Support (obsolete)":314.25, "Economy and Environment (obsolete)":199.50},
+			"2020-01": {"total":568.55, "Adult Services and Wellbeing":20.00, "Communities & Service Support (obsolete)":354.30, "Economy and Environment (obsolete)":194.25},
+			"2020-04": {"total":464.30, "Adult Services and Wellbeing":20.00, "Communities & Service Support (obsolete)":313.05, "Economy and Environment (obsolete)":131.25}
+		}
+	},
+	"5077": {
+		"name": "Bronwyn Sanders",
+		"total": 5000,
+		"monthly": {
+			"2020-06": {"total":5000.00, "Children and Young People's Services":5000.00}
+		}
+	},
+	"5078": {
+		"name": "Brook Miller Mobility Ltd",
+		"total": 13290.04,
+		"monthly": {
+			"2012-02": {"total":495.04, "Adults, Health and Social Care":0.00},
+			"2014-07": {"total":5750.00, "Adults, Health and Social Care":0.00},
+			"2017-08": {"total":1900.00, "Adults, Health and Social Care":0.00},
+			"2019-08": {"total":5145.00, "Children and Young People's Services":5145.00}
+		}
+	},
+	"5079": {
+		"name": "Brookbank Canoes Ltd",
+		"total": 557.71,
+		"monthly": {
+			"2012-04": {"total":557.71, "Children and Young People":557.71}
+		}
+	},
+	"5080": {
+		"name": "Brooke Edgley Specialist Tech Serv Ltd",
+		"total": 78536.86,
+		"monthly": {
+			"2010-10": {"total":875.00, "Safer and Stronger":875.00},
+			"2010-11": {"total":7270.00, "Safer and Stronger":7270.00},
+			"2010-12": {"total":1178.88, "Children and Young People":1178.88},
+			"2011-01": {"total":4000.00, "Safer and Stronger":4000.00},
+			"2011-02": {"total":4200.00, "Safer and Stronger":4200.00},
+			"2011-03": {"total":5826.00, "Children and Young People":5826.00},
+			"2011-04": {"total":540.00, "Economy and Environment":540.00},
+			"2011-05": {"total":2351.00, "Safer and Stronger":2351.00},
+			"2011-07": {"total":3520.00, "Children and Young People":3520.00},
+			"2011-08": {"total":2626.00, "Safer and Stronger":2626.00},
+			"2011-09": {"total":1191.62, "Safer and Stronger":1191.62},
+			"2011-12": {"total":758.14, "Children and Young People":758.14},
+			"2012-03": {"total":2040.00, "Communities":2040.00},
+			"2012-04": {"total":609.00, "Communities":609.00},
+			"2012-05": {"total":540.00, "Economy and Environment":540.00},
+			"2012-07": {"total":3170.00, "Communities":3170.00},
+			"2012-09": {"total":3333.00, "Economy and Environment":3333.00},
+			"2012-12": {"total":2400.00, "Communities":2100.00, "Economy and Environment":300.00},
+			"2013-02": {"total":495.00, "Deputy Chief Executive":495.00},
+			"2013-05": {"total":835.00, "Economy and Environment":835.00},
+			"2013-06": {"total":3926.00, "Communities":726.00, "Economy and Environment":3200.00},
+			"2013-07": {"total":450.00, "Communities":450.00},
+			"2013-09": {"total":3660.00, "Communities":3660.00},
+			"2013-10": {"total":3770.00, "Adults, Health and Social Care":0.00, "Chief Executive's Office":104.00, "Children and Young People":520.00, "Communities":2002.00, "Deputy Chief Executive":104.00, "Economy and Environment":208.00},
+			"2013-11": {"total":740.00, "Children and Young People":740.00},
+			"2013-12": {"total":560.00, "Communities":560.00},
+			"2014-02": {"total":495.00, "Deputy Chief Executive":495.00},
+			"2014-04": {"total":835.00, "Chief Executive's Office":208.75, "Children and Young People":208.75, "Communities":417.50},
+			"2014-07": {"total":481.72, "Communities & Business Change":481.72},
+			"2014-08": {"total":3751.50, "Adults, Health and Social Care":0.00, "Children and Young People":532.50, "Communities & Business Change":2047.50, "Deputy Chief Executive":106.50, "Economy and Environment":319.50},
+			"2014-10": {"total":440.00, "Communities & Business Change":440.00},
+			"2015-01": {"total":772.00, "Communities & Service Support":718.75, "Economy and Environment":53.25},
+			"2015-02": {"total":495.00, "Deputy Chief Executive":495.00},
+			"2015-04": {"total":3734.00, "Children and Young People":935.00, "Communities & Service Support":2704.00, "Deputy Chief Executive":95.00},
+			"2015-05": {"total":1147.00, "Communities & Service Support":968.00, "Economy and Environment":179.00},
+			"2016-06": {"total":1887.00, "Economy and Environment":1887.00},
+			"2016-07": {"total":3634.00, "Adults, Health and Social Care":0.00, "Children and Young People":2167.00, "Communities & Service Support":676.00}
+		}
+	},
+	"5081": {
+		"name": "Brookfoot Printing Ltd",
+		"total": 21523.94,
+		"monthly": {
+			"2017-04": {"total":3608.00, "Communities & Service Support":3608.00},
+			"2017-08": {"total":9572.94, "Communities & Service Support":9572.94},
+			"2018-01": {"total":3745.00, "Communities & Service Support":3745.00},
+			"2018-02": {"total":4598.00, "Communities & Service Support":4598.00}
+		}
+	},
+	"5082": {
+		"name": "Brooklands Farm Primary School",
+		"total": 1270,
+		"monthly": {
+			"2015-07": {"total":1270.00, "Children and Young People":1270.00}
+		}
+	},
+	"5083": {
+		"name": "Brooklands Residential Home (PC&AL Jowett)",
+		"total": 2111.4,
+		"monthly": {
+			"2012-09": {"total":2111.40, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5084": {
+		"name": "Brooks Ecological Ltd",
+		"total": 3902.4,
+		"monthly": {
+			"2010-10": {"total":1620.60, "Children and Young People":1620.60},
+			"2010-12": {"total":628.30, "Children and Young People":628.30},
+			"2011-12": {"total":1003.50, "Children and Young People":1003.50},
+			"2012-01": {"total":650.00, "Children and Young People":650.00}
+		}
+	},
+	"5085": {
+		"name": "Brooksbank School Sports College",
+		"total": 7005160.8,
+		"monthly": {
+			"2010-10": {"total":544906.00, "Children and Young People":544906.00},
+			"2010-11": {"total":543781.00, "Children and Young People":543781.00},
+			"2010-12": {"total":550333.00, "Children and Young People":550333.00},
+			"2011-01": {"total":543781.00, "Children and Young People":543781.00},
+			"2011-02": {"total":551382.09, "Children and Young People":551382.09},
+			"2011-03": {"total":577909.33, "Children and Young People":577909.33},
+			"2011-04": {"total":613275.00, "Children and Young People":613275.00},
+			"2011-05": {"total":613275.00, "Children and Young People":613275.00},
+			"2011-06": {"total":624648.00, "Children and Young People":624648.00},
+			"2011-07": {"total":620664.00, "Children and Young People":620664.00},
+			"2011-08": {"total":613275.00, "Children and Young People":613275.00},
+			"2011-09": {"total":400338.01, "Children and Young People":400338.01},
+			"2011-12": {"total":2500.65, "Communities":2500.65},
+			"2012-03": {"total":82064.10, "Children and Young People":82064.10},
+			"2012-09": {"total":2625.00, "Children and Young People":2625.00},
+			"2012-12": {"total":1240.00, "Children and Young People":1240.00},
+			"2015-07": {"total":9500.00, "Children and Young People":9500.00},
+			"2015-09": {"total":2400.00, "Economy and Environment":2400.00},
+			"2016-04": {"total":546.00, "Children and Young People":546.00},
+			"2016-07": {"total":5000.00, "Children and Young People":5000.00},
+			"2016-09": {"total":8295.00, "Chief Executive's Office":7500.00, "Children and Young People":795.00},
+			"2017-01": {"total":1092.00, "Communities & Service Support":1092.00},
+			"2017-02": {"total":10000.00, "Economy and Environment":10000.00},
+			"2017-03": {"total":1667.00, "Children and Young People":1667.00},
+			"2017-04": {"total":640.00, "Children and Young People":640.00},
+			"2017-05": {"total":640.00, "Children and Young People":640.00},
+			"2017-08": {"total":3370.00, "Children and Young People":3370.00},
+			"2017-12": {"total":690.00, "Children and Young People":690.00},
+			"2018-02": {"total":3523.00, "Children and Young People":3523.00},
+			"2018-03": {"total":6000.00, "Economy and Environment (obsolete)":6000.00},
+			"2018-06": {"total":2980.00, "Children and Young People (obsolete)":2980.00},
+			"2018-08": {"total":3650.00, "Children and Young People (obsolete)":3650.00},
+			"2019-02": {"total":13084.40, "Children and Young People's Services":13084.40},
+			"2019-03": {"total":4300.00, "Children and Young People's Services":4300.00},
+			"2019-06": {"total":5300.00, "Children and Young People's Services":5300.00},
+			"2019-09": {"total":9431.30, "Children and Young People's Services":9431.30},
+			"2019-10": {"total":4010.00, "Children and Young People's Services":4010.00},
+			"2019-12": {"total":6744.92, "Children and Young People's Services":6744.92},
+			"2020-01": {"total":4500.00, "Economy and Environment (obsolete)":4500.00},
+			"2020-03": {"total":2200.00, "Children and Young People's Services":2200.00},
+			"2020-06": {"total":4700.00, "Children and Young People's Services":4700.00},
+			"2020-08": {"total":4900.00, "Children and Young People's Services":4900.00}
+		}
+	},
+	"5086": {
+		"name": "Brookview Nursing Home Ltd",
+		"total": 3359.16,
+		"monthly": {
+			"2013-12": {"total":3359.16, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5087": {
+		"name": "Brown Computer Services",
+		"total": 505.97,
+		"monthly": {
+			"2011-01": {"total":505.97, "Children and Young People":505.97}
+		}
+	},
+	"5088": {
+		"name": "Brown Fox Quality Care Ltd",
+		"total": 115625.87,
+		"monthly": {
+			"2015-01": {"total":6685.71, "Adults, Health and Social Care":0.00},
+			"2015-03": {"total":9100.00, "Adults, Health and Social Care":0.00},
+			"2015-04": {"total":2785.71, "Adults, Health and Social Care":0.00},
+			"2015-05": {"total":2878.57, "Adults, Health and Social Care":0.00},
+			"2015-06": {"total":2785.71, "Adult Services and Wellbeing":2785.71},
+			"2015-07": {"total":2878.57, "Adults, Health and Social Care":0.00},
+			"2015-08": {"total":2878.57, "Adults, Health and Social Care":0.00},
+			"2015-09": {"total":2785.71, "Adults, Health and Social Care":0.00},
+			"2015-10": {"total":2878.57, "Adults, Health and Social Care":0.00},
+			"2015-11": {"total":3342.85, "Adults, Health and Social Care":0.00},
+			"2015-12": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-01": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-02": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-03": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-04": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-05": {"total":5200.00, "Adults, Health and Social Care":0.00},
+			"2016-06": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-07": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-08": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-09": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-10": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-11": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2016-12": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2017-01": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2017-02": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2017-03": {"total":2600.00, "Adults, Health and Social Care":0.00},
+			"2017-04": {"total":2653.30, "Adults, Health and Social Care":0.00},
+			"2017-05": {"total":5413.20, "Adults, Health and Social Care":0.00},
+			"2017-06": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-07": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-08": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-09": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-10": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-11": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2017-12": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2018-01": {"total":2706.60, "Adults, Health and Social Care":0.00},
+			"2018-02": {"total":2706.60, "Adults, Health and Social Care":0.00}
+		}
+	},
+	"5089": {
+		"name": "Browne Jacobson LLP",
+		"total": 7685.7,
+		"monthly": {
+			"2015-02": {"total":1500.00, "Children and Young People":1500.00},
+			"2017-03": {"total":4388.80, "Chief Executive's Office":4388.80},
+			"2017-12": {"total":1343.90, "Chief Executive's Office":1343.90},
+			"2018-03": {"total":453.00, "Chief Executive's Office (obsolete)":453.00}
+		}
+	},
+	"5090": {
+		"name": "Brownhill Primary Academy",
+		"total": 2540,
+		"monthly": {
+			"2015-05": {"total":640.00, "Children and Young People":640.00},
+			"2015-07": {"total":630.00, "Children and Young People":630.00},
+			"2016-02": {"total":630.00, "Children and Young People":630.00},
+			"2016-05": {"total":640.00, "Children and Young People":640.00}
+		}
+	},
+	"5091": {
+		"name": "Browning House Family Assessment Centre",
+		"total": 387551.85,
+		"monthly": {
+			"2010-10": {"total":1280.04, "Children and Young People":1280.04},
+			"2010-11": {"total":2240.07, "Children and Young People":2240.07},
+			"2010-12": {"total":3570.00, "Children and Young People":3570.00},
+			"2011-01": {"total":2133.40, "Children and Young People":2133.40},
+			"2011-02": {"total":6787.00, "Children and Young People":6787.00},
+			"2011-03": {"total":46410.00, "Children and Young People":46410.00},
+			"2011-04": {"total":14097.50, "Children and Young People":14097.50},
+			"2011-05": {"total":15785.00, "Children and Young People":15785.00},
+			"2011-06": {"total":11151.30, "Children and Young People":11151.30},
+			"2011-07": {"total":11127.00, "Children and Young People":11127.00},
+			"2011-08": {"total":18795.50, "Children and Young People":18795.50},
+			"2011-09": {"total":24000.00, "Children and Young People":24000.00},
+			"2011-10": {"total":30089.20, "Children and Young People":30089.20},
+			"2011-11": {"total":26400.00, "Children and Young People":26400.00},
+			"2012-04": {"total":18000.00, "Children and Young People":18000.00},
+			"2012-05": {"total":26400.00, "Children and Young People":26400.00},
+			"2012-06": {"total":21452.56, "Children and Young People":21452.56},
+			"2012-07": {"total":26433.80, "Children and Young People":26433.80},
+			"2012-08": {"total":6285.71, "Children and Young People":6285.71},
+			"2012-09": {"total":45780.00, "Children and Young People":45780.00},
+			"2012-11": {"total":29333.77, "Children and Young People":29333.77}
+		}
+	},
+	"5092": {
+		"name": "Broxap Ltd",
+		"total": 62470.26,
+		"monthly": {
+			"2011-06": {"total":808.00, "Safer and Stronger":808.00},
+			"2011-07": {"total":488.00, "Safer and Stronger":488.00},
+			"2011-08": {"total":5311.00, "Safer and Stronger":5311.00},
+			"2012-03": {"total":786.00, "Communities":786.00},
+			"2012-05": {"total":1647.76, "Communities":1647.76},
+			"2012-06": {"total":786.00, "Communities":786.00},
+			"2012-08": {"total":900.00, "Communities":900.00},
+			"2013-03": {"total":1645.00, "Communities":1645.00},
+			"2013-07": {"total":925.00, "Communities":925.00},
+			"2013-08": {"total":8325.00, "Communities":8325.00},
+			"2014-03": {"total":6460.00, "Communities":6460.00},
+			"2014-07": {"total":1110.00, "Communities & Business Change":1110.00},
+			"2014-08": {"total":2983.50, "Communities & Business Change":2983.50},
+			"2015-05": {"total":5375.00, "Communities & Service Support":5375.00},
+			"2015-06": {"total":1260.00, "Communities & Service Support (obsolete)":1260.00},
+			"2016-04": {"total":5040.00, "Communities & Service Support":5040.00},
+			"2016-05": {"total":1155.00, "Communities & Service Support":1155.00},
+			"2016-06": {"total":617.00, "Communities & Service Support":617.00},
+			"2016-09": {"total":564.00, "Communities & Service Support":564.00},
+			"2016-10": {"total":990.00, "Communities & Service Support":990.00},
+			"2017-03": {"total":660.00, "Communities & Service Support":660.00},
+			"2017-06": {"total":818.00, "Communities & Service Support":818.00},
+			"2017-07": {"total":1650.00, "Communities & Service Support":1650.00},
+			"2017-08": {"total":1320.00, "Communities & Service Support":1320.00},
+			"2017-09": {"total":3051.00, "Communities & Service Support":3051.00},
+			"2017-11": {"total":4104.00, "Communities & Service Support":4104.00},
+			"2018-01": {"total":1690.00, "Communities & Service Support":1690.00},
+			"2018-06": {"total":2001.00, "Communities & Service Support (obsolete)":2001.00}
+		}
+	},
+	"5093": {
+		"name": "Broxap Ltd (Re Stadia Sports)",
+		"total": 1378.5,
+		"monthly": {
+			"2011-10": {"total":450.00, "Safer and Stronger":450.00},
+			"2011-11": {"total":928.50, "Safer and Stronger":928.50}
+		}
+	},
+	"5094": {
+		"name": "Bruce Fitzgerald",
+		"total": 1000,
+		"monthly": {
+			"2012-03": {"total":1000.00, "Communities":1000.00}
+		}
+	},
+	"5095": {
+		"name": "Bruce Fitzgerald Photography",
+		"total": 1900,
+		"monthly": {
+			"2016-09": {"total":1350.00, "Communities & Service Support":1350.00},
+			"2018-07": {"total":550.00, "Deputy Chief Executive (obsolete)":550.00}
+		}
+	},
+	"5096": {
+		"name": "Brumfitt Factory Equipment Ltd",
+		"total": 600,
+		"monthly": {
+			"2014-03": {"total":600.00, "Economy and Environment":600.00}
+		}
+	},
+	"5097": {
+		"name": "Brunswick",
+		"total": 21896.65,
+		"monthly": {
+			"2019-04": {"total":18495.01, "Adult Services and Wellbeing":18495.01},
+			"2019-05": {"total":3401.64, "Adult Services and Wellbeing":3401.64}
+		}
+	},
+	"5098": {
+		"name": "Bruynzeel Storage Systems Ltd",
+		"total": 4194,
+		"monthly": {
+			"2017-11": {"total":756.00, "Communities & Service Support":756.00},
+			"2019-07": {"total":3438.00, "Communities & Service Support (obsolete)":3438.00}
+		}
+	},
+	"5099": {
 		"name": "Bryan Wood Care Home",
 		"total": 29841.89,
 		"monthly": {
@@ -22,887 +803,6 @@
 			"2011-12": {"total":1672.12, "Adults, Health and Social Care":0.00},
 			"2012-01": {"total":1672.12, "Adults, Health and Social Care":0.00},
 			"2012-02": {"total":1672.12, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5051": {
-		"name": "Bryco Group Ltd",
-		"total": 6350,
-		"monthly": {
-			"2013-05": {"total":6350.00, "Economy and Environment":6350.00}
-		}
-	},
-	"5052": {
-		"name": "Bubble Floss Cottage",
-		"total": 1000,
-		"monthly": {
-			"2012-10": {"total":1000.00, "Economy and Environment":1000.00}
-		}
-	},
-	"5053": {
-		"name": "Buchanan Computing",
-		"total": 181513.72,
-		"monthly": {
-			"2011-04": {"total":3826.00, "Economy and Environment":3826.00},
-			"2012-05": {"total":3826.00, "Economy and Environment":3826.00},
-			"2013-05": {"total":3826.00, "Economy and Environment":3826.00},
-			"2014-05": {"total":2888.00, "Economy and Environment":2888.00},
-			"2016-04": {"total":11382.00, "Economy and Environment":11382.00},
-			"2016-05": {"total":8494.00, "Economy and Environment":8494.00},
-			"2017-01": {"total":1715.00, "Economy and Environment":1715.00},
-			"2017-03": {"total":4000.00, "Economy and Environment":4000.00},
-			"2017-05": {"total":16988.00, "Economy and Environment":16988.00},
-			"2018-03": {"total":44760.01, "Economy and Environment (obsolete)":44760.01},
-			"2018-08": {"total":17452.40, "Economy and Environment (obsolete)":17452.40},
-			"2018-11": {"total":7051.82, "Economy and Environment (obsolete)":7051.82},
-			"2018-12": {"total":1767.91, "Communities & Service Support (obsolete)":1767.91},
-			"2019-02": {"total":5641.00, "Communities & Service Support (obsolete)":5641.00},
-			"2019-07": {"total":8395.00, "Economy and Environment (obsolete)":8395.00},
-			"2019-09": {"total":19976.45, "Economy and Environment (obsolete)":19976.45},
-			"2020-05": {"total":17801.45, "Economy and Environment (obsolete)":17801.45},
-			"2020-08": {"total":1722.68, "Economy and Environment (obsolete)":1722.68}
-		}
-	},
-	"5054": {
-		"name": "Buddi Ltd",
-		"total": 134006,
-		"monthly": {
-			"2012-01": {"total":1620.00, "Adults, Health and Social Care":0.00},
-			"2012-03": {"total":7011.00, "Adults, Health and Social Care":0.00},
-			"2012-04": {"total":4792.00, "Adults, Health and Social Care":0.00},
-			"2012-06": {"total":960.00, "Adults, Health and Social Care":0.00},
-			"2012-11": {"total":7005.00, "Adults, Health and Social Care":0.00},
-			"2013-01": {"total":1620.00, "Adults, Health and Social Care":0.00},
-			"2013-02": {"total":9645.00, "Adults, Health and Social Care":0.00},
-			"2013-03": {"total":14010.00, "Adults, Health and Social Care":0.00},
-			"2013-04": {"total":5760.00, "Adults, Health and Social Care":0.00},
-			"2013-10": {"total":3960.00, "Adults, Health and Social Care":0.00},
-			"2013-12": {"total":5580.00, "Adults, Health and Social Care":0.00},
-			"2014-05": {"total":7560.00, "Adults, Health and Social Care":0.00},
-			"2014-12": {"total":7200.00, "Adults, Health and Social Care":0.00},
-			"2015-01": {"total":1800.00, "Adults, Health and Social Care":0.00},
-			"2015-03": {"total":3240.00, "Adults, Health and Social Care":0.00},
-			"2015-10": {"total":3240.00, "Adults, Health and Social Care":0.00},
-			"2015-11": {"total":600.00, "Adults, Health and Social Care":0.00},
-			"2016-01": {"total":5100.00, "Adults, Health and Social Care":0.00},
-			"2016-02": {"total":600.00, "Adults, Health and Social Care":0.00},
-			"2016-04": {"total":600.00, "Adults, Health and Social Care":0.00},
-			"2016-10": {"total":2100.00, "Adults, Health and Social Care":0.00},
-			"2016-11": {"total":4500.00, "Adults, Health and Social Care":0.00},
-			"2016-12": {"total":600.00, "Adults, Health and Social Care":0.00},
-			"2017-05": {"total":600.00, "Adults, Health and Social Care":0.00},
-			"2017-06": {"total":1210.00, "Adults, Health and Social Care":0.00},
-			"2017-09": {"total":530.00, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":3900.00, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":3600.00, "Adults, Health and Social Care":0.00},
-			"2018-01": {"total":1613.00, "Adults, Health and Social Care":0.00},
-			"2018-02": {"total":509.00, "Adults, Health and Social Care":0.00},
-			"2018-04": {"total":1918.00, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":1200.00, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":1988.00, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-08": {"total":600.00, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-11": {"total":6070.00, "Adult Services and Wellbeing":6070.00},
-			"2018-12": {"total":3600.00, "Adult Services and Wellbeing":3600.00},
-			"2019-03": {"total":1725.00, "Adult Services and Wellbeing":1725.00},
-			"2019-04": {"total":2170.00, "Adult Services and Wellbeing":2170.00},
-			"2019-05": {"total":1200.00, "Adult Services and Wellbeing":1200.00},
-			"2019-06": {"total":970.00, "Adult Services and Wellbeing":970.00},
-			"2019-07": {"total":600.00, "Adult Services and Wellbeing":600.00},
-			"2020-01": {"total":900.00, "Adult Services and Wellbeing":900.00}
-		}
-	},
-	"5055": {
-		"name": "Build a Brighter Brighouse (The 3Bs)",
-		"total": 3000,
-		"monthly": {
-			"2016-01": {"total":3000.00, "Communities & Service Support":3000.00}
-		}
-	},
-	"5056": {
-		"name": "Buildbase",
-		"total": 1625,
-		"monthly": {
-			"2018-03": {"total":1625.00, "Economy and Environment (obsolete)":1625.00}
-		}
-	},
-	"5057": {
-		"name": "Building Cost Services",
-		"total": 23850,
-		"monthly": {
-			"2010-10": {"total":3200.00, "Children and Young People":3200.00},
-			"2011-04": {"total":15000.00, "Children and Young People":15000.00},
-			"2013-01": {"total":2150.00, "Children and Young People":2150.00},
-			"2013-12": {"total":3500.00, "Children and Young People":3500.00}
-		}
-	},
-	"5058": {
-		"name": "Building Software Ltd t/a Measure2improve",
-		"total": 92652.55,
-		"monthly": {
-			"2015-06": {"total":10796.75, "Economy and Environment (obsolete)":10796.75},
-			"2015-07": {"total":2500.00, "Economy and Environment":2500.00},
-			"2016-06": {"total":14092.90, "Economy and Environment":14092.90},
-			"2017-07": {"total":13983.80, "Economy and Environment":13983.80},
-			"2018-06": {"total":18456.00, "Economy and Environment (obsolete)":18456.00},
-			"2019-06": {"total":15392.00, "Economy and Environment (obsolete)":15392.00},
-			"2020-04": {"total":17431.10, "Economy and Environment (obsolete)":17431.10}
-		}
-	},
-	"5059": {
-		"name": "Bull & Co Intergrated Solutions Ltd",
-		"total": 81131.2,
-		"monthly": {
-			"2017-10": {"total":6758.10, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":8151.75, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":9965.25, "Adults, Health and Social Care":0.00},
-			"2018-01": {"total":8550.00, "Adults, Health and Social Care":0.00},
-			"2018-02": {"total":9474.75, "Adults, Health and Social Care":0.00},
-			"2018-03": {"total":18526.75, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":9092.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":9457.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-07": {"total":1155.20, "Adults, Health and Social Care (obsolete)":0.00}
-		}
-	},
-	"5060": {
-		"name": "Bullen Conservation Ltd",
-		"alternate-names": [
-			"Bullen Conservation Limited"
-		],
-		"total": 67781.07,
-		"monthly": {
-			"2013-12": {"total":2041.92, "Economy and Environment":2041.92},
-			"2014-02": {"total":24485.89, "Economy and Environment":24485.89},
-			"2014-06": {"total":3627.26, "Economy and Environment":3627.26},
-			"2014-08": {"total":2287.11, "Economy and Environment":2287.11},
-			"2014-12": {"total":11073.08, "Economy and Environment":11073.08},
-			"2015-03": {"total":18596.25, "Economy and Environment":18596.25},
-			"2018-03": {"total":2416.00, "Economy and Environment (obsolete)":2416.00},
-			"2019-05": {"total":1360.00, "Chief Executive's Office (obsolete)":1360.00},
-			"2020-04": {"total":1893.56, "Chief Executive's Office (obsolete)":1893.56}
-		}
-	},
-	"5061": {
-		"name": "Bumps & Babes",
-		"total": 500,
-		"monthly": {
-			"2011-01": {"total":500.00, "Safer and Stronger":500.00}
-		}
-	},
-	"5062": {
-		"name": "Bunce (Ashbury) Ltd",
-		"total": 903.95,
-		"monthly": {
-			"2010-11": {"total":903.95, "Economy and Environment":903.95}
-		}
-	},
-	"5063": {
-		"name": "Bunzl Retail & Healthcare Supplies Ltd T/A Care Sh",
-		"total": 940.8,
-		"monthly": {
-			"2019-03": {"total":940.80, "Economy and Environment (obsolete)":940.80}
-		}
-	},
-	"5064": {
-		"name": "Bupa Care Homes",
-		"total": 1412767.37,
-		"monthly": {
-			"2010-11": {"total":2244.30, "Adults, Health and Social Care":0.00},
-			"2010-12": {"total":9012.46, "Adults, Health and Social Care":0.00},
-			"2011-01": {"total":4819.53, "Adults, Health and Social Care":0.00},
-			"2011-02": {"total":7021.97, "Adults, Health and Social Care":0.00},
-			"2011-03": {"total":9602.70, "Adults, Health and Social Care":0.00},
-			"2011-04": {"total":6585.21, "Adults, Health and Social Care":0.00},
-			"2011-05": {"total":11545.89, "Adults, Health and Social Care":0.00},
-			"2011-06": {"total":4271.48, "Adults, Health and Social Care":0.00},
-			"2011-07": {"total":11033.97, "Adults, Health and Social Care":0.00},
-			"2011-08": {"total":32683.19, "Adults, Health and Social Care":0.00},
-			"2011-09": {"total":12883.60, "Adults, Health and Social Care":0.00},
-			"2011-10": {"total":12940.00, "Adults, Health and Social Care":0.00},
-			"2011-11": {"total":19224.75, "Adults, Health and Social Care":0.00},
-			"2011-12": {"total":12414.08, "Adults, Health and Social Care":0.00},
-			"2012-01": {"total":12414.08, "Adults, Health and Social Care":0.00},
-			"2012-02": {"total":12414.08, "Adults, Health and Social Care":0.00},
-			"2012-03": {"total":10789.08, "Adults, Health and Social Care":0.00},
-			"2012-04": {"total":7965.03, "Adults, Health and Social Care":0.00},
-			"2012-05": {"total":17515.08, "Adults, Health and Social Care":0.00},
-			"2012-07": {"total":17390.88, "Adults, Health and Social Care":0.00},
-			"2012-08": {"total":8695.44, "Adults, Health and Social Care":0.00},
-			"2012-09": {"total":11753.58, "Adults, Health and Social Care":0.00},
-			"2012-10": {"total":8780.76, "Adults, Health and Social Care":0.00},
-			"2012-11": {"total":11976.28, "Adults, Health and Social Care":0.00},
-			"2012-12": {"total":8917.65, "Adults, Health and Social Care":0.00},
-			"2013-01": {"total":6272.35, "Adults, Health and Social Care":0.00},
-			"2013-02": {"total":6437.68, "Adults, Health and Social Care":0.00},
-			"2013-03": {"total":6437.68, "Adults, Health and Social Care":0.00},
-			"2013-04": {"total":6437.68, "Adults, Health and Social Care":0.00},
-			"2013-05": {"total":6068.54, "Adults, Health and Social Care":0.00},
-			"2013-06": {"total":4675.44, "Adults, Health and Social Care":0.00},
-			"2013-07": {"total":11518.14, "Adults, Health and Social Care":0.00},
-			"2013-08": {"total":1991.70, "Adults, Health and Social Care":0.00},
-			"2013-09": {"total":1824.72, "Adults, Health and Social Care":0.00},
-			"2013-10": {"total":1824.72, "Adults, Health and Social Care":0.00},
-			"2013-11": {"total":1863.60, "Adults, Health and Social Care":0.00},
-			"2013-12": {"total":6211.19, "Adults, Health and Social Care":0.00},
-			"2014-01": {"total":4194.64, "Adults, Health and Social Care":0.00},
-			"2014-03": {"total":1842.00, "Adults, Health and Social Care":0.00},
-			"2014-04": {"total":6883.37, "Adults, Health and Social Care":0.00},
-			"2014-05": {"total":10267.62, "Adults, Health and Social Care":0.00},
-			"2014-06": {"total":8507.12, "Adults, Health and Social Care":0.00},
-			"2014-07": {"total":4253.56, "Adults, Health and Social Care":0.00},
-			"2014-08": {"total":4253.56, "Adults, Health and Social Care":0.00},
-			"2014-09": {"total":4253.56, "Adults, Health and Social Care":0.00},
-			"2014-10": {"total":4253.56, "Adults, Health and Social Care":0.00},
-			"2014-11": {"total":14328.08, "Adults, Health and Social Care":0.00},
-			"2014-12": {"total":7103.60, "Adults, Health and Social Care":0.00},
-			"2015-01": {"total":7052.12, "Adults, Health and Social Care":0.00},
-			"2015-02": {"total":7052.12, "Adults, Health and Social Care":0.00},
-			"2015-03": {"total":7052.12, "Adults, Health and Social Care":0.00},
-			"2015-04": {"total":6259.60, "Adults, Health and Social Care":0.00},
-			"2015-05": {"total":17781.43, "Adults, Health and Social Care":0.00},
-			"2015-06": {"total":39479.04, "Adult Services and Wellbeing":39479.04},
-			"2015-07": {"total":6679.44, "Adults, Health and Social Care":0.00},
-			"2015-08": {"total":25926.60, "Adults, Health and Social Care":0.00},
-			"2015-09": {"total":14556.32, "Adults, Health and Social Care":0.00},
-			"2015-10": {"total":19886.97, "Adults, Health and Social Care":0.00},
-			"2015-11": {"total":13948.72, "Adults, Health and Social Care":0.00},
-			"2015-12": {"total":7453.38, "Adults, Health and Social Care":0.00},
-			"2016-01": {"total":11523.56, "Adults, Health and Social Care":0.00},
-			"2016-02": {"total":11523.56, "Adults, Health and Social Care":0.00},
-			"2016-03": {"total":12123.56, "Adults, Health and Social Care":0.00},
-			"2016-04": {"total":11564.57, "Adults, Health and Social Care":0.00},
-			"2016-05": {"total":31323.88, "Adults, Health and Social Care":0.00},
-			"2016-06": {"total":19238.84, "Adults, Health and Social Care":0.00},
-			"2016-07": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2016-08": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2016-09": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2016-10": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2016-11": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2016-12": {"total":11202.40, "Adults, Health and Social Care":0.00},
-			"2017-01": {"total":11323.44, "Adults, Health and Social Care":0.00},
-			"2017-02": {"total":13940.25, "Adults, Health and Social Care":0.00},
-			"2017-03": {"total":17423.51, "Adults, Health and Social Care":0.00},
-			"2017-04": {"total":14829.90, "Adults, Health and Social Care":0.00},
-			"2017-05": {"total":19050.26, "Adults, Health and Social Care":0.00},
-			"2017-06": {"total":8638.76, "Adults, Health and Social Care":0.00},
-			"2017-07": {"total":10432.92, "Adults, Health and Social Care":0.00},
-			"2017-08": {"total":8638.76, "Adults, Health and Social Care":0.00},
-			"2017-09": {"total":9827.01, "Adults, Health and Social Care":0.00},
-			"2017-10": {"total":8638.76, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":8638.76, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":14165.90, "Adults, Health and Social Care":0.00},
-			"2018-01": {"total":11558.76, "Adults, Health and Social Care":0.00},
-			"2018-02": {"total":11558.76, "Adults, Health and Social Care":0.00},
-			"2018-03": {"total":25073.36, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-04": {"total":14282.24, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":26791.39, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":11615.72, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-07": {"total":11615.72, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-08": {"total":11615.72, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-09": {"total":11615.72, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-10": {"total":11615.72, "Adult Services and Wellbeing":11615.72},
-			"2018-11": {"total":21993.89, "Adult Services and Wellbeing":21993.89},
-			"2018-12": {"total":14611.48, "Adult Services and Wellbeing":14611.48},
-			"2019-01": {"total":14611.48, "Adult Services and Wellbeing":14611.48},
-			"2019-02": {"total":14611.48, "Adult Services and Wellbeing":14611.48},
-			"2019-03": {"total":11420.69, "Adult Services and Wellbeing":11420.69},
-			"2019-04": {"total":23007.06, "Adult Services and Wellbeing":23007.06},
-			"2019-05": {"total":11612.96, "Adult Services and Wellbeing":11612.96},
-			"2019-06": {"total":11612.96, "Adult Services and Wellbeing":11612.96},
-			"2019-07": {"total":22847.47, "Adult Services and Wellbeing":22847.47},
-			"2019-08": {"total":20858.36, "Adult Services and Wellbeing":20858.36},
-			"2019-09": {"total":13947.52, "Adult Services and Wellbeing":13947.52},
-			"2019-10": {"total":13947.52, "Adult Services and Wellbeing":13947.52},
-			"2019-11": {"total":20859.38, "Adult Services and Wellbeing":20859.38},
-			"2019-12": {"total":14183.30, "Adult Services and Wellbeing":14183.30},
-			"2020-01": {"total":19621.94, "Adult Services and Wellbeing":19621.94},
-			"2020-02": {"total":14336.86, "Adult Services and Wellbeing":14336.86},
-			"2020-03": {"total":27926.09, "Adult Services and Wellbeing":27926.09},
-			"2020-04": {"total":17242.00, "Adult Services and Wellbeing":17242.00},
-			"2020-05": {"total":9012.47, "Adult Services and Wellbeing":9012.47},
-			"2020-06": {"total":11674.16, "Adult Services and Wellbeing":11674.16},
-			"2020-07": {"total":12349.23, "Adult Services and Wellbeing":12349.23},
-			"2020-08": {"total":11674.16, "Adult Services and Wellbeing":11674.16},
-			"2020-09": {"total":11674.16, "Adult Services and Wellbeing":11674.16}
-		}
-	},
-	"5065": {
-		"name": "Bupa Care Homes Re Shaw Side Nursing Home",
-		"total": 8176.74,
-		"monthly": {
-			"2017-02": {"total":8176.74, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5066": {
-		"name": "Bupa Care Services",
-		"total": 426440.86,
-		"monthly": {
-			"2010-10": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2010-11": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2010-12": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-01": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-02": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-03": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-04": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-05": {"total":4976.16, "Adults, Health and Social Care":0.00},
-			"2011-06": {"total":5125.47, "Adults, Health and Social Care":0.00},
-			"2011-07": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2011-08": {"total":10058.16, "Adults, Health and Social Care":0.00},
-			"2011-09": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2011-10": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2011-11": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2011-12": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2012-01": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2012-02": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2012-03": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2012-04": {"total":5029.08, "Adults, Health and Social Care":0.00},
-			"2012-05": {"total":10264.35, "Adults, Health and Social Care":0.00},
-			"2012-07": {"total":10204.32, "Adults, Health and Social Care":0.00},
-			"2012-08": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2012-09": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2012-10": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2012-11": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2012-12": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2013-01": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2013-02": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2013-03": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2013-04": {"total":5102.16, "Adults, Health and Social Care":0.00},
-			"2013-05": {"total":5155.71, "Adults, Health and Social Care":0.00},
-			"2013-06": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2013-07": {"total":10263.12, "Adults, Health and Social Care":0.00},
-			"2013-08": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2013-09": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2013-10": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2013-11": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2013-12": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2014-01": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2014-02": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2014-03": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2014-04": {"total":5131.56, "Adults, Health and Social Care":0.00},
-			"2014-05": {"total":2911.83, "Adults, Health and Social Care":0.00},
-			"2014-06": {"total":6881.28, "Adults, Health and Social Care":0.00},
-			"2014-07": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2014-08": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2014-09": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2014-10": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2014-11": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2015-01": {"total":1720.32, "Adults, Health and Social Care":0.00},
-			"2015-02": {"total":5529.60, "Adults, Health and Social Care":0.00},
-			"2015-03": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2015-04": {"total":3440.64, "Adults, Health and Social Care":0.00},
-			"2015-05": {"total":3475.32, "Adults, Health and Social Care":0.00},
-			"2015-06": {"total":12108.88, "Adult Services and Wellbeing":12108.88},
-			"2015-07": {"total":6981.14, "Adults, Health and Social Care":0.00},
-			"2015-08": {"total":6919.36, "Adults, Health and Social Care":0.00},
-			"2015-09": {"total":6919.36, "Adults, Health and Social Care":0.00},
-			"2015-10": {"total":6178.00, "Adults, Health and Social Care":0.00},
-			"2015-11": {"total":6350.30, "Adults, Health and Social Care":0.00},
-			"2015-12": {"total":6809.76, "Adults, Health and Social Care":0.00},
-			"2016-01": {"total":6809.76, "Adults, Health and Social Care":0.00},
-			"2016-02": {"total":6809.76, "Adults, Health and Social Care":0.00},
-			"2016-03": {"total":3964.88, "Adults, Health and Social Care":0.00},
-			"2016-04": {"total":3978.08, "Adults, Health and Social Care":0.00},
-			"2016-05": {"total":8591.74, "Adults, Health and Social Care":0.00},
-			"2016-06": {"total":5555.52, "Adults, Health and Social Care":0.00},
-			"2016-07": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2016-08": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2016-09": {"total":5272.34, "Adults, Health and Social Care":0.00},
-			"2016-10": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2016-11": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2016-12": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2017-01": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2017-02": {"total":4210.40, "Adults, Health and Social Care":0.00},
-			"2017-03": {"total":2689.01, "Adults, Health and Social Care":0.00},
-			"2017-04": {"total":1899.81, "Adults, Health and Social Care":0.00},
-			"2017-05": {"total":3890.88, "Adults, Health and Social Care":0.00},
-			"2017-06": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-07": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-08": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-09": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-10": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2018-01": {"total":1917.72, "Adults, Health and Social Care":0.00},
-			"2018-02": {"total":1917.72, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5067": {
-		"name": "Bupa Care Services Re Dean Wood",
-		"total": 79959.73,
-		"monthly": {
-			"2015-06": {"total":11640.43, "Adult Services and Wellbeing":11640.43},
-			"2015-07": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2015-08": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2015-09": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2015-10": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2015-11": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2015-12": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2016-01": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2016-02": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2016-03": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2016-04": {"total":2076.00, "Adults, Health and Social Care":0.00},
-			"2016-05": {"total":4361.70, "Adults, Health and Social Care":0.00},
-			"2016-06": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-07": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-08": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-09": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-10": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-11": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2016-12": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-01": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-02": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-03": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-04": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-05": {"total":4319.76, "Adults, Health and Social Care":0.00},
-			"2017-06": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-07": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-08": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-09": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-10": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":2159.88, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":2159.88, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5068": {
-		"name": "Bupa Care Services. Re: Burnham N & R Centre",
-		"total": 26947.89,
-		"monthly": {
-			"2016-08": {"total":26947.89, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5069": {
-		"name": "Bupa The Dales Nursing Home",
-		"total": 110532.43,
-		"monthly": {
-			"2010-10": {"total":3408.72, "Adults, Health and Social Care":0.00},
-			"2010-11": {"total":3408.72, "Adults, Health and Social Care":0.00},
-			"2010-12": {"total":3408.72, "Adults, Health and Social Care":0.00},
-			"2011-01": {"total":3408.72, "Adults, Health and Social Care":0.00},
-			"2011-02": {"total":973.92, "Adults, Health and Social Care":0.00},
-			"2011-03": {"total":1704.36, "Adults, Health and Social Care":0.00},
-			"2011-04": {"total":1886.97, "Adults, Health and Social Care":0.00},
-			"2011-05": {"total":1704.36, "Adults, Health and Social Care":0.00},
-			"2012-12": {"total":8943.26, "Adults, Health and Social Care":0.00},
-			"2013-01": {"total":5404.56, "Adults, Health and Social Care":0.00},
-			"2013-02": {"total":5404.56, "Adults, Health and Social Care":0.00},
-			"2013-03": {"total":5404.56, "Adults, Health and Social Care":0.00},
-			"2013-04": {"total":5404.56, "Adults, Health and Social Care":0.00},
-			"2013-05": {"total":5459.64, "Adults, Health and Social Care":0.00},
-			"2013-06": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2013-07": {"total":10869.60, "Adults, Health and Social Care":0.00},
-			"2013-08": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2013-09": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2013-10": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2013-11": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2013-12": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2014-01": {"total":5434.80, "Adults, Health and Social Care":0.00},
-			"2014-02": {"total":4076.10, "Adults, Health and Social Care":0.00},
-			"2014-03": {"total":1617.50, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"5070": {
-		"name": "Bureau Veritas Certification UK Ltd",
-		"total": 24011.12,
-		"monthly": {
-			"2011-01": {"total":528.70, "Economy and Environment":528.70},
-			"2011-06": {"total":2723.64, "Economy and Environment":2723.64},
-			"2011-10": {"total":1020.35, "Economy and Environment":1020.35},
-			"2011-12": {"total":4525.22, "Economy and Environment":4525.22},
-			"2012-04": {"total":4703.71, "Economy and Environment":4703.71},
-			"2012-11": {"total":5666.06, "Economy and Environment":5666.06},
-			"2013-06": {"total":4843.44, "Economy and Environment":4843.44}
-		}
-	},
-	"5071": {
-		"name": "Burger Court Nursing Home",
-		"total": 17344.32,
-		"monthly": {
-			"2020-04": {"total":2890.72, "Adult Services and Wellbeing":2890.72},
-			"2020-05": {"total":2890.72, "Adult Services and Wellbeing":2890.72},
-			"2020-06": {"total":2890.72, "Adult Services and Wellbeing":2890.72},
-			"2020-07": {"total":2890.72, "Adult Services and Wellbeing":2890.72},
-			"2020-08": {"total":2890.72, "Adult Services and Wellbeing":2890.72},
-			"2020-09": {"total":2890.72, "Adult Services and Wellbeing":2890.72}
-		}
-	},
-	"5072": {
-		"name": "Burgess Consultancy Ltd",
-		"alternate-names": [
-			"Burgess Consultancy Limited"
-		],
-		"total": 31706.07,
-		"monthly": {
-			"2013-10": {"total":3090.42, "Children and Young People":3090.42},
-			"2013-11": {"total":3455.86, "Children and Young People":3455.86},
-			"2013-12": {"total":2430.30, "Children and Young People":2430.30},
-			"2014-03": {"total":4119.25, "Children and Young People":4119.25},
-			"2014-05": {"total":4508.04, "Children and Young People":4508.04},
-			"2014-07": {"total":2669.20, "Children and Young People":2669.20},
-			"2014-10": {"total":981.00, "Children and Young People":981.00},
-			"2014-11": {"total":2444.40, "Children and Young People":2444.40},
-			"2014-12": {"total":1412.80, "Children and Young People":1412.80},
-			"2015-02": {"total":1412.80, "Children and Young People":1412.80},
-			"2015-03": {"total":1256.40, "Children and Young People":1256.40},
-			"2015-06": {"total":1412.80, "Children and Young People's Services":1412.80},
-			"2015-10": {"total":1806.40, "Children and Young People":1806.40},
-			"2015-12": {"total":706.40, "Children and Young People":706.40}
-		}
-	},
-	"5073": {
-		"name": "Burlington Care (Yorkshire) Ltd Re Priestley Care",
-		"total": 41765.96,
-		"monthly": {
-			"2018-03": {"total":2534.88, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-04": {"total":2542.18, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":5242.36, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":2606.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-07": {"total":2606.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-08": {"total":2606.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-09": {"total":2606.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-10": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2018-11": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2018-12": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2019-01": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2019-02": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2019-03": {"total":2606.84, "Adult Services and Wellbeing":2606.84},
-			"2019-04": {"total":5378.14, "Adult Services and Wellbeing":5378.14}
-		}
-	},
-	"5074": {
-		"name": "Burlington Care (Yorkshire) Ltd Re The Hawthornes",
-		"total": 15788.04,
-		"monthly": {
-			"2018-03": {"total":2572.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-04": {"total":2583.16, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":5330.36, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":2650.84, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-07": {"total":2650.84, "Adults, Health and Social Care (obsolete)":0.00}
-		}
-	},
-	"5075": {
-		"name": "Burlington Care Hull Ltd",
-		"alternate-names": [
-			"Burlington Care Hull Limited"
-		],
-		"total": 516710.55,
-		"monthly": {
-			"2020-05": {"total":81307.79, "Adult Services and Wellbeing":81307.79},
-			"2020-06": {"total":106847.68, "Adult Services and Wellbeing":106847.68},
-			"2020-07": {"total":87938.97, "Adult Services and Wellbeing":87938.97},
-			"2020-08": {"total":156853.22, "Adult Services and Wellbeing":156853.22},
-			"2020-09": {"total":83762.89, "Adult Services and Wellbeing":83762.89}
-		}
-	},
-	"5076": {
-		"name": "Burnley Road Academy",
-		"total": 407548.36,
-		"monthly": {
-			"2011-11": {"total":51900.18, "Children and Young People":51900.18},
-			"2013-05": {"total":27740.23, "Children and Young People":27740.23},
-			"2013-06": {"total":2697.77, "Children and Young People":2697.77},
-			"2013-07": {"total":3562.50, "Children and Young People":3562.50},
-			"2013-09": {"total":16148.16, "Children and Young People":16148.16},
-			"2013-11": {"total":2518.14, "Children and Young People":2518.14},
-			"2013-12": {"total":19992.96, "Children and Young People":19992.96},
-			"2014-02": {"total":1404.00, "Children and Young People":1404.00},
-			"2014-03": {"total":5683.47, "Children and Young People":5683.47},
-			"2014-05": {"total":18503.10, "Children and Young People":18503.10},
-			"2014-06": {"total":6393.09, "Children and Young People":6393.09},
-			"2014-09": {"total":13322.23, "Children and Young People":13322.23},
-			"2014-11": {"total":5402.48, "Children and Young People":5402.48},
-			"2014-12": {"total":17143.50, "Children and Young People":17143.50},
-			"2015-04": {"total":17360.40, "Children and Young People":17360.40},
-			"2015-06": {"total":20827.44, "Children and Young People's Services":20827.44},
-			"2015-07": {"total":2638.08, "Children and Young People":2638.08},
-			"2015-08": {"total":17146.08, "Children and Young People":17146.08},
-			"2015-10": {"total":5471.37, "Children and Young People":5471.37},
-			"2015-12": {"total":1024.80, "Children and Young People":1024.80},
-			"2016-01": {"total":14084.28, "Children and Young People":14084.28},
-			"2016-02": {"total":3539.67, "Children and Young People":3539.67},
-			"2016-03": {"total":6160.60, "Children and Young People":6160.60},
-			"2016-04": {"total":20956.32, "Children and Young People":20956.32},
-			"2016-06": {"total":4843.08, "Children and Young People":4843.08},
-			"2016-11": {"total":22650.60, "Children and Young People":22650.60},
-			"2017-03": {"total":24564.60, "Children and Young People":24564.60},
-			"2017-04": {"total":20852.51, "Children and Young People":20852.51},
-			"2017-05": {"total":2930.00, "Children and Young People":2930.00},
-			"2017-06": {"total":6437.66, "Children and Young People":6437.66},
-			"2017-07": {"total":640.00, "Children and Young People":640.00},
-			"2017-08": {"total":13968.99, "Children and Young People":13968.99},
-			"2017-10": {"total":6723.57, "Children and Young People":6723.57},
-			"2017-11": {"total":556.50, "Children and Young People":556.50},
-			"2018-02": {"total":630.00, "Children and Young People":630.00},
-			"2018-06": {"total":630.00, "Children and Young People (obsolete)":630.00},
-			"2018-08": {"total":500.00, "Children and Young People (obsolete)":500.00}
-		}
-	},
-	"5077": {
-		"name": "Burnley Road J I & N School",
-		"total": 587582.48,
-		"monthly": {
-			"2010-10": {"total":51242.00, "Children and Young People":51242.00},
-			"2010-11": {"total":51242.00, "Children and Young People":51242.00},
-			"2010-12": {"total":51859.00, "Children and Young People":51859.00},
-			"2011-01": {"total":51242.00, "Children and Young People":51242.00},
-			"2011-02": {"total":52691.86, "Children and Young People":52691.86},
-			"2011-03": {"total":54042.85, "Children and Young People":54042.85},
-			"2011-04": {"total":59548.00, "Children and Young People":59548.00},
-			"2011-05": {"total":59548.00, "Children and Young People":59548.00},
-			"2011-06": {"total":60266.00, "Children and Young People":60266.00},
-			"2011-07": {"total":60266.00, "Children and Young People":60266.00},
-			"2011-08": {"total":35634.77, "Children and Young People":35634.77}
-		}
-	},
-	"5078": {
-		"name": "Burns Collett",
-		"total": 6000,
-		"monthly": {
-			"2016-07": {"total":6000.00, "Economy and Environment":6000.00}
-		}
-	},
-	"5079": {
-		"name": "Buro Happold Ltd",
-		"alternate-names": [
-			"Buro Happold Limited"
-		],
-		"total": 2735,
-		"monthly": {
-			"2013-09": {"total":1200.00, "Economy and Environment":1200.00},
-			"2016-08": {"total":1535.00, "Economy and Environment":1535.00}
-		}
-	},
-	"5080": {
-		"name": "Buro Project Services Ltd",
-		"total": 74036,
-		"monthly": {
-			"2013-02": {"total":20200.00, "Economy and Environment":20200.00},
-			"2013-04": {"total":12520.00, "Economy and Environment":12520.00},
-			"2013-07": {"total":11200.00, "Economy and Environment":11200.00},
-			"2013-08": {"total":10266.00, "Economy and Environment":10266.00},
-			"2013-10": {"total":3350.00, "Economy and Environment":3350.00},
-			"2013-11": {"total":2650.00, "Economy and Environment":2650.00},
-			"2014-01": {"total":1350.00, "Economy and Environment":1350.00},
-			"2014-02": {"total":5800.00, "Economy and Environment":5800.00},
-			"2014-05": {"total":5350.00, "Economy and Environment":5350.00},
-			"2015-03": {"total":1350.00, "Economy and Environment":1350.00}
-		}
-	},
-	"5081": {
-		"name": "Burrows Communications Ltd",
-		"total": 7390,
-		"monthly": {
-			"2011-02": {"total":895.00, "Economy and Environment":895.00},
-			"2011-03": {"total":2000.00, "Economy and Environment":2000.00},
-			"2012-10": {"total":4000.00, "Economy and Environment":4000.00},
-			"2018-03": {"total":495.00, "Communities & Service Support (obsolete)":495.00}
-		}
-	},
-	"5082": {
-		"name": "Burrwood Garage Ltd",
-		"total": 2833.33,
-		"monthly": {
-			"2018-05": {"total":2833.33, "Communities & Service Support (obsolete)":2833.33}
-		}
-	},
-	"5083": {
-		"name": "Burton McCall",
-		"total": 468.84,
-		"monthly": {
-			"2014-05": {"total":468.84, "Children and Young People":468.84}
-		}
-	},
-	"5084": {
-		"name": "Burwood Care Home Ltd",
-		"total": 143164.09,
-		"monthly": {
-			"2015-10": {"total":5595.43, "Adults, Health and Social Care":0.00},
-			"2015-11": {"total":1914.90, "Adults, Health and Social Care":0.00},
-			"2015-12": {"total":2041.20, "Adults, Health and Social Care":0.00},
-			"2016-01": {"total":2041.20, "Adults, Health and Social Care":0.00},
-			"2016-02": {"total":2041.20, "Adults, Health and Social Care":0.00},
-			"2016-03": {"total":2041.20, "Adults, Health and Social Care":0.00},
-			"2016-04": {"total":2051.25, "Adults, Health and Social Care":0.00},
-			"2016-05": {"total":4483.14, "Adults, Health and Social Care":0.00},
-			"2016-06": {"total":5309.77, "Adults, Health and Social Care":0.00},
-			"2016-07": {"total":4919.24, "Adults, Health and Social Care":0.00},
-			"2016-08": {"total":5295.47, "Adults, Health and Social Care":0.00},
-			"2016-09": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2016-10": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2016-11": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2016-12": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2017-01": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2017-02": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2017-03": {"total":4590.04, "Adults, Health and Social Care":0.00},
-			"2017-04": {"total":4711.42, "Adults, Health and Social Care":0.00},
-			"2017-05": {"total":9526.56, "Adults, Health and Social Care":0.00},
-			"2017-07": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2017-08": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2017-09": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2017-10": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2017-11": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2017-12": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2018-01": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2018-02": {"total":2489.08, "Adults, Health and Social Care":0.00},
-			"2018-03": {"total":2489.08, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-04": {"total":2500.92, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-05": {"total":5191.73, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-06": {"total":2573.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-07": {"total":2573.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-08": {"total":2573.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-09": {"total":2573.20, "Adults, Health and Social Care (obsolete)":0.00},
-			"2018-10": {"total":2573.20, "Adult Services and Wellbeing":2573.20},
-			"2018-11": {"total":2673.20, "Adult Services and Wellbeing":2673.20},
-			"2018-12": {"total":2673.20, "Adult Services and Wellbeing":2673.20},
-			"2019-01": {"total":2673.20, "Adult Services and Wellbeing":2673.20},
-			"2019-02": {"total":2673.20, "Adult Services and Wellbeing":2673.20},
-			"2019-03": {"total":2673.20, "Adult Services and Wellbeing":2673.20},
-			"2019-04": {"total":2735.46, "Adult Services and Wellbeing":2735.46}
-		}
-	},
-	"5085": {
-		"name": "Bury MBC",
-		"total": 9159,
-		"monthly": {
-			"2011-02": {"total":779.00, "Economy and Environment":779.00},
-			"2014-01": {"total":900.00, "Children and Young People":900.00},
-			"2014-02": {"total":900.00, "Children and Young People":900.00},
-			"2014-03": {"total":900.00, "Children and Young People":900.00},
-			"2014-11": {"total":1260.00, "Children and Young People":1260.00},
-			"2015-03": {"total":630.00, "Children and Young People":630.00},
-			"2015-05": {"total":640.00, "Children and Young People":640.00},
-			"2017-02": {"total":630.00, "Children and Young People":630.00},
-			"2017-04": {"total":630.00, "Children and Young People":630.00},
-			"2017-08": {"total":630.00, "Children and Young People":630.00},
-			"2018-02": {"total":630.00, "Children and Young People":630.00},
-			"2018-06": {"total":630.00, "Children and Young People (obsolete)":630.00}
-		}
-	},
-	"5086": {
-		"name": "Busbud Europe Ltd",
-		"alternate-names": [
-			"Busbud Europe Limited"
-		],
-		"total": 14.48,
-		"monthly": {
-			"2019-12": {"total":14.48, "Economy and Environment (obsolete)":14.48}
-		}
-	},
-	"5087": {
-		"name": "Business Buddy",
-		"total": 500,
-		"monthly": {
-			"2013-02": {"total":500.00, "Economy and Environment":500.00}
-		}
-	},
-	"5088": {
-		"name": "Business Performance Holdings Ltd",
-		"total": 500,
-		"monthly": {
-			"2013-02": {"total":500.00, "Economy and Environment":500.00}
-		}
-	},
-	"5089": {
-		"name": "Business Performance PLC",
-		"total": 1000,
-		"monthly": {
-			"2011-03": {"total":500.00, "Deputy Chief Executive":500.00},
-			"2012-02": {"total":500.00, "Deputy Chief Executive":500.00}
-		}
-	},
-	"5090": {
-		"name": "Business Risk Solutions",
-		"total": 750,
-		"monthly": {
-			"2020-09": {"total":750.00, "Deputy Chief Executive (obsolete)":750.00}
-		}
-	},
-	"5091": {
-		"name": "Business in the Community",
-		"total": 14200,
-		"monthly": {
-			"2013-07": {"total":500.00, "Economy and Environment":500.00},
-			"2013-10": {"total":13700.00, "Economy and Environment":13700.00}
-		}
-	},
-	"5092": {
-		"name": "Buss Model Ltd",
-		"alternate-names": [
-			"Buss Model Limited"
-		],
-		"total": 12000,
-		"monthly": {
-			"2020-03": {"total":12000.00, "Children and Young People's Services":12000.00}
-		}
-	},
-	"5093": {
-		"name": "Butcher & Barlow LLP",
-		"total": 1087,
-		"monthly": {
-			"2018-05": {"total":1087.00, "Economy and Environment (obsolete)":1087.00}
-		}
-	},
-	"5094": {
-		"name": "Butlins Skyline Ltd",
-		"total": 4219.42,
-		"monthly": {
-			"2013-03": {"total":4219.42, "Children and Young People":4219.42}
-		}
-	},
-	"5095": {
-		"name": "Butterfly Films Ltd",
-		"alternate-names": [
-			"Butterfly Films Limited"
-		],
-		"total": 550,
-		"monthly": {
-			"2013-02": {"total":550.00, "Deputy Chief Executive":550.00}
-		}
-	},
-	"5096": {
-		"name": "Butterfly Wings Childminding (Kelly Mitchell)",
-		"total": 714.42,
-		"monthly": {
-			"2015-08": {"total":714.42, "Children and Young People":714.42}
-		}
-	},
-	"5097": {
-		"name": "Buttershaw Business & Enterprise College",
-		"total": 12603,
-		"monthly": {
-			"2012-12": {"total":623.00, "Children and Young People":623.00},
-			"2014-01": {"total":900.00, "Children and Young People":900.00},
-			"2014-10": {"total":630.00, "Children and Young People":630.00},
-			"2015-01": {"total":840.00, "Children and Young People":840.00},
-			"2015-05": {"total":1280.00, "Children and Young People":1280.00},
-			"2015-07": {"total":1260.00, "Children and Young People":1260.00},
-			"2016-02": {"total":1260.00, "Children and Young People":1260.00},
-			"2016-03": {"total":630.00, "Children and Young People":630.00},
-			"2016-05": {"total":1555.00, "Children and Young People":1555.00},
-			"2016-08": {"total":630.00, "Children and Young People":630.00},
-			"2017-04": {"total":630.00, "Children and Young People":630.00},
-			"2017-08": {"total":1035.00, "Children and Young People":1035.00},
-			"2018-02": {"total":630.00, "Children and Young People":630.00},
-			"2018-08": {"total":700.00, "Children and Young People (obsolete)":700.00}
-		}
-	},
-	"5098": {
-		"name": "Buxtons Ltd",
-		"total": 39734.4,
-		"monthly": {
-			"2016-06": {"total":6297.62, "Communities & Service Support":6297.62},
-			"2017-05": {"total":6693.26, "Communities & Service Support":6693.26},
-			"2018-05": {"total":1142.50, "Communities & Service Support (obsolete)":1142.50},
-			"2018-06": {"total":3317.85, "Communities & Service Support (obsolete)":3317.85},
-			"2018-07": {"total":752.00, "Communities & Service Support (obsolete)":752.00},
-			"2019-03": {"total":1185.71, "Communities & Service Support (obsolete)":1185.71},
-			"2019-05": {"total":8999.99, "Communities & Service Support (obsolete)":8999.99},
-			"2019-07": {"total":613.17, "Communities & Service Support (obsolete)":613.17},
-			"2020-08": {"total":10732.30, "Communities & Service Support (obsolete)":10732.30}
-		}
-	},
-	"5099": {
-		"name": "Buy It Direct",
-		"total": 12100,
-		"monthly": {
-			"2016-03": {"total":12100.00, "Economy and Environment":12100.00}
 		}
 	}
 	}
