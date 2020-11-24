@@ -1,7 +1,44 @@
 {
-	"range": ["2010-10","2020-09"],
+	"range": ["2010-10","2020-10"],
 	"data": {
 	"500": {
+		"name": "A A Smith Ltd",
+		"total": 55.5,
+		"monthly": {
+			"2014-09": {"total":22.80, "Childrens Services":22.80},
+			"2015-03": {"total":32.70, "Childrens Services":32.70}
+		}
+	},
+	"501": {
+		"name": "A ANDREWS & SONS (MARBLES & TILES)",
+		"total": 2673.09,
+		"monthly": {
+			"2010-12": {"total":780.80, "East - North East":780.80},
+			"2011-01": {"total":1531.60, "Central & Corporate Functions":850.80, "East - North East":680.80},
+			"2020-06": {"total":14.10, "Resources and Housing":14.10},
+			"2020-08": {"total":16.64, "Resources and Housing":16.64},
+			"2020-09": {"total":329.95, "Resources and Housing":329.95}
+		}
+	},
+	"502": {
+		"name": "A APPLEYARD",
+		"total": 7696,
+		"monthly": {
+			"2010-12": {"total":4160.00, "Environment & Neighbourhoods":4160.00},
+			"2011-01": {"total":3536.00, "Environment & Neighbourhoods":3536.00}
+		}
+	},
+	"503": {
+		"name": "A Ahmadi",
+		"total": 2700,
+		"monthly": {
+			"2014-09": {"total":500.00, "Environment & Housing":500.00},
+			"2014-10": {"total":550.00, "Childrens Services":550.00},
+			"2014-11": {"total":1100.00, "Childrens Services":1100.00},
+			"2015-01": {"total":550.00, "Childrens Services":550.00}
+		}
+	},
+	"504": {
 		"name": "A Ajmal",
 		"total": 505,
 		"monthly": {
@@ -11,14 +48,14 @@
 			"2018-12": {"total":135.00, "Children and Families":135.00}
 		}
 	},
-	"501": {
+	"505": {
 		"name": "A Ali",
 		"total": 500,
 		"monthly": {
 			"2012-12": {"total":500.00, "Environment & Neighbourhoods":500.00}
 		}
 	},
-	"502": {
+	"506": {
 		"name": "A Andrews & Sons (Marbles & Tiles)",
 		"total": 53774.14,
 		"monthly": {
@@ -114,7 +151,7 @@
 			"2020-05": {"total":21.08, "Resources and Housing":21.08}
 		}
 	},
-	"503": {
+	"507": {
 		"name": "A Appleyard",
 		"total": 16848,
 		"monthly": {
@@ -123,7 +160,7 @@
 			"2011-05": {"total":7904.00, "Environment & Neighbourhoods":7904.00}
 		}
 	},
-	"504": {
+	"508": {
 		"name": "A Ash",
 		"total": 3205,
 		"monthly": {
@@ -136,7 +173,7 @@
 			"2019-08": {"total":540.00, "Children and Families":540.00}
 		}
 	},
-	"505": {
+	"509": {
 		"name": "A B Jones",
 		"total": 3460,
 		"monthly": {
@@ -160,7 +197,7 @@
 			"2019-05": {"total":120.00, "City Development":120.00}
 		}
 	},
-	"506": {
+	"510": {
 		"name": "A BUSH (ENGINEERING SERVICES) LTD",
 		"total": 31934.5,
 		"monthly": {
@@ -168,23 +205,23 @@
 			"2011-01": {"total":1176.00, "Central & Corporate Functions":1176.00}
 		}
 	},
-	"507": {
+	"511": {
 		"name": "A Batteries",
 		"total": 149.99,
 		"monthly": {
 			"2015-07": {"total":149.99, "City Development":149.99}
 		}
 	},
-	"508": {
+	"512": {
 		"name": "A Bentley Cushions",
 		"total": 235.83,
 		"monthly": {
 			"2015-09": {"total":235.83, "City Development":235.83}
 		}
 	},
-	"509": {
+	"513": {
 		"name": "A Buckler (Haulage) Ltd",
-		"total": 858124.9,
+		"total": 1200093.52,
 		"monthly": {
 			"2015-06": {"total":37257.00, "Central & Corporate":37257.00},
 			"2018-10": {"total":15275.00, "Resources and Housing":15275.00},
@@ -199,10 +236,11 @@
 			"2020-03": {"total":131960.00, "Resources and Housing":131960.00},
 			"2020-04": {"total":200073.40, "Resources and Housing":200073.40},
 			"2020-05": {"total":34613.50, "Resources and Housing":34613.50},
-			"2020-07": {"total":4850.00, "Resources and Housing":4850.00}
+			"2020-07": {"total":4850.00, "Resources and Housing":4850.00},
+			"2020-10": {"total":341968.62, "Resources and Housing":341968.62}
 		}
 	},
-	"510": {
+	"514": {
 		"name": "A Bush (Engineering Services) Ltd",
 		"total": 16027,
 		"monthly": {
@@ -215,7 +253,7 @@
 			"2015-05": {"total":235.00, "City Development":235.00}
 		}
 	},
-	"511": {
+	"515": {
 		"name": "A C Construction Ltd",
 		"total": 36795,
 		"monthly": {
@@ -225,7 +263,7 @@
 			"2013-11": {"total":2600.00, "Central & Corporate":2600.00}
 		}
 	},
-	"512": {
+	"516": {
 		"name": "A C Entertainment Technologies Ltd",
 		"total": 72575.43,
 		"monthly": {
@@ -286,7 +324,7 @@
 			"2020-04": {"total":60.02, "City Development":60.02}
 		}
 	},
-	"513": {
+	"517": {
 		"name": "A C Labels (2010) Ltd",
 		"total": 9000,
 		"monthly": {
@@ -297,35 +335,35 @@
 			"2015-12": {"total":1875.00, "Civic Enterprise Leeds":1875.00}
 		}
 	},
-	"514": {
+	"518": {
 		"name": "A C Milner",
 		"total": 50,
 		"monthly": {
 			"2017-01": {"total":50.00, "Central & Corporate":50.00}
 		}
 	},
-	"515": {
+	"519": {
 		"name": "A C Pest Control",
 		"total": 675,
 		"monthly": {
 			"2011-02": {"total":675.00, "East - North East":675.00}
 		}
 	},
-	"516": {
+	"520": {
 		"name": "A C Peterson",
 		"total": 50,
 		"monthly": {
 			"2020-04": {"total":50.00, "Children and Families":50.00}
 		}
 	},
-	"517": {
+	"521": {
 		"name": "A C Special Projects Ltd",
 		"total": 71.97,
 		"monthly": {
 			"2016-06": {"total":71.97, "City Development":71.97}
 		}
 	},
-	"518": {
+	"522": {
 		"name": "A CRAVEN-GRIFFITHS",
 		"total": 1099,
 		"monthly": {
@@ -333,21 +371,21 @@
 			"2020-09": {"total":109.00, "City Development":109.00}
 		}
 	},
-	"519": {
+	"523": {
 		"name": "A Cabs",
 		"total": 44,
 		"monthly": {
 			"2015-06": {"total":44.00, "Childrens Services":44.00}
 		}
 	},
-	"520": {
+	"524": {
 		"name": "A Cabs Of Abergavenny",
 		"total": 44,
 		"monthly": {
 			"2015-06": {"total":44.00, "Childrens Services":44.00}
 		}
 	},
-	"521": {
+	"525": {
 		"name": "A Clarkson",
 		"total": 16478.67,
 		"monthly": {
@@ -381,12 +419,12 @@
 			"2018-07": {"total":364.65, "Children and Families":364.65}
 		}
 	},
-	"522": {
+	"526": {
 		"name": "A Connolly Ltd",
 		"alternate-names": [
 			"A Connolly Limited"
 		],
-		"total": 4985192.25,
+		"total": 5255900.69,
 		"monthly": {
 			"2018-10": {"total":304140.95, "Resources and Housing":304140.95},
 			"2018-11": {"total":342449.81, "Resources and Housing":342449.81},
@@ -407,12 +445,13 @@
 			"2020-03": {"total":495320.97, "Resources and Housing":495320.97},
 			"2020-04": {"total":35623.94, "Resources and Housing":35623.94},
 			"2020-05": {"total":216124.45, "Resources and Housing":216124.45},
-			"2020-09": {"total":313881.59, "Resources and Housing":313881.59}
+			"2020-09": {"total":313881.59, "Resources and Housing":313881.59},
+			"2020-10": {"total":270708.44, "Resources and Housing":270708.44}
 		}
 	},
-	"523": {
+	"527": {
 		"name": "A Coole Electrical Ltd",
-		"total": 254533.79,
+		"total": 256803.79,
 		"monthly": {
 			"2019-05": {"total":600.00, "Resources and Housing":600.00},
 			"2019-06": {"total":85.00, "Resources and Housing":85.00},
@@ -430,10 +469,11 @@
 			"2020-06": {"total":160.00, "Resources and Housing":160.00},
 			"2020-07": {"total":795.00, "Resources and Housing":795.00},
 			"2020-08": {"total":7628.00, "Resources and Housing":7628.00},
-			"2020-09": {"total":27047.00, "Resources and Housing":27047.00}
+			"2020-09": {"total":27047.00, "Resources and Housing":27047.00},
+			"2020-10": {"total":2270.00, "Resources and Housing":2270.00}
 		}
 	},
-	"524": {
+	"528": {
 		"name": "A Craven-Griffiths",
 		"total": 900,
 		"monthly": {
@@ -442,14 +482,14 @@
 			"2019-11": {"total":300.00, "Children and Families":300.00}
 		}
 	},
-	"525": {
+	"529": {
 		"name": "A D D LOOP SERVICES LTD",
 		"total": 14707.22,
 		"monthly": {
 			"2010-12": {"total":14707.22, "City Development":14707.22}
 		}
 	},
-	"526": {
+	"530": {
 		"name": "A D D Loop Cutting Services Ltd",
 		"total": 17370.74,
 		"monthly": {
@@ -463,9 +503,9 @@
 			"2014-07": {"total":961.00, "City Development":961.00}
 		}
 	},
-	"527": {
+	"531": {
 		"name": "A D Dumitru",
-		"total": 1319.25,
+		"total": 1630.35,
 		"monthly": {
 			"2019-11": {"total":456.00, "Communities and Environment":456.00},
 			"2019-12": {"total":103.50, "Communities and Environment":103.50},
@@ -476,17 +516,18 @@
 			"2020-06": {"total":45.00, "Communities and Environment":45.00},
 			"2020-07": {"total":49.50, "Communities and Environment":49.50},
 			"2020-08": {"total":69.00, "Communities and Environment":69.00},
-			"2020-09": {"total":36.00, "Communities and Environment":36.00}
+			"2020-09": {"total":36.00, "Communities and Environment":36.00},
+			"2020-10": {"total":311.10, "Communities and Environment":311.10}
 		}
 	},
-	"528": {
+	"532": {
 		"name": "A D G ENGINEERING LTD",
 		"total": 4151.2,
 		"monthly": {
 			"2010-12": {"total":4151.20, "Adult Social Care":4151.20}
 		}
 	},
-	"529": {
+	"533": {
 		"name": "A D G Engineering Ltd",
 		"total": 99571.55,
 		"monthly": {
@@ -530,14 +571,14 @@
 			"2015-08": {"total":575.00, "Adult Social Care":575.00}
 		}
 	},
-	"530": {
+	"534": {
 		"name": "A D Golf Management Ltd",
 		"total": 652.62,
 		"monthly": {
 			"2017-12": {"total":652.62, "Communities and Environment":652.62}
 		}
 	},
-	"531": {
+	"535": {
 		"name": "A D Simpson Construction Ltd",
 		"total": 179373.57,
 		"monthly": {
@@ -557,7 +598,7 @@
 			"2013-01": {"total":2457.23, "East - North East":2457.23}
 		}
 	},
-	"532": {
+	"536": {
 		"name": "A D Simpson Ltd",
 		"total": 102274.56,
 		"monthly": {
@@ -567,7 +608,7 @@
 			"2011-03": {"total":14946.46, "East - North East":14946.46}
 		}
 	},
-	"533": {
+	"537": {
 		"name": "A D Smith",
 		"total": 5741.35,
 		"monthly": {
@@ -582,7 +623,7 @@
 			"2016-02": {"total":237.20, "Civic Enterprise Leeds":237.20}
 		}
 	},
-	"534": {
+	"538": {
 		"name": "A D Todd",
 		"total": 3100,
 		"monthly": {
@@ -592,21 +633,21 @@
 			"2018-11": {"total":1000.00, "City Development":1000.00}
 		}
 	},
-	"535": {
+	"539": {
 		"name": "A E & Sheila Hall",
 		"total": 600,
 		"monthly": {
 			"2013-05": {"total":600.00, "Environment & Housing":600.00}
 		}
 	},
-	"536": {
+	"540": {
 		"name": "A E Northing",
 		"total": 100,
 		"monthly": {
 			"2017-12": {"total":100.00, "City Development":100.00}
 		}
 	},
-	"537": {
+	"541": {
 		"name": "A E SPEIGHT",
 		"total": 15660.39,
 		"monthly": {
@@ -614,7 +655,7 @@
 			"2011-01": {"total":13051.13, "Childrens Services":13051.13}
 		}
 	},
-	"538": {
+	"542": {
 		"name": "A E Spector",
 		"total": 2553.95,
 		"monthly": {
@@ -622,7 +663,7 @@
 			"2014-05": {"total":1250.00, "Adult Social Care":1250.00}
 		}
 	},
-	"539": {
+	"543": {
 		"name": "A E Speight",
 		"total": 347548.66,
 		"monthly": {
@@ -679,7 +720,7 @@
 			"2017-10": {"total":296.99, "Children and Families":296.99}
 		}
 	},
-	"540": {
+	"544": {
 		"name": "A E YATES LTD",
 		"total": 55603.85,
 		"monthly": {
@@ -687,7 +728,7 @@
 			"2011-01": {"total":3670.68, "City Development":3670.68}
 		}
 	},
-	"541": {
+	"545": {
 		"name": "A E Yates Ltd",
 		"total": 7943506.33,
 		"monthly": {
@@ -744,7 +785,7 @@
 			"2019-12": {"total":7697.41, "City Development":7697.41}
 		}
 	},
-	"542": {
+	"546": {
 		"name": "A F Blakemore & Son Ltd",
 		"total": 161506.54,
 		"monthly": {
@@ -761,14 +802,14 @@
 			"2020-03": {"total":742.05, "Communities and Environment":742.05}
 		}
 	},
-	"543": {
+	"547": {
 		"name": "A F Blakemore Son Ltd",
 		"total": 216763.1,
 		"monthly": {
 			"2017-11": {"total":216763.10, "Adults and Health":170.64, "Children and Families":831.07, "City Development":1986.50, "Communities and Environment":7041.52, "Resources and Housing":206733.37}
 		}
 	},
-	"544": {
+	"548": {
 		"name": "A F Connell Ltd",
 		"total": 11608.9,
 		"monthly": {
@@ -776,64 +817,11 @@
 			"2019-02": {"total":11518.00, "City Development":11518.00}
 		}
 	},
-	"545": {
+	"549": {
 		"name": "A F K (Marketing)",
 		"total": 4557.15,
 		"monthly": {
 			"2017-11": {"total":4557.15, "Communities and Environment":4557.15}
-		}
-	},
-	"546": {
-		"name": "A F Rickards",
-		"total": 30,
-		"monthly": {
-			"2015-11": {"total":30.00, "Central & Corporate":30.00}
-		}
-	},
-	"547": {
-		"name": "A Farmers Daughter",
-		"total": 187.2,
-		"monthly": {
-			"2014-05": {"total":187.20, "Environment & Housing":187.20}
-		}
-	},
-	"548": {
-		"name": "A Fields",
-		"total": 460,
-		"monthly": {
-			"2012-08": {"total":460.00, "Environment & Neighbourhoods":460.00}
-		}
-	},
-	"549": {
-		"name": "A Foley",
-		"total": 10153.06,
-		"monthly": {
-			"2013-07": {"total":1425.80, "Childrens Services":1425.80},
-			"2014-05": {"total":49.00, "Childrens Services":49.00},
-			"2014-09": {"total":362.06, "Childrens Services":362.06},
-			"2014-10": {"total":322.60, "Childrens Services":322.60},
-			"2014-12": {"total":150.94, "Childrens Services":150.94},
-			"2015-01": {"total":769.12, "Childrens Services":769.12},
-			"2015-02": {"total":49.00, "Childrens Services":49.00},
-			"2015-03": {"total":93.21, "Childrens Services":93.21},
-			"2015-04": {"total":908.96, "Childrens Services":908.96},
-			"2015-07": {"total":306.28, "Childrens Services":306.28},
-			"2015-09": {"total":383.04, "Childrens Services":383.04},
-			"2016-01": {"total":300.96, "Childrens Services":300.96},
-			"2016-03": {"total":461.17, "Childrens Services":461.17},
-			"2016-04": {"total":434.72, "Childrens Services":434.72},
-			"2016-06": {"total":24.33, "Childrens Services":24.33},
-			"2016-07": {"total":108.68, "Childrens Services":108.68},
-			"2016-09": {"total":638.40, "Childrens Services":638.40},
-			"2016-10": {"total":24.33, "Childrens Services":24.33},
-			"2017-01": {"total":501.60, "Childrens Services":501.60},
-			"2017-02": {"total":24.33, "Childrens Services":24.33},
-			"2017-03": {"total":285.00, "Childrens Services":285.00},
-			"2017-04": {"total":655.20, "Childrens Services":655.20},
-			"2017-06": {"total":53.03, "Children and Families":53.03},
-			"2017-07": {"total":163.80, "Children and Families":163.80},
-			"2018-04": {"total":1326.00, "Children and Families":1326.00},
-			"2018-07": {"total":331.50, "Children and Families":331.50}
 		}
 	}
 	}
