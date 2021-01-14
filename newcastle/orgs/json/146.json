@@ -1,21 +1,843 @@
 {
-	"range": ["2010-04","2020-09"],
+	"range": ["2010-04","2020-11"],
 	"data": {
 	"7300": {
+		"name": "MCGUINESS CONSULTANCY",
+		"total": 42084.41,
+		"monthly": {
+			"2016-08": {"total":2397.00, "Adult and Culture":2397.00},
+			"2016-09": {"total":2397.00, "Adult and Culture":2397.00},
+			"2016-11": {"total":2066.34, "Adult and Culture":2066.34},
+			"2017-01": {"total":6231.80, "Adult and Culture":6231.80},
+			"2017-03": {"total":2397.00, "Adult and Culture":2397.00},
+			"2017-04": {"total":9588.00, "Adult and Culture":9588.00},
+			"2017-06": {"total":7670.53, "Adult and Culture":7670.53},
+			"2017-10": {"total":2862.05, "Adult and Culture":2862.05},
+			"2017-12": {"total":2000.00, "Adult and Culture":2000.00},
+			"2018-01": {"total":1871.90, "Adult and Culture":1871.90},
+			"2018-03": {"total":2602.79, "Adult and Culture":2602.79}
+		}
+	},
+	"7301": {
+		"name": "MCHALE & COMPANY",
+		"total": 2100,
+		"monthly": {
+			"2010-10": {"total":1100.00, "Chief Executives":1100.00},
+			"2012-11": {"total":1000.00, "unknown":1000.00}
+		}
+	},
+	"7302": {
+		"name": "MCKEAG & CO",
+		"total": 3198.7,
+		"monthly": {
+			"2011-06": {"total":2277.72, "Chief Executive's":2277.72},
+			"2014-03": {"total":440.98, "Chief Executive's":440.98},
+			"2015-10": {"total":480.00, "Chief Executive's":480.00}
+		}
+	},
+	"7303": {
+		"name": "MCKEAG & CO. SOLICITORS",
+		"total": 325788.96,
+		"monthly": {
+			"2012-06": {"total":5250.00, "Chief Executive's":5250.00},
+			"2012-08": {"total":8200.00, "Chief Executives":8200.00},
+			"2012-09": {"total":13136.34, "unknown":13136.34},
+			"2012-10": {"total":4750.00, "unknown":4750.00},
+			"2014-02": {"total":836.80, "Childrens Services":836.80},
+			"2014-03": {"total":395.82, "Childrens Services":395.82},
+			"2014-10": {"total":157500.00, "Chief Executive's":157500.00},
+			"2015-02": {"total":78360.00, "Chief Executive's":78360.00},
+			"2015-03": {"total":360.00, "Chief Executive's":360.00},
+			"2015-09": {"total":57000.00, "Chief Executive's":57000.00}
+		}
+	},
+	"7304": {
+		"name": "MCKECHNIES",
+		"total": 18881.01,
+		"monthly": {
+			"2011-01": {"total":4100.00, "Environment & Regeneration":4100.00},
+			"2011-03": {"total":8400.00, "Environment & Regeneration":8400.00},
+			"2011-04": {"total":700.00, "Environment & Regeneration":700.00},
+			"2011-05": {"total":1050.00, "Environment & Regeneration":1050.00},
+			"2011-06": {"total":700.00, "Environment & Regeneration":700.00},
+			"2011-10": {"total":2000.00, "Environment & Regeneration":2000.00},
+			"2012-01": {"total":1931.01, "Environment & Regeneration":1931.01}
+		}
+	},
+	"7305": {
+		"name": "MCKENNAS CATERING LTD",
+		"total": 338.33,
+		"monthly": {
+			"2018-09": {"total":338.33, "Adult and Culture":338.33}
+		}
+	},
+	"7306": {
+		"name": "MCNALLY & THOMPSON (UK CONTRACTS) LTD",
+		"total": 2254,
+		"monthly": {
+			"2017-11": {"total":1876.00, "HRA":1876.00},
+			"2018-03": {"total":378.00, "HRA":378.00}
+		}
+	},
+	"7307": {
+		"name": "MCNALLY ELECTRICAL (YORKSHIRE) LTD",
+		"total": 6414.06,
+		"monthly": {
+			"2020-02": {"total":6414.06, "Operations & Reg Services":6414.06}
+		}
+	},
+	"7308": {
+		"name": "MCNIDDER AND GRACE LTD",
+		"alternate-names": [
+			"MCNIDDER AND GRACE LIMITED"
+		],
+		"total": 7500,
+		"monthly": {
+			"2012-04": {"total":2500.00, "Adult and Culture":2500.00},
+			"2012-05": {"total":2500.00, "Adult and Culture":2500.00},
+			"2012-09": {"total":2500.00, "unknown":2500.00}
+		}
+	},
+	"7309": {
+		"name": "MCQUAY LTD",
+		"total": 82928,
+		"monthly": {
+			"2010-10": {"total":5224.00, "Environment & Regeneration":5224.00},
+			"2011-06": {"total":67584.00, "Environment & Regeneration":67584.00},
+			"2012-03": {"total":10120.00, "Environment & Regeneration":10120.00}
+		}
+	},
+	"7310": {
+		"name": "MCS PROJECTS LTD",
+		"total": 335,
+		"monthly": {
+			"2015-01": {"total":335.00, "Childrens Services":335.00}
+		}
+	},
+	"7311": {
+		"name": "MD2 LLP",
+		"total": 15605,
+		"monthly": {
+			"2011-02": {"total":5530.00, "Environment & Regeneration":5530.00},
+			"2011-03": {"total":10075.00, "Environment & Regeneration":10075.00}
+		}
+	},
+	"7312": {
+		"name": "MDRC BIN MASTERS LTD",
+		"total": 1214,
+		"monthly": {
+			"2010-11": {"total":1214.00, "Environment & Regeneration":1214.00}
+		}
+	},
+	"7313": {
+		"name": "MDRC GROUP LTD",
+		"total": 38330.25,
+		"monthly": {
+			"2010-04": {"total":3740.00, "Environment & Regeneration":3740.00},
+			"2010-05": {"total":2890.00, "Environment & Regeneration":2890.00},
+			"2010-07": {"total":3315.00, "Environment & Regeneration":3315.00},
+			"2010-08": {"total":4250.00, "Environment & Regeneration":4250.00},
+			"2010-09": {"total":2125.00, "Environment & Regeneration":2125.00},
+			"2011-06": {"total":4335.00, "Environment & Regeneration":4335.00},
+			"2012-02": {"total":3825.00, "Environment & Regeneration":3825.00},
+			"2012-07": {"total":3485.00, "Environment & Regeneration":3485.00},
+			"2012-08": {"total":5618.00, "Environment & Regeneration":5618.00},
+			"2012-09": {"total":4747.25, "unknown":4747.25}
+		}
+	},
+	"7314": {
+		"name": "ME & ALAN",
+		"total": 690,
+		"monthly": {
+			"2014-09": {"total":690.00, "Childrens Services":690.00}
+		}
+	},
+	"7315": {
+		"name": "ME BARRETT",
+		"total": 12485.2,
+		"monthly": {
+			"2013-04": {"total":480.20, "unknown":480.20},
+			"2013-05": {"total":480.20, "unknown":480.20},
+			"2013-06": {"total":480.20, "unknown":480.20},
+			"2013-08": {"total":960.40, "Adult and Culture":960.40},
+			"2014-01": {"total":2401.00, "Adult and Culture":2401.00},
+			"2014-07": {"total":960.40, "Adult and Culture":960.40},
+			"2014-08": {"total":480.20, "Adult and Culture":480.20},
+			"2014-09": {"total":480.20, "Adult and Culture":480.20},
+			"2014-11": {"total":480.20, "Adult and Culture":480.20},
+			"2015-01": {"total":480.20, "Adult and Culture":480.20},
+			"2015-02": {"total":480.20, "Adult and Culture":480.20},
+			"2015-05": {"total":1920.80, "Adult and Culture":1920.80},
+			"2015-07": {"total":960.40, "Adult and Culture":960.40},
+			"2015-09": {"total":480.20, "Adult and Culture":480.20},
+			"2015-11": {"total":480.20, "Adult and Culture":480.20},
+			"2015-12": {"total":480.20, "Adult and Culture":480.20}
+		}
+	},
+	"7316": {
+		"name": "ME LEARNING LTD",
+		"total": 7500,
+		"monthly": {
+			"2016-04": {"total":3500.00, "Childrens Services":3500.00},
+			"2017-04": {"total":3500.00, "Childrens Services":3500.00},
+			"2020-08": {"total":500.00, "ASC & Integrated Services":500.00}
+		}
+	},
+	"7317": {
+		"name": "MEADOW PARK",
+		"total": 268710.36,
+		"monthly": {
+			"2010-05": {"total":4154.87, "Adult and Culture":4154.87},
+			"2010-06": {"total":1377.80, "Adult and Culture":1377.80},
+			"2010-07": {"total":1377.80, "Adult and Culture":1377.80},
+			"2010-08": {"total":2755.60, "Adult and Culture":2755.60},
+			"2010-10": {"total":2755.60, "Adult and Culture":2755.60},
+			"2010-11": {"total":2755.60, "Adult and Culture":2755.60},
+			"2011-01": {"total":1479.49, "Adult and Culture":1479.49},
+			"2011-02": {"total":1402.56, "Adult and Culture":1402.56},
+			"2011-03": {"total":1402.56, "Adult and Culture":1402.56},
+			"2011-04": {"total":1398.26, "Adult and Culture":1398.26},
+			"2011-05": {"total":1385.36, "Childrens Services":1385.36},
+			"2011-06": {"total":1385.36, "Adult and Culture":1385.36},
+			"2011-07": {"total":1385.36, "Adult and Culture":1385.36},
+			"2011-08": {"total":2770.72, "Adult and Culture":2770.72},
+			"2011-09": {"total":1385.36, "Adult and Culture":1385.36},
+			"2011-10": {"total":1385.36, "Adult and Culture":1385.36},
+			"2011-11": {"total":2424.38, "Adult and Culture":2424.38},
+			"2012-01": {"total":1385.36, "Adult and Culture":1385.36},
+			"2012-02": {"total":1385.36, "Adult and Culture":1385.36},
+			"2012-03": {"total":1385.36, "Adult and Culture":1385.36},
+			"2012-04": {"total":1380.91, "Adult and Culture":1380.91},
+			"2012-05": {"total":1367.56, "Adult and Culture":1367.56},
+			"2012-06": {"total":1367.56, "Adult and Culture":1367.56},
+			"2012-07": {"total":1367.56, "Adult & Culture":1367.56},
+			"2012-08": {"total":2735.12, "Adult & Culture":2735.12},
+			"2012-09": {"total":9649.50, "unknown":9649.50},
+			"2012-10": {"total":3252.88, "unknown":3252.88},
+			"2012-11": {"total":3252.88, "unknown":3252.88},
+			"2012-12": {"total":3252.88, "unknown":3252.88},
+			"2013-01": {"total":3252.88, "unknown":3252.88},
+			"2013-02": {"total":1367.56, "unknown":1367.56},
+			"2013-03": {"total":1367.56, "unknown":1367.56},
+			"2013-04": {"total":1365.26, "unknown":1365.26},
+			"2013-05": {"total":1358.36, "unknown":1358.36},
+			"2013-06": {"total":1358.36, "unknown":1358.36},
+			"2013-07": {"total":2716.72, "unknown":2716.72},
+			"2013-08": {"total":1358.36, "Adult and Culture":1358.36},
+			"2013-09": {"total":1358.36, "Adult and Culture":1358.36},
+			"2013-10": {"total":1358.36, "Adult and Culture":1358.36},
+			"2013-11": {"total":1358.36, "Adult and Culture":1358.36},
+			"2013-12": {"total":1358.36, "Adult and Culture":1358.36},
+			"2014-01": {"total":1358.36, "Adult and Culture":1358.36},
+			"2014-02": {"total":1358.36, "Adult and Culture":1358.36},
+			"2014-03": {"total":1358.36, "Adult and Culture":1358.36},
+			"2014-04": {"total":1355.91, "Adult and Culture":1355.91},
+			"2014-05": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-06": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-07": {"total":2697.12, "Adult and Culture":2697.12},
+			"2014-08": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-09": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-10": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-11": {"total":1348.56, "Adult and Culture":1348.56},
+			"2014-12": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-01": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-02": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-03": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-04": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-05": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-06": {"total":2697.12, "Adult and Culture":2697.12},
+			"2015-07": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-08": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-09": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-10": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-11": {"total":1348.56, "Adult and Culture":1348.56},
+			"2015-12": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-01": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-02": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-03": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-04": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-05": {"total":2697.12, "Adult and Culture":2697.12},
+			"2016-06": {"total":1348.56, "Adult and Culture":1348.56},
+			"2016-07": {"total":288.98, "Adult and Culture":288.98},
+			"2017-01": {"total":4582.69, "Adult and Culture":4582.69},
+			"2017-02": {"total":2421.04, "Adult and Culture":2421.04},
+			"2017-03": {"total":2421.04, "Adult and Culture":2421.04},
+			"2017-04": {"total":1414.48, "Adult and Culture":1414.48},
+			"2017-05": {"total":2828.96, "Adult and Culture":2828.96},
+			"2017-06": {"total":2421.04, "Adult and Culture":2421.04},
+			"2017-07": {"total":2421.04, "Adult and Culture":2421.04},
+			"2017-08": {"total":2593.64, "Adult and Culture":2593.64},
+			"2017-09": {"total":3125.25, "Adult and Culture":3125.25},
+			"2017-10": {"total":2517.04, "Adult and Culture":2517.04},
+			"2017-11": {"total":2517.04, "Adult and Culture":2517.04},
+			"2017-12": {"total":2652.76, "Adult and Culture":2652.76},
+			"2018-01": {"total":3421.82, "Adult and Culture":3421.82},
+			"2018-02": {"total":2652.76, "Adult and Culture":2652.76},
+			"2018-03": {"total":2652.76, "Adult and Culture":2652.76},
+			"2018-04": {"total":2652.76, "Adult and Culture":2652.76},
+			"2018-05": {"total":5517.67, "Adult and Culture":5517.67},
+			"2018-06": {"total":2747.40, "Adult and Culture":2747.40},
+			"2018-07": {"total":2747.40, "Adult and Culture":2747.40},
+			"2018-08": {"total":2747.40, "Adult and Culture":2747.40},
+			"2018-09": {"total":2747.40, "Adult and Culture":2747.40},
+			"2018-10": {"total":2747.40, "People":2747.40},
+			"2018-11": {"total":2747.40, "People":2747.40},
+			"2018-12": {"total":2747.40, "People":2747.40},
+			"2019-01": {"total":2747.40, "People":2747.40},
+			"2019-02": {"total":2747.40, "People":2747.40},
+			"2019-03": {"total":2747.40, "People":2747.40},
+			"2019-04": {"total":5511.80, "People":5511.80},
+			"2019-05": {"total":2764.40, "People":2764.40},
+			"2019-06": {"total":3032.33, "People":3032.33},
+			"2019-07": {"total":2846.84, "People":2846.84},
+			"2019-08": {"total":2846.84, "People":2846.84},
+			"2019-09": {"total":2846.84, "People":2846.84},
+			"2019-10": {"total":2846.84, "People":2846.84},
+			"2019-11": {"total":2846.84, "People":2846.84},
+			"2019-12": {"total":2846.84, "ASC & Integrated Services":2846.84},
+			"2020-01": {"total":2846.84, "ASC & Integrated Services":2846.84},
+			"2020-02": {"total":2846.84, "ASC & Integrated Services":2846.84},
+			"2020-03": {"total":5693.68, "ASC & Integrated Services":5693.68},
+			"2020-04": {"total":2846.84, "ASC & Integrated Services":2846.84},
+			"2020-05": {"total":2898.84, "ASC & Integrated Services":2898.84},
+			"2020-06": {"total":2872.84, "ASC & Integrated Services":2872.84},
+			"2020-07": {"total":2872.84, "ASC & Integrated Services":2872.84},
+			"2020-08": {"total":2872.84, "ASC & Integrated Services":2872.84},
+			"2020-09": {"total":5745.68, "ASC & Integrated Services":5745.68},
+			"2020-10": {"total":1682.04, "ASC & Integrated Services":1682.04},
+			"2020-11": {"total":1682.04, "ASC & Integrated Services":1682.04}
+		}
+	},
+	"7318": {
+		"name": "MEADOWBROOK MANOR RESIDENTIAL HOME",
+		"total": 53391.5400000001,
+		"monthly": {
+			"2011-01": {"total":7533.04, "Adult and Culture":7533.04},
+			"2011-02": {"total":1233.48, "Adult and Culture":1233.48},
+			"2011-04": {"total":2466.96, "Adult and Culture":2466.96},
+			"2011-05": {"total":1202.82, "Childrens Services":1202.82},
+			"2011-09": {"total":4863.84, "Adult and Culture":4863.84},
+			"2011-10": {"total":1215.96, "Adult and Culture":1215.96},
+			"2011-11": {"total":1215.96, "Adult and Culture":1215.96},
+			"2011-12": {"total":2431.92, "Adult and Culture":2431.92},
+			"2012-01": {"total":1215.96, "Adult and Culture":1215.96},
+			"2012-02": {"total":1215.96, "Adult and Culture":1215.96},
+			"2012-03": {"total":1215.96, "Adult and Culture":1215.96},
+			"2012-04": {"total":1215.96, "Adult and Culture":1215.96},
+			"2012-06": {"total":2397.82, "Adult and Culture":2397.82},
+			"2012-07": {"total":1203.56, "Adult & Culture":1203.56},
+			"2012-11": {"total":4814.24, "unknown":4814.24},
+			"2012-12": {"total":2407.12, "unknown":2407.12},
+			"2013-02": {"total":2407.12, "unknown":2407.12},
+			"2013-03": {"total":1203.56, "unknown":1203.56},
+			"2013-04": {"total":1203.56, "unknown":1203.56},
+			"2013-05": {"total":313.37, "unknown":313.37},
+			"2013-06": {"total":694.88, "unknown":694.88},
+			"2013-07": {"total":694.88, "unknown":694.88},
+			"2013-08": {"total":694.88, "Adult and Culture":694.88},
+			"2013-10": {"total":4750.45, "Adult and Culture":4750.45},
+			"2013-11": {"total":1192.76, "Adult and Culture":1192.76},
+			"2013-12": {"total":2385.52, "Adult and Culture":2385.52}
+		}
+	},
+	"7319": {
+		"name": "MEADOWFIELD GARDENING CLUB",
+		"total": 275,
+		"monthly": {
+			"2016-09": {"total":275.00, "Chief Executive's":275.00}
+		}
+	},
+	"7320": {
+		"name": "MEADOWS RES HOME",
+		"total": 17746.27,
+		"monthly": {
+			"2015-08": {"total":1587.07, "Adult and Culture":1587.07},
+			"2015-09": {"total":1346.60, "Adult and Culture":1346.60},
+			"2015-10": {"total":1106.13, "Adult and Culture":1106.13},
+			"2015-12": {"total":4280.27, "Adult and Culture":4280.27},
+			"2016-01": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-02": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-03": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-04": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-05": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-06": {"total":1346.60, "Adult and Culture":1346.60},
+			"2016-07": {"total":1346.60, "Adult and Culture":1346.60}
+		}
+	},
+	"7321": {
+		"name": "MEAN FIDDLER EVENTS",
+		"total": 22801.45,
+		"monthly": {
+			"2012-01": {"total":22801.45, "Environment & Regeneration":22801.45}
+		}
+	},
+	"7322": {
+		"name": "MEARS CARE LTD",
+		"total": 693054.5,
+		"monthly": {
+			"2010-08": {"total":30604.00, "Adult and Culture":30604.00},
+			"2010-12": {"total":99840.08, "Adult and Culture":99840.08},
+			"2011-02": {"total":23196.41, "Adult and Culture":23196.41},
+			"2011-03": {"total":65645.59, "Adult and Culture":65645.59},
+			"2011-05": {"total":20868.10, "Adult and Culture":20868.10},
+			"2011-06": {"total":21346.29, "Adult and Culture":21346.29},
+			"2011-08": {"total":64907.70, "Adult and Culture":64907.70},
+			"2011-10": {"total":22319.06, "Adult and Culture":22319.06},
+			"2011-11": {"total":24384.83, "Adult and Culture":24384.83},
+			"2011-12": {"total":53356.99, "Adult and Culture":53356.99},
+			"2012-01": {"total":41178.78, "Adult and Culture":41178.78},
+			"2012-03": {"total":40134.96, "Adult and Culture":40134.96},
+			"2012-06": {"total":66678.47, "Adult and Culture":66678.47},
+			"2012-08": {"total":21204.20, "Adult & Culture":21204.20},
+			"2012-09": {"total":22059.47, "unknown":22059.47},
+			"2012-10": {"total":43137.98, "unknown":43137.98},
+			"2012-12": {"total":21409.14, "unknown":21409.14},
+			"2013-01": {"total":10782.45, "unknown":10782.45}
+		}
+	},
+	"7323": {
+		"name": "MEARS HI LTD",
+		"total": 1060693.32,
+		"monthly": {
+			"2011-03": {"total":16912.16, "Adult and Culture":16912.16},
+			"2011-04": {"total":21163.80, "Adult and Culture":21163.80},
+			"2011-05": {"total":21163.80, "Adult and Culture":21163.80},
+			"2011-06": {"total":21163.80, "Adult and Culture":21163.80},
+			"2011-07": {"total":21163.80, "Adult and Culture":21163.80},
+			"2011-08": {"total":21623.81, "Adult and Culture":21623.81},
+			"2011-09": {"total":21245.84, "Adult and Culture":21245.84},
+			"2011-10": {"total":21245.84, "Adult and Culture":21245.84},
+			"2011-11": {"total":37629.02, "Adult and Culture":37629.02},
+			"2011-12": {"total":46298.56, "Adult and Culture":46298.56},
+			"2012-01": {"total":23149.28, "Adult and Culture":23149.28},
+			"2012-02": {"total":23161.00, "Adult and Culture":23161.00},
+			"2012-04": {"total":26414.90, "Adult and Culture":26414.90},
+			"2012-05": {"total":17580.96, "Adult and Culture":17580.96},
+			"2012-06": {"total":17350.48, "Adult and Culture":17350.48},
+			"2012-07": {"total":17350.48, "Adult & Culture":17350.48},
+			"2012-08": {"total":17350.48, "Adult & Culture":17350.48},
+			"2012-09": {"total":17350.48, "unknown":17350.48},
+			"2012-10": {"total":17350.48, "unknown":17350.48},
+			"2012-11": {"total":34700.96, "unknown":34700.96},
+			"2012-12": {"total":17350.48, "unknown":17350.48},
+			"2013-01": {"total":17350.48, "unknown":17350.48},
+			"2013-02": {"total":17358.82, "unknown":17358.82},
+			"2013-03": {"total":8700.02, "unknown":8700.02},
+			"2013-04": {"total":17400.04, "unknown":17400.04},
+			"2013-05": {"total":17400.04, "unknown":17400.04},
+			"2013-06": {"total":17400.04, "unknown":17400.04},
+			"2013-07": {"total":17400.04, "unknown":17400.04},
+			"2013-08": {"total":17400.04, "Adult and Culture":17400.04},
+			"2013-09": {"total":17400.04, "Adult and Culture":17400.04},
+			"2013-10": {"total":17400.04, "Adult and Culture":17400.04},
+			"2013-11": {"total":34800.08, "Adult and Culture":34800.08},
+			"2013-12": {"total":17400.04, "Adult and Culture":17400.04},
+			"2014-01": {"total":17400.04, "Adult and Culture":17400.04},
+			"2014-02": {"total":17408.54, "Adult and Culture":17408.54},
+			"2014-03": {"total":8101.73, "Adult and Culture":8101.73},
+			"2014-04": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-05": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-06": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-07": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-08": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-09": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-10": {"total":17449.88, "Adult and Culture":17449.88},
+			"2014-11": {"total":34899.76, "Adult and Culture":34899.76},
+			"2014-12": {"total":17449.88, "Adult and Culture":17449.88},
+			"2015-01": {"total":17449.88, "Adult and Culture":17449.88},
+			"2015-02": {"total":17458.59, "Adult and Culture":17458.59},
+			"2015-03": {"total":4177.68, "Adult and Culture":4177.68},
+			"2015-04": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-05": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-06": {"total":10583.45, "Adult and Culture":9747.92, "Childrens Services":835.53},
+			"2015-07": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-08": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-09": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-10": {"total":9747.92, "Adult and Culture":9747.92},
+			"2015-11": {"total":19495.84, "Adult and Culture":19495.84},
+			"2015-12": {"total":9747.92, "Adult and Culture":9747.92},
+			"2016-02": {"total":9753.20, "Adult and Culture":9753.20}
+		}
+	},
+	"7324": {
+		"name": "MEARS HOME IMPROVEMENTS LTD",
+		"total": 736.03,
+		"monthly": {
+			"2011-08": {"total":736.03, "Adult and Culture":736.03}
+		}
+	},
+	"7325": {
+		"name": "MEARS HOMEIMPROVEMENT",
+		"total": 714.51,
+		"monthly": {
+			"2011-09": {"total":714.51, "Adult and Culture":714.51}
+		}
+	},
+	"7326": {
+		"name": "MEARS LTD",
+		"total": 13683252,
+		"monthly": {
+			"2010-04": {"total":4491.00, "HRA":4491.00},
+			"2010-05": {"total":406191.67, "HRA":406191.67},
+			"2010-06": {"total":790718.10, "HRA":790718.10},
+			"2010-08": {"total":584173.47, "HRA":584173.47},
+			"2010-09": {"total":422616.16, "HRA":422616.16},
+			"2010-10": {"total":419961.89, "HRA":419961.89},
+			"2010-11": {"total":547625.19, "HRA":547625.19},
+			"2010-12": {"total":980039.59, "Environment & Regeneration":249316.23, "HRA":730723.36},
+			"2011-03": {"total":764883.50, "Environment & Regeneration":123459.79, "HRA":641423.71},
+			"2011-04": {"total":318031.33, "Environment & Regeneration":317432.88, "HRA":598.45},
+			"2011-05": {"total":89956.81, "HRA":89956.81},
+			"2011-06": {"total":284123.08, "HRA":284123.08},
+			"2011-07": {"total":19974.45, "HRA":19974.45},
+			"2011-08": {"total":221352.81, "HRA":221352.81},
+			"2011-09": {"total":183677.38, "HRA":183677.38},
+			"2011-10": {"total":217850.93, "HRA":217850.93},
+			"2011-11": {"total":155727.80, "HRA":155727.80},
+			"2011-12": {"total":249507.52, "HRA":249507.52},
+			"2012-01": {"total":87470.59, "HRA":87470.59},
+			"2012-03": {"total":32836.14, "HRA":32836.14},
+			"2012-04": {"total":131705.86, "HRA":131705.86},
+			"2012-05": {"total":78762.04, "HRA":78762.04},
+			"2012-06": {"total":790256.99, "HRA":790256.99},
+			"2012-08": {"total":283504.72, "HRA":283504.72},
+			"2012-09": {"total":503233.08, "unknown":503233.08},
+			"2012-10": {"total":378917.84, "unknown":378917.84},
+			"2012-11": {"total":490992.43, "unknown":490992.43},
+			"2012-12": {"total":512295.39, "unknown":512295.39},
+			"2013-01": {"total":13013.92, "unknown":13013.92},
+			"2013-02": {"total":123175.87, "unknown":123175.87},
+			"2013-03": {"total":134508.79, "unknown":134508.79},
+			"2013-04": {"total":141660.53, "unknown":141660.53},
+			"2013-05": {"total":867.50, "unknown":867.50},
+			"2013-06": {"total":3663.64, "unknown":3663.64},
+			"2013-07": {"total":8641.81, "unknown":8641.81},
+			"2013-08": {"total":22945.31, "HRA":22945.31},
+			"2013-09": {"total":13437.89, "Environment & Regeneration":10271.19, "HRA":3166.70},
+			"2013-10": {"total":16398.86, "Environment & Regeneration":16398.86},
+			"2013-11": {"total":6332.95, "Environment & Regeneration":5966.58, "HRA":366.37},
+			"2013-12": {"total":39893.85, "Environment & Regeneration":39893.85},
+			"2014-01": {"total":28809.04, "Environment & Regeneration":28809.04},
+			"2014-02": {"total":58460.35, "Environment & Regeneration":58460.35},
+			"2014-03": {"total":2130.91, "Environment & Regeneration":2130.91},
+			"2014-04": {"total":98733.13, "Environment & Regeneration":98733.13},
+			"2014-05": {"total":43972.49, "Environment & Regeneration":43972.49},
+			"2014-06": {"total":27119.96, "Environment & Regeneration":27119.96},
+			"2014-07": {"total":104218.32, "Environment & Regeneration":102982.48, "HRA":1235.84},
+			"2014-08": {"total":65500.48, "Environment & Regeneration":64493.81, "HRA":1006.67},
+			"2014-09": {"total":31039.12, "Childrens Services":1632.83, "Environment & Regeneration":28667.79, "HRA":738.50},
+			"2014-10": {"total":47760.30, "Chief Executive's":7601.74, "Childrens Services":5763.30, "Environment & Regeneration":33414.43, "HRA":980.83},
+			"2014-11": {"total":79131.63, "Environment & Regeneration":77518.13, "HRA":1613.50},
+			"2014-12": {"total":128584.23, "Childrens Services":37402.00, "Environment & Regeneration":89189.94, "HRA":1992.29},
+			"2015-01": {"total":13700.67, "Environment & Regeneration":12840.44, "HRA":860.23},
+			"2015-02": {"total":8022.38, "Environment & Regeneration":5529.47, "HRA":2492.91},
+			"2015-03": {"total":23918.62, "Environment & Regeneration":21435.42, "HRA":2483.20},
+			"2015-04": {"total":41926.20, "Environment & Regeneration":40134.11, "HRA":1792.09},
+			"2015-05": {"total":658.84, "HRA":658.84},
+			"2015-06": {"total":91431.90, "Environment & Regeneration":89216.76, "HRA":2215.14},
+			"2015-07": {"total":47446.80, "Environment & Regeneration":44234.33, "HRA":3212.47},
+			"2015-08": {"total":2266.39, "Childrens Services":1949.59, "HRA":316.80},
+			"2015-09": {"total":50137.06, "Childrens Services":50137.06},
+			"2015-10": {"total":86336.69, "Childrens Services":8264.49, "Environment & Regeneration":78072.20},
+			"2015-11": {"total":125416.26, "Childrens Services":56616.91, "Environment & Regeneration":10855.07, "HRA":57944.28},
+			"2015-12": {"total":203102.67, "Adult and Culture":523.26, "Childrens Services":4631.80, "Environment & Regeneration":62834.51, "HRA":135113.10},
+			"2016-01": {"total":20757.37, "Environment & Regeneration":20178.37, "HRA":579.00},
+			"2016-02": {"total":262903.04, "Environment & Regeneration":52623.53, "HRA":210279.51},
+			"2016-03": {"total":105215.61, "Childrens Services":3900.23, "Environment & Regeneration":63006.93, "HRA":38308.45},
+			"2016-04": {"total":1247.98, "Childrens Services":1247.98},
+			"2016-05": {"total":120140.49, "Environment & Regeneration":4886.96, "HRA":115253.53},
+			"2016-06": {"total":199626.56, "Environment & Regeneration":63774.25, "HRA":135852.31},
+			"2016-07": {"total":8858.12, "Environment & Regeneration":8858.12},
+			"2016-08": {"total":106753.32, "Environment & Regeneration":31428.68, "HRA":75324.64},
+			"2016-09": {"total":12913.09, "Environment & Regeneration":12913.09},
+			"2016-10": {"total":7944.24, "Environment & Regeneration":7944.24},
+			"2016-11": {"total":125985.71, "Environment & Regeneration":18264.48, "HRA":107721.23},
+			"2016-12": {"total":148823.23, "Environment & Regeneration":85017.18, "HRA":63806.05},
+			"2017-01": {"total":64252.31, "Environment & Regeneration":2297.94, "HRA":61954.37},
+			"2017-02": {"total":84442.05, "Environment & Regeneration":31201.07, "HRA":53240.98},
+			"2017-03": {"total":17429.89, "Environment & Regeneration":6011.64, "HRA":11418.25},
+			"2017-07": {"total":33852.00, "HRA":33852.00},
+			"2017-08": {"total":3598.95, "Environment & Regeneration":3598.95},
+			"2017-09": {"total":60492.78, "HRA":60492.78},
+			"2017-10": {"total":51577.96, "HRA":51577.96},
+			"2017-11": {"total":41558.33, "HRA":41558.33},
+			"2017-12": {"total":33931.99, "HRA":33931.99},
+			"2018-01": {"total":25881.86, "HRA":25881.86},
+			"2018-02": {"total":40706.55, "HRA":40706.55},
+			"2018-03": {"total":60067.02, "HRA":60067.02},
+			"2018-05": {"total":28448.43, "HRA":28448.43},
+			"2018-06": {"total":78528.75, "HRA":78528.75},
+			"2018-08": {"total":41722.21, "HRA":41722.21},
+			"2018-11": {"total":10349.04, "Housing Revenue Account":10349.04}
+		}
+	},
+	"7327": {
+		"name": "MECROW MEDICAL SERVICES LTD",
+		"total": 3457.5,
+		"monthly": {
+			"2016-09": {"total":607.50, "Chief Executive's":607.50},
+			"2018-12": {"total":2136.00, "People":2136.00},
+			"2020-03": {"total":714.00, "Children, Education and Skills":714.00}
+		}
+	},
+	"7328": {
+		"name": "MEDELA",
+		"total": 14521,
+		"monthly": {
+			"2011-02": {"total":1541.00, "Childrens Services":1541.00},
+			"2011-03": {"total":12980.00, "Childrens Services":12980.00}
+		}
+	},
+	"7329": {
+		"name": "MEDIA AGENCY GROUP",
+		"total": 2400,
+		"monthly": {
+			"2016-04": {"total":2400.00, "Adult and Culture":2400.00}
+		}
+	},
+	"7330": {
+		"name": "MEDIA FRIENDLY",
+		"total": 15770,
+		"monthly": {
+			"2012-03": {"total":1780.00, "Chief Executive's":1780.00},
+			"2012-06": {"total":1780.00, "Chief Executive's":1780.00},
+			"2012-08": {"total":890.00, "Chief Executives":890.00},
+			"2014-05": {"total":890.00, "Chief Executive's":890.00},
+			"2014-11": {"total":890.00, "Chief Executive's":890.00},
+			"2017-03": {"total":1290.00, "Chief Executive's":1290.00},
+			"2017-11": {"total":1690.00, "Chief Executive's":1690.00},
+			"2017-12": {"total":1290.00, "Adult and Culture":1290.00},
+			"2018-04": {"total":1890.00, "Chief Executive's":1890.00},
+			"2018-05": {"total":1690.00, "Childrens Services":1690.00},
+			"2018-11": {"total":1690.00, "Assistant Chief Executive":1690.00}
+		}
+	},
+	"7331": {
+		"name": "MEDIA MAD! LTD",
+		"total": 831.36,
+		"monthly": {
+			"2010-06": {"total":831.36, "Environment & Regeneration":831.36}
+		}
+	},
+	"7332": {
+		"name": "MEDIA SERVICE SOLUTIONS",
+		"total": 7356.04,
+		"monthly": {
+			"2010-05": {"total":1335.00, "Chief Executives":1335.00},
+			"2012-08": {"total":450.00, "Environment & Regeneration":450.00},
+			"2013-09": {"total":385.00, "Childrens Services":385.00},
+			"2015-07": {"total":254.00, "Chief Executive's":254.00},
+			"2015-09": {"total":1015.00, "Chief Executive's":1015.00},
+			"2016-05": {"total":480.00, "Chief Executive's":480.00},
+			"2017-09": {"total":265.00, "Chief Executive's":265.00},
+			"2017-12": {"total":322.40, "Chief Executive's":322.40},
+			"2018-08": {"total":280.00, "Chief Executive's":280.00},
+			"2019-03": {"total":495.00, "Place":495.00},
+			"2019-04": {"total":758.64, "Place":758.64},
+			"2019-05": {"total":388.00, "Place":388.00},
+			"2019-09": {"total":280.00, "Place":280.00},
+			"2019-11": {"total":648.00, "Place":648.00}
+		}
+	},
+	"7333": {
+		"name": "MEDIAMERGE",
+		"total": 1106,
+		"monthly": {
+			"2014-10": {"total":456.00, "Childrens Services":456.00},
+			"2018-08": {"total":650.00, "Adult and Culture":650.00}
+		}
+	},
+	"7334": {
+		"name": "MEDIATION WORKS",
+		"total": 6475,
+		"monthly": {
+			"2010-04": {"total":1750.00, "Childrens Services":1750.00},
+			"2011-04": {"total":1575.00, "Childrens Services":1575.00},
+			"2012-04": {"total":1575.00, "Childrens Services":1575.00},
+			"2013-05": {"total":1575.00, "unknown":1575.00}
+		}
+	},
+	"7335": {
+		"name": "MEDIC LEGAL LTD",
+		"total": 1360.5,
+		"monthly": {
+			"2019-06": {"total":1360.50, "People":1360.50}
+		}
+	},
+	"7336": {
+		"name": "MEDICAL EXPERT WITNESS ALLIANCE LLP",
+		"total": 1352.5,
+		"monthly": {
+			"2018-08": {"total":1352.50, "Chief Executive's":1352.50}
+		}
+	},
+	"7337": {
+		"name": "MEDICALS DIRECT HEALTHCARE LTD",
+		"total": 118031.11,
+		"monthly": {
+			"2010-05": {"total":6043.18, "Chief Executives":6043.18},
+			"2010-06": {"total":6043.17, "Chief Executives":6043.17},
+			"2010-07": {"total":6043.18, "Chief Executives":6043.18},
+			"2010-08": {"total":6043.17, "Chief Executives":6043.17},
+			"2010-09": {"total":6043.18, "Chief Executives":6043.18},
+			"2010-10": {"total":6043.17, "Chief Executives":6043.17},
+			"2010-11": {"total":6043.18, "Chief Executives":6043.18},
+			"2010-12": {"total":4757.40, "Chief Executives":4757.40},
+			"2011-01": {"total":5400.29, "Chief Executives":5400.29},
+			"2011-03": {"total":5400.29, "Chief Executives":5400.29},
+			"2011-05": {"total":5400.29, "Chief Executive's":5400.29},
+			"2011-06": {"total":10800.58, "Chief Executive's":10800.58},
+			"2011-07": {"total":5400.29, "Chief Executive's":5400.29},
+			"2011-08": {"total":10800.58, "Chief Executive's":10800.58},
+			"2011-10": {"total":10800.58, "Chief Executive's":10800.58},
+			"2011-12": {"total":11568.29, "Chief Executive's":11568.29},
+			"2012-01": {"total":5400.29, "Chief Executive's":5400.29}
+		}
+	},
+	"7338": {
+		"name": "MEDICENTRE NEWCASTLE LTD",
+		"total": 32466.25,
+		"monthly": {
+			"2013-09": {"total":890.90, "Adult and Culture":890.90},
+			"2013-12": {"total":841.64, "Adult and Culture":841.64},
+			"2014-02": {"total":1944.08, "Adult and Culture":1944.08},
+			"2015-01": {"total":507.40, "Adult and Culture":507.40},
+			"2015-08": {"total":569.40, "Adult and Culture":569.40},
+			"2015-09": {"total":753.38, "Adult and Culture":753.38},
+			"2015-12": {"total":1169.17, "Adult and Culture":1169.17},
+			"2016-02": {"total":714.81, "Adult and Culture":714.81},
+			"2016-05": {"total":1109.74, "Adult and Culture":1109.74},
+			"2016-08": {"total":731.08, "Adult and Culture":731.08},
+			"2016-10": {"total":782.57, "Adult and Culture":782.57},
+			"2016-11": {"total":755.57, "Adult and Culture":755.57},
+			"2017-01": {"total":1079.91, "Adult and Culture":1079.91},
+			"2017-02": {"total":312.00, "Adult and Culture":312.00},
+			"2017-04": {"total":771.30, "Adult and Culture":771.30},
+			"2017-05": {"total":1032.00, "Adult and Culture":1032.00},
+			"2017-07": {"total":1797.30, "Adult and Culture":1797.30},
+			"2017-08": {"total":672.00, "Adult and Culture":672.00},
+			"2017-11": {"total":1176.35, "Adult and Culture":921.35, "Chief Executive's":255.00},
+			"2018-01": {"total":1051.92, "Chief Executive's":1051.92},
+			"2018-04": {"total":616.90, "Chief Executive's":616.90},
+			"2018-07": {"total":1519.25, "Chief Executive's":1519.25},
+			"2018-10": {"total":1083.44, "Public Health Service":1083.44},
+			"2019-01": {"total":975.84, "Public Health Service":975.84},
+			"2019-04": {"total":1085.62, "Public Health Service":1085.62},
+			"2019-08": {"total":861.86, "Public Health Service":861.86},
+			"2019-11": {"total":870.16, "Public Health Service":870.16},
+			"2020-01": {"total":501.37, "Public Health Service":501.37},
+			"2020-02": {"total":288.00, "Public Health Service":288.00},
+			"2020-03": {"total":912.00, "Public Health Service":912.00},
+			"2020-05": {"total":1396.18, "Public Health Service":1396.18},
+			"2020-07": {"total":1149.40, "Public Health Service":1149.40},
+			"2020-09": {"total":603.12, "Public Health Service":603.12},
+			"2020-10": {"total":1940.59, "Public Health Service":1940.59}
+		}
+	},
+	"7339": {
+		"name": "MEDICINE LINE LTD",
+		"total": 29116.35,
+		"monthly": {
+			"2015-01": {"total":275.00, "Adult and Culture":275.00},
+			"2015-04": {"total":375.00, "Adult and Culture":375.00},
+			"2015-06": {"total":925.00, "Adult and Culture":925.00},
+			"2015-08": {"total":450.00, "Adult and Culture":450.00},
+			"2015-09": {"total":550.00, "Adult and Culture":550.00},
+			"2015-10": {"total":700.00, "Adult and Culture":700.00},
+			"2015-11": {"total":725.00, "Adult and Culture":725.00},
+			"2015-12": {"total":1450.00, "Adult and Culture":1450.00},
+			"2016-02": {"total":650.00, "Adult and Culture":650.00},
+			"2016-03": {"total":625.00, "Adult and Culture":625.00},
+			"2016-04": {"total":625.00, "Adult and Culture":625.00},
+			"2016-05": {"total":725.00, "Adult and Culture":725.00},
+			"2016-06": {"total":1430.00, "Adult and Culture":1430.00},
+			"2016-08": {"total":755.00, "Adult and Culture":755.00},
+			"2016-09": {"total":705.00, "Adult and Culture":705.00},
+			"2016-10": {"total":1435.00, "Adult and Culture":1435.00},
+			"2016-11": {"total":880.00, "Adult and Culture":880.00},
+			"2016-12": {"total":955.00, "Adult and Culture":955.00},
+			"2017-01": {"total":1605.00, "Adult and Culture":1605.00},
+			"2017-02": {"total":930.00, "Adult and Culture":930.00},
+			"2017-03": {"total":830.00, "Adult and Culture":830.00},
+			"2017-04": {"total":800.00, "Adult and Culture":800.00},
+			"2017-07": {"total":3120.00, "Adult and Culture":3120.00},
+			"2017-08": {"total":775.00, "Adult and Culture":775.00},
+			"2017-09": {"total":1080.00, "Adult and Culture":1080.00},
+			"2017-11": {"total":1835.00, "Adult and Culture":955.00, "Chief Executive's":880.00},
+			"2017-12": {"total":1696.35, "Chief Executive's":1696.35},
+			"2018-01": {"total":1055.00, "Chief Executive's":1055.00},
+			"2018-04": {"total":1155.00, "Chief Executive's":1155.00}
+		}
+	},
+	"7340": {
+		"name": "MEDIGOLD HEALTH  CONSULTANCY LTD",
+		"total": 21601.16,
+		"monthly": {
+			"2012-02": {"total":5400.29, "Chief Executive's":5400.29},
+			"2012-03": {"total":10800.58, "Chief Executive's":10800.58},
+			"2012-05": {"total":5400.29, "Chief Executive's":5400.29}
+		}
+	},
+	"7341": {
+		"name": "MEDIPOST",
+		"total": 399,
+		"monthly": {
+			"2020-06": {"total":399.00, "ASC & Integrated Services":399.00}
+		}
+	},
+	"7342": {
+		"name": "MEDREPORT LTD",
+		"total": 661.44,
+		"monthly": {
+			"2013-05": {"total":661.44, "unknown":661.44}
+		}
+	},
+	"7343": {
+		"name": "MEDSERV",
+		"total": 1575.2,
+		"monthly": {
+			"2017-01": {"total":765.20, "Chief Executive's":765.20},
+			"2019-05": {"total":486.00, "People":486.00},
+			"2020-08": {"total":324.00, "Children, Education and Skills":324.00}
+		}
+	},
+	"7344": {
+		"name": "MEDTRONIC",
+		"total": 1194,
+		"monthly": {
+			"2011-05": {"total":1194.00, "Chief Executive's":1194.00}
+		}
+	},
+	"7345": {
+		"name": "MEDWAY GALVANISING COMPANY LTD",
+		"total": 1513,
+		"monthly": {
+			"2012-05": {"total":1513.00, "Environment & Regeneration":1513.00}
+		}
+	},
+	"7346": {
+		"name": "MEERKAT FILM PRODUCTIONS LTD",
+		"total": 15500,
+		"monthly": {
+			"2010-05": {"total":15000.00, "Childrens Services":15000.00},
+			"2013-08": {"total":500.00, "Childrens Services":500.00}
+		}
+	},
+	"7347": {
 		"name": "MEGANEXUS",
 		"total": 3100,
 		"monthly": {
 			"2015-05": {"total":3100.00, "Adult and Culture":3100.00}
 		}
 	},
-	"7301": {
+	"7348": {
 		"name": "MEGATOR LTD",
 		"total": 760,
 		"monthly": {
 			"2013-10": {"total":760.00, "Environment & Regeneration":760.00}
 		}
 	},
-	"7302": {
+	"7349": {
 		"name": "MEIKO UK LTD",
 		"alternate-names": [
 			"MEIKO UK LIMITED"
@@ -23,1085 +845,6 @@
 		"total": 528.63,
 		"monthly": {
 			"2012-03": {"total":528.63, "Environment & Regeneration":528.63}
-		}
-	},
-	"7303": {
-		"name": "MEL BUSH ORGANISATION LTD",
-		"total": 182043.59,
-		"monthly": {
-			"2012-01": {"total":125241.30, "Environment & Regeneration":125241.30},
-			"2012-04": {"total":41220.89, "Environment & Regeneration":41220.89},
-			"2012-11": {"total":15581.40, "unknown":15581.40}
-		}
-	},
-	"7304": {
-		"name": "MEL RESEARCH",
-		"total": 24460,
-		"monthly": {
-			"2015-06": {"total":10750.00, "Chief Executive's":10750.00},
-			"2015-12": {"total":13710.00, "Chief Executive's":13710.00}
-		}
-	},
-	"7305": {
-		"name": "MELBURY COURT RESIDENTIAL HOME",
-		"total": 160865.28,
-		"monthly": {
-			"2011-10": {"total":5367.36, "Adult and Culture":5367.36},
-			"2011-11": {"total":1967.07, "Adult and Culture":1967.07},
-			"2012-01": {"total":1204.04, "Adult and Culture":1204.04},
-			"2012-02": {"total":1144.04, "Adult and Culture":1144.04},
-			"2012-03": {"total":1144.04, "Adult and Culture":1144.04},
-			"2012-04": {"total":1144.04, "Adult and Culture":1144.04},
-			"2012-05": {"total":1144.04, "Adult and Culture":1144.04},
-			"2012-06": {"total":1144.04, "Adult and Culture":1144.04},
-			"2012-07": {"total":4592.50, "Adult & Culture":4592.50},
-			"2012-08": {"total":2211.52, "Adult & Culture":2211.52},
-			"2012-10": {"total":2211.52, "unknown":2211.52},
-			"2012-11": {"total":1105.76, "unknown":1105.76},
-			"2012-12": {"total":1105.76, "unknown":1105.76},
-			"2013-01": {"total":394.90, "unknown":394.90},
-			"2014-12": {"total":3610.46, "Adult and Culture":3610.46},
-			"2015-01": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-02": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-03": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-04": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-05": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-06": {"total":2732.24, "Adult and Culture":2732.24},
-			"2015-07": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-08": {"total":1366.12, "Adult and Culture":1366.12},
-			"2015-10": {"total":2732.24, "Adult and Culture":2732.24},
-			"2015-12": {"total":2732.24, "Adult and Culture":2732.24},
-			"2016-01": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-02": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-03": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-05": {"total":4098.36, "Adult and Culture":4098.36},
-			"2016-06": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-07": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-08": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-09": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-10": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-11": {"total":1366.12, "Adult and Culture":1366.12},
-			"2016-12": {"total":1366.12, "Adult and Culture":1366.12},
-			"2017-01": {"total":2498.44, "Adult and Culture":2498.44},
-			"2017-02": {"total":2498.44, "Adult and Culture":2498.44},
-			"2017-03": {"total":3462.30, "Adult and Culture":3462.30},
-			"2017-04": {"total":2106.90, "Adult and Culture":2106.90},
-			"2017-05": {"total":2986.80, "Adult and Culture":2986.80},
-			"2017-06": {"total":2625.72, "Adult and Culture":2625.72},
-			"2017-07": {"total":2625.72, "Adult and Culture":2625.72},
-			"2017-08": {"total":3749.32, "Adult and Culture":3749.32},
-			"2017-09": {"total":2850.44, "Adult and Culture":2850.44},
-			"2017-10": {"total":3006.10, "Adult and Culture":3006.10},
-			"2017-11": {"total":13977.95, "Adult and Culture":13977.95},
-			"2017-12": {"total":49592.22, "Adult and Culture":49592.22},
-			"2018-03": {"total":3874.72, "Adult and Culture":3874.72}
-		}
-	},
-	"7306": {
-		"name": "MELBURY HOUSE REST HOME",
-		"total": 8349.51,
-		"monthly": {
-			"2017-11": {"total":8349.51, "Adult and Culture":8349.51}
-		}
-	},
-	"7307": {
-		"name": "MELDAN HOUSE",
-		"total": 270590.44,
-		"monthly": {
-			"2020-09": {"total":270590.44, "ASC & Integrated Services":270590.44}
-		}
-	},
-	"7308": {
-		"name": "MELDRUM CONSTRUCTION SERVICES LTD",
-		"total": 993437.92,
-		"monthly": {
-			"2010-07": {"total":1200.84, "Childrens Services":1200.84},
-			"2010-09": {"total":11950.62, "Childrens Services":11950.62},
-			"2010-11": {"total":53261.45, "Childrens Services":53261.45},
-			"2011-01": {"total":47560.57, "Childrens Services":47560.57},
-			"2011-07": {"total":21258.58, "Environment & Regeneration":21258.58},
-			"2012-03": {"total":5956.38, "Environment & Regeneration":5956.38},
-			"2012-06": {"total":1219.50, "Childrens Services":1219.50},
-			"2014-10": {"total":21697.52, "Environment & Regeneration":21697.52},
-			"2015-02": {"total":29843.08, "Environment & Regeneration":15293.08, "HRA":14550.00},
-			"2015-07": {"total":24800.00, "HRA":24800.00},
-			"2015-09": {"total":15047.15, "HRA":15047.15},
-			"2015-10": {"total":39039.22, "HRA":39039.22},
-			"2015-11": {"total":113302.08, "HRA":113302.08},
-			"2015-12": {"total":217672.68, "HRA":217672.68},
-			"2016-02": {"total":4090.36, "HRA":4090.36},
-			"2016-03": {"total":1008.01, "HRA":1008.01},
-			"2016-04": {"total":948.48, "Environment & Regeneration":948.48},
-			"2016-05": {"total":10012.50, "Environment & Regeneration":10012.50},
-			"2016-07": {"total":13661.95, "Environment & Regeneration":13661.95},
-			"2016-12": {"total":10012.50, "Environment & Regeneration":10012.50},
-			"2017-01": {"total":10831.17, "Environment & Regeneration":10831.17},
-			"2017-02": {"total":70227.70, "Environment & Regeneration":70227.70},
-			"2017-03": {"total":124169.40, "HRA":124169.40},
-			"2017-04": {"total":10861.17, "HRA":10861.17},
-			"2017-05": {"total":10861.17, "HRA":10861.17},
-			"2017-06": {"total":2375.86, "Environment & Regeneration":2375.86},
-			"2017-08": {"total":10698.58, "Environment & Regeneration":10698.58},
-			"2017-10": {"total":10012.50, "Environment & Regeneration":10012.50},
-			"2017-12": {"total":57169.94, "Environment & Regeneration":57169.94},
-			"2018-01": {"total":13482.75, "Environment & Regeneration":13482.75},
-			"2018-04": {"total":3094.50, "Environment & Regeneration":3094.50},
-			"2018-06": {"total":10012.50, "Environment & Regeneration":10012.50},
-			"2018-11": {"total":2771.40, "Operations & Reg Services":2771.40},
-			"2019-03": {"total":7678.51, "Housing Revenue Account":7678.51},
-			"2019-04": {"total":5647.30, "Operations & Reg Services":5647.30}
-		}
-	},
-	"7309": {
-		"name": "MELLOR COACHCRAFT",
-		"total": 2098,
-		"monthly": {
-			"2011-07": {"total":510.00, "Environment & Regeneration":510.00},
-			"2013-04": {"total":1308.00, "unknown":1308.00},
-			"2013-05": {"total":280.00, "unknown":280.00}
-		}
-	},
-	"7310": {
-		"name": "MELROSE FUNERAL SERVICES LTD",
-		"total": 2909.87,
-		"monthly": {
-			"2015-05": {"total":2909.87, "Adult and Culture":2909.87}
-		}
-	},
-	"7311": {
-		"name": "MELROSE HOUSE",
-		"total": 36014.29,
-		"monthly": {
-			"2010-04": {"total":2215.20, "Adult and Culture":2215.20},
-			"2010-05": {"total":1107.60, "Adult and Culture":1107.60},
-			"2010-06": {"total":1107.60, "Adult and Culture":1107.60},
-			"2010-07": {"total":1079.00, "Adult and Culture":1079.00},
-			"2010-08": {"total":2197.60, "Adult and Culture":2197.60},
-			"2010-09": {"total":1098.80, "Adult and Culture":1098.80},
-			"2010-10": {"total":1098.80, "Adult and Culture":1098.80},
-			"2010-11": {"total":2463.60, "Adult and Culture":2463.60},
-			"2011-01": {"total":1126.80, "Adult and Culture":1126.80},
-			"2011-02": {"total":1126.80, "Adult and Culture":1126.80},
-			"2011-03": {"total":1126.80, "Adult and Culture":1126.80},
-			"2011-04": {"total":1122.35, "Adult and Culture":1122.35},
-			"2011-05": {"total":1109.00, "Childrens Services":1109.00},
-			"2011-06": {"total":1109.00, "Adult and Culture":1109.00},
-			"2011-07": {"total":1109.00, "Adult and Culture":1109.00},
-			"2011-08": {"total":2218.00, "Adult and Culture":2218.00},
-			"2011-09": {"total":1109.00, "Adult and Culture":1109.00},
-			"2012-02": {"total":4205.07, "Adult and Culture":4205.07},
-			"2012-03": {"total":1226.48, "Adult and Culture":1226.48},
-			"2012-05": {"total":2443.46, "Adult and Culture":2443.46},
-			"2012-06": {"total":1218.88, "Adult and Culture":1218.88},
-			"2012-07": {"total":1218.88, "Adult & Culture":1218.88},
-			"2012-08": {"total":1001.22, "Adult & Culture":1001.22},
-			"2012-10": {"total":1175.35, "unknown":1175.35}
-		}
-	},
-	"7312": {
-		"name": "MELROSE HOUSE CULLERCOATS LTD",
-		"total": 16215.05,
-		"monthly": {
-			"2020-06": {"total":6014.28, "ASC & Integrated Services":6014.28},
-			"2020-07": {"total":2004.76, "ASC & Integrated Services":2004.76},
-			"2020-08": {"total":3986.01, "ASC & Integrated Services":3986.01},
-			"2020-09": {"total":4210.00, "ASC & Integrated Services":4210.00}
-		}
-	},
-	"7313": {
-		"name": "MELROSE PACKAGING",
-		"total": 255.53,
-		"monthly": {
-			"2016-03": {"total":255.53, "Environment & Regeneration":255.53}
-		}
-	},
-	"7314": {
-		"name": "MELTON HOUSE",
-		"total": 2148757.96,
-		"monthly": {
-			"2016-05": {"total":12300.70, "Adult and Culture":12300.70},
-			"2016-06": {"total":4522.84, "Adult and Culture":4522.84},
-			"2016-07": {"total":16035.04, "Adult and Culture":16035.04},
-			"2016-08": {"total":8480.76, "Adult and Culture":8480.76},
-			"2016-09": {"total":5761.80, "Adult and Culture":5761.80},
-			"2016-10": {"total":12472.87, "Adult and Culture":12472.87},
-			"2016-11": {"total":21368.08, "Adult and Culture":21368.08},
-			"2016-12": {"total":11152.19, "Adult and Culture":11152.19},
-			"2017-01": {"total":28753.72, "Adult and Culture":28753.72},
-			"2017-02": {"total":30863.39, "Adult and Culture":30863.39},
-			"2017-03": {"total":43235.99, "Adult and Culture":43235.99},
-			"2017-04": {"total":71663.10, "Adult and Culture":71663.10},
-			"2017-05": {"total":70519.23, "Adult and Culture":70519.23},
-			"2017-06": {"total":29855.23, "Adult and Culture":29855.23},
-			"2017-07": {"total":38277.95, "Adult and Culture":38277.95},
-			"2017-08": {"total":40889.61, "Adult and Culture":40889.61},
-			"2017-09": {"total":37838.50, "Adult and Culture":37838.50},
-			"2017-10": {"total":16031.53, "Adult and Culture":16031.53},
-			"2017-11": {"total":28462.58, "Adult and Culture":28462.58},
-			"2017-12": {"total":20629.27, "Adult and Culture":20629.27},
-			"2018-01": {"total":14095.56, "Adult and Culture":14095.56},
-			"2018-02": {"total":35916.55, "Adult and Culture":35916.55},
-			"2018-03": {"total":7630.30, "Adult and Culture":7630.30},
-			"2018-04": {"total":16122.43, "Adult and Culture":16122.43},
-			"2018-05": {"total":47096.02, "Adult and Culture":47096.02},
-			"2018-06": {"total":22952.96, "Adult and Culture":22952.96},
-			"2018-07": {"total":35542.18, "Adult and Culture":35542.18},
-			"2018-08": {"total":21667.34, "Adult and Culture":21667.34},
-			"2018-09": {"total":20700.48, "Adult and Culture":20700.48},
-			"2018-10": {"total":23897.55, "People":23897.55},
-			"2018-12": {"total":18843.64, "People":18843.64},
-			"2019-01": {"total":37950.35, "People":37950.35},
-			"2019-02": {"total":21123.63, "People":21123.63},
-			"2019-03": {"total":23360.46, "People":23360.46},
-			"2019-04": {"total":41629.98, "People":41629.98},
-			"2019-05": {"total":22025.18, "People":22025.18},
-			"2019-06": {"total":24440.37, "People":24440.37},
-			"2019-07": {"total":37560.47, "People":37560.47},
-			"2019-08": {"total":25227.93, "People":25227.93},
-			"2019-09": {"total":23075.44, "People":23075.44},
-			"2019-10": {"total":28716.21, "People":28716.21},
-			"2019-11": {"total":82561.50, "People":82561.50},
-			"2019-12": {"total":45110.23, "ASC & Integrated Services":45110.23},
-			"2020-01": {"total":33507.00, "ASC & Integrated Services":33507.00},
-			"2020-02": {"total":24915.98, "ASC & Integrated Services":24915.98},
-			"2020-03": {"total":72396.35, "ASC & Integrated Services":72396.35},
-			"2020-04": {"total":46198.85, "ASC & Integrated Services":46198.85},
-			"2020-05": {"total":33184.93, "ASC & Integrated Services":33184.93},
-			"2020-06": {"total":488307.69, "ASC & Integrated Services":488307.69},
-			"2020-07": {"total":24699.44, "ASC & Integrated Services":24699.44},
-			"2020-08": {"total":60606.04, "ASC & Integrated Services":60606.04},
-			"2020-09": {"total":138580.54, "ASC & Integrated Services":138580.54}
-		}
-	},
-	"7315": {
-		"name": "MEM-STAR RUGGED LTD",
-		"total": 3132.5,
-		"monthly": {
-			"2017-03": {"total":3132.50, "Environment & Regeneration":3132.50}
-		}
-	},
-	"7316": {
-		"name": "MEN'S HEALTH FORUM",
-		"total": 947.89,
-		"monthly": {
-			"2013-03": {"total":303.97, "unknown":303.97},
-			"2015-03": {"total":321.96, "Adult and Culture":321.96},
-			"2015-05": {"total":321.96, "Adult and Culture":321.96}
-		}
-	},
-	"7317": {
-		"name": "MENCAP",
-		"total": 316941,
-		"monthly": {
-			"2010-06": {"total":19492.56, "Adult and Culture":19492.56},
-			"2010-07": {"total":6497.52, "Adult and Culture":6497.52},
-			"2010-08": {"total":6497.52, "Adult and Culture":6497.52},
-			"2010-09": {"total":6497.52, "Adult and Culture":6497.52},
-			"2010-10": {"total":6497.52, "Adult and Culture":6497.52},
-			"2010-11": {"total":6497.52, "Adult and Culture":6497.52},
-			"2011-02": {"total":11271.52, "Adult and Culture":11271.52},
-			"2011-03": {"total":14376.74, "Adult and Culture":14376.74},
-			"2011-05": {"total":19520.58, "Adult and Culture":19520.58},
-			"2011-07": {"total":9045.89, "Adult and Culture":9045.89},
-			"2011-09": {"total":24987.08, "Adult and Culture":24987.08},
-			"2011-12": {"total":17443.24, "Adult and Culture":17443.24},
-			"2012-01": {"total":1405.08, "Adult and Culture":1405.08},
-			"2012-02": {"total":14633.08, "Adult and Culture":14633.08},
-			"2012-03": {"total":2810.16, "Adult and Culture":2810.16},
-			"2012-05": {"total":2810.16, "Adult and Culture":2810.16},
-			"2012-06": {"total":14633.08, "Adult and Culture":14633.08},
-			"2012-07": {"total":1405.08, "Adult & Culture":1405.08},
-			"2012-08": {"total":1405.08, "Adult & Culture":1405.08},
-			"2012-09": {"total":1405.08, "unknown":1405.08},
-			"2012-10": {"total":8797.18, "unknown":8797.18},
-			"2012-11": {"total":3486.68, "unknown":3486.68},
-			"2012-12": {"total":3903.00, "unknown":3903.00},
-			"2013-01": {"total":4782.42, "unknown":4782.42},
-			"2013-02": {"total":5047.88, "unknown":5047.88},
-			"2013-03": {"total":4683.60, "unknown":4683.60},
-			"2013-04": {"total":4683.60, "unknown":4683.60},
-			"2013-05": {"total":4703.13, "unknown":4703.13},
-			"2013-06": {"total":3837.60, "unknown":3837.60},
-			"2013-07": {"total":3284.10, "unknown":3284.10},
-			"2013-08": {"total":3099.60, "Adult and Culture":3099.60},
-			"2013-09": {"total":9151.20, "Adult and Culture":9151.20},
-			"2013-10": {"total":1487.76, "Adult and Culture":1487.76},
-			"2013-11": {"total":1328.40, "Adult and Culture":1328.40},
-			"2013-12": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-01": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-02": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-03": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-04": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-05": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-06": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-07": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-08": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-09": {"total":2656.80, "Adult and Culture":2656.80},
-			"2014-10": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-11": {"total":1328.40, "Adult and Culture":1328.40},
-			"2014-12": {"total":1328.40, "Adult and Culture":1328.40},
-			"2015-01": {"total":1328.40, "Adult and Culture":1328.40},
-			"2015-02": {"total":1328.40, "Adult and Culture":1328.40},
-			"2015-03": {"total":1328.40, "Adult and Culture":1328.40},
-			"2015-04": {"total":1328.40, "Adult and Culture":1328.40},
-			"2015-05": {"total":1334.88, "Adult and Culture":1334.88},
-			"2015-06": {"total":1341.36, "Adult and Culture":1341.36},
-			"2015-07": {"total":1341.36, "Adult and Culture":1341.36},
-			"2015-08": {"total":1341.36, "Adult and Culture":1341.36},
-			"2015-09": {"total":2682.72, "Adult and Culture":2682.72},
-			"2015-10": {"total":1341.36, "Adult and Culture":1341.36},
-			"2015-11": {"total":1341.36, "Adult and Culture":1341.36},
-			"2015-12": {"total":1341.36, "Adult and Culture":1341.36},
-			"2016-01": {"total":1341.36, "Adult and Culture":1341.36},
-			"2016-02": {"total":1341.36, "Adult and Culture":1341.36},
-			"2016-03": {"total":1341.36, "Adult and Culture":1341.36},
-			"2016-04": {"total":1341.36, "Adult and Culture":1341.36},
-			"2016-05": {"total":1399.59, "Adult and Culture":1399.59},
-			"2016-06": {"total":1395.36, "Adult and Culture":1395.36},
-			"2016-07": {"total":813.96, "Adult and Culture":813.96},
-			"2016-08": {"total":1258.56, "Adult and Culture":1258.56},
-			"2016-09": {"total":624.00, "Adult and Culture":624.00},
-			"2016-10": {"total":624.00, "Adult and Culture":624.00},
-			"2016-11": {"total":624.00, "Adult and Culture":624.00},
-			"2016-12": {"total":624.00, "Adult and Culture":624.00},
-			"2017-01": {"total":624.00, "Adult and Culture":624.00},
-			"2017-02": {"total":624.00, "Adult and Culture":624.00},
-			"2017-03": {"total":624.00, "Adult and Culture":624.00},
-			"2017-04": {"total":624.00, "Adult and Culture":624.00},
-			"2017-05": {"total":624.00, "Adult and Culture":624.00},
-			"2017-07": {"total":624.00, "Adult and Culture":624.00},
-			"2017-08": {"total":2002.00, "Adult and Culture":2002.00},
-			"2017-09": {"total":1456.00, "Adult and Culture":1456.00},
-			"2017-10": {"total":1028.86, "Adult and Culture":1028.86},
-			"2017-11": {"total":1422.00, "Adult and Culture":1422.00},
-			"2017-12": {"total":1000.80, "Adult and Culture":1000.80},
-			"2018-01": {"total":333.60, "Adult and Culture":333.60},
-			"2018-02": {"total":333.60, "Adult and Culture":333.60},
-			"2018-03": {"total":333.60, "Adult and Culture":333.60},
-			"2018-05": {"total":1564.80, "Adult and Culture":1564.80},
-			"2018-06": {"total":782.40, "Adult and Culture":782.40},
-			"2018-07": {"total":2042.91, "Adult and Culture":2042.91},
-			"2018-08": {"total":782.40, "Adult and Culture":782.40}
-		}
-	},
-	"7318": {
-		"name": "MENCAP - COLLEGES",
-		"total": 68002.3,
-		"monthly": {
-			"2014-05": {"total":68002.30, "Adult and Culture":68002.30}
-		}
-	},
-	"7319": {
-		"name": "MENCAP DILSTON COLLEGE",
-		"total": 143554.84,
-		"monthly": {
-			"2012-01": {"total":20506.20, "Adult and Culture":20506.20},
-			"2012-02": {"total":4101.20, "Adult and Culture":4101.20},
-			"2012-03": {"total":4101.20, "Adult and Culture":4101.20},
-			"2012-04": {"total":4101.20, "Adult and Culture":4101.20},
-			"2012-05": {"total":4101.20, "Adult and Culture":4101.20},
-			"2012-06": {"total":4101.20, "Adult and Culture":4101.20},
-			"2012-07": {"total":4101.20, "Adult & Culture":4101.20},
-			"2012-08": {"total":2050.60, "Adult & Culture":2050.60},
-			"2013-12": {"total":58205.34, "Childrens Services":58205.34},
-			"2014-03": {"total":25117.98, "Childrens Services":25117.98},
-			"2014-06": {"total":13067.52, "Adult and Culture":6533.76, "Environment & Regeneration":6533.76}
-		}
-	},
-	"7320": {
-		"name": "MENDIP HOUSE CARE HOME",
-		"total": 47385,
-		"monthly": {
-			"2011-08": {"total":2680.69, "Adult and Culture":2680.69},
-			"2011-09": {"total":1230.48, "Adult and Culture":1230.48},
-			"2011-10": {"total":1230.48, "Adult and Culture":1230.48},
-			"2011-11": {"total":2153.34, "Adult and Culture":2153.34},
-			"2012-01": {"total":1230.48, "Adult and Culture":1230.48},
-			"2012-02": {"total":1230.48, "Adult and Culture":1230.48},
-			"2012-03": {"total":1230.48, "Adult and Culture":1230.48},
-			"2012-04": {"total":1230.48, "Adult and Culture":1230.48},
-			"2012-05": {"total":1258.18, "Adult and Culture":1258.18},
-			"2012-06": {"total":1252.64, "Adult and Culture":1252.64},
-			"2012-07": {"total":1252.64, "Adult & Culture":1252.64},
-			"2012-08": {"total":2505.28, "Adult & Culture":2505.28},
-			"2012-09": {"total":1252.64, "unknown":1252.64},
-			"2012-10": {"total":1252.64, "unknown":1252.64},
-			"2012-11": {"total":1252.64, "unknown":1252.64},
-			"2012-12": {"total":1252.64, "unknown":1252.64},
-			"2013-01": {"total":1252.64, "unknown":1252.64},
-			"2013-02": {"total":1252.64, "unknown":1252.64},
-			"2013-03": {"total":1252.64, "unknown":1252.64},
-			"2013-04": {"total":1250.36, "unknown":1250.36},
-			"2013-05": {"total":1243.52, "unknown":1243.52},
-			"2013-06": {"total":1243.52, "unknown":1243.52},
-			"2013-07": {"total":701.08, "unknown":701.08},
-			"2013-08": {"total":2959.76, "Adult and Culture":1230.24, "unknown":1729.52},
-			"2013-09": {"total":1230.24, "Adult and Culture":1230.24},
-			"2013-10": {"total":1230.24, "Adult and Culture":1230.24},
-			"2013-11": {"total":1230.24, "Adult and Culture":1230.24},
-			"2013-12": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-01": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-02": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-03": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-04": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-05": {"total":1230.24, "Adult and Culture":1230.24},
-			"2014-06": {"total":836.27, "Adult and Culture":836.27},
-			"2015-07": {"total":824.20, "Adult and Culture":824.20}
-		}
-	},
-	"7321": {
-		"name": "MENERGA LTD",
-		"total": 58017.26,
-		"monthly": {
-			"2010-04": {"total":3400.00, "Environment & Regeneration":3400.00},
-			"2010-07": {"total":1493.48, "Environment & Regeneration":1493.48},
-			"2011-02": {"total":3500.00, "Environment & Regeneration":3500.00},
-			"2011-11": {"total":5160.02, "Environment & Regeneration":5160.02},
-			"2011-12": {"total":4010.52, "Environment & Regeneration":4010.52},
-			"2012-02": {"total":11424.18, "Environment & Regeneration":11424.18},
-			"2012-04": {"total":927.09, "Environment & Regeneration":927.09},
-			"2012-05": {"total":1214.98, "Environment & Regeneration":1214.98},
-			"2013-01": {"total":3715.00, "unknown":3715.00},
-			"2013-02": {"total":503.29, "unknown":503.29},
-			"2013-09": {"total":1214.97, "Childrens Services":1214.97},
-			"2013-11": {"total":908.00, "Environment & Regeneration":908.00},
-			"2014-02": {"total":7985.71, "Environment & Regeneration":7985.71},
-			"2014-03": {"total":7520.04, "Environment & Regeneration":7520.04},
-			"2014-08": {"total":1214.98, "Environment & Regeneration":1214.98},
-			"2015-03": {"total":3825.00, "Environment & Regeneration":3825.00}
-		}
-	},
-	"7322": {
-		"name": "MENINGITIS RESEARCH FOUNDATION",
-		"total": 2634.51,
-		"monthly": {
-			"2010-07": {"total":2634.51, "Chief Executives":2634.51}
-		}
-	},
-	"7323": {
-		"name": "MENISHA GALA",
-		"total": 525,
-		"monthly": {
-			"2016-06": {"total":525.00, "Adult and Culture":525.00}
-		}
-	},
-	"7324": {
-		"name": "MENTAL HEALTH CONCERN",
-		"total": 4953101.41,
-		"monthly": {
-			"2010-04": {"total":12573.40, "Adult and Culture":12573.40},
-			"2010-05": {"total":12573.40, "Adult and Culture":12573.40},
-			"2010-06": {"total":47008.68, "Adult and Culture":47008.68},
-			"2010-07": {"total":11147.80, "Adult and Culture":11147.80},
-			"2010-08": {"total":10305.40, "Adult and Culture":10305.40},
-			"2010-09": {"total":46368.21, "Adult and Culture":46368.21},
-			"2010-10": {"total":11478.16, "Adult and Culture":11478.16},
-			"2010-11": {"total":10759.00, "Adult and Culture":10759.00},
-			"2010-12": {"total":96384.49, "Adult and Culture":96384.49},
-			"2011-01": {"total":16236.08, "Adult and Culture":16236.08},
-			"2011-02": {"total":83691.03, "Adult and Culture":83691.03},
-			"2011-03": {"total":46813.66, "Adult and Culture":46813.66},
-			"2011-04": {"total":12573.40, "Adult and Culture":12573.40},
-			"2011-05": {"total":11459.66, "Adult and Culture":11459.66},
-			"2011-06": {"total":43611.50, "Adult and Culture":43611.50},
-			"2011-07": {"total":12133.16, "Adult and Culture":12133.16},
-			"2011-08": {"total":12133.16, "Adult and Culture":12133.16},
-			"2011-09": {"total":45058.78, "Adult and Culture":45058.78},
-			"2011-10": {"total":12133.16, "Adult and Culture":12133.16},
-			"2011-11": {"total":12133.16, "Adult and Culture":12133.16},
-			"2011-12": {"total":57193.84, "Adult and Culture":57193.84},
-			"2012-01": {"total":13942.61, "Adult and Culture":13942.61},
-			"2012-02": {"total":12653.40, "Adult and Culture":12653.40},
-			"2012-03": {"total":43565.17, "Adult and Culture":43565.17},
-			"2012-04": {"total":12268.12, "Adult and Culture":12268.12},
-			"2012-05": {"total":12268.12, "Adult and Culture":12268.12},
-			"2012-06": {"total":43194.52, "Adult and Culture":43194.52},
-			"2012-07": {"total":10798.63, "Adult & Culture":10798.63},
-			"2012-08": {"total":11392.68, "Adult & Culture":11392.68},
-			"2012-09": {"total":44502.12, "unknown":44502.12},
-			"2012-10": {"total":11392.68, "unknown":11392.68},
-			"2012-11": {"total":22785.36, "unknown":22785.36},
-			"2012-12": {"total":44502.12, "unknown":44502.12},
-			"2013-01": {"total":17894.28, "unknown":17894.28},
-			"2013-02": {"total":12748.13, "unknown":12748.13},
-			"2013-03": {"total":43628.88, "unknown":43628.88},
-			"2013-04": {"total":12277.92, "unknown":12277.92},
-			"2013-05": {"total":13917.22, "unknown":13917.22},
-			"2013-06": {"total":44841.36, "unknown":44841.36},
-			"2013-07": {"total":16517.92, "unknown":16517.92},
-			"2013-08": {"total":12277.92, "Adult and Culture":12277.92},
-			"2013-09": {"total":38994.42, "Adult and Culture":38994.42},
-			"2013-10": {"total":16717.65, "Adult and Culture":16717.65},
-			"2013-11": {"total":22804.96, "Adult and Culture":22804.96},
-			"2013-12": {"total":43965.92, "Adult and Culture":43965.92},
-			"2014-01": {"total":11402.48, "Adult and Culture":11402.48},
-			"2014-02": {"total":14688.38, "Adult and Culture":14688.38},
-			"2014-03": {"total":42890.79, "Adult and Culture":42890.79},
-			"2014-04": {"total":17133.16, "Adult and Culture":17133.16},
-			"2014-05": {"total":11167.93, "Adult and Culture":11167.93},
-			"2014-06": {"total":44669.10, "Adult and Culture":44669.10},
-			"2014-07": {"total":41869.38, "Adult and Culture":41869.38},
-			"2014-08": {"total":16640.86, "Adult and Culture":16640.86},
-			"2014-09": {"total":59924.69, "Adult and Culture":59924.69},
-			"2014-10": {"total":27271.16, "Adult and Culture":27271.16},
-			"2014-11": {"total":54542.32, "Adult and Culture":54542.32},
-			"2014-12": {"total":59924.69, "Adult and Culture":59924.69},
-			"2015-01": {"total":32271.16, "Adult and Culture":32271.16},
-			"2015-02": {"total":27271.16, "Adult and Culture":27271.16},
-			"2015-03": {"total":60408.38, "Adult and Culture":60408.38},
-			"2015-04": {"total":27221.60, "Adult and Culture":27221.60},
-			"2015-05": {"total":27221.60, "Adult and Culture":27221.60},
-			"2015-06": {"total":81796.94, "Adult and Culture":81796.94},
-			"2015-07": {"total":32049.08, "Adult and Culture":32049.08},
-			"2015-08": {"total":32049.08, "Adult and Culture":32049.08},
-			"2015-09": {"total":64792.70, "Adult and Culture":64792.70},
-			"2015-10": {"total":32049.08, "Adult and Culture":32049.08},
-			"2015-11": {"total":64098.16, "Adult and Culture":64098.16},
-			"2015-12": {"total":67944.70, "Adult and Culture":67944.70},
-			"2016-01": {"total":5549.74, "Adult and Culture":5549.74},
-			"2016-02": {"total":37450.71, "Adult and Culture":37450.71},
-			"2016-03": {"total":62721.11, "Adult and Culture":62721.11},
-			"2016-04": {"total":48647.96, "Adult and Culture":48647.96},
-			"2016-05": {"total":37012.83, "Adult and Culture":37012.83},
-			"2016-06": {"total":64832.92, "Adult and Culture":64832.92},
-			"2016-07": {"total":36668.88, "Adult and Culture":36668.88},
-			"2016-08": {"total":37697.94, "Adult and Culture":37697.94},
-			"2016-09": {"total":111492.81, "Adult and Culture":111492.81},
-			"2016-10": {"total":45561.00, "Adult and Culture":45561.00},
-			"2016-11": {"total":46626.76, "Adult and Culture":46626.76},
-			"2016-12": {"total":79174.15, "Adult and Culture":79174.15},
-			"2017-01": {"total":93183.10, "Adult and Culture":93183.10},
-			"2017-02": {"total":53705.24, "Adult and Culture":53705.24},
-			"2017-03": {"total":57871.71, "Adult and Culture":57871.71},
-			"2017-04": {"total":41876.32, "Adult and Culture":41876.32},
-			"2017-05": {"total":48271.60, "Adult and Culture":48271.60},
-			"2017-06": {"total":78188.35, "Adult and Culture":78188.35},
-			"2017-07": {"total":51064.64, "Adult and Culture":51064.64},
-			"2017-08": {"total":90792.40, "Adult and Culture":90792.40},
-			"2017-09": {"total":80155.75, "Adult and Culture":80155.75},
-			"2017-10": {"total":54598.18, "Adult and Culture":54598.18},
-			"2017-11": {"total":47235.82, "Adult and Culture":47235.82},
-			"2017-12": {"total":76902.06, "Adult and Culture":76902.06},
-			"2018-01": {"total":46178.84, "Adult and Culture":46178.84},
-			"2018-02": {"total":51414.88, "Adult and Culture":51414.88},
-			"2018-03": {"total":22756.48, "Adult and Culture":22756.48},
-			"2018-04": {"total":173561.59, "Adult and Culture":173561.59},
-			"2018-05": {"total":4149.94, "Adult and Culture":4149.94},
-			"2018-06": {"total":148026.09, "Adult and Culture":148026.09},
-			"2018-07": {"total":12757.97, "Adult and Culture":12757.97},
-			"2018-08": {"total":7329.59, "Adult and Culture":7329.59},
-			"2018-09": {"total":146869.29, "Adult and Culture":146869.29},
-			"2018-10": {"total":8339.46, "People":8339.46},
-			"2018-11": {"total":7819.35, "People":7819.35},
-			"2018-12": {"total":146965.77, "People":146965.77},
-			"2019-01": {"total":6519.18, "People":6519.18},
-			"2019-02": {"total":7166.94, "People":7166.94},
-			"2019-03": {"total":7759.82, "People":7759.82},
-			"2019-04": {"total":131346.69, "People":131346.69},
-			"2019-05": {"total":7802.33, "People":7802.33},
-			"2019-06": {"total":7725.59, "People":7725.59},
-			"2019-07": {"total":137459.12, "People":137459.12},
-			"2019-08": {"total":5764.43, "People":5764.43},
-			"2019-09": {"total":8212.36, "Assistant Chief Executive":1350.00, "People":6862.36},
-			"2019-10": {"total":76421.10, "People":76421.10},
-			"2019-11": {"total":6816.66, "People":6816.66},
-			"2019-12": {"total":4748.85, "ASC & Integrated Services":4748.85},
-			"2020-01": {"total":36305.67, "ASC & Integrated Services":36305.67},
-			"2020-02": {"total":5338.24, "ASC & Integrated Services":5338.24},
-			"2020-03": {"total":13389.73, "ASC & Integrated Services":13389.73},
-			"2020-04": {"total":56140.24, "ASC & Integrated Services":50661.13, "Public Health Service":5479.11},
-			"2020-05": {"total":6749.40, "ASC & Integrated Services":6749.40},
-			"2020-06": {"total":6749.40, "ASC & Integrated Services":6749.40},
-			"2020-07": {"total":87477.41, "ASC & Integrated Services":81998.30, "Public Health Service":5479.11},
-			"2020-08": {"total":13465.20, "ASC & Integrated Services":13465.20},
-			"2020-09": {"total":1372.00, "ASC & Integrated Services":1372.00}
-		}
-	},
-	"7325": {
-		"name": "MENTAL HEALTH MATTERS",
-		"total": 2603232.74,
-		"monthly": {
-			"2010-04": {"total":96972.32, "Adult and Culture":96972.32},
-			"2010-05": {"total":26972.32, "Adult and Culture":26972.32},
-			"2010-06": {"total":25550.88, "Adult and Culture":25550.88},
-			"2010-07": {"total":11200.84, "Adult and Culture":11200.84},
-			"2010-08": {"total":136847.91, "Adult and Culture":115619.91, "Chief Executives":21228.00},
-			"2010-09": {"total":27354.71, "Adult and Culture":27354.71},
-			"2010-10": {"total":31336.00, "Adult and Culture":31336.00},
-			"2010-11": {"total":88660.57, "Adult and Culture":58875.60, "Chief Executives":29784.97},
-			"2010-12": {"total":35536.56, "Adult and Culture":35536.56},
-			"2011-01": {"total":9436.32, "Adult and Culture":9436.32},
-			"2011-02": {"total":96015.66, "Adult and Culture":66442.32, "Chief Executives":29573.34},
-			"2011-03": {"total":57866.92, "Adult and Culture":26105.92, "Chief Executives":31761.00},
-			"2011-04": {"total":9436.32, "Adult and Culture":9436.32},
-			"2011-05": {"total":8257.12, "Adult and Culture":8257.12},
-			"2011-06": {"total":44115.49, "Adult and Culture":44115.49},
-			"2011-07": {"total":57438.46, "Adult and Culture":57438.46},
-			"2011-08": {"total":56239.51, "Adult and Culture":56239.51},
-			"2011-09": {"total":39274.19, "Adult and Culture":39274.19},
-			"2011-10": {"total":9468.96, "Adult and Culture":9468.96},
-			"2011-11": {"total":9468.96, "Adult and Culture":9468.96},
-			"2011-12": {"total":48743.15, "Adult and Culture":48743.15},
-			"2012-01": {"total":65469.42, "Adult and Culture":65469.42},
-			"2012-02": {"total":45825.06, "Adult and Culture":45825.06},
-			"2012-03": {"total":56278.47, "Adult and Culture":56278.47},
-			"2012-04": {"total":8932.04, "Adult and Culture":8932.04},
-			"2012-05": {"total":8932.04, "Adult and Culture":8932.04},
-			"2012-06": {"total":43751.70, "Adult and Culture":43751.70},
-			"2012-07": {"total":10728.81, "Adult & Culture":10728.81},
-			"2012-08": {"total":107378.14, "Adult & Culture":107378.14},
-			"2012-09": {"total":30483.86, "unknown":30483.86},
-			"2012-10": {"total":27004.96, "unknown":27004.96},
-			"2012-11": {"total":18937.92, "unknown":18937.92},
-			"2012-12": {"total":29727.38, "unknown":29727.38},
-			"2013-01": {"total":25996.32, "unknown":25996.32},
-			"2013-02": {"total":8964.64, "unknown":8964.64},
-			"2013-03": {"total":29229.10, "unknown":29229.10},
-			"2013-04": {"total":10099.36, "unknown":10099.36},
-			"2013-05": {"total":27004.96, "unknown":27004.96},
-			"2013-06": {"total":65365.57, "unknown":65365.57},
-			"2013-07": {"total":8190.15, "unknown":8190.15},
-			"2013-08": {"total":74000.64, "Adult and Culture":74000.64},
-			"2013-09": {"total":28890.00, "Adult and Culture":28890.00},
-			"2013-10": {"total":50250.64, "Adult and Culture":50250.64},
-			"2013-11": {"total":17929.28, "Adult and Culture":17929.28},
-			"2013-12": {"total":18870.90, "Adult and Culture":18870.90},
-			"2014-01": {"total":8964.64, "Adult and Culture":8964.64},
-			"2014-02": {"total":8964.64, "Adult and Culture":8964.64},
-			"2014-03": {"total":42621.86, "Adult and Culture":42621.86},
-			"2014-04": {"total":8964.64, "Adult and Culture":8964.64},
-			"2014-05": {"total":50250.64, "Adult and Culture":50250.64},
-			"2014-06": {"total":18788.14, "Adult and Culture":18788.14},
-			"2014-07": {"total":8964.64, "Adult and Culture":8964.64},
-			"2014-08": {"total":41286.00, "Adult and Culture":41286.00},
-			"2014-09": {"total":27293.29, "Adult and Culture":27293.29},
-			"2014-11": {"total":17536.00, "Adult and Culture":17536.00},
-			"2014-12": {"total":33682.65, "Adult and Culture":33682.65},
-			"2015-01": {"total":23750.00, "Adult and Culture":23750.00},
-			"2015-02": {"total":17536.00, "Adult and Culture":17536.00},
-			"2015-03": {"total":9937.20, "Adult and Culture":9937.20},
-			"2015-09": {"total":53994.60, "Adult and Culture":53994.60},
-			"2015-12": {"total":27297.27, "Adult and Culture":27297.27},
-			"2016-02": {"total":70144.00, "Adult and Culture":70144.00},
-			"2016-03": {"total":27298.13, "Adult and Culture":27298.13},
-			"2016-10": {"total":35270.00, "Adult and Culture":35270.00},
-			"2016-11": {"total":46075.30, "Adult and Culture":46075.30},
-			"2016-12": {"total":23555.35, "Adult and Culture":23555.35},
-			"2017-03": {"total":60639.35, "Adult and Culture":60639.35},
-			"2017-06": {"total":17635.00, "Adult and Culture":17635.00},
-			"2017-08": {"total":256.40, "Adult and Culture":256.40},
-			"2018-02": {"total":17635.00, "Chief Executive's":17635.00},
-			"2018-09": {"total":17635.00, "Chief Executive's":17635.00},
-			"2018-10": {"total":17635.00, "People":17635.00},
-			"2019-02": {"total":17635.00, "People":17635.00},
-			"2019-03": {"total":2660.84, "People":2660.84},
-			"2019-04": {"total":2182.87, "People":2182.87},
-			"2019-05": {"total":17635.00, "People":17635.00},
-			"2019-06": {"total":880.64, "People":880.64},
-			"2019-08": {"total":18970.36, "People":18970.36},
-			"2019-10": {"total":890.24, "People":890.24},
-			"2019-11": {"total":18080.12, "People":18080.12},
-			"2019-12": {"total":445.12, "ASC & Integrated Services":445.12},
-			"2020-01": {"total":445.12, "ASC & Integrated Services":445.12},
-			"2020-02": {"total":18080.12, "ASC & Integrated Services":18080.12},
-			"2020-03": {"total":445.12, "ASC & Integrated Services":445.12},
-			"2020-04": {"total":445.12, "ASC & Integrated Services":445.12},
-			"2020-05": {"total":6398.40, "ASC & Integrated Services":6398.40},
-			"2020-06": {"total":18106.68, "ASC & Integrated Services":18106.68},
-			"2020-07": {"total":943.36, "ASC & Integrated Services":943.36},
-			"2020-08": {"total":471.68, "ASC & Integrated Services":471.68},
-			"2020-09": {"total":471.68, "ASC & Integrated Services":471.68}
-		}
-	},
-	"7326": {
-		"name": "MENTAL HEALTH SOLUTIONS",
-		"total": 1081,
-		"monthly": {
-			"2016-12": {"total":1081.00, "Chief Executive's":1081.00}
-		}
-	},
-	"7327": {
-		"name": "MENTORING & BEFRIENDING FOUNDATION",
-		"total": 1300,
-		"monthly": {
-			"2011-11": {"total":1300.00, "Adult and Culture":1300.00}
-		}
-	},
-	"7328": {
-		"name": "MEON",
-		"total": 54240.42,
-		"monthly": {
-			"2015-02": {"total":289.90, "Environment & Regeneration":289.90},
-			"2015-05": {"total":663.00, "Environment & Regeneration":663.00},
-			"2015-08": {"total":283.40, "Environment & Regeneration":283.40},
-			"2015-10": {"total":514.00, "Environment & Regeneration":514.00},
-			"2015-12": {"total":514.00, "Environment & Regeneration":514.00},
-			"2016-01": {"total":1011.90, "Environment & Regeneration":1011.90},
-			"2016-04": {"total":861.56, "Environment & Regeneration":861.56},
-			"2016-06": {"total":748.50, "Environment & Regeneration":748.50},
-			"2016-07": {"total":748.50, "Environment & Regeneration":748.50},
-			"2016-08": {"total":420.20, "Environment & Regeneration":420.20},
-			"2016-09": {"total":1098.60, "Environment & Regeneration":1098.60},
-			"2016-10": {"total":2152.20, "Environment & Regeneration":2152.20},
-			"2017-06": {"total":1903.89, "Environment & Regeneration":1903.89},
-			"2017-08": {"total":4075.93, "Environment & Regeneration":4075.93},
-			"2017-09": {"total":11382.46, "Environment & Regeneration":11382.46},
-			"2017-11": {"total":5563.64, "Environment & Regeneration":5563.64},
-			"2017-12": {"total":958.57, "Environment & Regeneration":958.57},
-			"2018-05": {"total":1278.24, "Environment & Regeneration":1278.24},
-			"2018-06": {"total":2327.01, "Environment & Regeneration":2327.01},
-			"2018-07": {"total":621.95, "Environment & Regeneration":621.95},
-			"2018-08": {"total":2430.24, "Environment & Regeneration":2430.24},
-			"2018-09": {"total":1748.14, "Environment & Regeneration":1748.14},
-			"2018-10": {"total":317.64, "Operations & Reg Services":317.64},
-			"2018-11": {"total":2736.06, "Operations & Reg Services":2736.06},
-			"2019-01": {"total":1780.04, "Operations & Reg Services":1780.04},
-			"2019-04": {"total":478.50, "Place":478.50},
-			"2019-11": {"total":595.80, "Place":595.80},
-			"2020-04": {"total":2425.60, "Place":2425.60},
-			"2020-06": {"total":1835.30, "Operations & Reg Services":1190.15, "Place":645.15},
-			"2020-08": {"total":2475.65, "Operations & Reg Services":471.17, "Place":2004.48}
-		}
-	},
-	"7329": {
-		"name": "MERCARI FOODS",
-		"total": 3440.13,
-		"monthly": {
-			"2015-10": {"total":614.89, "Childrens Services":614.89},
-			"2015-11": {"total":614.89, "Environment & Regeneration":614.89},
-			"2016-06": {"total":282.45, "Environment & Regeneration":282.45},
-			"2016-12": {"total":266.67, "Environment & Regeneration":266.67},
-			"2017-06": {"total":300.15, "Environment & Regeneration":300.15},
-			"2017-07": {"total":391.63, "Environment & Regeneration":391.63},
-			"2018-02": {"total":697.18, "Environment & Regeneration":697.18},
-			"2019-03": {"total":272.27, "Operations & Reg Services":272.27}
-		}
-	},
-	"7330": {
-		"name": "MERCEDES BENZ OF TEESIDE",
-		"total": 2988.18,
-		"monthly": {
-			"2013-02": {"total":2988.18, "unknown":2988.18}
-		}
-	},
-	"7331": {
-		"name": "MERCEDES-BENZ CARS UK LTD",
-		"total": 10617,
-		"monthly": {
-			"2019-06": {"total":8529.00, "Operations & Reg Services":8529.00},
-			"2020-02": {"total":2088.00, "Operations & Reg Services":2088.00}
-		}
-	},
-	"7332": {
-		"name": "MERCEDES-BENZ OF NEWCASTLE",
-		"total": 426.5,
-		"monthly": {
-			"2011-02": {"total":426.50, "Environment & Regeneration":426.50}
-		}
-	},
-	"7333": {
-		"name": "MERCER STREET MARKETING AND CONSULTING L",
-		"total": 1836.53,
-		"monthly": {
-			"2015-05": {"total":336.53, "Adult and Culture":336.53},
-			"2016-04": {"total":1500.00, "Adult and Culture":1500.00}
-		}
-	},
-	"7334": {
-		"name": "MERCHANDISE MANIA",
-		"total": 3630.68,
-		"monthly": {
-			"2010-05": {"total":603.00, "Environment & Regeneration":603.00},
-			"2010-06": {"total":1399.60, "Environment & Regeneration":1399.60},
-			"2014-07": {"total":932.08, "Environment & Regeneration":932.08},
-			"2017-04": {"total":431.00, "Environment & Regeneration":431.00},
-			"2019-06": {"total":265.00, "People":265.00}
-		}
-	},
-	"7335": {
-		"name": "MERCHANT RENTALS PLC",
-		"total": 4290.96,
-		"monthly": {
-			"2011-02": {"total":1887.60, "Environment & Regeneration":1887.60},
-			"2011-12": {"total":795.60, "Environment & Regeneration":795.60},
-			"2012-02": {"total":1092.00, "Environment & Regeneration":1092.00},
-			"2013-01": {"total":257.88, "unknown":257.88},
-			"2014-02": {"total":257.88, "Adult and Culture":257.88}
-		}
-	},
-	"7336": {
-		"name": "MERCIA LEE",
-		"total": 2434.73,
-		"monthly": {
-			"2013-06": {"total":964.30, "unknown":964.30},
-			"2013-10": {"total":1470.43, "Childrens Services":1470.43}
-		}
-	},
-	"7337": {
-		"name": "MERCURE NEWCASTLE COUNTY HOTEL",
-		"total": 566.03,
-		"monthly": {
-			"2016-04": {"total":280.63, "Chief Executive's":280.63},
-			"2018-08": {"total":285.40, "Environment & Regeneration":285.40}
-		}
-	},
-	"7338": {
-		"name": "MERI MERI",
-		"total": 691.95,
-		"monthly": {
-			"2014-10": {"total":285.23, "Environment & Regeneration":285.23},
-			"2017-03": {"total":406.72, "Environment & Regeneration":406.72}
-		}
-	},
-	"7339": {
-		"name": "MERIDIAN COST BENEFIT LTD",
-		"total": 90382.73,
-		"monthly": {
-			"2011-08": {"total":2381.40, "Chief Executive's":2381.40},
-			"2011-10": {"total":1119.70, "Chief Executive's":1119.70},
-			"2011-11": {"total":6163.97, "Chief Executive's":6163.97},
-			"2012-01": {"total":7361.40, "Chief Executive's":7361.40},
-			"2012-03": {"total":7042.37, "Chief Executive's":7042.37},
-			"2012-04": {"total":1961.20, "Chief Executive's":1961.20},
-			"2012-06": {"total":8186.64, "Chief Executive's":8186.64},
-			"2012-07": {"total":1681.77, "Chief Executives":1681.77},
-			"2012-08": {"total":773.55, "Chief Executives":773.55},
-			"2012-10": {"total":9587.65, "unknown":9587.65},
-			"2013-02": {"total":11830.89, "unknown":11830.89},
-			"2013-04": {"total":2495.00, "unknown":2495.00},
-			"2013-05": {"total":2150.00, "unknown":2150.00},
-			"2013-07": {"total":7437.64, "unknown":7437.64},
-			"2013-09": {"total":10596.95, "Chief Executive's":10596.95},
-			"2014-01": {"total":1617.36, "Chief Executive's":1617.36},
-			"2014-06": {"total":1573.68, "Chief Executive's":1573.68},
-			"2014-08": {"total":1021.66, "Chief Executive's":1021.66},
-			"2014-09": {"total":2041.84, "Chief Executive's":2041.84},
-			"2014-11": {"total":2448.23, "Environment & Regeneration":2448.23},
-			"2015-01": {"total":385.88, "Chief Executive's":385.88},
-			"2015-02": {"total":523.95, "Chief Executive's":523.95}
-		}
-	},
-	"7340": {
-		"name": "MERIDIAN DELTA",
-		"total": 360,
-		"monthly": {
-			"2014-05": {"total":360.00, "Adult and Culture":360.00}
-		}
-	},
-	"7341": {
-		"name": "MERIDIAN OFFICE SUPPLIES",
-		"total": 2893.75,
-		"monthly": {
-			"2014-09": {"total":863.96, "Childrens Services":863.96},
-			"2014-10": {"total":728.00, "Childrens Services":728.00},
-			"2014-11": {"total":1301.79, "Childrens Services":1301.79}
-		}
-	},
-	"7342": {
-		"name": "MERIT HOME CARE SERVICES",
-		"total": 10898740.67,
-		"monthly": {
-			"2010-04": {"total":65020.12, "Adult and Culture":65020.12},
-			"2010-05": {"total":62078.71, "Adult and Culture":62078.71},
-			"2010-06": {"total":65381.90, "Adult and Culture":65381.90},
-			"2010-07": {"total":61857.10, "Adult and Culture":61857.10},
-			"2010-08": {"total":61803.28, "Adult and Culture":61803.28},
-			"2010-09": {"total":63796.82, "Adult and Culture":63796.82},
-			"2010-10": {"total":67053.22, "Adult and Culture":67053.22},
-			"2010-11": {"total":118108.30, "Adult and Culture":118108.30},
-			"2010-12": {"total":61667.71, "Adult and Culture":61667.71},
-			"2011-01": {"total":57123.28, "Adult and Culture":57123.28},
-			"2011-02": {"total":57050.03, "Adult and Culture":57050.03},
-			"2011-03": {"total":58936.95, "Adult and Culture":58936.95},
-			"2011-04": {"total":64083.96, "Adult and Culture":64083.96},
-			"2011-05": {"total":61717.52, "Adult and Culture":1945.52, "Childrens Services":59772.00},
-			"2011-06": {"total":62409.00, "Adult and Culture":62409.00},
-			"2011-07": {"total":62801.62, "Adult and Culture":62801.62},
-			"2011-08": {"total":62526.20, "Adult and Culture":62526.20},
-			"2011-09": {"total":62825.06, "Adult and Culture":62825.06},
-			"2011-10": {"total":61137.38, "Adult and Culture":61137.38},
-			"2011-11": {"total":119227.56, "Adult and Culture":119227.56},
-			"2011-12": {"total":56232.56, "Adult and Culture":56232.56},
-			"2012-01": {"total":53985.25, "Adult and Culture":53985.25},
-			"2012-02": {"total":55338.91, "Adult and Culture":55338.91},
-			"2012-03": {"total":55845.80, "Adult and Culture":55845.80},
-			"2012-04": {"total":56258.93, "Adult and Culture":56258.93},
-			"2012-05": {"total":59191.86, "Adult and Culture":59191.86},
-			"2012-06": {"total":60249.59, "Adult and Culture":60249.59},
-			"2012-07": {"total":61450.89, "Adult & Culture":61450.89},
-			"2012-08": {"total":60630.49, "Adult & Culture":60630.49},
-			"2012-09": {"total":62118.93, "unknown":62118.93},
-			"2012-10": {"total":117325.99, "unknown":117325.99},
-			"2012-11": {"total":418.78, "unknown":418.78},
-			"2012-12": {"total":36430.70, "unknown":36430.70},
-			"2013-01": {"total":33670.37, "unknown":33670.37},
-			"2013-02": {"total":30889.56, "unknown":30889.56},
-			"2013-03": {"total":30220.02, "unknown":30220.02},
-			"2013-04": {"total":19310.77, "unknown":19310.77},
-			"2013-05": {"total":16555.27, "unknown":16555.27},
-			"2013-06": {"total":15793.52, "unknown":15793.52},
-			"2013-07": {"total":13446.49, "unknown":13446.49},
-			"2013-08": {"total":12402.51, "Adult and Culture":12402.51},
-			"2013-09": {"total":26436.15, "Adult and Culture":26436.15},
-			"2013-10": {"total":12549.69, "Adult and Culture":12549.69},
-			"2013-11": {"total":14344.77, "Adult and Culture":14344.77},
-			"2013-12": {"total":14163.58, "Adult and Culture":14163.58},
-			"2014-01": {"total":17646.47, "Adult and Culture":17646.47},
-			"2014-02": {"total":18711.48, "Adult and Culture":18711.48},
-			"2014-03": {"total":21461.66, "Adult and Culture":21461.66},
-			"2014-04": {"total":17055.23, "Adult and Culture":17055.23},
-			"2014-05": {"total":21332.26, "Adult and Culture":21332.26},
-			"2014-06": {"total":25479.75, "Adult and Culture":25479.75},
-			"2014-07": {"total":25258.30, "Adult and Culture":25258.30},
-			"2014-08": {"total":26666.52, "Adult and Culture":26666.52},
-			"2014-09": {"total":52379.76, "Adult and Culture":52379.76},
-			"2014-10": {"total":25786.38, "Adult and Culture":25786.38},
-			"2014-11": {"total":26381.20, "Adult and Culture":26381.20},
-			"2014-12": {"total":25344.26, "Adult and Culture":25344.26},
-			"2015-01": {"total":24210.02, "Adult and Culture":24210.02},
-			"2015-02": {"total":24254.50, "Adult and Culture":24254.50},
-			"2015-03": {"total":25088.50, "Adult and Culture":25088.50},
-			"2015-04": {"total":23940.36, "Adult and Culture":23940.36},
-			"2015-05": {"total":25905.98, "Adult and Culture":25905.98},
-			"2015-06": {"total":20691.03, "Adult and Culture":20691.03},
-			"2015-07": {"total":25324.45, "Adult and Culture":25324.45},
-			"2015-08": {"total":62758.65, "Adult and Culture":62758.65},
-			"2015-09": {"total":46362.24, "Adult and Culture":46362.24},
-			"2015-10": {"total":32075.13, "Adult and Culture":32075.13},
-			"2015-11": {"total":60240.85, "Adult and Culture":60240.85},
-			"2015-12": {"total":25440.11, "Adult and Culture":25440.11},
-			"2016-01": {"total":22224.76, "Adult and Culture":22224.76},
-			"2016-02": {"total":22010.56, "Adult and Culture":22010.56},
-			"2016-03": {"total":22276.36, "Adult and Culture":22276.36},
-			"2016-04": {"total":22605.00, "Adult and Culture":22605.00},
-			"2016-05": {"total":149684.60, "Adult and Culture":149684.60},
-			"2016-06": {"total":87194.95, "Adult and Culture":87194.95},
-			"2016-07": {"total":53552.40, "Adult and Culture":53552.40},
-			"2016-08": {"total":96822.46, "Adult and Culture":96822.46},
-			"2016-09": {"total":20005.36, "Adult and Culture":20005.36},
-			"2016-10": {"total":45771.69, "Adult and Culture":45771.69},
-			"2016-11": {"total":22937.01, "Adult and Culture":22937.01},
-			"2016-12": {"total":48840.35, "Adult and Culture":48840.35},
-			"2017-01": {"total":48040.03, "Adult and Culture":48040.03},
-			"2017-02": {"total":45516.62, "Adult and Culture":45516.62},
-			"2017-03": {"total":74590.43, "Adult and Culture":74590.43},
-			"2017-04": {"total":47270.94, "Adult and Culture":47270.94},
-			"2017-05": {"total":71269.11, "Adult and Culture":71269.11},
-			"2017-06": {"total":69426.58, "Adult and Culture":69426.58},
-			"2017-07": {"total":118201.34, "Adult and Culture":118201.34},
-			"2017-08": {"total":287008.30, "Adult and Culture":287008.30},
-			"2017-09": {"total":131302.92, "Adult and Culture":131302.92},
-			"2017-10": {"total":97374.44, "Adult and Culture":97374.44},
-			"2017-11": {"total":153515.61, "Adult and Culture":127006.97, "Chief Executive's":26508.64},
-			"2017-12": {"total":124694.97, "Adult and Culture":97870.86, "Chief Executive's":26824.11},
-			"2018-01": {"total":137698.31, "Adult and Culture":110206.62, "Chief Executive's":27491.69},
-			"2018-02": {"total":118027.64, "Adult and Culture":90137.75, "Chief Executive's":27889.89},
-			"2018-03": {"total":115433.24, "Adult and Culture":89287.22, "Chief Executive's":26146.02},
-			"2018-04": {"total":113755.06, "Adult and Culture":87372.36, "Chief Executive's":26382.70},
-			"2018-05": {"total":118760.66, "Adult and Culture":91497.17, "Chief Executive's":27263.49},
-			"2018-06": {"total":124816.51, "Adult and Culture":98595.10, "Chief Executive's":26221.41},
-			"2018-07": {"total":236363.32, "Adult and Culture":209097.27, "Chief Executive's":27266.05},
-			"2018-08": {"total":160260.62, "Adult and Culture":104788.45, "Chief Executive's":55472.17},
-			"2018-09": {"total":133429.03, "Adult and Culture":105484.12, "Chief Executive's":27944.91},
-			"2018-10": {"total":104702.90, "People":104702.90},
-			"2018-11": {"total":135379.44, "People":135379.44},
-			"2018-12": {"total":138555.01, "People":138555.01},
-			"2019-01": {"total":172336.65, "People":172336.65},
-			"2019-02": {"total":140280.04, "People":140280.04},
-			"2019-03": {"total":144757.76, "People":144757.76},
-			"2019-04": {"total":147894.54, "People":147894.54},
-			"2019-05": {"total":160018.78, "People":160018.78},
-			"2019-06": {"total":159566.00, "People":159566.00},
-			"2019-07": {"total":308930.47, "People":308930.47},
-			"2019-08": {"total":206917.46, "People":206917.46},
-			"2019-09": {"total":166488.83, "People":166488.83},
-			"2019-10": {"total":170005.39, "People":170005.39},
-			"2019-11": {"total":147033.43, "People":147033.43},
-			"2019-12": {"total":202914.31, "ASC & Integrated Services":202914.31},
-			"2020-01": {"total":143645.04, "ASC & Integrated Services":143645.04},
-			"2020-02": {"total":189896.17, "ASC & Integrated Services":189896.17},
-			"2020-03": {"total":332387.70, "ASC & Integrated Services":332387.70},
-			"2020-04": {"total":378844.30, "ASC & Integrated Services":378844.30},
-			"2020-05": {"total":221320.07, "ASC & Integrated Services":221320.07},
-			"2020-06": {"total":202285.28, "ASC & Integrated Services":202285.28},
-			"2020-07": {"total":255859.46, "ASC & Integrated Services":255859.46},
-			"2020-08": {"total":190649.72, "ASC & Integrated Services":190649.72},
-			"2020-09": {"total":305728.55, "ASC & Integrated Services":305728.55}
-		}
-	},
-	"7343": {
-		"name": "MERLIN REPAIR SPECIALISTS LTD",
-		"total": 960,
-		"monthly": {
-			"2017-10": {"total":300.00, "Environment & Regeneration":300.00},
-			"2018-03": {"total":300.00, "Environment & Regeneration":300.00},
-			"2018-06": {"total":360.00, "HRA":360.00}
-		}
-	},
-	"7344": {
-		"name": "MERLIN TELECOMMUNICATIONS LTD",
-		"total": 885,
-		"monthly": {
-			"2015-09": {"total":442.50, "Chief Executive's":442.50},
-			"2016-03": {"total":442.50, "Chief Executive's":442.50}
-		}
-	},
-	"7345": {
-		"name": "MERLINS MAGICAL PRODUCTIONS",
-		"total": 7270,
-		"monthly": {
-			"2010-09": {"total":920.00, "Childrens Services":920.00},
-			"2010-12": {"total":525.00, "Chief Executives":525.00},
-			"2013-03": {"total":300.00, "unknown":300.00},
-			"2013-08": {"total":425.00, "Chief Executive's":425.00},
-			"2015-08": {"total":425.00, "Chief Executive's":425.00},
-			"2016-08": {"total":425.00, "Chief Executive's":425.00},
-			"2017-06": {"total":425.00, "Chief Executive's":425.00},
-			"2017-09": {"total":425.00, "Chief Executive's":425.00},
-			"2017-11": {"total":425.00, "Chief Executive's":425.00},
-			"2018-05": {"total":425.00, "Chief Executive's":425.00},
-			"2018-10": {"total":425.00, "Operations & Reg Services":425.00},
-			"2018-11": {"total":425.00, "Operations & Reg Services":425.00},
-			"2019-01": {"total":425.00, "Operations & Reg Services":425.00},
-			"2019-05": {"total":850.00, "Place":850.00},
-			"2019-09": {"total":425.00, "Place":425.00}
-		}
-	},
-	"7346": {
-		"name": "MERRIDALE - MIS FUEL MONITORING LTD",
-		"total": 1647.5,
-		"monthly": {
-			"2018-04": {"total":510.50, "Environment & Regeneration":510.50},
-			"2019-08": {"total":514.00, "Operations & Reg Services":514.00},
-			"2020-01": {"total":311.50, "Operations & Reg Services":311.50},
-			"2020-06": {"total":311.50, "Operations & Reg Services":311.50}
-		}
-	},
-	"7347": {
-		"name": "MERRION LEASING SERVICES LTD",
-		"total": 1398.57,
-		"monthly": {
-			"2011-03": {"total":466.19, "Chief Executives":466.19},
-			"2012-04": {"total":466.19, "Chief Executive's":466.19},
-			"2013-03": {"total":466.19, "unknown":466.19}
-		}
-	},
-	"7348": {
-		"name": "MESH PROMOTIONAL SOLUTIONS",
-		"total": 17155,
-		"monthly": {
-			"2012-07": {"total":7200.00, "Environment & Regeneration":7200.00},
-			"2012-08": {"total":2030.00, "Environment & Regeneration":2030.00},
-			"2012-10": {"total":4000.00, "unknown":4000.00},
-			"2012-12": {"total":1040.00, "unknown":1040.00},
-			"2013-09": {"total":2885.00, "Environment & Regeneration":2885.00}
-		}
-	},
-	"7349": {
-		"name": "MESSAGER LTD",
-		"total": 320,
-		"monthly": {
-			"2016-01": {"total":320.00, "Environment & Regeneration":320.00}
 		}
 	}
 	}

@@ -1,7 +1,559 @@
 {
-	"range": ["2010-04","2020-09"],
+	"range": ["2010-04","2020-11"],
 	"data": {
 	"4050": {
+		"name": "ESH PROPERTY SERVICES",
+		"total": 3881122.27,
+		"monthly": {
+			"2011-10": {"total":425800.35, "HRA":425800.35},
+			"2011-11": {"total":409878.13, "HRA":409878.13},
+			"2011-12": {"total":294337.94, "HRA":294337.94},
+			"2012-01": {"total":283160.73, "HRA":283160.73},
+			"2012-02": {"total":215651.48, "HRA":215651.48},
+			"2012-03": {"total":168209.06, "HRA":168209.06},
+			"2012-04": {"total":135395.65, "HRA":135395.65},
+			"2012-05": {"total":228075.69, "HRA":228075.69},
+			"2012-06": {"total":32972.60, "HRA":32972.60},
+			"2012-07": {"total":31952.27, "HRA":31952.27},
+			"2012-09": {"total":424.00, "unknown":424.00},
+			"2013-05": {"total":20171.58, "unknown":20171.58},
+			"2013-12": {"total":99234.89, "Environment & Regeneration":99234.89},
+			"2014-03": {"total":435185.55, "Environment & Regeneration":435185.55},
+			"2014-04": {"total":172006.01, "Environment & Regeneration":172006.01},
+			"2014-06": {"total":303748.42, "Environment & Regeneration":303748.42},
+			"2014-08": {"total":346274.32, "Environment & Regeneration":346274.32},
+			"2014-09": {"total":200422.10, "Environment & Regeneration":200422.10},
+			"2014-10": {"total":76364.74, "Environment & Regeneration":76364.74},
+			"2015-05": {"total":1856.76, "Adult and Culture":1856.76}
+		}
+	},
+	"4051": {
+		"name": "ESHCOOLSLTD",
+		"total": 1900,
+		"monthly": {
+			"2016-03": {"total":275.00, "Childrens Services":275.00},
+			"2016-07": {"total":895.00, "Childrens Services":895.00},
+			"2017-01": {"total":275.00, "Childrens Services":275.00},
+			"2018-01": {"total":455.00, "Childrens Services":455.00}
+		}
+	},
+	"4052": {
+		"name": "ESISSUPPORT",
+		"total": 7826,
+		"monthly": {
+			"2017-01": {"total":7826.00, "Adult and Culture":7826.00}
+		}
+	},
+	"4053": {
+		"name": "ESITO LTD",
+		"alternate-names": [
+			"ESITO LIMITED"
+		],
+		"total": 169999,
+		"monthly": {
+			"2012-01": {"total":21000.00, "Chief Executive's":21000.00},
+			"2012-02": {"total":13400.00, "Chief Executive's":13400.00},
+			"2012-03": {"total":8400.00, "Chief Executive's":8400.00},
+			"2012-04": {"total":7199.00, "Chief Executive's":7199.00},
+			"2012-05": {"total":5600.00, "Chief Executive's":5600.00},
+			"2012-06": {"total":6000.00, "Chief Executive's":6000.00},
+			"2012-07": {"total":6600.00, "Childrens Services":6600.00},
+			"2012-08": {"total":2800.00, "Childrens Services":2800.00},
+			"2012-09": {"total":2000.00, "unknown":2000.00},
+			"2012-10": {"total":4600.00, "unknown":4600.00},
+			"2012-11": {"total":3200.00, "unknown":3200.00},
+			"2012-12": {"total":2500.00, "unknown":2500.00},
+			"2013-01": {"total":1000.00, "unknown":1000.00},
+			"2013-02": {"total":2000.00, "unknown":2000.00},
+			"2013-03": {"total":3000.00, "unknown":3000.00},
+			"2013-04": {"total":4400.00, "unknown":4400.00},
+			"2013-07": {"total":17800.00, "unknown":17800.00},
+			"2013-08": {"total":12800.00, "Childrens Services":4800.00, "unknown":8000.00},
+			"2013-09": {"total":2000.00, "Childrens Services":2000.00},
+			"2013-10": {"total":3800.00, "Childrens Services":3800.00},
+			"2013-11": {"total":2000.00, "Childrens Services":2000.00},
+			"2013-12": {"total":500.00, "Childrens Services":500.00},
+			"2014-01": {"total":1000.00, "Childrens Services":1000.00},
+			"2014-02": {"total":4600.00, "Childrens Services":4600.00},
+			"2014-03": {"total":3600.00, "Childrens Services":3600.00},
+			"2014-04": {"total":2600.00, "Childrens Services":2600.00},
+			"2014-05": {"total":3600.00, "Childrens Services":3600.00},
+			"2014-06": {"total":4600.00, "Childrens Services":4600.00},
+			"2014-07": {"total":2800.00, "Childrens Services":2800.00},
+			"2014-08": {"total":4800.00, "Childrens Services":4800.00},
+			"2014-10": {"total":6000.00, "Childrens Services":6000.00},
+			"2014-11": {"total":1800.00, "Childrens Services":1800.00},
+			"2015-02": {"total":2000.00, "Childrens Services":2000.00}
+		}
+	},
+	"4054": {
+		"name": "ESKDALE HOUSE CARE HOME",
+		"total": 170883.43,
+		"monthly": {
+			"2012-03": {"total":11222.29, "Adult and Culture":11222.29},
+			"2012-04": {"total":1916.00, "Adult and Culture":1916.00},
+			"2012-05": {"total":1916.00, "Adult and Culture":1916.00},
+			"2012-06": {"total":1916.00, "Adult and Culture":1916.00},
+			"2012-07": {"total":1916.00, "Adult & Culture":1916.00},
+			"2012-08": {"total":3832.00, "Adult & Culture":3832.00},
+			"2012-09": {"total":1916.00, "unknown":1916.00},
+			"2012-10": {"total":1916.00, "unknown":1916.00},
+			"2012-11": {"total":3863.00, "unknown":3863.00},
+			"2012-12": {"total":2152.00, "unknown":2152.00},
+			"2013-01": {"total":2152.00, "unknown":2152.00},
+			"2013-02": {"total":2152.00, "unknown":2152.00},
+			"2013-03": {"total":2152.00, "unknown":2152.00},
+			"2013-04": {"total":2152.00, "unknown":2152.00},
+			"2013-05": {"total":2212.00, "unknown":2212.00},
+			"2013-06": {"total":2200.00, "unknown":2200.00},
+			"2013-07": {"total":4400.00, "unknown":4400.00},
+			"2013-08": {"total":2200.00, "Adult and Culture":2200.00},
+			"2013-09": {"total":2200.00, "Adult and Culture":2200.00},
+			"2013-10": {"total":2200.00, "Adult and Culture":2200.00},
+			"2013-11": {"total":2200.00, "Adult and Culture":2200.00},
+			"2013-12": {"total":2200.00, "Adult and Culture":2200.00},
+			"2014-01": {"total":2200.00, "Adult and Culture":2200.00},
+			"2014-02": {"total":2200.00, "Adult and Culture":2200.00},
+			"2014-03": {"total":2200.00, "Adult and Culture":2200.00},
+			"2014-04": {"total":2200.00, "Adult and Culture":2200.00},
+			"2014-05": {"total":2230.00, "Adult and Culture":2230.00},
+			"2014-06": {"total":2224.00, "Adult and Culture":2224.00},
+			"2014-07": {"total":4448.00, "Adult and Culture":4448.00},
+			"2014-08": {"total":2224.00, "Adult and Culture":2224.00},
+			"2014-09": {"total":2224.00, "Adult and Culture":2224.00},
+			"2014-10": {"total":2224.00, "Adult and Culture":2224.00},
+			"2014-11": {"total":2224.00, "Adult and Culture":2224.00},
+			"2014-12": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-01": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-02": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-03": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-04": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-05": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-06": {"total":4448.00, "Adult and Culture":4448.00},
+			"2015-07": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-08": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-09": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-10": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-11": {"total":2224.00, "Adult and Culture":2224.00},
+			"2015-12": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-01": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-02": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-03": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-04": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-05": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-06": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-08": {"total":6756.00, "Adult and Culture":6756.00},
+			"2016-09": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-10": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-11": {"total":2252.00, "Adult and Culture":2252.00},
+			"2016-12": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-01": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-02": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-03": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-04": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-05": {"total":4504.00, "Adult and Culture":4504.00},
+			"2017-06": {"total":2252.00, "Adult and Culture":2252.00},
+			"2017-07": {"total":3180.00, "Adult and Culture":3180.00},
+			"2017-08": {"total":2484.00, "Adult and Culture":2484.00},
+			"2017-09": {"total":1432.14, "Adult and Culture":1432.14}
+		}
+	},
+	"4055": {
+		"name": "ESKY LEARNING LTD",
+		"total": 18734,
+		"monthly": {
+			"2013-04": {"total":2532.00, "unknown":2532.00},
+			"2014-02": {"total":1688.00, "Childrens Services":1688.00},
+			"2014-10": {"total":2532.00, "Childrens Services":2532.00},
+			"2015-03": {"total":2532.00, "Childrens Services":2532.00},
+			"2016-03": {"total":4725.00, "Childrens Services":4725.00},
+			"2017-08": {"total":4725.00, "Childrens Services":4725.00}
+		}
+	},
+	"4056": {
+		"name": "ESLAND NORTH LTD",
+		"total": 128450,
+		"monthly": {
+			"2017-01": {"total":47835.71, "Childrens Services":47835.71},
+			"2017-02": {"total":19128.57, "Childrens Services":19128.57},
+			"2017-03": {"total":18100.00, "Childrens Services":18100.00},
+			"2017-04": {"total":18100.00, "Childrens Services":18100.00},
+			"2017-05": {"total":15514.29, "Childrens Services":15514.29},
+			"2017-06": {"total":9771.43, "Adult and Culture":9771.43}
+		}
+	},
+	"4057": {
+		"name": "ESLINGTON VILLA",
+		"total": 581.46,
+		"monthly": {
+			"2013-08": {"total":323.17, "Childrens Services":323.17},
+			"2015-10": {"total":258.29, "Childrens Services":258.29}
+		}
+	},
+	"4058": {
+		"name": "ESMEE CAROLINE THOMPSON",
+		"total": 4000,
+		"monthly": {
+			"2014-04": {"total":2000.00, "Environment & Regeneration":2000.00},
+			"2014-05": {"total":2000.00, "Environment & Regeneration":2000.00}
+		}
+	},
+	"4059": {
+		"name": "ESP LTD",
+		"alternate-names": [
+			"ESP LIMITED"
+		],
+		"total": 4985,
+		"monthly": {
+			"2013-11": {"total":4985.00, "Chief Executive's":4985.00}
+		}
+	},
+	"4060": {
+		"name": "ESP PROFESSIONAL SERVICES LTD",
+		"total": 2192,
+		"monthly": {
+			"2014-11": {"total":2192.00, "Childrens Services":2192.00}
+		}
+	},
+	"4061": {
+		"name": "ESP SCOTLAND LTD",
+		"total": 31239,
+		"monthly": {
+			"2014-02": {"total":20240.00, "Childrens Services":20240.00},
+			"2014-10": {"total":10999.00, "Childrens Services":10999.00}
+		}
+	},
+	"4062": {
+		"name": "ESPA COLLEGE",
+		"total": 318506.98,
+		"monthly": {
+			"2020-03": {"total":126484.32, "Children, Education and Skills":126484.32},
+			"2020-05": {"total":16588.54, "Children, Education and Skills":16588.54},
+			"2020-06": {"total":8888.05, "Children, Education and Skills":8888.05},
+			"2020-07": {"total":120219.87, "Children, Education and Skills":120219.87},
+			"2020-08": {"total":9527.23, "Children, Education and Skills":9527.23},
+			"2020-09": {"total":12766.99, "Children, Education and Skills":12766.99},
+			"2020-10": {"total":12015.99, "Children, Education and Skills":12015.99},
+			"2020-11": {"total":12015.99, "Children, Education and Skills":12015.99}
+		}
+	},
+	"4063": {
+		"name": "ESPA LTD",
+		"total": 2143965.86,
+		"monthly": {
+			"2013-10": {"total":14583.33, "Adult and Culture":14583.33},
+			"2013-12": {"total":74573.04, "Childrens Services":74573.04},
+			"2014-02": {"total":14583.33, "Adult and Culture":14583.33},
+			"2014-03": {"total":212644.59, "Childrens Services":212644.59},
+			"2014-09": {"total":14583.33, "Adult and Culture":14583.33},
+			"2015-02": {"total":92719.98, "Adult and Culture":92719.98},
+			"2015-03": {"total":108406.33, "Adult and Culture":108406.33},
+			"2015-09": {"total":107315.33, "Adult and Culture":107315.33},
+			"2015-12": {"total":14583.33, "Adult and Culture":14583.33},
+			"2016-03": {"total":126057.43, "Adult and Culture":126057.43},
+			"2016-05": {"total":64611.76, "Adult and Culture":64611.76},
+			"2016-06": {"total":307932.29, "Adult and Culture":307932.29},
+			"2016-08": {"total":235124.00, "Adult and Culture":235124.00},
+			"2017-01": {"total":29166.66, "Adult and Culture":29166.66},
+			"2017-02": {"total":441127.62, "Adult and Culture":441127.62},
+			"2017-03": {"total":271370.18, "Adult and Culture":271370.18},
+			"2017-07": {"total":14583.33, "Adult and Culture":14583.33}
+		}
+	},
+	"4064": {
+		"name": "ESPA LTD - EUROPEAN SERVICES FOR",
+		"total": 14862090.96,
+		"monthly": {
+			"2010-04": {"total":29165.59, "Adult and Culture":29165.59},
+			"2010-05": {"total":70110.16, "Adult and Culture":70110.16},
+			"2010-06": {"total":21119.66, "Adult and Culture":21119.66},
+			"2010-07": {"total":45121.40, "Adult and Culture":45121.40},
+			"2010-09": {"total":2461.28, "Adult and Culture":2461.28},
+			"2010-11": {"total":1566.72, "Adult and Culture":1566.72},
+			"2010-12": {"total":99804.29, "Adult and Culture":99804.29},
+			"2011-02": {"total":10193.94, "Adult and Culture":10193.94},
+			"2011-04": {"total":50591.13, "Adult and Culture":50591.13},
+			"2011-06": {"total":94039.97, "Adult and Culture":94039.97},
+			"2011-07": {"total":170123.18, "Adult and Culture":170123.18},
+			"2011-08": {"total":140776.47, "Adult and Culture":140776.47},
+			"2011-09": {"total":45708.80, "Adult and Culture":45708.80},
+			"2011-10": {"total":91557.74, "Adult and Culture":91557.74},
+			"2011-11": {"total":45708.80, "Adult and Culture":45708.80},
+			"2011-12": {"total":45708.80, "Adult and Culture":45708.80},
+			"2012-01": {"total":95664.21, "Adult and Culture":61067.33, "Childrens Services":34596.88},
+			"2012-02": {"total":85240.44, "Adult and Culture":45708.80, "Childrens Services":39531.64},
+			"2012-03": {"total":45708.80, "Adult and Culture":45708.80},
+			"2012-04": {"total":59612.54, "Adult and Culture":41095.90, "Childrens Services":18516.64},
+			"2012-05": {"total":39749.61, "Adult and Culture":39749.61},
+			"2012-06": {"total":33028.80, "Adult and Culture":33028.80},
+			"2012-07": {"total":33028.80, "Adult & Culture":33028.80},
+			"2012-08": {"total":66057.60, "Adult & Culture":66057.60},
+			"2012-09": {"total":33028.80, "unknown":33028.80},
+			"2012-10": {"total":33028.80, "unknown":33028.80},
+			"2012-11": {"total":47612.13, "unknown":47612.13},
+			"2012-12": {"total":33028.80, "unknown":33028.80},
+			"2013-01": {"total":47612.13, "unknown":47612.13},
+			"2013-02": {"total":33028.80, "unknown":33028.80},
+			"2013-03": {"total":33028.80, "unknown":33028.80},
+			"2013-04": {"total":33028.80, "unknown":33028.80},
+			"2013-05": {"total":47612.13, "unknown":47612.13},
+			"2013-06": {"total":32818.85, "unknown":32818.85},
+			"2013-07": {"total":32039.40, "unknown":32039.40},
+			"2013-08": {"total":66853.20, "Adult and Culture":32964.20, "unknown":33889.00},
+			"2013-09": {"total":32964.20, "Adult and Culture":32964.20},
+			"2013-10": {"total":33751.40, "Adult and Culture":33751.40},
+			"2013-11": {"total":33480.80, "Adult and Culture":33480.80},
+			"2013-12": {"total":33554.60, "Adult and Culture":33554.60},
+			"2014-01": {"total":33751.40, "Adult and Culture":33751.40},
+			"2014-02": {"total":33357.80, "Adult and Culture":33357.80},
+			"2014-03": {"total":33751.40, "Adult and Culture":33751.40},
+			"2014-04": {"total":33620.60, "Adult and Culture":33620.60},
+			"2014-05": {"total":47688.86, "Adult and Culture":47688.86},
+			"2014-06": {"total":33622.83, "Adult and Culture":33622.83},
+			"2014-07": {"total":66298.56, "Adult and Culture":66298.56},
+			"2014-08": {"total":33499.83, "Adult and Culture":33499.83},
+			"2014-09": {"total":33444.48, "Adult and Culture":33444.48},
+			"2014-10": {"total":32854.08, "Adult and Culture":32854.08},
+			"2014-11": {"total":32854.08, "Adult and Culture":32854.08},
+			"2014-12": {"total":32854.08, "Adult and Culture":32854.08},
+			"2015-01": {"total":32854.08, "Adult and Culture":32854.08},
+			"2015-02": {"total":81315.57, "Adult and Culture":81315.57},
+			"2015-03": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-04": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-05": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-06": {"total":84169.68, "Adult and Culture":84169.68},
+			"2015-07": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-08": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-09": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-10": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-11": {"total":42084.84, "Adult and Culture":42084.84},
+			"2015-12": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-01": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-02": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-03": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-04": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-05": {"total":63127.26, "Adult and Culture":63127.26},
+			"2016-06": {"total":63127.26, "Adult and Culture":63127.26},
+			"2016-07": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-08": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-09": {"total":648520.39, "Adult and Culture":648520.39},
+			"2016-10": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-11": {"total":42084.84, "Adult and Culture":42084.84},
+			"2016-12": {"total":42084.84, "Adult and Culture":42084.84},
+			"2017-01": {"total":265138.76, "Adult and Culture":265138.76},
+			"2017-02": {"total":192253.96, "Adult and Culture":192253.96},
+			"2017-03": {"total":1634671.68, "Adult and Culture":1634671.68},
+			"2017-04": {"total":42084.84, "Adult and Culture":42084.84},
+			"2017-05": {"total":84169.68, "Adult and Culture":84169.68},
+			"2017-06": {"total":45490.28, "Adult and Culture":45490.28},
+			"2017-07": {"total":45490.28, "Adult and Culture":45490.28},
+			"2017-08": {"total":810416.99, "Adult and Culture":810416.99},
+			"2017-09": {"total":50842.85, "Adult and Culture":50842.85},
+			"2017-11": {"total":1000930.67, "Adult and Culture":366519.52, "Chief Executive's":634411.15},
+			"2017-12": {"total":134259.68, "Adult and Culture":134259.68},
+			"2018-01": {"total":134259.68, "Adult and Culture":134259.68},
+			"2018-02": {"total":137483.84, "Adult and Culture":137483.84},
+			"2018-03": {"total":149111.69, "Adult and Culture":134528.36, "Chief Executive's":14583.33},
+			"2018-04": {"total":134528.36, "Adult and Culture":134528.36},
+			"2018-05": {"total":360109.00, "Adult and Culture":173569.08, "Chief Executive's":186539.92},
+			"2018-06": {"total":139435.40, "Adult and Culture":139435.40},
+			"2018-07": {"total":242319.00, "Adult and Culture":242319.00},
+			"2018-08": {"total":247276.23, "Adult and Culture":150398.90, "Chief Executive's":96877.33},
+			"2018-09": {"total":141189.56, "Adult and Culture":141189.56},
+			"2018-10": {"total":244073.16, "People":244073.16},
+			"2018-11": {"total":141189.56, "People":141189.56},
+			"2018-12": {"total":38305.96, "People":38305.96},
+			"2019-01": {"total":38305.96, "People":38305.96},
+			"2019-02": {"total":289933.99, "People":289933.99},
+			"2019-03": {"total":53618.63, "People":53618.63},
+			"2019-04": {"total":76611.92, "People":76611.92},
+			"2019-05": {"total":38305.96, "People":38305.96},
+			"2019-06": {"total":838317.92, "People":838317.92},
+			"2019-09": {"total":551331.95, "People":551331.95},
+			"2019-10": {"total":133893.64, "People":133893.64},
+			"2019-11": {"total":133893.64, "People":133893.64},
+			"2019-12": {"total":133893.64, "ASC & Integrated Services":133893.64},
+			"2020-01": {"total":124317.15, "ASC & Integrated Services":124317.15},
+			"2020-02": {"total":244912.21, "ASC & Integrated Services":244912.21},
+			"2020-03": {"total":204038.28, "ASC & Integrated Services":204038.28},
+			"2020-04": {"total":295608.83, "ASC & Integrated Services":295608.83},
+			"2020-05": {"total":185520.35, "ASC & Integrated Services":185520.35},
+			"2020-06": {"total":174822.85, "ASC & Integrated Services":174822.85},
+			"2020-07": {"total":173940.52, "ASC & Integrated Services":173940.52},
+			"2020-08": {"total":37773.76, "ASC & Integrated Services":37773.76},
+			"2020-09": {"total":180887.62, "ASC & Integrated Services":180887.62},
+			"2020-10": {"total":193165.98, "ASC & Integrated Services":193165.98},
+			"2020-11": {"total":137405.32, "ASC & Integrated Services":137405.32}
+		}
+	},
+	"4065": {
+		"name": "ESPO",
+		"total": 3811.59,
+		"monthly": {
+			"2016-06": {"total":3369.00, "Childrens Services":3369.00},
+			"2019-12": {"total":442.59, "Children, Education and Skills":442.59}
+		}
+	},
+	"4066": {
+		"name": "ESPRESSO EDUCATION LTD",
+		"total": 11337.5,
+		"monthly": {
+			"2010-04": {"total":3300.00, "Childrens Services":3300.00},
+			"2014-10": {"total":7362.50, "Childrens Services":7362.50},
+			"2014-11": {"total":675.00, "Childrens Services":675.00}
+		}
+	},
+	"4067": {
+		"name": "ESRI (UK) LTD",
+		"total": 498736.12,
+		"monthly": {
+			"2010-05": {"total":9437.50, "City Service":9437.50},
+			"2010-07": {"total":69183.29, "City Service":69183.29},
+			"2011-01": {"total":1260.00, "Environment & Regeneration":1260.00},
+			"2011-10": {"total":73028.72, "Chief Executive's":73028.72},
+			"2012-03": {"total":3510.00, "Environment & Regeneration":3510.00},
+			"2012-07": {"total":75910.00, "Chief Executives":75910.00},
+			"2013-05": {"total":70460.00, "unknown":70460.00},
+			"2014-06": {"total":35470.00, "Chief Executive's":35470.00},
+			"2015-04": {"total":32175.00, "Chief Executive's":32175.00},
+			"2016-06": {"total":29948.00, "Chief Executive's":29948.00},
+			"2017-07": {"total":23119.00, "Chief Executive's":23119.00},
+			"2018-05": {"total":24991.45, "Chief Executive's":24991.45},
+			"2019-05": {"total":24585.00, "Resources":24585.00},
+			"2020-02": {"total":840.00, "Place":840.00},
+			"2020-05": {"total":24818.16, "Resources":24818.16}
+		}
+	},
+	"4068": {
+		"name": "ESSENTIAL CARE AND SUPPORT LTD",
+		"total": 87776.9900000001,
+		"monthly": {
+			"2013-10": {"total":3667.75, "Adult and Culture":3667.75},
+			"2013-11": {"total":586.84, "Adult and Culture":586.84},
+			"2013-12": {"total":586.84, "Adult and Culture":586.84},
+			"2014-02": {"total":586.84, "Adult and Culture":586.84},
+			"2014-03": {"total":1173.68, "Adult and Culture":1173.68},
+			"2014-05": {"total":1760.52, "Adult and Culture":1760.52},
+			"2014-08": {"total":4332.60, "Adult and Culture":4332.60},
+			"2014-11": {"total":2888.40, "Adult and Culture":2888.40},
+			"2014-12": {"total":962.80, "Adult and Culture":962.80},
+			"2015-02": {"total":962.80, "Adult and Culture":962.80},
+			"2015-03": {"total":962.80, "Adult and Culture":962.80},
+			"2015-07": {"total":5536.10, "Adult and Culture":5536.10},
+			"2015-08": {"total":1925.60, "Adult and Culture":1925.60},
+			"2015-10": {"total":1925.60, "Adult and Culture":1925.60},
+			"2015-11": {"total":962.80, "Adult and Culture":962.80},
+			"2015-12": {"total":962.80, "Adult and Culture":962.80},
+			"2016-01": {"total":1925.60, "Adult and Culture":1925.60},
+			"2016-02": {"total":962.80, "Adult and Culture":962.80},
+			"2016-03": {"total":962.80, "Adult and Culture":962.80},
+			"2016-05": {"total":1925.60, "Adult and Culture":1925.60},
+			"2016-06": {"total":1925.60, "Adult and Culture":1925.60},
+			"2016-08": {"total":962.80, "Adult and Culture":962.80},
+			"2016-09": {"total":962.80, "Adult and Culture":962.80},
+			"2016-10": {"total":1925.60, "Adult and Culture":1925.60},
+			"2017-01": {"total":3239.40, "Adult and Culture":3239.40},
+			"2017-02": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-03": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-04": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-05": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-07": {"total":1398.50, "Adult and Culture":1398.50},
+			"2017-08": {"total":3353.60, "Adult and Culture":3353.60},
+			"2017-09": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-10": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-11": {"total":1118.80, "Adult and Culture":1118.80},
+			"2017-12": {"total":1118.80, "Adult and Culture":1118.80},
+			"2018-02": {"total":2237.60, "Adult and Culture":2237.60},
+			"2018-03": {"total":1118.80, "Adult and Culture":1118.80},
+			"2018-04": {"total":1118.80, "Adult and Culture":1118.80},
+			"2018-05": {"total":1118.80, "Adult and Culture":1118.80},
+			"2018-07": {"total":1118.80, "Adult and Culture":1118.80},
+			"2018-08": {"total":2237.60, "Adult and Culture":2237.60},
+			"2018-10": {"total":3356.40, "People":3356.40},
+			"2018-12": {"total":1118.80, "People":1118.80},
+			"2019-01": {"total":2237.60, "People":2237.60},
+			"2019-03": {"total":2237.60, "People":2237.60},
+			"2019-04": {"total":1118.80, "People":1118.80},
+			"2019-05": {"total":1118.80, "People":1118.80},
+			"2019-06": {"total":1118.80, "People":1118.80},
+			"2019-08": {"total":3356.40, "People":3356.40},
+			"2019-09": {"total":1901.12, "People":1901.12},
+			"2019-10": {"total":1148.00, "People":1148.00},
+			"2019-11": {"total":1148.00, "People":1148.00},
+			"2019-12": {"total":686.00, "ASC & Integrated Services":686.00}
+		}
+	},
+	"4069": {
+		"name": "ESSENTIAL IMAGE MARKETING",
+		"total": 2117.88,
+		"monthly": {
+			"2010-05": {"total":1116.44, "Childrens Services":570.44, "Environment & Regeneration":546.00},
+			"2010-06": {"total":570.44, "Childrens Services":570.44},
+			"2011-08": {"total":431.00, "Chief Executive's":431.00}
+		}
+	},
+	"4070": {
+		"name": "ESSENTIAL PAPERS LTD",
+		"total": 310,
+		"monthly": {
+			"2014-11": {"total":310.00, "Childrens Services":310.00}
+		}
+	},
+	"4071": {
+		"name": "ESSENTIAL READING PLUS LTD",
+		"total": 342.98,
+		"monthly": {
+			"2013-06": {"total":342.98, "unknown":342.98}
+		}
+	},
+	"4072": {
+		"name": "ESSENTRA SECURITY",
+		"total": 12139.53,
+		"monthly": {
+			"2014-06": {"total":290.56, "Environment & Regeneration":290.56},
+			"2014-10": {"total":270.50, "Environment & Regeneration":270.50},
+			"2015-09": {"total":541.00, "Childrens Services":270.50, "Environment & Regeneration":270.50},
+			"2016-02": {"total":435.00, "Environment & Regeneration":435.00},
+			"2016-03": {"total":1269.50, "Chief Executive's":1269.50},
+			"2016-06": {"total":259.50, "Environment & Regeneration":259.50},
+			"2017-03": {"total":422.91, "Childrens Services":422.91},
+			"2017-05": {"total":3074.00, "Chief Executive's":597.00, "Environment & Regeneration":2477.00},
+			"2017-08": {"total":1513.00, "Chief Executive's":901.50, "Environment & Regeneration":611.50},
+			"2017-12": {"total":1199.00, "Environment & Regeneration":1199.00},
+			"2018-04": {"total":284.96, "Childrens Services":284.96},
+			"2018-12": {"total":379.50, "Operations & Reg Services":379.50},
+			"2019-02": {"total":840.00, "Operations & Reg Services":840.00},
+			"2019-04": {"total":379.50, "Operations & Reg Services":379.50},
+			"2019-05": {"total":270.60, "Operations & Reg Services":270.60},
+			"2019-06": {"total":300.50, "People":300.50},
+			"2019-10": {"total":409.50, "Operations & Reg Services":409.50}
+		}
+	},
+	"4073": {
+		"name": "ESSEX CHAMBERS",
+		"total": 19274.33,
+		"monthly": {
+			"2015-11": {"total":750.00, "Chief Executive's":750.00},
+			"2019-02": {"total":7377.00, "People":7377.00},
+			"2020-01": {"total":10147.33, "ASC & Integrated Services":10147.33},
+			"2020-03": {"total":1000.00, "ASC & Integrated Services":1000.00}
+		}
+	},
+	"4074": {
+		"name": "ESSEX COUNTY COUNCIL",
+		"total": 728,
+		"monthly": {
+			"2014-10": {"total":728.00, "Childrens Services":728.00}
+		}
+	},
+	"4075": {
+		"name": "ESTATE OF DOREEN FORSTER",
+		"total": 33338.22,
+		"monthly": {
+			"2014-08": {"total":33338.22, "Adult and Culture":33338.22}
+		}
+	},
+	"4076": {
 		"name": "ESTATES GAZETTE",
 		"total": 3185,
 		"monthly": {
@@ -13,7 +565,7 @@
 			"2015-10": {"total":260.00, "Chief Executive's":260.00}
 		}
 	},
-	"4051": {
+	"4077": {
 		"name": "ESTEEM SYSTEMS PLC",
 		"total": 810192.25,
 		"monthly": {
@@ -49,14 +601,14 @@
 			"2020-05": {"total":9397.50, "Resources":9397.50}
 		}
 	},
-	"4052": {
+	"4078": {
 		"name": "ESTELLA BARTLETT LTD",
 		"total": 332.75,
 		"monthly": {
 			"2018-06": {"total":332.75, "Environment & Regeneration":332.75}
 		}
 	},
-	"4053": {
+	"4079": {
 		"name": "ESTELLE LOUW",
 		"total": 1793.25,
 		"monthly": {
@@ -64,7 +616,7 @@
 			"2014-03": {"total":972.00, "Chief Executive's":972.00}
 		}
 	},
-	"4054": {
+	"4080": {
 		"name": "ESTELLE LOUW PSYCHOLOGICAL SERVICES",
 		"total": 82045.04,
 		"monthly": {
@@ -117,7 +669,7 @@
 			"2018-01": {"total":1798.98, "Chief Executive's":1798.98}
 		}
 	},
-	"4055": {
+	"4081": {
 		"name": "ESURE",
 		"total": 4461.78,
 		"monthly": {
@@ -125,14 +677,14 @@
 			"2012-09": {"total":2974.52, "unknown":2974.52}
 		}
 	},
-	"4056": {
+	"4082": {
 		"name": "ETHICALSUPERSTORE.COM",
 		"total": 739,
 		"monthly": {
 			"2011-05": {"total":739.00, "Environment & Regeneration":739.00}
 		}
 	},
-	"4057": {
+	"4083": {
 		"name": "ETHICSTAR LTD",
 		"alternate-names": [
 			"ETHICSTAR LIMITED"
@@ -142,7 +694,7 @@
 			"2011-07": {"total":535.00, "Adult and Culture":535.00}
 		}
 	},
-	"4058": {
+	"4084": {
 		"name": "ETHOS ENVIRONMENTAL PLANNING LTD",
 		"total": 59199,
 		"monthly": {
@@ -155,14 +707,14 @@
 			"2019-09": {"total":3116.00, "Place":3116.00}
 		}
 	},
-	"4059": {
+	"4085": {
 		"name": "ETHOS LTD",
 		"total": 700,
 		"monthly": {
 			"2015-05": {"total":700.00, "Adult and Culture":700.00}
 		}
 	},
-	"4060": {
+	"4086": {
 		"name": "ETM AGENCIES LTD",
 		"total": 207432.49,
 		"monthly": {
@@ -191,7 +743,7 @@
 			"2015-12": {"total":10652.25, "Environment & Regeneration":10652.25}
 		}
 	},
-	"4061": {
+	"4087": {
 		"name": "EUREKA",
 		"total": 1305.8,
 		"monthly": {
@@ -199,7 +751,7 @@
 			"2015-01": {"total":987.00, "Childrens Services":987.00}
 		}
 	},
-	"4062": {
+	"4088": {
 		"name": "EURO MUNICIPAL LTD",
 		"total": 290445,
 		"monthly": {
@@ -223,21 +775,21 @@
 			"2020-02": {"total":1260.00, "Operations & Reg Services":1260.00}
 		}
 	},
-	"4063": {
+	"4089": {
 		"name": "EURO TRUCK BODIES LTD",
 		"total": 695,
 		"monthly": {
 			"2019-06": {"total":695.00, "Operations & Reg Services":695.00}
 		}
 	},
-	"4064": {
+	"4090": {
 		"name": "EURO TRUCKBODIES LTD",
 		"total": 1595,
 		"monthly": {
 			"2013-09": {"total":1595.00, "Environment & Regeneration":1595.00}
 		}
 	},
-	"4065": {
+	"4091": {
 		"name": "EUROMEDIA ASSOCIATES LTD",
 		"total": 6720,
 		"monthly": {
@@ -246,28 +798,35 @@
 			"2011-08": {"total":560.00, "Environment & Regeneration":560.00}
 		}
 	},
-	"4066": {
+	"4092": {
+		"name": "EUROMONITOR INTERNATIONAL LTD",
+		"total": 5500,
+		"monthly": {
+			"2020-11": {"total":5500.00, "Operations & Reg Services":5500.00}
+		}
+	},
+	"4093": {
 		"name": "EUROMOTIVE (KENT) LTD",
 		"total": 280,
 		"monthly": {
 			"2015-06": {"total":280.00, "Environment & Regeneration":280.00}
 		}
 	},
-	"4067": {
+	"4094": {
 		"name": "EURONOVA LTD",
 		"total": 2650.97,
 		"monthly": {
 			"2010-11": {"total":2650.97, "Adult and Culture":2650.97}
 		}
 	},
-	"4068": {
+	"4095": {
 		"name": "EUROPA",
 		"total": 1692.8,
 		"monthly": {
 			"2013-11": {"total":1692.80, "Chief Executive's":1692.80}
 		}
 	},
-	"4069": {
+	"4096": {
 		"name": "EUROPEAN ASSOCIATION OF HISTORIC TOWN",
 		"total": 1817.33,
 		"monthly": {
@@ -275,14 +834,14 @@
 			"2012-05": {"total":1034.00, "Environment & Regeneration":1034.00}
 		}
 	},
-	"4070": {
+	"4097": {
 		"name": "EUROPEAN CITY GUIDE",
 		"total": 1748.84,
 		"monthly": {
 			"2011-10": {"total":1748.84, "Environment & Regeneration":1748.84}
 		}
 	},
-	"4071": {
+	"4098": {
 		"name": "EUROPEAN CONSULAR AND COMMERCIAL OFF",
 		"total": 31500,
 		"monthly": {
@@ -305,7 +864,7 @@
 			"2014-05": {"total":1000.00, "Chief Executive's":1000.00}
 		}
 	},
-	"4072": {
+	"4099": {
 		"name": "EUROPEAN ELECTRONIQUE LTD",
 		"total": 19480.08,
 		"monthly": {
@@ -313,443 +872,6 @@
 			"2011-02": {"total":2979.36, "Chief Executives":2979.36},
 			"2012-03": {"total":2979.36, "Chief Executive's":2979.36},
 			"2013-04": {"total":2979.36, "unknown":2979.36}
-		}
-	},
-	"4073": {
-		"name": "EVAC + CHAIR INTERNATIONAL LTD",
-		"total": 35655.3,
-		"monthly": {
-			"2010-06": {"total":4194.00, "Environment & Regeneration":4194.00},
-			"2012-11": {"total":960.00, "unknown":960.00},
-			"2013-09": {"total":1568.40, "Adult and Culture":1568.40},
-			"2014-03": {"total":1568.40, "Adult and Culture":1568.40},
-			"2014-09": {"total":6066.50, "Environment & Regeneration":6066.50},
-			"2015-04": {"total":275.00, "Environment & Regeneration":275.00},
-			"2016-05": {"total":275.00, "Environment & Regeneration":275.00},
-			"2016-07": {"total":850.00, "Environment & Regeneration":850.00},
-			"2017-01": {"total":980.00, "Environment & Regeneration":980.00},
-			"2017-05": {"total":275.00, "Environment & Regeneration":275.00},
-			"2017-07": {"total":420.00, "Environment & Regeneration":420.00},
-			"2018-01": {"total":675.00, "Environment & Regeneration":675.00},
-			"2018-04": {"total":2660.00, "Environment & Regeneration":2660.00},
-			"2018-05": {"total":330.00, "Environment & Regeneration":330.00},
-			"2018-07": {"total":310.00, "Adult and Culture":310.00},
-			"2018-08": {"total":420.00, "Childrens Services":420.00},
-			"2018-09": {"total":980.00, "Environment & Regeneration":980.00},
-			"2019-05": {"total":7737.00, "Place":7737.00},
-			"2019-07": {"total":695.00, "Place":695.00},
-			"2019-08": {"total":785.00, "Assistant Chief Executive":365.00, "People":420.00},
-			"2020-03": {"total":585.00, "Place":585.00},
-			"2020-04": {"total":365.00, "City Futures":365.00},
-			"2020-05": {"total":2261.00, "Operations & Reg Services":2261.00},
-			"2020-07": {"total":420.00, "Place":420.00}
-		}
-	},
-	"4074": {
-		"name": "EVAK LTD",
-		"alternate-names": [
-			"EVAK LIMITED"
-		],
-		"total": 1500,
-		"monthly": {
-			"2017-10": {"total":500.00, "HRA":500.00},
-			"2019-05": {"total":1000.00, "HRA Expenditure":1000.00}
-		}
-	},
-	"4075": {
-		"name": "EVANS  & CO SOLICITORS",
-		"total": 411616,
-		"monthly": {
-			"2017-12": {"total":410000.00, "Chief Executive's":410000.00},
-			"2018-01": {"total":1616.00, "Chief Executive's":1616.00}
-		}
-	},
-	"4076": {
-		"name": "EVANS HALSHAW",
-		"total": 1562.61,
-		"monthly": {
-			"2012-03": {"total":811.98, "Chief Executive's":811.98},
-			"2013-05": {"total":750.63, "unknown":750.63}
-		}
-	},
-	"4077": {
-		"name": "EVANS HALSHAW VAUXHALL",
-		"total": 1753.31,
-		"monthly": {
-			"2019-12": {"total":1302.11, "Operations & Reg Services":1302.11},
-			"2020-03": {"total":451.20, "Operations & Regulatory Services":451.20}
-		}
-	},
-	"4078": {
-		"name": "EVENT COVER PRODUCTIONS LTD",
-		"total": 291040.8,
-		"monthly": {
-			"2010-04": {"total":684.00, "Environment & Regeneration":684.00},
-			"2010-05": {"total":684.00, "Environment & Regeneration":684.00},
-			"2010-06": {"total":855.00, "Environment & Regeneration":855.00},
-			"2010-07": {"total":684.00, "Environment & Regeneration":684.00},
-			"2010-08": {"total":684.00, "Environment & Regeneration":684.00},
-			"2010-09": {"total":12159.00, "Environment & Regeneration":12159.00},
-			"2010-10": {"total":684.00, "Environment & Regeneration":684.00},
-			"2010-11": {"total":836.00, "Environment & Regeneration":836.00},
-			"2010-12": {"total":1233.00, "Chief Executives":513.00, "Environment & Regeneration":720.00},
-			"2011-01": {"total":4161.80, "Chief Executives":4161.80},
-			"2011-02": {"total":1297.50, "Chief Executives":855.00, "Environment & Regeneration":442.50},
-			"2011-03": {"total":684.00, "Chief Executives":684.00},
-			"2011-04": {"total":684.00, "Chief Executive's":684.00},
-			"2011-05": {"total":684.00, "Chief Executive's":684.00},
-			"2011-07": {"total":1539.00, "Chief Executive's":1539.00},
-			"2011-08": {"total":855.00, "Chief Executive's":855.00},
-			"2011-10": {"total":1368.00, "Chief Executive's":1368.00},
-			"2011-11": {"total":1308.00, "Environment & Regeneration":1308.00},
-			"2011-12": {"total":1282.50, "Chief Executive's":855.00, "Environment & Regeneration":427.50},
-			"2012-01": {"total":11885.65, "Chief Executive's":4508.50, "Environment & Regeneration":7377.15},
-			"2012-02": {"total":1272.00, "Chief Executive's":684.00, "Environment & Regeneration":588.00},
-			"2012-03": {"total":684.00, "Chief Executive's":684.00},
-			"2012-05": {"total":840.75, "Chief Executive's":840.75},
-			"2012-06": {"total":684.00, "Chief Executive's":684.00},
-			"2012-07": {"total":1308.00, "Chief Executives":1308.00},
-			"2012-08": {"total":22374.25, "Chief Executives":826.50, "Environment & Regeneration":21547.75},
-			"2012-09": {"total":684.00, "unknown":684.00},
-			"2012-11": {"total":11281.80, "unknown":11281.80},
-			"2012-12": {"total":427.50, "unknown":427.50},
-			"2013-09": {"total":987.00, "Environment & Regeneration":987.00},
-			"2013-10": {"total":845.50, "Childrens Services":845.50},
-			"2014-11": {"total":720.00, "Chief Executive's":720.00},
-			"2015-11": {"total":1602.00, "Environment & Regeneration":1602.00},
-			"2015-12": {"total":903.00, "Chief Executive's":903.00},
-			"2017-08": {"total":47221.15, "Environment & Regeneration":47221.15},
-			"2017-09": {"total":792.00, "Chief Executive's":792.00},
-			"2017-10": {"total":1409.00, "Environment & Regeneration":1409.00},
-			"2017-11": {"total":1958.00, "Chief Executive's":979.00, "Childrens Services":979.00},
-			"2017-12": {"total":1604.50, "Chief Executive's":1012.00, "Environment & Regeneration":592.50},
-			"2018-01": {"total":4575.50, "Chief Executive's":3783.50, "Childrens Services":792.00},
-			"2018-02": {"total":1863.00, "Chief Executive's":1863.00},
-			"2018-03": {"total":828.00, "Chief Executive's":828.00},
-			"2018-04": {"total":529.00, "Chief Executive's":529.00},
-			"2018-05": {"total":1035.00, "Chief Executive's":1035.00},
-			"2018-06": {"total":360.00, "Chief Executive's":360.00},
-			"2018-07": {"total":47917.50, "Chief Executive's":864.00, "Environment & Regeneration":47053.50},
-			"2018-08": {"total":13986.90, "Chief Executive's":1944.00, "Environment & Regeneration":12042.90},
-			"2018-09": {"total":2016.00, "Chief Executive's":2016.00},
-			"2018-10": {"total":1488.00, "Operations & Reg Services":1488.00},
-			"2018-11": {"total":1944.00, "Operations & Reg Services":1944.00},
-			"2018-12": {"total":615.00, "Operations & Reg Services":615.00},
-			"2019-01": {"total":1944.00, "Operations & Reg Services":1944.00},
-			"2019-04": {"total":1779.00, "Place":864.00, "Public Health Service":915.00},
-			"2019-06": {"total":2016.00, "Place":2016.00},
-			"2019-07": {"total":1326.00, "Place":1326.00},
-			"2019-08": {"total":53108.00, "Operations & Reg Services":53108.00},
-			"2019-09": {"total":1326.00, "Place":1326.00},
-			"2019-10": {"total":4036.00, "Place":4036.00},
-			"2020-01": {"total":1768.00, "Place":1768.00},
-			"2020-02": {"total":936.00, "Place":936.00},
-			"2020-04": {"total":2623.00, "Place":1638.00, "Public Health Service":985.00},
-			"2020-06": {"total":1170.00, "Place":1170.00}
-		}
-	},
-	"4079": {
-		"name": "EVENT MERCHANDISING LTD",
-		"total": 1537.45,
-		"monthly": {
-			"2013-06": {"total":1537.45, "unknown":1537.45}
-		}
-	},
-	"4080": {
-		"name": "EVENT STRUCTURE",
-		"total": 4500,
-		"monthly": {
-			"2010-07": {"total":2100.00, "Environment & Regeneration":2100.00},
-			"2010-10": {"total":2400.00, "Environment & Regeneration":2400.00}
-		}
-	},
-	"4081": {
-		"name": "EVENTCOVER PRODUCTIONS LTD",
-		"total": 300815.92,
-		"monthly": {
-			"2010-07": {"total":28825.50, "Environment & Regeneration":28825.50},
-			"2011-08": {"total":32911.98, "Environment & Regeneration":32911.98},
-			"2011-12": {"total":1027.50, "Environment & Regeneration":1027.50},
-			"2012-01": {"total":513.00, "Chief Executive's":513.00},
-			"2012-04": {"total":684.00, "Chief Executive's":684.00},
-			"2012-08": {"total":16978.75, "Environment & Regeneration":16978.75},
-			"2012-10": {"total":855.00, "unknown":855.00},
-			"2012-11": {"total":1841.50, "unknown":1841.50},
-			"2012-12": {"total":1679.00, "unknown":1679.00},
-			"2013-01": {"total":3914.00, "unknown":3914.00},
-			"2013-02": {"total":1368.00, "unknown":1368.00},
-			"2013-03": {"total":684.00, "unknown":684.00},
-			"2013-05": {"total":826.50, "unknown":826.50},
-			"2013-07": {"total":1968.00, "unknown":1968.00},
-			"2013-08": {"total":1539.00, "Chief Executive's":684.00, "Childrens Services":855.00},
-			"2013-09": {"total":684.00, "Chief Executive's":684.00},
-			"2013-10": {"total":20499.65, "Childrens Services":6670.90, "Environment & Regeneration":13828.75},
-			"2013-11": {"total":684.00, "Childrens Services":684.00},
-			"2013-12": {"total":3582.50, "Chief Executive's":684.00, "Childrens Services":2163.50, "Environment & Regeneration":735.00},
-			"2014-01": {"total":3287.00, "Chief Executive's":3287.00},
-			"2014-02": {"total":608.00, "Chief Executive's":608.00},
-			"2014-03": {"total":2460.00, "Chief Executive's":684.00, "Environment & Regeneration":1776.00},
-			"2014-05": {"total":1575.00, "Chief Executive's":1575.00},
-			"2014-06": {"total":720.00, "Chief Executive's":720.00},
-			"2014-07": {"total":4920.00, "Environment & Regeneration":4920.00},
-			"2014-08": {"total":30263.50, "Chief Executive's":348.00, "Environment & Regeneration":29915.50},
-			"2014-09": {"total":7550.00, "Chief Executive's":4045.00, "Environment & Regeneration":3505.00},
-			"2014-10": {"total":4138.00, "Chief Executive's":4138.00},
-			"2014-12": {"total":2600.00, "Chief Executive's":1956.00, "Environment & Regeneration":644.00},
-			"2015-01": {"total":3051.00, "Chief Executive's":3051.00},
-			"2015-03": {"total":700.00, "Chief Executive's":700.00},
-			"2015-05": {"total":1813.50, "Chief Executive's":1813.50},
-			"2015-07": {"total":700.00, "Childrens Services":700.00},
-			"2015-08": {"total":3176.25, "Chief Executive's":3176.25},
-			"2015-09": {"total":945.00, "Chief Executive's":945.00},
-			"2015-10": {"total":42426.00, "Chief Executive's":756.00, "Environment & Regeneration":41670.00},
-			"2015-11": {"total":1298.50, "Chief Executive's":756.00, "Environment & Regeneration":542.50},
-			"2016-01": {"total":3160.50, "Chief Executive's":3160.50},
-			"2016-03": {"total":1326.00, "Chief Executive's":756.00, "Environment & Regeneration":570.00},
-			"2016-04": {"total":756.00, "Chief Executive's":756.00},
-			"2016-05": {"total":945.00, "Chief Executive's":945.00},
-			"2016-06": {"total":1746.00, "Chief Executive's":1746.00},
-			"2016-08": {"total":2237.00, "Chief Executive's":1749.00, "Environment & Regeneration":488.00},
-			"2016-09": {"total":1219.00, "Chief Executive's":792.00, "Environment & Regeneration":427.00},
-			"2016-10": {"total":2166.00, "Chief Executive's":792.00, "Environment & Regeneration":1374.00},
-			"2016-12": {"total":44893.29, "Chief Executive's":990.00, "Environment & Regeneration":43903.29},
-			"2017-01": {"total":4130.50, "Chief Executive's":4130.50},
-			"2017-02": {"total":781.00, "Chief Executive's":781.00},
-			"2017-03": {"total":792.00, "Chief Executive's":792.00},
-			"2017-04": {"total":792.00, "Chief Executive's":792.00},
-			"2017-05": {"total":990.00, "Chief Executive's":990.00},
-			"2017-06": {"total":792.00, "Chief Executive's":792.00},
-			"2017-07": {"total":792.00, "Chief Executive's":792.00}
-		}
-	},
-	"4082": {
-		"name": "EVENTS AND AWARDS",
-		"total": 2550,
-		"monthly": {
-			"2010-10": {"total":1050.00, "Chief Executives":1050.00},
-			"2010-11": {"total":1500.00, "Chief Executives":1500.00}
-		}
-	},
-	"4083": {
-		"name": "EVENTS IN PARTNERSHIP LTD",
-		"total": 720.84,
-		"monthly": {
-			"2013-01": {"total":391.67, "unknown":391.67},
-			"2014-02": {"total":329.17, "Adult and Culture":329.17}
-		}
-	},
-	"4084": {
-		"name": "EVEQUE LEISURE EQUIPMENT LTD",
-		"total": 3859.01,
-		"monthly": {
-			"2012-01": {"total":1524.06, "Environment & Regeneration":1524.06},
-			"2013-05": {"total":1005.50, "unknown":1005.50},
-			"2014-10": {"total":769.45, "Childrens Services":769.45},
-			"2014-11": {"total":560.00, "Childrens Services":560.00}
-		}
-	},
-	"4085": {
-		"name": "EVERGREEN PALLET SOLUTIONS UK LTD",
-		"total": 3664.58,
-		"monthly": {
-			"2010-12": {"total":940.00, "Environment & Regeneration":940.00},
-			"2012-01": {"total":430.08, "Environment & Regeneration":430.08},
-			"2012-12": {"total":576.00, "unknown":576.00},
-			"2013-12": {"total":624.00, "Environment & Regeneration":624.00},
-			"2014-01": {"total":499.50, "Childrens Services":499.50},
-			"2014-12": {"total":595.00, "Environment & Regeneration":595.00}
-		}
-	},
-	"4086": {
-		"name": "EVERGREENS (UK) LTD",
-		"total": 12630,
-		"monthly": {
-			"2014-10": {"total":12630.00, "Childrens Services":12630.00}
-		}
-	},
-	"4087": {
-		"name": "EVERITT & MARSHALL LTD",
-		"total": 49417.09,
-		"monthly": {
-			"2010-04": {"total":1217.32, "Environment & Regeneration":1217.32},
-			"2011-01": {"total":1041.00, "Environment & Regeneration":1041.00},
-			"2011-09": {"total":2630.20, "Environment & Regeneration":2630.20},
-			"2011-10": {"total":3561.65, "Environment & Regeneration":3561.65},
-			"2012-12": {"total":211.84, "unknown":211.84},
-			"2013-04": {"total":2036.13, "unknown":2036.13},
-			"2013-08": {"total":1957.11, "Childrens Services":800.00, "Environment & Regeneration":1157.11},
-			"2013-09": {"total":286.14, "Environment & Regeneration":286.14},
-			"2013-10": {"total":1035.00, "Environment & Regeneration":1035.00},
-			"2014-02": {"total":442.90, "Environment & Regeneration":442.90},
-			"2014-05": {"total":315.97, "Environment & Regeneration":315.97},
-			"2014-10": {"total":925.09, "Environment & Regeneration":925.09},
-			"2014-12": {"total":2326.76, "Environment & Regeneration":2326.76},
-			"2015-06": {"total":847.35, "Environment & Regeneration":847.35},
-			"2015-07": {"total":418.94, "Environment & Regeneration":418.94},
-			"2015-11": {"total":383.33, "Environment & Regeneration":383.33},
-			"2015-12": {"total":1527.33, "Environment & Regeneration":1527.33},
-			"2016-02": {"total":480.14, "Environment & Regeneration":480.14},
-			"2016-03": {"total":421.50, "Environment & Regeneration":421.50},
-			"2016-04": {"total":2058.46, "Environment & Regeneration":2058.46},
-			"2016-05": {"total":306.99, "Environment & Regeneration":306.99},
-			"2016-06": {"total":466.98, "Environment & Regeneration":466.98},
-			"2016-09": {"total":528.06, "Environment & Regeneration":528.06},
-			"2016-11": {"total":9890.25, "Environment & Regeneration":9890.25},
-			"2017-02": {"total":1118.64, "Environment & Regeneration":1118.64},
-			"2018-03": {"total":431.54, "Environment & Regeneration":431.54},
-			"2018-05": {"total":462.96, "Environment & Regeneration":462.96},
-			"2018-07": {"total":3406.75, "Environment & Regeneration":3406.75},
-			"2018-08": {"total":2767.21, "Environment & Regeneration":2767.21},
-			"2018-11": {"total":272.25, "Operations & Reg Services":272.25},
-			"2018-12": {"total":346.68, "Operations & Reg Services":346.68},
-			"2019-01": {"total":479.24, "Operations & Reg Services":479.24},
-			"2019-03": {"total":2528.75, "Operations & Reg Services":2528.75},
-			"2019-04": {"total":1580.84, "Operations & Reg Services":1580.84},
-			"2019-05": {"total":705.79, "Operations & Reg Services":705.79}
-		}
-	},
-	"4088": {
-		"name": "EVERLASTING CARE LT DOMICILLIARY CARE AG",
-		"total": 2103.25,
-		"monthly": {
-			"2011-04": {"total":2103.25, "Adult and Culture":2103.25}
-		}
-	},
-	"4089": {
-		"name": "EVERSHED PRODUCTS",
-		"total": 2980,
-		"monthly": {
-			"2010-11": {"total":2320.00, "Adult and Culture":2320.00},
-			"2011-10": {"total":660.00, "Adult and Culture":660.00}
-		}
-	},
-	"4090": {
-		"name": "EVERSHEDS",
-		"total": 360121.9,
-		"monthly": {
-			"2010-07": {"total":8260.89, "Chief Executives":8260.89},
-			"2010-10": {"total":13703.55, "Chief Executives":13703.55},
-			"2010-12": {"total":2850.00, "Chief Executives":2850.00},
-			"2011-02": {"total":1408.50, "Environment & Regeneration":1408.50},
-			"2011-03": {"total":5750.00, "Chief Executives":5750.00},
-			"2011-07": {"total":3525.50, "Chief Executive's":3525.50},
-			"2011-12": {"total":1140.00, "Chief Executive's":1140.00},
-			"2012-01": {"total":6500.00, "Chief Executive's":6500.00},
-			"2012-04": {"total":41373.29, "Chief Executive's":41373.29},
-			"2012-05": {"total":9677.00, "Chief Executive's":9677.00},
-			"2012-06": {"total":22418.93, "Chief Executive's":22418.93},
-			"2012-08": {"total":64542.10, "Chief Executives":64542.10},
-			"2012-11": {"total":22154.50, "unknown":22154.50},
-			"2013-02": {"total":37209.60, "unknown":37209.60},
-			"2013-03": {"total":16700.94, "unknown":16700.94},
-			"2013-05": {"total":48641.00, "unknown":48641.00},
-			"2013-12": {"total":21825.00, "Chief Executive's":21825.00},
-			"2018-05": {"total":287.00, "Chief Executive's":287.00},
-			"2018-06": {"total":22500.00, "Chief Executive's":22500.00},
-			"2019-08": {"total":598.50, "Resources":598.50},
-			"2019-10": {"total":5437.60, "Resources":5437.60},
-			"2019-12": {"total":3329.00, "Resources":3329.00},
-			"2020-01": {"total":289.00, "Resources":289.00}
-		}
-	},
-	"4091": {
-		"name": "EVERSHEDS LLP",
-		"total": 51870.89,
-		"monthly": {
-			"2011-05": {"total":1250.00, "Chief Executive's":1250.00},
-			"2013-07": {"total":49778.09, "unknown":49778.09},
-			"2013-09": {"total":842.80, "Chief Executive's":842.80}
-		}
-	},
-	"4092": {
-		"name": "EVERY 1 SPEAKS",
-		"total": 3655,
-		"monthly": {
-			"2011-08": {"total":1675.00, "Childrens Services":1675.00},
-			"2012-08": {"total":1980.00, "Childrens Services":1980.00}
-		}
-	},
-	"4093": {
-		"name": "EVERYONE NEEDS GOOD AND GUIDED ENGAGEMEN",
-		"total": 1020,
-		"monthly": {
-			"2019-11": {"total":1020.00, "People":1020.00}
-		}
-	},
-	"4094": {
-		"name": "EVIDENCE BASED PSYCHOLOGY HUB",
-		"total": 5083.3,
-		"monthly": {
-			"2016-02": {"total":5083.30, "Adult and Culture":5083.30}
-		}
-	},
-	"4095": {
-		"name": "EVIDENCE MATTERS LTD",
-		"total": 288,
-		"monthly": {
-			"2015-12": {"total":288.00, "Chief Executive's":288.00}
-		}
-	},
-	"4096": {
-		"name": "EVOLUTION CHILDREN SERVICES",
-		"total": 1473514.22,
-		"monthly": {
-			"2010-04": {"total":144000.00, "Adult and Culture":144000.00},
-			"2010-05": {"total":73714.28, "Adult and Culture":73714.28},
-			"2010-06": {"total":120000.00, "Adult and Culture":120000.00},
-			"2010-07": {"total":60000.00, "Adult and Culture":60000.00},
-			"2010-08": {"total":84000.00, "Adult and Culture":84000.00},
-			"2010-09": {"total":109714.28, "Adult and Culture":109714.28},
-			"2010-10": {"total":48000.00, "Adult and Culture":48000.00},
-			"2010-11": {"total":24000.00, "Childrens Services":24000.00},
-			"2010-12": {"total":48000.00, "Childrens Services":48000.00},
-			"2011-01": {"total":84000.00, "Childrens Services":84000.00},
-			"2011-02": {"total":71571.42, "Childrens Services":71571.42},
-			"2011-03": {"total":36000.00, "Childrens Services":36000.00},
-			"2011-04": {"total":65142.85, "Childrens Services":65142.85},
-			"2011-05": {"total":48000.00, "Childrens Services":48000.00},
-			"2011-06": {"total":70285.71, "Childrens Services":58285.71, "Environment & Regeneration":12000.00},
-			"2011-07": {"total":48000.00, "Childrens Services":48000.00},
-			"2011-08": {"total":69857.13, "Childrens Services":69857.13},
-			"2011-09": {"total":53228.55, "Childrens Services":20828.55, "Environment & Regeneration":32400.00},
-			"2011-12": {"total":32400.00, "Childrens Services":32400.00},
-			"2012-03": {"total":32400.00, "Childrens Services":32400.00},
-			"2012-04": {"total":43200.00, "Childrens Services":43200.00},
-			"2012-05": {"total":54000.00, "Childrens Services":54000.00},
-			"2012-06": {"total":54000.00, "Childrens Services":54000.00}
-		}
-	},
-	"4097": {
-		"name": "EVOLUTION CHILDREN SERVICES LTD",
-		"total": 78300.06,
-		"monthly": {
-			"2012-03": {"total":21600.00, "Childrens Services":21600.00},
-			"2012-04": {"total":21600.00, "Childrens Services":21600.00},
-			"2012-05": {"total":35100.06, "Childrens Services":35100.06}
-		}
-	},
-	"4098": {
-		"name": "EVOLUTION CHILDREN SERVICES USE 159368",
-		"total": 5014.32,
-		"monthly": {
-			"2012-09": {"total":5014.32, "unknown":5014.32}
-		}
-	},
-	"4099": {
-		"name": "EVOLUTION CHILDRENS SERVICES",
-		"total": 401142.81,
-		"monthly": {
-			"2011-08": {"total":10800.00, "Childrens Services":10800.00},
-			"2011-09": {"total":32400.00, "Childrens Services":32400.00},
-			"2011-10": {"total":32400.00, "Childrens Services":32400.00},
-			"2011-11": {"total":35871.42, "Childrens Services":35871.42},
-			"2011-12": {"total":42428.55, "Childrens Services":42428.55},
-			"2012-01": {"total":108000.00, "Childrens Services":108000.00},
-			"2012-02": {"total":74442.84, "Childrens Services":74442.84},
-			"2012-03": {"total":10800.00, "Childrens Services":10800.00},
-			"2012-05": {"total":21600.00, "Childrens Services":21600.00},
-			"2012-06": {"total":10800.00, "Childrens Services":10800.00},
-			"2012-07": {"total":21600.00, "Childrens Services":21600.00}
 		}
 	}
 	}

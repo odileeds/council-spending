@@ -1,35 +1,216 @@
 {
-	"range": ["2010-04","2020-09"],
+	"range": ["2010-04","2020-11"],
 	"data": {
 	"1150": {
+		"name": "JLL",
+		"total": 1802189,
+		"monthly": {
+			"2016-04": {"total":42500.00, "CABINET OFFICE":42500.00},
+			"2016-06": {"total":30000.00, "CABINET OFFICE":30000.00},
+			"2016-09": {"total":91980.00, "CABINET OFFICE":91980.00},
+			"2017-01": {"total":30000.00, "CABINET OFFICE":30000.00},
+			"2017-04": {"total":39100.00, "CABINET OFFICE":39100.00},
+			"2017-05": {"total":76230.00, "CABINET OFFICE":76230.00},
+			"2017-07": {"total":36000.00, "CABINET OFFICE":36000.00},
+			"2017-12": {"total":488116.00, "CABINET OFFICE":488116.00},
+			"2018-02": {"total":87500.00, "CABINET OFFICE":87500.00},
+			"2018-04": {"total":176575.00, "CABINET OFFICE":176575.00},
+			"2018-06": {"total":100205.00, "GOVERNMENT PROPERTY AGENCY":100205.00},
+			"2018-09": {"total":131218.00, "GOVERNMENT PROPERTY AGENCY":131218.00},
+			"2019-01": {"total":100000.00, "Government Property Agency":100000.00},
+			"2019-03": {"total":177750.00, "Government Property Agency":177750.00},
+			"2019-09": {"total":39930.00, "Government Property Agency":39930.00},
+			"2020-01": {"total":91875.00, "Government Property Agency":91875.00},
+			"2020-07": {"total":63210.00, "GOVERNMENT PROPERTY AGENCY":63210.00}
+		}
+	},
+	"1151": {
+		"name": "JLL (Aberdeen Standard)",
+		"total": 333805.3,
+		"monthly": {
+			"2020-06": {"total":162593.81, "GOVERNMENT PROPERTY AGENCY":162593.81},
+			"2020-09": {"total":171211.49, "GOVERNMENT PROPERTY AGENCY":171211.49}
+		}
+	},
+	"1152": {
+		"name": "JLL (LIM)",
+		"total": 1293555.58,
+		"monthly": {
+			"2019-12": {"total":1293555.58, "Governemnt Property Agency":1293555.58}
+		}
+	},
+	"1153": {
+		"name": "JLL - AMAS Ltd (LIM/Rent Ac)",
+		"total": 6491247.04,
+		"monthly": {
+			"2020-03": {"total":1293555.58, "Government Property Agency":1293555.58},
+			"2020-06": {"total":1294594.72, "GOVERNMENT PROPERTY AGENCY":1294594.72},
+			"2020-08": {"total":2162694.40, "GOVERNMENT PROPERTY AGENCY":2162694.40},
+			"2020-09": {"total":1740402.34, "GOVERNMENT PROPERTY AGENCY":1740402.34}
+		}
+	},
+	"1154": {
+		"name": "JOBVITE INC",
+		"alternate-names": [
+			"JOBVITE INC."
+		],
+		"total": 53479.97,
+		"monthly": {
+			"2019-05": {"total":25359.97, "CABINET OFFICE":25359.97},
+			"2020-04": {"total":28120.00, "CABINET OFFICE":28120.00}
+		}
+	},
+	"1155": {
+		"name": "JOHN PINCOTT CONSULT",
+		"total": 89783,
+		"monthly": {
+			"2018-04": {"total":30525.00, "CROWN COMMERCIAL SERVICE":30525.00},
+			"2018-06": {"total":29629.00, "CROWN COMMERCIAL SERVICE":29629.00},
+			"2018-07": {"total":29629.00, "CROWN COMMERCIAL SERVICE":29629.00}
+		}
+	},
+	"1156": {
+		"name": "JOHNSON & LUBBOCK PARTNERS LTD",
+		"total": 275610,
+		"monthly": {
+			"2020-08": {"total":126084.00, "CABINET OFFICE":126084.00},
+			"2020-09": {"total":119582.00, "CABINET OFFICE":119582.00},
+			"2020-10": {"total":29944.00, "CABINET OFFICE":29944.00}
+		}
+	},
+	"1157": {
+		"name": "JONES LANG LASALLE LTD",
+		"alternate-names": [
+			"JONES LANG LASALLE",
+			"Jones Lang Lasalle Limited"
+		],
+		"total": 10456479.05,
+		"monthly": {
+			"2012-03": {"total":607200.00, "Cabinet Office":607200.00},
+			"2012-06": {"total":403600.00, "Cabinet Office":403600.00},
+			"2012-09": {"total":328819.20, "CABINET OFFICE":328819.20},
+			"2012-12": {"total":278219.20, "CABINET OFFICE":278219.20},
+			"2013-01": {"total":290845.50, "CABINET OFFICE":290845.50},
+			"2013-03": {"total":594445.50, "CABINET OFFICE":594445.50},
+			"2013-06": {"total":594445.50, "CABINET OFFICE":594445.50},
+			"2013-09": {"total":328819.20, "CABINET OFFICE":328819.20},
+			"2013-12": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2014-03": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2014-06": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2014-09": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2014-12": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2015-03": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2015-06": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2015-09": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2015-12": {"total":303600.00, "CABINET OFFICE":303600.00},
+			"2016-03": {"total":649844.37, "CABINET OFFICE":649844.37},
+			"2016-07": {"total":373500.00, "CABINET OFFICE":373500.00},
+			"2016-10": {"total":373750.00, "CABINET OFFICE":373750.00},
+			"2016-12": {"total":373500.00, "CABINET OFFICE":373500.00},
+			"2017-03": {"total":373500.00, "CABINET OFFICE":373500.00},
+			"2017-06": {"total":373500.00, "CABINET OFFICE":373500.00},
+			"2017-09": {"total":418500.00, "CABINET OFFICE":373500.00, "CROWN COMMERCIAL SERVICE":45000.00},
+			"2018-01": {"total":373500.00, "CABINET OFFICE":373500.00},
+			"2018-02": {"total":224125.00, "CABINET OFFICE":224125.00},
+			"2018-03": {"total":602515.58, "CABINET OFFICE":602515.58},
+			"2018-05": {"total":107450.00, "CABINET OFFICE":107450.00},
+			"2020-10": {"total":54000.00, "CROWN COMMERCIAL SERVICE":54000.00}
+		}
+	},
+	"1158": {
+		"name": "Jacobs UK Ltd",
+		"alternate-names": [
+			"Jacobs UK Limited"
+		],
+		"total": 82097.85,
+		"monthly": {
+			"2020-07": {"total":82097.85, "GOVERNMENT PROPERTY AGENCY":82097.85}
+		}
+	},
+	"1159": {
+		"name": "Joseph King (Norfolk) Coordination Ltd",
+		"alternate-names": [
+			"J KING NORFOLK COORDINATION LTD",
+			"JOESPH KING NORFOLK COORDINATION LTD",
+			"JOSEPH KING (NORFOLK) COORDINATION LTD",
+			"Joseph King (Norfolk) Coordination Ltd (Rent)"
+		],
+		"total": 4521607.52,
+		"monthly": {
+			"2013-05": {"total":288810.00, "CABINET OFFICE":288810.00},
+			"2014-03": {"total":288810.00, "CABINET OFFICE":288810.00},
+			"2014-07": {"total":300240.90, "CABINET OFFICE":300240.90},
+			"2014-09": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2014-11": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2015-03": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2015-07": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2015-08": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2015-12": {"total":288586.26, "CABINET OFFICE":288586.26},
+			"2016-04": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2016-06": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2016-09": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2016-11": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2017-03": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2017-06": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2017-09": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2017-12": {"total":159166.00, "CABINET OFFICE":159166.00},
+			"2018-03": {"total":159165.90, "CABINET OFFICE":159165.90},
+			"2018-06": {"total":123067.00, "GOVERNMENT PROPERTY AGENCY":123067.00},
+			"2018-09": {"total":129589.00, "GOVERNMENT PROPERTY AGENCY":129589.00},
+			"2018-12": {"total":122322.00, "GOVERNMENT PROPERTY AGENCY":122322.00},
+			"2019-03": {"total":122435.00, "Government Property Agency":122435.00},
+			"2019-12": {"total":154147.98, "Governemnt Property Agency":154147.98},
+			"2020-03": {"total":154147.98, "Government Property Agency":154147.98},
+			"2020-06": {"total":157973.98, "GOVERNMENT PROPERTY AGENCY":157973.98},
+			"2020-09": {"total":163154.72, "GOVERNMENT PROPERTY AGENCY":163154.72}
+		}
+	},
+	"1160": {
+		"name": "Jumar Solutions Ltd",
+		"total": 75240,
+		"monthly": {
+			"2020-04": {"total":25080.00, "Crown Commercial Service":25080.00},
+			"2020-07": {"total":25080.00, "CROWN COMMERCIAL SERVICE":25080.00},
+			"2020-08": {"total":25080.00, "CROWN COMMERCIAL SERVICE":25080.00}
+		}
+	},
+	"1161": {
+		"name": "K GRANGE",
+		"total": 100163.9,
+		"monthly": {
+			"2018-05": {"total":33473.90, "CABINET OFFICE":33473.90},
+			"2018-09": {"total":66690.00, "CABINET OFFICE":66690.00}
+		}
+	},
+	"1162": {
 		"name": "K HOLLAND",
 		"total": 27800,
 		"monthly": {
 			"2020-08": {"total":27800.00, "CABINET OFFICE":27800.00}
 		}
 	},
-	"1151": {
+	"1163": {
 		"name": "K SZKOLA",
 		"total": 215971.8,
 		"monthly": {
 			"2012-03": {"total":215971.80, "Cabinet Office":215971.80}
 		}
 	},
-	"1152": {
+	"1164": {
 		"name": "KABLE BUSINESS INTEL",
 		"total": 30000,
 		"monthly": {
 			"2017-04": {"total":30000.00, "CROWN COMMERCIAL SERVICE":30000.00}
 		}
 	},
-	"1153": {
+	"1165": {
 		"name": "KABLE GUARDIAN NEWS & MEDIA LTD",
 		"total": 59880,
 		"monthly": {
 			"2012-01": {"total":59880.00, "Cabinet Office":59880.00}
 		}
 	},
-	"1154": {
+	"1166": {
 		"name": "KAINOS SOFTWARE LTD",
 		"total": 9511088.38,
 		"monthly": {
@@ -103,14 +284,14 @@
 			"2020-07": {"total":25666.08, "CABINET OFFICE":25666.08}
 		}
 	},
-	"1155": {
+	"1167": {
 		"name": "KAINOS UK",
 		"total": 29147.34,
 		"monthly": {
 			"2016-10": {"total":29147.34, "CABINET OFFICE":29147.34}
 		}
 	},
-	"1156": {
+	"1168": {
 		"name": "KAINOS WORKSMART LTD",
 		"total": 278275.72,
 		"monthly": {
@@ -121,7 +302,7 @@
 			"2018-09": {"total":82133.43, "CROWN COMMERCIAL SERVICE":82133.43}
 		}
 	},
-	"1157": {
+	"1169": {
 		"name": "KANTAR MEDIA",
 		"total": 285621.76,
 		"monthly": {
@@ -132,22 +313,23 @@
 			"2020-06": {"total":69457.50, "CABINET OFFICE":69457.50}
 		}
 	},
-	"1158": {
+	"1170": {
 		"name": "KANTAR UK LTD",
-		"total": 551674,
+		"total": 645270,
 		"monthly": {
 			"2020-06": {"total":369234.00, "CABINET OFFICE":369234.00},
-			"2020-08": {"total":182440.00, "CABINET OFFICE":182440.00}
+			"2020-08": {"total":182440.00, "CABINET OFFICE":182440.00},
+			"2020-10": {"total":93596.00, "CABINET OFFICE":93596.00}
 		}
 	},
-	"1159": {
+	"1171": {
 		"name": "KANTARA INITIATIVE",
 		"total": 35000,
 		"monthly": {
 			"2015-04": {"total":35000.00, "CABINET OFFICE":35000.00}
 		}
 	},
-	"1160": {
+	"1172": {
 		"name": "KARMA NIRVANA",
 		"total": 84143,
 		"monthly": {
@@ -156,21 +338,21 @@
 			"2017-01": {"total":28047.00, "CABINET OFFICE":28047.00}
 		}
 	},
-	"1161": {
+	"1173": {
 		"name": "KATE GRANGE QC",
 		"total": 36286.42,
 		"monthly": {
 			"2018-06": {"total":36286.42, "CABINET OFFICE":36286.42}
 		}
 	},
-	"1162": {
+	"1174": {
 		"name": "KCOM GROUP PLC",
 		"total": 78480,
 		"monthly": {
 			"2019-11": {"total":78480.00, "CABINET OFFICE":78480.00}
 		}
 	},
-	"1163": {
+	"1175": {
 		"name": "KELWAY UK LTD",
 		"total": 142894.11,
 		"monthly": {
@@ -178,7 +360,7 @@
 			"2014-09": {"total":63113.30, "CABINET OFFICE":63113.30}
 		}
 	},
-	"1164": {
+	"1176": {
 		"name": "KENT COUNTY COUNCIL",
 		"total": 883000,
 		"monthly": {
@@ -189,21 +371,21 @@
 			"2019-05": {"total":225000.00, "CABINET OFFICE":225000.00}
 		}
 	},
-	"1165": {
+	"1177": {
 		"name": "KENT SURREY & SUSSEX AIR AMBULANCE",
 		"total": 1500000,
 		"monthly": {
 			"2015-12": {"total":1500000.00, "CABINET OFFICE":1500000.00}
 		}
 	},
-	"1166": {
+	"1178": {
 		"name": "KEROSS CONSULTING LTD",
 		"total": 82356,
 		"monthly": {
 			"2010-05": {"total":82356.00, "Cabinet Office":82356.00}
 		}
 	},
-	"1167": {
+	"1179": {
 		"name": "KETTERING BOROUGH COUNCIL",
 		"total": 187649.75,
 		"monthly": {
@@ -212,7 +394,7 @@
 			"2017-09": {"total":48558.00, "CABINET OFFICE":48558.00}
 		}
 	},
-	"1168": {
+	"1180": {
 		"name": "KEYTREE LTD",
 		"alternate-names": [
 			"KEYTREE LIMITED"
@@ -223,7 +405,7 @@
 			"2019-07": {"total":26001.00, "CROWN COMMERCIAL SERVICE":26001.00}
 		}
 	},
-	"1169": {
+	"1181": {
 		"name": "KIDS COMPANY",
 		"total": 5000000,
 		"monthly": {
@@ -235,7 +417,7 @@
 			"2014-12": {"total":1000000.00, "CABINET OFFICE":1000000.00}
 		}
 	},
-	"1170": {
+	"1182": {
 		"name": "KINDRED AGENCY LTD",
 		"total": 119931.36,
 		"monthly": {
@@ -244,7 +426,7 @@
 			"2017-04": {"total":27300.00, "CROWN COMMERCIAL SERVICE":27300.00}
 		}
 	},
-	"1171": {
+	"1183": {
 		"name": "KING STURGE LLP",
 		"total": 2061986.39,
 		"monthly": {
@@ -257,14 +439,14 @@
 			"2011-12": {"total":303600.00, "Cabinet Office":303600.00}
 		}
 	},
-	"1172": {
+	"1184": {
 		"name": "KING SURGE LLP",
 		"total": 253000,
 		"monthly": {
 			"2010-04": {"total":253000.00, "CABINET OFFICE":253000.00}
 		}
 	},
-	"1173": {
+	"1185": {
 		"name": "KINGS COLLEGE",
 		"total": 137000,
 		"monthly": {
@@ -275,14 +457,14 @@
 			"2017-02": {"total":30000.00, "CABINET OFFICE":30000.00}
 		}
 	},
-	"1174": {
+	"1186": {
 		"name": "KINGS COLLEGE GUILDFORD",
 		"total": 30000,
 		"monthly": {
 			"2015-02": {"total":30000.00, "CABINET OFFICE":30000.00}
 		}
 	},
-	"1175": {
+	"1187": {
 		"name": "KINGS COLLEGE LONDON",
 		"total": 105500,
 		"monthly": {
@@ -290,7 +472,7 @@
 			"2020-04": {"total":80000.00, "CABINET OFFICE":80000.00}
 		}
 	},
-	"1176": {
+	"1188": {
 		"name": "KINGS LYNN & WEST NORFOLK BOROUGH COUNCIL",
 		"total": 132701.88,
 		"monthly": {
@@ -299,7 +481,7 @@
 			"2016-08": {"total":44805.88, "CABINET OFFICE":44805.88}
 		}
 	},
-	"1177": {
+	"1189": {
 		"name": "KINGSTON UPON HULL CITY COUNCIL",
 		"total": 519038.34,
 		"monthly": {
@@ -312,14 +494,14 @@
 			"2020-06": {"total":51303.37, "CABINET OFFICE":51303.37}
 		}
 	},
-	"1178": {
+	"1190": {
 		"name": "KIRKLEES METROPOLITAN BOROUGH COUNCIL",
 		"total": 53923.5,
 		"monthly": {
 			"2017-09": {"total":53923.50, "CABINET OFFICE":53923.50}
 		}
 	},
-	"1179": {
+	"1191": {
 		"name": "KNOCK KNOCK PRODUCTIONS LTD",
 		"total": 95265.01,
 		"monthly": {
@@ -328,7 +510,7 @@
 			"2015-01": {"total":39201.29, "CABINET OFFICE":39201.29}
 		}
 	},
-	"1180": {
+	"1192": {
 		"name": "KNOWSLEY METROPOLITIAN BOROUGH COUNCIL",
 		"total": 436532.77,
 		"monthly": {
@@ -342,7 +524,7 @@
 			"2019-08": {"total":57294.44, "CABINET OFFICE":57294.44}
 		}
 	},
-	"1181": {
+	"1193": {
 		"name": "KORN FERRY",
 		"total": 802926.85,
 		"monthly": {
@@ -352,7 +534,7 @@
 			"2020-05": {"total":26085.85, "CABINET OFFICE":26085.85}
 		}
 	},
-	"1182": {
+	"1194": {
 		"name": "KORN FERRY HAY GROUP",
 		"total": 310817.6,
 		"monthly": {
@@ -363,15 +545,16 @@
 			"2018-11": {"total":118676.00, "CABINET OFFICE":118676.00}
 		}
 	},
-	"1183": {
+	"1195": {
 		"name": "KORN FERRY HAY GROUP - A/C FUTURESTEP (UK) LTD",
-		"total": 298326.76,
+		"total": 329954.79,
 		"monthly": {
 			"2019-05": {"total":223429.12, "CABINET OFFICE":223429.12},
-			"2019-10": {"total":74897.64, "CABINET OFFICE":74897.64}
+			"2019-10": {"total":74897.64, "CABINET OFFICE":74897.64},
+			"2020-11": {"total":31628.03, "CABINET OFFICE":31628.03}
 		}
 	},
-	"1184": {
+	"1196": {
 		"name": "KORN FERRY HAY GROUP LTD",
 		"total": 656509.92,
 		"monthly": {
@@ -382,7 +565,7 @@
 			"2018-04": {"total":56849.00, "CABINET OFFICE":56849.00}
 		}
 	},
-	"1185": {
+	"1197": {
 		"name": "KORN FERRY INTERNATIONAL LTD",
 		"total": 187200,
 		"monthly": {
@@ -393,12 +576,12 @@
 			"2016-06": {"total":26400.00, "CABINET OFFICE":26400.00}
 		}
 	},
-	"1186": {
+	"1198": {
 		"name": "KORN FERRY UK LTD",
 		"alternate-names": [
 			"KORN FERRY UK LIMITED"
 		],
-		"total": 4450679.44,
+		"total": 4495740.14,
 		"monthly": {
 			"2019-01": {"total":464382.83, "CABINET OFFICE":464382.83},
 			"2019-03": {"total":41505.00, "CABINET OFFICE":41505.00},
@@ -415,15 +598,16 @@
 			"2020-03": {"total":91453.47, "CABINET OFFICE":91453.47},
 			"2020-04": {"total":67415.53, "CABINET OFFICE":67415.53},
 			"2020-06": {"total":414613.77, "CABINET OFFICE":414613.77},
-			"2020-07": {"total":109576.19, "CABINET OFFICE":109576.19}
+			"2020-07": {"total":109576.19, "CABINET OFFICE":109576.19},
+			"2020-10": {"total":45060.70, "CABINET OFFICE":45060.70}
 		}
 	},
-	"1187": {
+	"1199": {
 		"name": "KPMG LLP",
 		"alternate-names": [
 			"KPMG"
 		],
-		"total": 6869682.02,
+		"total": 6947942.02,
 		"monthly": {
 			"2010-07": {"total":82966.18, "Cabinet Office":82966.18},
 			"2012-04": {"total":149376.00, "Cabinet Office":149376.00},
@@ -460,130 +644,8 @@
 			"2019-12": {"total":732000.00, "CABINET OFFICE":732000.00},
 			"2020-03": {"total":68105.00, "CABINET OFFICE":68105.00},
 			"2020-08": {"total":78260.00, "CABINET OFFICE":78260.00},
-			"2020-09": {"total":1252160.00, "CABINET OFFICE":1252160.00}
-		}
-	},
-	"1188": {
-		"name": "KUEHNE & NAGEL LTD",
-		"total": 611989.82,
-		"monthly": {
-			"2020-06": {"total":565976.25, "CABINET OFFICE":565976.25},
-			"2020-08": {"total":46013.57, "CABINET OFFICE":46013.57}
-		}
-	},
-	"1189": {
-		"name": "Kainos Worksmart Ltd",
-		"total": 1115484.33,
-		"monthly": {
-			"2018-11": {"total":96516.07, "Crown Commercial Service":96516.07},
-			"2019-01": {"total":95401.30, "Crown Commercial Service":95401.30},
-			"2019-03": {"total":134382.00, "Crown Commercial Service":134382.00},
-			"2019-05": {"total":438645.99, "Crown Commercial Service":438645.99},
-			"2019-09": {"total":56337.07, "Crown Commercial Service":56337.07},
-			"2019-11": {"total":30081.90, "Crown Commercial Service":30081.90},
-			"2020-06": {"total":225720.00, "CROWN COMMERCIAL SERVICE":225720.00},
-			"2020-09": {"total":38400.00, "CROWN COMMERCIAL SERVICE":38400.00}
-		}
-	},
-	"1190": {
-		"name": "Keytree",
-		"total": 28760,
-		"monthly": {
-			"2020-03": {"total":28760.00, "Government Property Agency":28760.00}
-		}
-	},
-	"1191": {
-		"name": "Keytree Ltd",
-		"alternate-names": [
-			"Keytree Limited"
-		],
-		"total": 215283,
-		"monthly": {
-			"2019-01": {"total":163281.00, "Crown Commercial Service":163281.00},
-			"2019-06": {"total":52002.00, "Crown Commercial Service":52002.00}
-		}
-	},
-	"1192": {
-		"name": "Kingston University",
-		"total": 33000,
-		"monthly": {
-			"2011-05": {"total":33000.00, "National School of Government":33000.00}
-		}
-	},
-	"1193": {
-		"name": "Kingswood Foundation Ltd",
-		"alternate-names": [
-			"Kingswood Foundation Limited"
-		],
-		"total": 48702.5,
-		"monthly": {
-			"2010-07": {"total":48702.50, "Capacity Builders":48702.50}
-		}
-	},
-	"1194": {
-		"name": "Kirklees Council",
-		"alternate-names": [
-			"KIRKLEES COUNCIL",
-			"KIRKLEES METROPOLITAN COUNCIL"
-		],
-		"total": 984568.51,
-		"monthly": {
-			"2014-02": {"total":26250.00, "CABINET OFFICE":26250.00},
-			"2014-04": {"total":143504.00, "CABINET OFFICE":143504.00},
-			"2015-01": {"total":44453.76, "CABINET OFFICE":44453.76},
-			"2015-04": {"total":113416.00, "CABINET OFFICE":113416.00},
-			"2016-04": {"total":254966.25, "CABINET OFFICE":254966.25},
-			"2016-05": {"total":83161.05, "CABINET OFFICE":83161.05},
-			"2016-07": {"total":98000.00, "CABINET OFFICE":98000.00},
-			"2016-10": {"total":104315.25, "CABINET OFFICE":104315.25},
-			"2018-07": {"total":59744.72, "CABINET OFFICE":59744.72},
-			"2019-08": {"total":56757.48, "CABINET OFFICE":56757.48}
-		}
-	},
-	"1195": {
-		"name": "Konica Minolta Business Solutions (UK) Ltd",
-		"alternate-names": [
-			"Konica Minolta Business Solutions (UK) Limited"
-		],
-		"total": 76222,
-		"monthly": {
-			"2020-04": {"total":76222.00, "Government Property Agency":76222.00}
-		}
-	},
-	"1196": {
-		"name": "Korn Ferry International Ltd",
-		"total": 55000,
-		"monthly": {
-			"2014-12": {"total":55000.00, "Crown Commercial Service":55000.00}
-		}
-	},
-	"1197": {
-		"name": "LA INTERNATIONAL",
-		"total": 144869.09,
-		"monthly": {
-			"2014-11": {"total":60000.00, "CABINET OFFICE":60000.00},
-			"2015-09": {"total":36965.21, "CABINET OFFICE":36965.21},
-			"2017-01": {"total":47903.88, "CABINET OFFICE":47903.88}
-		}
-	},
-	"1198": {
-		"name": "LA INTERNATIONAL COMPUTER CONSULTANTS LTD",
-		"total": 314616.15,
-		"monthly": {
-			"2012-01": {"total":85207.88, "Cabinet Office":85207.88},
-			"2012-04": {"total":71966.40, "Cabinet Office":71966.40},
-			"2014-07": {"total":38047.54, "CABINET OFFICE":38047.54},
-			"2016-10": {"total":30551.47, "CABINET OFFICE":30551.47},
-			"2017-05": {"total":88842.86, "CABINET OFFICE":88842.86}
-		}
-	},
-	"1199": {
-		"name": "LA INTERNATIONAL-2WM",
-		"total": 90007.12,
-		"monthly": {
-			"2019-06": {"total":30666.82, "CABINET OFFICE":30666.82},
-			"2019-09": {"total":26666.80, "CABINET OFFICE":26666.80},
-			"2020-08": {"total":32673.50, "CABINET OFFICE":32673.50}
+			"2020-09": {"total":1252160.00, "CABINET OFFICE":1252160.00},
+			"2020-10": {"total":78260.00, "CABINET OFFICE":78260.00}
 		}
 	}
 	}

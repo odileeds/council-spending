@@ -1,28 +1,556 @@
 {
-	"range": ["2010-12","2020-08"],
+	"range": ["2010-12","2020-10"],
 	"data": {
 	"4650": {
+		"name": "LITTLE KICKERS NEWCASTLE & GATESHEAD WEST",
+		"total": 37625,
+		"monthly": {
+			"2015-01": {"total":600.00, "Care, Wellbeing & Learning":600.00},
+			"2015-03": {"total":700.00, "Care, Wellbeing & Learning":700.00},
+			"2015-06": {"total":1787.50, "Care, Wellbeing & Learning":1787.50},
+			"2015-08": {"total":937.50, "Care, Wellbeing & Learning":937.50},
+			"2015-11": {"total":650.00, "Care, Wellbeing & Learning":650.00},
+			"2016-01": {"total":1550.00, "Care, Wellbeing & Learning":1550.00},
+			"2016-02": {"total":1150.00, "Care, Wellbeing & Learning":1150.00},
+			"2016-03": {"total":2300.00, "Care, Wellbeing & Learning":2300.00},
+			"2016-04": {"total":872.50, "Care, Wellbeing & Learning":872.50},
+			"2016-06": {"total":1840.00, "Care, Wellbeing & Learning":1840.00},
+			"2016-07": {"total":1320.00, "Care, Wellbeing & Learning":1320.00},
+			"2016-12": {"total":650.00, "Care, Wellbeing & Learning":650.00},
+			"2017-03": {"total":960.00, "Care, Wellbeing & Learning":960.00},
+			"2017-05": {"total":1067.00, "Care, Wellbeing & Learning":1067.00},
+			"2017-07": {"total":1383.00, "Care, Wellbeing & Learning":1383.00},
+			"2017-10": {"total":600.00, "Care, Wellbeing & Learning":600.00},
+			"2017-12": {"total":1412.50, "Care, Wellbeing & Learning":1412.50},
+			"2018-02": {"total":1842.50, "Care, Wellbeing & Learning":1842.50},
+			"2018-03": {"total":1442.50, "Care, Wellbeing & Learning":1442.50},
+			"2018-05": {"total":1497.50, "Care, Wellbeing & Learning":1497.50},
+			"2018-06": {"total":1397.50, "Care, Wellbeing & Learning":1397.50},
+			"2018-10": {"total":710.00, "Care, Wellbeing & Learning":710.00},
+			"2018-12": {"total":875.00, "Care, Wellbeing & Learning":875.00},
+			"2019-02": {"total":925.00, "Care, Wellbeing & Learning":925.00},
+			"2019-03": {"total":1510.00, "Care, Wellbeing & Learning":1510.00},
+			"2019-06": {"total":750.00, "Care, Wellbeing & Learning":750.00},
+			"2019-08": {"total":870.00, "Care, Wellbeing & Learning":870.00},
+			"2019-10": {"total":1185.00, "Care, Wellbeing & Learning":1185.00},
+			"2019-12": {"total":2690.00, "Children, Adults and Families":2690.00},
+			"2020-02": {"total":1350.00, "Care, Wellbeing & Learning":1350.00},
+			"2020-04": {"total":800.00, "Care, Wellbeing & Learning":800.00}
+		}
+	},
+	"4651": {
+		"name": "LITTLE LEARNERS",
+		"total": 1000,
+		"monthly": {
+			"2020-09": {"total":1000.00, "Economy, Innovation and Growth":1000.00}
+		}
+	},
+	"4652": {
+		"name": "LITTLE TIGER TOTS",
+		"total": 1540,
+		"monthly": {
+			"2015-05": {"total":1540.00, "Care, Wellbeing & Learning":1540.00}
+		}
+	},
+	"4653": {
+		"name": "LITTLE TREASURES",
+		"total": 4500,
+		"monthly": {
+			"2016-08": {"total":3000.00, "Care, Wellbeing & Learning":3000.00},
+			"2017-08": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
+		}
+	},
+	"4654": {
+		"name": "LIVABILITY",
+		"total": 1056057.3,
+		"monthly": {
+			"2018-12": {"total":46156.17, "Care, Wellbeing & Learning":46156.17},
+			"2019-01": {"total":2879.40, "Care, Wellbeing & Learning":2879.40},
+			"2019-02": {"total":21852.77, "Care, Wellbeing & Learning":21852.77},
+			"2019-03": {"total":9541.80, "Care, Wellbeing & Learning":9541.80},
+			"2019-04": {"total":9394.72, "Care, Wellbeing & Learning":9394.72},
+			"2019-05": {"total":19346.61, "Care, Wellbeing & Learning":19346.61},
+			"2019-06": {"total":23078.35, "Care, Wellbeing & Learning":23078.35},
+			"2019-07": {"total":48920.97, "Care, Wellbeing & Learning":48920.97},
+			"2019-09": {"total":79098.31, "Care, Wellbeing & Learning":79098.31},
+			"2019-10": {"total":65499.35, "Care, Wellbeing & Learning":65499.35},
+			"2019-11": {"total":38294.94, "Care, Wellbeing & Learning":38294.94},
+			"2019-12": {"total":54083.69, "Children, Adults and Families":54083.69},
+			"2020-01": {"total":43113.38, "Care, Wellbeing & Learning":43113.38},
+			"2020-02": {"total":45415.40, "Care, Wellbeing & Learning":45415.40},
+			"2020-03": {"total":47851.64, "Care, Wellbeing & Learning":47851.64},
+			"2020-04": {"total":102083.54, "Care, Wellbeing & Learning":102083.54},
+			"2020-05": {"total":82046.48, "Children, Adults and Families":82046.48},
+			"2020-06": {"total":2706.53, "Children, Adults and Families":2706.53},
+			"2020-07": {"total":118144.75, "Children, Adults and Families":118144.75},
+			"2020-09": {"total":122557.64, "Children, Adults and Families":122557.64},
+			"2020-10": {"total":73990.86, "Children, Adults and Families":73990.86}
+		}
+	},
+	"4655": {
+		"name": "LIVEHERE LTD",
+		"alternate-names": [
+			"LIVEHERE LIMITED"
+		],
+		"total": 4870,
+		"monthly": {
+			"2018-07": {"total":4870.00, "Care, Wellbeing & Learning":4870.00}
+		}
+	},
+	"4656": {
+		"name": "LIVERPOOL CITY COUNCIL",
+		"total": 599.85,
+		"monthly": {
+			"2013-10": {"total":599.85, "Learning and Children":599.85}
+		}
+	},
+	"4657": {
+		"name": "LIVING MINDFULLY",
+		"total": 18416.66,
+		"monthly": {
+			"2016-12": {"total":416.66, "Care, Wellbeing & Learning":416.66},
+			"2017-01": {"total":18000.00, "Care, Wellbeing & Learning":18000.00}
+		}
+	},
+	"4658": {
+		"name": "LIVING MINDFULLY TRAINING LTD",
+		"total": 21420,
+		"monthly": {
+			"2017-11": {"total":9765.00, "Care, Wellbeing & Learning":9765.00},
+			"2018-02": {"total":8360.00, "Care, Wellbeing & Learning":8360.00},
+			"2018-05": {"total":3295.00, "Care, Wellbeing & Learning":3295.00}
+		}
+	},
+	"4659": {
+		"name": "LIVINGSTONE MEDICAL",
+		"total": 905,
+		"monthly": {
+			"2014-05": {"total":905.00, "Community Based Services":905.00}
+		}
+	},
+	"4660": {
+		"name": "LJB CONSTRUCTION NE LTD",
+		"total": 169913.78,
+		"monthly": {
+			"2016-02": {"total":13537.56, "Communities & Enviroment":13537.56},
+			"2016-05": {"total":15469.60, "Communities & Enviroment":15469.60},
+			"2018-01": {"total":7546.84, "Communities & Enviroment":7546.84},
+			"2018-05": {"total":104768.52, "Policy, Economic Growth and Transformation":9805.29, "Communities & Enviroment":94963.23},
+			"2018-07": {"total":28591.26, "Communities & Enviroment":28591.26}
+		}
+	},
+	"4661": {
+		"name": "LLG ENTERPRISES LIMITED T/A LLG LEGAL TRAINING",
+		"total": 1042.75,
+		"monthly": {
+			"2015-10": {"total":430.00, "Corporate Services & Governance":430.00},
+			"2018-02": {"total":612.75, "Corporate Services & Governance":612.75}
+		}
+	},
+	"4662": {
+		"name": "LLOYD & JONES ENGINEERS LTD T/A PROCTORS",
+		"total": 7191.67,
+		"monthly": {
+			"2018-06": {"total":472.43, "Communities & Environment":472.43},
+			"2019-08": {"total":5879.75, "Communities & Environment":5879.75},
+			"2019-10": {"total":839.49, "Communities & Environment":839.49}
+		}
+	},
+	"4663": {
+		"name": "LLOYD LTD",
+		"total": 98110.98,
+		"monthly": {
+			"2011-11": {"total":515.20, "Development & Enterprise":515.20},
+			"2012-03": {"total":44400.00, "Local Environmental Services":44400.00},
+			"2012-07": {"total":390.48, "Local Environmental Services":390.48},
+			"2013-02": {"total":29100.00, "Local Environmental Services":29100.00},
+			"2013-03": {"total":7700.00, "Local Environmental Services":7700.00},
+			"2013-10": {"total":683.64, "Local Environmental Services":683.64},
+			"2016-03": {"total":14112.00, "Communities & Enviroment":14112.00},
+			"2016-08": {"total":1209.66, "Communities & Enviroment":520.00, "Communities & Environment":689.66}
+		}
+	},
+	"4664": {
+		"name": "LLOYD WORRALL LTD",
+		"total": 170859.6,
+		"monthly": {
+			"2011-08": {"total":21023.03, "Local Environmental Services":21023.03},
+			"2011-10": {"total":5459.52, "Local Environmental Services":5459.52},
+			"2011-11": {"total":25639.92, "Local Environmental Services":25639.92},
+			"2012-01": {"total":48831.91, "Local Environmental Services":48831.91},
+			"2012-02": {"total":19731.41, "Local Environmental Services":19731.41},
+			"2012-03": {"total":8778.57, "Local Environmental Services":8778.57},
+			"2012-04": {"total":29565.76, "Local Environmental Services":29565.76},
+			"2012-05": {"total":414.42, "Local Environmental Services":414.42},
+			"2012-06": {"total":2313.45, "Local Environmental Services":2313.45},
+			"2012-07": {"total":4264.11, "Local Environmental Services":4264.11},
+			"2016-03": {"total":432.00, "Communities & Environment":432.00},
+			"2016-04": {"total":401.60, "Communities & Environment":401.60},
+			"2016-05": {"total":401.60, "Communities & Environment":401.60},
+			"2016-08": {"total":560.00, "Communities & Environment":560.00},
+			"2016-10": {"total":764.00, "Communities & Environment":764.00},
+			"2017-03": {"total":620.00, "Communities & Environment":620.00},
+			"2019-07": {"total":866.00, "Corporate Resources":866.00},
+			"2019-10": {"total":792.30, "Corporate Resources":792.30}
+		}
+	},
+	"4665": {
+		"name": "LLOYD'S REGISTER QUALITY ASSURANCE LTD",
+		"total": 55800.5,
+		"monthly": {
+			"2015-02": {"total":2494.95, "Communities & Enviroment":2494.95},
+			"2015-03": {"total":3353.10, "Communities & Enviroment":3353.10},
+			"2015-04": {"total":829.00, "Communities & Enviroment":829.00},
+			"2015-09": {"total":852.65, "Communities & Environment":852.65},
+			"2016-03": {"total":3424.00, "Communities & Environment":3424.00},
+			"2017-02": {"total":4370.35, "Communities & Environment":4370.35},
+			"2017-03": {"total":2639.65, "Communities & Environment":2639.65},
+			"2018-02": {"total":4336.80, "Corporate Resources":4336.80},
+			"2018-04": {"total":3860.00, "Corporate Resources":3860.00},
+			"2018-10": {"total":11580.00, "Corporate Resources":11580.00},
+			"2019-03": {"total":5970.00, "Corporate Resources":5970.00},
+			"2019-10": {"total":5970.00, "Corporate Resources":5970.00},
+			"2020-02": {"total":6120.00, "Corporate Resources":6120.00}
+		}
+	},
+	"4666": {
+		"name": "LLOYDS BANK",
+		"total": 1184.36,
+		"monthly": {
+			"2014-02": {"total":1184.36, "Development & Enterprise":1184.36}
+		}
+	},
+	"4667": {
+		"name": "LLOYDS PHARMACY",
+		"total": 398646.21,
+		"monthly": {
+			"2013-05": {"total":1207.50, "Community Based Services":1207.50},
+			"2013-06": {"total":5030.64, "Community Based Services":5030.64},
+			"2013-07": {"total":16177.12, "Community Based Services":16177.12},
+			"2013-09": {"total":12140.38, "Community Based Services":12140.38},
+			"2013-10": {"total":14373.42, "Community Based Services":14373.42},
+			"2013-11": {"total":11141.47, "Community Based Services":11141.47},
+			"2013-12": {"total":503.00, "Community Based Services":503.00},
+			"2014-01": {"total":15595.87, "Community Based Services":15595.87},
+			"2014-02": {"total":6094.02, "Community Based Services":6094.02},
+			"2014-03": {"total":3414.94, "Community Based Services":3414.94},
+			"2014-04": {"total":12760.42, "Community Based Services":12760.42},
+			"2014-05": {"total":2865.72, "Community Based Services":2865.72},
+			"2014-06": {"total":4266.79, "Community Based Services":4266.79},
+			"2014-07": {"total":8164.76, "Community Based Services":8164.76},
+			"2014-09": {"total":7754.72, "Community Based Services":7754.72},
+			"2014-10": {"total":4604.03, "Community Based Services":4604.03},
+			"2014-11": {"total":5567.81, "Care, Wellbeing & Learning":5567.81},
+			"2014-12": {"total":3308.82, "Care, Wellbeing & Learning":3308.82},
+			"2015-01": {"total":4593.85, "Care, Wellbeing & Learning":4593.85},
+			"2015-02": {"total":4312.80, "Care, Wellbeing & Learning":4312.80},
+			"2015-03": {"total":5639.27, "Care, Wellbeing & Learning":5639.27},
+			"2015-04": {"total":3324.52, "Care, Wellbeing & Learning":3324.52},
+			"2015-05": {"total":6504.65, "Care, Wellbeing & Learning":6504.65},
+			"2015-06": {"total":4245.79, "Care, Wellbeing & Learning":4245.79},
+			"2015-07": {"total":3903.47, "Care, Wellbeing & Learning":3903.47},
+			"2015-08": {"total":4702.21, "Care, Wellbeing & Learning":4702.21},
+			"2015-09": {"total":5914.47, "Care, Wellbeing & Learning":5914.47},
+			"2015-10": {"total":3424.82, "Care, Wellbeing & Learning":3424.82},
+			"2015-11": {"total":5956.06, "Care, Wellbeing & Learning":5956.06},
+			"2015-12": {"total":3219.19, "Care, Wellbeing & Learning":3219.19},
+			"2016-01": {"total":4366.82, "Care, Wellbeing & Learning":4366.82},
+			"2016-02": {"total":3432.57, "Care, Wellbeing & Learning":3432.57},
+			"2016-03": {"total":3745.79, "Care, Wellbeing & Learning":3745.79},
+			"2016-04": {"total":4175.50, "Care, Wellbeing & Learning":4175.50},
+			"2016-05": {"total":6421.96, "Care, Wellbeing & Learning":6421.96},
+			"2016-06": {"total":3606.20, "Care, Wellbeing & Learning":3606.20},
+			"2016-07": {"total":10215.87, "Care, Wellbeing & Learning":10215.87},
+			"2016-08": {"total":3341.52, "Care, Wellbeing & Learning":3341.52},
+			"2016-09": {"total":4118.29, "Care, Wellbeing & Learning":4118.29},
+			"2016-10": {"total":5779.55, "Care, Wellbeing & Learning":5779.55},
+			"2016-11": {"total":4768.34, "Care, Wellbeing & Learning":4768.34},
+			"2016-12": {"total":3430.69, "Care, Wellbeing & Learning":3430.69},
+			"2017-01": {"total":3565.62, "Care, Wellbeing & Learning":3565.62},
+			"2017-02": {"total":3822.62, "Care, Wellbeing & Learning":3822.62},
+			"2017-03": {"total":3628.87, "Care, Wellbeing & Learning":3628.87},
+			"2017-04": {"total":2890.67, "Care, Wellbeing & Learning":2890.67},
+			"2017-05": {"total":2405.15, "Care, Wellbeing & Learning":2405.15},
+			"2017-06": {"total":3944.11, "Care, Wellbeing & Learning":3944.11},
+			"2017-07": {"total":3096.76, "Care, Wellbeing & Learning":3096.76},
+			"2017-08": {"total":5922.43, "Care, Wellbeing & Learning":5922.43},
+			"2017-09": {"total":5369.77, "Care, Wellbeing & Learning":5369.77},
+			"2017-10": {"total":2013.42, "Care, Wellbeing & Learning":2013.42},
+			"2017-11": {"total":1312.32, "Care, Wellbeing & Learning":1312.32},
+			"2017-12": {"total":6547.76, "Care, Wellbeing & Learning":6547.76},
+			"2018-01": {"total":3739.29, "Care, Wellbeing & Learning":3739.29},
+			"2018-02": {"total":3976.92, "Care, Wellbeing & Learning":3976.92},
+			"2018-03": {"total":2675.63, "Care, Wellbeing & Learning":2675.63},
+			"2018-04": {"total":4544.97, "Care, Wellbeing & Learning":4544.97},
+			"2018-05": {"total":5776.22, "Care, Wellbeing & Learning":5776.22},
+			"2018-06": {"total":4069.63, "Care, Wellbeing & Learning":4069.63},
+			"2018-07": {"total":4731.82, "Care, Wellbeing & Learning":4731.82},
+			"2018-08": {"total":3975.82, "Care, Wellbeing & Learning":3975.82},
+			"2018-09": {"total":2336.84, "Care, Wellbeing & Learning":2336.84},
+			"2018-10": {"total":4124.19, "Care, Wellbeing & Learning":4124.19},
+			"2018-11": {"total":3481.68, "Care, Wellbeing & Learning":3481.68},
+			"2018-12": {"total":4272.73, "Care, Wellbeing & Learning":4272.73},
+			"2019-01": {"total":3541.29, "Care, Wellbeing & Learning":3541.29},
+			"2019-02": {"total":3390.52, "Care, Wellbeing & Learning":3390.52},
+			"2019-03": {"total":1827.68, "Care, Wellbeing & Learning":1827.68},
+			"2019-04": {"total":4101.49, "Care, Wellbeing & Learning":4101.49},
+			"2019-05": {"total":2613.32, "Care, Wellbeing & Learning":2613.32},
+			"2019-06": {"total":3385.42, "Care, Wellbeing & Learning":3385.42},
+			"2019-07": {"total":2399.00, "Care, Wellbeing & Learning":2399.00},
+			"2019-08": {"total":3224.55, "Care, Wellbeing & Learning":3224.55},
+			"2019-09": {"total":3188.92, "Care, Wellbeing & Learning":3188.92},
+			"2019-10": {"total":2864.51, "Care, Wellbeing & Learning":2864.51},
+			"2019-11": {"total":3361.71, "Care, Wellbeing & Learning":3361.71},
+			"2019-12": {"total":3252.18, "Public Health and Wellbeing":3252.18},
+			"2020-01": {"total":3686.17, "Care, Wellbeing & Learning":3686.17},
+			"2020-02": {"total":4523.91, "Care, Wellbeing & Learning":4523.91},
+			"2020-03": {"total":4377.93, "Care, Wellbeing & Learning":4377.93},
+			"2020-04": {"total":3778.83, "Care, Wellbeing & Learning":3778.83},
+			"2020-05": {"total":877.94, "Public Health and Wellbeing":877.94},
+			"2020-07": {"total":694.65, "Public Health and Wellbeing":694.65},
+			"2020-08": {"total":960.72, "Public Health and Wellbeing":960.72},
+			"2020-09": {"total":974.18, "Public Health and Wellbeing":974.18},
+			"2020-10": {"total":1280.42, "Public Health and Wellbeing":1280.42}
+		}
+	},
+	"4668": {
+		"name": "LLOYDS-IP",
+		"total": 10550.26,
+		"monthly": {
+			"2017-04": {"total":1694.24, "Corporate Resources":1694.24},
+			"2017-12": {"total":1040.08, "Corporate Resources":1040.08},
+			"2018-09": {"total":521.39, "Corporate Resources":521.39},
+			"2018-11": {"total":695.36, "Corporate Resources":695.36},
+			"2019-10": {"total":1051.62, "Corporate Resources":618.42, "Corporate Services & Governance":433.20},
+			"2019-11": {"total":583.75, "Corporate Resources":583.75},
+			"2019-12": {"total":528.47, "Resources and Digital":528.47},
+			"2020-01": {"total":4435.35, "Corporate Resources":4435.35}
+		}
+	},
+	"4669": {
+		"name": "LM ALARMS",
+		"total": 837.52,
+		"monthly": {
+			"2020-02": {"total":837.52, "Care, Wellbeing & Learning":837.52}
+		}
+	},
+	"4670": {
+		"name": "LMS MUSIC SUPPLIES",
+		"total": 1840.25,
+		"monthly": {
+			"2014-10": {"total":1840.25, "Learning and Children":1840.25}
+		}
+	},
+	"4671": {
+		"name": "LOADBALANCER.ORG LTD",
+		"alternate-names": [
+			"LOADBALANCER.ORG LIMITED"
+		],
+		"total": 995,
+		"monthly": {
+			"2012-01": {"total":995.00, "Central Services":995.00}
+		}
+	},
+	"4672": {
+		"name": "LOBLEY HILL COMMUNITY FESTIVAL",
+		"total": 3180,
+		"monthly": {
+			"2012-06": {"total":3180.00, "Community Based Services":3180.00}
+		}
+	},
+	"4673": {
+		"name": "LOBLEY HILL COMMUNITY FESTIVAL COMMITTEE",
+		"total": 5000,
+		"monthly": {
+			"2011-03": {"total":5000.00, "Community Based Services":5000.00}
+		}
+	},
+	"4674": {
+		"name": "LOBLEY HILL LIBRARY VOLUNTEER ASSOCIATION",
+		"total": 1293,
+		"monthly": {
+			"2015-07": {"total":1293.00, "Communities & Environment":1293.00}
+		}
+	},
+	"4675": {
+		"name": "LOBLEY HILL PHARMACY",
+		"total": 51614.99,
+		"monthly": {
+			"2013-07": {"total":1025.12, "Community Based Services":1025.12},
+			"2013-09": {"total":795.46, "Community Based Services":795.46},
+			"2013-10": {"total":572.59, "Community Based Services":572.59},
+			"2013-11": {"total":1090.68, "Community Based Services":1090.68},
+			"2014-01": {"total":2104.07, "Community Based Services":2104.07},
+			"2014-04": {"total":2126.50, "Community Based Services":2126.50},
+			"2014-06": {"total":502.01, "Community Based Services":502.01},
+			"2014-09": {"total":980.30, "Community Based Services":980.30},
+			"2014-11": {"total":632.01, "Care, Wellbeing & Learning":632.01},
+			"2015-01": {"total":922.16, "Care, Wellbeing & Learning":922.16},
+			"2015-02": {"total":4031.56, "Care, Wellbeing & Learning":4031.56},
+			"2015-03": {"total":1321.06, "Care, Wellbeing & Learning":1321.06},
+			"2015-04": {"total":566.04, "Care, Wellbeing & Learning":566.04},
+			"2015-05": {"total":693.25, "Care, Wellbeing & Learning":693.25},
+			"2015-09": {"total":931.55, "Care, Wellbeing & Learning":931.55},
+			"2015-11": {"total":2252.35, "Care, Wellbeing & Learning":2252.35},
+			"2015-12": {"total":1983.00, "Care, Wellbeing & Learning":1983.00},
+			"2016-02": {"total":1571.67, "Care, Wellbeing & Learning":1571.67},
+			"2016-05": {"total":2012.27, "Care, Wellbeing & Learning":2012.27},
+			"2016-09": {"total":2155.91, "Care, Wellbeing & Learning":2155.91},
+			"2017-02": {"total":1275.04, "Care, Wellbeing & Learning":1275.04},
+			"2017-04": {"total":2055.68, "Care, Wellbeing & Learning":2055.68},
+			"2017-07": {"total":1305.00, "Care, Wellbeing & Learning":1305.00},
+			"2017-08": {"total":3324.51, "Care, Wellbeing & Learning":3324.51},
+			"2017-11": {"total":1369.47, "Care, Wellbeing & Learning":1369.47},
+			"2017-12": {"total":1209.06, "Care, Wellbeing & Learning":1209.06},
+			"2018-04": {"total":909.50, "Care, Wellbeing & Learning":909.50},
+			"2018-05": {"total":1583.22, "Care, Wellbeing & Learning":1583.22},
+			"2018-10": {"total":780.80, "Care, Wellbeing & Learning":780.80},
+			"2018-12": {"total":566.76, "Care, Wellbeing & Learning":566.76},
+			"2019-01": {"total":863.00, "Care, Wellbeing & Learning":863.00},
+			"2019-07": {"total":596.00, "Care, Wellbeing & Learning":596.00},
+			"2019-09": {"total":623.59, "Care, Wellbeing & Learning":623.59},
+			"2019-11": {"total":1226.92, "Care, Wellbeing & Learning":1226.92},
+			"2019-12": {"total":3239.04, "Children, Adults and Families":1050.00, "Public Health and Wellbeing":2189.04},
+			"2020-08": {"total":1571.32, "Public Health and Wellbeing":1571.32},
+			"2020-10": {"total":846.52, "Public Health and Wellbeing":846.52}
+		}
+	},
+	"4676": {
+		"name": "LOBLEY HILL PRIMARY SCHOOL",
+		"total": 9553.5,
+		"monthly": {
+			"2012-12": {"total":7553.50, "Community Based Services":7553.50},
+			"2019-01": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2019-08": {"total":1000.00, "Communities & Environment":1000.00},
+			"2019-10": {"total":500.00, "Care, Wellbeing & Learning":500.00}
+		}
+	},
+	"4677": {
+		"name": "LOBLEY HILL YOUTH & COMM. CTR",
+		"alternate-names": [
+			"LOBLEY HILL YOUTH & COMM. CTR."
+		],
+		"total": 155158,
+		"monthly": {
+			"2010-12": {"total":152058.00, "Learning and Children":152058.00},
+			"2011-04": {"total":900.00, "Community Based Services":900.00},
+			"2012-01": {"total":1000.00, "Community Based Services":1000.00},
+			"2013-02": {"total":700.00, "Learning and Children":700.00},
+			"2013-03": {"total":500.00, "Community Based Services":500.00}
+		}
+	},
+	"4678": {
+		"name": "LOCAL AUTHORITY CATERERS ASSOCIATION",
+		"total": 945,
+		"monthly": {
+			"2012-06": {"total":495.00, "Local Environmental Services":495.00},
+			"2016-05": {"total":450.00, "Communities & Environment":450.00}
+		}
+	},
+	"4679": {
+		"name": "LOCAL GOVERNMENT ASSOC",
+		"alternate-names": [
+			"LOCAL GOVERNMENT ASSOC."
+		],
+		"total": 446830.56,
+		"monthly": {
+			"2011-04": {"total":49679.75, "Central Services":49679.75},
+			"2011-09": {"total":1800.00, "Central Services":900.00, "Learning and Children":900.00},
+			"2011-12": {"total":360.00, "Community Based Services":360.00},
+			"2012-05": {"total":49473.67, "Central Services":49473.67},
+			"2012-06": {"total":850.30, "Central Services":850.30},
+			"2012-09": {"total":692.56, "Central Services":692.56},
+			"2013-02": {"total":453.87, "Central Services":453.87},
+			"2013-05": {"total":47492.14, "Central Services":47492.14},
+			"2013-09": {"total":1007.28, "Central Services":1007.28},
+			"2014-04": {"total":46403.14, "Central Services":46403.14},
+			"2014-07": {"total":1726.99, "Central Services":1726.99},
+			"2014-08": {"total":2308.08, "Central Services":2308.08},
+			"2015-02": {"total":4171.66, "Policy, Economic Growth and Transformation":495.00, "Corporate Services & Governance":3676.66},
+			"2015-04": {"total":30473.14, "Corporate Resources":30473.14},
+			"2015-06": {"total":1713.24, "Corporate Services & Governance":1713.24},
+			"2015-10": {"total":1497.00, "Care, Wellbeing & Learning":900.00, "Corporate Resources":597.00},
+			"2015-11": {"total":780.00, "Communities & Environment":780.00},
+			"2015-12": {"total":1737.66, "Corporate Services & Governance":1737.66},
+			"2016-04": {"total":46403.14, "Corporate Resources":46403.14},
+			"2016-06": {"total":1023.46, "Corporate Resources":1023.46},
+			"2016-08": {"total":2378.00, "Corporate Services & Governance":2378.00},
+			"2016-11": {"total":1980.00, "Corporate Services & Governance":1980.00},
+			"2016-12": {"total":398.00, "Corporate Resources":398.00},
+			"2017-01": {"total":481.94, "Corporate Resources":481.94},
+			"2017-02": {"total":3680.00, "Corporate Services & Governance":3680.00},
+			"2017-05": {"total":46403.14, "Corporate Resources":46403.14},
+			"2017-08": {"total":458.00, "Corporate Services & Governance":458.00},
+			"2017-11": {"total":598.00, "Corporate Services & Governance":598.00},
+			"2018-03": {"total":428.00, "Corporate Resources":428.00},
+			"2018-04": {"total":47653.70, "Corporate Resources":47653.70},
+			"2018-06": {"total":1635.00, "Corporate Services & Governance":1635.00},
+			"2019-04": {"total":47653.70, "Corporate Resources":47653.70},
+			"2019-05": {"total":2180.00, "Corporate Services & Governance":2180.00},
+			"2019-06": {"total":428.00, "Corporate Services & Governance":428.00},
+			"2019-08": {"total":428.00, "Corporate Resources":428.00}
+		}
+	},
+	"4680": {
+		"name": "LOCAL GOVERNMENT INFO UNIT",
+		"total": 57880,
+		"monthly": {
+			"2011-03": {"total":16500.00, "Central Services":16500.00},
+			"2012-02": {"total":16500.00, "Central Services":16500.00},
+			"2015-08": {"total":500.00, "Policy, Economic Growth and Transformation":500.00},
+			"2016-08": {"total":3995.00, "Corporate Resources":3995.00},
+			"2017-05": {"total":3995.00, "Corporate Resources":3995.00},
+			"2018-08": {"total":3745.00, "Office of the Chief Executive":3745.00},
+			"2018-12": {"total":5145.00, "Office of the Chief Executive":5145.00},
+			"2020-01": {"total":7500.00, "Corporate Resources":7500.00}
+		}
+	},
+	"4681": {
+		"name": "LOCAL GOVERNMENT INFORMATION HOUSE",
+		"total": 4154.82,
+		"monthly": {
+			"2011-03": {"total":4154.82, "Community Based Services":4154.82}
+		}
+	},
+	"4682": {
+		"name": "LOCAL GOVERNMENT OMBUDSMAN",
+		"total": 14175,
+		"monthly": {
+			"2011-04": {"total":1025.00, "Central Services":1025.00},
+			"2011-07": {"total":1025.00, "Community Based Services":1025.00},
+			"2012-08": {"total":1025.00, "Community Based Services":1025.00},
+			"2013-02": {"total":1025.00, "Central Services":1025.00},
+			"2013-08": {"total":1025.00, "Central Services":1025.00},
+			"2014-10": {"total":2150.00, "Central Services":2150.00},
+			"2016-11": {"total":1100.00, "Corporate Services & Governance":1100.00},
+			"2017-03": {"total":2200.00, "Corporate Services & Governance":2200.00},
+			"2018-10": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2019-08": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2019-11": {"total":1200.00, "Corporate Services & Governance":1200.00}
+		}
+	},
+	"4683": {
 		"name": "LOCAL PARTNERSHIPS LLP",
 		"total": 9298.75,
 		"monthly": {
 			"2019-11": {"total":9298.75, "Communities & Environment":9298.75}
 		}
 	},
-	"4651": {
+	"4684": {
 		"name": "LOCAL REGISTRATION SERVICES ASSOCIATION",
 		"total": 420,
 		"monthly": {
 			"2018-10": {"total":420.00, "Corporate Services & Governance":420.00}
 		}
 	},
-	"4652": {
+	"4685": {
 		"name": "LOCAL TRANSPORT TODAY LTD",
 		"total": 490,
 		"monthly": {
 			"2011-01": {"total":490.00, "Development & Enterprise":490.00}
 		}
 	},
-	"4653": {
+	"4686": {
 		"name": "LOCH ARTHUR CAMPHILL COMMUNITY LTD",
 		"total": 125679.67,
 		"monthly": {
@@ -78,14 +606,14 @@
 			"2018-02": {"total":9233.28, "Care, Wellbeing & Learning":9233.28}
 		}
 	},
-	"4654": {
+	"4687": {
 		"name": "LOCHINVAR LTD",
 		"total": 425,
 		"monthly": {
 			"2016-03": {"total":425.00, "Communities & Environment":425.00}
 		}
 	},
-	"4655": {
+	"4688": {
 		"name": "LOCKWISE LTD",
 		"total": 139903.25,
 		"monthly": {
@@ -130,21 +658,21 @@
 			"2016-07": {"total":3436.00, "Care, Wellbeing & Learning":382.00, "Policy, Economic Growth and Transformation":3054.00}
 		}
 	},
-	"4656": {
+	"4689": {
 		"name": "LODESTAR",
 		"total": 2500,
 		"monthly": {
 			"2011-04": {"total":2500.00, "Development & Enterprise":2500.00}
 		}
 	},
-	"4657": {
+	"4690": {
 		"name": "LODGETREESERVICES",
 		"total": 1400,
 		"monthly": {
 			"2020-05": {"total":1400.00, "Children, Adults and Families":1400.00}
 		}
 	},
-	"4658": {
+	"4691": {
 		"name": "LOFT LETS LTD",
 		"alternate-names": [
 			"LOFT LETS LIMITED"
@@ -154,14 +682,14 @@
 			"2013-09": {"total":1550.00, "Learning and Children":1550.00}
 		}
 	},
-	"4659": {
+	"4692": {
 		"name": "LOGIC MANUFACTURING LTD",
 		"total": 390,
 		"monthly": {
 			"2011-08": {"total":390.00, "Development & Enterprise":390.00}
 		}
 	},
-	"4660": {
+	"4693": {
 		"name": "LOGIC STREET & PARK FURNITURE LTD",
 		"total": 20106.3,
 		"monthly": {
@@ -178,7 +706,7 @@
 			"2020-06": {"total":1740.00, "Housing, Environment and Healthy Communities":1740.00}
 		}
 	},
-	"4661": {
+	"4694": {
 		"name": "LOGIC STREET & PARK SCENE",
 		"total": 5572,
 		"monthly": {
@@ -187,7 +715,7 @@
 			"2012-01": {"total":1190.00, "Local Environmental Services":1190.00}
 		}
 	},
-	"4662": {
+	"4695": {
 		"name": "LOGICALIS UK LTD",
 		"alternate-names": [
 			"LOGICALIS UK LIMITED"
@@ -197,7 +725,7 @@
 			"2013-05": {"total":10684.47, "Central Services":10684.47}
 		}
 	},
-	"4663": {
+	"4696": {
 		"name": "LOGISTICS SKILLS & CONSULTANCY LTD",
 		"alternate-names": [
 			"LOGISTICS SKILLS & CONSULTANCY LIMITED"
@@ -239,571 +767,32 @@
 			"2019-08": {"total":1953.75, "Communities & Environment":1953.75}
 		}
 	},
-	"4664": {
+	"4697": {
 		"name": "LOGISTICS UK",
 		"total": 1390,
 		"monthly": {
 			"2020-07": {"total":1390.00, "Housing, Environment and Healthy Communities":1390.00}
 		}
 	},
-	"4665": {
+	"4698": {
 		"name": "LOGMEIN TECHNOLOGIES UK LTD",
 		"alternate-names": [
 			"LOGMEIN TECHNOLOGIES UK LIMITED"
 		],
-		"total": 8860.8,
+		"total": 13820.8,
 		"monthly": {
 			"2019-04": {"total":3984.00, "Corporate Resources":3984.00},
 			"2020-04": {"total":3984.00, "Corporate Resources":3984.00},
-			"2020-05": {"total":892.80, "Resources and Digital":892.80}
+			"2020-05": {"total":892.80, "Resources and Digital":892.80},
+			"2020-10": {"total":4960.00, "Resources and Digital":4960.00}
 		}
 	},
-	"4666": {
+	"4699": {
 		"name": "LOGO  GOLF  BALLS  LTD",
 		"total": 1106.25,
 		"monthly": {
 			"2016-03": {"total":458.75, "Communities & Environment":458.75},
 			"2016-12": {"total":647.50, "Communities & Environment":647.50}
-		}
-	},
-	"4667": {
-		"name": "LOGO LOGIC LTD",
-		"total": 1218.5,
-		"monthly": {
-			"2012-04": {"total":786.60, "Community Based Services":786.60},
-			"2012-06": {"total":431.90, "Development & Enterprise":431.90}
-		}
-	},
-	"4668": {
-		"name": "LOGO-CO (NE) LTD",
-		"total": 1500,
-		"monthly": {
-			"2018-01": {"total":750.00, "Care, Wellbeing & Learning":750.00},
-			"2018-02": {"total":750.00, "Care, Wellbeing & Learning":750.00}
-		}
-	},
-	"4669": {
-		"name": "LOGOS UNLIMITED LTD",
-		"total": 630,
-		"monthly": {
-			"2016-06": {"total":630.00, "Communities & Enviroment":630.00}
-		}
-	},
-	"4670": {
-		"name": "LOGOTECH SYSTEMS",
-		"total": 35000,
-		"monthly": {
-			"2011-02": {"total":3500.00, "Central Services":3500.00},
-			"2012-02": {"total":3500.00, "Central Services":3500.00},
-			"2013-02": {"total":3500.00, "Central Services":3500.00},
-			"2014-02": {"total":3500.00, "Central Services":3500.00},
-			"2015-02": {"total":3500.00, "Corporate Resources":3500.00},
-			"2016-02": {"total":3500.00, "Corporate Resources":3500.00},
-			"2017-02": {"total":3500.00, "Corporate Resources":3500.00},
-			"2018-02": {"total":3500.00, "Corporate Resources":3500.00},
-			"2019-02": {"total":3500.00, "Corporate Resources":3500.00},
-			"2020-02": {"total":3500.00, "Corporate Resources":3500.00}
-		}
-	},
-	"4671": {
-		"name": "LOMAX TRAINING SERVICES LTD",
-		"total": 55472.33,
-		"monthly": {
-			"2011-01": {"total":500.00, "Development & Enterprise":500.00},
-			"2011-03": {"total":5600.00, "Local Environmental Services":5600.00},
-			"2011-07": {"total":995.00, "Local Environmental Services":995.00},
-			"2011-08": {"total":995.00, "Local Environmental Services":995.00},
-			"2011-09": {"total":1545.00, "Local Environmental Services":1545.00},
-			"2012-03": {"total":4000.00, "Local Environmental Services":4000.00},
-			"2012-04": {"total":1990.00, "Local Environmental Services":1990.00},
-			"2012-06": {"total":2499.33, "Local Environmental Services":2499.33},
-			"2012-08": {"total":770.00, "Local Environmental Services":770.00},
-			"2012-10": {"total":3847.00, "Development & Enterprise":2797.00, "Local Environmental Services":1050.00},
-			"2012-11": {"total":3797.00, "Local Environmental Services":3797.00},
-			"2012-12": {"total":1225.00, "Local Environmental Services":1225.00},
-			"2013-06": {"total":6340.00, "Local Environmental Services":6340.00},
-			"2013-07": {"total":934.00, "Local Environmental Services":934.00},
-			"2013-08": {"total":2637.00, "Local Environmental Services":2637.00},
-			"2013-09": {"total":1128.50, "Local Environmental Services":1128.50},
-			"2013-10": {"total":7459.50, "Development & Enterprise":1398.50, "Local Environmental Services":6061.00},
-			"2013-11": {"total":1540.00, "Local Environmental Services":1540.00},
-			"2014-12": {"total":3090.00, "Communities & Enviroment":3090.00},
-			"2015-03": {"total":1370.00, "Communities & Enviroment":1370.00},
-			"2015-09": {"total":750.00, "Communities & Environment":750.00},
-			"2015-10": {"total":960.00, "Communities & Environment":960.00},
-			"2018-11": {"total":510.00, "Corporate Resources":510.00},
-			"2020-08": {"total":990.00, "Corporate Services & Governance":990.00}
-		}
-	},
-	"4672": {
-		"name": "LONDON BOROUGH OF HAVERING COUNCIL",
-		"total": 47300,
-		"monthly": {
-			"2017-08": {"total":31533.33, "Care, Wellbeing & Learning":31533.33},
-			"2018-05": {"total":15766.67, "Care, Wellbeing & Learning":15766.67}
-		}
-	},
-	"4673": {
-		"name": "LONDON BOURGH OF MERTON",
-		"total": 513,
-		"monthly": {
-			"2017-03": {"total":513.00, "Communities & Environment":513.00}
-		}
-	},
-	"4674": {
-		"name": "LONDON BUSINESS FORUM LTD",
-		"total": 3000,
-		"monthly": {
-			"2016-01": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
-			"2016-03": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
-		}
-	},
-	"4675": {
-		"name": "LONDON DEVELOPMENT EVENTS LTD",
-		"total": 998,
-		"monthly": {
-			"2016-09": {"total":499.00, "Communities & Environment":499.00},
-			"2018-01": {"total":499.00, "Communities & Environment":499.00}
-		}
-	},
-	"4676": {
-		"name": "LONDON GENERAL SALES LTD",
-		"total": 44752.55,
-		"monthly": {
-			"2014-09": {"total":2531.25, "Local Environmental Services":2531.25},
-			"2015-05": {"total":5361.18, "Communities & Enviroment":5361.18},
-			"2015-07": {"total":3858.60, "Communities & Environment":3858.60},
-			"2015-08": {"total":5351.04, "Communities & Environment":5351.04},
-			"2015-09": {"total":2580.45, "Communities & Environment":2580.45},
-			"2015-10": {"total":1923.03, "Communities & Environment":1923.03},
-			"2015-11": {"total":501.66, "Communities & Environment":501.66},
-			"2015-12": {"total":2341.08, "Communities & Environment":2341.08},
-			"2016-01": {"total":501.66, "Communities & Environment":501.66},
-			"2016-02": {"total":418.05, "Communities & Environment":418.05},
-			"2016-03": {"total":3643.50, "Communities & Environment":3643.50},
-			"2016-04": {"total":501.66, "Communities & Environment":501.66},
-			"2016-05": {"total":1326.15, "Communities & Environment":1326.15},
-			"2016-06": {"total":2144.01, "Communities & Environment":2144.01},
-			"2016-07": {"total":501.66, "Communities & Environment":501.66},
-			"2016-08": {"total":827.64, "Communities & Environment":827.64},
-			"2016-09": {"total":2387.33, "Communities & Environment":2387.33},
-			"2016-10": {"total":1730.52, "Communities & Environment":1730.52},
-			"2016-11": {"total":2144.34, "Communities & Environment":2144.34},
-			"2017-01": {"total":2779.86, "Communities & Environment":2779.86},
-			"2017-02": {"total":902.88, "Communities & Environment":902.88},
-			"2017-03": {"total":495.00, "Communities & Environment":495.00}
-		}
-	},
-	"4677": {
-		"name": "LONDON WALL INSTALLATIONS LTD",
-		"alternate-names": [
-			"LONDON WALL INSTALLATIONS LIMITED"
-		],
-		"total": 1498,
-		"monthly": {
-			"2014-03": {"total":570.00, "Community Based Services":570.00},
-			"2016-08": {"total":928.00, "Communities & Environment":928.00}
-		}
-	},
-	"4678": {
-		"name": "LONDONDERRY GARAGE (S.E) LTD",
-		"alternate-names": [
-			"LONDONDERRY GARAGE (S.E) LIMITED"
-		],
-		"total": 256793.66,
-		"monthly": {
-			"2015-08": {"total":4472.64, "Communities & Environment":4472.64},
-			"2015-09": {"total":30528.30, "Communities & Environment":30528.30},
-			"2015-10": {"total":14117.46, "Communities & Environment":14117.46},
-			"2015-11": {"total":12038.84, "Communities & Environment":12038.84},
-			"2015-12": {"total":458.58, "Communities & Environment":458.58},
-			"2016-01": {"total":10537.80, "Communities & Environment":10537.80},
-			"2016-02": {"total":20812.00, "Communities & Environment":20812.00},
-			"2016-04": {"total":10879.00, "Communities & Environment":10879.00},
-			"2016-05": {"total":9933.00, "Communities & Environment":9933.00},
-			"2016-06": {"total":20713.06, "Communities & Environment":20713.06},
-			"2016-07": {"total":1741.73, "Communities & Environment":1741.73},
-			"2016-08": {"total":20126.16, "Communities & Environment":20126.16},
-			"2016-09": {"total":2258.32, "Communities & Environment":2258.32},
-			"2016-10": {"total":12314.21, "Communities & Environment":12314.21},
-			"2016-11": {"total":10406.00, "Communities & Environment":10406.00},
-			"2016-12": {"total":9933.00, "Communities & Environment":9933.00},
-			"2017-01": {"total":19681.46, "Communities & Environment":19681.46},
-			"2017-02": {"total":2475.04, "Communities & Environment":2475.04},
-			"2017-03": {"total":20322.71, "Communities & Environment":20322.71},
-			"2017-04": {"total":12165.35, "Communities & Environment":12165.35},
-			"2017-05": {"total":10879.00, "Communities & Environment":10879.00}
-		}
-	},
-	"4679": {
-		"name": "LONDONDERRY GARAGE LTD",
-		"total": 552005.78,
-		"monthly": {
-			"2011-03": {"total":1728.00, "Local Environmental Services":1728.00},
-			"2012-03": {"total":534.87, "Local Environmental Services":534.87},
-			"2012-05": {"total":509.87, "Local Environmental Services":509.87},
-			"2012-12": {"total":5153.25, "Local Environmental Services":5153.25},
-			"2013-01": {"total":20044.85, "Local Environmental Services":20044.85},
-			"2013-02": {"total":18229.85, "Local Environmental Services":18229.85},
-			"2013-03": {"total":15280.00, "Local Environmental Services":15280.00},
-			"2013-05": {"total":27643.92, "Local Environmental Services":27643.92},
-			"2013-06": {"total":6798.00, "Local Environmental Services":6798.00},
-			"2013-07": {"total":24704.93, "Local Environmental Services":24704.93},
-			"2013-08": {"total":34364.07, "Local Environmental Services":34364.07},
-			"2013-09": {"total":16808.00, "Local Environmental Services":16808.00},
-			"2013-10": {"total":21952.75, "Local Environmental Services":21952.75},
-			"2013-11": {"total":21086.40, "Local Environmental Services":21086.40},
-			"2013-12": {"total":347.20, "Local Environmental Services":347.20},
-			"2014-01": {"total":32852.00, "Local Environmental Services":32852.00},
-			"2014-03": {"total":36780.45, "Local Environmental Services":36780.45},
-			"2014-04": {"total":16044.00, "Local Environmental Services":16044.00},
-			"2014-05": {"total":6048.13, "Local Environmental Services":6048.13},
-			"2014-06": {"total":32006.40, "Local Environmental Services":32006.40},
-			"2014-07": {"total":1017.12, "Local Environmental Services":1017.12},
-			"2014-08": {"total":35995.64, "Local Environmental Services":35995.64},
-			"2014-09": {"total":17501.36, "Local Environmental Services":17501.36},
-			"2014-10": {"total":17939.81, "Local Environmental Services":17939.81},
-			"2014-11": {"total":36913.54, "Communities & Enviroment":36913.54},
-			"2014-12": {"total":1409.87, "Communities & Enviroment":1409.87},
-			"2015-01": {"total":33597.49, "Communities & Enviroment":33597.49},
-			"2015-02": {"total":6402.00, "Communities & Enviroment":6402.00},
-			"2015-03": {"total":10199.31, "Communities & Enviroment":10199.31},
-			"2015-04": {"total":12872.54, "Communities & Enviroment":12872.54},
-			"2015-05": {"total":6967.00, "Communities & Enviroment":6967.00},
-			"2015-06": {"total":10535.77, "Communities & Environment":10535.77},
-			"2015-09": {"total":21737.39, "Communities & Environment":21737.39}
-		}
-	},
-	"4680": {
-		"name": "LONGRIGG MEDICAL CENTRE",
-		"total": 111528.06,
-		"monthly": {
-			"2013-10": {"total":4395.00, "Community Based Services":4395.00},
-			"2014-01": {"total":8640.00, "Community Based Services":8640.00},
-			"2014-03": {"total":5805.00, "Community Based Services":5805.00},
-			"2014-04": {"total":2083.53, "Community Based Services":2083.53},
-			"2014-05": {"total":6300.00, "Community Based Services":6300.00},
-			"2014-09": {"total":5845.00, "Community Based Services":5845.00},
-			"2014-12": {"total":5068.53, "Care, Wellbeing & Learning":5068.53},
-			"2015-03": {"total":1010.00, "Care, Wellbeing & Learning":1010.00},
-			"2015-06": {"total":5410.00, "Care, Wellbeing & Learning":5410.00},
-			"2015-08": {"total":5285.00, "Care, Wellbeing & Learning":5285.00},
-			"2015-11": {"total":3325.00, "Care, Wellbeing & Learning":3325.00},
-			"2016-02": {"total":2415.00, "Care, Wellbeing & Learning":2415.00},
-			"2016-05": {"total":2675.00, "Care, Wellbeing & Learning":2675.00},
-			"2016-08": {"total":2600.00, "Care, Wellbeing & Learning":2600.00},
-			"2016-11": {"total":1395.00, "Care, Wellbeing & Learning":1395.00},
-			"2017-02": {"total":1180.00, "Care, Wellbeing & Learning":1180.00},
-			"2017-05": {"total":1955.00, "Care, Wellbeing & Learning":1955.00},
-			"2017-08": {"total":1530.00, "Care, Wellbeing & Learning":1530.00},
-			"2017-11": {"total":2195.00, "Care, Wellbeing & Learning":2195.00},
-			"2018-02": {"total":1760.00, "Care, Wellbeing & Learning":1760.00},
-			"2018-05": {"total":2490.00, "Care, Wellbeing & Learning":2490.00},
-			"2018-06": {"total":6775.00, "Care, Wellbeing & Learning":6775.00},
-			"2018-08": {"total":10410.00, "Care, Wellbeing & Learning":10410.00},
-			"2019-02": {"total":7420.00, "Care, Wellbeing & Learning":7420.00},
-			"2019-05": {"total":3921.00, "Care, Wellbeing & Learning":3921.00},
-			"2019-07": {"total":3500.00, "Care, Wellbeing & Learning":3500.00},
-			"2019-11": {"total":2455.00, "Care, Wellbeing & Learning":2455.00},
-			"2020-02": {"total":685.00, "Care, Wellbeing & Learning":685.00},
-			"2020-05": {"total":3000.00, "Public Health and Wellbeing":3000.00}
-		}
-	},
-	"4681": {
-		"name": "LOOKALIKES AGENCY",
-		"total": 720,
-		"monthly": {
-			"2016-08": {"total":720.00, "Care, Wellbeing & Learning":720.00}
-		}
-	},
-	"4682": {
-		"name": "LOOKERS LEASING LTD",
-		"total": 59044.02,
-		"monthly": {
-			"2013-05": {"total":6075.21, "Central Services":6075.21},
-			"2013-07": {"total":7818.54, "Central Services":7818.54},
-			"2013-11": {"total":5108.29, "Central Services":5108.29},
-			"2013-12": {"total":3819.76, "Central Services":3819.76},
-			"2014-01": {"total":11483.63, "Central Services":11483.63},
-			"2014-02": {"total":6559.80, "Central Services":6559.80},
-			"2014-03": {"total":4517.08, "Central Services":4517.08},
-			"2014-05": {"total":3461.65, "Central Services":3461.65},
-			"2014-07": {"total":3177.70, "Central Services":3177.70},
-			"2015-02": {"total":421.11, "Corporate Resources":421.11},
-			"2015-06": {"total":527.23, "Corporate Resources":527.23},
-			"2015-08": {"total":6074.02, "Corporate Resources":6074.02}
-		}
-	},
-	"4683": {
-		"name": "LOOKERS NISSAN",
-		"total": 191421.16,
-		"monthly": {
-			"2016-03": {"total":14577.50, "Communities & Enviroment":14577.50},
-			"2016-11": {"total":419.30, "Communities & Environment":419.30},
-			"2017-04": {"total":100085.00, "Communities & Environment":100085.00},
-			"2020-03": {"total":76339.36, "Communities & Enviroment":76339.36}
-		}
-	},
-	"4684": {
-		"name": "LOOMIS UK LTD",
-		"total": 12033.57,
-		"monthly": {
-			"2010-12": {"total":464.63, "Central Services":464.63},
-			"2011-03": {"total":1858.52, "Central Services":1858.52},
-			"2011-04": {"total":464.63, "Central Services":464.63},
-			"2011-05": {"total":464.63, "Central Services":464.63},
-			"2011-06": {"total":464.63, "Central Services":464.63},
-			"2011-10": {"total":929.26, "Central Services":929.26},
-			"2011-12": {"total":464.63, "Central Services":464.63},
-			"2012-01": {"total":2323.15, "Central Services":2323.15},
-			"2012-03": {"total":1393.89, "Central Services":1393.89},
-			"2012-04": {"total":464.63, "Central Services":464.63},
-			"2012-05": {"total":464.63, "Central Services":464.63},
-			"2012-07": {"total":929.26, "Central Services":929.26},
-			"2012-08": {"total":464.63, "Central Services":464.63},
-			"2012-10": {"total":464.63, "Central Services":464.63},
-			"2019-06": {"total":417.82, "Corporate Resources":417.82}
-		}
-	},
-	"4685": {
-		"name": "LORD HIRE CENTRES",
-		"total": 16924.3,
-		"monthly": {
-			"2011-05": {"total":387.50, "Local Environmental Services":387.50},
-			"2012-07": {"total":939.57, "Local Environmental Services":939.57},
-			"2012-08": {"total":1340.78, "Local Environmental Services":1340.78},
-			"2012-09": {"total":1289.93, "Local Environmental Services":1289.93},
-			"2012-10": {"total":923.71, "Local Environmental Services":923.71},
-			"2012-11": {"total":352.95, "Local Environmental Services":352.95},
-			"2012-12": {"total":2160.86, "Local Environmental Services":2160.86},
-			"2013-01": {"total":365.72, "Community Based Services":365.72},
-			"2013-05": {"total":709.00, "Development & Enterprise":360.00, "Local Environmental Services":349.00},
-			"2013-07": {"total":1231.95, "Local Environmental Services":1231.95},
-			"2013-09": {"total":1692.65, "Local Environmental Services":1692.65},
-			"2013-11": {"total":695.00, "Local Environmental Services":695.00},
-			"2014-09": {"total":472.18, "Local Environmental Services":472.18},
-			"2015-08": {"total":457.80, "Communities & Environment":457.80},
-			"2015-09": {"total":359.70, "Communities & Environment":359.70},
-			"2017-10": {"total":3065.00, "Communities & Environment":3065.00},
-			"2018-01": {"total":480.00, "Communities & Enviroment":480.00}
-		}
-	},
-	"4686": {
-		"name": "LORD LAWSON OF BEAMISH ACADEMY",
-		"total": 323619.06,
-		"monthly": {
-			"2012-11": {"total":15797.42, "Learning and Children":15797.42},
-			"2013-02": {"total":6750.84, "Learning and Children":6750.84},
-			"2013-03": {"total":10746.92, "Learning and Children":10746.92},
-			"2013-06": {"total":15446.95, "Learning and Children":15446.95},
-			"2014-01": {"total":2450.00, "Learning and Children":2450.00},
-			"2014-05": {"total":3588.31, "Learning and Children":3588.31},
-			"2014-10": {"total":2188.46, "Learning and Children":2188.46},
-			"2015-02": {"total":2450.00, "Care, Wellbeing & Learning":2450.00},
-			"2015-05": {"total":1750.00, "Care, Wellbeing & Learning":1750.00},
-			"2015-10": {"total":6888.89, "Care, Wellbeing & Learning":6888.89},
-			"2016-02": {"total":4118.52, "Care, Wellbeing & Learning":4118.52},
-			"2016-05": {"total":5983.11, "Care, Wellbeing & Learning":5983.11},
-			"2016-10": {"total":2869.31, "Care, Wellbeing & Learning":2869.31},
-			"2017-02": {"total":4092.18, "Care, Wellbeing & Learning":4092.18},
-			"2017-06": {"total":4747.94, "Care, Wellbeing & Learning":4747.94},
-			"2017-09": {"total":600.00, "Care, Wellbeing & Learning":600.00},
-			"2017-10": {"total":5395.63, "Care, Wellbeing & Learning":5395.63},
-			"2017-11": {"total":5557.14, "Care, Wellbeing & Learning":5557.14},
-			"2018-02": {"total":11700.55, "Care, Wellbeing & Learning":6446.55, "Communities & Environment":5254.00},
-			"2018-03": {"total":8202.04, "Care, Wellbeing & Learning":8202.04},
-			"2018-06": {"total":1300.00, "Care, Wellbeing & Learning":1300.00},
-			"2018-07": {"total":14891.84, "Care, Wellbeing & Learning":14891.84},
-			"2018-10": {"total":1200.00, "Care, Wellbeing & Learning":1200.00},
-			"2018-11": {"total":16485.22, "Care, Wellbeing & Learning":16485.22},
-			"2019-02": {"total":7669.54, "Care, Wellbeing & Learning":7669.54},
-			"2019-03": {"total":1794.32, "Care, Wellbeing & Learning":1794.32},
-			"2019-05": {"total":8879.02, "Care, Wellbeing & Learning":8879.02},
-			"2019-10": {"total":15527.30, "Care, Wellbeing & Learning":15527.30},
-			"2019-12": {"total":87395.40, "Children, Adults and Families":87395.40},
-			"2020-02": {"total":20483.89, "Care, Wellbeing & Learning":7908.46, "Communities & Environment":12575.43},
-			"2020-03": {"total":1600.00, "Care, Wellbeing & Learning":1600.00},
-			"2020-04": {"total":8331.00, "Care, Wellbeing & Learning":8331.00},
-			"2020-05": {"total":14967.32, "Children, Adults and Families":14967.32},
-			"2020-07": {"total":1770.00, "Children, Adults and Families":1770.00}
-		}
-	},
-	"4687": {
-		"name": "LORD LAWSON OF BEAMISH SCHOOL",
-		"total": 28999.84,
-		"monthly": {
-			"2012-05": {"total":14585.00, "Learning and Children":14585.00},
-			"2012-06": {"total":2700.33, "Learning and Children":2700.33},
-			"2013-10": {"total":1185.64, "Learning and Children":1185.64},
-			"2013-11": {"total":6761.12, "Learning and Children":6761.12},
-			"2013-12": {"total":444.62, "Learning and Children":444.62},
-			"2014-01": {"total":592.82, "Learning and Children":592.82},
-			"2014-02": {"total":444.62, "Learning and Children":444.62},
-			"2014-03": {"total":622.46, "Learning and Children":622.46},
-			"2015-01": {"total":1663.23, "Care, Wellbeing & Learning":1663.23}
-		}
-	},
-	"4688": {
-		"name": "LORD TECHNICAL LTD",
-		"total": 52493.76,
-		"monthly": {
-			"2011-01": {"total":358.01, "Local Environmental Services":358.01},
-			"2011-03": {"total":821.00, "Local Environmental Services":821.00},
-			"2011-05": {"total":1991.00, "Local Environmental Services":1991.00},
-			"2011-06": {"total":929.72, "Local Environmental Services":929.72},
-			"2011-08": {"total":840.00, "Local Environmental Services":840.00},
-			"2011-09": {"total":400.00, "Local Environmental Services":400.00},
-			"2012-02": {"total":762.00, "Local Environmental Services":762.00},
-			"2012-05": {"total":357.00, "Local Environmental Services":357.00},
-			"2012-06": {"total":714.00, "Local Environmental Services":714.00},
-			"2012-09": {"total":1272.00, "Local Environmental Services":1272.00},
-			"2013-02": {"total":430.00, "Local Environmental Services":430.00},
-			"2013-05": {"total":739.20, "Local Environmental Services":739.20},
-			"2013-07": {"total":445.00, "Local Environmental Services":445.00},
-			"2013-10": {"total":777.12, "Local Environmental Services":777.12},
-			"2013-11": {"total":407.17, "Local Environmental Services":407.17},
-			"2014-01": {"total":390.00, "Local Environmental Services":390.00},
-			"2014-02": {"total":17565.00, "Local Environmental Services":17565.00},
-			"2014-04": {"total":518.00, "Local Environmental Services":518.00},
-			"2014-08": {"total":487.64, "Local Environmental Services":487.64},
-			"2015-03": {"total":7010.00, "Communities & Enviroment":7010.00},
-			"2015-06": {"total":988.80, "Communities & Environment":988.80},
-			"2016-06": {"total":395.00, "Communities & Environment":395.00},
-			"2016-07": {"total":1717.75, "Communities & Environment":1717.75},
-			"2016-08": {"total":396.00, "Communities & Environment":396.00},
-			"2018-01": {"total":1021.97, "Housing Revenue Account":1021.97},
-			"2018-04": {"total":1237.09, "Communities & Environment":1237.09},
-			"2018-05": {"total":2370.00, "Communities & Environment":2370.00},
-			"2018-09": {"total":4158.29, "Communities & Environment":4158.29},
-			"2019-04": {"total":2995.00, "Communities & Environment":2995.00}
-		}
-	},
-	"4689": {
-		"name": "LORIENT POLYPRODUCTS LTD",
-		"total": 4459.78,
-		"monthly": {
-			"2013-06": {"total":2744.48, "Local Environmental Services":2744.48},
-			"2013-10": {"total":1715.30, "Local Environmental Services":1715.30}
-		}
-	},
-	"4690": {
-		"name": "LORMOR & HALL CONSTRUCTION",
-		"total": 2273.85,
-		"monthly": {
-			"2010-12": {"total":2273.85, "Community Based Services":2273.85}
-		}
-	},
-	"4691": {
-		"name": "LOUGHBOROUGH COLLEGE",
-		"total": 3300,
-		"monthly": {
-			"2011-10": {"total":3300.00, "Community Based Services":3300.00}
-		}
-	},
-	"4692": {
-		"name": "LOUGHBOROUGH UNIVERSITY",
-		"total": 1800,
-		"monthly": {
-			"2011-06": {"total":1800.00, "Community Based Services":1800.00}
-		}
-	},
-	"4693": {
-		"name": "LOUIE PROPERTIES",
-		"total": 18000,
-		"monthly": {
-			"2018-07": {"total":6000.00, "Care, Wellbeing & Learning":6000.00},
-			"2019-06": {"total":6000.00, "Care, Wellbeing & Learning":6000.00},
-			"2020-07": {"total":6000.00, "Children, Adults and Families":6000.00}
-		}
-	},
-	"4694": {
-		"name": "LOVE JOES LTD",
-		"total": 95098.68,
-		"monthly": {
-			"2018-07": {"total":3244.66, "Corporate Resources":3244.66},
-			"2018-08": {"total":574.66, "Corporate Resources":574.66},
-			"2018-10": {"total":11959.88, "Corporate Resources":11959.88},
-			"2018-11": {"total":1708.20, "Corporate Resources":1708.20},
-			"2018-12": {"total":3478.29, "Corporate Resources":3478.29},
-			"2019-01": {"total":7145.81, "Corporate Resources":7145.81},
-			"2019-02": {"total":5693.74, "Corporate Resources":5693.74},
-			"2019-03": {"total":7771.79, "Corporate Resources":7771.79},
-			"2019-04": {"total":1413.51, "Corporate Resources":1413.51},
-			"2019-05": {"total":4095.26, "Corporate Resources":4095.26},
-			"2019-06": {"total":2963.14, "Corporate Resources":2963.14},
-			"2019-07": {"total":2868.91, "Corporate Resources":2868.91},
-			"2019-08": {"total":1689.22, "Corporate Resources":1689.22},
-			"2019-10": {"total":8907.18, "Corporate Resources":8907.18},
-			"2019-11": {"total":6094.93, "Corporate Resources":6094.93},
-			"2019-12": {"total":4084.99, "Housing, Environment and Healthy Communities":4084.99},
-			"2020-01": {"total":4509.39, "Corporate Resources":4509.39},
-			"2020-02": {"total":7237.39, "Corporate Resources":7237.39},
-			"2020-03": {"total":6361.67, "Corporate Resources":6361.67},
-			"2020-04": {"total":2290.88, "Corporate Resources":2290.88},
-			"2020-05": {"total":1005.18, "Housing, Environment and Healthy Communities":1005.18}
-		}
-	},
-	"4695": {
-		"name": "LOVELL JOHNS LTD",
-		"total": 1200,
-		"monthly": {
-			"2011-01": {"total":600.00, "Development & Enterprise":600.00},
-			"2014-01": {"total":600.00, "Development & Enterprise":600.00}
-		}
-	},
-	"4696": {
-		"name": "LOW ENERGY LIGHTING SOLUTIONS LTD",
-		"total": 170219.74,
-		"monthly": {
-			"2014-03": {"total":901.00, "Development & Enterprise":901.00},
-			"2014-05": {"total":12814.50, "Development & Enterprise":12814.50},
-			"2014-06": {"total":17420.20, "Development & Enterprise":17420.20},
-			"2014-07": {"total":750.00, "Development & Enterprise":750.00},
-			"2014-08": {"total":3750.00, "Development & Enterprise":3750.00},
-			"2014-11": {"total":2136.50, "Communities & Enviroment":2136.50},
-			"2014-12": {"total":567.50, "Care, Wellbeing & Learning":567.50},
-			"2015-03": {"total":3590.00, "Communities & Enviroment":3590.00},
-			"2016-09": {"total":90000.00, "Communities & Environment":90000.00},
-			"2016-11": {"total":12700.04, "Communities & Environment":12700.04},
-			"2017-01": {"total":25590.00, "Communities & Environment":25590.00}
-		}
-	},
-	"4697": {
-		"name": "LOW FELL FLORISTS",
-		"total": 4194,
-		"monthly": {
-			"2011-03": {"total":500.00, "Learning and Children":500.00},
-			"2012-04": {"total":500.00, "Learning and Children":500.00},
-			"2013-06": {"total":450.00, "Learning and Children":450.00},
-			"2014-05": {"total":750.00, "Learning and Children":750.00},
-			"2015-05": {"total":450.00, "Care, Wellbeing & Learning":450.00},
-			"2016-07": {"total":600.00, "Care, Wellbeing & Learning":600.00},
-			"2017-06": {"total":450.00, "Care, Wellbeing & Learning":450.00},
-			"2019-06": {"total":494.00, "Care, Wellbeing & Learning":494.00}
-		}
-	},
-	"4698": {
-		"name": "LOW FELL FORUM",
-		"total": 21137,
-		"monthly": {
-			"2013-05": {"total":3000.00, "Community Based Services":3000.00},
-			"2013-10": {"total":1800.00, "Community Based Services":1800.00},
-			"2014-01": {"total":2000.00, "Community Based Services":2000.00},
-			"2015-02": {"total":4011.00, "Communities & Enviroment":4011.00},
-			"2015-05": {"total":3639.00, "Communities & Enviroment":3639.00},
-			"2016-04": {"total":2511.00, "Communities & Environment":2511.00},
-			"2017-03": {"total":1176.00, "Communities & Environment":1176.00},
-			"2017-12": {"total":1000.00, "Communities & Environment":1000.00},
-			"2018-08": {"total":2000.00, "Communities & Environment":2000.00}
-		}
-	},
-	"4699": {
-		"name": "LOW FELL LIBRARY ASSOCIATION",
-		"total": 18608,
-		"monthly": {
-			"2016-01": {"total":3608.00, "Communities & Environment":3608.00},
-			"2017-06": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
-			"2018-04": {"total":6000.00, "Care, Wellbeing & Learning":6000.00}
 		}
 	}
 	}

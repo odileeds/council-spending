@@ -1,14 +1,734 @@
 {
-	"range": ["2011-01","2020-09"],
+	"range": ["2011-01","2020-12"],
 	"data": {
 	"6600": {
+		"name": "GOWLING WLG (UK) LLP",
+		"total": 70034.92,
+		"monthly": {
+			"2016-06": {"total":258.70, "RESOURCES":258.70},
+			"2016-08": {"total":712.10, "RESOURCES":712.10},
+			"2017-07": {"total":6592.00, "PLACE":6592.00},
+			"2017-08": {"total":7000.00, "PLACE":7000.00},
+			"2017-10": {"total":1500.00, "PLACE":1500.00},
+			"2017-11": {"total":2000.00, "PLACE":2000.00},
+			"2018-04": {"total":10995.00, "PLACE":10995.00},
+			"2018-07": {"total":11540.00, "PLACE":11540.00},
+			"2018-09": {"total":5136.74, "PLACE":5136.74},
+			"2018-10": {"total":10159.74, "PLACE":10159.74},
+			"2018-11": {"total":10455.00, "PLACE":10455.00},
+			"2018-12": {"total":3685.64, "PLACE":3685.64}
+		}
+	},
+	"6601": {
+		"name": "GOWLING WLG (UK) LLP CLIENT ACCOUNT",
+		"total": 10444684.3,
+		"monthly": {
+			"2019-03": {"total":3759000.00, "PLACE":3759000.00},
+			"2019-04": {"total":1579500.00, "PLACE":1579500.00},
+			"2020-02": {"total":3903227.50, "PLACE":3903227.50},
+			"2020-04": {"total":1200000.00, "PLACE":1200000.00},
+			"2020-09": {"total":2956.80, "PLACE":2956.80}
+		}
+	},
+	"6602": {
+		"name": "GOWLING WLG (UK) LLP OFFICE ACCOUNT",
+		"total": 522310.8,
+		"monthly": {
+			"2019-02": {"total":35547.00, "PLACE":35547.00},
+			"2019-03": {"total":6700.00, "PLACE":6700.00},
+			"2019-04": {"total":18496.00, "PLACE":18496.00},
+			"2019-05": {"total":24905.70, "PLACE":24905.70},
+			"2019-07": {"total":10000.00, "PLACE":10000.00},
+			"2019-08": {"total":46961.00, "PLACE":46961.00},
+			"2019-11": {"total":35003.00, "PLACE":35003.00},
+			"2019-12": {"total":94997.00, "PLACE":94997.00},
+			"2020-02": {"total":45011.80, "PLACE":45011.80},
+			"2020-03": {"total":24000.00, "PLACE":24000.00},
+			"2020-04": {"total":12250.00, "PLACE":12250.00},
+			"2020-05": {"total":21029.00, "PLACE":21029.00},
+			"2020-06": {"total":23242.50, "PLACE":23242.50},
+			"2020-07": {"total":48003.00, "PLACE":48003.00},
+			"2020-08": {"total":25250.00, "PLACE":25250.00},
+			"2020-09": {"total":39959.80, "PLACE":39959.80},
+			"2020-10": {"total":5455.00, "PLACE":5455.00},
+			"2020-12": {"total":5500.00, "PLACE":5500.00}
+		}
+	},
+	"6603": {
+		"name": "GP REFERAL SELF HELP GROUP",
+		"total": 990,
+		"monthly": {
+			"2011-11": {"total":990.00, "SCR GRANT-SOCIAL CAPACITY":990.00}
+		}
+	},
+	"6604": {
+		"name": "GPG 2000 LTD",
+		"total": 337624.11,
+		"monthly": {
+			"2011-01": {"total":671.00, "STANIFORTH ROAD WORKSHOPS":671.00},
+			"2011-02": {"total":4058.77, "OLIVE GROVE WORKSHOPS":600.97, "STANIFORTH ROAD WORKSHOPS":3457.80},
+			"2011-03": {"total":7104.34, "STANIFORTH ROAD WORKSHOPS":7104.34},
+			"2011-04": {"total":1348.00, "STANIFORTH ROAD WORKSHOPS":1348.00},
+			"2011-05": {"total":6904.56, "STANIFORTH ROAD WORKSHOPS":6904.56},
+			"2011-07": {"total":5411.48, "CLAIMS":856.48, "STANIFORTH ROAD WORKSHOPS":4555.00},
+			"2011-08": {"total":951.83, "STANIFORTH ROAD WORKSHOPS":951.83},
+			"2011-09": {"total":6109.10, "CLAIMS":637.13, "STANIFORTH ROAD WORKSHOPS":5471.97},
+			"2011-10": {"total":2992.69, "STANIFORTH ROAD WORKSHOPS":2992.69},
+			"2011-11": {"total":832.00, "STANIFORTH ROAD WORKSHOPS":832.00},
+			"2011-12": {"total":2198.60, "STANIFORTH ROAD WORKSHOPS":2198.60},
+			"2012-01": {"total":1896.00, "STANIFORTH ROAD WORKSHOPS":1896.00},
+			"2012-02": {"total":806.00, "STANIFORTH ROAD WORKSHOPS":806.00},
+			"2012-03": {"total":6683.54, "STANIFORTH ROAD WORKSHOPS":6683.54},
+			"2012-04": {"total":1088.00, "STANIFORTH ROAD WORKSHOPS":1088.00},
+			"2012-05": {"total":7816.86, "STANIFORTH ROAD WORKSHOPS":7816.86},
+			"2012-06": {"total":7981.47, "STANIFORTH ROAD WORKSHOPS":7981.47},
+			"2012-08": {"total":1100.00, "STANIFORTH ROAD WORKSHOPS":1100.00},
+			"2012-09": {"total":3290.48, "STANIFORTH ROAD WORKSHOPS":3290.48},
+			"2012-10": {"total":7159.42, "STANIFORTH ROAD WORKSHOPS":7159.42},
+			"2012-11": {"total":7677.71, "STANIFORTH ROAD WORKSHOPS":7677.71},
+			"2012-12": {"total":3456.38, "STANIFORTH ROAD WORKSHOPS":3456.38},
+			"2013-01": {"total":4113.38, "STANIFORTH ROAD WORKSHOPS":4113.38},
+			"2013-02": {"total":3139.13, "STANIFORTH ROAD WORKSHOPS":3139.13},
+			"2013-03": {"total":2645.06, "STANIFORTH ROAD WORKSHOPS":2645.06},
+			"2013-05": {"total":8995.90, "STANIFORTH ROAD WORKSHOPS":8995.90},
+			"2013-06": {"total":2113.83, "STANIFORTH ROAD WORKSHOPS":2113.83},
+			"2013-07": {"total":5458.10, "STANIFORTH ROAD WORKSHOPS":5458.10},
+			"2013-08": {"total":1849.52, "STANIFORTH ROAD WORKSHOPS":1849.52},
+			"2013-09": {"total":8248.63, "STANIFORTH ROAD WORKSHOPS":8248.63},
+			"2013-10": {"total":2440.01, "STANIFORTH ROAD WORKSHOPS":2440.01},
+			"2013-11": {"total":4541.15, "STANIFORTH ROAD WORKSHOPS":4541.15},
+			"2013-12": {"total":5969.27, "STANIFORTH ROAD WORKSHOPS":5969.27},
+			"2014-01": {"total":2833.49, "STANIFORTH ROAD WORKSHOPS":2833.49},
+			"2014-02": {"total":12002.46, "STANIFORTH ROAD WORKSHOPS":12002.46},
+			"2014-05": {"total":6477.71, "STANIFORTH ROAD WORKSHOPS":6477.71},
+			"2014-07": {"total":4059.06, "STANIFORTH ROAD WORKSHOPS":4059.06},
+			"2014-08": {"total":2273.11, "STANIFORTH ROAD WORKSHOPS":2273.11},
+			"2014-09": {"total":6480.48, "STANIFORTH ROAD WORKSHOPS":6480.48},
+			"2014-10": {"total":5072.55, "STANIFORTH ROAD WORKSHOPS":5072.55},
+			"2014-11": {"total":816.75, "STANIFORTH ROAD WORKSHOPS":816.75},
+			"2014-12": {"total":10123.25, "STANIFORTH ROAD WORKSHOPS":10123.25},
+			"2015-01": {"total":1857.34, "STANIFORTH ROAD WORKSHOPS":1857.34},
+			"2015-02": {"total":9501.68, "STANIFORTH ROAD WORKSHOPS":9501.68},
+			"2015-04": {"total":3028.08, "STANIFORTH ROAD WORKSHOPS":3028.08},
+			"2015-05": {"total":1202.40, "STANIFORTH ROAD WORKSHOPS":1202.40},
+			"2015-06": {"total":8746.77, "STANIFORTH ROAD WORKSHOPS":8746.77},
+			"2015-07": {"total":1310.83, "RESOURCES":1310.83},
+			"2015-08": {"total":2096.00, "RESOURCES":2096.00},
+			"2015-09": {"total":3441.65, "RESOURCES":3441.65},
+			"2015-10": {"total":4413.00, "RESOURCES":4413.00},
+			"2015-11": {"total":1169.35, "RESOURCES":1169.35},
+			"2015-12": {"total":2702.80, "RESOURCES":2702.80},
+			"2016-01": {"total":5389.00, "RESOURCES":5389.00},
+			"2016-02": {"total":3050.00, "RESOURCES":3050.00},
+			"2016-03": {"total":7958.00, "RESOURCES":7958.00},
+			"2016-04": {"total":1695.56, "RESOURCES":1695.56},
+			"2016-05": {"total":3515.00, "RESOURCES":3515.00},
+			"2016-06": {"total":3645.00, "RESOURCES":3645.00},
+			"2016-07": {"total":2638.66, "RESOURCES":2638.66},
+			"2016-08": {"total":3201.00, "RESOURCES":3201.00},
+			"2016-10": {"total":4587.57, "RESOURCES":4587.57},
+			"2016-11": {"total":2752.00, "RESOURCES":2752.00},
+			"2016-12": {"total":1434.50, "RESOURCES":1434.50},
+			"2017-01": {"total":2013.00, "RESOURCES":2013.00},
+			"2017-02": {"total":253.00, "RESOURCES":253.00},
+			"2017-03": {"total":603.00, "RESOURCES":603.00},
+			"2017-04": {"total":947.81, "RESOURCES":947.81},
+			"2017-05": {"total":2314.00, "RESOURCES":2314.00},
+			"2017-06": {"total":3157.61, "RESOURCES":3157.61},
+			"2017-08": {"total":932.50, "PLACE":932.50},
+			"2017-09": {"total":1130.50, "PLACE":1130.50},
+			"2017-10": {"total":3147.84, "PLACE":3147.84},
+			"2017-11": {"total":2394.50, "LOCAL ENTERPRISE PARTNERSHIP":1120.00, "PLACE":1274.50},
+			"2017-12": {"total":1071.50, "PLACE":1071.50},
+			"2018-01": {"total":941.01, "PLACE":941.01},
+			"2018-02": {"total":3583.50, "PLACE":3583.50},
+			"2018-03": {"total":3286.50, "PLACE":3286.50},
+			"2018-04": {"total":1977.00, "PLACE":1977.00},
+			"2018-05": {"total":1115.00, "PLACE":1115.00},
+			"2018-06": {"total":500.00, "PLACE":500.00},
+			"2018-07": {"total":881.00, "PLACE":881.00},
+			"2018-08": {"total":1007.00, "PLACE":1007.00},
+			"2018-10": {"total":4562.00, "PLACE":4562.00},
+			"2018-12": {"total":2613.00, "PLACE":2613.00},
+			"2019-01": {"total":3534.84, "PLACE":3534.84},
+			"2019-02": {"total":1893.84, "CORPORATE":1167.84, "PLACE":726.00},
+			"2019-03": {"total":293.00, "PLACE":293.00},
+			"2019-04": {"total":1135.00, "PLACE":1135.00},
+			"2019-06": {"total":1055.00, "PLACE":1055.00},
+			"2019-07": {"total":2558.50, "PLACE":2558.50},
+			"2019-08": {"total":1472.50, "PLACE":1472.50},
+			"2019-09": {"total":483.00, "PLACE":483.00},
+			"2019-10": {"total":1095.00, "PLACE":1095.00},
+			"2019-11": {"total":2676.00, "PLACE":2676.00},
+			"2019-12": {"total":554.00, "PLACE":554.00},
+			"2020-01": {"total":1879.50, "PLACE":1879.50},
+			"2020-02": {"total":1472.00, "PLACE":1472.00},
+			"2020-03": {"total":5889.00, "PLACE":5889.00},
+			"2020-05": {"total":1300.00, "PLACE":1300.00},
+			"2020-06": {"total":4131.40, "PLACE":4131.40},
+			"2020-07": {"total":257.00, "PLACE":257.00},
+			"2020-10": {"total":658.00, "PLACE":658.00},
+			"2020-12": {"total":328.00, "PLACE":328.00}
+		}
+	},
+	"6605": {
+		"name": "GR RACE GRAPHICS LTD",
+		"total": 1500,
+		"monthly": {
+			"2015-07": {"total":1500.00, "CYPF":1500.00}
+		}
+	},
+	"6606": {
+		"name": "GRACE CLIMB LTD",
+		"total": 8326,
+		"monthly": {
+			"2017-02": {"total":1840.00, "COMMUNITIES":1840.00},
+			"2017-05": {"total":1840.00, "COMMUNITIES":1840.00},
+			"2017-06": {"total":1610.00, "COMMUNITIES":1610.00},
+			"2017-07": {"total":1380.00, "COMMUNITIES":1380.00},
+			"2017-08": {"total":1656.00, "CORPORATE":1656.00}
+		}
+	},
+	"6607": {
+		"name": "GRACE FOOD BANK",
+		"total": 550,
+		"monthly": {
+			"2013-03": {"total":550.00, "COMMUNITY ASSEMBLY SOUTH":550.00}
+		}
+	},
+	"6608": {
+		"name": "GRACE FOOD BANK SHEFFIELD",
+		"total": 5124.72,
+		"monthly": {
+			"2015-03": {"total":3202.72, "TACKLING POVERTY":3202.72},
+			"2015-08": {"total":970.00, "COMMUNITIES":970.00},
+			"2016-12": {"total":952.00, "COMMUNITIES":952.00}
+		}
+	},
+	"6609": {
+		"name": "GRACE LANDSCAPES LTD",
+		"total": 39456.41,
+		"monthly": {
+			"2011-01": {"total":1744.83, "STREET FORCE BALANCE SHEET":1744.83},
+			"2012-02": {"total":14823.71, "STREET FORCE BALANCE SHEET":14823.71},
+			"2012-04": {"total":776.31, "STREET FORCE BALANCE SHEET":776.31},
+			"2012-07": {"total":6305.31, "STREET FORCE BALANCE SHEET":6305.31},
+			"2012-11": {"total":12060.15, "GRNI NO LIABILITY VAL / OHEAD":11504.12, "SF GRNI LIABILITY TAKEN":556.03},
+			"2014-03": {"total":3746.10, "GRNI NO LIABILITY VAL / OHEAD":2895.10, "SF GRNI LIABILITY TAKEN":851.00}
+		}
+	},
+	"6610": {
+		"name": "GRACE OWEN NURSERY SCHOOL",
+		"total": 30788.07,
+		"monthly": {
+			"2011-01": {"total":648.28, "SHORT BREAKS FUNDING FOR DISAB":648.28},
+			"2011-03": {"total":513.82, "SHORT BREAKS FUNDING FOR DISAB":513.82},
+			"2011-08": {"total":1318.85, "SNIPS":1318.85},
+			"2012-08": {"total":565.94, "SNIPS":565.94},
+			"2012-09": {"total":709.20, "EAST SA - CIN S17":709.20},
+			"2012-12": {"total":453.90, "EAST SA - CIN S17":453.90},
+			"2013-03": {"total":1102.50, "SNIPS":1102.50},
+			"2013-05": {"total":786.45, "SNIPS":786.45},
+			"2013-06": {"total":451.50, "PROVIDER CONTRACT AUG12-JUL13":451.50},
+			"2013-07": {"total":1537.35, "DISAB CHILD ACCESS CHILDCARE":595.35, "PROVIDER CONTRACT AUG12-JUL13":942.00},
+			"2013-08": {"total":1413.00, "DISAB CHILD ACCESS CHILDCARE":441.00, "PROVIDER CONTRACT AUG12-JUL13":972.00},
+			"2013-11": {"total":344.49, "PARK HILL (STH)":344.49},
+			"2014-01": {"total":1440.00, "PROVIDER CONTRACT AUG13-JUL14":1440.00},
+			"2014-09": {"total":916.80, "PROVIDER CONTRACT AUG13-JUL14":480.00, "SHORT BREAKS FUNDING FOR DISAB":436.80},
+			"2015-04": {"total":427.24, "SHORT BREAKS FUNDING FOR DISAB":427.24},
+			"2015-09": {"total":2108.26, "CYPF":2108.26},
+			"2015-10": {"total":253.45, "CYPF":253.45},
+			"2015-11": {"total":253.45, "CYPF":253.45},
+			"2016-01": {"total":291.56, "CYPF":291.56},
+			"2016-03": {"total":923.26, "CYPF":923.26},
+			"2016-04": {"total":2240.00, "CYPF":2240.00},
+			"2016-07": {"total":660.95, "CYPF":660.95},
+			"2016-09": {"total":1404.23, "CYPF":1404.23},
+			"2016-10": {"total":646.24, "CYPF":646.24},
+			"2017-05": {"total":685.25, "CYPF":685.25},
+			"2018-04": {"total":2015.00, "PEOPLE":2015.00},
+			"2018-08": {"total":319.25, "PEOPLE":319.25},
+			"2018-10": {"total":795.60, "PEOPLE":795.60},
+			"2019-06": {"total":1874.25, "PEOPLE":1874.25},
+			"2019-08": {"total":2288.00, "PEOPLE":2288.00},
+			"2019-09": {"total":1040.00, "PEOPLE":1040.00},
+			"2020-08": {"total":360.00, "PEOPLE":360.00}
+		}
+	},
+	"6611": {
+		"name": "GRACE TEBBUTT HOUSE TRUST LTD (SP)",
+		"total": 177589.55,
+		"monthly": {
+			"2011-01": {"total":10762.64, "SUPPORTING PEOPLE":10762.64},
+			"2011-02": {"total":10762.64, "SUPPORTING PEOPLE":10762.64},
+			"2011-03": {"total":21527.49, "SUPPORTING PEOPLE":21527.49},
+			"2011-04": {"total":10763.20, "SUPPORTING PEOPLE":10763.20},
+			"2011-05": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-06": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-07": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-08": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-09": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-10": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-11": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2011-12": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2012-01": {"total":10762.92, "SUPPORTING PEOPLE":10762.92},
+			"2012-02": {"total":21525.84, "SUPPORTING PEOPLE":21525.84},
+			"2012-03": {"total":5381.46, "SUPPORTING PEOPLE":5381.46}
+		}
+	},
+	"6612": {
+		"name": "GRACES ORNAMENTAL IRONWORK LTD",
+		"total": 4197.6,
+		"monthly": {
+			"2017-04": {"total":1755.60, "CYPF":1755.60},
+			"2017-06": {"total":1636.80, "CYPF":1636.80},
+			"2018-01": {"total":805.20, "PEOPLE":805.20}
+		}
+	},
+	"6613": {
+		"name": "GRADCONSULT LTD",
+		"total": 190104.82,
+		"monthly": {
+			"2013-11": {"total":7646.20, "STRATEGY AND SKILLS":7646.20},
+			"2013-12": {"total":4620.00, "STRATEGY AND SKILLS":4620.00},
+			"2014-01": {"total":2926.00, "STRATEGY AND SKILLS":2926.00},
+			"2014-02": {"total":6420.00, "STRATEGY AND SKILLS":6420.00},
+			"2014-03": {"total":2838.00, "STRATEGY AND SKILLS":2838.00},
+			"2014-05": {"total":1430.00, "STRATEGY AND SKILLS":1430.00},
+			"2014-06": {"total":1482.00, "STRATEGY AND SKILLS":1482.00},
+			"2014-07": {"total":2043.00, "STRATEGY AND SKILLS":2043.00},
+			"2014-11": {"total":1430.00, "STRATEGY AND SKILLS":1430.00},
+			"2014-12": {"total":1990.00, "STRATEGY AND SKILLS":1990.00},
+			"2016-01": {"total":2327.50, "PLACE":2327.50},
+			"2016-02": {"total":2450.00, "PLACE":2450.00},
+			"2019-10": {"total":38718.97, "PLACE":38718.97},
+			"2019-11": {"total":17413.50, "PLACE":17413.50},
+			"2019-12": {"total":14205.98, "PLACE":14205.98},
+			"2020-02": {"total":12186.11, "PLACE":12186.11},
+			"2020-03": {"total":16565.98, "PLACE":16565.98},
+			"2020-05": {"total":17105.17, "PLACE":17105.17},
+			"2020-06": {"total":6252.23, "PLACE":6252.23},
+			"2020-07": {"total":5230.00, "PLACE":5230.00},
+			"2020-08": {"total":16565.98, "PLACE":16565.98},
+			"2020-09": {"total":8258.20, "PLACE":8258.20}
+		}
+	},
+	"6614": {
+		"name": "GRADCORE LTD",
+		"total": 610380,
+		"monthly": {
+			"2014-01": {"total":19650.00, "STRATEGY AND SKILLS":19650.00},
+			"2014-05": {"total":21663.00, "STRATEGY AND SKILLS":21663.00},
+			"2014-08": {"total":17563.00, "STRATEGY AND SKILLS":17563.00},
+			"2014-09": {"total":19365.00, "STRATEGY AND SKILLS":19365.00},
+			"2014-12": {"total":33699.00, "STRATEGY AND SKILLS":33699.00},
+			"2015-02": {"total":12895.00, "STRATEGY AND SKILLS":12895.00},
+			"2015-03": {"total":14673.00, "STRATEGY AND SKILLS":14673.00},
+			"2015-04": {"total":11858.00, "STRATEGY AND SKILLS":11858.00},
+			"2015-06": {"total":32916.00, "STRATEGY AND SKILLS":32916.00},
+			"2015-07": {"total":2675.00, "PLACE":2675.00},
+			"2015-08": {"total":10562.00, "PLACE":10562.00},
+			"2015-10": {"total":23610.00, "PLACE":23610.00},
+			"2016-01": {"total":10600.00, "PLACE":10600.00},
+			"2016-03": {"total":5151.00, "PLACE":5151.00},
+			"2016-05": {"total":25834.00, "PLACE":25834.00},
+			"2016-06": {"total":25833.00, "PLACE":25833.00},
+			"2016-08": {"total":20000.00, "PLACE":20000.00},
+			"2016-09": {"total":31833.00, "PLACE":31833.00},
+			"2016-12": {"total":10000.00, "PLACE":10000.00},
+			"2017-01": {"total":21000.00, "PLACE":21000.00},
+			"2017-04": {"total":25000.00, "PLACE":25000.00},
+			"2017-07": {"total":18000.00, "PLACE":18000.00},
+			"2017-11": {"total":22000.00, "PLACE":22000.00},
+			"2017-12": {"total":4000.00, "PLACE":4000.00},
+			"2018-01": {"total":31000.00, "PLACE":31000.00},
+			"2018-03": {"total":25000.00, "PLACE":25000.00},
+			"2018-04": {"total":3000.00, "PLACE":3000.00},
+			"2018-07": {"total":21000.00, "PLACE":21000.00},
+			"2018-08": {"total":3000.00, "PLACE":3000.00},
+			"2018-10": {"total":18000.00, "PLACE":18000.00},
+			"2019-01": {"total":26000.00, "PLACE":26000.00},
+			"2019-03": {"total":8000.00, "PLACE":8000.00},
+			"2019-06": {"total":14000.00, "PLACE":14000.00},
+			"2019-07": {"total":2000.00, "PLACE":2000.00},
+			"2019-10": {"total":9000.00, "PLACE":9000.00},
+			"2019-12": {"total":10000.00, "PLACE":10000.00}
+		}
+	},
+	"6615": {
+		"name": "GRADKO INTERNATIONAL LTD",
+		"total": 2193,
+		"monthly": {
+			"2011-08": {"total":2193.00, "AIR QUALITY":2193.00}
+		}
+	},
+	"6616": {
+		"name": "GRADUATES YORKSHIRE",
+		"total": 24220,
+		"monthly": {
+			"2013-06": {"total":12075.00, "STRATEGY AND SKILLS":12075.00},
+			"2013-08": {"total":12145.00, "STRATEGY AND SKILLS":12145.00}
+		}
+	},
+	"6617": {
+		"name": "GRAEME RUDLAND",
+		"total": 900,
+		"monthly": {
+			"2015-10": {"total":450.00, "CYPF":450.00},
+			"2016-03": {"total":450.00, "CYPF":450.00}
+		}
+	},
+	"6618": {
+		"name": "GRAFFITI REMOVAL LTD",
+		"total": 4790,
+		"monthly": {
+			"2017-05": {"total":410.00, "PLACE":410.00},
+			"2017-07": {"total":400.00, "PLACE":400.00},
+			"2018-01": {"total":410.00, "PLACE":410.00},
+			"2018-04": {"total":780.00, "PLACE":780.00},
+			"2018-11": {"total":460.00, "PLACE":460.00},
+			"2019-01": {"total":460.00, "PLACE":460.00},
+			"2019-03": {"total":910.00, "PLACE":910.00},
+			"2019-06": {"total":480.00, "PLACE":480.00},
+			"2019-11": {"total":480.00, "PLACE":480.00}
+		}
+	},
+	"6619": {
+		"name": "GRAFIKA LTD",
+		"alternate-names": [
+			"GRAFIKA LIMITED"
+		],
+		"total": 7965,
+		"monthly": {
+			"2012-03": {"total":4640.00, "THORNBRIDGE OUTDOOR CENTRE":4640.00},
+			"2013-05": {"total":298.00, "OUTDOOR EDUCATION":298.00},
+			"2014-05": {"total":298.00, "OUTDOOR EDUCATION":298.00},
+			"2015-03": {"total":600.00, "OUTDOOR EDUCATION":600.00},
+			"2015-04": {"total":329.00, "OUTDOOR EDUCATION":329.00},
+			"2015-07": {"total":300.00, "CYPF":300.00},
+			"2016-04": {"total":300.00, "CYPF":300.00},
+			"2016-10": {"total":300.00, "CYPF":300.00},
+			"2017-04": {"total":300.00, "CYPF":300.00},
+			"2017-10": {"total":300.00, "PEOPLE":300.00},
+			"2018-04": {"total":300.00, "PEOPLE":300.00}
+		}
+	},
+	"6620": {
+		"name": "GRAHAM COFFEY & CO CLIENT AC",
+		"total": 7866,
+		"monthly": {
+			"2018-02": {"total":1152.00, "CORPORATE":1152.00},
+			"2018-05": {"total":1000.00, "CORPORATE":1000.00},
+			"2018-11": {"total":456.00, "CORPORATE":456.00},
+			"2018-12": {"total":4754.00, "CORPORATE":4754.00},
+			"2019-02": {"total":504.00, "CORPORATE":504.00}
+		}
+	},
+	"6621": {
+		"name": "GRAHAM GREEN FIRE SAFETY CONSULTANCY LTD",
+		"total": 3000,
+		"monthly": {
+			"2011-01": {"total":3000.00, "GENERAL COMM AREAS - INC AREA":3000.00}
+		}
+	},
+	"6622": {
+		"name": "GRAHAM MCVEIGH",
+		"total": 6652.84,
+		"monthly": {
+			"2017-07": {"total":6652.84, "PLACE":6652.84}
+		}
+	},
+	"6623": {
+		"name": "GRAHAM MORRIS ELECTRICAL CONTRACTORS",
+		"total": 2000,
+		"monthly": {
+			"2017-01": {"total":2000.00, "CA LEP":2000.00}
+		}
+	},
+	"6624": {
+		"name": "GRAHAM O'SULLIVAN",
+		"total": 3520,
+		"monthly": {
+			"2011-12": {"total":2200.00, "IN HOUSE FOSTER PLACEMENT":2200.00},
+			"2012-03": {"total":1320.00, "IN HOUSE FOSTER PLACEMENT":1320.00}
+		}
+	},
+	"6625": {
+		"name": "GRAHAM RUST",
+		"total": 459,
+		"monthly": {
+			"2013-02": {"total":459.00, "PRIVATE LANDLORD SCHEME":459.00}
+		}
+	},
+	"6626": {
+		"name": "GRAHAM SMITH BUILDING SERVICES",
+		"total": 8450,
+		"monthly": {
+			"2011-10": {"total":2750.00, "KIRKLEES RHB LOANS HAL":2750.00},
+			"2012-01": {"total":5700.00, "KIRKLEES RHB LOANS HAL":5700.00}
+		}
+	},
+	"6627": {
+		"name": "GRAHAM STUART CONSTRUCTION LTD",
+		"total": 125297.67,
+		"monthly": {
+			"2011-09": {"total":3500.00, "UNALLOCATED":3500.00},
+			"2012-09": {"total":570.00, "MILLENNIUM SQUARE":570.00},
+			"2013-09": {"total":16181.94, "INVESTMENT IN RATIONALISATION":16181.94},
+			"2014-07": {"total":16502.43, "ADAPTATIONS":16502.43},
+			"2014-10": {"total":16197.00, "ADAPTATIONS":16197.00},
+			"2014-11": {"total":30818.00, "ADAPTATIONS":30818.00},
+			"2015-01": {"total":23950.00, "ADAPTATIONS":23950.00},
+			"2015-05": {"total":17578.30, "COUNCIL HSG ACQUISITIONS PROG":17578.30}
+		}
+	},
+	"6628": {
+		"name": "GRAHAM WARSOP",
+		"total": 4966.16,
+		"monthly": {
+			"2014-08": {"total":455.00, "PRIVATE RENTED SOLUTIONS":455.00},
+			"2014-09": {"total":455.00, "PRIVATE RENTED SOLUTIONS":455.00},
+			"2014-12": {"total":455.00, "PRIVATE RENTED SOLUTIONS":455.00},
+			"2015-02": {"total":459.00, "PRIVATE RENTED SOLUTIONS":459.00},
+			"2015-11": {"total":464.00, "COMMUNITIES":464.00},
+			"2016-10": {"total":821.60, "COMMUNITIES":821.60},
+			"2017-02": {"total":928.28, "COMMUNITIES":928.28},
+			"2017-07": {"total":928.28, "COMMUNITIES":928.28}
+		}
+	},
+	"6629": {
+		"name": "GRAINGER APPLEYARD SOLICITORS",
+		"total": 1120,
+		"monthly": {
+			"2017-11": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
+		}
+	},
+	"6630": {
+		"name": "GRANADA GLAZING LTD",
+		"total": 1120,
+		"monthly": {
+			"2016-11": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"6631": {
+		"name": "GRANADA LEARNING LTD",
+		"total": 8168.14,
+		"monthly": {
+			"2011-01": {"total":4817.49, "LEARNING SUPPORT":4817.49},
+			"2011-03": {"total":1200.00, "RAISE ATTAIN&ASP(TEACH&LEARN)":1200.00},
+			"2011-12": {"total":979.15, "LEARNING SUPPORT":979.15},
+			"2013-01": {"total":596.00, "LEARNING SUPPORT":596.00},
+			"2013-02": {"total":575.50, "EARLY YEARS SEN TEAM":325.50, "SENSORY HEARING":250.00}
+		}
+	},
+	"6632": {
+		"name": "GRANADA SECONDARY GLAZING LTD",
+		"total": 7144,
+		"monthly": {
+			"2012-11": {"total":3200.00, "OUTDOOR EDUCATION":3200.00},
+			"2013-02": {"total":1944.00, "OUTDOOR EDUCATION":1944.00},
+			"2013-03": {"total":2000.00, "THORNBRIDGE - STRUCTURAL":2000.00}
+		}
+	},
+	"6633": {
+		"name": "GRANBY NURSERIES LTD",
+		"total": 3360,
+		"monthly": {
+			"2017-04": {"total":3360.00, "CA LEP":3360.00}
+		}
+	},
+	"6634": {
+		"name": "GRAND INTERIOR DESIGNS UK LTD",
+		"total": 2840,
+		"monthly": {
+			"2016-12": {"total":1420.00, "CA LEP":1420.00},
+			"2017-06": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"6635": {
+		"name": "GRANGE CRESCENT",
+		"total": 1722810.19,
+		"monthly": {
+			"2011-01": {"total":33610.00, "PURCHASING ELDERLY":33610.00},
+			"2011-02": {"total":33538.00, "PURCHASING ELDERLY":33538.00},
+			"2011-03": {"total":46964.00, "PURCHASING ELDERLY":46964.00},
+			"2011-04": {"total":37529.92, "PURCHASING ELDERLY":37529.92},
+			"2011-05": {"total":34452.00, "PURCHASING ELDERLY":34452.00},
+			"2011-06": {"total":69428.00, "PURCHASING ELDERLY":69428.00},
+			"2011-07": {"total":51567.14, "PURCHASING ELDERLY":51567.14},
+			"2011-08": {"total":26122.69, "PURCHASING ELDERLY":26122.69},
+			"2011-09": {"total":5422.85, "PURCHASING ELDERLY":5422.85},
+			"2011-10": {"total":79370.00, "PURCHASING ELDERLY":79370.00},
+			"2011-11": {"total":40875.00, "PURCHASING ELDERLY":40875.00},
+			"2011-12": {"total":36974.29, "PURCHASING ELDERLY":36974.29},
+			"2012-01": {"total":38757.14, "PURCHASING ELDERLY":38757.14},
+			"2012-02": {"total":37207.14, "PURCHASING ELDERLY":37207.14},
+			"2012-03": {"total":39930.72, "PURCHASING ELDERLY":39930.72},
+			"2012-04": {"total":36777.00, "PURCHASING ELDERLY":36777.00},
+			"2012-05": {"total":36658.14, "PURCHASING ELDERLY":36658.14},
+			"2012-06": {"total":34581.57, "PURCHASING ELDERLY":34581.57},
+			"2012-07": {"total":74858.71, "PURCHASING ELDERLY":74858.71},
+			"2012-08": {"total":37254.00, "PURCHASING ELDERLY":37254.00},
+			"2012-09": {"total":6537.79, "PURCHASING ELDERLY":6537.79},
+			"2012-10": {"total":68503.78, "ADULT SOCIAL CARE PURCHASING":68503.78},
+			"2012-11": {"total":26023.14, "ADULT SOCIAL CARE PURCHASING":26023.14},
+			"2013-01": {"total":34151.71, "ADULT SOCIAL CARE PURCHASING":34151.71},
+			"2013-02": {"total":41494.20, "ADULT SOCIAL CARE PURCHASING":41494.20},
+			"2013-03": {"total":38955.43, "ADULT SOCIAL CARE PURCHASING":38955.43},
+			"2013-04": {"total":44485.42, "ADULT SOCIAL CARE PURCHASING":44485.42},
+			"2013-05": {"total":41131.15, "ADULT SOCIAL CARE PURCHASING":41131.15},
+			"2013-06": {"total":48687.43, "ADULT SOCIAL CARE PURCHASING":48687.43},
+			"2013-07": {"total":59806.42, "ADULT SOCIAL CARE PURCHASING":59806.42},
+			"2013-08": {"total":47016.57, "ADULT SOCIAL CARE PURCHASING":47016.57},
+			"2013-09": {"total":44853.00, "ADULT SOCIAL CARE PURCHASING":44853.00},
+			"2013-10": {"total":48923.71, "ADULT SOCIAL CARE PURCHASING":48923.71},
+			"2013-11": {"total":39195.86, "ADULT SOCIAL CARE PURCHASING":39195.86},
+			"2013-12": {"total":32885.28, "ADULT SOCIAL CARE PURCHASING":32885.28},
+			"2014-01": {"total":39153.28, "ADULT SOCIAL CARE PURCHASING":39153.28},
+			"2014-03": {"total":35088.00, "ADULT SOCIAL CARE PURCHASING":35088.00},
+			"2014-04": {"total":45069.14, "ADULT SOCIAL CARE PURCHASING":45069.14},
+			"2014-05": {"total":76112.43, "ADULT SOCIAL CARE PURCHASING":76112.43},
+			"2014-06": {"total":34810.29, "ADULT SOCIAL CARE PURCHASING":34810.29},
+			"2014-08": {"total":38047.85, "ADULT SOCIAL CARE PURCHASING":38047.85}
+		}
+	},
+	"6636": {
+		"name": "GRANGE CRESCENT (SHEFFCARE LTD)",
+		"total": 776151.45,
+		"monthly": {
+			"2014-07": {"total":33117.00, "ADULT SOCIAL CARE PURCHASING":33117.00},
+			"2014-09": {"total":38469.85, "ADULT SOCIAL CARE PURCHASING":38469.85},
+			"2014-10": {"total":55241.43, "ADULT SOCIAL CARE PURCHASING":55241.43},
+			"2014-11": {"total":43024.42, "ADULT SOCIAL CARE PURCHASING":43024.42},
+			"2014-12": {"total":48634.29, "ADULT SOCIAL CARE PURCHASING":48634.29},
+			"2015-01": {"total":796.71, "ADULT SOCIAL CARE PURCHASING":796.71},
+			"2015-02": {"total":69611.00, "ADULT SOCIAL CARE PURCHASING":69611.00},
+			"2015-03": {"total":34984.86, "ADULT SOCIAL CARE PURCHASING":34984.86},
+			"2015-04": {"total":81358.87, "ADULT SOCIAL CARE PURCHASING":81358.87},
+			"2015-05": {"total":4703.00, "ADULT SOCIAL CARE PURCHASING":4703.00},
+			"2015-06": {"total":65839.29, "ADULT SOCIAL CARE PURCHASING":65839.29},
+			"2015-07": {"total":33965.86, "COMMUNITIES":33965.86},
+			"2015-08": {"total":29716.29, "COMMUNITIES":29716.29},
+			"2015-09": {"total":43232.99, "COMMUNITIES":43232.99},
+			"2015-10": {"total":66162.42, "COMMUNITIES":66162.42},
+			"2015-11": {"total":44520.14, "COMMUNITIES":44520.14},
+			"2015-12": {"total":6810.45, "COMMUNITIES":6810.45},
+			"2016-01": {"total":75962.58, "COMMUNITIES":75962.58}
+		}
+	},
+	"6637": {
+		"name": "GRANGE CRESCENT SHEFFCARE LTD",
+		"total": 3776509.09999999,
+		"monthly": {
+			"2016-02": {"total":59560.76, "COMMUNITIES":59560.76},
+			"2016-03": {"total":34587.83, "COMMUNITIES":34587.83},
+			"2016-04": {"total":62866.06, "COMMUNITIES":62866.06},
+			"2016-05": {"total":53195.14, "COMMUNITIES":53195.14},
+			"2016-06": {"total":58569.72, "COMMUNITIES":58569.72},
+			"2016-07": {"total":46693.85, "COMMUNITIES":46693.85},
+			"2016-08": {"total":36561.00, "COMMUNITIES":36561.00},
+			"2016-09": {"total":37652.00, "COMMUNITIES":37652.00},
+			"2016-10": {"total":48318.14, "COMMUNITIES":48318.14},
+			"2016-11": {"total":41008.86, "COMMUNITIES":41008.86},
+			"2016-12": {"total":39801.39, "COMMUNITIES":39801.39},
+			"2017-01": {"total":86321.14, "COMMUNITIES":86321.14},
+			"2017-02": {"total":12210.72, "COMMUNITIES":12210.72},
+			"2017-04": {"total":34406.14, "COMMUNITIES":34406.14},
+			"2017-05": {"total":38381.00, "COMMUNITIES":38381.00},
+			"2017-06": {"total":41762.16, "COMMUNITIES":41762.16},
+			"2017-07": {"total":34639.03, "COMMUNITIES":34639.03},
+			"2017-08": {"total":71263.22, "PEOPLE":71263.22},
+			"2017-09": {"total":65632.85, "PEOPLE":65632.85},
+			"2017-10": {"total":44672.88, "PEOPLE":44672.88},
+			"2017-11": {"total":55429.57, "PEOPLE":55429.57},
+			"2017-12": {"total":47543.52, "PEOPLE":47543.52},
+			"2018-01": {"total":43919.50, "PEOPLE":43919.50},
+			"2018-02": {"total":110476.68, "PEOPLE":110476.68},
+			"2018-03": {"total":50526.84, "PEOPLE":50526.84},
+			"2018-04": {"total":73727.24, "PEOPLE":73727.24},
+			"2018-05": {"total":49633.92, "PEOPLE":49633.92},
+			"2018-06": {"total":83178.01, "PEOPLE":83178.01},
+			"2018-07": {"total":69210.30, "PEOPLE":69210.30},
+			"2018-08": {"total":106721.57, "PEOPLE":106721.57},
+			"2018-09": {"total":108685.71, "PEOPLE":108685.71},
+			"2018-10": {"total":10366.35, "PEOPLE":10366.35},
+			"2018-11": {"total":62183.80, "PEOPLE":62183.80},
+			"2018-12": {"total":86657.85, "PEOPLE":86657.85},
+			"2019-01": {"total":131133.16, "PEOPLE":131133.16},
+			"2019-02": {"total":80972.65, "PEOPLE":80972.65},
+			"2019-04": {"total":187551.31, "PEOPLE":187551.31},
+			"2019-05": {"total":70041.07, "PEOPLE":70041.07},
+			"2019-06": {"total":58726.97, "PEOPLE":58726.97},
+			"2019-07": {"total":72003.72, "PEOPLE":72003.72},
+			"2019-08": {"total":68746.72, "PEOPLE":68746.72},
+			"2019-09": {"total":49473.65, "PEOPLE":49473.65},
+			"2019-10": {"total":95909.11, "PEOPLE":95909.11},
+			"2019-11": {"total":74968.32, "PEOPLE":74968.32},
+			"2019-12": {"total":85124.23, "PEOPLE":85124.23},
+			"2020-01": {"total":86766.84, "PEOPLE":86766.84},
+			"2020-02": {"total":88563.61, "PEOPLE":88563.61},
+			"2020-03": {"total":76336.84, "PEOPLE":76336.84},
+			"2020-04": {"total":150146.78, "PEOPLE":150146.78},
+			"2020-05": {"total":82608.10, "PEOPLE":82608.10},
+			"2020-06": {"total":79636.96, "PEOPLE":79636.96},
+			"2020-07": {"total":84417.51, "PEOPLE":84417.51},
+			"2020-08": {"total":34887.92, "PEOPLE":34887.92},
+			"2020-09": {"total":86267.16, "PEOPLE":86267.16},
+			"2020-10": {"total":30093.67, "PEOPLE":30093.67},
+			"2020-12": {"total":95768.05, "PEOPLE":95768.05}
+		}
+	},
+	"6638": {
+		"name": "GRANGEWOOD LODGE RESIDENTIAL HOME",
+		"total": 98211.15,
+		"monthly": {
+			"2014-01": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2014-04": {"total":3192.00, "ADULT SOCIAL CARE PURCHASING":3192.00},
+			"2014-05": {"total":3192.00, "ADULT SOCIAL CARE PURCHASING":3192.00},
+			"2014-07": {"total":3192.00, "ADULT SOCIAL CARE PURCHASING":3192.00},
+			"2014-08": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2014-09": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2014-10": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2014-11": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2014-12": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2015-01": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2015-03": {"total":3192.00, "ADULT SOCIAL CARE PURCHASING":3192.00},
+			"2015-04": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2015-05": {"total":1596.00, "ADULT SOCIAL CARE PURCHASING":1596.00},
+			"2015-07": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2015-09": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2015-10": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2015-12": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2016-02": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2016-04": {"total":4788.00, "COMMUNITIES":4788.00},
+			"2016-06": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2016-09": {"total":3192.00, "COMMUNITIES":3192.00},
+			"2016-12": {"total":6384.00, "COMMUNITIES":6384.00},
+			"2017-03": {"total":4788.00, "COMMUNITIES":4788.00},
+			"2017-07": {"total":6566.00, "COMMUNITIES":6566.00},
+			"2017-09": {"total":6557.40, "PEOPLE":6557.40},
+			"2017-10": {"total":2185.80, "PEOPLE":2185.80},
+			"2018-01": {"total":4371.60, "PEOPLE":4371.60},
+			"2018-04": {"total":13094.35, "PEOPLE":13094.35}
+		}
+	},
+	"6639": {
+		"name": "GRANICUS LLC",
+		"total": 80169,
+		"monthly": {
+			"2018-10": {"total":25856.00, "POLICY, PERFORMANCE AND COMMS":25856.00},
+			"2019-07": {"total":25856.00, "POLICY, PERFORMANCE AND COMMS":25856.00},
+			"2020-09": {"total":28457.00, "POLICY, PERFORMANCE AND COMMS":28457.00}
+		}
+	},
+	"6640": {
 		"name": "GRANT KANGLEY TA PROPERTY PLUS",
 		"total": 21222,
 		"monthly": {
 			"2020-04": {"total":21222.00, "PLACE":21222.00}
 		}
 	},
-	"6601": {
+	"6641": {
 		"name": "GRANT THORNTON UK LLP",
 		"total": 560897.62,
 		"monthly": {
@@ -51,7 +771,7 @@
 			"2020-05": {"total":10000.00, "RESOURCES":10000.00}
 		}
 	},
-	"6602": {
+	"6642": {
 		"name": "GRANTA DESIGN LTD",
 		"total": 47083.32,
 		"monthly": {
@@ -75,7 +795,7 @@
 			"2016-03": {"total":3250.00, "COMMUNITIES":3250.00}
 		}
 	},
-	"6603": {
+	"6643": {
 		"name": "GRANTON MEDICAL LTD",
 		"total": 7712,
 		"monthly": {
@@ -84,7 +804,7 @@
 			"2020-05": {"total":1412.00, "PLACE":1412.00}
 		}
 	},
-	"6604": {
+	"6644": {
 		"name": "GRANVILLE OIL AND CHEMICALS LTD",
 		"total": 58240.85,
 		"monthly": {
@@ -96,7 +816,7 @@
 			"2018-05": {"total":1553.40, "LOCAL ENTERPRISE PARTNERSHIP":1553.40}
 		}
 	},
-	"6605": {
+	"6645": {
 		"name": "GRAPEVINE CENTRE LUNCHEON CLUB",
 		"total": 12657,
 		"monthly": {
@@ -125,9 +845,9 @@
 			"2017-01": {"total":513.00, "COMMUNITIES":513.00}
 		}
 	},
-	"6606": {
+	"6646": {
 		"name": "GRAPEVINE NURSERY LTD",
-		"total": 228940.34,
+		"total": 230019.85,
 		"monthly": {
 			"2017-04": {"total":1120.00, "CA LEP":1120.00},
 			"2017-08": {"total":14535.36, "PEOPLE":14535.36},
@@ -153,10 +873,11 @@
 			"2020-03": {"total":7550.75, "PEOPLE":7550.75},
 			"2020-04": {"total":27236.27, "PEOPLE":27236.27},
 			"2020-06": {"total":12756.01, "PEOPLE":12756.01},
-			"2020-08": {"total":14343.92, "PEOPLE":14343.92}
+			"2020-08": {"total":14343.92, "PEOPLE":14343.92},
+			"2020-12": {"total":1079.51, "PEOPLE":1079.51}
 		}
 	},
-	"6607": {
+	"6647": {
 		"name": "GRAPEVINE NURSERY SCHOOL",
 		"total": 22100,
 		"monthly": {
@@ -164,7 +885,7 @@
 			"2012-11": {"total":11050.00, "WORKFORCE DEVELOPMENT":11050.00}
 		}
 	},
-	"6608": {
+	"6648": {
 		"name": "GRAPHIC DESIGN SUPPLIES LTD",
 		"alternate-names": [
 			"GRAPHIC DESIGN SUPPLIES LIMITED"
@@ -176,7 +897,7 @@
 			"2020-01": {"total":-8.95, "PLACE":-8.95}
 		}
 	},
-	"6609": {
+	"6649": {
 		"name": "GRAPHIC ENGINEERING (NORTHERN)",
 		"total": 2442.25,
 		"monthly": {
@@ -186,542 +907,6 @@
 			"2017-01": {"total":295.00, "COMMUNITIES":295.00},
 			"2018-01": {"total":665.00, "PEOPLE":665.00},
 			"2020-07": {"total":310.00, "RESOURCES":310.00}
-		}
-	},
-	"6610": {
-		"name": "GRASSMATS LTD",
-		"total": 1220.5,
-		"monthly": {
-			"2018-04": {"total":1220.50, "PLACE":1220.50}
-		}
-	},
-	"6611": {
-		"name": "GRAVELMASTER LTD",
-		"total": 2240,
-		"monthly": {
-			"2015-10": {"total":1120.00, "CA LEP":1120.00},
-			"2017-10": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"6612": {
-		"name": "GRAVES PARK FORUM TEA DANCE",
-		"total": 500,
-		"monthly": {
-			"2017-09": {"total":500.00, "PEOPLE":500.00}
-		}
-	},
-	"6613": {
-		"name": "GRAY AND FOY LTD",
-		"alternate-names": [
-			"GRAY AND FOY LIMITED"
-		],
-		"total": 35000,
-		"monthly": {
-			"2015-05": {"total":35000.00, "RGF 4":35000.00}
-		}
-	},
-	"6614": {
-		"name": "GRAY ASSOCIATES",
-		"total": 9833,
-		"monthly": {
-			"2013-08": {"total":610.00, "COMMUNICATIONS":610.00},
-			"2014-04": {"total":250.00, "COMMUNICATIONS":250.00},
-			"2014-10": {"total":610.00, "COMMUNICATIONS":610.00},
-			"2014-12": {"total":350.00, "COMMERCIAL TEAM":350.00},
-			"2016-03": {"total":4770.00, "POLICY PERFORMANCE AND COMMS":4770.00},
-			"2016-09": {"total":360.00, "POLICY PERFORMANCE AND COMMS":360.00},
-			"2017-10": {"total":360.00, "POLICY, PERFORMANCE AND COMMS":360.00},
-			"2020-03": {"total":2223.00, "POLICY, PERFORMANCE AND COMMS":2223.00},
-			"2020-07": {"total":300.00, "POLICY, PERFORMANCE AND COMMS":300.00}
-		}
-	},
-	"6615": {
-		"name": "GRAYS INN SQUARE",
-		"total": 135344,
-		"monthly": {
-			"2016-09": {"total":20222.00, "CA LEP":20222.00},
-			"2016-10": {"total":20250.00, "CA LEP":20250.00},
-			"2016-12": {"total":77100.00, "CA LEP":77100.00},
-			"2017-01": {"total":3500.00, "CA LEP":3500.00},
-			"2018-04": {"total":11500.00, "LOCAL ENTERPRISE PARTNERSHIP":11500.00},
-			"2018-11": {"total":2772.00, "PLACE":2772.00}
-		}
-	},
-	"6616": {
-		"name": "GRAYS INN SQUARE CHAMBERS LTD",
-		"total": 20425,
-		"monthly": {
-			"2011-03": {"total":8150.00, "MGT  & DELIVERY (BIG)":8150.00},
-			"2011-11": {"total":4175.00, "ASSETS":1700.00, "MANAGEMENT":2475.00},
-			"2011-12": {"total":4500.00, "MANAGEMENT":4500.00},
-			"2012-11": {"total":3600.00, "CORPORATE GOVERNANCE":3000.00, "TUDOR SQUARE SCHEME":600.00}
-		}
-	},
-	"6617": {
-		"name": "GRAYSONS SOLICITORS",
-		"total": 1909010.32,
-		"monthly": {
-			"2011-01": {"total":10000.00, "CLAIMS":10000.00},
-			"2011-02": {"total":42317.08, "CLAIMS":40700.00, "SKINNERTHORPE SCC (EAST)":1617.08},
-			"2011-04": {"total":12559.17, "CLAIMS":12559.17},
-			"2011-06": {"total":30201.00, "CLAIMS":30201.00},
-			"2011-08": {"total":6000.00, "CLAIMS":6000.00},
-			"2011-09": {"total":16500.00, "CLAIMS":16500.00},
-			"2011-10": {"total":19000.00, "CLAIMS":19000.00},
-			"2011-11": {"total":8084.40, "CLAIMS":7479.40, "WOODHOUSE SPORTS FACILITY":605.00},
-			"2011-12": {"total":14700.00, "CLAIMS":14700.00},
-			"2012-01": {"total":4400.00, "CLAIMS":4400.00},
-			"2012-02": {"total":33685.49, "CLAIMS":33685.49},
-			"2012-03": {"total":25796.09, "CARE PROCEEDINGS (LEGAL FEES)":837.60, "CLAIMS":24958.49},
-			"2012-04": {"total":26900.00, "CLAIMS":26900.00},
-			"2012-05": {"total":4650.00, "CLAIMS":4650.00},
-			"2012-07": {"total":24490.00, "CLAIMS":24490.00},
-			"2012-08": {"total":11200.00, "CLAIMS":11200.00},
-			"2012-09": {"total":5013.80, "CLAIMS":5013.80},
-			"2012-10": {"total":14225.00, "CLAIMS":14225.00},
-			"2012-11": {"total":32650.00, "CLAIMS":32650.00},
-			"2013-02": {"total":20537.00, "CLAIMS":20537.00},
-			"2013-03": {"total":7500.00, "CLAIMS":7500.00},
-			"2013-04": {"total":8000.00, "CLAIMS":8000.00},
-			"2013-05": {"total":29480.34, "CLAIMS":29480.34},
-			"2013-06": {"total":4875.00, "CLAIMS":4875.00},
-			"2013-07": {"total":49450.00, "CLAIMS":49450.00},
-			"2013-10": {"total":1750.00, "CLAIMS":1750.00},
-			"2013-11": {"total":19050.00, "CLAIMS":19050.00},
-			"2013-12": {"total":7540.00, "CLAIMS":7540.00},
-			"2014-01": {"total":16000.00, "CLAIMS":16000.00},
-			"2014-02": {"total":44800.00, "CLAIMS":44800.00},
-			"2014-03": {"total":12000.00, "CLAIMS":12000.00},
-			"2014-04": {"total":17000.00, "CLAIMS":17000.00},
-			"2014-05": {"total":65000.00, "LTE'S PURCHASE & REPAIR":65000.00},
-			"2014-07": {"total":7400.00, "CLAIMS":7400.00},
-			"2014-10": {"total":7650.00, "CLAIMS":7650.00},
-			"2014-11": {"total":3125.00, "CLAIMS":3125.00},
-			"2014-12": {"total":20397.50, "CLAIMS":20397.50},
-			"2015-01": {"total":10762.00, "CLAIMS":10762.00},
-			"2015-03": {"total":27000.00, "CLAIMS":27000.00},
-			"2015-05": {"total":136424.00, "CLAIMS":3924.00, "COUNCIL HSG ACQUISITIONS PROG":132500.00},
-			"2015-07": {"total":107806.79, "PLACE":88500.00, "RESOURCES":19306.79},
-			"2015-10": {"total":88932.00, "CYPF":432.00, "PLACE":88500.00},
-			"2015-12": {"total":47623.97, "CYPF":1839.97, "PLACE":41500.00, "RESOURCES":4284.00},
-			"2016-01": {"total":320.83, "CYPF":320.83},
-			"2016-02": {"total":165000.00, "PLACE":165000.00},
-			"2016-03": {"total":78950.00, "PLACE":67000.00, "RESOURCES":11950.00},
-			"2016-04": {"total":2060.00, "CYPF":2060.00},
-			"2016-08": {"total":5071.86, "RESOURCES":5071.86},
-			"2016-10": {"total":24566.00, "CYPF":2566.00, "RESOURCES":22000.00},
-			"2016-11": {"total":350.00, "CYPF":350.00},
-			"2017-01": {"total":65000.00, "PLACE":65000.00},
-			"2017-02": {"total":7000.00, "RESOURCES":7000.00},
-			"2017-08": {"total":70500.00, "PLACE":70500.00},
-			"2018-03": {"total":94216.00, "PLACE":94216.00},
-			"2018-04": {"total":60000.00, "PLACE":60000.00},
-			"2019-01": {"total":156000.00, "PLACE":156000.00},
-			"2019-02": {"total":77500.00, "PLACE":77500.00}
-		}
-	},
-	"6618": {
-		"name": "GRAYSONS SOLICITORS (CLIENT ACCOUNT)",
-		"total": 80000,
-		"monthly": {
-			"2019-08": {"total":80000.00, "PLACE":80000.00}
-		}
-	},
-	"6619": {
-		"name": "GRAYWOODS (LIQUIDATOR OF ABOUT PLAY)",
-		"total": 7129,
-		"monthly": {
-			"2018-11": {"total":7129.00, "PEOPLE":7129.00}
-		}
-	},
-	"6620": {
-		"name": "GRAZING HARTS LTD",
-		"total": 1120,
-		"monthly": {
-			"2018-01": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"6621": {
-		"name": "GRC PRECAST INTERNATIONAL LTD",
-		"total": 1420,
-		"monthly": {
-			"2016-07": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"6622": {
-		"name": "GREASBOROUGH NURSING HOME",
-		"total": 11587.24,
-		"monthly": {
-			"2011-01": {"total":1407.71, "PURCHASING ELDERLY":1407.71},
-			"2011-06": {"total":10179.53, "PURCHASING ELDERLY":10179.53}
-		}
-	},
-	"6623": {
-		"name": "GREASBOROUGH RES&NURSING HOME",
-		"total": 54881.77,
-		"monthly": {
-			"2017-01": {"total":5804.41, "CA LEP":1120.00, "COMMUNITIES":4684.41},
-			"2017-07": {"total":15315.86, "COMMUNITIES":15315.86},
-			"2017-08": {"total":2405.80, "PEOPLE":2405.80},
-			"2017-09": {"total":2405.80, "PEOPLE":2405.80},
-			"2017-10": {"total":2405.80, "PEOPLE":2405.80},
-			"2017-11": {"total":2405.80, "PEOPLE":2405.80},
-			"2017-12": {"total":2405.80, "PEOPLE":2405.80},
-			"2018-01": {"total":4811.60, "PEOPLE":4811.60},
-			"2018-02": {"total":2405.80, "PEOPLE":2405.80},
-			"2018-03": {"total":2413.10, "PEOPLE":2413.10},
-			"2018-04": {"total":2420.40, "PEOPLE":2420.40},
-			"2018-05": {"total":2420.40, "PEOPLE":2420.40},
-			"2018-06": {"total":2420.40, "PEOPLE":2420.40},
-			"2018-07": {"total":2420.40, "PEOPLE":2420.40},
-			"2018-08": {"total":2420.40, "PEOPLE":2420.40}
-		}
-	},
-	"6624": {
-		"name": "GREASBROUGH POST OFFICE",
-		"total": 2240,
-		"monthly": {
-			"2016-10": {"total":2240.00, "CA LEP":2240.00}
-		}
-	},
-	"6625": {
-		"name": "GREASBROUGH PRIMARY SCHOOL",
-		"total": 2900,
-		"monthly": {
-			"2015-10": {"total":633.00, "CYPF":633.00},
-			"2016-02": {"total":1633.00, "CYPF":1633.00},
-			"2016-05": {"total":634.00, "CYPF":634.00}
-		}
-	},
-	"6626": {
-		"name": "GREAT OAKS PSYCHOLOGY LTD",
-		"total": 3925,
-		"monthly": {
-			"2019-01": {"total":1300.00, "PEOPLE":1300.00},
-			"2019-02": {"total":1300.00, "PEOPLE":1300.00},
-			"2019-06": {"total":1050.00, "PEOPLE":1050.00},
-			"2020-04": {"total":275.00, "PEOPLE":275.00}
-		}
-	},
-	"6627": {
-		"name": "GREAT PLACES HOUSING ASSOCIATION",
-		"total": 3302973.54,
-		"monthly": {
-			"2011-03": {"total":3866.64, "CA DISCRETIONARY BUDGET":1100.00, "WORKSTEP":1625.00, "YOUTH CRIME FIP":1141.64},
-			"2011-05": {"total":573.62, "YOUTH CRIME FIP":573.62},
-			"2011-08": {"total":840.00, "POSITIVE ACTIVITIES FOR 8-13'S":840.00},
-			"2011-10": {"total":1000.00, "COMMUNITY ASSEMBLY SOUTH EAST":1000.00},
-			"2012-10": {"total":781.43, "DISCETIONARY HOUSING PAYMENTS":781.43},
-			"2013-02": {"total":1070.45, "DISCETIONARY HOUSING PAYMENTS":1070.45},
-			"2013-05": {"total":1264.65, "DISCETIONARY HOUSING PAYMENTS":1264.65},
-			"2013-07": {"total":250.38, "DISCETIONARY HOUSING PAYMENTS":250.38},
-			"2013-08": {"total":286.13, "DISCETIONARY HOUSING PAYMENTS":286.13},
-			"2014-03": {"total":3289867.49, "PARK HILL RE SECOND PBA":3289867.49},
-			"2014-07": {"total":261.64, "SERVICE TENANCIES":261.64},
-			"2015-12": {"total":418.08, "COMMUNITIES":418.08},
-			"2016-05": {"total":1022.00, "COMMUNITIES":1022.00},
-			"2017-01": {"total":396.92, "COMMUNITIES":396.92},
-			"2018-04": {"total":796.64, "PLACE":796.64},
-			"2019-08": {"total":277.47, "PLACE":277.47}
-		}
-	},
-	"6628": {
-		"name": "GREAT SANKEY HIGH SCHOOL",
-		"total": 1300,
-		"monthly": {
-			"2012-06": {"total":500.00, "LACES":500.00},
-			"2013-01": {"total":500.00, "LACES":500.00},
-			"2013-06": {"total":300.00, "ISB":300.00}
-		}
-	},
-	"6629": {
-		"name": "GREAT WESTERN HOSPITAL NHS FT",
-		"total": 288.2,
-		"monthly": {
-			"2018-02": {"total":288.20, "PEOPLE":288.20}
-		}
-	},
-	"6630": {
-		"name": "GREATER LONDON AUTHORITY",
-		"total": 1200,
-		"monthly": {
-			"2012-08": {"total":1200.00, "POLICY AND RESEARCH":1200.00}
-		}
-	},
-	"6631": {
-		"name": "GREATER MANCHESTER PROBATION TRUST",
-		"total": 250,
-		"monthly": {
-			"2014-04": {"total":250.00, "FUTURE PROOF NEETS 14 - 25":250.00}
-		}
-	},
-	"6632": {
-		"name": "GREATER SOMALI COMMUNITY NETWORK",
-		"total": 2420,
-		"monthly": {
-			"2011-04": {"total":1920.00, "SMALL GRANTS":1920.00},
-			"2011-08": {"total":500.00, "MIGRATION COHESION TEAM":500.00}
-		}
-	},
-	"6633": {
-		"name": "GREAVE HOUSE FARM TRUST",
-		"total": 250,
-		"monthly": {
-			"2015-08": {"total":250.00, "COMMUNITIES":250.00}
-		}
-	},
-	"6634": {
-		"name": "GREEN BROS LTD",
-		"total": 3360,
-		"monthly": {
-			"2016-09": {"total":2240.00, "CA LEP":2240.00},
-			"2016-12": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"6635": {
-		"name": "GREEN BROTHERS LTD",
-		"total": 1463,
-		"monthly": {
-			"2012-03": {"total":1463.00, "COMMUNITY ASSEMBLY NORTH":1463.00}
-		}
-	},
-	"6636": {
-		"name": "GREEN CAKE CAFE",
-		"total": 4898,
-		"monthly": {
-			"2012-11": {"total":4898.00, "SHEFFIELD COMMUNITY NETWORK":4898.00}
-		}
-	},
-	"6637": {
-		"name": "GREEN CITY ACTION",
-		"total": 9773,
-		"monthly": {
-			"2011-07": {"total":500.00, "COMMUNITY ASSEMBLY NORTH EAST":500.00},
-			"2012-02": {"total":4768.00, "CLIMATE IMPACT FUND":4768.00},
-			"2014-07": {"total":500.00, "NORTH EAST":500.00},
-			"2014-12": {"total":500.00, "NORTH EAST":500.00},
-			"2015-08": {"total":500.00, "COMMUNITIES":500.00},
-			"2019-03": {"total":965.00, "PEOPLE":965.00},
-			"2019-07": {"total":2040.00, "PLACE":2040.00}
-		}
-	},
-	"6638": {
-		"name": "GREEN CROSS CHEMISTS - ALL BRANCHES",
-		"total": 3185,
-		"monthly": {
-			"2018-11": {"total":2320.00, "PEOPLE":2320.00},
-			"2020-06": {"total":615.00, "PEOPLE":615.00},
-			"2020-09": {"total":250.00, "PEOPLE":250.00}
-		}
-	},
-	"6639": {
-		"name": "GREEN ESTATE LTD",
-		"total": 5090665.71,
-		"monthly": {
-			"2011-01": {"total":42041.00, "CA DISCRETIONARY BUDGET":39666.00, "COMMUNITY BUILDINGS MANAGEMENT":2375.00},
-			"2011-02": {"total":104083.84, "CA DISCRETIONARY BUDGET":5000.00, "CENTRALISED CLEARED SITES":2030.00, "ENHANCED SITES (NORTH)":20000.00, "ESTATE SERVICES":1592.10, "LIVING NEIGHBOURHOODS":6190.00, "PARKS COMMUNITY PARTNERSHIP":47500.00, "SCC BALANCE SHEET":2146.00, "SOUTH CLEARED SITES":19625.74},
-			"2011-03": {"total":186923.06, "BRIGHTSIDE SHIREGREEN NC":1738.00, "CATHERINE STREET SCC (EAST)":725.00, "CENTRALISED CLEARED SITES":1020.00, "CHAUCER HEALTH CENTRE":14130.76, "DEVONSHIRE GREEN":1660.00, "EAST CLEARED STES":22084.44, "ENHANCED SITES (NORTH)":20000.00, "LEISURE GARDENS":2120.00, "MANOR DEEP PITS":2126.00, "NORTH CLEARED STES":41936.55, "PARKS OPERATIONS EAST":9998.17, "PARKS OPERATIONS NORTH":1280.50, "RANGERS (MANAGER)":4850.00, "RANGERS (WEST)":1260.00, "SOUTH CLEARED SITES":17644.14, "STREET FORCE BALANCE SHEET":44349.50},
-			"2011-04": {"total":32245.50, "CA DISCRETIONARY BUDGET":28166.00, "ESTATE SERVICES":2047.50, "MANOR FIELDS GATEWAY":2032.00},
-			"2011-05": {"total":54665.00, "ENVIRONMENTAL PLANNING":775.00, "ESTATE SERVICES":2925.50, "MANOR DEEP PITS":9739.50, "MANOR FIELDS GATEWAY":975.00, "PARKS COMMUNITY PARTNERSHIP":40250.00},
-			"2011-06": {"total":866.00, "STRENGTHENING PUBLIC HEALTH":866.00},
-			"2011-07": {"total":98308.65, "ABST GRANTS":2000.00, "EXECUTIVE DIRECTOR & SECRETARI":25000.00, "INVESTMENT IN COMMUNITIES2":500.00, "PROVIDER INNOVATION FUND":5000.00, "SOUTH CLEARED SITES":61811.15, "STREET FORCE BALANCE SHEET":3997.50},
-			"2011-08": {"total":43660.00, "PARKS COMMUNITY PARTNERSHIP":40250.00, "PARSON CROSS ENTRANCE":1250.00, "SHARROW RANGER":2160.00},
-			"2011-09": {"total":3134.10, "COMMUNITY ASSEMBLY EAST":500.00, "ESTATE SERVICES":1455.50, "PUBLIC REALM OH AND SUPPORT":1178.60},
-			"2011-10": {"total":86045.25, "CATHERINE STREET SCC (EAST)":540.00, "EAST OPEN SPACE MAINTENANCE":595.00, "ESTATE SERVICES":3725.00, "HERITAGE WOODLANDS":835.00, "HRA CLEARED SITES":71135.25, "MANOR FIELDS GATEWAY":3520.00, "PAGE HALL REMODELLING (EAST)":695.00, "PROVIDER INNOVATION FUND":5000.00},
-			"2011-11": {"total":3799.00, "ESTATE SERVICES":3299.00, "OFF THE SHELF":500.00},
-			"2011-12": {"total":52820.00, "BRIGHTSIDE/SHIREGREEN COM FORE":713.00, "COMMUNITY ASSEMBLY EAST":49742.00, "ESTATE SERVICES":2365.00},
-			"2012-01": {"total":203183.02, "COMMUNITY ASSEMBLY EAST":2000.00, "COMMUNITY ASSEMBLY NORTH EAST":590.00, "EMPTY PROPERTY TEAM":660.00, "HRA CLEARED SITES":118933.02, "PARKS COMMUNITY PARTNERSHIP":81000.00},
-			"2012-02": {"total":24930.00, "COMMUNITY ASSEMBLY SOUTH EAST":4250.00, "LAND":11000.00, "LOCAL PRIORITIES":4000.00, "WOODLAND MGMT FOR BIRDS YH":5680.00},
-			"2012-03": {"total":168999.35, "COMMUNITY ASSEMBLY EAST":26392.00, "COMMUNITY ASSEMBLY NORTH EAST":5585.00, "HRA CLEARED SITES":98808.09, "LEISURE GARDENS":850.00, "LOCAL PRIORITIES":3850.00, "NORTH RANGERS":600.00, "PARKS OPERATIONS EAST":9934.26, "PROVIDER INNOVATION FUND":5000.00, "WOODLAND MGMT FOR BIRDS YH":17185.00, "WOODSIDE SECURITY PYE BANK SCH":795.00},
-			"2012-04": {"total":9288.80, "EXTENDED LEARNING & SUPPORT":2718.80, "GENERAL OPEN SPACE MAINTENANCE":1570.00, "PROVIDER INNOVATION FUND":5000.00},
-			"2012-05": {"total":30024.00, "100 APPRENTICES":1183.00, "COMMUNITY ASSEMBLY EAST":23091.00, "COMMUNITY ASSEMBLY SOUTH EAST":5750.00},
-			"2012-06": {"total":32878.05, "ESTATE SERVICES":5236.25, "LEISURE GARDENS":1241.80, "NORTH RANGERS":1400.00, "PORTFOLIO LEADERSHIP":25000.00},
-			"2012-07": {"total":88561.90, "ALLOTMENTS INVESTMENT PROGRAMM":1170.00, "GENERAL OPEN SPACE MAINTENANCE":2589.00, "HRA CLEARED SITES":4018.20, "LOCAL PRIORITIES":4725.00, "PARKS COMMUNITY PARTNERSHIP":36250.00, "STREET FORCE BALANCE SHEET":39809.70},
-			"2012-08": {"total":47001.27, "CITY CENTRE PROMOTIONAL PLAN":873.77, "NEW PROJECT TEAM":9877.50, "PARKS COMMUNITY PARTNERSHIP":36250.00},
-			"2012-09": {"total":76430.15, "CENTRALISED CLEARED SITES":2668.96, "ESTATE SERVICES":1395.00, "GENERAL OPEN SPACE MAINTENANCE":3800.00, "HRA CLEARED SITES":68566.19},
-			"2012-10": {"total":191151.49, "100 APPRENTICES":633.75, "ACTIVITY CENTRES":1300.00, "CENTRALISED CLEARED SITES":5992.90, "COMMUNITY ASSEMBLY NORTH EAST":765.00, "EP CENTRAL":6505.00, "HRA CLEARED SITES":139617.34, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2012-11": {"total":39636.00, "COMMUNITY ASSEMBLY EAST":4000.00, "COMMUNITY ASSEMBLY SOUTH EAST":22500.00, "ESTATE SERVICES":4830.00, "GENERAL OPEN SPACE MAINTENANCE":5195.00, "HRA CLEARED SITES":2511.00, "WOODLANDS":600.00},
-			"2013-01": {"total":110590.30, "100 APPRENTICES":1283.80, "CENTRALISED CLEARED SITES":3968.00, "COMMUNITY ASSEMBLY EAST":300.00, "ESTATE SERVICES":2170.00, "HRA CLEARED SITES":69531.76, "LOCAL HOUSING COMPANY":15696.74, "NORTH RANGERS":900.00, "PARKS OPERATIONS EAST":10000.00, "WOODLAND MGMT FOR BIRDS YH":6740.00},
-			"2013-02": {"total":45307.50, "CENTRAL OPEN SPACE MAINTENANCE":4700.00, "DEVONSHIRE GREEN":1890.00, "GENERAL OPEN SPACE MAINTENANCE":1500.00, "PARKS COMMUNITY PARTNERSHIP":36337.50, "WOODLANDS":880.00},
-			"2013-03": {"total":135766.75, "CENTRALISED CLEARED SITES":6069.40, "GENERAL OPEN SPACE MAINTENANCE":2750.00, "HRA CLEARED SITES":64796.33, "NEW PROJECT TEAM":9994.12, "S106 AGREEMENT":50409.69, "SHEFFIELD COMMUNITY NETWORK":1747.21},
-			"2013-04": {"total":1291.32, "100 APPRENTICES":1291.32},
-			"2013-05": {"total":28682.00, "WOODLAND MGMT FOR BIRDS YH":28682.00},
-			"2013-06": {"total":550.00, "PARKS OPERATIONS EAST":550.00},
-			"2013-07": {"total":64807.50, "ACCES2NATURE":350.00, "PARKS COMMUNITY PARTNERSHIP":36337.50, "PORTFOLIO LEADERSHIP":25000.00, "WOODLAND MGMT FOR BIRDS YH":3120.00},
-			"2013-08": {"total":137306.24, "ESTATE & ENVIORMENTAL SERVICES":2170.00, "HRA CLEARED SITES":135136.24},
-			"2013-09": {"total":36337.50, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2013-10": {"total":1750.00, "ESTATE & ENVIORMENTAL SERVICES":1750.00},
-			"2013-11": {"total":143280.27, "COMMUNITY ASSEMBLY EAST":400.00, "ESTATE & ENVIORMENTAL SERVICES":26375.00, "HARD FM":2750.00, "HRA CLEARED SITES":77417.77, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2013-12": {"total":5049.00, "ESTATE & ENVIORMENTAL SERVICES":1505.00, "GROUNDS MAINTENANCE":3544.00},
-			"2014-01": {"total":20641.43, "CROSS HOUSE ENABLING WORK":896.70, "EAST":400.00, "ESTATE & ENVIORMENTAL SERVICES":17460.00, "INCLUSION CENTRE":1884.73},
-			"2014-02": {"total":5896.00, "DEVONSHIRE GREEN":4270.00, "ESTATE & ENVIORMENTAL SERVICES":910.00, "SCC BALANCE SHEET":716.00},
-			"2014-03": {"total":169984.63, "CHAUCER SQUARE MAINTENANCE":1742.65, "CLOSED LANDFILL SITES":2468.19, "EAST":2000.00, "ESTATE & ENVIORMENTAL SERVICES":1800.00, "HRA CLEARED SITES":92172.68, "PARKS COMMUNITY PARTNERSHIP":36337.50, "PARKS OPS EAST & NORTH EAST":19985.00, "S106 AGREEMENT":8759.61, "TINSLEY CENTRE":4719.00},
-			"2014-04": {"total":4100.00, "ATTERCLIFFE LOCAL CENTRE":4100.00},
-			"2014-05": {"total":1970.00, "ESTATE & ENVIORMENTAL SERVICES":1970.00},
-			"2014-07": {"total":36337.50, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2014-08": {"total":6497.66, "HRA CLEARED SITES":6497.66},
-			"2014-09": {"total":117994.21, "HRA CLEARED SITES":81656.71, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2014-10": {"total":141474.54, "ESTATE & ENVIORMENTAL SERVICES":30382.00, "HRA CLEARED SITES":111092.54},
-			"2014-11": {"total":10402.65, "EAST":1500.00, "ESTATE & ENVIORMENTAL SERVICES":2100.00, "HOUSING EMPLOYABILITY PROJECT":6540.00, "HRA CLEARED SITES":262.65},
-			"2014-12": {"total":54608.75, "ALLOTMENTS":975.00, "ESTATE & ENVIORMENTAL SERVICES":5415.00, "HOUSING EMPLOYABILITY PROJECT":7525.00, "PARKS COMMUNITY PARTNERSHIP":36337.50, "S106 AGREEMENT":4356.25},
-			"2015-01": {"total":71417.54, "HRA CLEARED SITES":35080.04, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2015-02": {"total":20000.00, "PARKS OPS EAST & NORTH EAST":20000.00},
-			"2015-03": {"total":24047.66, "EAST":1000.00, "ESTATE & ENVIORMENTAL SERVICES":4700.00, "HRA CLEARED SITES":18347.66},
-			"2015-05": {"total":36337.50, "PARKS COMMUNITY PARTNERSHIP":36337.50},
-			"2015-07": {"total":39165.94, "COMMUNITIES":9192.00, "PLACE":29973.94},
-			"2015-08": {"total":27445.00, "COMMUNITIES":14945.00, "PLACE":12500.00},
-			"2015-09": {"total":36337.50, "PLACE":36337.50},
-			"2015-10": {"total":134303.99, "COMMUNITIES":35959.00, "PLACE":98344.99},
-			"2015-11": {"total":18441.50, "COMMUNITIES":16005.00, "PLACE":2436.50},
-			"2015-12": {"total":53837.50, "PLACE":53837.50},
-			"2016-01": {"total":74292.89, "COMMUNITIES":14547.00, "PLACE":59745.89},
-			"2016-02": {"total":39262.50, "COMMUNITIES":2925.00, "PLACE":36337.50},
-			"2016-03": {"total":43682.75, "COMMUNITIES":20166.75, "PLACE":23516.00},
-			"2016-04": {"total":31842.53, "COMMUNITIES":10126.32, "PLACE":21716.21},
-			"2016-05": {"total":10005.00, "COMMUNITIES":10005.00},
-			"2016-06": {"total":6450.00, "COMMUNITIES":6450.00},
-			"2016-07": {"total":116708.24, "COMMUNITIES":7341.83, "PLACE":109366.41},
-			"2016-08": {"total":5695.25, "COMMUNITIES":5695.25},
-			"2016-09": {"total":5875.00, "COMMUNITIES":5875.00},
-			"2016-10": {"total":120299.98, "COMMUNITIES":14362.82, "PLACE":105937.16},
-			"2016-12": {"total":24976.40, "COMMUNITIES":10744.00, "PLACE":14232.40},
-			"2017-01": {"total":65934.47, "COMMUNITIES":2995.00, "PLACE":62939.47},
-			"2017-02": {"total":6755.00, "COMMUNITIES":6275.00, "PLACE":480.00},
-			"2017-03": {"total":350.00, "PLACE":350.00},
-			"2017-04": {"total":1400.00, "PLACE":1400.00},
-			"2017-06": {"total":2000.00, "PLACE":2000.00},
-			"2017-07": {"total":6125.00, "COMMUNITIES":3775.00, "PLACE":2350.00},
-			"2017-09": {"total":63058.88, "PLACE":63058.88},
-			"2017-10": {"total":4650.00, "PLACE":4650.00},
-			"2017-11": {"total":69682.61, "PLACE":69682.61},
-			"2017-12": {"total":95632.74, "PLACE":95632.74},
-			"2018-01": {"total":68184.47, "PLACE":68184.47},
-			"2018-02": {"total":9542.15, "PEOPLE":1947.50, "PLACE":7594.65},
-			"2018-03": {"total":51468.13, "PEOPLE":1000.00, "PLACE":50468.13},
-			"2018-04": {"total":30358.33, "PLACE":30358.33},
-			"2018-05": {"total":15738.80, "PLACE":15738.80},
-			"2018-06": {"total":60527.76, "PLACE":60527.76},
-			"2018-07": {"total":47158.32, "PLACE":47158.32},
-			"2018-08": {"total":73675.93, "LOCAL ENTERPRISE PARTNERSHIP":31581.06, "PLACE":42094.87},
-			"2018-09": {"total":19232.55, "PLACE":19232.55},
-			"2018-10": {"total":114063.99, "LOCAL ENTERPRISE PARTNERSHIP":16957.52, "PLACE":97106.47},
-			"2018-11": {"total":17818.37, "PLACE":17818.37},
-			"2018-12": {"total":4160.00, "PLACE":4160.00},
-			"2019-01": {"total":38370.10, "LOCAL ENTERPRISE PARTNERSHIP":5040.15, "PLACE":33329.95},
-			"2019-02": {"total":26700.50, "PLACE":26667.48, "RESOURCES":33.02},
-			"2019-03": {"total":99036.45, "PLACE":97745.99, "RESOURCES":1290.46},
-			"2019-04": {"total":16967.89, "LOCAL ENTERPRISE PARTNERSHIP":16142.84, "PLACE":805.00, "RESOURCES":20.05},
-			"2019-05": {"total":10497.44, "PLACE":10358.33, "RESOURCES":139.11},
-			"2019-06": {"total":12997.08, "PLACE":12983.33, "RESOURCES":13.75},
-			"2019-07": {"total":95569.14, "LOCAL ENTERPRISE PARTNERSHIP":14278.43, "PLACE":80161.11, "RESOURCES":1129.60},
-			"2019-08": {"total":32168.60, "PLACE":32168.60, "RESOURCES":0.00},
-			"2019-09": {"total":39609.93, "PLACE":40077.52, "RESOURCES":-467.59},
-			"2019-10": {"total":14269.37, "PLACE":14231.57, "RESOURCES":37.80},
-			"2019-11": {"total":35235.86, "PLACE":35014.99, "RESOURCES":220.87}
-		}
-	},
-	"6640": {
-		"name": "GREEN FOX WILD CRAFTS",
-		"total": 560,
-		"monthly": {
-			"2018-04": {"total":560.00, "PLACE":560.00}
-		}
-	},
-	"6641": {
-		"name": "GREEN FROG CONNECT LTD",
-		"alternate-names": [
-			"GREEN FROG CONNECT LIMITED"
-		],
-		"total": 4912.5,
-		"monthly": {
-			"2019-03": {"total":4912.50, "PLACE":4912.50}
-		}
-	},
-	"6642": {
-		"name": "GREEN FUTURE BUILDING LTD",
-		"alternate-names": [
-			"GREEN FUTURE BUILDING LIMITED"
-		],
-		"total": 4147.5,
-		"monthly": {
-			"2018-07": {"total":4147.50, "PLACE":4147.50}
-		}
-	},
-	"6643": {
-		"name": "GREEN LANE PRIMARY ACADEMY",
-		"total": 8435,
-		"monthly": {
-			"2016-02": {"total":2532.00, "CYPF":2532.00},
-			"2016-05": {"total":2903.00, "CYPF":2903.00},
-			"2016-10": {"total":1000.00, "CYPF":1000.00},
-			"2017-02": {"total":1000.00, "CYPF":1000.00},
-			"2017-05": {"total":1000.00, "CYPF":1000.00}
-		}
-	},
-	"6644": {
-		"name": "GREEN LIGHT TRAFFIC MANAGEMENT",
-		"total": 33398,
-		"monthly": {
-			"2012-08": {"total":670.00, "SPORTS EVENTS":670.00},
-			"2012-10": {"total":9650.00, "SPORTS EVENTS":9650.00},
-			"2013-01": {"total":254.00, "CITY ROAD BELL TOWER":254.00},
-			"2013-07": {"total":362.00, "EVENTS IN PARKS":362.00},
-			"2013-08": {"total":1835.00, "CITY CENTRE VIBRANCY":1835.00},
-			"2013-09": {"total":1612.00, "EVENTS IN PARKS":692.00, "SPORTS EVENTS":920.00},
-			"2013-10": {"total":3310.00, "SCHOOL GAMES 2013":3310.00},
-			"2014-05": {"total":380.00, "EVENTS IN PARKS":380.00},
-			"2014-07": {"total":305.00, "EVENTS IN PARKS":305.00},
-			"2014-08": {"total":1085.00, "SPORTS EVENTS":1085.00},
-			"2014-09": {"total":3720.00, "SPORTS EVENTS":3720.00},
-			"2015-05": {"total":400.00, "EVENTS IN PARKS":400.00},
-			"2015-07": {"total":6150.00, "PLACE":6150.00},
-			"2016-05": {"total":3245.00, "PLACE":3245.00},
-			"2016-06": {"total":420.00, "PLACE":420.00}
-		}
-	},
-	"6645": {
-		"name": "GREEN LIGHT TRAFFIC MANAGEMENT LTD",
-		"total": 6425,
-		"monthly": {
-			"2016-08": {"total":4535.00, "PLACE":4535.00},
-			"2016-09": {"total":1020.00, "PLACE":1020.00},
-			"2016-12": {"total":870.00, "PLACE":870.00}
-		}
-	},
-	"6646": {
-		"name": "GREEN MAGIC CO UK LTD",
-		"total": 250,
-		"monthly": {
-			"2016-04": {"total":250.00, "COMMUNITIES":250.00}
-		}
-	},
-	"6647": {
-		"name": "GREEN MILE TREES LTD",
-		"total": 750,
-		"monthly": {
-			"2011-02": {"total":750.00, "BURNGREAVE DARNALL & TINSLEY C":750.00}
-		}
-	},
-	"6648": {
-		"name": "GREEN PARK INTERIM AND EXECUTIVE LTD",
-		"total": 143220,
-		"monthly": {
-			"2016-09": {"total":27030.00, "PLACE":27030.00},
-			"2016-10": {"total":13770.00, "PLACE":13770.00},
-			"2016-11": {"total":14535.00, "PLACE":14535.00},
-			"2016-12": {"total":15300.00, "PLACE":15300.00},
-			"2017-01": {"total":10455.00, "PLACE":10455.00},
-			"2017-02": {"total":11730.00, "PLACE":11730.00},
-			"2017-04": {"total":14790.00, "PLACE":14790.00},
-			"2017-05": {"total":10200.00, "PLACE":10200.00},
-			"2017-06": {"total":25410.00, "PLACE":25410.00}
-		}
-	},
-	"6649": {
-		"name": "GREEN SHIELD RENOVATIONS LTD",
-		"total": 1500,
-		"monthly": {
-			"2014-08": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00}
 		}
 	}
 	}

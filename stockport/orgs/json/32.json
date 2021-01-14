@@ -1,25 +1,641 @@
 {
-	"range": ["2011-08","2020-08"],
+	"range": ["2011-08","2020-10"],
 	"data": {
 	"1600": {
+		"name": "Bruntwood Estates Ltd",
+		"total": 14394.92,
+		"monthly": {
+			"2012-03": {"total":14394.92, "Capital Expenditure":14394.92}
+		}
+	},
+	"1601": {
+		"name": "Bruntwood Meeting Room",
+		"total": 10080,
+		"monthly": {
+			"2019-09": {"total":1680.00, "People (Adults) - CHSC":1680.00},
+			"2019-10": {"total":840.00, "People (Adults) - CHSC":840.00},
+			"2019-12": {"total":2160.00, "People (Adults) - CHSC":2160.00},
+			"2020-01": {"total":1080.00, "People (Childrens) Service Group":1080.00},
+			"2020-03": {"total":4320.00, "People (Childrens) Service Group":4320.00}
+		}
+	},
+	"1602": {
+		"name": "Bryher Hill T/A Helping Kids Shine",
+		"total": 1960,
+		"monthly": {
+			"2020-07": {"total":1960.00, "People (Childrens) Service Group":1960.00}
+		}
+	},
+	"1603": {
+		"name": "Bryn Aber Nursing Home",
+		"total": 101733,
+		"monthly": {
+			"2011-09": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2011-10": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2011-11": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2011-12": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-01": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-02": {"total":3496.00, "Community Health & Social Care":3496.00},
+			"2012-04": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-05": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-06": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-07": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-08": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-09": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-10": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2012-11": {"total":1323.00, "Community, Health & Social Care":1323.00},
+			"2012-12": {"total":1748.00, "Community, Health & Social Care":1748.00},
+			"2013-01": {"total":3496.00, "Community, Health & Social Care":3496.00},
+			"2013-02": {"total":1748.00, "Community, Health & Social Care":1748.00},
+			"2013-03": {"total":1748.00, "Community Health & Social Care":1748.00},
+			"2013-04": {"total":1748.00, "Community, Health & Social Care":1748.00},
+			"2013-05": {"total":1748.00, "Community, Health & Social Care":1748.00},
+			"2013-06": {"total":2742.00, "Community Health & Social Care":2742.00},
+			"2013-07": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2013-08": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2013-09": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2013-10": {"total":2032.00, "Community Health & Social Care":2032.00},
+			"2013-11": {"total":2032.00, "Community Health & Social Care":2032.00},
+			"2013-12": {"total":4064.00, "Community, Health & Social Care":4064.00},
+			"2014-01": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-02": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-03": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-04": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-05": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-06": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-07": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-08": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-09": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-10": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-11": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2014-12": {"total":4064.00, "Community, Health & Social Care":4064.00},
+			"2015-01": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-02": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-03": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-04": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-05": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-06": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-07": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-08": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-09": {"total":2032.00, "Community, Health & Social Care":2032.00},
+			"2015-10": {"total":2032.00, "Community, Health & Social Care":2032.00}
+		}
+	},
+	"1604": {
+		"name": "Bs Project Services Ltd",
+		"total": 536.27,
+		"monthly": {
+			"2011-09": {"total":536.27, "Childrens Services":536.27}
+		}
+	},
+	"1605": {
+		"name": "Bsd Investments Ltd",
+		"total": 2000,
+		"monthly": {
+			"2020-06": {"total":2000.00, "Service Reform (Corp Bus & Transform)":2000.00}
+		}
+	},
+	"1606": {
+		"name": "Bsh Industries Ltd",
+		"total": 10000,
+		"monthly": {
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1607": {
+		"name": "Bsi",
+		"total": 1749.6,
+		"monthly": {
+			"2012-01": {"total":1749.60, "Environment and Community Safety":1749.60}
+		}
+	},
+	"1608": {
+		"name": "Bsi Group",
+		"total": 5572.8,
+		"monthly": {
+			"2012-10": {"total":1806.00, "Environment and Community Safety":1806.00},
+			"2013-09": {"total":1860.00, "Environment and Community Safety":1860.00},
+			"2014-08": {"total":1906.80, "Environment and Community Safety":1906.80}
+		}
+	},
+	"1609": {
+		"name": "Bskyb",
+		"total": 22086,
+		"monthly": {
+			"2013-11": {"total":4500.00, "Capital Expenditure":4500.00},
+			"2014-05": {"total":17586.00, "Capital Expenditure":17586.00}
+		}
+	},
+	"1610": {
+		"name": "Bsquared",
+		"total": 990,
+		"monthly": {
+			"2016-04": {"total":990.00, "Childrens Services":990.00}
+		}
+	},
+	"1611": {
+		"name": "Bt Business Direct Ltd",
+		"total": 98724.63,
+		"monthly": {
+			"2011-11": {"total":30943.80, "Capital Expenditure":30943.80},
+			"2012-03": {"total":2635.64, "Capital Expenditure":2635.64},
+			"2012-04": {"total":774.08, "Customer and Support Services":774.08},
+			"2015-12": {"total":808.66, "Corporate Business":808.66},
+			"2016-03": {"total":525.88, "Corporate Business":525.88},
+			"2016-05": {"total":3534.14, "Corporate Business":3534.14},
+			"2016-07": {"total":44212.56, "Community, Health & Social Care":44212.56},
+			"2017-01": {"total":525.16, "Corporate Business":525.16},
+			"2017-02": {"total":680.46, "Corporate Business":680.46},
+			"2017-12": {"total":1094.17, "Service Reform":1094.17},
+			"2018-03": {"total":543.12, "Service Reform":543.12},
+			"2018-04": {"total":2469.37, "Service Reform":2469.37},
+			"2018-05": {"total":7751.15, "Service Reform":7751.15},
+			"2018-08": {"total":959.97, "Service Reform (Corp Bus & Transform)":959.97},
+			"2018-10": {"total":1266.47, "People (Childrens) Service Group":1266.47}
+		}
+	},
+	"1612": {
+		"name": "Bt Global Services Solutions",
+		"total": 38582.08,
+		"monthly": {
+			"2011-08": {"total":1924.35, "Capital Expenditure":1924.35},
+			"2011-09": {"total":641.45, "Capital Expenditure":641.45},
+			"2011-12": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-03": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-04": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-05": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-06": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-07": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-09": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-11": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-01": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-02": {"total":641.46, "Capital Expenditure":641.46},
+			"2013-03": {"total":1282.90, "Capital Expenditure":1282.90},
+			"2013-06": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-07": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-09": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-10": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-11": {"total":641.45, "Capital Expenditure":641.45},
+			"2013-12": {"total":1282.90, "Capital Expenditure":1282.90},
+			"2014-02": {"total":745.30, "Capital Expenditure":745.30},
+			"2014-03": {"total":1490.60, "Capital Expenditure":1490.60},
+			"2014-04": {"total":745.30, "Capital Expenditure":745.30},
+			"2014-06": {"total":1490.60, "Capital Expenditure":1490.60},
+			"2014-07": {"total":745.30, "Capital Expenditure":745.30},
+			"2014-09": {"total":745.30, "Capital Expenditure":745.30},
+			"2014-10": {"total":745.30, "Capital Expenditure":745.30},
+			"2014-11": {"total":746.72, "Capital Expenditure":746.72},
+			"2014-12": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-01": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-02": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-03": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-05": {"total":1567.42, "Capital Expenditure":1567.42},
+			"2015-06": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-07": {"total":783.71, "Capital Expenditure":783.71},
+			"2015-08": {"total":1568.86, "Capital Expenditure":1568.86},
+			"2015-10": {"total":1361.11, "Capital Expenditure":785.15, "Corporate Business":575.96},
+			"2015-11": {"total":856.07, "Capital Expenditure":856.07},
+			"2015-12": {"total":820.61, "Capital Expenditure":820.61},
+			"2016-01": {"total":820.61, "Capital Expenditure":820.61},
+			"2016-02": {"total":1393.03, "Capital Expenditure":820.61, "Corporate Business":572.42},
+			"2016-03": {"total":1641.22, "Capital Expenditure":1641.22},
+			"2016-06": {"total":820.61, "Capital Expenditure":820.61},
+			"2016-07": {"total":822.50, "Capital Expenditure":822.50}
+		}
+	},
+	"1613": {
+		"name": "Bt Openreach",
+		"total": 600372.52,
+		"monthly": {
+			"2011-12": {"total":1968.84, "Capital Expenditure":1968.84},
+			"2012-03": {"total":19688.40, "Capital Expenditure":19688.40},
+			"2012-12": {"total":101281.06, "Capital Expenditure":101281.06},
+			"2013-06": {"total":4922.70, "Capital Expenditure":4922.70},
+			"2013-08": {"total":298274.11, "Capital Expenditure":298274.11},
+			"2013-10": {"total":2612.40, "Capital Expenditure":2612.40},
+			"2013-12": {"total":14789.76, "Capital Expenditure":14789.76},
+			"2014-01": {"total":156835.25, "Capital Expenditure":156835.25}
+		}
+	},
+	"1614": {
+		"name": "Bt Payphone Receivables Ltd",
+		"total": 2430,
+		"monthly": {
+			"2016-05": {"total":2430.00, "Capital Expenditure":2430.00}
+		}
+	},
+	"1615": {
+		"name": "Bt Payphones",
+		"total": 4602,
+		"monthly": {
+			"2012-11": {"total":1980.00, "Capital Expenditure":1980.00},
+			"2015-03": {"total":2622.00, "Capital Expenditure":2622.00}
+		}
+	},
+	"1616": {
+		"name": "Bt Plc",
+		"total": 1678305.88,
+		"monthly": {
+			"2011-08": {"total":16819.98, "Chief Executives":16819.98},
+			"2011-10": {"total":95035.22, "Capital Expenditure":94152.37, "Childrens Services":882.85},
+			"2012-01": {"total":90153.58, "Capital Expenditure":90153.58},
+			"2012-02": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-03": {"total":2850.40, "Capital Expenditure":1924.35, "Childrens Services":926.05},
+			"2012-04": {"total":79626.20, "Capital Expenditure":79626.20},
+			"2012-05": {"total":672.98, "Childrens Services":672.98},
+			"2012-07": {"total":76934.91, "Capital Expenditure":76934.91},
+			"2012-08": {"total":641.45, "Capital Expenditure":641.45},
+			"2012-10": {"total":71057.77, "Capital Expenditure":71057.77},
+			"2012-12": {"total":698.14, "Childrens Services":698.14},
+			"2013-01": {"total":73514.03, "Capital Expenditure":72872.57, "Customer and Support Services":641.46},
+			"2013-04": {"total":61572.82, "Capital Expenditure":61572.82},
+			"2013-05": {"total":5029.30, "Capital Expenditure":5029.30},
+			"2013-07": {"total":61082.81, "Capital Expenditure":61082.81},
+			"2013-10": {"total":62999.77, "Capital Expenditure":62999.77},
+			"2014-01": {"total":71286.51, "Capital Expenditure":71286.51},
+			"2014-03": {"total":2088.00, "Capital Expenditure":2088.00},
+			"2014-04": {"total":80642.00, "Capital Expenditure":80642.00},
+			"2014-05": {"total":1614.92, "Capital Expenditure":1614.92},
+			"2014-10": {"total":76426.48, "Capital Expenditure":76426.48},
+			"2015-01": {"total":100810.38, "Capital Expenditure":100810.38},
+			"2015-02": {"total":1182.94, "Customer and Support Services":1182.94},
+			"2015-04": {"total":81835.95, "Capital Expenditure":81835.95},
+			"2015-06": {"total":116326.37, "Capital Expenditure":116326.37},
+			"2015-08": {"total":130473.29, "Capital Expenditure":130473.29},
+			"2015-10": {"total":118486.37, "Capital Expenditure":118486.37},
+			"2016-01": {"total":58471.64, "Capital Expenditure":58471.64},
+			"2016-02": {"total":5144.74, "Capital Expenditure":5144.74},
+			"2016-03": {"total":7699.70, "Capital Expenditure":7699.70},
+			"2016-04": {"total":34292.06, "Capital Expenditure":34292.06},
+			"2016-05": {"total":42124.53, "Capital Expenditure":42124.53},
+			"2016-06": {"total":28987.52, "Capital Expenditure":28987.52},
+			"2016-07": {"total":21081.67, "Capital Expenditure":21081.67}
+		}
+	},
+	"1617": {
+		"name": "Bt Repayment Works",
+		"total": 5038.04,
+		"monthly": {
+			"2018-05": {"total":3442.08, "Sustainable Regeneration":3442.08},
+			"2019-08": {"total":1595.96, "Service Reform (Corp Bus & Transform)":1595.96}
+		}
+	},
+	"1618": {
+		"name": "Bt Wholesale Broadband",
+		"total": 154070.66,
+		"monthly": {
+			"2011-10": {"total":16032.89, "Customer and Support Services":16032.89},
+			"2012-02": {"total":16368.21, "Customer and Support":16368.21},
+			"2012-05": {"total":16115.66, "Customer and Support Services":16115.66},
+			"2012-07": {"total":15954.92, "Customer and Support Services":15954.92},
+			"2012-10": {"total":15272.11, "Customer and Support Services":15272.11},
+			"2013-01": {"total":15413.32, "Customer and Support Services":15413.32},
+			"2013-04": {"total":14927.26, "Customer and Support Services":14927.26},
+			"2013-07": {"total":15137.96, "Customer and Support Services":15137.96},
+			"2013-10": {"total":14672.43, "Customer and Support Services":14672.43},
+			"2014-01": {"total":14175.90, "Customer and Support Services":14175.90}
+		}
+	},
+	"1619": {
+		"name": "Btcv",
+		"total": 3360,
+		"monthly": {
+			"2012-01": {"total":720.00, "Capital Expenditure":720.00},
+			"2012-03": {"total":720.00, "Capital Expenditure":720.00},
+			"2012-05": {"total":1920.00, "Capital Expenditure":1920.00}
+		}
+	},
+	"1620": {
+		"name": "Btw Solicitors",
+		"total": 1338,
+		"monthly": {
+			"2015-06": {"total":1338.00, "Customer and Support Services":1338.00}
+		}
+	},
+	"1621": {
+		"name": "Bu Unique Ltd",
+		"total": 10000,
+		"monthly": {
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1622": {
+		"name": "Bubble & Blow Ltd",
+		"total": 10000,
+		"monthly": {
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1623": {
+		"name": "Buck & Hickman Manchester",
+		"total": 2586.24,
+		"monthly": {
+			"2011-09": {"total":2586.24, "Capital Expenditure":1520.64, "Environment and Community Safety":1065.60}
+		}
+	},
+	"1624": {
+		"name": "Buckingham Colour",
+		"total": 6171.6,
+		"monthly": {
+			"2012-03": {"total":1504.80, "Chief Executives":1504.80},
+			"2013-06": {"total":1017.60, "The Office of the Chief Executive":1017.60},
+			"2014-03": {"total":540.00, "Office of the Chief Executive":540.00},
+			"2014-07": {"total":720.00, "Customer and Support Services":720.00},
+			"2015-03": {"total":594.00, "Customer and Support Services":594.00},
+			"2015-09": {"total":912.00, "Corporate Business":912.00},
+			"2016-02": {"total":883.20, "Corporate Business":883.20}
+		}
+	},
+	"1625": {
+		"name": "Buckinghamshire Healthcare Nhs Trus",
+		"total": 508,
+		"monthly": {
+			"2017-02": {"total":508.00, "Community, Health & Social Care":508.00}
+		}
+	},
+	"1626": {
+		"name": "Buddhas Tree Ltd",
+		"total": 10000,
+		"monthly": {
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1627": {
+		"name": "Buddi Ltd",
+		"total": 66313.2,
+		"monthly": {
+			"2011-11": {"total":2592.00, "Community Health & Social Care":2592.00},
+			"2012-03": {"total":1152.00, "Capital Expenditure":1152.00},
+			"2012-07": {"total":3240.00, "Customer & Support Services":3240.00},
+			"2012-08": {"total":3600.00, "Capital Expenditure":2736.00, "Customer and Support Services":864.00},
+			"2012-10": {"total":1449.60, "Customer and Support Services":1449.60},
+			"2012-12": {"total":720.00, "Community, Health & Social Care":720.00},
+			"2013-08": {"total":3072.00, "Capital Expenditure":3072.00},
+			"2013-11": {"total":2760.00, "Capital Expenditure":2760.00},
+			"2014-03": {"total":2520.00, "Capital Expenditure":2520.00},
+			"2014-10": {"total":3240.00, "Capital Expenditure":3240.00},
+			"2014-11": {"total":1440.00, "Capital Expenditure":1440.00},
+			"2015-01": {"total":720.00, "Capital Expenditure":720.00},
+			"2015-03": {"total":2278.80, "Capital Expenditure":2278.80},
+			"2015-08": {"total":3240.00, "Capital Expenditure":3240.00},
+			"2015-09": {"total":720.00, "Capital Expenditure":720.00},
+			"2015-11": {"total":720.00, "Capital Expenditure":720.00},
+			"2016-02": {"total":720.00, "Capital Expenditure":720.00},
+			"2016-03": {"total":1440.00, "Capital Expenditure":1440.00},
+			"2016-09": {"total":3240.00, "Capital Expenditure":3240.00},
+			"2016-10": {"total":720.00, "Capital Expenditure":720.00},
+			"2017-02": {"total":720.00, "Capital Expenditure":720.00},
+			"2017-03": {"total":1440.00, "Capital Expenditure":1440.00},
+			"2017-08": {"total":3240.00, "Capital Expenditure":3240.00},
+			"2017-10": {"total":720.00, "Capital Expenditure":720.00},
+			"2018-04": {"total":3628.80, "Community, Health & Social Care":3628.80},
+			"2018-08": {"total":3600.00, "Capital Expenditure":3600.00},
+			"2018-11": {"total":720.00, "Capital Expenditure":720.00},
+			"2019-03": {"total":2160.00, "Capital Expenditure":2160.00},
+			"2019-04": {"total":4380.00, "Capital Expenditure":4380.00},
+			"2019-10": {"total":2520.00, "Capital Expenditure":2520.00},
+			"2020-03": {"total":1080.00, "Capital Expenditure":1080.00},
+			"2020-05": {"total":2520.00, "Capital Expenditure":2520.00}
+		}
+	},
+	"1628": {
+		"name": "Buddies Matchstick Club",
+		"total": 840,
+		"monthly": {
+			"2017-09": {"total":840.00, "Childrens Services":840.00}
+		}
+	},
+	"1629": {
+		"name": "Budding Wood Day Nursery",
+		"total": 397915.7,
+		"monthly": {
+			"2012-10": {"total":3395.10, "Childrens Services":3395.10},
+			"2013-01": {"total":2400.75, "Childrens Services":2400.75},
+			"2013-02": {"total":2953.50, "Childrens Services":2953.50},
+			"2013-04": {"total":2641.50, "Childrens Services":2641.50},
+			"2013-05": {"total":4986.25, "Childrens Services":4986.25},
+			"2013-09": {"total":5282.40, "Childrens Services":5282.40},
+			"2013-11": {"total":738.27, "Childrens Services":738.27},
+			"2014-01": {"total":3393.55, "Childrens Services":3393.55},
+			"2014-02": {"total":4289.40, "Childrens Services":4289.40},
+			"2014-03": {"total":1538.52, "Childrens Services":1538.52},
+			"2014-04": {"total":7019.45, "Childrens Services":7019.45},
+			"2014-05": {"total":6079.33, "Childrens Services":6079.33},
+			"2014-07": {"total":1440.45, "Childrens Services":1440.45},
+			"2014-08": {"total":688.35, "Childrens Services":688.35},
+			"2014-09": {"total":11781.48, "Childrens Services":11781.48},
+			"2014-10": {"total":7950.62, "Childrens Services":7950.62},
+			"2014-12": {"total":654.75, "Childrens Services":654.75},
+			"2015-01": {"total":12200.00, "Childrens Services":12200.00},
+			"2015-02": {"total":8226.23, "Childrens Services":8226.23},
+			"2015-04": {"total":15461.90, "Childrens Services":15461.90},
+			"2015-05": {"total":19400.35, "Childrens Services":19400.35},
+			"2015-06": {"total":780.00, "Childrens Services":780.00},
+			"2015-09": {"total":4086.90, "Childrens Services":4086.90},
+			"2015-11": {"total":6513.90, "Childrens Services":6513.90},
+			"2016-01": {"total":6020.03, "Childrens Services":6020.03},
+			"2016-02": {"total":8593.27, "Childrens Services":8593.27},
+			"2016-03": {"total":557.70, "Childrens Services":557.70},
+			"2016-05": {"total":11536.21, "Childrens Services":11536.21},
+			"2016-06": {"total":8087.84, "Childrens Services":8087.84},
+			"2016-07": {"total":715.65, "Childrens Services":715.65},
+			"2016-10": {"total":3011.18, "Childrens Services":3011.18},
+			"2016-11": {"total":4589.40, "Childrens Services":4589.40},
+			"2017-01": {"total":4582.22, "Childrens Services":4582.22},
+			"2017-03": {"total":4845.43, "Childrens Services":4845.43},
+			"2017-04": {"total":9394.23, "Childrens Services":9394.23},
+			"2017-05": {"total":9230.03, "Childrens Services":9230.03},
+			"2017-09": {"total":3557.25, "Childrens Services":3557.25},
+			"2017-10": {"total":4022.06, "Childrens Services":4022.06},
+			"2017-11": {"total":2595.14, "Childrens Services":2595.14},
+			"2018-02": {"total":9530.40, "Childrens Services":9530.40},
+			"2018-03": {"total":1000.00, "Childrens Services":1000.00},
+			"2018-04": {"total":4596.64, "Childrens Services":4596.64},
+			"2018-05": {"total":4596.64, "Childrens Services":4596.64},
+			"2018-06": {"total":4596.63, "Childrens Services":4596.63},
+			"2018-07": {"total":8094.94, "People (Childrens) Service Group":8094.94},
+			"2018-09": {"total":4996.36, "People (Childrens) Service Group":4996.36},
+			"2018-10": {"total":3589.42, "People (Childrens) Service Group":3589.42},
+			"2018-11": {"total":4626.30, "People (Childrens) Service Group":4626.30},
+			"2018-12": {"total":4626.30, "People (Childrens) Service Group":4626.30},
+			"2019-01": {"total":6738.75, "People (Childrens) Service Group":6738.75},
+			"2019-02": {"total":6610.18, "People (Childrens) Service Group":6610.18},
+			"2019-03": {"total":11745.24, "People (Childrens) Service Group":11745.24},
+			"2019-04": {"total":6858.76, "People (Childrens) Service Group":6858.76},
+			"2019-05": {"total":6920.54, "People (Childrens) Service Group":6920.54},
+			"2019-06": {"total":6920.56, "People (Childrens) Service Group":6920.56},
+			"2019-07": {"total":13841.08, "People (Childrens) Service Group":13841.08},
+			"2019-10": {"total":1787.50, "People (Childrens) Service Group":1787.50},
+			"2019-11": {"total":7287.75, "People (Childrens) Service Group":7287.75},
+			"2019-12": {"total":1911.65, "People (Childrens) Service Group":1911.65},
+			"2020-01": {"total":4211.90, "People (Childrens) Service Group":4211.90},
+			"2020-02": {"total":8423.80, "People (Childrens) Service Group":8423.80},
+			"2020-03": {"total":5430.95, "People (Childrens) Service Group":5430.95},
+			"2020-04": {"total":15770.31, "People (Childrens) Service Group":5770.31, "Service Reform (Corp Bus & Transform)":10000.00},
+			"2020-05": {"total":5155.31, "People (Childrens) Service Group":5155.31},
+			"2020-06": {"total":5155.31, "People (Childrens) Service Group":5155.31},
+			"2020-07": {"total":11960.34, "People (Childrens) Service Group":11960.34},
+			"2020-09": {"total":1183.88, "People (Childrens) Service Group":1183.88},
+			"2020-10": {"total":4507.67, "People (Childrens) Service Group":4507.67}
+		}
+	},
+	"1630": {
+		"name": "Budding Wood Wardley Pre School",
+		"total": 9109.13,
+		"monthly": {
+			"2015-04": {"total":800.00, "Childrens Services":800.00},
+			"2015-05": {"total":946.00, "Childrens Services":946.00},
+			"2016-01": {"total":589.05, "Childrens Services":589.05},
+			"2016-02": {"total":589.05, "Childrens Services":589.05},
+			"2016-05": {"total":696.16, "Childrens Services":696.16},
+			"2016-06": {"total":696.14, "Childrens Services":696.14},
+			"2016-10": {"total":1425.90, "Childrens Services":1425.90},
+			"2016-11": {"total":611.10, "Childrens Services":611.10},
+			"2017-01": {"total":1149.24, "Childrens Services":1149.24},
+			"2017-03": {"total":1017.44, "Childrens Services":1017.44},
+			"2017-04": {"total":589.05, "Childrens Services":589.05}
+		}
+	},
+	"1631": {
+		"name": "Buffalo Bar And Grill Ltd",
+		"alternate-names": [
+			"Buffalo Bar And Grill Limited"
+		],
+		"total": 10000,
+		"monthly": {
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1632": {
+		"name": "Buildbase",
+		"total": 510,
+		"monthly": {
+			"2014-03": {"total":510.00, "Community, Health & Social Care":510.00}
+		}
+	},
+	"1633": {
+		"name": "Buildbase Civils & Lintels",
+		"total": 2676.37,
+		"monthly": {
+			"2011-11": {"total":570.00, "Environment and Community Safety":570.00},
+			"2012-01": {"total":919.03, "Environment and Community Safety":919.03},
+			"2012-09": {"total":563.36, "Capital Expenditure":563.36},
+			"2012-12": {"total":623.98, "Environment and Community Safety":623.98}
+		}
+	},
+	"1634": {
+		"name": "Buildbase Civils & Lintels Ltd",
+		"total": 1078.51,
+		"monthly": {
+			"2014-04": {"total":555.55, "Environment and Community Safety":555.55},
+			"2015-07": {"total":522.96, "Environment and Community Safety":522.96}
+		}
+	},
+	"1635": {
+		"name": "Building Blocks Nursery",
+		"total": 1614.75,
+		"monthly": {
+			"2016-10": {"total":894.75, "Childrens Services":894.75},
+			"2016-11": {"total":720.00, "Childrens Services":720.00}
+		}
+	},
+	"1636": {
+		"name": "Building Bridges (Care Homes) Ltd",
+		"total": 7857.14,
+		"monthly": {
+			"2015-05": {"total":5971.43, "Childrens Services":5971.43},
+			"2015-06": {"total":1885.71, "Childrens Services":1885.71}
+		}
+	},
+	"1637": {
+		"name": "Buile Hill Visual Arts College",
+		"total": 67152.18,
+		"monthly": {
+			"2017-09": {"total":25623.74, "Childrens Services":25623.74},
+			"2018-10": {"total":9640.17, "People (Childrens) Service Group":9640.17},
+			"2018-11": {"total":8000.00, "People (Childrens) Service Group":8000.00},
+			"2019-02": {"total":3500.00, "People (Childrens) Service Group":3500.00},
+			"2019-11": {"total":12000.00, "People (Childrens) Service Group":12000.00},
+			"2020-04": {"total":8388.27, "People (Childrens) Service Group":8388.27}
+		}
+	},
+	"1638": {
+		"name": "Buka Food Ltd T/A Neils Friery",
+		"total": 10000,
+		"monthly": {
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"1639": {
+		"name": "Bullock",
+		"total": 64974,
+		"monthly": {
+			"2011-12": {"total":64974.00, "Capital Expenditure":64974.00}
+		}
+	},
+	"1640": {
+		"name": "Bullock Construction Ltd",
+		"total": 2439915.81,
+		"monthly": {
+			"2013-09": {"total":15004.80, "Capital Expenditure":15004.80},
+			"2013-10": {"total":105243.93, "Capital Expenditure":105243.93},
+			"2013-11": {"total":177991.68, "Capital Expenditure":177991.68},
+			"2013-12": {"total":205967.18, "Capital Expenditure":205967.18},
+			"2014-01": {"total":123092.26, "Capital Expenditure":123092.26},
+			"2014-02": {"total":160256.14, "Capital Expenditure":160256.14},
+			"2014-03": {"total":369047.13, "Capital Expenditure":369047.13},
+			"2014-04": {"total":33817.12, "Capital Expenditure":33817.12},
+			"2014-05": {"total":1625.52, "Capital Expenditure":1625.52},
+			"2014-08": {"total":16333.86, "Capital Expenditure":16333.86},
+			"2014-09": {"total":46440.88, "Capital Expenditure":46440.88},
+			"2014-10": {"total":426890.02, "Capital Expenditure":426890.02},
+			"2014-11": {"total":78281.22, "Capital Expenditure":78281.22},
+			"2014-12": {"total":181188.08, "Capital Expenditure":181188.08},
+			"2015-01": {"total":446763.42, "Capital Expenditure":446763.42},
+			"2015-02": {"total":51972.57, "Capital Expenditure":51972.57}
+		}
+	},
+	"1641": {
+		"name": "Bullying Intervention Group",
+		"total": 1710,
+		"monthly": {
+			"2011-12": {"total":1710.00, "Childrens Services":1710.00}
+		}
+	},
+	"1642": {
+		"name": "Bumac Ltd",
+		"total": 519.91,
+		"monthly": {
+			"2016-04": {"total":519.91, "Sustainable Regeneration":519.91}
+		}
+	},
+	"1643": {
+		"name": "Bumps & Bashes Ltd",
+		"total": 810,
+		"monthly": {
+			"2012-12": {"total":810.00, "Childrens Services":810.00}
+		}
+	},
+	"1644": {
 		"name": "Bunk-A-Bin Ltd",
 		"alternate-names": [
 			"Bunk-A-Bin Limited"
 		],
-		"total": 23131.2,
+		"total": 28136.64,
 		"monthly": {
 			"2020-02": {"total":16533.12, "People (Adults) - CHSC":16533.12},
-			"2020-06": {"total":6598.08, "People (Adults) - CHSC":6598.08}
+			"2020-06": {"total":6598.08, "People (Adults) - CHSC":6598.08},
+			"2020-09": {"total":5005.44, "People (Adults) - CHSC":5005.44}
 		}
 	},
-	"1601": {
+	"1645": {
 		"name": "Bunnies That Lunch Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"1602": {
+	"1646": {
 		"name": "Bunzl Catering Supplies",
 		"total": 22562.08,
 		"monthly": {
@@ -46,7 +662,7 @@
 			"2016-12": {"total":2250.58, "Environment and Community Safety":2250.58}
 		}
 	},
-	"1603": {
+	"1647": {
 		"name": "Bupa Care Homes",
 		"total": 1402015.2,
 		"monthly": {
@@ -102,7 +718,7 @@
 			"2016-06": {"total":103764.83, "Community, Health & Social Care":103764.83}
 		}
 	},
-	"1604": {
+	"1648": {
 		"name": "Bupa Care Homes (Cfhcare) Ltd",
 		"alternate-names": [
 			"Bupa Care Homes (Cfhcare) Limited"
@@ -120,653 +736,13 @@
 			"2015-06": {"total":5836.60, "Community, Health & Social Care":5836.60}
 		}
 	},
-	"1605": {
+	"1649": {
 		"name": "Bupa Care Homes T/A Parklands Crt",
 		"total": 14956.2,
 		"monthly": {
 			"2016-03": {"total":4985.40, "Community, Health & Social Care":4985.40},
 			"2016-04": {"total":4985.40, "Community, Health & Social Care":4985.40},
 			"2016-06": {"total":4985.40, "Community, Health & Social Care":4985.40}
-		}
-	},
-	"1606": {
-		"name": "Bupa Care Services",
-		"total": 4451621.09,
-		"monthly": {
-			"2011-09": {"total":12030.23, "Community Health & Social Care":12030.23},
-			"2011-10": {"total":14997.55, "Community Health & Social Care":14997.55},
-			"2011-11": {"total":12455.53, "Community Health & Social Care":12455.53},
-			"2011-12": {"total":12014.35, "Community Health & Social Care":12014.35},
-			"2012-01": {"total":12470.00, "Community Health & Social Care":12470.00},
-			"2012-02": {"total":212911.39, "Community Health & Social Care":212911.39},
-			"2012-04": {"total":105830.47, "Community Health & Social Care":105830.47},
-			"2012-05": {"total":92232.98, "Community Health & Social Care":92232.98},
-			"2012-06": {"total":102658.22, "Community Health & Social Care":102658.22},
-			"2012-07": {"total":108860.98, "Community Health & Social Care":108860.98},
-			"2012-08": {"total":103644.75, "Community Health & Social Care":103644.75},
-			"2012-09": {"total":113171.56, "Community Health & Social Care":113171.56},
-			"2012-10": {"total":116806.15, "Community Health & Social Care":116806.15},
-			"2012-11": {"total":6058.71, "Community, Health & Social Care":6058.71},
-			"2012-12": {"total":6541.68, "Community, Health & Social Care":6541.68},
-			"2013-01": {"total":218804.44, "Community, Health & Social Care":218804.44},
-			"2013-02": {"total":117117.31, "Community, Health & Social Care":117117.31},
-			"2013-03": {"total":129694.51, "Community Health & Social Care":129694.51},
-			"2013-04": {"total":57834.58, "Community, Health & Social Care":57834.58},
-			"2013-05": {"total":92626.33, "Community, Health & Social Care":92626.33},
-			"2013-06": {"total":94696.63, "Community Health & Social Care":94696.63},
-			"2013-07": {"total":110402.50, "Community, Health & Social Care":110402.50},
-			"2013-08": {"total":102975.90, "Community, Health & Social Care":102975.90},
-			"2013-09": {"total":104819.91, "Community, Health & Social Care":104819.91},
-			"2013-10": {"total":114857.15, "Community Health & Social Care":114857.15},
-			"2013-11": {"total":108056.99, "Community Health & Social Care":108056.99},
-			"2013-12": {"total":234628.73, "Community, Health & Social Care":234628.73},
-			"2014-01": {"total":89084.90, "Community, Health & Social Care":89084.90},
-			"2014-02": {"total":107924.94, "Community, Health & Social Care":107924.94},
-			"2014-03": {"total":109321.35, "Community, Health & Social Care":109321.35},
-			"2014-04": {"total":108092.88, "Community, Health & Social Care":108092.88},
-			"2014-05": {"total":107462.22, "Community, Health & Social Care":107462.22},
-			"2014-06": {"total":107475.73, "Community, Health & Social Care":107475.73},
-			"2014-07": {"total":111467.17, "Community, Health & Social Care":111467.17},
-			"2014-08": {"total":109439.91, "Community, Health & Social Care":109439.91},
-			"2014-09": {"total":110267.52, "Community, Health & Social Care":110267.52},
-			"2014-10": {"total":9840.16, "Community, Health & Social Care":9840.16},
-			"2014-11": {"total":109171.20, "Community, Health & Social Care":109171.20},
-			"2014-12": {"total":209570.05, "Community, Health & Social Care":209570.05},
-			"2015-01": {"total":97360.25, "Community, Health & Social Care":97360.25},
-			"2015-02": {"total":100743.62, "Community, Health & Social Care":100743.62},
-			"2015-03": {"total":124573.09, "Community, Health & Social Care":124573.09},
-			"2015-04": {"total":109043.81, "Community, Health & Social Care":109043.81},
-			"2015-05": {"total":109310.14, "Community, Health & Social Care":109310.14},
-			"2015-06": {"total":102272.62, "Community, Health & Social Care":102272.62}
-		}
-	},
-	"1607": {
-		"name": "Bupa Care Services Ltd",
-		"total": 43246.12,
-		"monthly": {
-			"2013-12": {"total":3538.00, "Community, Health & Social Care":3538.00},
-			"2014-01": {"total":1769.00, "Community, Health & Social Care":1769.00},
-			"2014-02": {"total":1769.00, "Community, Health & Social Care":1769.00},
-			"2014-03": {"total":1769.00, "Community, Health & Social Care":1769.00},
-			"2014-04": {"total":1771.50, "Community, Health & Social Care":1771.50},
-			"2014-05": {"total":1771.00, "Community, Health & Social Care":1771.00},
-			"2014-06": {"total":1771.00, "Community, Health & Social Care":1771.00},
-			"2014-07": {"total":1771.00, "Community, Health & Social Care":1771.00},
-			"2014-08": {"total":1771.00, "Community, Health & Social Care":1771.00},
-			"2014-09": {"total":4579.92, "Community, Health & Social Care":4579.92},
-			"2014-10": {"total":97.60, "Community, Health & Social Care":97.60},
-			"2014-12": {"total":6888.80, "Community, Health & Social Care":6888.80},
-			"2015-01": {"total":3444.40, "Community, Health & Social Care":3444.40},
-			"2015-02": {"total":3444.40, "Community, Health & Social Care":3444.40},
-			"2015-03": {"total":1771.00, "Community, Health & Social Care":1771.00},
-			"2015-04": {"total":1773.50, "Community, Health & Social Care":1773.50},
-			"2015-05": {"total":1773.00, "Community, Health & Social Care":1773.00},
-			"2015-06": {"total":1773.00, "Community, Health & Social Care":1773.00}
-		}
-	},
-	"1608": {
-		"name": "Bupa Insurance Ltd",
-		"total": 27600,
-		"monthly": {
-			"2019-07": {"total":27600.00, "Place Directorate":27600.00}
-		}
-	},
-	"1609": {
-		"name": "Bupa Insurance Services Ltd",
-		"total": 2197.65,
-		"monthly": {
-			"2018-08": {"total":2197.65, "Service Reform (Corp Bus & Transform)":2197.65}
-		}
-	},
-	"1610": {
-		"name": "Bureau Van Dijk Electronic",
-		"total": 30528,
-		"monthly": {
-			"2015-03": {"total":4800.00, "Sustainable Regeneration":4800.00},
-			"2016-04": {"total":4800.00, "Office of the Chief Executive":4800.00},
-			"2017-03": {"total":4800.00, "Office of the Chief Executive":4800.00},
-			"2018-04": {"total":5040.00, "Office of the Chief Executive":5040.00},
-			"2020-02": {"total":11088.00, "Place Directorate":11088.00}
-		}
-	},
-	"1611": {
-		"name": "Bureau Veritas Uk Ltd",
-		"total": 41793.34,
-		"monthly": {
-			"2011-12": {"total":2249.57, "Environment and Community Safety":2249.57},
-			"2012-03": {"total":2249.57, "Customer and Support Services":2249.57},
-			"2012-10": {"total":2249.57, "Customer and Support Services":2249.57},
-			"2013-02": {"total":2249.57, "Customer and Support Services":2249.57},
-			"2013-11": {"total":2015.57, "Customer and Support Services":2015.57},
-			"2014-04": {"total":2015.57, "Environment and Community Safety":2015.57},
-			"2014-09": {"total":2015.57, "Customer and Support Services":2015.57},
-			"2015-04": {"total":2015.57, "Environment and Community Safety":2015.57},
-			"2015-10": {"total":2015.57, "Corporate Business":2015.57},
-			"2016-06": {"total":2015.57, "Corporate Business":2015.57},
-			"2016-10": {"total":2015.57, "Environment and Community Safety":2015.57},
-			"2017-08": {"total":2015.57, "Environment and Community Safety":2015.57},
-			"2017-09": {"total":2015.57, "Corporate Business":2015.57},
-			"2018-03": {"total":2015.57, "Environment and Community Safety":2015.57},
-			"2019-01": {"total":2799.84, "Place Directorate":2799.84},
-			"2019-05": {"total":2099.88, "Place Directorate":2099.88},
-			"2019-12": {"total":1440.00, "Capital expenditure":1440.00},
-			"2020-01": {"total":2099.88, "Place Directorate":2099.88},
-			"2020-07": {"total":4199.76, "Place Directorate":4199.76}
-		}
-	},
-	"1612": {
-		"name": "Burgess Furniture Ltd",
-		"total": 6561.64,
-		"monthly": {
-			"2012-05": {"total":4068.62, "Environment and Community Safety":4068.62},
-			"2015-04": {"total":2493.02, "Environment and Community Safety":2493.02}
-		}
-	},
-	"1613": {
-		"name": "Burgess Security Systems Ltd",
-		"total": 124380.08,
-		"monthly": {
-			"2015-09": {"total":948.00, "Childrens Services":948.00},
-			"2015-11": {"total":525.00, "Sustainable Regeneration":525.00},
-			"2015-12": {"total":690.00, "Environment and Community Safety":690.00},
-			"2016-03": {"total":4509.60, "Capital Expenditure":3225.00, "Sustainable Regeneration":1284.60},
-			"2016-04": {"total":2594.40, "Sustainable Regeneration":2594.40},
-			"2016-05": {"total":9507.92, "Capital Expenditure":6081.00, "Sustainable Regeneration":3426.92},
-			"2016-06": {"total":1172.40, "Environment and Community Safety":620.40, "Office of the Chief Executive":552.00},
-			"2016-07": {"total":1596.00, "Sustainable Regeneration":1596.00},
-			"2016-08": {"total":948.00, "Childrens Services":948.00},
-			"2016-10": {"total":22723.20, "Capital Expenditure":22135.80, "Sustainable Regeneration":587.40},
-			"2016-11": {"total":3195.00, "Sustainable Regeneration":3195.00},
-			"2016-12": {"total":3697.20, "Childrens Services":714.00, "Office of the Chief Executive":780.00, "Sustainable Regeneration":2203.20},
-			"2017-01": {"total":4554.60, "Sustainable Regeneration":4554.60},
-			"2017-02": {"total":2094.60, "Sustainable Regeneration":2094.60},
-			"2017-03": {"total":3744.60, "Childrens Services":1365.00, "Sustainable Regeneration":2379.60},
-			"2017-04": {"total":913.80, "Capital Expenditure":913.80},
-			"2017-05": {"total":685.80, "Sustainable Regeneration":685.80},
-			"2017-06": {"total":809.40, "Childrens Services":809.40},
-			"2017-07": {"total":1197.60, "Sustainable Regeneration":1197.60},
-			"2017-08": {"total":3547.80, "Environment and Community Safety":796.20, "Sustainable Regeneration":2751.60},
-			"2017-09": {"total":1643.40, "Sustainable Regeneration":1643.40},
-			"2017-10": {"total":1380.00, "Sustainable Regeneration":1380.00},
-			"2017-11": {"total":1384.20, "Environment and Community Safety":1384.20},
-			"2018-02": {"total":1192.80, "Sustainable Regeneration":1192.80},
-			"2018-04": {"total":4878.00, "Sustainable Regeneration":4878.00},
-			"2018-05": {"total":792.00, "Sustainable Regeneration":792.00},
-			"2018-08": {"total":3500.40, "Capital Expenditure":2304.00, "Place Directorate":1196.40},
-			"2018-09": {"total":2510.40, "Place Directorate":2510.40},
-			"2018-10": {"total":1354.80, "Place Directorate":1354.80},
-			"2018-12": {"total":3033.60, "Capital Expenditure":3033.60},
-			"2019-01": {"total":690.00, "Place Directorate":690.00},
-			"2019-03": {"total":15170.40, "Capital Expenditure":15170.40},
-			"2019-07": {"total":3021.60, "Place Directorate":3021.60},
-			"2019-10": {"total":2561.16, "People (Childrens) Service Group":2561.16},
-			"2020-02": {"total":6838.80, "Capital Expenditure":5458.80, "Place Directorate":1380.00},
-			"2020-03": {"total":4773.60, "Capital Expenditure":4773.60}
-		}
-	},
-	"1614": {
-		"name": "Burnaby Stone Care Ltd",
-		"total": 56112,
-		"monthly": {
-			"2011-12": {"total":570.00, "Chief Executives":570.00},
-			"2012-01": {"total":4530.00, "Chief Executives":4530.00},
-			"2012-05": {"total":12489.60, "Capital Expenditure":12489.60},
-			"2012-09": {"total":3122.40, "Capital Expenditure":3122.40},
-			"2012-11": {"total":5142.00, "Office of the Chief Executive":5142.00},
-			"2012-12": {"total":6240.00, "Community, Health & Social Care":4320.00, "Environment and Community Safety":1920.00},
-			"2014-03": {"total":5280.00, "Capital Expenditure":5280.00},
-			"2014-09": {"total":4200.00, "Sustainable Regeneration":4200.00},
-			"2014-10": {"total":3600.00, "Sustainable Regeneration":3600.00},
-			"2014-11": {"total":4788.00, "Capital Expenditure":4788.00},
-			"2016-01": {"total":1740.00, "Sustainable Regeneration":1740.00},
-			"2016-05": {"total":570.00, "Environment and Community Safety":570.00},
-			"2016-08": {"total":1920.00, "Capital Expenditure":1920.00},
-			"2016-09": {"total":1920.00, "Capital Expenditure":1920.00}
-		}
-	},
-	"1615": {
-		"name": "Burnett Cars",
-		"total": 2300,
-		"monthly": {
-			"2013-01": {"total":2300.00, "Customer and Support Services":2300.00}
-		}
-	},
-	"1616": {
-		"name": "Burns Contractors",
-		"total": 29853.86,
-		"monthly": {
-			"2019-09": {"total":29853.86, "Capital Expenditure":29853.86}
-		}
-	},
-	"1617": {
-		"name": "Burns Jewellers (Uk) Ltd",
-		"alternate-names": [
-			"Burns Jewellers (Uk) Limited"
-		],
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"1618": {
-		"name": "Burnt Tree Group Ltd",
-		"total": 117738.56,
-		"monthly": {
-			"2011-08": {"total":3901.32, "Environment and Community Safety":3901.32},
-			"2011-09": {"total":1363.56, "Environment and Community Safety":1363.56},
-			"2011-10": {"total":5204.02, "Environment and Community Safety":5204.02},
-			"2011-11": {"total":2124.36, "Environment and Community Safety":2124.36},
-			"2011-12": {"total":4088.09, "Environment and Community Safety":4088.09},
-			"2012-01": {"total":2013.12, "Environment and Community Safety":2013.12},
-			"2012-02": {"total":4800.50, "Environment and Comm":4800.50},
-			"2012-03": {"total":4487.58, "Environment and Community Safety":4487.58},
-			"2012-04": {"total":2146.32, "Environment and Community Safety":2146.32},
-			"2012-05": {"total":3755.76, "Environment and Community Safety":3755.76},
-			"2012-06": {"total":595.00, "Environment and Community Safety":595.00},
-			"2012-07": {"total":9740.52, "Environment and Community Safety":9740.52},
-			"2012-09": {"total":13114.61, "Environment and Community Safety":13114.61},
-			"2012-10": {"total":4947.11, "Childrens Services":4947.11},
-			"2012-11": {"total":9993.53, "Environment and Community Health":9993.53},
-			"2013-01": {"total":4877.58, "Environment and Community Health":4877.58},
-			"2013-02": {"total":3562.92, "Environment and Community Safety":3562.92},
-			"2013-03": {"total":7818.72, "Environment and Community Safety":7818.72},
-			"2013-05": {"total":6762.95, "Environment and Community Safety":6762.95},
-			"2013-07": {"total":3779.89, "Environment and Community Safety":3779.89},
-			"2013-08": {"total":3001.58, "Environment and Community Safety":3001.58},
-			"2013-10": {"total":9960.24, "Environment and Community Safety":9960.24},
-			"2013-11": {"total":1817.82, "Environment and Community Safety":1817.82},
-			"2014-01": {"total":844.26, "Environment and Community Safety":844.26},
-			"2014-10": {"total":1266.24, "Environment and Community Safety":1266.24},
-			"2014-12": {"total":1195.44, "Environment and Community Safety":1195.44},
-			"2015-01": {"total":575.52, "Environment and Community Health":575.52}
-		}
-	},
-	"1619": {
-		"name": "Burrbaxter Print",
-		"total": 2839.3,
-		"monthly": {
-			"2015-07": {"total":1235.04, "Customer and Support Services Services":1235.04},
-			"2016-02": {"total":1604.26, "Corporate Business":1604.26}
-		}
-	},
-	"1620": {
-		"name": "Burrbaxter Print L",
-		"total": 681.55,
-		"monthly": {
-			"2015-09": {"total":681.55, "Corporate Business":681.55}
-		}
-	},
-	"1621": {
-		"name": "Burrbaxter Print Ltd",
-		"total": 13102.99,
-		"monthly": {
-			"2012-09": {"total":1938.96, "Customer & Support Services":1938.96},
-			"2013-03": {"total":3702.53, "Customer and Support Services":3702.53},
-			"2014-03": {"total":4910.06, "Customer and Support Services":4910.06},
-			"2014-06": {"total":1415.52, "Customer and Support Services":1415.52},
-			"2014-11": {"total":1135.92, "Customer and Support Services":1135.92}
-		}
-	},
-	"1622": {
-		"name": "Burrell Consulting Ltd",
-		"total": 16542,
-		"monthly": {
-			"2019-03": {"total":11028.00, "Place Directorate":11028.00},
-			"2020-03": {"total":5514.00, "Place Directorate":5514.00}
-		}
-	},
-	"1623": {
-		"name": "Burrows (Gm) Ltd",
-		"alternate-names": [
-			"Burrows (Gm) Limited"
-		],
-		"total": 4024.8,
-		"monthly": {
-			"2011-08": {"total":4024.80, "Environment and Community Safety":4024.80}
-		}
-	},
-	"1624": {
-		"name": "Burtech Cyf",
-		"total": 2140.08,
-		"monthly": {
-			"2011-10": {"total":543.77, "Environment and Community Safety":543.77},
-			"2012-06": {"total":572.44, "Environment and Community Safety":572.44},
-			"2012-10": {"total":523.07, "Environment and Community Safety":523.07},
-			"2013-06": {"total":500.80, "Environment and Community Health":500.80}
-		}
-	},
-	"1625": {
-		"name": "Bury & Whitefield Jewish Nursery",
-		"total": 600,
-		"monthly": {
-			"2015-01": {"total":600.00, "Childrens Services":600.00}
-		}
-	},
-	"1626": {
-		"name": "Bury Church Of England High School",
-		"total": 5000,
-		"monthly": {
-			"2016-12": {"total":5000.00, "Childrens Services":5000.00}
-		}
-	},
-	"1627": {
-		"name": "Bury College",
-		"total": 84059.78,
-		"monthly": {
-			"2012-09": {"total":2070.00, "Sustainable Regeneration":2070.00},
-			"2014-02": {"total":28243.12, "Childrens Services":28243.12},
-			"2014-12": {"total":22554.92, "Childrens Services":22554.92},
-			"2015-04": {"total":7987.28, "Childrens Services":7987.28},
-			"2015-10": {"total":3682.00, "Childrens Services":2882.00, "Corporate Business":800.00},
-			"2015-12": {"total":800.00, "Corporate Business":800.00},
-			"2016-02": {"total":5990.46, "Childrens Services":5990.46},
-			"2017-04": {"total":6732.00, "Childrens Services":6732.00},
-			"2017-05": {"total":6000.00, "Childrens Services":6000.00}
-		}
-	},
-	"1628": {
-		"name": "Bury Council",
-		"total": 1444030.22,
-		"monthly": {
-			"2011-08": {"total":4300.00, "Childrens Services":4300.00},
-			"2011-11": {"total":217874.95, "Children Services":217874.95},
-			"2011-12": {"total":64691.08, "Community Health & Social Care":64691.08},
-			"2012-04": {"total":84701.86, "Community Health & Social Care":84701.86},
-			"2012-05": {"total":1734.36, "Sustainable Regeneration":1734.36},
-			"2012-06": {"total":6267.84, "Childrens Services":4300.00, "Sustainable Regeneration":1967.84},
-			"2012-08": {"total":15000.00, "Childrens Services":15000.00},
-			"2012-09": {"total":110372.93, "Childrens Services":110372.93},
-			"2012-12": {"total":90256.81, "Community, Health & Social Care":73526.81, "Childrens Services":16730.00},
-			"2013-02": {"total":12483.50, "Community, Health & Social Care":12483.50},
-			"2013-03": {"total":504.00, "Environment and Community Safety":504.00},
-			"2013-05": {"total":1270.74, "Sustainable Regeneration":1270.74},
-			"2013-06": {"total":5486.61, "Customer and Support Services":789.10, "Sustainable Regeneration":4697.51},
-			"2013-10": {"total":1270.74, "Sustainable Regeneration":1270.74},
-			"2013-12": {"total":140855.86, "Childrens Services":140855.86},
-			"2014-01": {"total":5328.00, "Childrens Services":5328.00},
-			"2014-04": {"total":20772.20, "Childrens Services":14546.00, "Environment and Community Safety":780.00, "Sustainable Regeneration":5446.20},
-			"2014-05": {"total":150048.78, "Childrens Services":150048.78},
-			"2014-09": {"total":621.65, "Environment and Community Safety":621.65},
-			"2015-03": {"total":5150.11, "Childrens Services":4393.23, "Sustainable Regeneration":756.88},
-			"2016-02": {"total":16149.70, "Childrens Services":16149.70},
-			"2016-04": {"total":731.70, "Environment and Community Safety":731.70},
-			"2016-08": {"total":1200.00, "Childrens Services":1200.00},
-			"2016-11": {"total":954.48, "Childrens Services":954.48},
-			"2016-12": {"total":5250.00, "Childrens Services":5250.00},
-			"2017-01": {"total":4000.00, "Childrens Services":4000.00},
-			"2017-10": {"total":10768.08, "Childrens Services":10768.08},
-			"2017-11": {"total":23715.98, "Office of the Chief Executive":23715.98},
-			"2018-03": {"total":1100.00, "Childrens Services":1100.00},
-			"2018-05": {"total":195649.05, "Childrens Services":195649.05},
-			"2018-07": {"total":891.00, "Place Directorate":891.00},
-			"2018-11": {"total":12859.73, "People (Childrens) Service Group":12859.73},
-			"2018-12": {"total":11456.45, "Place Directorate":11456.45},
-			"2019-02": {"total":11173.82, "Place Directorate":11173.82},
-			"2019-04": {"total":51574.46, "People (Childrens) Service Group":24624.00, "Place Directorate":26950.46},
-			"2019-05": {"total":19249.91, "Place Directorate":19249.91},
-			"2019-07": {"total":34813.84, "People (Childrens) Service Group":20000.00, "Place Directorate":14813.84},
-			"2019-09": {"total":50000.00, "People (Childrens) Service Group":50000.00},
-			"2019-10": {"total":3500.00, "People (Childrens) Service Group":3500.00},
-			"2020-01": {"total":50000.00, "People (Childrens) Service Group":50000.00}
-		}
-	},
-	"1629": {
-		"name": "Bury Fabrication",
-		"total": 14288.4,
-		"monthly": {
-			"2011-09": {"total":528.00, "Capital Expenditure":528.00},
-			"2012-04": {"total":1220.40, "Capital Expenditure":1220.40},
-			"2013-03": {"total":1102.80, "Capital Expenditure":1102.80},
-			"2013-04": {"total":3913.20, "Capital Expenditure":3913.20},
-			"2013-10": {"total":7524.00, "Capital Expenditure":7524.00}
-		}
-	},
-	"1630": {
-		"name": "Bury Mbc",
-		"total": 896.04,
-		"monthly": {
-			"2012-11": {"total":896.04, "Childrens Services":896.04}
-		}
-	},
-	"1631": {
-		"name": "Business & Technology Risk Partners",
-		"total": 8400,
-		"monthly": {
-			"2018-05": {"total":8400.00, "Childrens Services":8400.00}
-		}
-	},
-	"1632": {
-		"name": "Business Handyman",
-		"total": 9750,
-		"monthly": {
-			"2018-08": {"total":9750.00, "Service Reform (Corp Bus & Transform)":9750.00}
-		}
-	},
-	"1633": {
-		"name": "Business Regulation Solutions Ltd",
-		"total": 1380,
-		"monthly": {
-			"2012-04": {"total":1380.00, "Environment and Community Safety":1380.00}
-		}
-	},
-	"1634": {
-		"name": "Business Risk Management Ltd",
-		"total": 834,
-		"monthly": {
-			"2011-09": {"total":834.00, "Customer and Support Services":834.00}
-		}
-	},
-	"1635": {
-		"name": "Butcher & Barlow Llp",
-		"total": 7882,
-		"monthly": {
-			"2017-12": {"total":7882.00, "Service Reform":7882.00}
-		}
-	},
-	"1636": {
-		"name": "Butcher & Barlow Solicitors Llp",
-		"total": 2344.8,
-		"monthly": {
-			"2011-09": {"total":2344.80, "Community Health & Social Care":2344.80}
-		}
-	},
-	"1637": {
-		"name": "Butress Systems Ltd",
-		"total": 10600,
-		"monthly": {
-			"2019-08": {"total":10000.00, "People (Childrens) Service Group":10000.00},
-			"2020-01": {"total":600.00, "Place Directorate":600.00}
-		}
-	},
-	"1638": {
-		"name": "Butterflies Childcare",
-		"total": 2546.25,
-		"monthly": {
-			"2018-01": {"total":509.25, "Childrens Services":509.25},
-			"2019-09": {"total":1018.50, "People (Childrens) Service Group":1018.50},
-			"2019-10": {"total":509.25, "People (Childrens) Service Group":509.25},
-			"2019-11": {"total":509.25, "People (Childrens) Service Group":509.25}
-		}
-	},
-	"1639": {
-		"name": "Buttress Architects Ltd",
-		"alternate-names": [
-			"Buttress Architects Limited"
-		],
-		"total": 11790,
-		"monthly": {
-			"2016-06": {"total":6600.00, "Capital Expenditure":6600.00},
-			"2016-07": {"total":5190.00, "Capital Expenditure":5190.00}
-		}
-	},
-	"1640": {
-		"name": "Buxtons Water Ltd",
-		"total": 3054.91,
-		"monthly": {
-			"2014-10": {"total":3054.91, "Capital Expenditure":3054.91}
-		}
-	},
-	"1641": {
-		"name": "Buy Me Media Ltd",
-		"total": 8760,
-		"monthly": {
-			"2019-02": {"total":2760.00, "People (Childrens) Service Group":2760.00},
-			"2020-07": {"total":6000.00, "Place Directorate":6000.00}
-		}
-	},
-	"1642": {
-		"name": "Buy Status Ltd",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"1643": {
-		"name": "Buymemedia",
-		"total": 5472,
-		"monthly": {
-			"2020-07": {"total":5472.00, "Place Directorate":5472.00}
-		}
-	},
-	"1644": {
-		"name": "Buzz2Go Minibuses Ltd",
-		"total": 42668.4,
-		"monthly": {
-			"2019-10": {"total":6931.20, "People (Childrens) Service Group":6931.20},
-			"2019-11": {"total":4348.80, "People (Childrens) Service Group":4348.80},
-			"2019-12": {"total":2444.40, "People (Childrens) Service Group":2444.40},
-			"2020-01": {"total":3228.00, "People (Childrens) Service Group":3228.00},
-			"2020-02": {"total":10584.00, "People (Childrens) Service Group":10584.00},
-			"2020-03": {"total":2340.00, "People (Childrens) Service Group":2340.00},
-			"2020-05": {"total":1872.00, "People (Childrens) Service Group":1872.00},
-			"2020-06": {"total":2340.00, "People (Childrens) Service Group":2340.00},
-			"2020-07": {"total":6864.00, "People (Childrens) Service Group":6864.00},
-			"2020-08": {"total":1716.00, "People (Childrens) Service Group":1716.00}
-		}
-	},
-	"1645": {
-		"name": "Bw Motors Ta I Burtwistle",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"1646": {
-		"name": "Bwa Ltd",
-		"total": 4044,
-		"monthly": {
-			"2017-10": {"total":2736.00, "Service Reform":2736.00},
-			"2018-04": {"total":528.00, "Service Reform":528.00},
-			"2018-10": {"total":780.00, "Place Directorate":780.00}
-		}
-	},
-	"1647": {
-		"name": "By Anything Ltd",
-		"alternate-names": [
-			"By Anything Limited"
-		],
-		"total": 10000,
-		"monthly": {
-			"2020-06": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"1648": {
-		"name": "By Kaso Ltd",
-		"alternate-names": [
-			"By Kaso Limited"
-		],
-		"total": 25000,
-		"monthly": {
-			"2020-04": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
-		}
-	},
-	"1649": {
-		"name": "By The Bridge",
-		"total": 1261853.43,
-		"monthly": {
-			"2011-10": {"total":3977.14, "Childrens Services":3977.14},
-			"2011-12": {"total":41682.10, "Childrens Services":41682.10},
-			"2012-10": {"total":15408.21, "Childrens Services":15408.21},
-			"2012-12": {"total":12352.50, "Childrens Services":12352.50},
-			"2013-01": {"total":28363.98, "Childrens Services":28363.98},
-			"2013-03": {"total":9788.57, "Childrens Services":9788.57},
-			"2013-10": {"total":8775.00, "Childrens Services":8775.00},
-			"2014-02": {"total":8370.00, "Childrens Services":8370.00},
-			"2014-03": {"total":44955.00, "Childrens Services":44955.00},
-			"2014-04": {"total":8100.00, "Childrens Services":8100.00},
-			"2014-05": {"total":5370.70, "Childrens Services":5370.70},
-			"2014-06": {"total":21388.90, "Childrens Services":21388.90},
-			"2014-07": {"total":7675.71, "Childrens Services":7675.71},
-			"2014-08": {"total":4185.00, "Childrens Services":4185.00},
-			"2014-10": {"total":138601.34, "Childrens Services":138601.34},
-			"2014-11": {"total":30386.38, "Childrens Services":30386.38},
-			"2014-12": {"total":22452.18, "Childrens Services":22452.18},
-			"2015-02": {"total":39750.22, "Childrens Services":39750.22},
-			"2015-03": {"total":23662.40, "Childrens Services":23662.40},
-			"2015-05": {"total":45092.57, "Childrens Services":45092.57},
-			"2015-06": {"total":58007.83, "Childrens Services":58007.83},
-			"2015-07": {"total":34868.35, "Childrens Services":34868.35},
-			"2015-08": {"total":30604.07, "Childrens Services":30604.07},
-			"2015-09": {"total":2558.57, "Childrens Services":2558.57},
-			"2015-10": {"total":10376.43, "Childrens Services":10376.43},
-			"2015-11": {"total":12168.85, "Childrens Services":12168.85},
-			"2015-12": {"total":9830.60, "Childrens Services":9830.60},
-			"2016-01": {"total":9830.60, "Childrens Services":9830.60},
-			"2016-02": {"total":9830.60, "Childrens Services":9830.60},
-			"2016-03": {"total":4571.31, "Childrens Services":4571.31},
-			"2016-04": {"total":5850.60, "Childrens Services":5850.60},
-			"2016-05": {"total":5850.60, "Childrens Services":5850.60},
-			"2016-06": {"total":4681.97, "Childrens Services":4681.97},
-			"2016-07": {"total":4592.08, "Childrens Services":4592.08},
-			"2016-08": {"total":36109.06, "Childrens Services":36109.06},
-			"2016-09": {"total":19054.60, "Childrens Services":19054.60},
-			"2016-10": {"total":19054.60, "Childrens Services":19054.60},
-			"2016-11": {"total":19054.60, "Childrens Services":19054.60},
-			"2016-12": {"total":19054.60, "Childrens Services":19054.60},
-			"2017-01": {"total":10280.10, "Childrens Services":10280.10},
-			"2017-02": {"total":7166.50, "Childrens Services":7166.50},
-			"2017-03": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-04": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-05": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-06": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-07": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-08": {"total":23686.00, "Childrens Services":23686.00},
-			"2017-09": {"total":11843.00, "Childrens Services":11843.00},
-			"2017-10": {"total":7420.05, "Childrens Services":7420.05},
-			"2017-11": {"total":9315.60, "Childrens Services":9315.60},
-			"2017-12": {"total":9315.60, "Childrens Services":9315.60},
-			"2018-01": {"total":9315.60, "Childrens Services":9315.60},
-			"2018-02": {"total":9315.60, "Childrens Services":9315.60},
-			"2018-03": {"total":9315.60, "Childrens Services":9315.60},
-			"2018-04": {"total":8747.03, "Childrens Services":8747.03},
-			"2018-05": {"total":6047.61, "Childrens Services":6047.61},
-			"2018-06": {"total":6589.20, "Childrens Services":6589.20},
-			"2018-07": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2018-08": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2018-09": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2018-10": {"total":7371.12, "People (Childrens) Service Group":7371.12},
-			"2018-11": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2018-12": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-01": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-02": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-03": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2019-04": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-05": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-06": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-07": {"total":26356.80, "People (Childrens) Service Group":26356.80},
-			"2019-08": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-09": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2019-10": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-11": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2019-12": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2020-01": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2020-02": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2020-03": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2020-04": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2020-05": {"total":6589.20, "People (Childrens) Service Group":6589.20},
-			"2020-06": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2020-07": {"total":13178.40, "People (Childrens) Service Group":13178.40},
-			"2020-08": {"total":6589.20, "People (Childrens) Service Group":6589.20}
 		}
 	}
 	}

@@ -1,7 +1,55 @@
 {
-	"range": ["2011-08","2020-08"],
+	"range": ["2011-08","2020-10"],
 	"data": {
 	"100": {
+		"name": "A Kennedy",
+		"total": 2000,
+		"monthly": {
+			"2013-07": {"total":2000.00, "Customer and Support Services":2000.00}
+		}
+	},
+	"101": {
+		"name": "A M Power Services (Uk) Ltd",
+		"alternate-names": [
+			"A M Power Services (Uk) Limited"
+		],
+		"total": 25000,
+		"monthly": {
+			"2020-05": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
+		}
+	},
+	"102": {
+		"name": "A National Voice",
+		"total": 1200,
+		"monthly": {
+			"2012-01": {"total":1200.00, "Childrens Services":1200.00}
+		}
+	},
+	"103": {
+		"name": "A P Paper Supplies Ltd",
+		"alternate-names": [
+			"A P Paper Supplies Limited"
+		],
+		"total": 10000,
+		"monthly": {
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"104": {
+		"name": "A S M (Accessories) Ltd",
+		"total": 14972.4,
+		"monthly": {
+			"2011-08": {"total":2994.00, "Community Health & Social Care":2994.00},
+			"2011-10": {"total":1209.60, "Community Health & Social Care":1209.60},
+			"2011-11": {"total":1897.20, "Community Health & Social Care":1897.20},
+			"2011-12": {"total":600.00, "Community Health & Social Care":600.00},
+			"2012-01": {"total":4314.60, "Community Health & Social Care":4314.60},
+			"2012-02": {"total":936.00, "Community Health & Social Care":936.00},
+			"2012-03": {"total":1968.00, "Community Health & Social Care":1968.00},
+			"2012-04": {"total":1053.00, "Community Health & Social Care":1053.00}
+		}
+	},
+	"105": {
 		"name": "A Taylor Properties",
 		"total": 6936,
 		"monthly": {
@@ -11,16 +59,23 @@
 			"2013-11": {"total":1815.60, "Childrens Services":1815.60}
 		}
 	},
-	"101": {
+	"106": {
+		"name": "A To Z Solutions (Uk) Ltd",
+		"total": 1320,
+		"monthly": {
+			"2020-10": {"total":1320.00, "People (Childrens) Service Group":1320.00}
+		}
+	},
+	"107": {
 		"name": "A V Service",
 		"total": 957.6,
 		"monthly": {
 			"2011-11": {"total":957.60, "Capital Expenditure":957.60}
 		}
 	},
-	"102": {
+	"108": {
 		"name": "A Venning Ltd",
-		"total": 151579.55,
+		"total": 155708.75,
 		"monthly": {
 			"2011-08": {"total":4668.00, "Customer and Support Services":3924.00, "Environment and Community Safety":744.00},
 			"2011-10": {"total":1881.48, "Environment and Community Safety":1881.48},
@@ -91,10 +146,12 @@
 			"2020-03": {"total":2160.00, "Place Directorate":2160.00},
 			"2020-06": {"total":3930.00, "Place Directorate":3930.00},
 			"2020-07": {"total":1893.60, "Place Directorate":1893.60},
-			"2020-08": {"total":624.00, "Place Directorate":624.00}
+			"2020-08": {"total":624.00, "Place Directorate":624.00},
+			"2020-09": {"total":501.60, "Place Directorate":501.60},
+			"2020-10": {"total":3627.60, "Place Directorate":3627.60}
 		}
 	},
-	"103": {
+	"109": {
 		"name": "A&D Transport",
 		"total": 63896.3,
 		"monthly": {
@@ -124,49 +181,56 @@
 			"2016-06": {"total":3600.00, "Community, Health & Social Care":3600.00}
 		}
 	},
-	"104": {
+	"110": {
 		"name": "A&M Mclellan And Co Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"105": {
+	"111": {
 		"name": "A. A. Chemical Cleaning Company Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"106": {
+	"112": {
 		"name": "A.K.M Heating Ltd",
 		"total": 3374.86,
 		"monthly": {
 			"2012-01": {"total":3374.86, "Capital Expenditure":3374.86}
 		}
 	},
-	"107": {
+	"113": {
+		"name": "A.S.H Investment Properties Ltd",
+		"total": 10000,
+		"monthly": {
+			"2020-09": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"114": {
 		"name": "A1 Property Maintenance (Nw) Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"108": {
+	"115": {
 		"name": "A1 Reclaimed Brick Specialists Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"109": {
+	"116": {
 		"name": "A2 Solicitors",
 		"total": 3000,
 		"monthly": {
 			"2017-11": {"total":3000.00, "Service Reform":3000.00}
 		}
 	},
-	"110": {
+	"117": {
 		"name": "A2Z Smoking Products Ltd",
 		"total": 12573.62,
 		"monthly": {
@@ -174,14 +238,14 @@
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"111": {
+	"118": {
 		"name": "A2b Office Technol",
 		"total": 601.8,
 		"monthly": {
 			"2016-09": {"total":601.80, "Environment and Community Safety":601.80}
 		}
 	},
-	"112": {
+	"119": {
 		"name": "A6 Windows Ltd",
 		"alternate-names": [
 			"A6 Windows Limited"
@@ -191,7 +255,7 @@
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"113": {
+	"120": {
 		"name": "ABC Coach Ltd",
 		"alternate-names": [
 			"ABC Coach Limited"
@@ -201,14 +265,14 @@
 			"2015-06": {"total":3175.00, "Childrens Services":3175.00}
 		}
 	},
-	"114": {
+	"121": {
 		"name": "ABCA Systems",
 		"total": 4200,
 		"monthly": {
 			"2014-10": {"total":4200.00, "Sustainable Regeneration":4200.00}
 		}
 	},
-	"115": {
+	"122": {
 		"name": "ACCENTURE",
 		"alternate-names": [
 			"Accenture (Uk) Ltd"
@@ -226,63 +290,73 @@
 			"2020-02": {"total":19584.00, "Service Reform (Corp Bus & Transform)":19584.00}
 		}
 	},
-	"116": {
+	"123": {
 		"name": "ADASS",
 		"total": 1748,
 		"monthly": {
 			"2017-08": {"total":1748.00, "Community, Health & Social Care":1748.00}
 		}
 	},
-	"117": {
+	"124": {
 		"name": "AFC Monton Ltd",
 		"total": 3000,
 		"monthly": {
 			"2013-06": {"total":3000.00, "Customer and Support Services":3000.00}
 		}
 	},
-	"118": {
+	"125": {
 		"name": "AHR",
 		"total": 1800,
 		"monthly": {
 			"2016-04": {"total":1800.00, "Capital Expenditure":1800.00}
 		}
 	},
-	"119": {
+	"126": {
+		"name": "AO Retail Ltd",
+		"alternate-names": [
+			"AO Retail Limited"
+		],
+		"total": 617,
+		"monthly": {
+			"2020-09": {"total":617.00, "People (Childrens) Service Group":617.00}
+		}
+	},
+	"127": {
 		"name": "APSE",
 		"total": 4406.4,
 		"monthly": {
 			"2016-04": {"total":4406.40, "Environment and Community Safety":4406.40}
 		}
 	},
-	"120": {
+	"128": {
 		"name": "AQA",
 		"total": 1281.85,
 		"monthly": {
 			"2016-05": {"total":1281.85, "Childrens Services":1281.85}
 		}
 	},
-	"121": {
+	"129": {
 		"name": "AS Matthews Solicitors",
 		"total": 64250,
 		"monthly": {
 			"2012-11": {"total":64250.00, "Sustainable Regeneration":64250.00}
 		}
 	},
-	"122": {
+	"130": {
 		"name": "AVC Electronics Ltd",
 		"total": 11272.96,
 		"monthly": {
 			"2013-11": {"total":11272.96, "Office of the Chief Executive":11272.96}
 		}
 	},
-	"123": {
+	"131": {
 		"name": "Aa Civil Engineering Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"124": {
+	"132": {
 		"name": "Aa Projects",
 		"total": 35038.52,
 		"monthly": {
@@ -295,14 +369,14 @@
 			"2020-02": {"total":11520.00, "Capital Expenditure":11520.00}
 		}
 	},
-	"125": {
+	"133": {
 		"name": "Aandc Sheet Metal Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"126": {
+	"134": {
 		"name": "Aarondale Care Home",
 		"total": 158000.75,
 		"monthly": {
@@ -356,21 +430,21 @@
 			"2015-12": {"total":7152.00, "Community, Health & Social Care":7152.00}
 		}
 	},
-	"127": {
+	"135": {
 		"name": "Aasports",
 		"total": 2376.56,
 		"monthly": {
 			"2019-03": {"total":2376.56, "People (Childrens) Service Group":2376.56}
 		}
 	},
-	"128": {
+	"136": {
 		"name": "Aasta Sports Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"129": {
+	"137": {
 		"name": "Aat (Gb) Ltd",
 		"total": 14530.8,
 		"monthly": {
@@ -378,7 +452,7 @@
 			"2019-03": {"total":13936.80, "Capital Expenditure":13936.80}
 		}
 	},
-	"130": {
+	"138": {
 		"name": "Ab (Electrical) Engineering Ltd",
 		"total": 197207.48,
 		"monthly": {
@@ -392,21 +466,21 @@
 			"2015-01": {"total":14700.40, "Capital Expenditure":14700.40}
 		}
 	},
-	"131": {
+	"139": {
 		"name": "Ab Print Group Ltd",
 		"total": 1530,
 		"monthly": {
 			"2019-01": {"total":1530.00, "People (Childrens) Service Group":1530.00}
 		}
 	},
-	"132": {
+	"140": {
 		"name": "Abacas Studios Ltd",
 		"total": 1454.4,
 		"monthly": {
 			"2016-11": {"total":1454.40, "Corporate Business":1454.40}
 		}
 	},
-	"133": {
+	"141": {
 		"name": "Abacus Cleaning Services Ltd",
 		"total": 30987.4,
 		"monthly": {
@@ -434,7 +508,7 @@
 			"2018-05": {"total":1398.00, "Capital Expenditure":1398.00}
 		}
 	},
-	"134": {
+	"142": {
 		"name": "Abbey Health Care Ltd",
 		"total": 57452.85,
 		"monthly": {
@@ -446,14 +520,14 @@
 			"2016-06": {"total":13985.63, "Community, Health & Social Care":13985.63}
 		}
 	},
-	"135": {
+	"143": {
 		"name": "Abbey Healthcare Ltd",
 		"total": 20050.67,
 		"monthly": {
 			"2020-05": {"total":20050.67, "People (Adults) - CHSC":20050.67}
 		}
 	},
-	"136": {
+	"144": {
 		"name": "Abbey Hotel",
 		"total": 205278.62,
 		"monthly": {
@@ -472,7 +546,7 @@
 			"2012-09": {"total":780.31, "Sustainable Regeneration":780.31}
 		}
 	},
-	"137": {
+	"145": {
 		"name": "Abbey Solicitors",
 		"total": 17810.31,
 		"monthly": {
@@ -480,7 +554,7 @@
 			"2014-02": {"total":1505.00, "Capital Expenditure":1505.00}
 		}
 	},
-	"138": {
+	"146": {
 		"name": "Abbey Solicitors Ltd",
 		"alternate-names": [
 			"Abbey Solicitors Limited"
@@ -490,14 +564,14 @@
 			"2013-08": {"total":8134.95, "Customer and Support Services":8134.95}
 		}
 	},
-	"139": {
+	"147": {
 		"name": "Abbeycroft Solicitors",
 		"total": 7250,
 		"monthly": {
 			"2012-08": {"total":7250.00, "Customer and Support Services":7250.00}
 		}
 	},
-	"140": {
+	"148": {
 		"name": "Abbeydale Care Home",
 		"total": 35479.95,
 		"monthly": {
@@ -523,9 +597,9 @@
 			"2013-05": {"total":1499.16, "Community, Health & Social Care":1499.16}
 		}
 	},
-	"141": {
+	"149": {
 		"name": "Abbeydale Nursing Home",
-		"total": 1103924.64,
+		"total": 1123682.03,
 		"monthly": {
 			"2011-10": {"total":8452.81, "Community Health & Social Care":8452.81},
 			"2011-11": {"total":9161.76, "Community Health & Social Care":9161.76},
@@ -581,178 +655,9 @@
 			"2016-04": {"total":18567.72, "Community, Health & Social Care":18567.72},
 			"2016-05": {"total":25045.49, "Community, Health & Social Care":25045.49},
 			"2016-06": {"total":24383.60, "Community, Health & Social Care":24383.60},
-			"2020-06": {"total":23037.42, "People (Adults) - CHSC":23037.42}
-		}
-	},
-	"142": {
-		"name": "Abbeyside Nursing Home Ltd",
-		"total": 35096.1,
-		"monthly": {
-			"2015-04": {"total":3264.75, "Community, Health & Social Care":3264.75},
-			"2015-05": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-06": {"total":5169.19, "Community, Health & Social Care":5169.19},
-			"2015-07": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-08": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-09": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-10": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-11": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2015-12": {"total":3808.88, "Community, Health & Social Care":3808.88},
-			"2016-01": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2016-02": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2016-03": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2016-04": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2016-05": {"total":1904.44, "Community, Health & Social Care":1904.44},
-			"2016-06": {"total":1904.44, "Community, Health & Social Care":1904.44}
-		}
-	},
-	"143": {
-		"name": "Abbeywood (Tottington) Ltd",
-		"alternate-names": [
-			"Abbeywood (Tottington) Limited"
-		],
-		"total": 56392.55,
-		"monthly": {
-			"2014-02": {"total":3353.88, "Community, Health & Social Care":3353.88},
-			"2014-03": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-04": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-05": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-06": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-07": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-08": {"total":1647.52, "Community, Health & Social Care":1647.52},
-			"2014-09": {"total":1883.08, "Community, Health & Social Care":1883.08},
-			"2014-10": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2014-11": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2014-12": {"total":3367.52, "Community, Health & Social Care":3367.52},
-			"2015-01": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-02": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-03": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-04": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-05": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-06": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-07": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-08": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-09": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2015-10": {"total":4449.94, "Community, Health & Social Care":4449.94},
-			"2015-11": {"total":1142.55, "Community, Health & Social Care":1142.55},
-			"2015-12": {"total":3367.52, "Community, Health & Social Care":3367.52},
-			"2016-01": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2016-02": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2016-03": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2016-04": {"total":1683.76, "Community, Health & Social Care":1683.76},
-			"2016-05": {"total":1904.62, "Community, Health & Social Care":1904.62},
-			"2016-06": {"total":1781.92, "Community, Health & Social Care":1781.92}
-		}
-	},
-	"144": {
-		"name": "Abbigail Rosewall",
-		"total": 10000,
-		"monthly": {
-			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"145": {
-		"name": "Abbotsford Care Home Ltd",
-		"alternate-names": [
-			"Abbotsford Care Home Limited"
-		],
-		"total": 6325.6,
-		"monthly": {
-			"2016-04": {"total":2852.72, "Community, Health & Social Care":2852.72},
-			"2016-05": {"total":1736.44, "Community, Health & Social Care":1736.44},
-			"2016-06": {"total":1736.44, "Community, Health & Social Care":1736.44}
-		}
-	},
-	"146": {
-		"name": "Abbotsound",
-		"total": 32552.31,
-		"monthly": {
-			"2015-07": {"total":5534.36, "Community, Health & Social Care":5534.36},
-			"2015-08": {"total":12486.31, "Community, Health & Social Care":12486.31},
-			"2015-09": {"total":3756.25, "Community, Health & Social Care":3756.25},
-			"2015-10": {"total":4297.12, "Community, Health & Social Care":4297.12},
-			"2015-11": {"total":6478.27, "Community, Health & Social Care":6478.27}
-		}
-	},
-	"147": {
-		"name": "Abbotsound Ltd",
-		"alternate-names": [
-			"Abbotsound Limited"
-		],
-		"total": 804555.94,
-		"monthly": {
-			"2011-08": {"total":15683.82, "Community Health & Social Care":15683.82},
-			"2011-09": {"total":15645.04, "Community Health & Social Care":15645.04},
-			"2011-10": {"total":15645.04, "Community Health & Social Care":15645.04},
-			"2011-11": {"total":15645.04, "Community Health & Social Care":15645.04},
-			"2011-12": {"total":15593.28, "Childrens Services":15593.28},
-			"2012-01": {"total":15593.28, "Community Health & Social Care":15593.28},
-			"2012-02": {"total":14765.76, "Community Health & Social Care":14765.76},
-			"2012-03": {"total":11766.40, "Community Health & Social Care":11766.40},
-			"2012-04": {"total":11766.40, "Community Health & Social Care":11766.40},
-			"2012-05": {"total":11766.40, "Community Health & Social Care":11766.40},
-			"2012-06": {"total":10732.00, "Community Health & Social Care":10732.00},
-			"2012-07": {"total":15644.88, "Community Health & Social Care":15644.88},
-			"2012-08": {"total":14610.48, "Community Health & Social Care":14610.48},
-			"2012-09": {"total":14817.36, "Community Health & Social Care":14817.36},
-			"2012-10": {"total":11766.40, "Community Health & Social Care":11766.40},
-			"2012-11": {"total":14817.36, "Community, Health & Social Care":14817.36},
-			"2012-12": {"total":30669.12, "Community, Health & Social Care":30669.12},
-			"2013-01": {"total":14701.02, "Community, Health & Social Care":14701.02},
-			"2013-03": {"total":30044.48, "Community Health & Social Care":30044.48},
-			"2013-04": {"total":13498.84, "Community, Health & Social Care":13498.84},
-			"2013-05": {"total":14994.44, "Community, Health & Social Care":14994.44},
-			"2013-06": {"total":15138.44, "Community Health & Social Care":15138.44},
-			"2013-07": {"total":14517.80, "Community, Health & Social Care":14517.80},
-			"2013-08": {"total":14517.80, "Community, Health & Social Care":14517.80},
-			"2013-09": {"total":7483.84, "Community, Health & Social Care":7483.84},
-			"2013-10": {"total":14067.92, "Community Health & Social Care":14067.92},
-			"2013-11": {"total":19401.48, "Community Health & Social Care":19401.48},
-			"2013-12": {"total":12493.64, "Community, Health & Social Care":12493.64},
-			"2014-01": {"total":12493.64, "Community, Health & Social Care":12493.64},
-			"2014-02": {"total":12493.64, "Community, Health & Social Care":12493.64},
-			"2014-03": {"total":18493.20, "Community, Health & Social Care":18493.20},
-			"2014-04": {"total":6550.56, "Community, Health & Social Care":6550.56},
-			"2014-05": {"total":12136.32, "Community, Health & Social Care":12136.32},
-			"2014-06": {"total":18135.88, "Community, Health & Social Care":18135.88},
-			"2014-07": {"total":17342.14, "Community, Health & Social Care":17342.14},
-			"2014-08": {"total":10623.46, "Community, Health & Social Care":10623.46},
-			"2014-09": {"total":15169.80, "Community, Health & Social Care":15169.80},
-			"2014-10": {"total":5999.56, "Community, Health & Social Care":5999.56},
-			"2014-11": {"total":17415.95, "Community, Health & Social Care":17415.95},
-			"2014-12": {"total":18653.04, "Community, Health & Social Care":18653.04},
-			"2015-01": {"total":13377.73, "Community, Health & Social Care":13377.73},
-			"2015-02": {"total":23238.16, "Community, Health & Social Care":23238.16},
-			"2015-04": {"total":11619.08, "Community, Health & Social Care":11619.08},
-			"2015-05": {"total":21101.88, "Community, Health & Social Care":21101.88},
-			"2015-06": {"total":13917.33, "Community, Health & Social Care":13917.33},
-			"2015-07": {"total":16355.25, "Community, Health & Social Care":16355.25},
-			"2015-08": {"total":15439.35, "Community, Health & Social Care":15439.35},
-			"2015-09": {"total":16438.48, "Community, Health & Social Care":16438.48},
-			"2015-10": {"total":8560.52, "Community, Health & Social Care":8560.52},
-			"2015-11": {"total":14691.92, "Community, Health & Social Care":14691.92},
-			"2015-12": {"total":11331.08, "Community, Health & Social Care":11331.08},
-			"2016-01": {"total":7205.32, "Community, Health & Social Care":7205.32},
-			"2016-02": {"total":12058.13, "Community, Health & Social Care":12058.13},
-			"2016-03": {"total":4297.12, "Community, Health & Social Care":4297.12},
-			"2016-04": {"total":4033.92, "Community, Health & Social Care":4033.92},
-			"2016-05": {"total":6413.48, "Community, Health & Social Care":6413.48},
-			"2016-06": {"total":6794.76, "Community, Health & Social Care":6794.76},
-			"2020-06": {"total":4387.48, "People (Adults) - CHSC":4387.48}
-		}
-	},
-	"148": {
-		"name": "Abbott & Co Solicitors",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"149": {
-		"name": "Abbott Rapid Diagnostics Ltd",
-		"total": 11217.6,
-		"monthly": {
-			"2019-11": {"total":3600.00, "People (Adults) - CHSC":3600.00},
-			"2020-03": {"total":7617.60, "People (Adults) - CHSC":6480.00, "People (Childrens) Service Group":1137.60}
+			"2020-06": {"total":23037.42, "People (Adults) - CHSC":23037.42},
+			"2020-09": {"total":11699.95, "People (Adults) - CHSC":11699.95},
+			"2020-10": {"total":8057.44, "People (Adults) - CHSC":8057.44}
 		}
 	}
 	}

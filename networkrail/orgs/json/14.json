@@ -1,7 +1,544 @@
 {
-	"range": ["2017-01","2020-06"],
+	"range": ["2017-01","2020-11"],
 	"data": {
 	"700": {
+		"name": "Faithful + Gould",
+		"total": 936004.63,
+		"monthly": {
+			"2017-03": {"total":28600.00, "Professional Services Direct":28600.00},
+			"2017-05": {"total":121093.50, "Professional Services Direct":121093.50},
+			"2017-06": {"total":94920.00, "Professional Services Direct":94920.00},
+			"2017-11": {"total":29198.75, "Professional Services Direct":29198.75},
+			"2017-12": {"total":39884.00, "Professional Services Direct":39884.00},
+			"2018-05": {"total":92900.00, "Information Technology":65000.00, "Professional Services Direct":27900.00},
+			"2018-06": {"total":25850.00, "Professional Services Direct":25850.00},
+			"2018-07": {"total":30800.00, "Professional Services Direct":30800.00},
+			"2018-08": {"total":87750.00, "Information Technology":87750.00},
+			"2018-09": {"total":33681.25, "Professional Services Direct":33681.25},
+			"2018-10": {"total":195360.63, "Professional Services Direct":195360.63},
+			"2018-11": {"total":65592.00, "Professional Services Direct":65592.00},
+			"2019-01": {"total":29306.00, "Information Technology":29306.00},
+			"2019-03": {"total":29306.00, "Information Technology":29306.00},
+			"2019-04": {"total":31762.50, "Professional Services Direct":31762.50}
+		}
+	},
+	"701": {
+		"name": "Faithful + Gould Ltd",
+		"total": 703420.79,
+		"monthly": {
+			"2019-07": {"total":114750.00, "Information Technology":114750.00},
+			"2019-10": {"total":31293.60, "Professional Services Direct":31293.60},
+			"2020-05": {"total":70177.00, "Professional Services Direct":70177.00},
+			"2020-06": {"total":38466.00, "Professional Services Direct":38466.00},
+			"2020-07": {"total":42740.00, "Professional Services Direct":42740.00},
+			"2020-08": {"total":164676.50, "Information Technology":93750.00, "Professional Services Direct":70926.50},
+			"2020-09": {"total":75932.69, "Professional Services Direct":75932.69},
+			"2020-10": {"total":75571.00, "Professional Services Direct":75571.00},
+			"2020-11": {"total":89814.00, "Professional Services Direct":89814.00}
+		}
+	},
+	"702": {
+		"name": "Faiveley Transport",
+		"total": 216860.65,
+		"monthly": {
+			"2019-06": {"total":164610.65, "Rail Fleet":164610.65},
+			"2020-03": {"total":52250.00, "Rail Fleet":52250.00}
+		}
+	},
+	"703": {
+		"name": "Falck Fire Services UK Ltd",
+		"total": 538534,
+		"monthly": {
+			"2020-01": {"total":25626.00, "Facilities - Soft Services":25626.00},
+			"2020-02": {"total":110261.00, "Facilities - Soft Services":110261.00},
+			"2020-04": {"total":38501.00, "Facilities - Soft Services":38501.00},
+			"2020-05": {"total":63705.00, "Facilities - Soft Services":63705.00},
+			"2020-06": {"total":40689.00, "Facilities - Soft Services":40689.00},
+			"2020-07": {"total":27126.00, "Facilities - Soft Services":27126.00},
+			"2020-08": {"total":141384.00, "Facilities - Soft Services":141384.00},
+			"2020-10": {"total":65760.00, "Facilities - Soft Services":65760.00},
+			"2020-11": {"total":25482.00, "Facilities - Soft Services":25482.00}
+		}
+	},
+	"704": {
+		"name": "Falkirk Council",
+		"total": 59166.67,
+		"monthly": {
+			"2019-06": {"total":59166.67, "Regulatory Charges":59166.67}
+		}
+	},
+	"705": {
+		"name": "Fecund Projects Ltd t/a The Method",
+		"total": 38500,
+		"monthly": {
+			"2019-05": {"total":38500.00, "Land & Property Acquisitions (incl. Business Consultancy)":38500.00}
+		}
+	},
+	"706": {
+		"name": "Fiberweb Geosynthetics Ltd",
+		"total": 1823096.51,
+		"monthly": {
+			"2017-02": {"total":59593.69, "Railway Spares":59593.69},
+			"2017-06": {"total":29160.00, "Railway Spares":29160.00},
+			"2017-09": {"total":44379.28, "unknown":44379.28},
+			"2017-12": {"total":27046.80, "unknown":27046.80},
+			"2018-01": {"total":25243.68, "unknown":25243.68},
+			"2018-02": {"total":26956.96, "unknown":26956.96},
+			"2018-03": {"total":38389.68, "unknown":38389.68},
+			"2018-04": {"total":27993.76, "unknown":27993.76},
+			"2018-05": {"total":55040.86, "unknown":55040.86},
+			"2018-06": {"total":77226.24, "unknown":77226.24},
+			"2018-08": {"total":30772.00, "unknown":30772.00},
+			"2018-09": {"total":99174.72, "unknown":99174.72},
+			"2018-11": {"total":27396.38, "unknown":27396.38},
+			"2018-12": {"total":35168.00, "unknown":35168.00},
+			"2019-02": {"total":147661.02, "unknown":147661.02},
+			"2019-03": {"total":32970.30, "unknown":32970.30},
+			"2019-04": {"total":30810.50, "unknown":30810.50},
+			"2019-05": {"total":122609.24, "unknown":122609.24},
+			"2019-07": {"total":130971.65, "unknown":130971.65},
+			"2019-08": {"total":136490.60, "unknown":136490.60},
+			"2019-09": {"total":93959.02, "unknown":93959.02},
+			"2019-10": {"total":86206.30, "Unspecified":86206.30},
+			"2019-12": {"total":128321.90, "Unspecified":128321.90},
+			"2020-01": {"total":56371.93, "Unspecified":56371.93},
+			"2020-03": {"total":89462.82, "Unspecified":89462.82},
+			"2020-10": {"total":85777.38, "Unspecified":85777.38},
+			"2020-11": {"total":77941.80, "Unspecified":77941.80}
+		}
+	},
+	"707": {
+		"name": "Fife Regional Council",
+		"total": 255000,
+		"monthly": {
+			"2019-03": {"total":255000.00, "Regulatory Charges":255000.00}
+		}
+	},
+	"708": {
+		"name": "Findlay Irvine Ltd",
+		"total": 2622587.92,
+		"monthly": {
+			"2017-01": {"total":137054.00, "Intelligent Infrastructure":137054.00},
+			"2017-02": {"total":77754.34, "Intelligent Infrastructure":37374.00, "Plant and Tools":40380.34},
+			"2017-06": {"total":32315.00, "Intelligent Infrastructure":32315.00},
+			"2017-08": {"total":45039.61, "Plant and Tools":45039.61},
+			"2017-11": {"total":30000.00, "Intelligent Infrastructure":30000.00},
+			"2018-02": {"total":45039.61, "Plant and Tools":45039.61},
+			"2018-03": {"total":32000.00, "Intelligent Infrastructure":32000.00},
+			"2018-04": {"total":82831.20, "Plant and Tools":82831.20},
+			"2018-05": {"total":82831.20, "Plant and Tools":82831.20},
+			"2018-10": {"total":26484.30, "Plant and Tools":26484.30},
+			"2018-11": {"total":44140.50, "Plant and Tools":44140.50},
+			"2019-02": {"total":195035.51, "Plant and Tools":195035.51},
+			"2019-03": {"total":290765.38, "Intelligent Infrastructure":30500.00, "Plant and Tools":260265.38},
+			"2019-05": {"total":378208.27, "Plant and Tools":378208.27},
+			"2019-06": {"total":414156.00, "Plant and Tools":414156.00},
+			"2019-09": {"total":131600.00, "Intelligent Infrastructure":131600.00},
+			"2020-05": {"total":148630.00, "Intelligent Infrastructure":148630.00},
+			"2020-07": {"total":82670.00, "Plant and Tools":82670.00},
+			"2020-11": {"total":346033.00, "Plant and Tools":346033.00}
+		}
+	},
+	"709": {
+		"name": "Finite Element Analysis Ltd t/a LUSAS",
+		"total": 64286,
+		"monthly": {
+			"2017-07": {"total":64286.00, "Information Technology":64286.00}
+		}
+	},
+	"710": {
+		"name": "Finning (UK) Ltd",
+		"total": 1162499.18,
+		"monthly": {
+			"2017-04": {"total":34692.73, "Rail Fleet":34692.73},
+			"2017-06": {"total":155275.77, "On Track Machines":155275.77},
+			"2017-08": {"total":218797.90, "Rail Fleet":218797.90},
+			"2017-12": {"total":119025.97, "On Track Machines":119025.97},
+			"2018-05": {"total":188126.56, "On Track Machines":188126.56},
+			"2019-04": {"total":446580.25, "Rail Fleet":446580.25}
+		}
+	},
+	"711": {
+		"name": "First Capital Connect Ltd",
+		"total": 913771.98,
+		"monthly": {
+			"2017-04": {"total":868771.98, "Regulatory Charges":868771.98},
+			"2017-05": {"total":45000.00, "Regulatory Charges":45000.00}
+		}
+	},
+	"712": {
+		"name": "First Car Ltd",
+		"total": 28250,
+		"monthly": {
+			"2017-08": {"total":28250.00, "Land & Property Acquisitions (incl. Business Consultancy)":28250.00}
+		}
+	},
+	"713": {
+		"name": "First Fence Ltd",
+		"total": 97692.8,
+		"monthly": {
+			"2019-04": {"total":66720.80, "Railway Spares":66720.80},
+			"2020-05": {"total":30972.00, "Railway Spares":30972.00}
+		}
+	},
+	"714": {
+		"name": "First Greater Western Ltd",
+		"total": 78155608.99,
+		"monthly": {
+			"2017-01": {"total":1191352.93, "Regulatory Charges":1191352.93},
+			"2017-02": {"total":1001794.99, "Regulatory Charges":1001794.99},
+			"2017-03": {"total":757874.40, "On Track Machines":30043.00, "Regulatory Charges":727831.40},
+			"2017-04": {"total":2169723.95, "Regulatory Charges":2169723.95},
+			"2017-05": {"total":4001222.03, "Regulatory Charges":4001222.03},
+			"2017-06": {"total":739139.47, "Buildings":49988.35, "Regulatory Charges":689151.12},
+			"2017-07": {"total":300000.00, "Regulatory Charges":300000.00},
+			"2017-08": {"total":311839.72, "Regulatory Charges":311839.72},
+			"2017-09": {"total":645405.88, "Regulatory Charges":645405.88},
+			"2017-10": {"total":854310.26, "Regulatory Charges":854310.26},
+			"2017-11": {"total":155919.86, "Regulatory Charges":155919.86},
+			"2017-12": {"total":79347.06, "Regulatory Charges":79347.06},
+			"2018-01": {"total":1444726.06, "Regulatory Charges":1359176.34, "Telecoms":85549.72},
+			"2018-02": {"total":233239.40, "Regulatory Charges":233239.40},
+			"2018-03": {"total":202689.40, "Regulatory Charges":202689.40},
+			"2018-04": {"total":2566494.94, "Regulatory Charges":2566494.94},
+			"2018-05": {"total":4505499.12, "Buildings":1019000.00, "Regulatory Charges":3486499.12},
+			"2018-06": {"total":2413557.33, "Regulatory Charges":2413557.33},
+			"2018-07": {"total":2054142.90, "Professional Services Direct":196475.00, "Regulatory Charges":1857667.90},
+			"2018-08": {"total":1061159.66, "Rail Fleet":55550.00, "Regulatory Charges":1005609.66},
+			"2018-09": {"total":602457.36, "Regulatory Charges":602457.36},
+			"2018-10": {"total":468212.72, "Regulatory Charges":468212.72},
+			"2018-12": {"total":36906.51, "Regulatory Charges":36906.51},
+			"2019-01": {"total":2468361.15, "Professional Services Direct":127313.10, "Regulatory Charges":2272642.05, "Telecoms":68406.00},
+			"2019-02": {"total":430454.72, "Regulatory Charges":430454.72},
+			"2019-03": {"total":6828737.91, "Regulatory Charges":6828737.91},
+			"2019-04": {"total":30286920.00, "Buildings":109720.00, "Regulatory Charges":30122920.00, "Telecoms":54280.00},
+			"2019-05": {"total":177545.90, "Regulatory Charges":115913.90, "Supplies and Services":61632.00},
+			"2019-06": {"total":41169.12, "Regulatory Charges":41169.12},
+			"2019-08": {"total":1861210.89, "Professional Services Direct":43903.39, "Regulatory Charges":1817307.50},
+			"2019-10": {"total":27813.40, "Regulatory Charges":27813.40},
+			"2019-11": {"total":246106.15, "Regulatory Charges":246106.15},
+			"2019-12": {"total":383082.81, "Regulatory Charges":383082.81},
+			"2020-01": {"total":2355443.04, "Regulatory Charges":2355443.04},
+			"2020-02": {"total":1386816.75, "Professional Services Direct":257000.00, "Regulatory Charges":1129816.75},
+			"2020-03": {"total":667542.89, "Regulatory Charges":599136.89, "Telecoms":68406.00},
+			"2020-05": {"total":289758.64, "Regulatory Charges":289758.64},
+			"2020-06": {"total":194358.03, "Regulatory Charges":194358.03},
+			"2020-07": {"total":958413.60, "Regulatory Charges":958413.60},
+			"2020-08": {"total":268198.44, "Regulatory Charges":268198.44},
+			"2020-09": {"total":577518.70, "Regulatory Charges":577518.70},
+			"2020-10": {"total":523218.42, "Regulatory Charges":523218.42},
+			"2020-11": {"total":385922.48, "Regulatory Charges":385922.48}
+		}
+	},
+	"715": {
+		"name": "First MTR South Western Trains Ltd",
+		"total": 32698510.81,
+		"monthly": {
+			"2018-02": {"total":187500.00, "Regulatory Charges":187500.00},
+			"2018-04": {"total":187500.00, "Regulatory Charges":187500.00},
+			"2018-06": {"total":3422000.00, "Regulatory Charges":3422000.00},
+			"2018-08": {"total":230421.00, "Regulatory Charges":230421.00},
+			"2018-09": {"total":72921.43, "Regulatory Charges":72921.43},
+			"2018-12": {"total":2114557.15, "Regulatory Charges":2114557.15},
+			"2019-01": {"total":28180.72, "Regulatory Charges":28180.72},
+			"2019-03": {"total":5034551.66, "Regulatory Charges":4975311.06, "Telecoms":59240.60},
+			"2019-06": {"total":89848.00, "Regulatory Charges":89848.00},
+			"2019-07": {"total":92012.44, "Regulatory Charges":92012.44},
+			"2019-08": {"total":187382.60, "Telecoms":187382.60},
+			"2019-10": {"total":2917790.00, "Regulatory Charges":2917790.00},
+			"2019-11": {"total":57412.59, "Regulatory Charges":57412.59},
+			"2019-12": {"total":149438.06, "Regulatory Charges":149438.06},
+			"2020-01": {"total":277310.22, "Regulatory Charges":277310.22},
+			"2020-03": {"total":666030.33, "Regulatory Charges":666030.33},
+			"2020-05": {"total":7570460.59, "Regulatory Charges":7570460.59},
+			"2020-06": {"total":7303384.79, "Buildings":47670.00, "Regulatory Charges":7255714.79},
+			"2020-08": {"total":65331.12, "Regulatory Charges":65331.12},
+			"2020-09": {"total":1414607.41, "Regulatory Charges":1414607.41},
+			"2020-10": {"total":629870.70, "Regulatory Charges":629870.70}
+		}
+	},
+	"716": {
+		"name": "First Scotrail Ltd",
+		"alternate-names": [
+			"First Scotrail Limited"
+		],
+		"total": 199895.49,
+		"monthly": {
+			"2019-02": {"total":199895.49, "Utilities":199895.49}
+		}
+	},
+	"717": {
+		"name": "First Somerset & Avon Ltd",
+		"total": 240000,
+		"monthly": {
+			"2017-01": {"total":240000.00, "Regulatory Charges":240000.00}
+		}
+	},
+	"718": {
+		"name": "First TransPennine Express Ltd t/a TransPennine Express (TPE)",
+		"total": 6935427.27,
+		"monthly": {
+			"2017-09": {"total":129269.53, "Regulatory Charges":129269.53},
+			"2018-02": {"total":40715.00, "Buildings":40715.00},
+			"2018-03": {"total":68104.20, "Buildings":40586.00, "Telecoms":27518.20},
+			"2018-10": {"total":2630000.00, "Rail Fleet":2630000.00},
+			"2018-11": {"total":1310000.00, "Rail Fleet":1310000.00},
+			"2019-03": {"total":122422.38, "Buildings":40403.98, "Regulatory Charges":82018.40},
+			"2019-09": {"total":118794.24, "Recruitment Services":118794.24},
+			"2019-10": {"total":1016485.36, "Recruitment Services":92390.80, "Regulatory Charges":884494.12, "Telecoms":39600.44},
+			"2020-01": {"total":788706.00, "Regulatory Charges":788706.00},
+			"2020-02": {"total":241784.27, "Recruitment Services":117210.81, "Regulatory Charges":124573.46},
+			"2020-05": {"total":99146.29, "Recruitment Services":45360.72, "Utilities":53785.57},
+			"2020-11": {"total":370000.00, "Regulatory Charges":370000.00}
+		}
+	},
+	"719": {
+		"name": "First Trenitalia West Coast Rail Ltd t/a Avanti West Coast",
+		"total": 1182229.41,
+		"monthly": {
+			"2020-03": {"total":110578.74, "Regulatory Charges":110578.74},
+			"2020-05": {"total":30667.65, "Regulatory Charges":30667.65},
+			"2020-06": {"total":259615.90, "Regulatory Charges":259615.90},
+			"2020-08": {"total":434641.84, "Regulatory Charges":434641.84},
+			"2020-10": {"total":293812.01, "Regulatory Charges":293812.01},
+			"2020-11": {"total":52913.27, "Regulatory Charges":52913.27}
+		}
+	},
+	"720": {
+		"name": "Fitz-Coatings Ltd",
+		"total": 25000,
+		"monthly": {
+			"2020-05": {"total":25000.00, "General Civils":25000.00}
+		}
+	},
+	"721": {
+		"name": "Fitzgerald Plant Services Ltd",
+		"total": 530893.51,
+		"monthly": {
+			"2018-10": {"total":27111.00, "On Track Plant":27111.00},
+			"2019-02": {"total":29250.00, "On Track Plant":29250.00},
+			"2019-10": {"total":28624.74, "On Track Plant":28624.74},
+			"2019-12": {"total":74127.50, "Plant and Tools":74127.50},
+			"2020-02": {"total":27590.62, "On Track Plant":27590.62},
+			"2020-05": {"total":56153.74, "On Track Plant":56153.74},
+			"2020-07": {"total":183312.50, "On Track Plant":183312.50},
+			"2020-09": {"total":25883.41, "On Track Plant":25883.41},
+			"2020-10": {"total":78840.00, "Plant and Tools":78840.00}
+		}
+	},
+	"722": {
+		"name": "Fletcher Stewart (Stockport) Ltd",
+		"total": 58500,
+		"monthly": {
+			"2020-07": {"total":58500.00, "Supplies and Services":58500.00}
+		}
+	},
+	"723": {
+		"name": "Flexilube Ltd",
+		"total": 198241.42,
+		"monthly": {
+			"2018-12": {"total":31888.16, "Supplies and Services":31888.16},
+			"2019-03": {"total":80723.00, "Supplies and Services":80723.00},
+			"2019-04": {"total":85630.26, "Supplies and Services":85630.26}
+		}
+	},
+	"724": {
+		"name": "Flotec Industrial Ltd",
+		"total": 205359.08,
+		"monthly": {
+			"2018-11": {"total":28988.32, "On Track Machines":28988.32},
+			"2019-04": {"total":64255.93, "On Track Machines":64255.93},
+			"2019-05": {"total":27017.66, "On Track Machines":27017.66},
+			"2019-06": {"total":28323.10, "On Track Machines":28323.10},
+			"2019-10": {"total":31007.81, "On Track Machines":31007.81},
+			"2019-12": {"total":25766.26, "On Track Machines":25766.26}
+		}
+	},
+	"725": {
+		"name": "Flow&Ebb Ltd",
+		"total": 25000,
+		"monthly": {
+			"2020-05": {"total":25000.00, "Professional Services Direct":25000.00}
+		}
+	},
+	"726": {
+		"name": "Flowserve GB Ltd",
+		"total": 335456.26,
+		"monthly": {
+			"2019-07": {"total":30935.00, "Electrification and Fixed Plant":30935.00},
+			"2019-08": {"total":54766.00, "Electrification and Fixed Plant":54766.00},
+			"2019-09": {"total":31515.95, "Electrification and Fixed Plant":31515.95},
+			"2020-06": {"total":59577.29, "Electrification and Fixed Plant":59577.29},
+			"2020-08": {"total":80487.20, "Electrification and Fixed Plant":80487.20},
+			"2020-09": {"total":78174.82, "Electrification and Fixed Plant":78174.82}
+		}
+	},
+	"727": {
+		"name": "Foldall Ltd",
+		"total": 34000,
+		"monthly": {
+			"2020-05": {"total":34000.00, "Supplies and Services":34000.00}
+		}
+	},
+	"728": {
+		"name": "Folglade Pipe & Fittings Ltd",
+		"total": 439567.6,
+		"monthly": {
+			"2017-06": {"total":65968.00, "Plant and Tools":65968.00},
+			"2017-07": {"total":36872.20, "Plant and Tools":36872.20},
+			"2017-09": {"total":26455.00, "Plant and Tools":26455.00},
+			"2017-10": {"total":125056.80, "Plant and Tools":125056.80},
+			"2017-11": {"total":39528.00, "Plant and Tools":39528.00},
+			"2018-03": {"total":26983.32, "Plant and Tools":26983.32},
+			"2018-05": {"total":30498.00, "Plant and Tools":30498.00},
+			"2018-06": {"total":33235.00, "Plant and Tools":33235.00},
+			"2018-07": {"total":25170.00, "Plant and Tools":25170.00},
+			"2018-08": {"total":29801.28, "Plant and Tools":29801.28}
+		}
+	},
+	"729": {
+		"name": "Fone-Alarm Installations Ltd",
+		"total": 6460826.38,
+		"monthly": {
+			"2017-01": {"total":184186.54, "Telecoms":184186.54},
+			"2017-02": {"total":147433.78, "Telecoms":147433.78},
+			"2017-03": {"total":1024187.07, "Telecoms":1024187.07},
+			"2017-04": {"total":87437.00, "Telecoms":87437.00},
+			"2017-05": {"total":400936.07, "Telecoms":400936.07},
+			"2017-07": {"total":139322.86, "Telecoms":139322.86},
+			"2017-08": {"total":523795.99, "Telecoms":523795.99},
+			"2017-09": {"total":192117.44, "Telecoms":192117.44},
+			"2017-10": {"total":79952.46, "Telecoms":79952.46},
+			"2017-11": {"total":298825.17, "Telecoms":298825.17},
+			"2017-12": {"total":170827.98, "Telecoms":170827.98},
+			"2018-01": {"total":100909.00, "Telecoms":100909.00},
+			"2018-02": {"total":334413.70, "Telecoms":334413.70},
+			"2018-03": {"total":122242.68, "Telecoms":122242.68},
+			"2018-04": {"total":388640.53, "Telecoms":388640.53},
+			"2018-05": {"total":453825.15, "Telecoms":453825.15},
+			"2018-07": {"total":489521.02, "Telecoms":489521.02},
+			"2018-08": {"total":244127.65, "Telecoms":244127.65},
+			"2018-09": {"total":206898.92, "Telecoms":206898.92},
+			"2018-10": {"total":254688.38, "Telecoms":254688.38},
+			"2018-11": {"total":223513.95, "Telecoms":223513.95},
+			"2018-12": {"total":134685.67, "Telecoms":134685.67},
+			"2019-01": {"total":47059.88, "Telecoms":47059.88},
+			"2019-02": {"total":67059.87, "Telecoms":67059.87},
+			"2019-03": {"total":76146.18, "Telecoms":76146.18},
+			"2019-04": {"total":41381.47, "Telecoms":41381.47},
+			"2019-05": {"total":26689.97, "Telecoms":26689.97}
+		}
+	},
+	"730": {
+		"name": "Fontsmith Ltd",
+		"total": 50000,
+		"monthly": {
+			"2019-06": {"total":50000.00, "Information Technology":50000.00}
+		}
+	},
+	"731": {
+		"name": "Forbes-Laird Arboricultural Consultancy Ltd",
+		"total": 41520,
+		"monthly": {
+			"2018-12": {"total":41520.00, "Professional Services Direct":41520.00}
+		}
+	},
+	"732": {
+		"name": "Force One Ltd",
+		"total": 295108.03,
+		"monthly": {
+			"2017-03": {"total":28894.03, "Logistics":28894.03},
+			"2018-06": {"total":26168.75, "Plant and Tools":26168.75},
+			"2018-07": {"total":36069.75, "Plant and Tools":36069.75},
+			"2018-09": {"total":32070.00, "Plant and Tools":32070.00},
+			"2019-03": {"total":134497.50, "Plant and Tools":134497.50},
+			"2020-02": {"total":37408.00, "Plant and Tools":37408.00}
+		}
+	},
+	"733": {
+		"name": "Forest Research",
+		"total": 30000,
+		"monthly": {
+			"2017-11": {"total":30000.00, "Professional Services Direct":30000.00}
+		}
+	},
+	"734": {
+		"name": "Forsk",
+		"total": 218830,
+		"monthly": {
+			"2017-06": {"total":97735.00, "Information Technology":97735.00},
+			"2017-10": {"total":121095.00, "Information Technology":121095.00}
+		}
+	},
+	"735": {
+		"name": "Fourway Communication Ltd",
+		"total": 7608622.26,
+		"monthly": {
+			"2017-06": {"total":36706.34, "Telecoms":36706.34},
+			"2018-05": {"total":297067.13, "Telecoms":297067.13},
+			"2018-06": {"total":83169.66, "Telecoms":83169.66},
+			"2018-07": {"total":86630.13, "Telecoms":86630.13},
+			"2018-08": {"total":161654.16, "Telecoms":161654.16},
+			"2018-09": {"total":33856.70, "Telecoms":33856.70},
+			"2018-10": {"total":31917.93, "Telecoms":31917.93},
+			"2018-12": {"total":44469.42, "Telecoms":44469.42},
+			"2019-01": {"total":59429.49, "Telecoms":59429.49},
+			"2019-03": {"total":139407.59, "Telecoms":139407.59},
+			"2019-04": {"total":138602.24, "Telecoms":138602.24},
+			"2019-05": {"total":225692.68, "Telecoms":225692.68},
+			"2019-06": {"total":356589.02, "Telecoms":356589.02},
+			"2019-07": {"total":809029.28, "Telecoms":809029.28},
+			"2019-08": {"total":617847.77, "Telecoms":617847.77},
+			"2019-10": {"total":1031161.32, "Telecoms":1031161.32},
+			"2019-11": {"total":549070.07, "Telecoms":549070.07},
+			"2019-12": {"total":277242.72, "Telecoms":277242.72},
+			"2020-02": {"total":384390.97, "Telecoms":384390.97},
+			"2020-05": {"total":37641.72, "Buildings":37641.72},
+			"2020-06": {"total":530048.31, "Telecoms":530048.31},
+			"2020-07": {"total":239524.29, "Telecoms":239524.29},
+			"2020-08": {"total":142242.89, "Buildings":26161.17, "Telecoms":116081.72},
+			"2020-09": {"total":617863.41, "Telecoms":617863.41},
+			"2020-10": {"total":458322.63, "Telecoms":458322.63},
+			"2020-11": {"total":219044.39, "Telecoms":219044.39}
+		}
+	},
+	"736": {
+		"name": "Francis & Lewis International Ltd",
+		"total": 3407162.95,
+		"monthly": {
+			"2017-01": {"total":98368.04, "Plant and Tools":98368.04},
+			"2017-02": {"total":437554.32, "Plant and Tools":437554.32},
+			"2017-03": {"total":75322.78, "Plant and Tools":75322.78},
+			"2017-04": {"total":183653.04, "Plant and Tools":183653.04},
+			"2017-05": {"total":150149.72, "Plant and Tools":150149.72},
+			"2017-06": {"total":35519.60, "Plant and Tools":35519.60},
+			"2017-07": {"total":189312.58, "Plant and Tools":189312.58},
+			"2017-08": {"total":35280.00, "Plant and Tools":35280.00},
+			"2017-10": {"total":119778.75, "Plant and Tools":93344.98, "Telecoms":26433.77},
+			"2018-01": {"total":58937.94, "Plant and Tools":58937.94},
+			"2018-02": {"total":195152.75, "Plant and Tools":195152.75},
+			"2018-04": {"total":51172.56, "Plant and Tools":51172.56},
+			"2018-05": {"total":26989.44, "Plant and Tools":26989.44},
+			"2018-06": {"total":121204.96, "Plant and Tools":121204.96},
+			"2018-07": {"total":57680.76, "Plant and Tools":57680.76},
+			"2018-08": {"total":599468.47, "Plant and Tools":599468.47},
+			"2018-09": {"total":301182.85, "Plant and Tools":301182.85},
+			"2018-10": {"total":30851.88, "Plant and Tools":30851.88},
+			"2018-11": {"total":398172.94, "Plant and Tools":398172.94},
+			"2019-01": {"total":78050.00, "Plant and Tools":78050.00},
+			"2019-02": {"total":73990.00, "Plant and Tools":73990.00},
+			"2019-08": {"total":60575.57, "Plant and Tools":60575.57},
+			"2020-11": {"total":28794.00, "Telecoms":28794.00}
+		}
+	},
+	"737": {
+		"name": "Francis Taylor Building",
+		"total": 45210.75,
+		"monthly": {
+			"2017-07": {"total":45210.75, "Land & Property Acquisitions (incl. Business Consultancy)":45210.75}
+		}
+	},
+	"738": {
 		"name": "Frankham Consultancy Group Ltd",
 		"total": 1450539.78,
 		"monthly": {
@@ -32,23 +569,24 @@
 			"2020-03": {"total":57950.41, "Professional Services Direct":57950.41}
 		}
 	},
-	"701": {
+	"739": {
 		"name": "Fraunhofer IPM",
 		"total": 42708.25,
 		"monthly": {
 			"2019-05": {"total":42708.25, "Intelligent Infrastructure":42708.25}
 		}
 	},
-	"702": {
+	"740": {
 		"name": "Frauscher UK Ltd",
-		"total": 91499,
+		"total": 120389,
 		"monthly": {
 			"2019-03": {"total":33705.00, "Signalling":33705.00},
 			"2019-09": {"total":28904.00, "Signalling":28904.00},
-			"2020-05": {"total":28890.00, "Signalling":28890.00}
+			"2020-05": {"total":28890.00, "Signalling":28890.00},
+			"2020-08": {"total":28890.00, "Signalling":28890.00}
 		}
 	},
-	"703": {
+	"741": {
 		"name": "Frazer-Nash Consultancy Ltd",
 		"total": 980429.51,
 		"monthly": {
@@ -75,16 +613,16 @@
 			"2020-01": {"total":62183.00, "Professional Services Direct":62183.00}
 		}
 	},
-	"704": {
+	"742": {
 		"name": "Freight Transport Association",
 		"total": 41580,
 		"monthly": {
 			"2018-11": {"total":41580.00, "Road Fleet":41580.00}
 		}
 	},
-	"705": {
+	"743": {
 		"name": "Freightliner HeavyHaul Ltd",
-		"total": 128745826.52,
+		"total": 139919950.8,
 		"monthly": {
 			"2017-01": {"total":3601463.24, "Logistics":3601463.24},
 			"2017-02": {"total":2836385.78, "Logistics":2836385.78},
@@ -125,12 +663,17 @@
 			"2020-02": {"total":5234777.26, "Logistics":5234777.26},
 			"2020-03": {"total":2869799.19, "Logistics":2869799.19},
 			"2020-05": {"total":5066424.34, "Logistics":5066424.34},
-			"2020-06": {"total":2911666.02, "Logistics":2911666.02}
+			"2020-06": {"total":2911666.02, "Logistics":2911666.02},
+			"2020-07": {"total":1875596.84, "Logistics":1875596.84},
+			"2020-08": {"total":2003507.44, "Logistics":2003507.44},
+			"2020-09": {"total":2325556.83, "Logistics":2325556.83},
+			"2020-10": {"total":2267381.75, "Logistics":2267381.75},
+			"2020-11": {"total":2702081.42, "Logistics":2702081.42}
 		}
 	},
-	"706": {
+	"744": {
 		"name": "Freightliner Ltd",
-		"total": 5053341.36,
+		"total": 5754484.95,
 		"monthly": {
 			"2018-03": {"total":34584.41, "Regulatory Charges":34584.41},
 			"2018-04": {"total":28177.37, "Regulatory Charges":28177.37},
@@ -154,12 +697,16 @@
 			"2020-02": {"total":144280.83, "Regulatory Charges":144280.83},
 			"2020-03": {"total":655243.35, "Regulatory Charges":655243.35},
 			"2020-05": {"total":329704.73, "Regulatory Charges":329704.73},
-			"2020-06": {"total":238277.60, "Regulatory Charges":238277.60}
+			"2020-06": {"total":238277.60, "Regulatory Charges":238277.60},
+			"2020-07": {"total":227289.78, "Regulatory Charges":227289.78},
+			"2020-08": {"total":114588.67, "Regulatory Charges":114588.67},
+			"2020-09": {"total":119813.03, "Regulatory Charges":119813.03},
+			"2020-10": {"total":239452.11, "Regulatory Charges":239452.11}
 		}
 	},
-	"707": {
+	"745": {
 		"name": "Frequentis AG",
-		"total": 12822876.23,
+		"total": 14066776.82,
 		"monthly": {
 			"2017-01": {"total":322211.78, "Telecoms":322211.78},
 			"2017-04": {"total":317259.67, "Telecoms":317259.67},
@@ -187,10 +734,15 @@
 			"2020-02": {"total":556431.84, "Telecoms":556431.84},
 			"2020-04": {"total":774766.54, "Telecoms":774766.54},
 			"2020-05": {"total":139755.87, "Telecoms":139755.87},
-			"2020-06": {"total":244473.75, "Telecoms":244473.75}
+			"2020-06": {"total":244473.75, "Telecoms":244473.75},
+			"2020-07": {"total":294744.94, "Telecoms":294744.94},
+			"2020-08": {"total":83031.60, "Telecoms":83031.60},
+			"2020-09": {"total":202194.28, "Telecoms":202194.28},
+			"2020-10": {"total":450365.16, "Telecoms":450365.16},
+			"2020-11": {"total":213564.61, "Telecoms":213564.61}
 		}
 	},
-	"708": {
+	"746": {
 		"name": "Frimstone Ltd",
 		"total": 606370.2,
 		"monthly": {
@@ -207,14 +759,15 @@
 			"2020-01": {"total":46124.60, "Ballast":46124.60}
 		}
 	},
-	"709": {
+	"747": {
 		"name": "Frost Signs Ltd",
-		"total": 30480,
+		"total": 90480,
 		"monthly": {
-			"2020-06": {"total":30480.00, "Buildings":30480.00}
+			"2020-06": {"total":30480.00, "Buildings":30480.00},
+			"2020-11": {"total":60000.00, "Buildings":60000.00}
 		}
 	},
-	"710": {
+	"748": {
 		"name": "Fuel Learning",
 		"total": 162363.34,
 		"monthly": {
@@ -223,12 +776,12 @@
 			"2018-07": {"total":25337.50, "HR and Training":25337.50}
 		}
 	},
-	"711": {
+	"749": {
 		"name": "Fugro NL Land B.V",
 		"alternate-names": [
 			"Fugro NL Land B.V."
 		],
-		"total": 11206812.42,
+		"total": 11885041.85,
 		"monthly": {
 			"2017-09": {"total":375720.06, "Intelligent Infrastructure":375720.06},
 			"2017-10": {"total":183272.22, "Intelligent Infrastructure":183272.22},
@@ -261,684 +814,12 @@
 			"2020-03": {"total":1232884.01, "Intelligent Infrastructure":1063500.00, "Professional Services Direct":169384.01},
 			"2020-04": {"total":71690.00, "Professional Services Direct":71690.00},
 			"2020-05": {"total":30756.03, "Professional Services Direct":30756.03},
-			"2020-06": {"total":237916.81, "Professional Services Direct":237916.81}
-		}
-	},
-	"712": {
-		"name": "Fugro RailData B.V",
-		"alternate-names": [
-			"Fugro RailData B.V."
-		],
-		"total": 3543425.58,
-		"monthly": {
-			"2017-02": {"total":396078.85, "Intelligent Infrastructure":291985.04, "Professional Services Direct":104093.81},
-			"2017-03": {"total":541503.04, "Intelligent Infrastructure":189636.54, "Professional Services Direct":351866.50},
-			"2017-04": {"total":353066.84, "Intelligent Infrastructure":221366.84, "Professional Services Direct":131700.00},
-			"2017-05": {"total":684481.77, "Intelligent Infrastructure":419634.72, "Professional Services Direct":264847.05},
-			"2017-06": {"total":711160.54, "Intelligent Infrastructure":223690.84, "Professional Services Direct":487469.70},
-			"2017-07": {"total":556659.29, "Professional Services Direct":556659.29},
-			"2017-08": {"total":252029.00, "Intelligent Infrastructure":161560.98, "Professional Services Direct":90468.02},
-			"2017-09": {"total":48446.25, "Professional Services Direct":48446.25}
-		}
-	},
-	"713": {
-		"name": "Fujikura Europe Ltd",
-		"total": 76755,
-		"monthly": {
-			"2019-11": {"total":76755.00, "Telecoms":76755.00}
-		}
-	},
-	"714": {
-		"name": "Fullmen Ltd",
-		"total": 3668566.13,
-		"monthly": {
-			"2017-01": {"total":147273.48, "Plant and Tools":147273.48},
-			"2017-02": {"total":257362.55, "Plant and Tools":257362.55},
-			"2017-03": {"total":196562.86, "Plant and Tools":196562.86},
-			"2017-04": {"total":291639.37, "Plant and Tools":291639.37},
-			"2017-05": {"total":229067.68, "Plant and Tools":229067.68},
-			"2017-07": {"total":163900.00, "Plant and Tools":163900.00},
-			"2017-08": {"total":62496.00, "Plant and Tools":62496.00},
-			"2017-09": {"total":104619.70, "Plant and Tools":104619.70},
-			"2017-10": {"total":33159.56, "Plant and Tools":33159.56},
-			"2017-11": {"total":114227.92, "Plant and Tools":114227.92},
-			"2017-12": {"total":110787.20, "Plant and Tools":110787.20},
-			"2018-02": {"total":262096.26, "Plant and Tools":262096.26},
-			"2018-03": {"total":199372.93, "Plant and Tools":199372.93},
-			"2018-04": {"total":111373.78, "Plant and Tools":111373.78},
-			"2018-05": {"total":214928.68, "Plant and Tools":214928.68},
-			"2018-06": {"total":216574.42, "Plant and Tools":216574.42},
-			"2018-07": {"total":129023.75, "Plant and Tools":129023.75},
-			"2018-08": {"total":246076.08, "Plant and Tools":246076.08},
-			"2018-09": {"total":205355.38, "Plant and Tools":205355.38},
-			"2019-01": {"total":164213.20, "Plant and Tools":164213.20},
-			"2019-02": {"total":127663.13, "Plant and Tools":127663.13},
-			"2019-03": {"total":48195.00, "Plant and Tools":48195.00},
-			"2019-05": {"total":32597.20, "Plant and Tools":32597.20}
-		}
-	},
-	"715": {
-		"name": "Function Business Services Ltd",
-		"total": 550561.33,
-		"monthly": {
-			"2017-02": {"total":424895.34, "Buildings":424895.34},
-			"2017-03": {"total":31665.99, "Buildings":31665.99},
-			"2017-12": {"total":47000.00, "Buildings":47000.00},
-			"2018-03": {"total":47000.00, "Buildings":47000.00}
-		}
-	},
-	"716": {
-		"name": "Furrer & Frey AG",
-		"total": 11510479.06,
-		"monthly": {
-			"2017-01": {"total":564891.67, "Plant and Tools":564891.67},
-			"2017-02": {"total":545047.22, "Plant and Tools":545047.22},
-			"2017-03": {"total":702003.61, "Plant and Tools":702003.61},
-			"2017-04": {"total":115404.99, "Plant and Tools":115404.99},
-			"2017-05": {"total":541336.76, "Plant and Tools":149616.94, "Professional Services Direct":391719.82},
-			"2017-06": {"total":540840.85, "Plant and Tools":405142.23, "Professional Services Direct":135698.62},
-			"2017-07": {"total":220582.48, "Plant and Tools":26922.69, "Professional Services Direct":193659.79},
-			"2017-08": {"total":143306.84, "Plant and Tools":53005.64, "Professional Services Direct":90301.20},
-			"2017-09": {"total":144800.70, "Plant and Tools":144800.70},
-			"2017-10": {"total":603950.89, "Plant and Tools":312851.52, "Professional Services Direct":291099.37},
-			"2017-11": {"total":824955.91, "Electrification and Fixed Plant":40357.00, "Plant and Tools":334677.21, "Professional Services Direct":449921.70},
-			"2017-12": {"total":806656.49, "Plant and Tools":364814.27, "Professional Services Direct":441842.22},
-			"2018-01": {"total":179158.24, "Plant and Tools":179158.24},
-			"2018-02": {"total":417154.62, "Plant and Tools":339070.12, "Professional Services Direct":78084.50},
-			"2018-03": {"total":237716.03, "Plant and Tools":52841.09, "Professional Services Direct":184874.94},
-			"2018-04": {"total":265077.73, "Electrification and Fixed Plant":40357.00, "Plant and Tools":179800.73, "Professional Services Direct":44920.00},
-			"2018-05": {"total":251869.82, "Plant and Tools":138701.27, "Professional Services Direct":113168.55},
-			"2018-06": {"total":270309.32, "Plant and Tools":88953.47, "Professional Services Direct":181355.85},
-			"2018-07": {"total":460833.84, "Plant and Tools":98897.36, "Professional Services Direct":361936.48},
-			"2018-08": {"total":166170.63, "Plant and Tools":28672.07, "Professional Services Direct":137498.56},
-			"2018-10": {"total":46032.00, "Professional Services Direct":46032.00},
-			"2018-11": {"total":288903.03, "Electrification and Fixed Plant":26472.68, "Professional Services Direct":262430.35},
-			"2019-01": {"total":175331.75, "Professional Services Direct":175331.75},
-			"2019-02": {"total":40489.66, "Professional Services Direct":40489.66},
-			"2019-03": {"total":111568.00, "Professional Services Direct":111568.00},
-			"2019-04": {"total":246133.11, "Plant and Tools":58013.11, "Professional Services Direct":188120.00},
-			"2019-05": {"total":265320.91, "Plant and Tools":30209.18, "Professional Services Direct":235111.73},
-			"2019-06": {"total":232600.86, "Electrification and Fixed Plant":27938.97, "Plant and Tools":73095.89, "Professional Services Direct":131566.00},
-			"2019-07": {"total":292445.24, "Plant and Tools":26353.60, "Professional Services Direct":266091.64},
-			"2019-08": {"total":259801.16, "Plant and Tools":114910.16, "Professional Services Direct":144891.00},
-			"2019-09": {"total":60756.66, "Professional Services Direct":60756.66},
-			"2019-10": {"total":166090.00, "Professional Services Direct":166090.00},
-			"2019-11": {"total":134771.00, "Professional Services Direct":134771.00},
-			"2019-12": {"total":405372.82, "Electrification and Fixed Plant":38563.45, "Plant and Tools":41010.37, "Professional Services Direct":325799.00},
-			"2020-02": {"total":96294.64, "Plant and Tools":25063.64, "Professional Services Direct":71231.00},
-			"2020-03": {"total":467995.43, "HR and Training":37539.00, "Professional Services Direct":430456.43},
-			"2020-04": {"total":98600.20, "Professional Services Direct":98600.20},
-			"2020-05": {"total":42319.95, "Professional Services Direct":42319.95},
-			"2020-06": {"total":77584.00, "Plant and Tools":77584.00}
-		}
-	},
-	"717": {
-		"name": "Fuse Rail Ltd",
-		"total": 3261586.33,
-		"monthly": {
-			"2017-05": {"total":65424.50, "Electrification and Fixed Plant":65424.50},
-			"2018-02": {"total":34781.82, "Electrification and Fixed Plant":34781.82},
-			"2018-04": {"total":209234.15, "Electrification and Fixed Plant":209234.15},
-			"2018-05": {"total":73903.55, "Electrification and Fixed Plant":73903.55},
-			"2018-06": {"total":80010.00, "Electrification and Fixed Plant":80010.00},
-			"2018-07": {"total":126351.55, "Electrification and Fixed Plant":126351.55},
-			"2018-09": {"total":74762.36, "Electrification and Fixed Plant":74762.36},
-			"2018-10": {"total":146215.60, "Electrification and Fixed Plant":146215.60},
-			"2018-11": {"total":144006.10, "Electrification and Fixed Plant":144006.10},
-			"2018-12": {"total":128562.80, "Electrification and Fixed Plant":128562.80},
-			"2019-01": {"total":78405.22, "Electrification and Fixed Plant":78405.22},
-			"2019-02": {"total":272121.65, "Electrification and Fixed Plant":272121.65},
-			"2019-03": {"total":402233.13, "Electrification and Fixed Plant":402233.13},
-			"2019-04": {"total":577870.72, "Electrification and Fixed Plant":577870.72},
-			"2019-05": {"total":37205.79, "Electrification and Fixed Plant":37205.79},
-			"2019-07": {"total":53035.55, "Electrification and Fixed Plant":53035.55},
-			"2019-10": {"total":73729.56, "Electrification and Fixed Plant":73729.56},
-			"2019-11": {"total":123908.90, "Electrification and Fixed Plant":123908.90},
-			"2019-12": {"total":130983.21, "Electrification and Fixed Plant":130983.21},
-			"2020-01": {"total":25834.36, "Electrification and Fixed Plant":25834.36},
-			"2020-02": {"total":141271.41, "Electrification and Fixed Plant":141271.41},
-			"2020-03": {"total":127796.23, "Electrification and Fixed Plant":127796.23},
-			"2020-05": {"total":104984.17, "Electrification and Fixed Plant":104984.17},
-			"2020-06": {"total":28954.00, "Electrification and Fixed Plant":28954.00}
-		}
-	},
-	"718": {
-		"name": "Fusion Business Solutions (UK) Ltd",
-		"total": 435411.66,
-		"monthly": {
-			"2017-04": {"total":48333.33, "Information Technology":48333.33},
-			"2017-06": {"total":100000.00, "Information Technology":100000.00},
-			"2018-05": {"total":148333.33, "Information Technology":148333.33},
-			"2019-04": {"total":64015.00, "Information Technology":64015.00},
-			"2020-05": {"total":74730.00, "Information Technology":74730.00}
-		}
-	},
-	"719": {
-		"name": "Fusion Risk Management Inc",
-		"alternate-names": [
-			"Fusion Risk Management Inc."
-		],
-		"total": 102100,
-		"monthly": {
-			"2019-05": {"total":29750.00, "Information Technology":29750.00},
-			"2020-03": {"total":72350.00, "Information Technology":72350.00}
-		}
-	},
-	"720": {
-		"name": "Futronics Rail Ltd",
-		"total": 5297053.63,
-		"monthly": {
-			"2017-03": {"total":123916.38, "Intelligent Infrastructure":123916.38},
-			"2018-03": {"total":154346.23, "Intelligent Infrastructure":154346.23},
-			"2018-04": {"total":154346.23, "Intelligent Infrastructure":154346.23},
-			"2018-06": {"total":27237.57, "Intelligent Infrastructure":27237.57},
-			"2018-11": {"total":1472617.57, "Intelligent Infrastructure":1472617.57},
-			"2019-01": {"total":329230.69, "Intelligent Infrastructure":329230.69},
-			"2019-02": {"total":182199.77, "Intelligent Infrastructure":182199.77},
-			"2019-03": {"total":1146063.72, "Intelligent Infrastructure":1088287.72, "Professional Services Direct":57776.00},
-			"2019-04": {"total":516133.95, "Intelligent Infrastructure":516133.95},
-			"2019-05": {"total":59194.00, "Intelligent Infrastructure":59194.00},
-			"2019-08": {"total":87350.72, "Intelligent Infrastructure":87350.72},
-			"2019-11": {"total":62435.56, "Intelligent Infrastructure":62435.56},
-			"2019-12": {"total":35129.25, "Intelligent Infrastructure":35129.25},
-			"2020-02": {"total":33738.25, "Intelligent Infrastructure":33738.25},
-			"2020-03": {"total":463113.74, "Intelligent Infrastructure":463113.74},
-			"2020-04": {"total":225000.00, "Intelligent Infrastructure":225000.00},
-			"2020-05": {"total":225000.00, "Intelligent Infrastructure":225000.00}
-		}
-	},
-	"721": {
-		"name": "Future Purchasing Consulting Ltd",
-		"total": 1518831.9,
-		"monthly": {
-			"2018-06": {"total":135799.23, "Land & Property Acquisitions (incl. Business Consultancy)":135799.23},
-			"2018-07": {"total":78118.61, "Land & Property Acquisitions (incl. Business Consultancy)":78118.61},
-			"2018-09": {"total":57619.66, "Land & Property Acquisitions (incl. Business Consultancy)":57619.66},
-			"2018-11": {"total":124960.70, "Land & Property Acquisitions (incl. Business Consultancy)":124960.70},
-			"2018-12": {"total":61469.69, "Land & Property Acquisitions (incl. Business Consultancy)":61469.69},
-			"2019-02": {"total":148163.70, "Land & Property Acquisitions (incl. Business Consultancy)":148163.70},
-			"2019-03": {"total":238000.00, "Land & Property Acquisitions (incl. Business Consultancy)":238000.00},
-			"2019-07": {"total":92498.35, "Land & Property Acquisitions (incl. Business Consultancy)":92498.35},
-			"2019-09": {"total":58220.30, "Land & Property Acquisitions (incl. Business Consultancy)":58220.30},
-			"2019-10": {"total":43273.48, "Land & Property Acquisitions (incl. Business Consultancy)":43273.48},
-			"2019-11": {"total":48594.45, "Land & Property Acquisitions (incl. Business Consultancy)":48594.45},
-			"2019-12": {"total":51623.72, "Land & Property Acquisitions (incl. Business Consultancy)":51623.72},
-			"2020-01": {"total":92109.16, "Land & Property Acquisitions (incl. Business Consultancy)":92109.16},
-			"2020-02": {"total":94631.51, "Land & Property Acquisitions (incl. Business Consultancy)":94631.51},
-			"2020-03": {"total":57456.50, "Land & Property Acquisitions (incl. Business Consultancy)":57456.50},
-			"2020-05": {"total":88826.74, "Land & Property Acquisitions (incl. Business Consultancy)":88826.74},
-			"2020-06": {"total":47466.10, "Land & Property Acquisitions (incl. Business Consultancy)":47466.10}
-		}
-	},
-	"722": {
-		"name": "G Birchall Service Ltd",
-		"total": 166468.05,
-		"monthly": {
-			"2017-02": {"total":41465.59, "Buildings":41465.59},
-			"2017-04": {"total":48025.00, "Buildings":48025.00},
-			"2017-07": {"total":76977.46, "Buildings":76977.46}
-		}
-	},
-	"723": {
-		"name": "G-Tech Coper Ltd",
-		"total": 33560,
-		"monthly": {
-			"2020-03": {"total":33560.00, "General Civils":33560.00}
-		}
-	},
-	"724": {
-		"name": "G-Tech Copers Ltd",
-		"total": 169909.2,
-		"monthly": {
-			"2019-06": {"total":169909.20, "General Civils":169909.20}
-		}
-	},
-	"725": {
-		"name": "G.O.S. Tool & Engineering Services Ltd",
-		"total": 698481,
-		"monthly": {
-			"2017-04": {"total":31260.00, "On Track Plant":31260.00},
-			"2018-07": {"total":122333.00, "On Track Plant":122333.00},
-			"2018-09": {"total":103888.00, "On Track Plant":103888.00},
-			"2018-10": {"total":38000.00, "On Track Plant":38000.00},
-			"2019-03": {"total":117000.00, "On Track Plant":117000.00},
-			"2019-04": {"total":169000.00, "On Track Plant":169000.00},
-			"2020-03": {"total":117000.00, "On Track Plant":117000.00}
-		}
-	},
-	"726": {
-		"name": "GA Fabrications (W'Hall) Ltd",
-		"total": 67765.09,
-		"monthly": {
-			"2019-03": {"total":67765.09, "General Civils":67765.09}
-		}
-	},
-	"727": {
-		"name": "GAI-TRONICS",
-		"total": 1568909.15,
-		"monthly": {
-			"2017-02": {"total":111370.45, "Telecoms":111370.45},
-			"2017-03": {"total":38215.50, "Telecoms":38215.50},
-			"2017-04": {"total":38215.50, "Telecoms":38215.50},
-			"2017-05": {"total":38215.50, "Telecoms":38215.50},
-			"2017-06": {"total":110954.00, "Telecoms":110954.00},
-			"2017-08": {"total":38215.50, "Telecoms":38215.50},
-			"2017-09": {"total":30000.00, "Telecoms":30000.00},
-			"2017-11": {"total":40763.20, "Telecoms":40763.20},
-			"2017-12": {"total":91081.20, "Telecoms":91081.20},
-			"2018-02": {"total":39859.20, "Telecoms":39859.20},
-			"2018-05": {"total":73324.20, "Telecoms":73324.20},
-			"2018-06": {"total":84753.90, "Telecoms":84753.90},
-			"2018-07": {"total":37209.60, "Telecoms":37209.60},
-			"2018-08": {"total":75360.00, "Telecoms":75360.00},
-			"2018-10": {"total":157039.50, "Telecoms":157039.50},
-			"2019-01": {"total":79617.30, "Telecoms":79617.30},
-			"2019-03": {"total":40167.60, "Telecoms":40167.60},
-			"2019-06": {"total":120502.80, "Telecoms":120502.80},
-			"2019-07": {"total":75609.60, "Telecoms":75609.60},
-			"2019-09": {"total":114244.60, "Telecoms":114244.60},
-			"2019-11": {"total":44730.00, "Telecoms":44730.00},
-			"2019-12": {"total":44730.00, "Telecoms":44730.00},
-			"2020-01": {"total":44730.00, "Telecoms":44730.00}
-		}
-	},
-	"728": {
-		"name": "GB Railfreight Ltd",
-		"total": 125256423.99,
-		"monthly": {
-			"2017-01": {"total":2781438.80, "Logistics":2781438.80},
-			"2017-02": {"total":3976001.61, "Logistics":3976001.61},
-			"2017-03": {"total":418639.74, "Logistics":302117.09, "Regulatory Charges":116522.65},
-			"2017-04": {"total":2222736.62, "Logistics":2049242.58, "Regulatory Charges":173494.04},
-			"2017-05": {"total":4464024.94, "Logistics":4464024.94},
-			"2017-06": {"total":2041519.44, "Logistics":1962964.38, "Regulatory Charges":78555.06},
-			"2017-07": {"total":1929034.66, "Logistics":1857359.66, "Regulatory Charges":71675.00},
-			"2017-08": {"total":1628572.06, "Logistics":1628572.06},
-			"2017-09": {"total":1877656.66, "Logistics":1877656.66},
-			"2017-10": {"total":2221810.72, "Logistics":2185565.72, "Regulatory Charges":36245.00},
-			"2017-11": {"total":3148680.48, "Logistics":2951805.80, "Regulatory Charges":196874.68},
-			"2017-12": {"total":3576891.89, "Logistics":3576891.89},
-			"2018-01": {"total":4615207.75, "Logistics":4580355.25, "Regulatory Charges":34852.50},
-			"2018-02": {"total":2730991.89, "Logistics":2730991.89},
-			"2018-03": {"total":692263.37, "Logistics":578898.37, "Rail Fleet":45825.00, "Regulatory Charges":67540.00},
-			"2018-04": {"total":2264207.27, "Logistics":2264207.27},
-			"2018-05": {"total":8064848.80, "Logistics":7906080.22, "Regulatory Charges":130648.78, "Telecoms":28119.80},
-			"2018-06": {"total":1469970.20, "Logistics":1469970.20},
-			"2018-07": {"total":2434896.28, "Logistics":2366555.02, "Track":68341.26},
-			"2018-08": {"total":1700527.01, "Logistics":1660706.28, "Regulatory Charges":39820.73},
-			"2018-09": {"total":1352750.02, "Logistics":1352750.02},
-			"2018-10": {"total":2721315.76, "Logistics":2667943.76, "Regulatory Charges":53372.00},
-			"2018-11": {"total":2344843.13, "Logistics":1897584.72, "Regulatory Charges":447258.41},
-			"2018-12": {"total":3712822.84, "Logistics":3712822.84},
-			"2019-01": {"total":2907892.34, "Logistics":2907892.34},
-			"2019-02": {"total":4275245.47, "Logistics":4117795.18, "Regulatory Charges":157450.29},
-			"2019-03": {"total":5700025.90, "Logistics":5374032.81, "Regulatory Charges":325993.09},
-			"2019-04": {"total":1192299.95, "Logistics":1016633.12, "Regulatory Charges":175666.83},
-			"2019-05": {"total":2591433.66, "Logistics":2552133.56, "Regulatory Charges":39300.10},
-			"2019-06": {"total":2355705.86, "Logistics":2208019.04, "Regulatory Charges":63574.50, "Track":84112.32},
-			"2019-07": {"total":1104721.36, "Logistics":997552.42, "Regulatory Charges":107168.94},
-			"2019-08": {"total":3973143.41, "Logistics":3787230.14, "Regulatory Charges":185913.27},
-			"2019-09": {"total":29921.60, "Logistics":29921.60},
-			"2019-10": {"total":4662428.97, "Logistics":4637269.40, "Regulatory Charges":25159.57},
-			"2019-11": {"total":275538.58, "Regulatory Charges":275538.58},
-			"2019-12": {"total":4135199.63, "Logistics":3851185.55, "Regulatory Charges":284014.08},
-			"2020-01": {"total":6782678.72, "Logistics":6782678.72},
-			"2020-02": {"total":9803436.65, "Logistics":9604710.76, "Regulatory Charges":198725.89},
-			"2020-03": {"total":2975087.20, "Logistics":2872238.77, "Regulatory Charges":102848.43},
-			"2020-05": {"total":5698369.50, "Logistics":5592944.20, "Regulatory Charges":105425.30},
-			"2020-06": {"total":2401643.25, "Logistics":2401643.25}
-		}
-	},
-	"729": {
-		"name": "GBR Solutions Ltd",
-		"total": 426208.24,
-		"monthly": {
-			"2020-03": {"total":264472.91, "Contingent Labour":264472.91},
-			"2020-05": {"total":161735.33, "Contingent Labour":161735.33}
-		}
-	},
-	"730": {
-		"name": "GH Preston",
-		"total": 122231.91,
-		"monthly": {
-			"2019-03": {"total":122231.91, "Plant and Tools":122231.91}
-		}
-	},
-	"731": {
-		"name": "GLS Coatings Ltd",
-		"total": 204260.91,
-		"monthly": {
-			"2019-01": {"total":39540.00, "Electrification and Fixed Plant":39540.00},
-			"2019-02": {"total":29975.00, "Electrification and Fixed Plant":29975.00},
-			"2019-04": {"total":70000.00, "Electrification and Fixed Plant":70000.00},
-			"2019-11": {"total":64745.91, "Electrification and Fixed Plant":64745.91}
-		}
-	},
-	"732": {
-		"name": "GPX Engineering Ltd",
-		"total": 248670.82,
-		"monthly": {
-			"2017-01": {"total":27462.00, "Infrastructure Support Services":27462.00},
-			"2017-05": {"total":107083.31, "Infrastructure Support Services":107083.31},
-			"2019-02": {"total":77906.15, "Infrastructure Support Services":77906.15},
-			"2020-02": {"total":36219.36, "Infrastructure Support Services":36219.36}
-		}
-	},
-	"733": {
-		"name": "GS Foam Concrete Ltd",
-		"total": 37026.18,
-		"monthly": {
-			"2018-04": {"total":37026.18, "General Civils":37026.18}
-		}
-	},
-	"734": {
-		"name": "GVA Grimley Ltd",
-		"total": 1127000,
-		"monthly": {
-			"2017-01": {"total":28600.00, "Land & Property Acquisitions (incl. Business Consultancy)":28600.00},
-			"2017-02": {"total":28600.00, "Land & Property Acquisitions (incl. Business Consultancy)":28600.00},
-			"2017-04": {"total":90000.00, "Land & Property Acquisitions (incl. Business Consultancy)":90000.00},
-			"2017-05": {"total":42000.00, "Land & Property Acquisitions (incl. Business Consultancy)":42000.00},
-			"2017-06": {"total":35000.00, "Land & Property Acquisitions (incl. Business Consultancy)":35000.00},
-			"2017-07": {"total":42000.00, "Land & Property Acquisitions (incl. Business Consultancy)":42000.00},
-			"2017-08": {"total":35000.00, "Land & Property Acquisitions (incl. Business Consultancy)":35000.00},
-			"2017-09": {"total":80000.00, "Land & Property Acquisitions (incl. Business Consultancy)":80000.00},
-			"2017-10": {"total":40000.00, "Land & Property Acquisitions (incl. Business Consultancy)":40000.00},
-			"2017-11": {"total":80000.00, "Land & Property Acquisitions (incl. Business Consultancy)":80000.00},
-			"2018-01": {"total":40000.00, "Land & Property Acquisitions (incl. Business Consultancy)":40000.00},
-			"2018-02": {"total":40000.00, "Land & Property Acquisitions (incl. Business Consultancy)":40000.00},
-			"2018-03": {"total":115360.00, "Land & Property Acquisitions (incl. Business Consultancy)":115360.00},
-			"2018-04": {"total":42680.00, "Land & Property Acquisitions (incl. Business Consultancy)":42680.00},
-			"2018-05": {"total":42680.00, "Land & Property Acquisitions (incl. Business Consultancy)":42680.00},
-			"2018-06": {"total":42680.00, "Land & Property Acquisitions (incl. Business Consultancy)":42680.00},
-			"2018-07": {"total":42680.00, "Land & Property Acquisitions (incl. Business Consultancy)":42680.00},
-			"2018-08": {"total":69040.00, "Land & Property Acquisitions (incl. Business Consultancy)":69040.00},
-			"2018-09": {"total":42680.00, "Land & Property Acquisitions (incl. Business Consultancy)":42680.00},
-			"2018-11": {"total":37000.00, "Land & Property Acquisitions (incl. Business Consultancy)":37000.00},
-			"2018-12": {"total":37000.00, "Land & Property Acquisitions (incl. Business Consultancy)":37000.00},
-			"2019-01": {"total":74000.00, "Land & Property Acquisitions (incl. Business Consultancy)":74000.00}
-		}
-	},
-	"735": {
-		"name": "GVA Grimley Ltd t/a Avison Young",
-		"total": 415643.6,
-		"monthly": {
-			"2019-02": {"total":37000.00, "Land & Property Acquisitions (incl. Business Consultancy)":37000.00},
-			"2019-03": {"total":52600.00, "Land & Property Acquisitions (incl. Business Consultancy)":52600.00},
-			"2019-04": {"total":54613.50, "Land & Property Acquisitions (incl. Business Consultancy)":54613.50},
-			"2019-05": {"total":33266.72, "Land & Property Acquisitions (incl. Business Consultancy)":33266.72},
-			"2019-09": {"total":104576.55, "Land & Property Acquisitions (incl. Business Consultancy)":104576.55},
-			"2019-10": {"total":26586.83, "Land & Property Acquisitions (incl. Business Consultancy)":26586.83},
-			"2020-01": {"total":107000.00, "Land & Property Acquisitions (incl. Business Consultancy)":107000.00}
-		}
-	},
-	"736": {
-		"name": "Galliford Try Construction (UK) Ltd",
-		"total": 69485391.62,
-		"monthly": {
-			"2017-01": {"total":1930177.86, "Buildings":1930177.86},
-			"2017-02": {"total":2311478.88, "Buildings":2279256.67, "General Civils":32222.21},
-			"2017-03": {"total":2402038.29, "Buildings":2402038.29},
-			"2017-04": {"total":2076287.79, "Buildings":2076287.79},
-			"2017-05": {"total":2632031.65, "Buildings":2238396.16, "General Civils":393635.49},
-			"2017-06": {"total":1785147.52, "Buildings":1756780.94, "General Civils":28366.58},
-			"2017-07": {"total":1023711.62, "Buildings":1023711.62},
-			"2017-08": {"total":2154687.42, "Buildings":1656131.87, "General Civils":498555.55},
-			"2017-09": {"total":1574303.44, "Buildings":1574303.44},
-			"2017-10": {"total":1418823.61, "Buildings":1418823.61},
-			"2017-11": {"total":1019596.44, "Buildings":821575.73, "General Civils":198020.71},
-			"2017-12": {"total":2950207.57, "Buildings":2950207.57},
-			"2018-01": {"total":2884440.22, "Buildings":2884440.22},
-			"2018-02": {"total":2645500.59, "Buildings":2529636.70, "Professional Services Direct":115863.89},
-			"2018-03": {"total":2189825.66, "Buildings":2189825.66},
-			"2018-04": {"total":1492301.18, "Buildings":1462404.80, "General Civils":29896.38},
-			"2018-05": {"total":3206861.53, "Buildings":3206861.53},
-			"2018-06": {"total":2710049.89, "Buildings":2562799.99, "General Civils":147249.90},
-			"2018-07": {"total":4212135.07, "Buildings":4212135.07},
-			"2018-08": {"total":3718453.42, "Buildings":3480437.53, "General Civils":131698.55, "Professional Services Direct":106317.34},
-			"2018-09": {"total":204939.57, "Buildings":204939.57},
-			"2018-10": {"total":2891258.21, "Buildings":2613882.52, "General Civils":277375.69},
-			"2018-11": {"total":972550.99, "Buildings":644370.06, "General Civils":328180.93},
-			"2018-12": {"total":1531868.87, "Buildings":1264853.77, "General Civils":267015.10},
-			"2019-01": {"total":1162172.37, "Buildings":879021.91, "General Civils":283150.46},
-			"2019-02": {"total":2628448.46, "Buildings":2279287.75, "General Civils":349160.71},
-			"2019-03": {"total":1705139.64, "Buildings":1487629.27, "General Civils":217510.37},
-			"2019-04": {"total":1074394.02, "Buildings":879593.36, "General Civils":194800.66},
-			"2019-05": {"total":2242882.19, "Buildings":1916526.52, "General Civils":326355.67},
-			"2019-06": {"total":1706864.58, "Buildings":1533545.71, "General Civils":173318.87},
-			"2019-07": {"total":444996.27, "Buildings":218829.47, "General Civils":226166.80},
-			"2019-08": {"total":841616.94, "Buildings":772481.51, "General Civils":69135.43},
-			"2019-09": {"total":225730.42, "Buildings":225730.42},
-			"2019-10": {"total":1186033.33, "Buildings":1186033.33},
-			"2019-11": {"total":889738.39, "Buildings":475226.30, "General Civils":414512.09},
-			"2019-12": {"total":1418298.01, "Buildings":1150587.00, "General Civils":267711.01},
-			"2020-01": {"total":141184.88, "General Civils":141184.88},
-			"2020-02": {"total":394480.80, "Buildings":349119.72, "General Civils":45361.08},
-			"2020-03": {"total":340875.42, "Buildings":162752.73, "General Civils":178122.69},
-			"2020-04": {"total":467683.76, "Buildings":388626.40, "General Civils":79057.36},
-			"2020-05": {"total":550971.91, "Buildings":489128.16, "General Civils":61843.75},
-			"2020-06": {"total":125202.94, "Buildings":60000.00, "General Civils":65202.94}
-		}
-	},
-	"737": {
-		"name": "Galliford Try Infrastructure Ltd",
-		"total": 2870807.61,
-		"monthly": {
-			"2017-01": {"total":132044.51, "Buildings":132044.51},
-			"2017-02": {"total":88164.17, "Buildings":88164.17},
-			"2017-03": {"total":32691.24, "Buildings":32691.24},
-			"2017-07": {"total":1021452.50, "Buildings":1021452.50},
-			"2017-08": {"total":294236.70, "Buildings":294236.70},
-			"2017-09": {"total":65251.95, "Buildings":65251.95},
-			"2017-10": {"total":29246.86, "Buildings":29246.86},
-			"2018-04": {"total":33063.90, "Buildings":33063.90},
-			"2018-06": {"total":120689.21, "Buildings":120689.21},
-			"2018-07": {"total":250504.95, "Buildings":250504.95},
-			"2019-03": {"total":299453.34, "Buildings":299453.34},
-			"2019-09": {"total":85728.22, "Buildings":85728.22},
-			"2019-12": {"total":56368.81, "Buildings":56368.81},
-			"2020-03": {"total":361911.25, "Buildings":361911.25}
-		}
-	},
-	"738": {
-		"name": "Ganymede Solutions Ltd",
-		"total": 6716819.51,
-		"monthly": {
-			"2017-01": {"total":211535.57, "Contingent Labour":211535.57},
-			"2017-02": {"total":307220.05, "Contingent Labour":307220.05},
-			"2017-03": {"total":119836.79, "Contingent Labour":119836.79},
-			"2017-04": {"total":201576.15, "Contingent Labour":201576.15},
-			"2017-05": {"total":25669.06, "Contingent Labour":25669.06},
-			"2017-07": {"total":187874.98, "Contingent Labour":187874.98},
-			"2017-08": {"total":25653.76, "Contingent Labour":25653.76},
-			"2017-10": {"total":50293.76, "Contingent Labour":50293.76},
-			"2017-11": {"total":51807.19, "Contingent Labour":51807.19},
-			"2018-01": {"total":57267.72, "Contingent Labour":28814.72, "Infrastructure Support Services":28453.00},
-			"2018-02": {"total":146990.25, "Infrastructure Support Services":146990.25},
-			"2018-03": {"total":27081.10, "Contingent Labour":27081.10},
-			"2018-05": {"total":45812.05, "Contingent Labour":45812.05},
-			"2018-06": {"total":35245.13, "Contingent Labour":35245.13},
-			"2018-07": {"total":297066.91, "Contingent Labour":297066.91},
-			"2018-08": {"total":475011.56, "Contingent Labour":475011.56},
-			"2018-09": {"total":26067.05, "Contingent Labour":26067.05},
-			"2018-10": {"total":173800.67, "Contingent Labour":173800.67},
-			"2018-12": {"total":25182.08, "Contingent Labour":25182.08},
-			"2019-02": {"total":939324.32, "Contingent Labour":939324.32},
-			"2019-03": {"total":221036.74, "Contingent Labour":221036.74},
-			"2019-04": {"total":63684.56, "Contingent Labour":63684.56},
-			"2019-05": {"total":194785.12, "Contingent Labour":194785.12},
-			"2019-06": {"total":83281.94, "Contingent Labour":83281.94},
-			"2019-07": {"total":257179.77, "Contingent Labour":257179.77},
-			"2019-08": {"total":350575.29, "Contingent Labour":350575.29},
-			"2019-09": {"total":178146.55, "Contingent Labour":178146.55},
-			"2019-10": {"total":310722.41, "Contingent Labour":310722.41},
-			"2019-11": {"total":210581.74, "Contingent Labour":210581.74},
-			"2019-12": {"total":289218.77, "Contingent Labour":289218.77},
-			"2020-01": {"total":376617.71, "Contingent Labour":376617.71},
-			"2020-02": {"total":518807.23, "Contingent Labour":518807.23},
-			"2020-03": {"total":178352.57, "Contingent Labour":178352.57},
-			"2020-04": {"total":53512.96, "Contingent Labour":53512.96}
-		}
-	},
-	"739": {
-		"name": "Gardiner & Theobald",
-		"total": 812201.55,
-		"monthly": {
-			"2017-01": {"total":27200.00, "Professional Services Direct":27200.00},
-			"2017-03": {"total":109676.00, "Buildings":29726.00, "Professional Services Direct":79950.00},
-			"2017-05": {"total":97110.00, "Professional Services Direct":97110.00},
-			"2017-09": {"total":44739.00, "Buildings":44739.00},
-			"2017-11": {"total":38777.00, "Buildings":38777.00},
-			"2017-12": {"total":84623.00, "Buildings":84623.00},
-			"2018-01": {"total":31081.50, "Professional Services Direct":31081.50},
-			"2018-02": {"total":25045.00, "Buildings":25045.00},
-			"2018-03": {"total":29259.50, "Buildings":29259.50},
-			"2018-11": {"total":32625.00, "Professional Services Direct":32625.00},
-			"2019-01": {"total":38725.00, "Professional Services Direct":38725.00},
-			"2019-02": {"total":34425.00, "Professional Services Direct":34425.00},
-			"2019-03": {"total":78350.00, "Professional Services Direct":78350.00},
-			"2019-04": {"total":39725.00, "Professional Services Direct":39725.00},
-			"2019-06": {"total":100840.55, "Professional Services Direct":100840.55}
-		}
-	},
-	"740": {
-		"name": "Gardiner & Theobald LLP",
-		"total": 2439175,
-		"monthly": {
-			"2019-07": {"total":48150.00, "Professional Services Direct":48150.00},
-			"2019-09": {"total":273635.00, "Professional Services Direct":273635.00},
-			"2019-10": {"total":135730.00, "Professional Services Direct":135730.00},
-			"2019-11": {"total":113760.00, "Professional Services Direct":113760.00},
-			"2019-12": {"total":201592.50, "Professional Services Direct":201592.50},
-			"2020-01": {"total":218045.00, "Professional Services Direct":218045.00},
-			"2020-02": {"total":351597.50, "Professional Services Direct":351597.50},
-			"2020-03": {"total":324650.00, "Professional Services Direct":324650.00},
-			"2020-05": {"total":387115.00, "Professional Services Direct":387115.00},
-			"2020-06": {"total":384900.00, "Professional Services Direct":384900.00}
-		}
-	},
-	"741": {
-		"name": "Garic Ltd",
-		"total": 5598530.38,
-		"monthly": {
-			"2017-04": {"total":50400.00, "Plant and Tools":50400.00},
-			"2019-03": {"total":3278687.47, "Plant and Tools":3278687.47},
-			"2019-04": {"total":58350.79, "Plant and Tools":58350.79},
-			"2019-05": {"total":82810.00, "Plant and Tools":82810.00},
-			"2019-07": {"total":232274.87, "Plant and Tools":232274.87},
-			"2019-09": {"total":42970.00, "Plant and Tools":42970.00},
-			"2019-10": {"total":165288.00, "Plant and Tools":165288.00},
-			"2019-12": {"total":128210.00, "Plant and Tools":128210.00},
-			"2020-01": {"total":716410.75, "Plant and Tools":716410.75},
-			"2020-02": {"total":425559.75, "Plant and Tools":425559.75},
-			"2020-03": {"total":221272.75, "Plant and Tools":221272.75},
-			"2020-05": {"total":196296.00, "Plant and Tools":196296.00}
-		}
-	},
-	"742": {
-		"name": "Garmentec Group Ltd t/a Style and Kit Design",
-		"total": 25260,
-		"monthly": {
-			"2019-12": {"total":25260.00, "Supplies and Services":25260.00}
-		}
-	},
-	"743": {
-		"name": "Garrandale Ltd",
-		"total": 2679579.52,
-		"monthly": {
-			"2018-01": {"total":48433.32, "On Track Machines":48433.32},
-			"2018-04": {"total":48433.32, "On Track Machines":48433.32},
-			"2018-08": {"total":95944.38, "Electrification and Fixed Plant":95944.38},
-			"2018-09": {"total":55352.37, "On Track Machines":55352.37},
-			"2018-10": {"total":119792.84, "On Track Machines":119792.84},
-			"2018-11": {"total":398468.02, "Electrification and Fixed Plant":398468.02},
-			"2019-02": {"total":415551.22, "Electrification and Fixed Plant":415551.22},
-			"2019-03": {"total":161067.11, "Electrification and Fixed Plant":161067.11},
-			"2019-04": {"total":220908.94, "Electrification and Fixed Plant":220908.94},
-			"2019-05": {"total":165089.17, "Electrification and Fixed Plant":165089.17},
-			"2019-06": {"total":69220.74, "Electrification and Fixed Plant":69220.74},
-			"2019-08": {"total":57237.62, "Electrification and Fixed Plant":57237.62},
-			"2019-10": {"total":107396.01, "Electrification and Fixed Plant":107396.01},
-			"2019-11": {"total":413597.37, "Electrification and Fixed Plant":413597.37},
-			"2020-01": {"total":27109.57, "Electrification and Fixed Plant":27109.57},
-			"2020-02": {"total":243979.70, "Electrification and Fixed Plant":243979.70},
-			"2020-03": {"total":31997.82, "Electrification and Fixed Plant":31997.82}
-		}
-	},
-	"744": {
-		"name": "Gartner UK Ltd",
-		"total": 1772420.08,
-		"monthly": {
-			"2017-01": {"total":39022.20, "Land & Property Acquisitions (incl. Business Consultancy)":39022.20},
-			"2017-03": {"total":91051.80, "Land & Property Acquisitions (incl. Business Consultancy)":91051.80},
-			"2017-05": {"total":69000.00, "Information Technology":69000.00},
-			"2017-07": {"total":26191.50, "Land & Property Acquisitions (incl. Business Consultancy)":26191.50},
-			"2017-09": {"total":26191.50, "Land & Property Acquisitions (incl. Business Consultancy)":26191.50},
-			"2018-05": {"total":145700.00, "Information Technology":145700.00},
-			"2018-08": {"total":28000.00, "Information Technology":28000.00},
-			"2019-03": {"total":75000.00, "Information Technology":75000.00},
-			"2019-04": {"total":202800.00, "Information Technology":202800.00},
-			"2019-05": {"total":56350.00, "Information Technology":56350.00},
-			"2019-08": {"total":32400.00, "Land & Property Acquisitions (incl. Business Consultancy)":32400.00},
-			"2019-11": {"total":371500.00, "Information Technology":371500.00},
-			"2019-12": {"total":80000.00, "Information Technology":80000.00},
-			"2020-01": {"total":28840.00, "Information Technology":28840.00},
-			"2020-02": {"total":146466.68, "Information Technology":146466.68},
-			"2020-03": {"total":85400.00, "Information Technology":85400.00},
-			"2020-05": {"total":210200.00, "Information Technology":177000.00, "Land & Property Acquisitions (incl. Business Consultancy)":33200.00},
-			"2020-06": {"total":58306.40, "Information Technology":58306.40}
-		}
-	},
-	"745": {
-		"name": "Gate Care Ltd",
-		"total": 27135.39,
-		"monthly": {
-			"2017-06": {"total":27135.39, "Signalling":27135.39}
-		}
-	},
-	"746": {
-		"name": "GatenbySanderson Ltd",
-		"total": 39166,
-		"monthly": {
-			"2019-07": {"total":39166.00, "Recruitment Services":39166.00}
-		}
-	},
-	"747": {
-		"name": "Gatwick Airport Ltd",
-		"total": 245204.7,
-		"monthly": {
-			"2017-10": {"total":83793.10, "Intelligent Infrastructure":83793.10},
-			"2017-12": {"total":48681.28, "Intelligent Infrastructure":48681.28},
-			"2020-05": {"total":84547.74, "Regulatory Charges":84547.74},
-			"2020-06": {"total":28182.58, "Regulatory Charges":28182.58}
-		}
-	},
-	"748": {
-		"name": "Gauge Communication Ltd",
-		"total": 1790313.03,
-		"monthly": {
-			"2017-01": {"total":34895.00, "Telecoms":34895.00},
-			"2017-02": {"total":117125.25, "Telecoms":117125.25},
-			"2017-03": {"total":69843.98, "Telecoms":69843.98},
-			"2017-07": {"total":184512.65, "Telecoms":184512.65},
-			"2017-08": {"total":266475.33, "Telecoms":266475.33},
-			"2018-07": {"total":36330.13, "Telecoms":36330.13},
-			"2018-10": {"total":100496.78, "Telecoms":100496.78},
-			"2018-11": {"total":52992.80, "Telecoms":52992.80},
-			"2019-02": {"total":201055.41, "Telecoms":201055.41},
-			"2019-03": {"total":78055.16, "Telecoms":78055.16},
-			"2019-05": {"total":299810.73, "Telecoms":299810.73},
-			"2019-06": {"total":66171.49, "Telecoms":66171.49},
-			"2020-01": {"total":102381.27, "General Civils":102381.27},
-			"2020-03": {"total":80323.20, "Telecoms":80323.20},
-			"2020-06": {"total":99843.85, "Telecoms":99843.85}
-		}
-	},
-	"749": {
-		"name": "Gazprom Marketing and Trading Retail Ltd",
-		"total": 42165.51,
-		"monthly": {
-			"2018-08": {"total":42165.51, "Utilities":42165.51}
+			"2020-06": {"total":237916.81, "Professional Services Direct":237916.81},
+			"2020-07": {"total":200522.74, "Professional Services Direct":200522.74},
+			"2020-08": {"total":132371.78, "Intelligent Infrastructure":43521.45, "Professional Services Direct":88850.33},
+			"2020-09": {"total":110582.52, "Intelligent Infrastructure":32000.00, "Professional Services Direct":78582.52},
+			"2020-10": {"total":68098.51, "Professional Services Direct":68098.51},
+			"2020-11": {"total":166653.88, "Professional Services Direct":166653.88}
 		}
 	}
 	}

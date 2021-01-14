@@ -1,14 +1,596 @@
 {
-	"range": ["2011-01","2020-09"],
+	"range": ["2011-01","2020-12"],
 	"data": {
 	"5300": {
+		"name": "ELMORE KINDERGARTEN (ECCLESFIELD)",
+		"total": 968503.51,
+		"monthly": {
+			"2011-02": {"total":500.00, "TRANSFORMATION FUND":500.00},
+			"2012-01": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
+			"2015-03": {"total":520.00, "EARLY YEARS SEN TEAM":520.00},
+			"2017-08": {"total":38675.06, "PEOPLE":38675.06},
+			"2017-11": {"total":53132.26, "PEOPLE":53132.26},
+			"2017-12": {"total":2481.99, "PEOPLE":2481.99},
+			"2018-01": {"total":53043.52, "LOCAL ENTERPRISE PARTNERSHIP":4480.00, "PEOPLE":48563.52},
+			"2018-03": {"total":38888.49, "PEOPLE":38888.49},
+			"2018-04": {"total":97175.69, "PEOPLE":97175.69},
+			"2018-06": {"total":47421.45, "PEOPLE":47421.45},
+			"2018-09": {"total":874.31, "PEOPLE":874.31},
+			"2018-10": {"total":500.00, "PEOPLE":500.00},
+			"2018-11": {"total":71487.51, "PEOPLE":71487.51},
+			"2019-01": {"total":46437.68, "PEOPLE":46437.68},
+			"2019-02": {"total":500.00, "PEOPLE":500.00},
+			"2019-03": {"total":31028.29, "PEOPLE":31028.29},
+			"2019-04": {"total":84808.30, "PEOPLE":84808.30},
+			"2019-06": {"total":42472.14, "PEOPLE":42472.14},
+			"2019-08": {"total":35897.14, "PEOPLE":35897.14},
+			"2019-10": {"total":500.00, "PEOPLE":500.00},
+			"2019-11": {"total":50484.11, "PEOPLE":50484.11},
+			"2020-01": {"total":46111.54, "PEOPLE":46111.54},
+			"2020-02": {"total":500.00, "PEOPLE":500.00},
+			"2020-03": {"total":31023.63, "PEOPLE":31023.63},
+			"2020-04": {"total":82544.94, "PEOPLE":82544.94},
+			"2020-05": {"total":1500.00, "PEOPLE":1500.00},
+			"2020-06": {"total":37651.56, "PEOPLE":37651.56},
+			"2020-07": {"total":6373.53, "PEOPLE":6373.53},
+			"2020-08": {"total":53872.94, "PEOPLE":53872.94},
+			"2020-09": {"total":7020.00, "PEOPLE":7020.00},
+			"2020-12": {"total":4014.93, "PEOPLE":4014.93}
+		}
+	},
+	"5301": {
+		"name": "ELMORE KINDERGARTEN (FRECHEVILLE)",
+		"total": 105352.71,
+		"monthly": {
+			"2019-11": {"total":14874.28, "PEOPLE":14874.28},
+			"2019-12": {"total":1803.86, "PEOPLE":1803.86},
+			"2020-01": {"total":19254.69, "PEOPLE":19254.69},
+			"2020-03": {"total":12363.83, "PEOPLE":12363.83},
+			"2020-04": {"total":33559.18, "PEOPLE":33559.18},
+			"2020-06": {"total":17070.91, "PEOPLE":17070.91},
+			"2020-07": {"total":469.38, "PEOPLE":469.38},
+			"2020-09": {"total":3510.00, "PEOPLE":3510.00},
+			"2020-12": {"total":2446.58, "PEOPLE":2446.58}
+		}
+	},
+	"5302": {
+		"name": "ELMORE KINDERGARTEN (MIDDLEWOOD)",
+		"total": 311321.6,
+		"monthly": {
+			"2015-09": {"total":975.00, "CYPF":975.00},
+			"2017-06": {"total":584.40, "CYPF":584.40},
+			"2017-07": {"total":292.20, "CYPF":292.20},
+			"2017-08": {"total":13977.78, "PEOPLE":13977.78},
+			"2017-11": {"total":13460.78, "PEOPLE":13460.78},
+			"2017-12": {"total":445.20, "PEOPLE":445.20},
+			"2018-01": {"total":16207.42, "PEOPLE":16207.42},
+			"2018-03": {"total":8053.92, "PEOPLE":8053.92},
+			"2018-04": {"total":21907.86, "PEOPLE":21907.86},
+			"2018-06": {"total":13330.85, "PEOPLE":13330.85},
+			"2018-08": {"total":9654.66, "PEOPLE":9654.66},
+			"2018-10": {"total":265.20, "PEOPLE":265.20},
+			"2018-11": {"total":5215.55, "PEOPLE":5215.55},
+			"2018-12": {"total":1746.51, "PEOPLE":1746.51},
+			"2019-01": {"total":12548.12, "PEOPLE":12548.12},
+			"2019-03": {"total":9476.99, "PEOPLE":9476.99},
+			"2019-04": {"total":773.40, "PEOPLE":773.40},
+			"2019-05": {"total":534.62, "PEOPLE":534.62},
+			"2019-06": {"total":31315.12, "PEOPLE":31315.12},
+			"2019-07": {"total":5158.48, "PEOPLE":5158.48},
+			"2019-08": {"total":15588.33, "PEOPLE":15588.33},
+			"2019-09": {"total":534.62, "PEOPLE":534.62},
+			"2019-11": {"total":15616.58, "PEOPLE":15616.58},
+			"2019-12": {"total":1425.61, "PEOPLE":1425.61},
+			"2020-01": {"total":1754.36, "PEOPLE":1754.36},
+			"2020-03": {"total":31402.11, "PEOPLE":31402.11},
+			"2020-04": {"total":34752.54, "PEOPLE":34752.54},
+			"2020-05": {"total":1292.85, "PEOPLE":1292.85},
+			"2020-06": {"total":13998.52, "PEOPLE":13998.52},
+			"2020-07": {"total":1603.57, "PEOPLE":1603.57},
+			"2020-08": {"total":25275.67, "PEOPLE":25275.67},
+			"2020-12": {"total":2152.78, "PEOPLE":2152.78}
+		}
+	},
+	"5303": {
+		"name": "ELMORE KINDERGARTEN (YEW LANE)",
+		"total": 4353.53,
+		"monthly": {
+			"2015-02": {"total":352.00, "EARLY YEARS SEN TEAM":352.00},
+			"2015-10": {"total":280.00, "CYPF":280.00},
+			"2015-12": {"total":880.00, "CYPF":880.00},
+			"2016-11": {"total":540.02, "CYPF":540.02},
+			"2016-12": {"total":771.48, "CYPF":771.48},
+			"2017-01": {"total":382.50, "CYPF":382.50},
+			"2017-12": {"total":286.89, "PEOPLE":286.89},
+			"2018-05": {"total":860.64, "PEOPLE":860.64}
+		}
+	},
+	"5304": {
+		"name": "ELMORE KINDERGARTEN - MIDDLEWOOD",
+		"total": 4868.75,
+		"monthly": {
+			"2013-03": {"total":4868.75, "WORKFORCE DEVELOPMENT":4868.75}
+		}
+	},
+	"5305": {
+		"name": "ELMORE KINDERGARTEN BROOMHILL",
+		"total": 332321.28,
+		"monthly": {
+			"2016-05": {"total":258.22, "CYPF":258.22},
+			"2016-06": {"total":572.14, "CYPF":572.14},
+			"2016-08": {"total":797.36, "CYPF":797.36},
+			"2017-05": {"total":265.13, "CYPF":265.13},
+			"2017-07": {"total":520.62, "CYPF":520.62},
+			"2017-08": {"total":10137.12, "PEOPLE":10137.12},
+			"2017-09": {"total":1954.32, "PEOPLE":1954.32},
+			"2017-10": {"total":518.00, "PEOPLE":518.00},
+			"2017-11": {"total":6133.56, "PEOPLE":6133.56},
+			"2017-12": {"total":266.88, "PEOPLE":266.88},
+			"2018-01": {"total":10961.83, "PEOPLE":10961.83},
+			"2018-02": {"total":778.76, "PEOPLE":778.76},
+			"2018-03": {"total":11461.53, "PEOPLE":11461.53},
+			"2018-04": {"total":31850.38, "PEOPLE":31850.38},
+			"2018-06": {"total":15408.96, "PEOPLE":15408.96},
+			"2018-07": {"total":787.77, "PEOPLE":787.77},
+			"2018-08": {"total":22996.40, "PEOPLE":22996.40},
+			"2018-09": {"total":321.42, "PEOPLE":321.42},
+			"2018-11": {"total":6081.70, "PEOPLE":6081.70},
+			"2018-12": {"total":5131.56, "PEOPLE":5131.56},
+			"2019-01": {"total":18922.61, "PEOPLE":18922.61},
+			"2019-03": {"total":9679.54, "PEOPLE":9679.54},
+			"2019-04": {"total":41683.28, "PEOPLE":41683.28},
+			"2019-06": {"total":16372.28, "PEOPLE":16372.28},
+			"2019-07": {"total":3294.72, "PEOPLE":3294.72},
+			"2019-08": {"total":16461.90, "PEOPLE":16461.90},
+			"2019-11": {"total":12025.86, "PEOPLE":12025.86},
+			"2020-01": {"total":18837.97, "PEOPLE":18837.97},
+			"2020-03": {"total":9890.62, "PEOPLE":9890.62},
+			"2020-04": {"total":28856.50, "PEOPLE":28856.50},
+			"2020-06": {"total":15702.70, "PEOPLE":15702.70},
+			"2020-07": {"total":4366.43, "PEOPLE":4366.43},
+			"2020-09": {"total":5323.50, "PEOPLE":5323.50},
+			"2020-12": {"total":3699.71, "PEOPLE":3699.71}
+		}
+	},
+	"5306": {
+		"name": "ELMORE KINDERGARTON",
+		"total": 1500,
+		"monthly": {
+			"2011-05": {"total":1000.00, "SNIPS":1000.00},
+			"2012-02": {"total":500.00, "SNIPS":500.00}
+		}
+	},
+	"5307": {
+		"name": "ELMORE KINDERGARTON (BIRLEY)",
+		"total": 6895.53,
+		"monthly": {
+			"2015-02": {"total":2154.60, "IN CITY SEN PROVISION":2154.60},
+			"2015-03": {"total":1692.90, "IN CITY SEN PROVISION":1692.90},
+			"2015-06": {"total":2000.70, "IN CITY SEN PROVISION":2000.70},
+			"2015-12": {"total":253.28, "CYPF":253.28},
+			"2016-05": {"total":525.10, "CYPF":525.10},
+			"2016-08": {"total":268.95, "CYPF":268.95}
+		}
+	},
+	"5308": {
+		"name": "ELMORE KINDERGARTON - BIRLEY",
+		"total": 5345,
+		"monthly": {
+			"2011-09": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
+			"2012-01": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
+			"2012-08": {"total":1300.00, "WORKFORCE DEVELOPMENT":1300.00},
+			"2013-11": {"total":480.00, "EARLY YEARS SEN TEAM":480.00},
+			"2014-01": {"total":560.00, "EARLY YEARS SEN TEAM":560.00},
+			"2014-06": {"total":880.00, "EARLY YEARS SEN TEAM":880.00}
+		}
+	},
+	"5309": {
+		"name": "ELMSDALE ESTATES LTD",
+		"alternate-names": [
+			"ELMSDALE ESTATES LIMITED"
+		],
+		"total": 52409.98,
+		"monthly": {
+			"2013-10": {"total":1024.00, "AFFORDABLE HOUSING":1024.00},
+			"2016-01": {"total":1407.80, "PLACE":1407.80},
+			"2017-02": {"total":478.18, "PLACE":478.18},
+			"2018-07": {"total":44550.00, "PLACE":44550.00},
+			"2019-09": {"total":4950.00, "PLACE":4950.00}
+		}
+	},
+	"5310": {
+		"name": "ELMTREE PRESS",
+		"total": 1500,
+		"monthly": {
+			"2015-05": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00}
+		}
+	},
+	"5311": {
+		"name": "ELMWOOD HOUSE NURSING HOME",
+		"total": 1291651.23,
+		"monthly": {
+			"2011-01": {"total":9606.56, "PURCHASING LEARNING DISABILITI":9606.56},
+			"2011-02": {"total":9606.56, "PURCHASING LEARNING DISABILITI":9606.56},
+			"2011-03": {"total":9606.56, "PURCHASING LEARNING DISABILITI":9606.56},
+			"2011-04": {"total":9534.53, "PURCHASING LEARNING DISABILITI":9534.53},
+			"2011-05": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-06": {"total":19021.04, "PURCHASING LEARNING DISABILITI":19021.04},
+			"2011-07": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-08": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-09": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-10": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-11": {"total":9510.52, "PURCHASING LEARNING DISABILITI":9510.52},
+			"2011-12": {"total":67040.80, "PURCHASING LEARNING DISABILITI":67040.80},
+			"2012-01": {"total":14769.00, "PURCHASING LEARNING DISABILITI":14769.00},
+			"2012-02": {"total":14769.00, "PURCHASING LEARNING DISABILITI":14769.00},
+			"2012-03": {"total":14769.00, "PURCHASING LEARNING DISABILITI":14769.00},
+			"2012-04": {"total":14900.19, "PURCHASING LEARNING DISABILITI":14900.19},
+			"2012-05": {"total":29887.84, "PURCHASING LEARNING DISABILITI":29887.84},
+			"2012-06": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2012-07": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2012-08": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2012-09": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2012-10": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2012-11": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-01": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-02": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-03": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-04": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-05": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-06": {"total":14943.92, "PURCHASING LEARNING DISABILITI":14943.92},
+			"2013-07": {"total":25548.02, "PURCHASING LEARNING DISABILITI":25548.02},
+			"2013-08": {"total":47206.97, "PURCHASING LEARNING DISABILITI":47206.97},
+			"2013-10": {"total":33995.02, "PURCHASING LEARNING DISABILITI":33995.02},
+			"2013-11": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2013-12": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-01": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-02": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-03": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-04": {"total":30263.92, "PURCHASING LEARNING DISABILITI":30263.92},
+			"2014-05": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-06": {"total":16731.03, "PURCHASING LEARNING DISABILITI":16731.03},
+			"2014-08": {"total":30263.92, "PURCHASING LEARNING DISABILITI":30263.92},
+			"2014-09": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-10": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-11": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2014-12": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-01": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-02": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-03": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-04": {"total":30263.92, "PURCHASING LEARNING DISABILITI":30263.92},
+			"2015-05": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-06": {"total":15131.96, "PURCHASING LEARNING DISABILITI":15131.96},
+			"2015-07": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2015-08": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2015-09": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2015-10": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2015-11": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2015-12": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-01": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-02": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-03": {"total":30263.92, "COMMUNITIES":30263.92},
+			"2016-04": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-05": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-06": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-08": {"total":30263.92, "COMMUNITIES":30263.92},
+			"2016-09": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-10": {"total":15131.96, "COMMUNITIES":15131.96},
+			"2016-11": {"total":13559.12, "COMMUNITIES":13559.12},
+			"2016-12": {"total":68959.39, "COMMUNITIES":68959.39},
+			"2017-01": {"total":40490.64, "COMMUNITIES":40490.64},
+			"2017-03": {"total":20245.32, "COMMUNITIES":20245.32}
+		}
+	},
+	"5312": {
+		"name": "ELPHIUS FLUX",
+		"total": 1500,
+		"monthly": {
+			"2016-04": {"total":1500.00, "CYPF":1500.00}
+		}
+	},
+	"5313": {
+		"name": "ELSECAR AT THE RACES LTD",
+		"alternate-names": [
+			"ELSECAR AT THE RACES LIMITED"
+		],
+		"total": 2000,
+		"monthly": {
+			"2016-08": {"total":1000.00, "PLACE":1000.00},
+			"2017-06": {"total":1000.00, "PLACE":1000.00}
+		}
+	},
+	"5314": {
+		"name": "ELVEDEN FARMS LTD",
+		"total": 10780,
+		"monthly": {
+			"2017-01": {"total":340.00, "PLACE":340.00},
+			"2017-02": {"total":5850.00, "COMMUNITIES":2395.00, "PLACE":3455.00},
+			"2017-12": {"total":1930.00, "PLACE":1930.00},
+			"2018-12": {"total":2660.00, "PLACE":2660.00}
+		}
+	},
+	"5315": {
+		"name": "ELVEDON FARMS LTD",
+		"total": 39300.25,
+		"monthly": {
+			"2011-01": {"total":6145.50, "XMAS ILLUMINATIONS":6145.50},
+			"2011-12": {"total":4999.35, "COMMUNITY ASSEMBLY NORTH EAST":1071.35, "XMAS ILLUMINATIONS":3928.00},
+			"2012-01": {"total":1200.00, "XMAS ILLUMINATIONS":1200.00},
+			"2012-12": {"total":4110.00, "XMAS ILLUMINATIONS":4110.00},
+			"2013-01": {"total":1071.35, "COMMUNITY ASSEMBLY NORTH EAST":1071.35},
+			"2013-11": {"total":3928.00, "XMAS ILLUMINATIONS":3928.00},
+			"2013-12": {"total":1615.35, "COMMUNITY ASSEMBLY NORTH EAST":1615.35},
+			"2014-01": {"total":1673.00, "XMAS ILLUMINATIONS":1673.00},
+			"2015-01": {"total":6537.35, "NORTH EAST":1071.35, "XMAS ILLUMINATIONS":5466.00},
+			"2015-02": {"total":568.00, "NORTH EAST":568.00},
+			"2015-12": {"total":5862.35, "COMMUNITIES":1639.35, "PLACE":4223.00},
+			"2016-12": {"total":1590.00, "PLACE":1590.00}
+		}
+	},
+	"5316": {
+		"name": "ELYGRA MARKETING SERVICES",
+		"total": 8806,
+		"monthly": {
+			"2011-03": {"total":2899.00, "SCHOOL MEALS GRANT 5B":2899.00},
+			"2012-04": {"total":4257.00, "SCHOOL MEALS GRANT 5B":4257.00},
+			"2012-08": {"total":1650.00, "SCHOOL MEALS":1650.00}
+		}
+	},
+	"5317": {
+		"name": "ELYSIUM HEALTHCARE LTD",
+		"total": 643963.65,
+		"monthly": {
+			"2019-06": {"total":74216.73, "PEOPLE":74216.73},
+			"2019-08": {"total":29543.52, "PEOPLE":29543.52},
+			"2019-09": {"total":29543.52, "PEOPLE":29543.52},
+			"2019-10": {"total":29543.52, "PEOPLE":29543.52},
+			"2019-11": {"total":29543.52, "PEOPLE":29543.52},
+			"2019-12": {"total":59087.04, "PEOPLE":59087.04},
+			"2020-01": {"total":29543.52, "PEOPLE":29543.52},
+			"2020-02": {"total":29543.52, "PEOPLE":29543.52},
+			"2020-03": {"total":29543.52, "PEOPLE":29543.52},
+			"2020-04": {"total":60416.52, "PEOPLE":60416.52},
+			"2020-05": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-06": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-07": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-08": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-09": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-10": {"total":30429.84, "PEOPLE":30429.84},
+			"2020-12": {"total":60859.68, "PEOPLE":60859.68}
+		}
+	},
+	"5318": {
+		"name": "EMAP INFORM",
+		"total": 9313,
+		"monthly": {
+			"2012-05": {"total":9044.00, "RECRUITMENT ADVERTISING":9044.00},
+			"2013-02": {"total":269.00, "CITY CENTRE MANAGEMENT & ADMIN":269.00}
+		}
+	},
+	"5319": {
+		"name": "EMAP LTD",
+		"alternate-names": [
+			"EMAP LIMITED"
+		],
+		"total": 998,
+		"monthly": {
+			"2012-11": {"total":998.00, "LAND DRAINAGE & FLOOD MGMT":998.00}
+		}
+	},
+	"5320": {
+		"name": "EMAP PUBLISHING LTD",
+		"alternate-names": [
+			"EMAP PUBLISHING LIMITED"
+		],
+		"total": 4897,
+		"monthly": {
+			"2014-10": {"total":750.00, "RECRUITMENT ADVERTISING":750.00},
+			"2015-05": {"total":2400.00, "RECRUITMENT ADVERTISING":2400.00},
+			"2015-09": {"total":698.00, "PLACE":698.00},
+			"2017-11": {"total":299.00, "RESOURCES":299.00},
+			"2020-01": {"total":750.00, "PLACE":750.00}
+		}
+	},
+	"5321": {
+		"name": "EMBRACE HEALTHCARE LTD",
+		"total": 1508436.38,
+		"monthly": {
+			"2018-01": {"total":3970.85, "PEOPLE":3970.85},
+			"2018-02": {"total":7810.18, "PEOPLE":7810.18},
+			"2018-03": {"total":9371.70, "PEOPLE":9371.70},
+			"2018-04": {"total":11865.85, "PEOPLE":11865.85},
+			"2018-05": {"total":13949.63, "PEOPLE":13949.63},
+			"2018-06": {"total":19814.72, "PEOPLE":19814.72},
+			"2018-07": {"total":20426.28, "PEOPLE":20426.28},
+			"2018-08": {"total":20477.46, "PEOPLE":20477.46},
+			"2018-09": {"total":56254.10, "PEOPLE":56254.10},
+			"2018-11": {"total":18725.33, "PEOPLE":18725.33},
+			"2018-12": {"total":47982.94, "PEOPLE":47982.94},
+			"2019-01": {"total":28984.74, "PEOPLE":28984.74},
+			"2019-02": {"total":25451.44, "PEOPLE":25451.44},
+			"2019-03": {"total":34853.04, "PEOPLE":34853.04},
+			"2019-04": {"total":22406.48, "PEOPLE":22406.48},
+			"2019-05": {"total":36128.54, "PEOPLE":36128.54},
+			"2019-06": {"total":34165.26, "PEOPLE":34165.26},
+			"2019-07": {"total":36585.45, "PEOPLE":36585.45},
+			"2019-08": {"total":37320.46, "PEOPLE":37320.46},
+			"2019-09": {"total":52639.28, "PEOPLE":52639.28},
+			"2019-10": {"total":38505.22, "PEOPLE":38505.22},
+			"2019-11": {"total":48684.20, "PEOPLE":48684.20},
+			"2019-12": {"total":95308.61, "PEOPLE":95308.61},
+			"2020-01": {"total":63843.63, "PEOPLE":63843.63},
+			"2020-02": {"total":51664.69, "PEOPLE":51664.69},
+			"2020-03": {"total":117542.40, "PEOPLE":117542.40},
+			"2020-04": {"total":99200.00, "PEOPLE":99200.00},
+			"2020-05": {"total":100582.51, "PEOPLE":100582.51},
+			"2020-06": {"total":71770.00, "PEOPLE":71770.00},
+			"2020-07": {"total":65800.00, "PEOPLE":65800.00},
+			"2020-08": {"total":9866.87, "PEOPLE":9866.87},
+			"2020-09": {"total":49394.58, "PEOPLE":49394.58},
+			"2020-10": {"total":71872.92, "PEOPLE":71872.92},
+			"2020-12": {"total":85217.02, "PEOPLE":85217.02}
+		}
+	},
+	"5322": {
+		"name": "EMBRACE SHEFFIELD LTD",
+		"total": 29745,
+		"monthly": {
+			"2019-07": {"total":2120.00, "PEOPLE":2120.00},
+			"2020-02": {"total":650.00, "PEOPLE":650.00},
+			"2020-03": {"total":5655.00, "PEOPLE":5655.00},
+			"2020-04": {"total":2470.00, "PEOPLE":2470.00},
+			"2020-05": {"total":2665.00, "PEOPLE":2665.00},
+			"2020-06": {"total":4485.00, "PEOPLE":4485.00},
+			"2020-07": {"total":1820.00, "PEOPLE":1820.00},
+			"2020-10": {"total":5200.00, "PEOPLE":5200.00},
+			"2020-12": {"total":4680.00, "PEOPLE":4680.00}
+		}
+	},
+	"5323": {
+		"name": "EMCAT LTD",
+		"alternate-names": [
+			"EMCAT LIMITED"
+		],
+		"total": 3100,
+		"monthly": {
+			"2013-08": {"total":3100.00, "COM.UNITY":3100.00}
+		}
+	},
+	"5324": {
+		"name": "EMCO EDUCATION LTD",
+		"alternate-names": [
+			"EMCO EDUCATION LIMITED"
+		],
+		"total": 750,
+		"monthly": {
+			"2012-02": {"total":750.00, "ENGINEERING CENTRE":750.00}
+		}
+	},
+	"5325": {
+		"name": "EMERALD CARE SERVICES (STATION HOUSE)",
+		"total": 374938.58,
+		"monthly": {
+			"2019-01": {"total":34241.76, "PEOPLE":34241.76},
+			"2019-02": {"total":67598.71, "PEOPLE":67598.71},
+			"2019-03": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-04": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-05": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-06": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-07": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-08": {"total":5610.88, "PEOPLE":5610.88},
+			"2019-09": {"total":5208.28, "PEOPLE":5208.28},
+			"2019-10": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-11": {"total":6013.48, "PEOPLE":6013.48},
+			"2019-12": {"total":12026.96, "PEOPLE":12026.96},
+			"2020-01": {"total":5208.28, "PEOPLE":5208.28},
+			"2020-02": {"total":6013.48, "PEOPLE":6013.48},
+			"2020-03": {"total":148330.46, "PEOPLE":148330.46},
+			"2020-04": {"total":12186.64, "PEOPLE":12186.64},
+			"2020-05": {"total":6337.84, "PEOPLE":6337.84},
+			"2020-06": {"total":6337.84, "PEOPLE":6337.84},
+			"2020-07": {"total":6348.49, "PEOPLE":6348.49},
+			"2020-08": {"total":5524.12, "PEOPLE":5524.12},
+			"2020-09": {"total":6346.36, "PEOPLE":6346.36},
+			"2020-10": {"total":5524.12, "PEOPLE":5524.12}
+		}
+	},
+	"5326": {
+		"name": "EMERALD GROUP PUBLISHING LTD",
+		"total": 2086,
+		"monthly": {
+			"2013-08": {"total":479.00, "ADULT PROTECTION":479.00},
+			"2014-01": {"total":509.00, "MCA SUPPORT TEAM":509.00},
+			"2015-01": {"total":549.00, "SAFEGUARDING ADULTS":549.00},
+			"2015-12": {"total":549.00, "COMMUNITIES":549.00}
+		}
+	},
+	"5327": {
+		"name": "EMERALD LAW SOLICITORS",
+		"total": 32853.92,
+		"monthly": {
+			"2019-08": {"total":5555.00, "PLACE":5555.00},
+			"2019-11": {"total":23160.94, "PLACE":23160.94},
+			"2020-05": {"total":3437.98, "PLACE":3437.98},
+			"2020-08": {"total":700.00, "PLACE":700.00}
+		}
+	},
+	"5328": {
+		"name": "EMERGE SPORTS LTD",
+		"total": 905.57,
+		"monthly": {
+			"2016-02": {"total":552.11, "CYPF":552.11},
+			"2016-03": {"total":353.46, "CYPF":353.46}
+		}
+	},
+	"5329": {
+		"name": "EMERGENCY PLANNING COLLEGE",
+		"total": 17026.83,
+		"monthly": {
+			"2011-04": {"total":606.00, "EMERGENCY PLANNING":606.00},
+			"2011-05": {"total":750.00, "EVENTS IN PARKS":750.00},
+			"2011-10": {"total":675.00, "MAJOR INCIDENTS":675.00},
+			"2011-12": {"total":675.00, "MAJOR INCIDENTS":675.00},
+			"2012-03": {"total":675.00, "MAJOR INCIDENTS":675.00},
+			"2012-08": {"total":3900.00, "MAJOR INCIDENTS":3900.00},
+			"2012-09": {"total":750.00, "CONTINGENCY PLANNING":750.00},
+			"2012-11": {"total":712.50, "MAJOR INCIDENTS":712.50},
+			"2013-06": {"total":333.33, "MAJOR INCIDENTS":333.33},
+			"2013-07": {"total":7950.00, "MAJOR INCIDENTS":4200.00, "PLANNING & PERFORMANCE":3750.00}
+		}
+	},
+	"5330": {
+		"name": "EMERGENCY PLANNING SOCIETY",
+		"total": 1369,
+		"monthly": {
+			"2011-04": {"total":970.00, "CHIEF EXECUTIVE":970.00},
+			"2015-02": {"total":399.00, "RECRUITMENT ADVERTISING":399.00}
+		}
+	},
+	"5331": {
+		"name": "EMERGENCY RESPONSE TRAINING LTD",
+		"total": 11119,
+		"monthly": {
+			"2011-09": {"total":1944.00, "ADULT EDUCATION ADMIN":1160.00, "SHEAF TRAINING":784.00},
+			"2011-11": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2012-01": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2012-02": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2013-01": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2013-05": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2014-01": {"total":580.00, "SHEAF TRAINING":580.00},
+			"2014-02": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00},
+			"2015-04": {"total":595.00, "SHEAF TRAINING":595.00},
+			"2016-08": {"total":920.00, "CYPF":920.00},
+			"2017-05": {"total":840.00, "CYPF":840.00},
+			"2017-11": {"total":380.00, "PEOPLE":380.00},
+			"2018-03": {"total":300.00, "PEOPLE":300.00},
+			"2019-10": {"total":1160.00, "PEOPLE":1160.00}
+		}
+	},
+	"5332": {
+		"name": "EMERSON NETWORK POWER LTD",
+		"total": 573,
+		"monthly": {
+			"2016-05": {"total":573.00, "RESOURCES":573.00}
+		}
+	},
+	"5333": {
+		"name": "EMERY MCLAVEN ORR LTD",
+		"alternate-names": [
+			"EMERY MCLAVEN ORR LIMITED"
+		],
+		"total": 2000,
+		"monthly": {
+			"2012-07": {"total":2000.00, "SHEFFIELD TRADING STANDARDS":2000.00}
+		}
+	},
+	"5334": {
 		"name": "EMILY LYONS - LYON CUBS CHILDMINDING SRV",
 		"total": 573.3,
 		"monthly": {
 			"2020-04": {"total":573.30, "PEOPLE":573.30}
 		}
 	},
-	"5301": {
+	"5335": {
 		"name": "EMILY MAY LOWE",
 		"total": 1899,
 		"monthly": {
@@ -17,28 +599,28 @@
 			"2016-06": {"total":510.00, "CYPF":510.00}
 		}
 	},
-	"5302": {
+	"5336": {
 		"name": "EMILY MAY LOWE - USE 627963",
 		"total": 1152,
 		"monthly": {
 			"2016-07": {"total":1152.00, "CYPF":1152.00}
 		}
 	},
-	"5303": {
+	"5337": {
 		"name": "EMINENCE EVENTS LTD",
 		"total": 343,
 		"monthly": {
 			"2018-12": {"total":343.00, "RESOURCES":343.00}
 		}
 	},
-	"5304": {
+	"5338": {
 		"name": "EMJ PLASTICS LTD",
 		"total": 6677.36,
 		"monthly": {
 			"2012-04": {"total":6677.36, "STREET FORCE BALANCE SHEET":6677.36}
 		}
 	},
-	"5305": {
+	"5339": {
 		"name": "EMMA ARCHER",
 		"total": 3260,
 		"monthly": {
@@ -46,7 +628,7 @@
 			"2012-03": {"total":1244.00, "IN HOUSE FOSTER PLACEMENT":1244.00}
 		}
 	},
-	"5306": {
+	"5340": {
 		"name": "EMMA CHICHESTER CLARK",
 		"total": 1400,
 		"monthly": {
@@ -54,12 +636,12 @@
 			"2014-11": {"total":400.00, "OFF THE SHELF":400.00}
 		}
 	},
-	"5307": {
+	"5341": {
 		"name": "EMMA HOUSE LTD",
 		"alternate-names": [
 			"EMMA HOUSE LIMITED"
 		],
-		"total": 1752018.9,
+		"total": 1856148.57,
 		"monthly": {
 			"2016-07": {"total":16922.88, "CYPF":16922.88},
 			"2017-04": {"total":8099.84, "CYPF":8099.84},
@@ -97,10 +679,12 @@
 			"2020-06": {"total":61768.93, "PEOPLE":61768.93},
 			"2020-07": {"total":28626.73, "PEOPLE":28626.73},
 			"2020-08": {"total":25644.47, "PEOPLE":25644.47},
-			"2020-09": {"total":21061.19, "PEOPLE":21061.19}
+			"2020-09": {"total":21061.19, "PEOPLE":21061.19},
+			"2020-10": {"total":72529.29, "PEOPLE":72529.29},
+			"2020-12": {"total":31600.38, "PEOPLE":31600.38}
 		}
 	},
-	"5308": {
+	"5342": {
 		"name": "EMMA MILLIGAN CHILDMINDER",
 		"total": 3305.33,
 		"monthly": {
@@ -109,7 +693,7 @@
 			"2020-04": {"total":1146.60, "PEOPLE":1146.60}
 		}
 	},
-	"5309": {
+	"5343": {
 		"name": "EMMA PALFREYMAN",
 		"total": 7500,
 		"monthly": {
@@ -120,7 +704,7 @@
 			"2015-07": {"total":1500.00, "CYPF":1500.00}
 		}
 	},
-	"5310": {
+	"5344": {
 		"name": "EMMA PARSONS CONSULTING",
 		"total": 7500,
 		"monthly": {
@@ -128,7 +712,7 @@
 			"2017-06": {"total":3750.00, "COMMUNITIES":3750.00}
 		}
 	},
-	"5311": {
+	"5345": {
 		"name": "EMMA'S HAIR ROOM LTD",
 		"alternate-names": [
 			"EMMA'S HAIR ROOM LIMITED"
@@ -138,21 +722,21 @@
 			"2016-02": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"5312": {
+	"5346": {
 		"name": "EMMANUEL CHURCH",
 		"total": 2000,
 		"monthly": {
 			"2012-02": {"total":2000.00, "POSITIVE ACTIVITIES FOR 8-13'S":2000.00}
 		}
 	},
-	"5313": {
+	"5347": {
 		"name": "EMMANUEL COLLEGE",
 		"total": 379,
 		"monthly": {
 			"2016-11": {"total":379.00, "PLACE":379.00}
 		}
 	},
-	"5314": {
+	"5348": {
 		"name": "EMMANUEL GOBILLOT LTD",
 		"alternate-names": [
 			"EMMANUEL GOBILLOT LIMITED"
@@ -163,658 +747,11 @@
 			"2016-05": {"total":677.72, "RESOURCES":677.72}
 		}
 	},
-	"5315": {
+	"5349": {
 		"name": "EMMANUEL JUNIOR ACADEMY",
 		"total": 1500,
 		"monthly": {
 			"2017-10": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00}
-		}
-	},
-	"5316": {
-		"name": "EMMANUEL SCHOOLS FOUNDATION (TRINITY)",
-		"total": 8900,
-		"monthly": {
-			"2019-11": {"total":500.00, "PEOPLE":500.00},
-			"2019-12": {"total":3000.00, "PEOPLE":3000.00},
-			"2020-01": {"total":500.00, "PEOPLE":500.00},
-			"2020-02": {"total":4400.00, "PEOPLE":4400.00},
-			"2020-05": {"total":500.00, "PEOPLE":500.00}
-		}
-	},
-	"5317": {
-		"name": "EMMANUEL STEPPING STONES PLAY GROUP",
-		"total": 41727.32,
-		"monthly": {
-			"2017-08": {"total":1772.23, "PEOPLE":1772.23},
-			"2017-11": {"total":2399.60, "PEOPLE":2399.60},
-			"2017-12": {"total":407.55, "PEOPLE":407.55},
-			"2018-01": {"total":605.15, "PEOPLE":605.15},
-			"2018-03": {"total":765.70, "PEOPLE":765.70},
-			"2018-04": {"total":974.37, "PEOPLE":974.37},
-			"2018-06": {"total":862.18, "PEOPLE":862.18},
-			"2018-08": {"total":2835.56, "PEOPLE":2835.56},
-			"2018-11": {"total":943.54, "PEOPLE":943.54},
-			"2018-12": {"total":271.70, "PEOPLE":271.70},
-			"2019-01": {"total":1664.16, "PEOPLE":1664.16},
-			"2019-03": {"total":3238.79, "PEOPLE":3238.79},
-			"2019-04": {"total":3751.93, "PEOPLE":3751.93},
-			"2019-06": {"total":1929.07, "PEOPLE":1929.07},
-			"2019-07": {"total":407.55, "PEOPLE":407.55},
-			"2019-08": {"total":3656.84, "PEOPLE":3656.84},
-			"2019-11": {"total":1703.06, "PEOPLE":1703.06},
-			"2020-01": {"total":2876.04, "PEOPLE":2876.04},
-			"2020-03": {"total":1536.14, "PEOPLE":1536.14},
-			"2020-04": {"total":3726.27, "PEOPLE":3726.27},
-			"2020-06": {"total":1388.40, "PEOPLE":1388.40},
-			"2020-08": {"total":4011.49, "PEOPLE":4011.49}
-		}
-	},
-	"5318": {
-		"name": "EMMAUS SHEFFIELD LTD",
-		"total": 157940,
-		"monthly": {
-			"2011-01": {"total":2180.00, "SMALL GRANTS":2180.00},
-			"2012-06": {"total":1944.00, "VS - BUILDING COHESION":1944.00},
-			"2012-07": {"total":3889.00, "VS - BUILDING COHESION":3889.00},
-			"2012-10": {"total":3889.00, "VS - BUILDING COHESION":3889.00},
-			"2012-12": {"total":3889.00, "VS - BUILDING COHESION":3889.00},
-			"2013-02": {"total":3889.00, "VS - BUILDING COHESION":3889.00},
-			"2013-03": {"total":6750.00, "VS - BUILDING COHESION":6750.00},
-			"2013-06": {"total":6750.00, "BUILDING COHESION":6750.00},
-			"2013-09": {"total":6750.00, "BUILDING COHESION":6750.00},
-			"2013-11": {"total":960.00, "GOING LOCAL":960.00},
-			"2013-12": {"total":6750.00, "BUILDING COHESION":6750.00},
-			"2014-01": {"total":500.00, "GOING LOCAL":500.00},
-			"2014-04": {"total":5750.00, "BUILDING COHESION":5750.00},
-			"2014-06": {"total":5750.00, "BUILDING COHESION":5750.00},
-			"2014-09": {"total":5750.00, "BUILDING COHESION":5750.00},
-			"2014-12": {"total":5750.00, "BUILDING COHESION":5750.00},
-			"2015-03": {"total":4600.00, "BUILDING COHESION":4600.00},
-			"2015-05": {"total":250.00, "AREA EAST":250.00},
-			"2015-06": {"total":4600.00, "BUILDING COHESION":4600.00},
-			"2015-09": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2015-12": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2016-03": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2016-06": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2016-09": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2016-12": {"total":4600.00, "COMMUNITIES":4600.00},
-			"2017-07": {"total":7500.00, "COMMUNITIES":7500.00},
-			"2017-10": {"total":7500.00, "PEOPLE":7500.00},
-			"2018-04": {"total":6750.00, "PEOPLE":6750.00},
-			"2018-09": {"total":6750.00, "PEOPLE":6750.00},
-			"2019-04": {"total":5625.00, "PEOPLE":5625.00},
-			"2019-10": {"total":5625.00, "PEOPLE":5625.00},
-			"2020-04": {"total":10000.00, "PEOPLE":10000.00}
-		}
-	},
-	"5319": {
-		"name": "EMORSGATE SEEDS",
-		"total": 525,
-		"monthly": {
-			"2018-04": {"total":525.00, "PLACE":525.00}
-		}
-	},
-	"5320": {
-		"name": "EMOTION COACHING UK",
-		"total": 350,
-		"monthly": {
-			"2019-07": {"total":350.00, "PEOPLE":350.00}
-		}
-	},
-	"5321": {
-		"name": "EMPIRE HAIR DESIGN",
-		"total": 2202.25,
-		"monthly": {
-			"2015-02": {"total":253.45, "100 APPRENTICES":253.45},
-			"2015-05": {"total":253.45, "100 APPRENTICES":253.45},
-			"2015-06": {"total":321.90, "100 APPRENTICES":321.90},
-			"2015-07": {"total":253.45, "CYPF":253.45},
-			"2017-07": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"5322": {
-		"name": "EMPIRE PROPERTY CONCEPTS",
-		"total": 3740,
-		"monthly": {
-			"2016-07": {"total":1500.00, "CYPF":1500.00},
-			"2017-06": {"total":1120.00, "CA LEP":1120.00},
-			"2017-12": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"5323": {
-		"name": "EMPLOYERS FORUM LOCAL JOB FOR LOCALS",
-		"total": 553176,
-		"monthly": {
-			"2011-01": {"total":23615.00, "SEP (ERDF/SP)":23615.00},
-			"2011-02": {"total":39376.00, "SEP (ERDF/SP)":39376.00},
-			"2011-03": {"total":37671.00, "SEP (ERDF/SP)":36423.00, "SHEFFIELD EMPLOYABILITY PROJEC":1248.00},
-			"2011-04": {"total":36912.00, "SEP (ERDF/SP)":34912.00, "SHEFFIELD EMPLOYABILITY PROJEC":2000.00},
-			"2011-06": {"total":68081.00, "SEP (ERDF/SP)":68081.00},
-			"2011-07": {"total":33840.00, "SEP (ERDF/SP)":33840.00},
-			"2011-08": {"total":34312.00, "SEP (ERDF/SP)":34312.00},
-			"2011-09": {"total":39887.00, "SEP (ERDF/SP)":39887.00},
-			"2011-10": {"total":40723.00, "SEP (ERDF/SP)":40723.00},
-			"2011-11": {"total":37451.00, "SEP (ERDF/SP)":37451.00},
-			"2011-12": {"total":45675.00, "SEP (ERDF/SP)":45675.00},
-			"2012-01": {"total":15632.00, "SEP (ERDF/SP)":15632.00},
-			"2012-02": {"total":35063.00, "SEP (ERDF/SP)":31934.00, "SHEFFIELD EMPLOYABILITY PROJEC":3129.00},
-			"2012-03": {"total":32098.00, "SEP (ERDF/SP)":29134.00, "SHEFFIELD EMPLOYABILITY PROJEC":2964.00},
-			"2012-04": {"total":2784.00, "SHEFFIELD EMPLOYABILITY PROJEC":2784.00},
-			"2012-06": {"total":30056.00, "SEP (ERDF/SP)":24334.00, "SHEFFIELD EMPLOYABILITY PROJEC":5722.00}
-		}
-	},
-	"5324": {
-		"name": "EMPLOYMENT & TRAINING LINKS LTD",
-		"alternate-names": [
-			"EMPLOYMENT & TRAINING LINKS LIMITED"
-		],
-		"total": 77351.11,
-		"monthly": {
-			"2011-01": {"total":3703.80, "NEETS 16+":3703.80},
-			"2011-03": {"total":6112.10, "NEETS 16+":6112.10},
-			"2011-04": {"total":2015.00, "INTENSIVE INTERVENTION PROJECT":2015.00},
-			"2011-05": {"total":5220.40, "NEETS 16+":5220.40},
-			"2011-06": {"total":10589.30, "NEETS 16+":8789.30, "YOUTH JUSTICE ISSP GRANT":1800.00},
-			"2011-07": {"total":4590.80, "NEETS 16+":4590.80},
-			"2011-09": {"total":8155.58, "NEETS 16+":8155.58},
-			"2011-10": {"total":7222.40, "NEETS 16+":7222.40},
-			"2011-11": {"total":7097.30, "NEETS 16+":7097.30},
-			"2011-12": {"total":10123.00, "NEETS 16+":10123.00},
-			"2012-01": {"total":6419.93, "NEETS 16+":6419.93},
-			"2012-02": {"total":5475.80, "NEETS 16+":5475.80},
-			"2012-04": {"total":625.70, "NEETS 16+":625.70}
-		}
-	},
-	"5325": {
-		"name": "EMPOWER",
-		"total": 3840,
-		"monthly": {
-			"2014-07": {"total":1200.00, "EP NORTH EAST LINC":1200.00},
-			"2014-09": {"total":1440.00, "EP NORTH EAST LINC":1440.00},
-			"2014-12": {"total":874.00, "EP NORTH EAST LINC":874.00},
-			"2015-01": {"total":326.00, "EP NORTH EAST LINC":326.00}
-		}
-	},
-	"5326": {
-		"name": "EMPTY HOMES NETWORK",
-		"total": 899,
-		"monthly": {
-			"2014-07": {"total":363.00, "REGISTRATION & REGULATION":363.00},
-			"2015-09": {"total":268.00, "COMMUNITIES":268.00},
-			"2016-04": {"total":268.00, "PLACE":268.00}
-		}
-	},
-	"5327": {
-		"name": "EMQC LTD",
-		"total": 1860,
-		"monthly": {
-			"2013-04": {"total":1860.00, "FAMILY & COMM MANAGEMENT":1860.00}
-		}
-	},
-	"5328": {
-		"name": "EMSC (UK) LTD",
-		"total": 19339.94,
-		"monthly": {
-			"2015-10": {"total":2500.00, "PLACE":2500.00},
-			"2015-12": {"total":2500.00, "PLACE":2500.00},
-			"2016-11": {"total":530.40, "CYPF":530.40},
-			"2016-12": {"total":530.40, "CYPF":530.40},
-			"2017-01": {"total":663.00, "CYPF":663.00},
-			"2017-03": {"total":530.40, "CYPF":530.40},
-			"2017-05": {"total":1193.40, "CYPF":1193.40},
-			"2017-07": {"total":1193.40, "CYPF":1193.40},
-			"2017-09": {"total":530.40, "PEOPLE":530.40},
-			"2017-11": {"total":1723.80, "PEOPLE":1723.80},
-			"2018-01": {"total":905.63, "PEOPLE":905.63},
-			"2018-02": {"total":887.25, "PEOPLE":887.25},
-			"2018-03": {"total":546.00, "PEOPLE":546.00},
-			"2018-05": {"total":1228.50, "PEOPLE":1228.50},
-			"2018-06": {"total":273.00, "PEOPLE":273.00},
-			"2018-07": {"total":664.95, "PEOPLE":664.95},
-			"2018-08": {"total":969.15, "PEOPLE":969.15},
-			"2018-09": {"total":721.50, "PEOPLE":721.50},
-			"2018-10": {"total":577.20, "PEOPLE":577.20},
-			"2018-11": {"total":671.56, "PEOPLE":671.56}
-		}
-	},
-	"5329": {
-		"name": "EMSI ECONOMIC MODELLING SPECIALISTS INTL",
-		"total": 28000,
-		"monthly": {
-			"2018-01": {"total":5000.00, "LOCAL ENTERPRISE PARTNERSHIP":5000.00},
-			"2018-06": {"total":15000.00, "LOCAL ENTERPRISE PARTNERSHIP":15000.00},
-			"2019-11": {"total":8000.00, "LOCAL ENTERPRISE PARTNERSHIP":8000.00}
-		}
-	},
-	"5330": {
-		"name": "EMSLEYS SOLICITORS",
-		"total": 12500,
-		"monthly": {
-			"2012-12": {"total":2250.00, "CLAIMS":2250.00},
-			"2013-06": {"total":8674.65, "CLAIMS":8674.65},
-			"2013-10": {"total":1575.35, "CLAIMS":1575.35}
-		}
-	},
-	"5331": {
-		"name": "EMSLEYS SOLICITORS & ESTATE AGENTS",
-		"total": 8000,
-		"monthly": {
-			"2011-09": {"total":8000.00, "CLAIMS":8000.00}
-		}
-	},
-	"5332": {
-		"name": "EMYVALE CARE - WEST MELTON LODGE",
-		"total": 22271.15,
-		"monthly": {
-			"2019-12": {"total":2284.74, "PEOPLE":2284.74},
-			"2020-03": {"total":8459.75, "PEOPLE":8459.75},
-			"2020-04": {"total":4561.40, "PEOPLE":4561.40},
-			"2020-05": {"total":2589.40, "PEOPLE":2589.40},
-			"2020-06": {"total":4375.86, "PEOPLE":4375.86}
-		}
-	},
-	"5333": {
-		"name": "EMYVALE HOUSE",
-		"total": 42629.52,
-		"monthly": {
-			"2011-01": {"total":1664.00, "PURCHASING ELDERLY":1664.00},
-			"2011-02": {"total":1664.00, "PURCHASING ELDERLY":1664.00},
-			"2011-03": {"total":1664.00, "PURCHASING ELDERLY":1664.00},
-			"2011-04": {"total":1655.00, "PURCHASING ELDERLY":1655.00},
-			"2013-09": {"total":8118.52, "ADULT SOCIAL CARE PURCHASING":8118.52},
-			"2013-10": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2013-11": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2013-12": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-01": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-03": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-04": {"total":3096.00, "ADULT SOCIAL CARE PURCHASING":3096.00},
-			"2014-05": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-06": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-07": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-08": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-09": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-10": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-11": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2014-12": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2015-01": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2015-02": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00},
-			"2015-03": {"total":1548.00, "ADULT SOCIAL CARE PURCHASING":1548.00}
-		}
-	},
-	"5334": {
-		"name": "ENABLE (SHEFFIELD)",
-		"total": 1461679.42,
-		"monthly": {
-			"2011-01": {"total":14798.50, "CARERS GRANT LD":4971.25, "LD PARTNERSHIP CONTRACTS":9187.25, "PURCHASING LEARNING DISABILITI":640.00},
-			"2011-02": {"total":1440.00, "PURCHASING LEARNING DISABILITI":1440.00},
-			"2011-03": {"total":640.00, "PURCHASING LEARNING DISABILITI":640.00},
-			"2011-04": {"total":13776.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":8498.00, "PURCHASING LEARNING DISABILITI":680.00},
-			"2011-05": {"total":520.00, "PURCHASING LEARNING DISABILITI":520.00},
-			"2011-06": {"total":12157.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":6799.00, "PURCHASING LEARNING DISABILITI":760.00},
-			"2011-07": {"total":600.00, "PURCHASING LEARNING DISABILITI":600.00},
-			"2011-09": {"total":11217.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":5099.00, "PURCHASING LEARNING DISABILITI":1520.00},
-			"2011-10": {"total":800.00, "PURCHASING LEARNING DISABILITI":800.00},
-			"2011-11": {"total":800.00, "PURCHASING LEARNING DISABILITI":800.00},
-			"2012-01": {"total":10497.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":5099.00, "PURCHASING LEARNING DISABILITI":800.00},
-			"2012-02": {"total":800.00, "PURCHASING LEARNING DISABILITI":800.00},
-			"2012-03": {"total":720.00, "PURCHASING LEARNING DISABILITI":720.00},
-			"2012-04": {"total":13896.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":8498.00, "PURCHASING LEARNING DISABILITI":800.00},
-			"2012-07": {"total":13096.50, "CARERS GRANT LD":4598.50, "LD PARTNERSHIP CONTRACTS":8498.00},
-			"2012-11": {"total":8498.00, "LD PARTNERSHIP CONTRACTS":8498.00},
-			"2013-01": {"total":600.00, "PURCHASING LEARNING DISABILITI":600.00},
-			"2013-02": {"total":12658.00, "LD PARTNERSHIP CONTRACTS":8498.00, "PURCHASING LEARNING DISABILITI":4160.00},
-			"2013-03": {"total":4160.00, "PURCHASING LEARNING DISABILITI":4160.00},
-			"2013-04": {"total":3960.00, "PURCHASING LEARNING DISABILITI":3960.00},
-			"2013-05": {"total":3240.00, "PURCHASING LEARNING DISABILITI":3240.00},
-			"2013-06": {"total":4440.00, "PURCHASING LEARNING DISABILITI":4440.00},
-			"2013-07": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2013-08": {"total":19277.00, "LD PARTNERSHIP CONTRACTS":12237.00, "PARTNERSHIP INV AGREEMNT":3520.00, "PURCHASING LEARNING DISABILITI":3520.00},
-			"2013-09": {"total":3400.00, "PURCHASING LEARNING DISABILITI":3400.00},
-			"2013-10": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2013-11": {"total":7551.00, "LD PARTNERSHIP CONTRACTS":4351.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2013-12": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2014-01": {"total":600.00, "PURCHASING LEARNING DISABILITI":600.00},
-			"2014-02": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2014-03": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2014-04": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2014-05": {"total":2320.00, "PURCHASING LEARNING DISABILITI":2320.00},
-			"2014-06": {"total":3240.00, "PURCHASING LEARNING DISABILITI":3240.00},
-			"2014-07": {"total":3200.00, "PURCHASING LEARNING DISABILITI":3200.00},
-			"2014-08": {"total":12961.00, "LD PARTNERSHIP CONTRACTS":3481.00, "PURCHASING LEARNING DISABILITI":9480.00},
-			"2014-09": {"total":3840.00, "PURCHASING LEARNING DISABILITI":3840.00},
-			"2014-10": {"total":4480.00, "PURCHASING LEARNING DISABILITI":4480.00},
-			"2014-11": {"total":4960.00, "PURCHASING LEARNING DISABILITI":4960.00},
-			"2015-01": {"total":6840.00, "ADULT SOCIAL CARE PURCHASING":720.00, "PURCHASING LEARNING DISABILITI":6120.00},
-			"2015-02": {"total":5280.00, "ADULT SOCIAL CARE PURCHASING":640.00, "PURCHASING LEARNING DISABILITI":4640.00},
-			"2015-03": {"total":5280.00, "ADULT SOCIAL CARE PURCHASING":640.00, "PURCHASING LEARNING DISABILITI":4640.00},
-			"2015-04": {"total":6080.00, "ADULT SOCIAL CARE PURCHASING":640.00, "LDD PLACEMENTS AUG14-JUL15":1120.00, "PURCHASING LEARNING DISABILITI":4320.00},
-			"2015-05": {"total":11080.00, "ADULT SOCIAL CARE PURCHASING":520.00, "LDD PLACEMENTS AUG14-JUL15":640.00, "PURCHASING LEARNING DISABILITI":3920.00, "STUDENT FINANCIAL SUPPORT":6000.00},
-			"2015-06": {"total":13720.00, "ADULT SOCIAL CARE PURCHASING":1160.00, "LDD PLACEMENTS AUG14-JUL15":640.00, "PURCHASING LEARNING DISABILITI":11920.00},
-			"2015-07": {"total":6120.00, "COMMUNITIES":6120.00},
-			"2015-08": {"total":7000.00, "COMMUNITIES":6720.00, "CYPF":280.00},
-			"2015-09": {"total":7160.00, "COMMUNITIES":7160.00},
-			"2015-11": {"total":15954.29, "COMMUNITIES":15954.29},
-			"2015-12": {"total":8320.00, "COMMUNITIES":8320.00},
-			"2016-01": {"total":2880.00, "COMMUNITIES":2880.00},
-			"2016-02": {"total":8960.00, "COMMUNITIES":8960.00},
-			"2016-03": {"total":9920.00, "COMMUNITIES":9920.00},
-			"2016-04": {"total":9280.00, "COMMUNITIES":9280.00},
-			"2016-05": {"total":10120.00, "COMMUNITIES":10120.00},
-			"2016-06": {"total":20080.00, "COMMUNITIES":20080.00},
-			"2016-08": {"total":26422.00, "COMMUNITIES":26422.00},
-			"2016-09": {"total":15624.00, "COMMUNITIES":15624.00},
-			"2016-10": {"total":12544.00, "COMMUNITIES":12544.00},
-			"2016-11": {"total":12718.92, "COMMUNITIES":12718.92},
-			"2016-12": {"total":13064.00, "COMMUNITIES":13064.00},
-			"2017-01": {"total":6838.00, "COMMUNITIES":6838.00},
-			"2017-03": {"total":10704.00, "COMMUNITIES":10704.00},
-			"2017-04": {"total":13198.92, "COMMUNITIES":13198.92},
-			"2017-05": {"total":10920.00, "COMMUNITIES":10920.00},
-			"2017-06": {"total":11520.00, "COMMUNITIES":11520.00},
-			"2017-07": {"total":11960.00, "COMMUNITIES":11960.00},
-			"2017-08": {"total":9240.00, "PEOPLE":9240.00},
-			"2017-09": {"total":22920.00, "PEOPLE":22920.00},
-			"2017-10": {"total":11564.36, "PEOPLE":11564.36},
-			"2017-11": {"total":11284.36, "PEOPLE":11284.36},
-			"2017-12": {"total":11684.36, "PEOPLE":11684.36},
-			"2018-01": {"total":10400.00, "PEOPLE":10400.00},
-			"2018-02": {"total":12520.00, "PEOPLE":12520.00},
-			"2018-03": {"total":13084.36, "PEOPLE":13084.36},
-			"2018-04": {"total":11920.00, "PEOPLE":11920.00},
-			"2018-05": {"total":26669.44, "PEOPLE":26669.44},
-			"2018-06": {"total":12160.00, "PEOPLE":12160.00},
-			"2018-07": {"total":13000.00, "PEOPLE":13000.00},
-			"2018-08": {"total":13280.00, "PEOPLE":13280.00},
-			"2018-09": {"total":13120.00, "PEOPLE":13120.00},
-			"2018-10": {"total":15622.75, "PEOPLE":15622.75},
-			"2018-11": {"total":14339.00, "PEOPLE":14339.00},
-			"2018-12": {"total":14659.00, "PEOPLE":14659.00},
-			"2019-01": {"total":17479.00, "PEOPLE":17479.00},
-			"2019-02": {"total":14939.00, "PEOPLE":14939.00},
-			"2019-03": {"total":12179.00, "PEOPLE":12179.00},
-			"2019-04": {"total":11796.14, "PEOPLE":11796.14},
-			"2019-05": {"total":21603.00, "PEOPLE":21603.00},
-			"2019-06": {"total":17164.42, "PEOPLE":17164.42},
-			"2019-07": {"total":16953.00, "PEOPLE":16953.00},
-			"2019-08": {"total":15753.00, "PEOPLE":15753.00},
-			"2019-09": {"total":14095.86, "PEOPLE":14095.86},
-			"2019-10": {"total":15812.00, "PEOPLE":15812.00},
-			"2019-11": {"total":16234.00, "PEOPLE":16234.00},
-			"2019-12": {"total":16401.00, "PEOPLE":16401.00},
-			"2020-01": {"total":17366.00, "PEOPLE":17366.00},
-			"2020-02": {"total":20348.00, "PEOPLE":20348.00},
-			"2020-03": {"total":258789.74, "PEOPLE":258789.74},
-			"2020-04": {"total":16400.00, "PEOPLE":16400.00},
-			"2020-05": {"total":18379.00, "PEOPLE":18379.00},
-			"2020-06": {"total":35393.00, "PEOPLE":35393.00},
-			"2020-07": {"total":17833.00, "PEOPLE":17833.00},
-			"2020-08": {"total":59520.00, "PEOPLE":59520.00},
-			"2020-09": {"total":71840.00, "PEOPLE":71840.00}
-		}
-	},
-	"5335": {
-		"name": "ENABLE ACCESS",
-		"total": 522.5,
-		"monthly": {
-			"2011-10": {"total":522.50, "DISABLED ACCESS ADAPTATIONS":522.50}
-		}
-	},
-	"5336": {
-		"name": "ENABLE SPACE LTD",
-		"total": 1005,
-		"monthly": {
-			"2018-03": {"total":750.00, "PLACE":750.00},
-			"2019-09": {"total":255.00, "PLACE":255.00}
-		}
-	},
-	"5337": {
-		"name": "ENABLE2 CIC",
-		"total": 3539.94,
-		"monthly": {
-			"2018-10": {"total":2290.00, "PEOPLE":2290.00},
-			"2018-12": {"total":598.00, "PEOPLE":598.00},
-			"2019-01": {"total":282.24, "PEOPLE":282.24},
-			"2019-06": {"total":0.05, "PEOPLE":0.05},
-			"2019-08": {"total":369.65, "PEOPLE":369.65}
-		}
-	},
-	"5338": {
-		"name": "ENABLING TECHNOLOGY LTD",
-		"total": 384.99,
-		"monthly": {
-			"2016-02": {"total":384.99, "COMMUNITIES":384.99}
-		}
-	},
-	"5339": {
-		"name": "ENACT SOLUTIONS LTD",
-		"total": 6000,
-		"monthly": {
-			"2012-03": {"total":6000.00, "LEARNING W/ DISABILITIES&DIFFI":6000.00}
-		}
-	},
-	"5340": {
-		"name": "ENC INDUSTRIAL SERVICES LTD",
-		"alternate-names": [
-			"ENC INDUSTRIAL SERVICES LTD."
-		],
-		"total": 100000,
-		"monthly": {
-			"2014-10": {"total":100000.00, "RGF 4":100000.00}
-		}
-	},
-	"5341": {
-		"name": "ENCO ASSOCIATES LTD",
-		"total": 23737.64,
-		"monthly": {
-			"2012-02": {"total":8050.00, "ATTERCLIFFE TECHNOLOGY PARK":8050.00},
-			"2012-09": {"total":600.00, "STADIA TECHNOLOGY PARK":600.00},
-			"2014-02": {"total":5950.00, "STADIA TECHNOLOGY PARK":5950.00},
-			"2014-07": {"total":4162.64, "STADIA TECHNOLOGY PARK":4162.64},
-			"2015-02": {"total":500.00, "BNDFC - SORBY HOUSE":500.00},
-			"2017-10": {"total":2800.00, "PLACE":2800.00},
-			"2018-03": {"total":525.00, "PLACE":525.00},
-			"2018-07": {"total":1150.00, "PLACE":1150.00}
-		}
-	},
-	"5342": {
-		"name": "ENCORE ENVELOPES LTD",
-		"total": 20847.55,
-		"monthly": {
-			"2017-02": {"total":2188.00, "RESOURCES":2188.00},
-			"2017-06": {"total":2280.00, "RESOURCES":2280.00},
-			"2017-10": {"total":1275.00, "PLACE":1275.00},
-			"2018-03": {"total":278.20, "PLACE":278.20},
-			"2018-04": {"total":1918.25, "PLACE":1918.25},
-			"2018-10": {"total":4900.50, "PLACE":4900.50},
-			"2019-06": {"total":280.00, "PLACE":280.00},
-			"2019-09": {"total":1638.50, "PLACE":1638.50},
-			"2019-12": {"total":1048.60, "PLACE":1048.60},
-			"2020-01": {"total":1996.40, "PLACE":1996.40},
-			"2020-04": {"total":588.00, "PLACE":588.00},
-			"2020-06": {"total":1406.10, "RESOURCES":1406.10},
-			"2020-07": {"total":1050.00, "RESOURCES":1050.00}
-		}
-	},
-	"5343": {
-		"name": "ENDCLIFFE CORNER COMMUNITY ORGANISATION",
-		"total": 964,
-		"monthly": {
-			"2017-01": {"total":584.00, "COMMUNITIES":584.00},
-			"2019-01": {"total":380.00, "PEOPLE":380.00}
-		}
-	},
-	"5344": {
-		"name": "ENDCLIFFE METHODIST CHURCH",
-		"total": 5872,
-		"monthly": {
-			"2012-03": {"total":5872.00, "CLIMATE IMPACT FUND":5872.00}
-		}
-	},
-	"5345": {
-		"name": "ENDCLIFFE PLAYGROUP",
-		"total": 55021.36,
-		"monthly": {
-			"2017-08": {"total":2195.55, "PEOPLE":2195.55},
-			"2017-11": {"total":1125.45, "PEOPLE":1125.45},
-			"2018-01": {"total":2118.06, "PEOPLE":2118.06},
-			"2018-03": {"total":1586.42, "PEOPLE":1586.42},
-			"2018-04": {"total":3111.11, "PEOPLE":3111.11},
-			"2018-06": {"total":2275.94, "PEOPLE":2275.94},
-			"2018-08": {"total":2854.70, "PEOPLE":2854.70},
-			"2018-11": {"total":2181.13, "PEOPLE":2181.13},
-			"2018-12": {"total":258.30, "PEOPLE":258.30},
-			"2019-01": {"total":2557.17, "PEOPLE":2557.17},
-			"2019-03": {"total":2030.73, "PEOPLE":2030.73},
-			"2019-04": {"total":3357.90, "PEOPLE":3357.90},
-			"2019-06": {"total":1968.00, "PEOPLE":1968.00},
-			"2019-08": {"total":2049.18, "PEOPLE":2049.18},
-			"2019-11": {"total":2061.30, "PEOPLE":2061.30},
-			"2019-12": {"total":422.28, "PEOPLE":422.28},
-			"2020-01": {"total":4055.05, "PEOPLE":4055.05},
-			"2020-03": {"total":4001.10, "PEOPLE":4001.10},
-			"2020-04": {"total":6923.46, "PEOPLE":6923.46},
-			"2020-06": {"total":3366.56, "PEOPLE":3366.56},
-			"2020-08": {"total":4521.97, "PEOPLE":4521.97}
-		}
-	},
-	"5346": {
-		"name": "ENDEAVOUR",
-		"total": 587641.13,
-		"monthly": {
-			"2017-01": {"total":300.00, "CYPF":300.00},
-			"2018-02": {"total":2250.00, "PEOPLE":2250.00},
-			"2018-03": {"total":33522.37, "PEOPLE":33522.37},
-			"2018-05": {"total":4788.91, "PEOPLE":4788.91},
-			"2018-06": {"total":34590.00, "PEOPLE":34590.00},
-			"2018-07": {"total":38865.00, "PEOPLE":38865.00},
-			"2018-10": {"total":15234.15, "PEOPLE":15234.15},
-			"2018-11": {"total":26281.82, "PEOPLE":26281.82},
-			"2018-12": {"total":34338.00, "PEOPLE":34338.00},
-			"2019-02": {"total":34129.82, "PEOPLE":34129.82},
-			"2019-03": {"total":37500.72, "PEOPLE":37500.72},
-			"2019-04": {"total":37584.00, "PEOPLE":37584.00},
-			"2019-05": {"total":4788.91, "PEOPLE":4788.91},
-			"2019-06": {"total":27120.00, "PEOPLE":27120.00},
-			"2019-07": {"total":48446.73, "PEOPLE":48446.73},
-			"2019-10": {"total":14208.00, "PEOPLE":14208.00},
-			"2019-11": {"total":14370.69, "PEOPLE":14370.69},
-			"2019-12": {"total":15708.00, "PEOPLE":15708.00},
-			"2020-01": {"total":9581.78, "PEOPLE":9581.78},
-			"2020-02": {"total":24554.89, "PEOPLE":24554.89},
-			"2020-03": {"total":33686.89, "PEOPLE":33686.89},
-			"2020-04": {"total":21426.89, "PEOPLE":21426.89},
-			"2020-05": {"total":24240.00, "PEOPLE":24240.00},
-			"2020-07": {"total":40541.78, "PEOPLE":40541.78},
-			"2020-08": {"total":4790.89, "PEOPLE":4790.89},
-			"2020-09": {"total":4790.89, "PEOPLE":4790.89}
-		}
-	},
-	"5347": {
-		"name": "ENDEAVOUR CARE HOME",
-		"total": 55329.59,
-		"monthly": {
-			"2016-03": {"total":33507.26, "COMMUNITIES":33507.26},
-			"2016-04": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-05": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-06": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-07": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-08": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-09": {"total":3553.80, "COMMUNITIES":3553.80},
-			"2016-12": {"total":499.53, "COMMUNITIES":499.53}
-		}
-	},
-	"5348": {
-		"name": "ENDEAVOUR TRAINING",
-		"total": 1528649.3,
-		"monthly": {
-			"2011-01": {"total":14899.23, "GATEWAY RESETTLEMENT PROGRAMME":2857.14, "NEETS 16+":4307.00, "VSP DELIVER":7735.09},
-			"2011-02": {"total":10696.99, "NEETS 16+":2961.90, "VSP DELIVER":7735.09},
-			"2011-03": {"total":9062.99, "NEETS 16+":1327.90, "VSP DELIVER":7735.09},
-			"2011-04": {"total":7587.60, "NEETS 16+":1511.60, "VSP DELIVER":6076.00},
-			"2011-05": {"total":17434.22, "14-16 NEETS":5174.00, "GATEWAY 8 RESETTLEMENT":2142.86, "NEETS 16+":2774.90, "VSP DELIVER":5542.46, "YOUTH JUSTICE ISSP GRANT":1800.00},
-			"2011-06": {"total":23141.18, "NEETS 16+":3052.40, "VSP DELIVER":20088.78},
-			"2011-07": {"total":12206.38, "NEETS 16+":1617.60, "VSP DELIVER":10588.78},
-			"2011-08": {"total":10588.78, "VSP DELIVER":10588.78},
-			"2011-09": {"total":2496.40, "NEETS 16+":2496.40},
-			"2011-10": {"total":12101.50, "NEETS 16+":2403.00, "VSP DELIVER":9698.50},
-			"2011-11": {"total":20950.95, "NEETS 16+":1649.20, "VSP DELIVER":19301.75},
-			"2011-12": {"total":13181.60, "NEETS 16+":3546.60, "VSP DELIVER":9635.00},
-			"2012-01": {"total":21292.09, "NEETS 16+":3232.50, "VSP DELIVER":18059.59},
-			"2012-02": {"total":10000.00, "NEETS 16+":1000.00, "VSP DELIVER":9000.00},
-			"2012-03": {"total":17199.33, "VSP DELIVER":17199.33},
-			"2012-04": {"total":16450.08, "LLSC CORE TEAM":1373.56, "VSP DELIVER":15076.52},
-			"2012-05": {"total":39774.18, "VSP DELIVER":39774.18},
-			"2012-06": {"total":9000.00, "VSP DELIVER":9000.00},
-			"2012-07": {"total":18744.55, "VSP DELIVER":18744.55},
-			"2012-08": {"total":3494.25, "VSP DELIVER":3494.25},
-			"2012-10": {"total":10357.25, "VSP DELIVER":10357.25},
-			"2012-11": {"total":9500.00, "VSP DELIVER":9500.00},
-			"2012-12": {"total":444.50, "VSP DELIVER":444.50},
-			"2013-01": {"total":28381.00, "VSP DELIVER":28381.00},
-			"2013-02": {"total":9881.00, "VSP DELIVER":9881.00},
-			"2013-04": {"total":12605.25, "VSP DELIVER":12605.25},
-			"2013-05": {"total":19381.00, "VSP DELIVER":19381.00},
-			"2013-06": {"total":15004.00, "VSP DELIVER":15004.00},
-			"2013-07": {"total":4500.00, "VSP DELIVER":4500.00},
-			"2013-09": {"total":4250.00, "VSP DELIVER":4250.00},
-			"2013-10": {"total":920.75, "VSP DELIVER":920.75},
-			"2013-11": {"total":2700.00, "VSP DELIVER":2700.00},
-			"2013-12": {"total":28500.00, "VSP DELIVER":28500.00},
-			"2014-01": {"total":12031.25, "VSP DELIVER":12031.25},
-			"2014-02": {"total":13437.50, "VSP DELIVER":13437.50},
-			"2014-03": {"total":22068.10, "VSP DELIVER":22068.10},
-			"2014-04": {"total":3325.40, "VSP DELIVER":3325.40},
-			"2014-05": {"total":44958.30, "VSP DELIVER":44958.30},
-			"2014-07": {"total":54362.00, "VSP DELIVER":54362.00},
-			"2014-08": {"total":1710.00, "LACES":1710.00},
-			"2014-09": {"total":11921.60, "VSP DELIVER":11921.60},
-			"2014-10": {"total":9158.00, "VSP DELIVER":9158.00},
-			"2014-11": {"total":3890.80, "VSP DELIVER":3890.80},
-			"2014-12": {"total":12678.40, "VSP DELIVER":12678.40},
-			"2015-01": {"total":11154.00, "VSP DELIVER":11154.00},
-			"2015-02": {"total":4077.00, "VSP DELIVER":4077.00},
-			"2015-03": {"total":42824.57, "VSP DELIVER":42824.57},
-			"2015-04": {"total":29500.41, "VSP DELIVER":29500.41},
-			"2015-05": {"total":22457.00, "LAC PUPIL PREMIUM":3168.00, "VSP DELIVER":19289.00},
-			"2015-06": {"total":26948.82, "VSP DELIVER":26948.82},
-			"2015-07": {"total":28016.91, "CYPF":28016.91},
-			"2015-08": {"total":8226.91, "CYPF":8226.91},
-			"2015-10": {"total":10671.91, "CYPF":10671.91},
-			"2015-11": {"total":15266.91, "CYPF":15266.91},
-			"2015-12": {"total":33212.41, "CYPF":33212.41},
-			"2016-01": {"total":4788.91, "CYPF":4788.91},
-			"2016-02": {"total":28558.41, "CYPF":28558.41},
-			"2016-03": {"total":34641.57, "CYPF":34641.57},
-			"2016-04": {"total":25407.22, "CYPF":25407.22},
-			"2016-05": {"total":9577.82, "CYPF":9577.82},
-			"2016-06": {"total":73303.91, "CYPF":73303.91},
-			"2016-07": {"total":34413.91, "CYPF":34413.91},
-			"2016-08": {"total":14884.29, "CYPF":14884.29},
-			"2016-10": {"total":6840.00, "CYPF":6840.00},
-			"2016-11": {"total":25435.82, "CYPF":25435.82},
-			"2016-12": {"total":39480.00, "CYPF":39480.00},
-			"2017-01": {"total":9577.82, "CYPF":9577.82},
-			"2017-02": {"total":27864.00, "CYPF":27864.00},
-			"2017-03": {"total":4788.91, "CYPF":4788.91},
-			"2017-04": {"total":42336.00, "CYPF":42336.00},
-			"2017-05": {"total":21168.00, "CYPF":21168.00},
-			"2017-06": {"total":47678.73, "CYPF":47678.73},
-			"2017-07": {"total":38688.00, "CYPF":38688.00},
-			"2017-08": {"total":44544.00, "CORPORATE":44544.00},
-			"2017-10": {"total":5952.00, "PEOPLE":5952.00},
-			"2017-11": {"total":7488.00, "PEOPLE":7488.00},
-			"2017-12": {"total":18144.00, "PEOPLE":18144.00},
-			"2018-03": {"total":48240.00, "PEOPLE":48240.00},
-			"2018-04": {"total":26352.00, "PEOPLE":26352.00},
-			"2018-05": {"total":20292.91, "PEOPLE":20292.91},
-			"2018-10": {"total":9577.82, "PEOPLE":9577.82}
-		}
-	},
-	"5349": {
-		"name": "ENDLESS BEAUTY",
-		"total": 1500,
-		"monthly": {
-			"2017-05": {"total":1500.00, "CA LEP":1500.00}
 		}
 	}
 	}

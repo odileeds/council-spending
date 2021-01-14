@@ -1,7 +1,566 @@
 {
-	"range": ["2011-01","2020-09"],
+	"range": ["2011-01","2020-12"],
 	"data": {
 	"4550": {
+		"name": "DIRECT LINE",
+		"total": 754,
+		"monthly": {
+			"2011-08": {"total":754.00, "CLAIMS":754.00}
+		}
+	},
+	"4551": {
+		"name": "DIRECT LINE INSURANCE PLC",
+		"total": 7867.14,
+		"monthly": {
+			"2011-03": {"total":2100.98, "CLAIMS":2100.98},
+			"2011-07": {"total":5766.16, "CLAIMS":5766.16}
+		}
+	},
+	"4552": {
+		"name": "DIRECT PRINT AND PROMOTIONS LTD",
+		"total": 955,
+		"monthly": {
+			"2018-05": {"total":515.00, "PLACE":515.00},
+			"2019-10": {"total":440.00, "LOCAL ENTERPRISE PARTNERSHIP":440.00}
+		}
+	},
+	"4553": {
+		"name": "DIRECT ROD PROPERTY REPAIR SERVICES",
+		"total": 1550,
+		"monthly": {
+			"2012-03": {"total":1550.00, "SYFP & FC":1550.00}
+		}
+	},
+	"4554": {
+		"name": "DIRECT SPECIAL METALS",
+		"total": 920,
+		"monthly": {
+			"2015-07": {"total":920.00, "PLACE":920.00}
+		}
+	},
+	"4555": {
+		"name": "DIRECT TRAFFIC MANAGEMENT LTD",
+		"total": 6070,
+		"monthly": {
+			"2015-10": {"total":1420.00, "CA LEP":1420.00},
+			"2017-09": {"total":3455.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00, "PLACE":2335.00},
+			"2019-04": {"total":1195.00, "PLACE":1195.00}
+		}
+	},
+	"4556": {
+		"name": "DIRECTHOSES LTD",
+		"total": 1120,
+		"monthly": {
+			"2016-01": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"4557": {
+		"name": "DIRECTORS CUT HAIRDRESSERS",
+		"total": 2240,
+		"monthly": {
+			"2017-11": {"total":2240.00, "LOCAL ENTERPRISE PARTNERSHIP":2240.00}
+		}
+	},
+	"4558": {
+		"name": "DISABILITY ACTION YORKSHIRE",
+		"total": 289979.71,
+		"monthly": {
+			"2014-07": {"total":3636.72, "PDSI PURCHASING":3636.72},
+			"2015-03": {"total":3636.72, "PDSI PURCHASING":3636.72},
+			"2015-04": {"total":3636.72, "PDSI PURCHASING":3636.72},
+			"2015-05": {"total":3636.72, "PDSI PURCHASING":3636.72},
+			"2015-06": {"total":3636.72, "PDSI PURCHASING":3636.72},
+			"2015-07": {"total":7273.44, "COMMUNITIES":7273.44},
+			"2015-09": {"total":7273.44, "COMMUNITIES":7273.44},
+			"2015-10": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2015-11": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2015-12": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-01": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-02": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-03": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-04": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-05": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-06": {"total":7273.44, "COMMUNITIES":7273.44},
+			"2016-07": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-08": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-09": {"total":6364.26, "COMMUNITIES":6364.26},
+			"2016-10": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-11": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2016-12": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-01": {"total":7273.44, "COMMUNITIES":7273.44},
+			"2017-03": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-04": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-05": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-06": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-07": {"total":3636.72, "COMMUNITIES":3636.72},
+			"2017-08": {"total":3959.72, "PEOPLE":3959.72},
+			"2017-09": {"total":3959.72, "PEOPLE":3959.72},
+			"2017-11": {"total":11879.16, "PEOPLE":11879.16},
+			"2017-12": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-01": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-02": {"total":7919.44, "PEOPLE":7919.44},
+			"2018-03": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-04": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-05": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-06": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-07": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-08": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-09": {"total":7919.44, "PEOPLE":7919.44},
+			"2018-11": {"total":3959.72, "PEOPLE":3959.72},
+			"2018-12": {"total":3959.72, "PEOPLE":3959.72},
+			"2019-01": {"total":7919.44, "PEOPLE":7919.44},
+			"2019-02": {"total":3959.72, "PEOPLE":3959.72},
+			"2019-03": {"total":3961.32, "PEOPLE":3961.32},
+			"2019-04": {"total":3962.92, "PEOPLE":3962.92},
+			"2019-08": {"total":7273.44, "PEOPLE":7273.44},
+			"2019-09": {"total":9931.56, "PEOPLE":9931.56},
+			"2020-02": {"total":23777.52, "PEOPLE":23777.52},
+			"2020-03": {"total":3962.92, "PEOPLE":3962.92},
+			"2020-04": {"total":7763.32, "PEOPLE":7763.32},
+			"2020-05": {"total":4072.04, "PEOPLE":4072.04},
+			"2020-06": {"total":4072.04, "PEOPLE":4072.04},
+			"2020-07": {"total":4086.29, "PEOPLE":4086.29},
+			"2020-08": {"total":3408.24, "PEOPLE":3408.24},
+			"2020-09": {"total":4083.44, "PEOPLE":4083.44},
+			"2020-10": {"total":3408.24, "PEOPLE":3408.24}
+		}
+	},
+	"4559": {
+		"name": "DISABILITY SHEFFIELD CENTRE",
+		"total": 228745.6,
+		"monthly": {
+			"2014-06": {"total":14250.00, "EXTERNAL FUNDED CONTRACTS & PA":14250.00},
+			"2014-08": {"total":8250.00, "EQUALITIES & INVOLVEMENT":8250.00},
+			"2015-03": {"total":6465.00, "EQUALITIES & INVOLVEMENT":6465.00},
+			"2015-04": {"total":7500.00, "EQUALITIES & INVOLVEMENT":7500.00},
+			"2015-05": {"total":8250.00, "EQUALITIES & INVOLVEMENT":8250.00},
+			"2015-10": {"total":2037.00, "POLICY PERFORMANCE AND COMMS":2037.00},
+			"2016-02": {"total":10060.00, "POLICY PERFORMANCE AND COMMS":8500.00, "RESOURCES":1560.00},
+			"2016-03": {"total":1156.00, "CYPF":1156.00},
+			"2016-05": {"total":8600.00, "POLICY PERFORMANCE AND COMMS":8600.00},
+			"2016-06": {"total":1860.00, "RESOURCES":1860.00},
+			"2016-07": {"total":8000.00, "COMMUNITIES":8000.00},
+			"2016-08": {"total":12000.00, "COMMUNITIES":12000.00},
+			"2016-12": {"total":8360.00, "COMMUNITIES":8360.00},
+			"2017-02": {"total":21845.00, "COMMUNITIES":13245.00, "POLICY PERFORMANCE AND COMMS":8600.00},
+			"2017-03": {"total":501.50, "COMMUNITIES":501.50},
+			"2017-04": {"total":5977.50, "COMMUNITIES":5977.50},
+			"2017-05": {"total":7500.00, "POLICY PERFORMANCE AND COMMS":7500.00},
+			"2017-06": {"total":5000.00, "COMMUNITIES":5000.00},
+			"2017-10": {"total":7500.00, "POLICY, PERFORMANCE AND COMMS":7500.00},
+			"2018-02": {"total":14704.60, "PEOPLE":14704.60},
+			"2018-03": {"total":2190.00, "POLICY, PERFORMANCE AND COMMS":717.00, "PEOPLE":1473.00},
+			"2018-04": {"total":7500.00, "POLICY, PERFORMANCE AND COMMS":7500.00},
+			"2018-07": {"total":670.00, "PLACE":670.00},
+			"2018-09": {"total":9200.00, "POLICY, PERFORMANCE AND COMMS":7500.00, "PLACE":1700.00},
+			"2018-12": {"total":1500.00, "PEOPLE":1500.00},
+			"2019-04": {"total":8380.00, "POLICY, PERFORMANCE AND COMMS":8028.00, "PEOPLE":352.00},
+			"2019-07": {"total":2121.00, "PLACE":2121.00},
+			"2019-10": {"total":7500.00, "POLICY, PERFORMANCE AND COMMS":7500.00},
+			"2020-01": {"total":1368.00, "PLACE":1368.00},
+			"2020-04": {"total":3750.00, "POLICY, PERFORMANCE AND COMMS":3750.00},
+			"2020-07": {"total":12250.00, "POLICY, PERFORMANCE AND COMMS":11250.00, "PLACE":1000.00},
+			"2020-08": {"total":8000.00, "PEOPLE":8000.00},
+			"2020-10": {"total":4500.00, "PEOPLE":4500.00}
+		}
+	},
+	"4560": {
+		"name": "DISABLED ENABLED LIMITED TA ACCESSABLE",
+		"total": 9578,
+		"monthly": {
+			"2019-12": {"total":9578.00, "POLICY, PERFORMANCE AND COMMS":9578.00}
+		}
+	},
+	"4561": {
+		"name": "DISABLED ENABLED LIMITED TA DISABLEDGO",
+		"total": 65000,
+		"monthly": {
+			"2014-12": {"total":25000.00, "ACM BUDGET SAVINGS":25000.00},
+			"2015-12": {"total":17500.00, "COMMUNITIES":17500.00},
+			"2016-10": {"total":7500.00, "COMMUNITIES":7500.00},
+			"2017-11": {"total":7500.00, "PEOPLE":7500.00},
+			"2018-11": {"total":7500.00, "PEOPLE":7500.00}
+		}
+	},
+	"4562": {
+		"name": "DISABLED LIVING FOUNDATION",
+		"total": 3169.2,
+		"monthly": {
+			"2012-11": {"total":560.00, "TRAINING - BROCKWOOD":560.00},
+			"2014-10": {"total":275.00, "MOORFOOT LEARNING CENTRE":275.00},
+			"2016-01": {"total":275.00, "RESOURCES":275.00},
+			"2017-07": {"total":936.00, "COMMUNITIES":936.00},
+			"2017-08": {"total":1123.20, "CORPORATE":1123.20}
+		}
+	},
+	"4563": {
+		"name": "DISBREY WORKSPACE INTERIORS",
+		"total": 1120,
+		"monthly": {
+			"2016-10": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"4564": {
+		"name": "DISC",
+		"total": 2816061.15,
+		"monthly": {
+			"2013-10": {"total":87590.17, "HOUSING RELATED SUPPORT":87590.17},
+			"2013-11": {"total":42985.80, "HOUSING RELATED SUPPORT":42985.80},
+			"2013-12": {"total":85971.60, "HOUSING RELATED SUPPORT":85971.60},
+			"2014-01": {"total":42985.80, "HOUSING RELATED SUPPORT":42985.80},
+			"2014-04": {"total":85695.68, "HOUSING RELATED SUPPORT":85695.68},
+			"2014-05": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-06": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-07": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-08": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-09": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-10": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-11": {"total":42847.84, "HOUSING RELATED SUPPORT":42847.84},
+			"2014-12": {"total":85695.68, "HOUSING RELATED SUPPORT":85695.68},
+			"2015-01": {"total":38905.54, "HOUSING RELATED SUPPORT":38905.54},
+			"2015-02": {"total":41270.92, "HOUSING RELATED SUPPORT":41270.92},
+			"2015-03": {"total":41270.92, "HOUSING RELATED SUPPORT":41270.92},
+			"2015-04": {"total":41270.92, "HOUSING RELATED SUPPORT":41270.92},
+			"2015-05": {"total":41270.92, "HOUSING RELATED SUPPORT":41270.92},
+			"2015-06": {"total":41270.92, "HOUSING RELATED SUPPORT":41270.92},
+			"2015-07": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2015-08": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2015-09": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2015-10": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2015-11": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2015-12": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-01": {"total":82541.84, "COMMUNITIES":82541.84},
+			"2016-03": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-04": {"total":82541.84, "COMMUNITIES":82541.84},
+			"2016-05": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-06": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-07": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-08": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-09": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-10": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-11": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2016-12": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2017-01": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2017-02": {"total":82541.84, "COMMUNITIES":82541.84},
+			"2017-04": {"total":82541.84, "COMMUNITIES":82541.84},
+			"2017-05": {"total":41270.92, "COMMUNITIES":41270.92},
+			"2017-07": {"total":82541.84, "COMMUNITIES":82541.84},
+			"2017-08": {"total":41270.92, "PEOPLE":41270.92},
+			"2017-09": {"total":41270.92, "PEOPLE":41270.92},
+			"2017-10": {"total":41270.92, "PEOPLE":41270.92},
+			"2017-11": {"total":41270.92, "PEOPLE":41270.92},
+			"2017-12": {"total":41270.92, "PEOPLE":41270.92},
+			"2018-01": {"total":41270.92, "PEOPLE":41270.92},
+			"2018-02": {"total":41270.92, "PEOPLE":41270.92},
+			"2018-03": {"total":41270.92, "PEOPLE":41270.92},
+			"2018-04": {"total":39545.92, "PEOPLE":39545.92},
+			"2018-05": {"total":39545.92, "PEOPLE":39545.92},
+			"2018-06": {"total":39545.92, "PEOPLE":39545.92},
+			"2018-07": {"total":39545.92, "PEOPLE":39545.92},
+			"2018-08": {"total":79091.84, "PEOPLE":79091.84},
+			"2018-09": {"total":79091.84, "PEOPLE":79091.84},
+			"2018-11": {"total":79091.84, "PEOPLE":79091.84}
+		}
+	},
+	"4565": {
+		"name": "DISCLOSURE & BARRING SERVICE",
+		"total": 809804,
+		"monthly": {
+			"2013-01": {"total":18705.00, "CRIMINAL RECORDS BUREAU (C.R.B":18705.00},
+			"2013-02": {"total":23760.00, "CRIMINAL RECORDS BUREAU (C.R.B":23760.00},
+			"2013-03": {"total":19800.00, "CRIMINAL RECORDS BUREAU (C.R.B":19800.00},
+			"2013-05": {"total":15752.00, "CRIMINAL RECORDS BUREAU (C.R.B":15752.00},
+			"2013-06": {"total":21472.00, "CRIMINAL RECORDS BUREAU (C.R.B":21472.00},
+			"2013-07": {"total":23232.00, "CRIMINAL RECORDS BUREAU (C.R.B":23232.00},
+			"2013-08": {"total":33114.00, "CRIMINAL RECORDS BUREAU (C.R.B":33114.00},
+			"2013-09": {"total":13244.00, "CRIMINAL RECORDS BUREAU (C.R.B":13244.00},
+			"2013-10": {"total":26532.00, "CRIMINAL RECORDS BUREAU (C.R.B":26532.00},
+			"2013-11": {"total":31196.00, "CRIMINAL RECORDS BUREAU (C.R.B":31196.00},
+			"2013-12": {"total":25238.00, "CRIMINAL RECORDS BUREAU (C.R.B":25238.00},
+			"2014-01": {"total":18612.00, "CRIMINAL RECORDS BUREAU (C.R.B":18612.00},
+			"2014-02": {"total":17336.00, "CRIMINAL RECORDS BUREAU (C.R.B":17336.00},
+			"2014-03": {"total":6116.00, "CRIMINAL RECORDS BUREAU (C.R.B":6116.00},
+			"2014-06": {"total":20240.00, "CRIMINAL RECORDS BUREAU (C.R.B":20240.00},
+			"2014-07": {"total":5676.00, "CRIMINAL RECORDS BUREAU (C.R.B":5676.00},
+			"2014-08": {"total":7304.00, "CRIMINAL RECORDS BUREAU (C.R.B":7304.00},
+			"2014-10": {"total":10560.00, "CRIMINAL RECORDS BUREAU (C.R.B":10560.00},
+			"2014-11": {"total":7700.00, "CRIMINAL RECORDS BUREAU (C.R.B":7700.00},
+			"2014-12": {"total":4312.00, "CRIMINAL RECORDS BUREAU (C.R.B":4312.00},
+			"2015-01": {"total":6776.00, "CRIMINAL RECORDS BUREAU (C.R.B":6776.00},
+			"2015-02": {"total":6380.00, "CRIMINAL RECORDS BUREAU (C.R.B":6380.00},
+			"2015-03": {"total":3960.00, "CRIMINAL RECORDS BUREAU (C.R.B":3960.00},
+			"2015-04": {"total":3168.00, "CRIMINAL RECORDS BUREAU (C.R.B":3168.00},
+			"2015-06": {"total":5280.00, "CRIMINAL RECORDS BUREAU (C.R.B":5280.00},
+			"2015-07": {"total":2640.00, "RESOURCES":2640.00},
+			"2015-08": {"total":2508.00, "RESOURCES":2508.00},
+			"2015-09": {"total":2464.00, "RESOURCES":2464.00},
+			"2015-11": {"total":4312.00, "RESOURCES":4312.00},
+			"2016-01": {"total":1100.00, "RESOURCES":1100.00},
+			"2016-02": {"total":2420.00, "RESOURCES":2420.00},
+			"2016-03": {"total":1408.00, "RESOURCES":1408.00},
+			"2016-04": {"total":2772.00, "RESOURCES":2772.00},
+			"2016-05": {"total":6512.00, "RESOURCES":6512.00},
+			"2016-08": {"total":7436.00, "RESOURCES":7436.00},
+			"2016-09": {"total":23936.00, "RESOURCES":23936.00},
+			"2016-10": {"total":9372.00, "RESOURCES":9372.00},
+			"2016-11": {"total":9108.00, "RESOURCES":9108.00},
+			"2017-02": {"total":31372.00, "RESOURCES":31372.00},
+			"2017-06": {"total":13728.00, "RESOURCES":13728.00},
+			"2017-07": {"total":2332.00, "RESOURCES":2332.00},
+			"2017-10": {"total":26102.00, "RESOURCES":26102.00},
+			"2017-12": {"total":2860.00, "RESOURCES":2860.00},
+			"2018-01": {"total":6718.00, "RESOURCES":6718.00},
+			"2018-03": {"total":19717.00, "RESOURCES":19717.00},
+			"2018-05": {"total":17908.00, "RESOURCES":17908.00},
+			"2018-07": {"total":20944.00, "RESOURCES":20944.00},
+			"2018-08": {"total":9992.00, "RESOURCES":9992.00},
+			"2018-09": {"total":9502.00, "RESOURCES":9502.00},
+			"2018-10": {"total":9354.00, "RESOURCES":9354.00},
+			"2018-11": {"total":19342.00, "RESOURCES":19342.00},
+			"2018-12": {"total":30580.00, "RESOURCES":30580.00},
+			"2019-01": {"total":9460.00, "RESOURCES":9460.00},
+			"2019-02": {"total":12760.00, "RESOURCES":12760.00},
+			"2019-03": {"total":11774.00, "RESOURCES":11774.00},
+			"2019-04": {"total":10868.00, "RESOURCES":10868.00},
+			"2019-05": {"total":10322.00, "RESOURCES":10322.00},
+			"2019-06": {"total":9416.00, "RESOURCES":9416.00},
+			"2019-07": {"total":8492.00, "RESOURCES":8492.00},
+			"2019-08": {"total":9856.00, "RESOURCES":9856.00},
+			"2019-10": {"total":12574.00, "RESOURCES":12574.00},
+			"2019-11": {"total":19258.00, "RESOURCES":19258.00},
+			"2019-12": {"total":7920.00, "RESOURCES":7920.00},
+			"2020-01": {"total":3480.00, "RESOURCES":3480.00},
+			"2020-02": {"total":2080.00, "RESOURCES":2080.00},
+			"2020-03": {"total":2000.00, "RESOURCES":2000.00},
+			"2020-04": {"total":2120.00, "RESOURCES":2120.00},
+			"2020-05": {"total":360.00, "RESOURCES":360.00},
+			"2020-06": {"total":560.00, "RESOURCES":560.00},
+			"2020-07": {"total":520.00, "RESOURCES":520.00},
+			"2020-08": {"total":520.00, "RESOURCES":520.00},
+			"2020-09": {"total":1280.00, "RESOURCES":1280.00},
+			"2020-10": {"total":1040.00, "RESOURCES":1040.00},
+			"2020-12": {"total":1240.00, "RESOURCES":1240.00}
+		}
+	},
+	"4566": {
+		"name": "DISCOUNT BEDS",
+		"total": 3545.03,
+		"monthly": {
+			"2011-02": {"total":545.84, "FOSTERING DEVELOPMENT":545.84},
+			"2013-03": {"total":289.16, "EAST SA - CIN S17":289.16},
+			"2014-07": {"total":439.17, "NORTH MAST":439.17},
+			"2014-10": {"total":780.83, "MONTGOMERY TERRACE":780.83},
+			"2016-05": {"total":330.00, "CYPF":330.00},
+			"2019-03": {"total":0.02, "PEOPLE":0.02},
+			"2019-09": {"total":415.00, "PEOPLE":415.00},
+			"2020-02": {"total":448.34, "PEOPLE":448.34},
+			"2020-07": {"total":296.67, "PEOPLE":296.67}
+		}
+	},
+	"4567": {
+		"name": "DISCOUNT DISPLAYS LTD",
+		"total": 329.95,
+		"monthly": {
+			"2018-01": {"total":329.95, "PLACE":329.95}
+		}
+	},
+	"4568": {
+		"name": "DISCOUNT MOBILITY PLUS LTD",
+		"total": 1699,
+		"monthly": {
+			"2017-09": {"total":1699.00, "PLACE":1699.00}
+		}
+	},
+	"4569": {
+		"name": "DISCOUNT SPORTS",
+		"total": 2240,
+		"monthly": {
+			"2017-01": {"total":1120.00, "CA LEP":1120.00},
+			"2017-07": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"4570": {
+		"name": "DISCOVERY KITCHEN",
+		"total": 1250,
+		"monthly": {
+			"2017-05": {"total":1250.00, "COMMUNITIES":1250.00}
+		}
+	},
+	"4571": {
+		"name": "DISCOVERY LEARNING",
+		"total": 1190,
+		"monthly": {
+			"2011-03": {"total":1190.00, "RESOURCES MANAGER":1190.00}
+		}
+	},
+	"4572": {
+		"name": "DISCOVERY SQUARED",
+		"total": 690,
+		"monthly": {
+			"2019-11": {"total":690.00, "PEOPLE":690.00}
+		}
+	},
+	"4573": {
+		"name": "DISCOVERY STEM EDUCATION",
+		"total": 4000,
+		"monthly": {
+			"2018-03": {"total":2400.00, "PEOPLE":2400.00},
+			"2020-12": {"total":1600.00, "PEOPLE":1600.00}
+		}
+	},
+	"4574": {
+		"name": "DISKLABS LTD",
+		"alternate-names": [
+			"DISKLABS LIMITED"
+		],
+		"total": 1562.24,
+		"monthly": {
+			"2017-09": {"total":335.00, "PEOPLE":335.00},
+			"2018-01": {"total":373.80, "PEOPLE":373.80},
+			"2019-05": {"total":853.44, "PEOPLE":853.44}
+		}
+	},
+	"4575": {
+		"name": "DISPENSING HEALTHCARE T/A SWIFT PHARMACY",
+		"total": 96236,
+		"monthly": {
+			"2014-02": {"total":312.80, "COMMUNITY PHARMACY":312.80},
+			"2014-05": {"total":561.60, "CONTRACT PAYMENTS ÃÂ DRUGS":561.60},
+			"2014-06": {"total":661.60, "CONTRACT PAYMENTS _ DRUGS":661.60},
+			"2014-07": {"total":1313.60, "CONTRACT PAYMENTS ÃÂ DRUGS":1313.60},
+			"2014-08": {"total":667.20, "CONTRACT PAYMENTS ? DRUGS":667.20},
+			"2014-09": {"total":642.40, "CONTRACT PAYMENTS ÃÂ DRUGS":642.40},
+			"2014-11": {"total":1511.20, "CONTRACT PAYMENTS ÃÂ DRUGS":1511.20},
+			"2014-12": {"total":890.40, "CONTRACT PAYMENTS ? DRUGS":890.40},
+			"2015-01": {"total":537.60, "CONTRACT PAYMENTS ÃÂ DRUGS":537.60},
+			"2015-03": {"total":1019.20, "CONTRACT PAYMENTS ÃÂ DRUGS":1019.20},
+			"2015-04": {"total":572.80, "CONTRACT PAYMENTS ÃÂ DRUGS":572.80},
+			"2015-05": {"total":408.00, "CONTRACT PAYMENTS ÃÂ DRUGS":408.00},
+			"2015-06": {"total":608.00, "CONTRACT PAYMENTS ÃÂ DRUGS":608.00},
+			"2015-07": {"total":768.80, "COMMUNITIES":768.80},
+			"2015-09": {"total":2025.60, "COMMUNITIES":2025.60},
+			"2015-11": {"total":896.80, "COMMUNITIES":896.80},
+			"2015-12": {"total":2442.40, "COMMUNITIES":2442.40},
+			"2016-01": {"total":1048.80, "COMMUNITIES":1048.80},
+			"2016-03": {"total":2889.60, "COMMUNITIES":2889.60},
+			"2016-04": {"total":1582.40, "COMMUNITIES":1582.40},
+			"2016-05": {"total":1711.20, "COMMUNITIES":1711.20},
+			"2016-06": {"total":1544.00, "COMMUNITIES":1544.00},
+			"2016-07": {"total":1633.60, "COMMUNITIES":1633.60},
+			"2016-08": {"total":1615.20, "COMMUNITIES":1615.20},
+			"2016-09": {"total":1954.40, "COMMUNITIES":1954.40},
+			"2016-11": {"total":3817.60, "COMMUNITIES":3817.60},
+			"2016-12": {"total":1617.60, "COMMUNITIES":1617.60},
+			"2017-01": {"total":1756.80, "COMMUNITIES":1756.80},
+			"2017-02": {"total":1721.60, "COMMUNITIES":1721.60},
+			"2017-04": {"total":1636.00, "COMMUNITIES":1636.00},
+			"2017-05": {"total":1456.80, "COMMUNITIES":1456.80},
+			"2017-06": {"total":1404.00, "COMMUNITIES":1404.00},
+			"2017-07": {"total":1280.00, "COMMUNITIES":1280.00},
+			"2017-09": {"total":1635.20, "PEOPLE":1635.20},
+			"2017-10": {"total":1621.60, "PEOPLE":1621.60},
+			"2017-12": {"total":4040.80, "PEOPLE":4040.80},
+			"2018-02": {"total":2328.00, "PEOPLE":2328.00},
+			"2018-03": {"total":1267.20, "PEOPLE":1267.20},
+			"2018-04": {"total":1553.60, "PEOPLE":1553.60},
+			"2018-05": {"total":1387.20, "PEOPLE":1387.20},
+			"2018-06": {"total":1704.00, "PEOPLE":1704.00},
+			"2018-07": {"total":1723.20, "PEOPLE":1723.20},
+			"2018-08": {"total":1556.00, "PEOPLE":1556.00},
+			"2018-09": {"total":1912.00, "PEOPLE":1912.00},
+			"2018-10": {"total":1452.00, "PEOPLE":1452.00},
+			"2018-11": {"total":1906.40, "PEOPLE":1906.40},
+			"2018-12": {"total":1100.00, "PEOPLE":1100.00},
+			"2019-01": {"total":1564.00, "PEOPLE":1564.00},
+			"2019-02": {"total":1695.20, "PEOPLE":1695.20},
+			"2019-03": {"total":904.00, "PEOPLE":904.00},
+			"2019-04": {"total":568.00, "PEOPLE":568.00},
+			"2019-05": {"total":1551.20, "PEOPLE":1551.20},
+			"2019-06": {"total":1012.00, "PEOPLE":1012.00},
+			"2019-07": {"total":892.80, "PEOPLE":892.80},
+			"2019-08": {"total":1070.40, "PEOPLE":1070.40},
+			"2019-09": {"total":2362.40, "PEOPLE":2362.40},
+			"2019-10": {"total":1361.60, "PEOPLE":1361.60},
+			"2019-11": {"total":757.60, "PEOPLE":757.60},
+			"2019-12": {"total":1231.20, "PEOPLE":1231.20},
+			"2020-01": {"total":2298.40, "PEOPLE":2298.40},
+			"2020-02": {"total":1728.80, "PEOPLE":1728.80},
+			"2020-03": {"total":1435.20, "PEOPLE":1435.20},
+			"2020-04": {"total":605.60, "PEOPLE":605.60},
+			"2020-05": {"total":462.40, "PEOPLE":462.40},
+			"2020-06": {"total":915.20, "PEOPLE":915.20},
+			"2020-07": {"total":999.20, "PEOPLE":999.20},
+			"2020-08": {"total":1021.60, "PEOPLE":1021.60},
+			"2020-09": {"total":708.00, "PEOPLE":708.00},
+			"2020-10": {"total":1100.80, "PEOPLE":1100.80},
+			"2020-12": {"total":293.60, "PEOPLE":293.60}
+		}
+	},
+	"4576": {
+		"name": "DISPLAY LINK LTD",
+		"alternate-names": [
+			"DISPLAY LINK LIMITED"
+		],
+		"total": 38210.5,
+		"monthly": {
+			"2011-01": {"total":550.00, "CS-STRATEGIC MARKETING":550.00},
+			"2011-09": {"total":550.00, "MARKETING SHEFFIELD":550.00},
+			"2012-07": {"total":1025.00, "RESOURCES EFFICIENCY NORTH":1025.00},
+			"2012-10": {"total":781.00, "MARKETING SHEFFIELD":781.00},
+			"2013-02": {"total":999.00, "MAJOR EVENTS":999.00},
+			"2016-10": {"total":380.00, "PLACE":380.00},
+			"2018-11": {"total":7600.00, "LOCAL ENTERPRISE PARTNERSHIP":7600.00},
+			"2019-03": {"total":16580.50, "LOCAL ENTERPRISE PARTNERSHIP":16580.50},
+			"2019-05": {"total":9745.00, "LOCAL ENTERPRISE PARTNERSHIP":9745.00}
+		}
+	},
+	"4577": {
+		"name": "DISPLAY WIZARD LTD",
+		"total": 1124,
+		"monthly": {
+			"2012-02": {"total":1124.00, "TOWN HALL":1124.00}
+		}
+	},
+	"4578": {
+		"name": "DISPLAYSENSE LTD",
+		"total": 898.5,
+		"monthly": {
+			"2020-12": {"total":898.50, "PLACE":898.50}
+		}
+	},
+	"4579": {
+		"name": "DISTANCE LEARNING COURSES LTD",
+		"alternate-names": [
+			"DISTANCE LEARNING COURSES LIMITED"
+		],
+		"total": 750,
+		"monthly": {
+			"2017-01": {"total":750.00, "PLACE":750.00}
+		}
+	},
+	"4580": {
+		"name": "DISTEX LTD",
+		"total": 2000,
+		"monthly": {
+			"2016-01": {"total":2000.00, "CA LEP":2000.00}
+		}
+	},
+	"4581": {
+		"name": "DISTINCTIVE DOORS LTD",
+		"total": 1000,
+		"monthly": {
+			"2016-08": {"total":1000.00, "PLACE":1000.00}
+		}
+	},
+	"4582": {
+		"name": "DISTINCTIVE PROPERTY MANAGEMENT",
+		"total": 1420,
+		"monthly": {
+			"2018-01": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00},
+			"2018-03": {"total":300.00, "LOCAL ENTERPRISE PARTNERSHIP":300.00}
+		}
+	},
+	"4583": {
 		"name": "DISTINCTLY LEGAL",
 		"total": 14500,
 		"monthly": {
@@ -9,7 +568,7 @@
 			"2013-11": {"total":9700.00, "CLAIMS":9700.00}
 		}
 	},
-	"4551": {
+	"4584": {
 		"name": "DISTRICT SURVEYORS ASN LTD TA LABC",
 		"total": 8658.24,
 		"monthly": {
@@ -19,7 +578,7 @@
 			"2020-09": {"total":3404.12, "PLACE":3404.12}
 		}
 	},
-	"4552": {
+	"4585": {
 		"name": "DISTRICT SURVEYORS ASSN LTD T/A LABC",
 		"total": 6189.3,
 		"monthly": {
@@ -27,14 +586,14 @@
 			"2018-04": {"total":3094.65, "PLACE":3094.65}
 		}
 	},
-	"4553": {
+	"4586": {
 		"name": "DISTRICT SURVEYORS ASSOCIATION",
 		"total": 3094.65,
 		"monthly": {
 			"2012-04": {"total":3094.65, "BUILDING STANDARDS":3094.65}
 		}
 	},
-	"4554": {
+	"4587": {
 		"name": "DIVA CREATIVE  LTD",
 		"total": 140550.05,
 		"monthly": {
@@ -61,9 +620,9 @@
 			"2017-03": {"total":2000.00, "CA LEP":2000.00}
 		}
 	},
-	"4555": {
+	"4588": {
 		"name": "DIVA CREATIVE LTD",
-		"total": 473155.83,
+		"total": 489822.49,
 		"monthly": {
 			"2011-02": {"total":800.00, "CREATIVE SERVICES":800.00},
 			"2011-07": {"total":1250.00, "CREATIVE SERVICES":600.00, "MAKING PLACES PROFITABLE-INTER":650.00},
@@ -116,24 +675,26 @@
 			"2020-06": {"total":16666.66, "PLACE":16666.66},
 			"2020-07": {"total":8333.33, "PLACE":8333.33},
 			"2020-08": {"total":8333.33, "PLACE":8333.33},
-			"2020-09": {"total":8333.33, "PLACE":8333.33}
+			"2020-09": {"total":8333.33, "PLACE":8333.33},
+			"2020-10": {"total":8333.33, "PLACE":8333.33},
+			"2020-12": {"total":8333.33, "PLACE":8333.33}
 		}
 	},
-	"4556": {
+	"4589": {
 		"name": "DIVA PETS LTD",
 		"total": 1120,
 		"monthly": {
 			"2016-11": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"4557": {
+	"4590": {
 		"name": "DIVE ARCHITECTS LTD",
 		"total": 750,
 		"monthly": {
 			"2011-05": {"total":750.00, "PROJECT MANAGEMENT - SCHEME":750.00}
 		}
 	},
-	"4558": {
+	"4591": {
 		"name": "DIVERSE ROOFING SERVICES",
 		"total": 9616,
 		"monthly": {
@@ -143,28 +704,28 @@
 			"2020-09": {"total":1591.20, "PEOPLE":1591.20}
 		}
 	},
-	"4559": {
+	"4592": {
 		"name": "DIVERSITYJOBS.CO.UK LTD",
 		"total": 2500,
 		"monthly": {
 			"2016-11": {"total":2500.00, "POLICY PERFORMANCE AND COMMS":2500.00}
 		}
 	},
-	"4560": {
+	"4593": {
 		"name": "DIXON AND BESWICK CONSULTANCY TA JOINERY",
 		"total": 11820,
 		"monthly": {
 			"2018-06": {"total":11820.00, "PLACE":11820.00}
 		}
 	},
-	"4561": {
+	"4594": {
 		"name": "DIXON TIMBER PRODUCTS LTD",
 		"total": 1420,
 		"monthly": {
 			"2017-07": {"total":1420.00, "CA LEP":1420.00}
 		}
 	},
-	"4562": {
+	"4595": {
 		"name": "DIZIONS LTD",
 		"alternate-names": [
 			"DIZIONS LIMITED"
@@ -178,14 +739,14 @@
 			"2020-06": {"total":495.00, "PEOPLE":495.00}
 		}
 	},
-	"4563": {
+	"4596": {
 		"name": "DJ ALLEN BUILDERS LTD",
 		"total": 1120,
 		"monthly": {
 			"2017-09": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
 		}
 	},
-	"4564": {
+	"4597": {
 		"name": "DJB RECYCLING",
 		"total": 2240,
 		"monthly": {
@@ -193,7 +754,7 @@
 			"2016-11": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"4565": {
+	"4598": {
 		"name": "DJR SWIM SCHOOL",
 		"total": 2498.5,
 		"monthly": {
@@ -204,401 +765,11 @@
 			"2018-05": {"total":400.00, "PEOPLE":400.00}
 		}
 	},
-	"4566": {
+	"4599": {
 		"name": "DJS SERVICED ACCOMMODATION",
 		"total": 4790,
 		"monthly": {
 			"2019-12": {"total":4790.00, "PEOPLE":4790.00}
-		}
-	},
-	"4567": {
-		"name": "DK INDEPENDENT SOCIAL WORKER LTD",
-		"alternate-names": [
-			"DK INDEPENDENT SOCIAL WORKER LIMITED"
-		],
-		"total": 487.45,
-		"monthly": {
-			"2019-05": {"total":487.45, "PEOPLE":487.45}
-		}
-	},
-	"4568": {
-		"name": "DK Model Management",
-		"total": 1500,
-		"monthly": {
-			"2017-10": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00}
-		}
-	},
-	"4569": {
-		"name": "DKP CONSULTING LTD",
-		"total": 1682.45,
-		"monthly": {
-			"2013-08": {"total":737.45, "SORBY HOUSE RECONFIG":737.45},
-			"2014-05": {"total":945.00, "SORBY HOUSE RECONFIG":945.00}
-		}
-	},
-	"4570": {
-		"name": "DL CONSULTANCY LTD",
-		"alternate-names": [
-			"DL CONSULTANCY LIMITED"
-		],
-		"total": 4200,
-		"monthly": {
-			"2013-02": {"total":4200.00, "DIRECTORATE":4200.00}
-		}
-	},
-	"4571": {
-		"name": "DLA PIPER UK LLP",
-		"total": 46185784.77,
-		"monthly": {
-			"2011-01": {"total":40096.01, "CARE PROCEEDINGS (LEGAL FEES)":585.00, "CREATIVE SHEFF CO-CHEX":1627.81, "HIGHWAYS PFI":12199.30, "LOCAL HOUSING COMPANY":15991.90, "NEW MARKET DEVELOPMENT":8288.00, "SERVICE MANAGEMENT":1404.00},
-			"2011-02": {"total":29550.64, "CREATIVE SHEFF CO-CHEX":1627.81, "HIGHWAYS PFI":13827.50, "HUMAN RESOURCES ADVISORY":5032.50, "LOCAL HOUSING COMPANY":6371.50, "PAY & GRADING":702.00, "PENSIONS & EARLY RETIREMENT":607.00, "SERVICE MANAGEMENT":546.00, "SHEFFIELD HOMES HUMAN RESOURCE":836.33},
-			"2011-03": {"total":24882.66, "CREATIVE SHEFF CO-CHEX":4883.43, "CS LTD PERF & CORP SERV'S":793.13, "DEVELOPMENT - LEGAL FEES":6123.80, "HIGHWAYS PFI":6227.30, "LOCAL HOUSING COMPANY":5743.50, "SERVICE MANAGEMENT":1111.50},
-			"2011-04": {"total":10259.41, "CARE PROCEEDINGS (LEGAL FEES)":1872.00, "LOCAL HOUSING COMPANY":6038.81, "PAY & GRADING":1309.50, "PROPERTY":1039.10},
-			"2011-05": {"total":22784.10, "HIGHWAYS PFI":21629.10, "NEW MARKET DEVELOPMENT":1155.00},
-			"2011-06": {"total":39279.94, "CORPORATE COSTS":3667.56, "HIGHWAYS PFI":2159.20, "LOCAL HOUSING COMPANY":13955.08, "NEW MARKET DEVELOPMENT":19498.10},
-			"2011-07": {"total":67980.74, "BUSINESS GROWTH":2770.74, "HIGHWAYS PFI":4921.50, "LOCAL HOUSING COMPANY":60288.50},
-			"2011-08": {"total":3339.27, "CONNEXIONS":1597.50, "SHEFFIELD HOMES HUMAN RESOURCE":1741.77},
-			"2011-09": {"total":28195.62, "HIGHWAYS - FORGE VALLEY":5400.00, "HIGHWAYS PFI":16415.60, "NEW BANK HOUSE":4530.02, "SOVEREIGN HOUSE":1850.00},
-			"2011-10": {"total":84035.29, "CARE PROCEEDINGS (LEGAL FEES)":3276.00, "NEW MARKET DEVELOPMENT":35434.80, "NEW RETAIL QUARTER":31302.48, "PARTNERSHIPS & PROGRAMMES":12792.80, "SHEFFIELD HOMES HUMAN RESOURCE":1229.21},
-			"2011-11": {"total":15585.50, "BUD INV - ENGAGEMENT AND INVO":1794.00, "HIGHWAYS PFI":13128.50, "SERVICE MANAGEMENT":663.00},
-			"2011-12": {"total":32880.50, "CHIEF EXECUTIVE":1800.00, "HIGHWAYS PFI":14586.50, "NEW RETAIL QUARTER":16494.00},
-			"2012-01": {"total":2864105.70, "BUD INV - ENGAGEMENT AND INVO":3705.00, "CORPORATE PROPERTY DIVISION":4020.00, "HIGHWAYS PFI":5123.00, "NEW MARKET DEVELOPMENT":37857.70, "NEW RETAIL QUARTER CPO":2813400.00},
-			"2012-02": {"total":9251.18, "BUD INV - ENGAGEMENT AND INVO":2214.08, "HIGHWAYS PFI":4697.10, "SERVICE MANAGEMENT":2340.00},
-			"2012-03": {"total":84688.55, "BUD INV - ENGAGEMENT AND INVO":760.50, "HIGHWAYS PFI":1535.00, "HR & ORG DEVELOPMENT":2675.91, "NEW MARKET DEVELOPMENT":42354.24, "NEW RETAIL QUARTER":22941.10, "NEW RETAIL QUARTER CPO":11960.30, "SERVICE MANAGEMENT":2461.50},
-			"2012-04": {"total":440794.76, "BUD INV - ENGAGEMENT AND INVO":2879.31, "NEW MARKET DEVELOPMENT":43666.80, "NEW RETAIL QUARTER CPO":381000.00, "SERVICE MANAGEMENT":13248.65},
-			"2012-05": {"total":34840.33, "BUD INV - ENGAGEMENT AND INVO":1657.50, "HR & ORG DEVELOPMENT":750.02, "NEW MARKET DEVELOPMENT":17672.71, "NEW RETAIL QUARTER":14155.60, "SERVICE MANAGEMENT":604.50},
-			"2012-06": {"total":20312.88, "ALDINE HOUSE":7603.88, "BUD INV - ENGAGEMENT AND INVO":1209.00, "NEW RETAIL QUARTER CPO":11500.00},
-			"2012-07": {"total":1096229.20, "BUD INV - ENGAGEMENT AND INVO":526.50, "HIGHWAYS PFI":34802.70, "MS - IRR STAGES 2 & 3":900.00, "UTC SITE - PORTER BROOK":1060000.00},
-			"2012-08": {"total":45877.50, "HIGHWAYS PFI":27925.30, "NEW MARKET DEVELOPMENT":17952.20},
-			"2012-09": {"total":25800.00, "NEW RETAIL QUARTER CPO":25800.00},
-			"2012-10": {"total":35104.29, "ALDINE HOUSE":877.50, "HIGHWAYS PFI":1992.00, "HR & ORG DEVELOPMENT":9567.59, "NEW RETAIL QUARTER":22667.20},
-			"2012-11": {"total":32040.65, "ALDINE HOUSE":7969.50, "HIGHWAYS PFI":24071.15},
-			"2013-01": {"total":4057.70, "BIS CORE SERVICES":900.00, "LOCAL HOUSING COMPANY":600.00, "PAY & GRADING":2557.70},
-			"2013-02": {"total":53492.60, "ALDINE HOUSE":999.10, "C & BS RETENDER":3478.50, "NEW RETAIL QUARTER CPO":46000.00, "PROPERTY DISPOSAL":3015.00},
-			"2013-03": {"total":426777.90, "CASTLEGATE SYPTE ACQUISITION":412270.00, "NEW RETAIL QUARTER":14507.90},
-			"2013-05": {"total":5945.35, "CASTLEGATE SYPTE ACQUISITION":3945.35, "HR & ORG DEVELOPMENT":2000.00},
-			"2013-08": {"total":3533.50, "LEADERSHIP":427.50, "NEW RETAIL QUARTER":3106.00},
-			"2013-09": {"total":19318.90, "GENERAL":2811.00, "NEW MARKET DEVELOPMENT":10000.00, "NEW RETAIL QUARTER":6507.90},
-			"2013-11": {"total":27320.00, "ALDINE HOUSE":1765.50, "GENERAL":6931.50, "NEW MARKET DEVELOPMENT":3600.00, "NEW RETAIL QUARTER CPO":15023.00},
-			"2013-12": {"total":1850.00, "PARTNERSHIPS & PROGRAMMES":1850.00},
-			"2014-01": {"total":116500.00, "NEW RETAIL QUARTER CPO":116500.00},
-			"2014-02": {"total":137654.20, "GENERAL":2294.20, "LEADERSHIP":810.00, "MANAGEMENT TEAM LD":945.00, "NEW RETAIL QUARTER CPO":133605.00},
-			"2014-03": {"total":8857.90, "HIGHWAY MAINTENANCE GENERAL":7357.90, "LEADERSHIP":1500.00},
-			"2014-04": {"total":5622.00, "NEW RETAIL QUARTER":5622.00},
-			"2014-05": {"total":141739.00, "NEW MARKET DEVELOPMENT":4739.00, "NEW RETAIL QUARTER CPO":137000.00},
-			"2014-06": {"total":292.50, "GENERAL":292.50},
-			"2014-07": {"total":1633.50, "GENERAL":1633.50},
-			"2014-08": {"total":994.50, "CORPORATE GOVERNANCE":994.50},
-			"2014-09": {"total":350000.00, "NEW RETAIL QUARTER 2":350000.00},
-			"2014-10": {"total":7945242.00, "CORPORATE CS MGT":4152.00, "HR LEADERSHIP":250.00, "NEW RETAIL QUARTER 2":7940840.00},
-			"2014-11": {"total":2178.00, "GENERAL":2178.00},
-			"2014-12": {"total":280750.00, "NEW RETAIL QUARTER 2":280750.00},
-			"2015-01": {"total":682.50, "GENERAL":682.50},
-			"2015-02": {"total":30613.00, "NEW RETAIL QUARTER 2":30613.00},
-			"2015-04": {"total":6234.00, "GENERAL":6234.00},
-			"2015-05": {"total":1755722.00, "LOCAL HOUSING COMPANY LGF":562.00, "NEW RETAIL QUARTER 2":1755160.00},
-			"2015-06": {"total":91700.00, "NEW RETAIL QUARTER 2":91700.00},
-			"2015-07": {"total":14700689.40, "COMMUNITIES":2776.00, "PLACE":14697913.40},
-			"2015-08": {"total":6402812.28, "PLACE":6402812.28},
-			"2015-09": {"total":208000.00, "PLACE":208000.00},
-			"2015-10": {"total":4013200.00, "PLACE":4013200.00},
-			"2015-11": {"total":160000.00, "PLACE":160000.00},
-			"2016-01": {"total":55694.34, "PLACE":55694.34},
-			"2016-03": {"total":1500.00, "PLACE":1500.00},
-			"2016-05": {"total":900434.30, "COMMUNITIES":1062.00, "PLACE":899372.30},
-			"2016-06": {"total":31884.30, "COMMUNITIES":331.50, "CYPF":2400.00, "PLACE":29152.80},
-			"2016-10": {"total":18128.85, "PLACE":18128.85},
-			"2016-12": {"total":1750634.30, "PLACE":1750634.30},
-			"2017-01": {"total":253622.50, "COMMUNITIES":3622.50, "PLACE":250000.00},
-			"2017-05": {"total":162000.00, "PLACE":162000.00},
-			"2017-08": {"total":16376.78, "PLACE":16376.78},
-			"2017-09": {"total":276360.00, "PLACE":276360.00},
-			"2018-01": {"total":291984.20, "PLACE":291984.20},
-			"2018-03": {"total":73581.30, "PLACE":73581.30},
-			"2018-04": {"total":285994.90, "PLACE":285994.90},
-			"2018-05": {"total":5500.10, "PLACE":5207.60, "RESOURCES":292.50},
-			"2018-06": {"total":2400.00, "PLACE":2400.00},
-			"2018-10": {"total":15264.90, "PLACE":15264.90},
-			"2018-12": {"total":32129.11, "PLACE":32129.11},
-			"2019-02": {"total":8406.20, "PLACE":8406.20},
-			"2019-03": {"total":3397.00, "LOCAL ENTERPRISE PARTNERSHIP":3397.00},
-			"2019-05": {"total":4874.74, "PLACE":4874.74},
-			"2019-08": {"total":4289.50, "LOCAL ENTERPRISE PARTNERSHIP":4289.50}
-		}
-	},
-	"4572": {
-		"name": "DLA PIPER UK LLP - GBP CLIENT ACCOUNT",
-		"total": 6238,
-		"monthly": {
-			"2019-09": {"total":3283.60, "PLACE":3283.60},
-			"2020-04": {"total":630.00, "PLACE":630.00},
-			"2020-05": {"total":2324.40, "PLACE":2324.40}
-		}
-	},
-	"4573": {
-		"name": "DLF TRIFOLIUM LTD",
-		"alternate-names": [
-			"DLF TRIFOLIUM LIMITED"
-		],
-		"total": 523.2,
-		"monthly": {
-			"2012-04": {"total":523.20, "STREET FORCE BALANCE SHEET":523.20}
-		}
-	},
-	"4574": {
-		"name": "DLG LEGAL SERVICES",
-		"total": 9793.96,
-		"monthly": {
-			"2018-11": {"total":3485.48, "CORPORATE":3485.48},
-			"2019-01": {"total":3346.00, "CORPORATE":3346.00},
-			"2019-10": {"total":2962.48, "CORPORATE":2962.48}
-		}
-	},
-	"4575": {
-		"name": "DLG LEGAL SERVICES LTD",
-		"alternate-names": [
-			"DLG LEGAL SERVICES LIMITED"
-		],
-		"total": 3405.63,
-		"monthly": {
-			"2015-02": {"total":3405.63, "CLAIMS":3405.63}
-		}
-	},
-	"4576": {
-		"name": "DLP PLANNING LTD",
-		"total": 41313.27,
-		"monthly": {
-			"2011-01": {"total":18500.00, "DEVELOPMENT CONTROL":18500.00},
-			"2011-04": {"total":2334.56, "DEVELOPMENT CONTROL":2334.56},
-			"2011-11": {"total":3769.80, "S106 AGREEMENT":3769.80},
-			"2012-10": {"total":2356.41, "DEVELOPMENT CONTROL":2356.41},
-			"2014-06": {"total":1800.00, "DEVELOPMENT CONTROL":1800.00},
-			"2016-12": {"total":7000.00, "PLACE":7000.00},
-			"2017-08": {"total":5552.50, "PLACE":5552.50}
-		}
-	},
-	"4577": {
-		"name": "DLSR LTD",
-		"total": 3185,
-		"monthly": {
-			"2016-03": {"total":2000.00, "CA LEP":2000.00},
-			"2018-10": {"total":1185.00, "PLACE":1185.00}
-		}
-	},
-	"4578": {
-		"name": "DM AUTO",
-		"total": 1120,
-		"monthly": {
-			"2016-02": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"4579": {
-		"name": "DMA SIGNS LTD",
-		"alternate-names": [
-			"DMA SIGNS LIMITED"
-		],
-		"total": 5047.04,
-		"monthly": {
-			"2018-12": {"total":5047.04, "PLACE":5047.04}
-		}
-	},
-	"4580": {
-		"name": "DMBC",
-		"total": 6343312.67,
-		"monthly": {
-			"2016-02": {"total":11920.81, "CA LEP":11920.81},
-			"2016-03": {"total":11426.55, "CA LEP":11426.55},
-			"2016-05": {"total":25496.91, "CA LEP":25496.91},
-			"2016-09": {"total":964207.36, "CA LEP":964207.36},
-			"2017-05": {"total":5310600.00, "TRANSPORT AUTHORITY":5310600.00},
-			"2017-07": {"total":6063.87, "CA LEP":6063.87},
-			"2018-01": {"total":13597.17, "LOCAL ENTERPRISE PARTNERSHIP":13597.17}
-		}
-	},
-	"4581": {
-		"name": "DMM INTERNATIONAL",
-		"total": 3218.45,
-		"monthly": {
-			"2013-07": {"total":284.16, "OUTDOOR EDUCATION":284.16},
-			"2014-09": {"total":255.60, "OUTDOOR EDUCATION":255.60},
-			"2015-12": {"total":250.54, "CYPF":250.54},
-			"2016-03": {"total":1017.51, "CYPF":1017.51},
-			"2017-02": {"total":743.98, "CYPF":743.98},
-			"2019-05": {"total":666.66, "PEOPLE":666.66}
-		}
-	},
-	"4582": {
-		"name": "DMM PSYCHOLOGY LTD",
-		"total": 977.79,
-		"monthly": {
-			"2014-03": {"total":977.79, "CARE PROCEEDINGS (LEGAL FEES)":977.79}
-		}
-	},
-	"4583": {
-		"name": "DMP COMMUNICATION SYSTEMS",
-		"total": 378.77,
-		"monthly": {
-			"2013-07": {"total":378.77, "POST IMPLEMENTATION":378.77}
-		}
-	},
-	"4584": {
-		"name": "DMR SEALS LTD",
-		"total": 2000,
-		"monthly": {
-			"2017-07": {"total":2000.00, "CA LEP":2000.00}
-		}
-	},
-	"4585": {
-		"name": "DMRI LTD",
-		"alternate-names": [
-			"DMRI LIMITED"
-		],
-		"total": 15569,
-		"monthly": {
-			"2015-10": {"total":4000.00, "CA LEP":4000.00},
-			"2016-02": {"total":1500.00, "CA LEP":1500.00},
-			"2016-11": {"total":450.00, "CA LEP":450.00},
-			"2017-02": {"total":1000.00, "PLACE":1000.00},
-			"2017-09": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00},
-			"2017-10": {"total":3119.00, "LOCAL ENTERPRISE PARTNERSHIP":3119.00},
-			"2017-12": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00},
-			"2020-04": {"total":2500.00, "PLACE":2500.00}
-		}
-	},
-	"4586": {
-		"name": "DMS LTD",
-		"total": 5977,
-		"monthly": {
-			"2013-07": {"total":1741.50, "HOME OWNERSHIP & BUSINESS MANA":1741.50},
-			"2013-09": {"total":322.50, "HOME OWNERSHIP & BUSINESS MANA":322.50},
-			"2013-11": {"total":731.00, "HOME OWNERSHIP & BUSINESS MANA":731.00},
-			"2013-12": {"total":301.00, "HOME OWNERSHIP & BUSINESS MANA":301.00},
-			"2014-03": {"total":344.00, "HOME OWNERSHIP & BUSINESS MANA":344.00},
-			"2014-06": {"total":666.50, "HOME OWNERSHIP & BUSINESS MANA":666.50},
-			"2014-09": {"total":924.50, "HOME OWNERSHIP & BUSINESS MANA":924.50},
-			"2014-11": {"total":301.00, "HOME OWNERSHIP & BUSINESS MANA":301.00},
-			"2015-05": {"total":365.50, "HOME OWNERSHIP & BUSINESS MANA":365.50},
-			"2015-06": {"total":279.50, "HOME OWNERSHIP & BUSINESS MANA":279.50}
-		}
-	},
-	"4587": {
-		"name": "DN COLLEGES GROUP (NORTH LINDSEY)",
-		"total": 490822.69,
-		"monthly": {
-			"2020-03": {"total":490822.69, "LOCAL ENTERPRISE PARTNERSHIP":490822.69}
-		}
-	},
-	"4588": {
-		"name": "DN THERAPY",
-		"total": 525,
-		"monthly": {
-			"2016-06": {"total":525.00, "CYPF":525.00}
-		}
-	},
-	"4589": {
-		"name": "DN5 HAIR DESIGN",
-		"total": 2240,
-		"monthly": {
-			"2016-09": {"total":1120.00, "CA LEP":1120.00},
-			"2018-01": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"4590": {
-		"name": "DNA",
-		"total": 582.7,
-		"monthly": {
-			"2017-08": {"total":582.70, "CORPORATE":582.70}
-		}
-	},
-	"4591": {
-		"name": "DNA LEGAL LTD",
-		"total": 351.67,
-		"monthly": {
-			"2020-08": {"total":351.67, "PEOPLE":351.67}
-		}
-	},
-	"4592": {
-		"name": "DNA SPORT",
-		"total": 2312.5,
-		"monthly": {
-			"2011-03": {"total":550.00, "AREA TEAM 6":550.00},
-			"2011-07": {"total":1762.50, "AREA TEAM 1":1762.50}
-		}
-	},
-	"4593": {
-		"name": "DNA WORLDWIDE LTD",
-		"total": 5388.25,
-		"monthly": {
-			"2015-08": {"total":616.80, "CYPF":616.80},
-			"2016-06": {"total":434.00, "CYPF":434.00},
-			"2016-07": {"total":778.00, "CYPF":778.00},
-			"2016-10": {"total":390.00, "CYPF":390.00},
-			"2017-11": {"total":477.00, "PEOPLE":477.00},
-			"2018-02": {"total":379.05, "PEOPLE":379.05},
-			"2018-03": {"total":1163.00, "PEOPLE":1163.00},
-			"2018-05": {"total":650.40, "PEOPLE":650.40},
-			"2018-07": {"total":500.00, "PEOPLE":500.00}
-		}
-	},
-	"4594": {
-		"name": "DNC CONTRACT FLOORING",
-		"total": 1420,
-		"monthly": {
-			"2016-11": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"4595": {
-		"name": "DO NOT USE - FORGE VALLEY COMM SCHOOL",
-		"total": 2450,
-		"monthly": {
-			"2014-07": {"total":500.00, "VISION SUPPORT SERVICE":500.00},
-			"2015-01": {"total":950.00, "LA MUSIC SERVICES":450.00, "VISION SUPPORT SERVICE":500.00},
-			"2015-02": {"total":500.00, "VISION SUPPORT SERVICE":500.00},
-			"2015-03": {"total":500.00, "VISION SUPPORT SERVICE":500.00}
-		}
-	},
-	"4596": {
-		"name": "DO NOT USE - JOURNEYS-DESTINATION",
-		"total": 1650,
-		"monthly": {
-			"2013-10": {"total":1650.00, "TRANSPORT CONTRACT":1650.00}
-		}
-	},
-	"4597": {
-		"name": "DO NOT USE - WHITESPRINT GROUP LTD",
-		"alternate-names": [
-			"DO NOT USE - WHITESPRINT GROUP LIMITED"
-		],
-		"total": 12901.57,
-		"monthly": {
-			"2014-07": {"total":4624.35, "COMMUNICATIONS":4624.35},
-			"2015-02": {"total":8277.22, "COMMUNICATIONS":8277.22}
-		}
-	},
-	"4598": {
-		"name": "DO NOT USE R A ROBERTS",
-		"total": 4055.3,
-		"monthly": {
-			"2014-05": {"total":2496.84, "ADMIN SUPPORT":373.05, "BUSINESS SUPPORT":454.98, "MANAGEMENT & SUPPORT SERVICES":717.08, "RESOURCES MANAGER":338.76, "SAFEGUARDING CHILDREN SERVICE":254.91, "THE MOOR INDOOR MARKET":358.06},
-			"2014-06": {"total":1202.18, "CHILDREN & YOUNG PEOPLE'S INVO":570.45, "EAST SERVICE AREA CSS":324.59, "FAMILY PLACEMENT  BUS SUPPORT":307.14},
-			"2014-08": {"total":356.28, "SAFEGUARDING CHILDREN SERVICE":356.28}
-		}
-	},
-	"4599": {
-		"name": "DO THE RIGHT THING",
-		"total": 15715.4,
-		"monthly": {
-			"2011-03": {"total":2791.20, "TRAINING - BROCKWOOD":2791.20},
-			"2011-04": {"total":890.00, "TRAINING - BROCKWOOD":890.00},
-			"2011-05": {"total":1120.00, "TRAINING - BROCKWOOD":1120.00},
-			"2012-01": {"total":3005.20, "FIELDWORK STRATEGY CENTRAL":3005.20},
-			"2012-02": {"total":700.00, "TRAINING - BROCKWOOD":700.00},
-			"2012-03": {"total":755.30, "TRAINING - BROCKWOOD":755.30},
-			"2012-06": {"total":1319.60, "SAFEGUARDING CHILDREN SERVICE":752.30, "TRAINING - BROCKWOOD":567.30},
-			"2012-10": {"total":1468.40, "RECRUITMENT AND RETENTION":1468.40},
-			"2012-11": {"total":567.30, "TRAINING - BROCKWOOD":567.30},
-			"2013-04": {"total":1468.40, "RECRUITMENT AND RETENTION":1468.40},
-			"2014-01": {"total":1630.00, "MOORFOOT LEARNING CENTRE":1630.00}
 		}
 	}
 	}

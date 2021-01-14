@@ -1,717 +1,640 @@
 {
-	"range": ["2011-08","2020-08"],
+	"range": ["2011-08","2020-10"],
 	"data": {
 	"4200": {
-		"name": "HC One Ltd",
-		"total": 1732.28,
+		"name": "Greengate Housing Co-Operative",
+		"total": 9667,
 		"monthly": {
-			"2014-10": {"total":1732.28, "Community, Health & Social Care":1732.28}
+			"2014-09": {"total":6667.00, "Sustainable Regeneration":6667.00},
+			"2015-01": {"total":3000.00, "Sustainable Regeneration":3000.00}
 		}
 	},
 	"4201": {
-		"name": "HCL",
-		"total": 18665.47,
+		"name": "Greengate Motors Ltd",
+		"alternate-names": [
+			"Greengate Motors Limited"
+		],
+		"total": 10000,
 		"monthly": {
-			"2016-08": {"total":18665.47, "Childrens Services":18665.47}
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4202": {
-		"name": "HGV Direct",
-		"total": 1116.29,
+		"name": "Greengate Service Charge Account",
+		"total": 84330,
 		"monthly": {
-			"2014-06": {"total":1116.29, "Environment and Community Safety":1116.29}
+			"2013-04": {"total":42165.00, "Office of the Chief Executive":42165.00},
+			"2013-06": {"total":42165.00, "The Office of the Chief Executive":42165.00}
 		}
 	},
 	"4203": {
-		"name": "HM REVENUE & CUSTOMS",
-		"alternate-names": [
-			"HMRC",
-			"Hmrc"
-		],
-		"total": 482737.55,
+		"name": "Greenhope Recycling And Waste Services",
+		"total": 20000,
 		"monthly": {
-			"2011-08": {"total":45255.14, "Customer and Support Services":9135.14, "Housing":36120.00},
-			"2011-09": {"total":226432.07, "Customer and Support Services":226432.07},
-			"2011-10": {"total":6671.54, "Capital Expenditure":6671.54},
-			"2011-12": {"total":5136.64, "Customer and Support Services":5136.64},
-			"2012-01": {"total":4945.77, "Customer and Support Services":4945.77},
-			"2012-02": {"total":1606.89, "Customer and Support":1606.89},
-			"2012-03": {"total":2290.18, "Customer and Support Services":2290.18},
-			"2012-04": {"total":12559.98, "Customer and Support Services":12559.98},
-			"2012-05": {"total":1382.71, "Customer and Support Services":1382.71},
-			"2012-06": {"total":4492.02, "Customer and Support Services":4492.02},
-			"2012-07": {"total":3531.53, "Customer and Support Services":3531.53},
-			"2012-08": {"total":6030.64, "Customer and Support Services":6030.64},
-			"2012-09": {"total":4843.06, "Capital Expenditure":4843.06},
-			"2012-10": {"total":5147.60, "Customer and Support Services":5147.60},
-			"2012-11": {"total":6678.59, "Childrens Services":2163.00, "Customer and Support Services":4515.59},
-			"2012-12": {"total":10100.93, "Capital Expenditure":10100.93},
-			"2013-01": {"total":2862.99, "Customer and Support Services":2862.99},
-			"2013-02": {"total":8172.68, "Customer and Support Services":8172.68},
-			"2013-03": {"total":4868.26, "Customer and Support Services":4868.26},
-			"2013-04": {"total":10619.02, "Customer and Support Services":10619.02},
-			"2013-05": {"total":1229.64, "Capital Expenditure":1229.64},
-			"2013-06": {"total":3798.91, "Capital Expenditure":3798.91},
-			"2013-07": {"total":1825.16, "Customer and Support Services":1825.16},
-			"2013-08": {"total":3290.56, "Customer and Support Services":3290.56},
-			"2013-09": {"total":1077.28, "Customer and Support Services":1077.28},
-			"2013-10": {"total":11128.20, "Capital Expenditure":11128.20},
-			"2013-11": {"total":2247.46, "Customer and Support Services":2247.46},
-			"2013-12": {"total":2526.90, "Capital Expenditure":2526.90},
-			"2014-01": {"total":2767.20, "Customer and Support Services":2767.20},
-			"2014-02": {"total":8313.76, "Capital Expenditure":8313.76},
-			"2014-03": {"total":7489.73, "Customer and Support Services":7489.73},
-			"2014-04": {"total":11422.21, "Capital Expenditure":11422.21},
-			"2014-05": {"total":2216.93, "Customer and Support Services":2216.93},
-			"2014-06": {"total":4592.00, "Capital Expenditure":4592.00},
-			"2014-07": {"total":1234.84, "Customer and Support Services":1234.84},
-			"2014-08": {"total":753.12, "Capital Expenditure":753.12},
-			"2014-11": {"total":3450.89, "Capital Expenditure":3450.89},
-			"2014-12": {"total":3472.78, "Customer and Support Services":3472.78},
-			"2015-02": {"total":5454.14, "Capital Expenditure":5454.14},
-			"2015-03": {"total":3401.56, "Capital Expenditure":3401.56},
-			"2015-04": {"total":10224.53, "Capital Expenditure":10224.53},
-			"2015-07": {"total":1685.64, "Customer and Support Services":1685.64},
-			"2015-09": {"total":912.00, "Capital Expenditure":912.00},
-			"2015-10": {"total":2423.60, "Corporate Business":2423.60},
-			"2015-11": {"total":1732.40, "Corporate Business":1732.40},
-			"2015-12": {"total":968.80, "Corporate Business":968.80},
-			"2016-01": {"total":674.40, "Corporate Business":674.40},
-			"2016-02": {"total":4006.68, "Capital Expenditure":4006.68},
-			"2016-07": {"total":1283.68, "Corporate Business":1283.68},
-			"2016-11": {"total":1426.30, "Corporate Business":1426.30},
-			"2016-12": {"total":592.00, "Corporate Business":592.00},
-			"2017-01": {"total":737.60, "Corporate Business":737.60},
-			"2019-08": {"total":748.41, "Capital Expenditure":748.41}
+			"2020-05": {"total":20000.00, "Service Reform (Corp Bus & Transform)":20000.00}
 		}
 	},
 	"4204": {
-		"name": "HN Nuttall Ltd",
-		"total": 1283.89,
+		"name": "Greenhouses Direct",
+		"total": 4972,
 		"monthly": {
-			"2018-06": {"total":1283.89, "Environment and Community Safety":1283.89}
+			"2014-08": {"total":2149.00, "Capital Expenditure":2149.00},
+			"2014-12": {"total":2823.00, "Capital Expenditure":2823.00}
 		}
 	},
 	"4205": {
-		"name": "HSL Compliance",
-		"total": 15688.11,
+		"name": "Greenlands Residential Home",
+		"total": 55883.07,
 		"monthly": {
-			"2017-06": {"total":5223.76, "Childrens Services":1551.00, "Environment and Community Safety":1454.58, "Sustainable Regeneration":2218.18},
-			"2018-08": {"total":10464.35, "People (Childrens) Service Group":1551.00, "Place Directorate":8913.35}
+			"2011-10": {"total":1541.52, "Community Health & Social Care":1541.52},
+			"2011-11": {"total":1541.52, "Community Health & Social Care":1541.52},
+			"2011-12": {"total":1541.52, "Community Health & Social Care":1541.52},
+			"2012-01": {"total":1781.52, "Community Health & Social Care":1781.52},
+			"2012-02": {"total":3563.04, "Community Health & Social Care":3563.04},
+			"2012-04": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-05": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-06": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-07": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-08": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-09": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-10": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2012-11": {"total":1420.51, "Community, Health & Social Care":1420.51},
+			"2013-01": {"total":3570.24, "Community, Health & Social Care":3570.24},
+			"2013-02": {"total":1785.12, "Community, Health & Social Care":1785.12},
+			"2013-03": {"total":1785.12, "Community Health & Social Care":1785.12},
+			"2013-04": {"total":1787.12, "Community, Health & Social Care":1787.12},
+			"2013-05": {"total":1786.72, "Community, Health & Social Care":1786.72},
+			"2013-06": {"total":1786.72, "Community Health & Social Care":1786.72},
+			"2013-07": {"total":1786.72, "Community, Health & Social Care":1786.72},
+			"2013-08": {"total":1786.72, "Community, Health & Social Care":1786.72},
+			"2013-09": {"total":1786.72, "Community, Health & Social Care":1786.72},
+			"2013-10": {"total":1786.72, "Community Health & Social Care":1786.72},
+			"2013-11": {"total":1559.04, "Community Health & Social Care":1559.04},
+			"2013-12": {"total":3083.04, "Community, Health & Social Care":3083.04},
+			"2014-01": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-02": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-03": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-04": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-05": {"total":1541.52, "Community, Health & Social Care":1541.52}
 		}
 	},
 	"4206": {
-		"name": "HT Forrest",
-		"total": 226748.28,
+		"name": "Greenlands Residential Home Ltd",
+		"total": 49670.54,
 		"monthly": {
-			"2013-08": {"total":226748.28, "Sustainable Regeneration":226748.28}
+			"2014-06": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-07": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-08": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-09": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-10": {"total":1493.52, "Community, Health & Social Care":1493.52},
+			"2014-11": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2014-12": {"total":3083.04, "Community, Health & Social Care":3083.04},
+			"2015-01": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-02": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-03": {"total":2335.50, "Community, Health & Social Care":2335.50},
+			"2015-04": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-05": {"total":4347.52, "Community, Health & Social Care":4347.52},
+			"2015-06": {"total":1691.52, "Community, Health & Social Care":1691.52},
+			"2015-07": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-08": {"total":5889.04, "Community, Health & Social Care":5889.04},
+			"2015-09": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-10": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-11": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2015-12": {"total":3083.04, "Community, Health & Social Care":3083.04},
+			"2016-01": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2016-02": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2016-03": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2016-04": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2016-05": {"total":1541.52, "Community, Health & Social Care":1541.52},
+			"2016-06": {"total":1541.52, "Community, Health & Social Care":1541.52}
 		}
 	},
 	"4207": {
-		"name": "HT Forrest Ltd",
-		"total": 62945.06,
+		"name": "Greenlight Motors",
+		"total": 10000,
 		"monthly": {
-			"2015-05": {"total":62945.06, "Capital Expenditure":62945.06}
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4208": {
-		"name": "Habonim Nursery",
-		"total": 596906.57,
+		"name": "Greenrow Ltd",
+		"alternate-names": [
+			"Greenrow Limited"
+		],
+		"total": 10000,
 		"monthly": {
-			"2011-09": {"total":7783.65, "Childrens Services":7783.65},
-			"2011-10": {"total":7783.65, "Childrens Services":7783.65},
-			"2012-01": {"total":8736.75, "Childrens Services":8736.75},
-			"2012-02": {"total":7571.85, "Childrens Services":7571.85},
-			"2012-04": {"total":11360.00, "Childrens Services":11360.00},
-			"2012-05": {"total":13420.60, "Childrens Services":13420.60},
-			"2012-09": {"total":7790.00, "Childrens Services":7790.00},
-			"2012-10": {"total":10001.20, "Childrens Services":10001.20},
-			"2013-01": {"total":8160.00, "Childrens Services":8160.00},
-			"2013-02": {"total":5236.35, "Childrens Services":5236.35},
-			"2013-03": {"total":5552.69, "Childrens Services":5552.69},
-			"2013-04": {"total":12390.00, "Childrens Services":12390.00},
-			"2013-05": {"total":16109.87, "Childrens Services":16109.87},
-			"2013-09": {"total":8900.00, "Childrens Services":8900.00},
-			"2013-10": {"total":6226.30, "Childrens Services":6226.30},
-			"2014-01": {"total":9500.00, "Childrens Services":9500.00},
-			"2014-02": {"total":6346.60, "Childrens Services":6346.60},
-			"2014-04": {"total":13447.40, "Childrens Services":13447.40},
-			"2014-05": {"total":10972.05, "Childrens Services":10972.05},
-			"2014-09": {"total":7100.00, "Childrens Services":7100.00},
-			"2014-11": {"total":3663.90, "Childrens Services":3663.90},
-			"2015-01": {"total":8100.00, "Childrens Services":8100.00},
-			"2015-02": {"total":4884.95, "Childrens Services":4884.95},
-			"2015-04": {"total":11500.00, "Childrens Services":11500.00},
-			"2015-05": {"total":8622.55, "Childrens Services":8622.55},
-			"2015-09": {"total":2597.18, "Childrens Services":2597.18},
-			"2015-10": {"total":6440.85, "Childrens Services":6440.85},
-			"2016-01": {"total":8322.74, "Childrens Services":8322.74},
-			"2016-02": {"total":7570.64, "Childrens Services":7570.64},
-			"2016-05": {"total":14168.71, "Childrens Services":14168.71},
-			"2016-06": {"total":13033.79, "Childrens Services":13033.79},
-			"2016-08": {"total":509.25, "Childrens Services":509.25},
-			"2016-10": {"total":11714.85, "Childrens Services":11714.85},
-			"2016-11": {"total":9314.55, "Childrens Services":9314.55},
-			"2017-01": {"total":8947.26, "Childrens Services":8947.26},
-			"2017-03": {"total":7986.69, "Childrens Services":7986.69},
-			"2017-04": {"total":12409.96, "Childrens Services":12409.96},
-			"2017-05": {"total":11653.04, "Childrens Services":11653.04},
-			"2017-09": {"total":8484.00, "Childrens Services":8484.00},
-			"2017-10": {"total":8144.64, "Childrens Services":8144.64},
-			"2017-11": {"total":1462.50, "Childrens Services":1462.50},
-			"2018-01": {"total":11665.50, "Childrens Services":11665.50},
-			"2018-02": {"total":11665.50, "Childrens Services":11665.50},
-			"2018-04": {"total":8247.72, "Childrens Services":8247.72},
-			"2018-05": {"total":9441.12, "Childrens Services":9441.12},
-			"2018-06": {"total":8844.42, "Childrens Services":8844.42},
-			"2018-07": {"total":8844.42, "People (Childrens) Service Group":8844.42},
-			"2018-09": {"total":14137.20, "People (Childrens) Service Group":14137.20},
-			"2018-10": {"total":7068.60, "People (Childrens) Service Group":7068.60},
-			"2018-11": {"total":7759.73, "People (Childrens) Service Group":7759.73},
-			"2018-12": {"total":7759.72, "People (Childrens) Service Group":7759.72},
-			"2019-01": {"total":9200.40, "People (Childrens) Service Group":9200.40},
-			"2019-02": {"total":9200.40, "People (Childrens) Service Group":9200.40},
-			"2019-03": {"total":19869.60, "People (Childrens) Service Group":19869.60},
-			"2019-04": {"total":9069.84, "People (Childrens) Service Group":9069.84},
-			"2019-05": {"total":9069.84, "People (Childrens) Service Group":9069.84},
-			"2019-06": {"total":9069.84, "People (Childrens) Service Group":9069.84},
-			"2019-07": {"total":18139.68, "People (Childrens) Service Group":18139.68},
-			"2019-09": {"total":2998.80, "People (Childrens) Service Group":2998.80},
-			"2019-10": {"total":1499.40, "People (Childrens) Service Group":1499.40},
-			"2019-11": {"total":1499.40, "People (Childrens) Service Group":1499.40},
-			"2019-12": {"total":2081.40, "People (Childrens) Service Group":2081.40},
-			"2020-01": {"total":5919.10, "People (Childrens) Service Group":5919.10},
-			"2020-02": {"total":11838.20, "People (Childrens) Service Group":11838.20},
-			"2020-03": {"total":7163.87, "People (Childrens) Service Group":7163.87},
-			"2020-04": {"total":6186.38, "People (Childrens) Service Group":6186.38},
-			"2020-05": {"total":6186.38, "People (Childrens) Service Group":6186.38},
-			"2020-06": {"total":6186.38, "People (Childrens) Service Group":6186.38},
-			"2020-07": {"total":12372.72, "People (Childrens) Service Group":12372.72}
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4209": {
-		"name": "Hadasa Wachsstock",
-		"total": 13515.47,
+		"name": "Greenstart Nurseries",
+		"total": 791.47,
 		"monthly": {
-			"2017-12": {"total":800.20, "Childrens Services":800.20},
-			"2018-01": {"total":678.73, "Childrens Services":678.73},
-			"2018-12": {"total":873.00, "People (Childrens) Service Group":873.00},
-			"2019-01": {"total":776.00, "People (Childrens) Service Group":776.00},
-			"2019-02": {"total":776.00, "People (Childrens) Service Group":776.00},
-			"2019-03": {"total":1552.00, "People (Childrens) Service Group":1552.00},
-			"2019-06": {"total":1593.00, "People (Childrens) Service Group":1593.00},
-			"2019-07": {"total":2906.64, "People (Childrens) Service Group":2906.64},
-			"2019-11": {"total":712.95, "People (Childrens) Service Group":712.95},
-			"2019-12": {"total":712.95, "People (Childrens) Service Group":712.95},
-			"2020-01": {"total":533.50, "People (Childrens) Service Group":533.50},
-			"2020-02": {"total":1067.00, "People (Childrens) Service Group":1067.00},
-			"2020-03": {"total":533.50, "People (Childrens) Service Group":533.50}
+			"2013-01": {"total":791.47, "Childrens Services":791.47}
 		}
 	},
 	"4210": {
-		"name": "Haddon Court Rest Home",
-		"total": 96114.5,
+		"name": "Greentree Legal Ltd",
+		"total": 10000,
 		"monthly": {
-			"2011-09": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2011-10": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2011-11": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2011-12": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-01": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-02": {"total":2917.60, "Community Health & Social Care":2917.60},
-			"2012-04": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-05": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-06": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-07": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-08": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-09": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-10": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2012-11": {"total":1176.96, "Community, Health & Social Care":1176.96},
-			"2012-12": {"total":1458.80, "Community, Health & Social Care":1458.80},
-			"2013-01": {"total":2917.60, "Community, Health & Social Care":2917.60},
-			"2013-02": {"total":1458.80, "Community, Health & Social Care":1458.80},
-			"2013-03": {"total":1458.80, "Community Health & Social Care":1458.80},
-			"2013-04": {"total":1458.80, "Community, Health & Social Care":1458.80},
-			"2013-05": {"total":1649.20, "Community, Health & Social Care":1649.20},
-			"2013-06": {"total":1554.00, "Community Health & Social Care":1554.00},
-			"2013-07": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2013-08": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2013-09": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2013-10": {"total":1554.00, "Community Health & Social Care":1554.00},
-			"2013-11": {"total":1554.00, "Community Health & Social Care":1554.00},
-			"2013-12": {"total":3307.68, "Community, Health & Social Care":3307.68},
-			"2014-01": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-02": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-03": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-04": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-05": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-06": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-07": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-08": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-09": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-10": {"total":1554.00, "Community, Health & Social Care":1554.00},
-			"2014-11": {"total":2048.34, "Community, Health & Social Care":2048.34},
-			"2014-12": {"total":3227.84, "Community, Health & Social Care":3227.84},
-			"2015-01": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-02": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-03": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-04": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-05": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-06": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-07": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-08": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-09": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-10": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-11": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2015-12": {"total":3227.84, "Community, Health & Social Care":3227.84},
-			"2016-01": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2016-02": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2016-03": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2016-04": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2016-05": {"total":1613.92, "Community, Health & Social Care":1613.92},
-			"2016-06": {"total":1613.92, "Community, Health & Social Care":1613.92}
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4211": {
-		"name": "Hags - Smp Ltd",
-		"total": 3454.12,
+		"name": "Greenworks Hydro Supplies Ltd",
+		"total": 10000,
 		"monthly": {
-			"2014-07": {"total":2180.40, "Capital Expenditure":2180.40},
-			"2017-01": {"total":1273.72, "Capital Expenditure":1273.72}
+			"2020-09": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4212": {
-		"name": "Hahn Plastics Ltd",
-		"total": 2875.6,
+		"name": "Greenworks Solutions Ltd",
+		"total": 4384.8,
 		"monthly": {
-			"2014-10": {"total":2875.60, "Childrens Services":2875.60}
+			"2011-09": {"total":626.40, "Childrens Services":626.40},
+			"2011-11": {"total":626.40, "Children Services":626.40},
+			"2012-02": {"total":626.40, "Childrens Services":626.40},
+			"2012-04": {"total":626.40, "Childrens Services":626.40},
+			"2012-08": {"total":626.40, "Childrens Services":626.40},
+			"2012-11": {"total":626.40, "Childrens Services":626.40},
+			"2013-02": {"total":626.40, "Childrens Services":626.40}
 		}
 	},
 	"4213": {
-		"name": "Haigh Engineering Co Ltd",
-		"total": 2532,
+		"name": "Gregory Abrams Davidso",
+		"total": 730,
 		"monthly": {
-			"2014-06": {"total":516.00, "Community, Health & Social Care":516.00},
-			"2014-12": {"total":864.00, "Community, Health & Social Care":864.00},
-			"2015-05": {"total":576.00, "Community, Health & Social Care":576.00},
-			"2016-05": {"total":576.00, "Sustainable Regeneration":576.00}
+			"2018-05": {"total":730.00, "Childrens Services":730.00}
 		}
 	},
 	"4214": {
-		"name": "Hair Appeal (Swinton) Ltd",
-		"total": 10000,
+		"name": "Gregory Allen Consulting",
+		"total": 2500,
 		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2012-02": {"total":650.00, "Childrens Services":650.00},
+			"2012-10": {"total":650.00, "Childrens Services":650.00},
+			"2013-02": {"total":650.00, "Childrens Services":650.00},
+			"2013-07": {"total":550.00, "Childrens Services":550.00}
 		}
 	},
 	"4215": {
-		"name": "Hair By Laura Ltd",
-		"total": 10000,
+		"name": "Gresswell",
+		"total": 1172.7,
 		"monthly": {
-			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2011-10": {"total":622.08, "Capital Expenditure":622.08},
+			"2014-03": {"total":550.62, "Capital Expenditure":550.62}
 		}
 	},
 	"4216": {
-		"name": "Hair Razors",
-		"total": 1000,
+		"name": "Greswell Direct",
+		"total": 2431.92,
 		"monthly": {
-			"2012-10": {"total":1000.00, "Childrens Services":1000.00}
+			"2011-10": {"total":1032.00, "Capital Expenditure":1032.00},
+			"2011-12": {"total":511.92, "Capital Expenditure":511.92},
+			"2012-06": {"total":888.00, "Capital Expenditure":888.00}
 		}
 	},
 	"4217": {
-		"name": "Hair Systems Ltd",
-		"alternate-names": [
-			"Hair Systems Limited"
-		],
-		"total": 10000,
+		"name": "Grey Matter Group",
+		"total": 1200,
 		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2014-04": {"total":1200.00, "Community, Health & Social Care":1200.00}
 		}
 	},
 	"4218": {
-		"name": "Hair Today (Walkden) Ltd",
+		"name": "Greys Architecture Ltd",
 		"alternate-names": [
-			"Hair Today (Walkden) Limited"
+			"Greys Architecture Limited"
 		],
-		"total": 10000,
+		"total": 20000,
 		"monthly": {
-			"2020-06": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2020-07": {"total":20000.00, "Service Reform (Corp Bus & Transform)":20000.00}
 		}
 	},
 	"4219": {
-		"name": "Hairco Ltd",
-		"alternate-names": [
-			"Hairco Limited"
-		],
-		"total": 10000,
+		"name": "Grg Storage Ltd",
+		"total": 25000,
 		"monthly": {
-			"2020-08": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2020-09": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
 		}
 	},
 	"4220": {
-		"name": "Hako Machines Ltd",
-		"total": 1475095.68,
+		"name": "Griffin Care Ltd",
+		"total": 56412,
 		"monthly": {
-			"2020-06": {"total":99370.32, "Place Directorate":1152.00, "Service Reform (Corp Bus & Transform)":98218.32},
-			"2020-07": {"total":1375056.48, "Service Reform (Corp Bus & Transform)":1375056.48},
-			"2020-08": {"total":668.88, "Place Directorate":668.88}
+			"2013-01": {"total":1200.00, "Childrens Services":1200.00},
+			"2013-03": {"total":600.00, "Childrens Services":600.00},
+			"2013-04": {"total":600.00, "Childrens Services":600.00},
+			"2013-05": {"total":600.00, "Childrens Services":600.00},
+			"2013-08": {"total":540.00, "Childrens Services":540.00},
+			"2013-11": {"total":540.00, "Childrens Services":540.00},
+			"2013-12": {"total":540.00, "Childrens Services":540.00},
+			"2014-01": {"total":540.00, "Childrens Services":540.00},
+			"2014-02": {"total":600.00, "Childrens Services":600.00},
+			"2014-11": {"total":600.00, "Childrens Services":600.00},
+			"2015-03": {"total":1800.00, "Childrens Services":1800.00},
+			"2015-04": {"total":2400.00, "Childrens Services":2400.00},
+			"2015-06": {"total":600.00, "Childrens Services":600.00},
+			"2015-07": {"total":600.00, "Childrens Services":600.00},
+			"2016-02": {"total":5400.00, "Childrens Services":5400.00},
+			"2016-03": {"total":3000.00, "Childrens Services":3000.00},
+			"2016-07": {"total":3000.00, "Childrens Services":3000.00},
+			"2017-03": {"total":6600.00, "Childrens Services":6600.00},
+			"2017-09": {"total":2160.00, "Childrens Services":2160.00},
+			"2017-11": {"total":2160.00, "Childrens Services":2160.00},
+			"2018-08": {"total":2880.00, "People (Childrens) Service Group":2880.00},
+			"2019-01": {"total":720.00, "People (Childrens) Service Group":720.00},
+			"2019-02": {"total":3960.00, "People (Childrens) Service Group":3960.00},
+			"2019-05": {"total":6300.00, "People (Childrens) Service Group":6300.00},
+			"2019-08": {"total":3600.00, "People (Childrens) Service Group":3600.00},
+			"2020-06": {"total":3360.00, "People (Childrens) Service Group":3360.00},
+			"2020-10": {"total":1512.00, "People (Childrens) Service Group":1512.00}
 		}
 	},
 	"4221": {
-		"name": "Halberstadt Yc Ehcp",
-		"total": 13933.35,
+		"name": "Griffin Estates (North West ) Ltd",
+		"total": 10000,
 		"monthly": {
-			"2019-04": {"total":13933.35, "People (Childrens) Service Group":13933.35}
+			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4222": {
-		"name": "Hale House",
-		"total": 106185.72,
+		"name": "Griffin Social Care Ltd",
+		"total": 4320,
 		"monthly": {
-			"2013-01": {"total":9100.00, "Community, Health & Social Care":9100.00},
-			"2013-02": {"total":5200.00, "Community, Health & Social Care":5200.00},
-			"2013-04": {"total":5485.72, "Community, Health & Social Care":5485.72},
-			"2013-05": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2013-06": {"total":3600.00, "Community Health & Social Care":3600.00},
-			"2013-07": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2013-08": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2013-09": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2013-10": {"total":3600.00, "Community Health & Social Care":3600.00},
-			"2013-11": {"total":3600.00, "Community Health & Social Care":3600.00},
-			"2013-12": {"total":7200.00, "Community, Health & Social Care":7200.00},
-			"2014-01": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-02": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-03": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-04": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-05": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-06": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-07": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-08": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-09": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-10": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-11": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2014-12": {"total":7200.00, "Community, Health & Social Care":7200.00},
-			"2015-01": {"total":3600.00, "Community, Health & Social Care":3600.00},
-			"2015-02": {"total":3600.00, "Community, Health & Social Care":3600.00}
+			"2020-02": {"total":2160.00, "People (Childrens) Service Group":2160.00},
+			"2020-03": {"total":2160.00, "People (Childrens) Service Group":2160.00}
 		}
 	},
 	"4223": {
-		"name": "Half Acre Care Home",
-		"total": 40722.16,
+		"name": "Grindeys Llp",
+		"total": 7000,
 		"monthly": {
-			"2011-12": {"total":3087.12, "Community Health & Social Care":3087.12},
-			"2012-01": {"total":3087.12, "Community Health & Social Care":3087.12},
-			"2012-02": {"total":4961.44, "Community Health & Social Care":4961.44},
-			"2012-04": {"total":3087.12, "Community Health & Social Care":3087.12},
-			"2012-06": {"total":1543.56, "Community Health & Social Care":1543.56},
-			"2012-07": {"total":1543.56, "Community Health & Social Care":1543.56},
-			"2012-08": {"total":1543.56, "Community Health & Social Care":1543.56},
-			"2012-09": {"total":1543.56, "Community Health & Social Care":1543.56},
-			"2012-10": {"total":1543.56, "Community Health & Social Care":1543.56},
-			"2012-11": {"total":1454.16, "Community, Health & Social Care":1454.16},
-			"2012-12": {"total":1543.56, "Community, Health & Social Care":1543.56},
-			"2013-01": {"total":3087.12, "Community, Health & Social Care":3087.12},
-			"2013-02": {"total":1693.56, "Community, Health & Social Care":1693.56},
-			"2013-03": {"total":2321.36, "Community Health & Social Care":2321.36},
-			"2013-04": {"total":1796.36, "Community, Health & Social Care":1796.36},
-			"2013-05": {"total":1946.36, "Community, Health & Social Care":1946.36},
-			"2013-06": {"total":1646.36, "Community Health & Social Care":1646.36},
-			"2013-07": {"total":1646.36, "Community, Health & Social Care":1646.36},
-			"2013-08": {"total":1646.36, "Community, Health & Social Care":1646.36}
+			"2013-03": {"total":7000.00, "Customer and Support Services":7000.00}
 		}
 	},
 	"4224": {
-		"name": "Half Acre Nursing Home",
-		"total": 7552.42,
+		"name": "Grindsmith Media City Ltd",
+		"alternate-names": [
+			"Grindsmith Media City Limited"
+		],
+		"total": 25000,
 		"monthly": {
-			"2011-09": {"total":1433.31, "Community Health & Social Care":1433.31},
-			"2011-10": {"total":3031.99, "Community Health & Social Care":3031.99},
-			"2011-11": {"total":3087.12, "Community Health & Social Care":3087.12}
+			"2020-04": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
 		}
 	},
 	"4225": {
-		"name": "Halifax",
-		"total": 17129.1,
+		"name": "Gristwood And Toms Ltd",
+		"total": 604551.18,
 		"monthly": {
-			"2016-08": {"total":17129.10, "Sustainable Regeneration":17129.10}
+			"2016-09": {"total":14571.60, "Environment and Community Safety":14571.60},
+			"2016-12": {"total":32816.40, "Environment and Community Safety":32816.40},
+			"2017-02": {"total":31810.80, "Environment and Community Safety":31810.80},
+			"2017-04": {"total":67039.98, "Capital Expenditure":3427.50, "Environment and Community Safety":63612.48},
+			"2017-09": {"total":16164.00, "Environment and Community Safety":16164.00},
+			"2017-11": {"total":28450.80, "Environment and Community Safety":28450.80},
+			"2018-02": {"total":34789.20, "Environment and Community Safety":34789.20},
+			"2018-04": {"total":32061.60, "Environment and Community Safety":32061.60},
+			"2018-08": {"total":19550.40, "Place Directorate":19550.40},
+			"2018-11": {"total":35121.60, "Place Directorate":35121.60},
+			"2019-02": {"total":35040.00, "Place Directorate":35040.00},
+			"2019-04": {"total":60350.40, "Place Directorate":60350.40},
+			"2019-08": {"total":39471.60, "Place Directorate":39471.60},
+			"2019-11": {"total":53832.00, "Place Directorate":53832.00},
+			"2020-02": {"total":71292.00, "Place Directorate":71292.00},
+			"2020-03": {"total":2640.00, "Place Directorate":2640.00},
+			"2020-06": {"total":29548.80, "Place Directorate":29548.80}
 		}
 	},
 	"4226": {
-		"name": "Halifax Bank Of Scotland",
-		"total": 500,
+		"name": "Grontmij",
+		"total": 512836.9,
 		"monthly": {
-			"2011-09": {"total":500.00, "Sustainable Regeneration":500.00}
+			"2011-09": {"total":37963.61, "Capital Expenditure":37963.61},
+			"2011-10": {"total":13112.75, "Capital Expenditure":13112.75},
+			"2011-11": {"total":12845.18, "Capital Expenditure":12845.18},
+			"2011-12": {"total":13189.46, "Capital Expenditure":13189.46},
+			"2012-01": {"total":12805.34, "Capital Expenditure":12805.34},
+			"2012-02": {"total":26129.04, "Capital Expenditure":26129.04},
+			"2012-03": {"total":39499.64, "Capital Expenditure":39499.64},
+			"2012-05": {"total":50117.38, "Capital Expenditure":50117.38},
+			"2013-04": {"total":22413.60, "Capital Expenditure":22413.60},
+			"2013-07": {"total":5400.00, "Capital Expenditure":5400.00},
+			"2013-08": {"total":52271.23, "Capital Expenditure":52271.23},
+			"2013-12": {"total":48199.73, "Capital Expenditure":48199.73},
+			"2014-03": {"total":19323.07, "Capital Expenditure":19323.07},
+			"2014-10": {"total":41100.00, "Capital Expenditure":41100.00},
+			"2015-03": {"total":118466.87, "Capital Expenditure":118466.87}
 		}
 	},
 	"4227": {
-		"name": "Hall  Fire Protection Ltd",
-		"total": 5132.4,
+		"name": "Grosvenor",
+		"total": 680.16,
 		"monthly": {
-			"2012-01": {"total":1790.40, "Sustainable Regeneration":1790.40},
-			"2013-09": {"total":3342.00, "Capital Expenditure":3342.00}
+			"2011-09": {"total":680.16, "Chief Executives":680.16}
 		}
 	},
 	"4228": {
-		"name": "Hall & Kay Fire Engineering",
-		"total": 3425.81,
+		"name": "Grosvenor Road Primary School",
+		"total": 10512.96,
 		"monthly": {
-			"2012-02": {"total":552.00, "Sustainable Regeneration":552.00},
-			"2012-03": {"total":1148.56, "Sustainable Regeneration":1148.56},
-			"2013-02": {"total":552.00, "Sustainable Regeneration":552.00},
-			"2018-02": {"total":1173.25, "Sustainable Regeneration":1173.25}
+			"2016-08": {"total":990.00, "Childrens Services":990.00},
+			"2017-01": {"total":1084.02, "Environment and Community Safety":1084.02},
+			"2017-08": {"total":531.72, "Environment and Community Safety":531.72},
+			"2017-10": {"total":890.00, "Environment and Community Safety":890.00},
+			"2018-01": {"total":601.16, "Environment and Community Safety":601.16},
+			"2018-03": {"total":529.62, "Environment and Community Safety":529.62},
+			"2018-04": {"total":509.46, "Environment and Community Safety":509.46},
+			"2018-08": {"total":601.16, "Place Directorate":601.16},
+			"2018-11": {"total":543.34, "Place Directorate":543.34},
+			"2019-01": {"total":675.50, "Place Directorate":675.50},
+			"2019-02": {"total":521.78, "Place Directorate":521.78},
+			"2019-08": {"total":1096.34, "Place Directorate":1096.34},
+			"2020-01": {"total":1117.06, "Place Directorate":1117.06},
+			"2020-03": {"total":821.80, "Place Directorate":821.80}
 		}
 	},
 	"4229": {
-		"name": "Hallens Ltd",
+		"name": "Ground Control Ltd",
+		"total": 29389.86,
+		"monthly": {
+			"2016-05": {"total":28248.16, "Capital Expenditure":28248.16},
+			"2016-08": {"total":1141.70, "Capital Expenditure":1141.70}
+		}
+	},
+	"4230": {
+		"name": "Groundwork Landscapes Ltd",
+		"total": 3366541.42,
+		"monthly": {
+			"2012-04": {"total":4406.40, "Environment and Community Safety":4406.40},
+			"2013-12": {"total":146234.69, "Capital Expenditure":146234.69},
+			"2014-03": {"total":85738.74, "Capital Expenditure":85738.74},
+			"2014-06": {"total":108311.98, "Capital Expenditure":108311.98},
+			"2014-07": {"total":28218.00, "Capital Expenditure":28218.00},
+			"2014-11": {"total":47168.82, "Capital Expenditure":47168.82},
+			"2014-12": {"total":21727.13, "Capital Expenditure":21727.13},
+			"2015-02": {"total":45243.60, "Capital Expenditure":45243.60},
+			"2015-03": {"total":45799.14, "Capital Expenditure":45799.14},
+			"2015-06": {"total":4841.72, "Capital Expenditure":4841.72},
+			"2015-07": {"total":24540.00, "Capital Expenditure":24540.00},
+			"2015-08": {"total":129565.85, "Capital Expenditure":129565.85},
+			"2015-09": {"total":39381.50, "Capital Expenditure":39381.50},
+			"2015-10": {"total":39408.00, "Capital Expenditure":39408.00},
+			"2015-12": {"total":3166.98, "Capital Expenditure":3166.98},
+			"2016-01": {"total":3288.00, "Capital Expenditure":3288.00},
+			"2016-02": {"total":53602.45, "Capital Expenditure":53602.45},
+			"2016-03": {"total":211556.33, "Capital Expenditure":211556.33},
+			"2016-04": {"total":55843.86, "Capital Expenditure":55843.86},
+			"2016-05": {"total":209367.94, "Capital Expenditure":209367.94},
+			"2016-06": {"total":130261.94, "Capital Expenditure":130261.94},
+			"2016-08": {"total":133898.58, "Capital Expenditure":133898.58},
+			"2016-10": {"total":3192.60, "Capital Expenditure":3192.60},
+			"2016-11": {"total":47238.48, "Capital Expenditure":47238.48},
+			"2016-12": {"total":10656.31, "Capital Expenditure":10656.31},
+			"2017-02": {"total":19154.99, "Capital Expenditure":19154.99},
+			"2017-04": {"total":8346.00, "Capital Expenditure":8346.00},
+			"2017-05": {"total":5318.93, "Capital Expenditure":5318.93},
+			"2017-06": {"total":7330.20, "Capital Expenditure":7330.20},
+			"2017-08": {"total":39633.99, "Capital Expenditure":39633.99},
+			"2017-09": {"total":74463.66, "Capital Expenditure":74463.66},
+			"2017-10": {"total":1020.00, "Capital Expenditure":1020.00},
+			"2017-11": {"total":43449.58, "Capital Expenditure":43449.58},
+			"2017-12": {"total":57609.05, "Capital Expenditure":57609.05},
+			"2018-01": {"total":2126.00, "Capital Expenditure":2126.00},
+			"2018-02": {"total":7694.40, "Capital Expenditure":7694.40},
+			"2018-03": {"total":73366.85, "Capital Expenditure":73366.85},
+			"2018-04": {"total":115652.77, "Capital Expenditure":115652.77},
+			"2018-05": {"total":2450.40, "Capital Expenditure":2450.40},
+			"2018-06": {"total":1908.00, "Capital Expenditure":1908.00},
+			"2018-07": {"total":3451.50, "Capital Expenditure":3451.50},
+			"2018-10": {"total":80132.82, "Capital Works":74006.82, "Place Directorate":6126.00},
+			"2018-12": {"total":138969.97, "Capital Expenditure":138969.97},
+			"2019-03": {"total":21885.50, "Capital Expenditure":21885.50},
+			"2019-04": {"total":5547.00, "Capital Expenditure":5547.00},
+			"2019-05": {"total":92847.50, "Capital Expenditure":92847.50},
+			"2019-07": {"total":18119.24, "Capital Expenditure":18119.24},
+			"2019-08": {"total":1062.00, "Capital Expenditure":1062.00},
+			"2019-09": {"total":308632.48, "Capital Expenditure":308632.48},
+			"2019-11": {"total":98020.92, "Capital expenditure":98020.92},
+			"2019-12": {"total":107186.73, "Capital expenditure":107186.73},
+			"2020-03": {"total":2242.94, "Capital Expenditure":2242.94},
+			"2020-04": {"total":137349.44, "Capital Expenditure":137349.44},
+			"2020-07": {"total":103282.96, "Place Directorate":1176.00, "Service Reform (Corp Bus & Transform)":102106.96},
+			"2020-09": {"total":102007.21, "Service Reform (Corp Bus & Transform)":102007.21},
+			"2020-10": {"total":53619.35, "Service Reform (Corp Bus & Transform)":53619.35}
+		}
+	},
+	"4231": {
+		"name": "Groundwork Msstt",
+		"total": 76545.06,
+		"monthly": {
+			"2012-11": {"total":38428.56, "Customer and Support Services":8428.56, "Sustainable Regeneration":30000.00},
+			"2012-12": {"total":3334.50, "Capital Expenditure":3334.50},
+			"2013-03": {"total":3594.00, "Chief Executives":3594.00},
+			"2013-08": {"total":3594.00, "Office of the Chief Executive":3594.00},
+			"2016-05": {"total":1584.00, "Childrens Services":1584.00},
+			"2017-09": {"total":23886.00, "Childrens Services":23886.00},
+			"2019-03": {"total":2124.00, "Capital Expenditure":2124.00}
+		}
+	},
+	"4232": {
+		"name": "Grove Estates",
+		"total": 2000,
+		"monthly": {
+			"2020-07": {"total":2000.00, "Service Reform (Corp Bus & Transform)":2000.00}
+		}
+	},
+	"4233": {
+		"name": "Grove Park",
+		"total": 154334.75,
+		"monthly": {
+			"2011-10": {"total":5985.52, "Community Health & Social Care":5985.52},
+			"2011-11": {"total":5985.52, "Community Health & Social Care":5985.52},
+			"2011-12": {"total":5985.52, "Community Health & Social Care":5985.52},
+			"2012-01": {"total":6154.12, "Community Health & Social Care":6154.12},
+			"2012-02": {"total":12659.99, "Community Health & Social Care":12659.99},
+			"2012-04": {"total":6285.52, "Community Health & Social Care":6285.52},
+			"2012-05": {"total":6285.52, "Community Health & Social Care":6285.52},
+			"2012-06": {"total":5985.52, "Community Health & Social Care":5985.52},
+			"2012-07": {"total":6113.09, "Community Health & Social Care":6113.09},
+			"2012-08": {"total":6263.62, "Community Health & Social Care":6263.62},
+			"2012-09": {"total":6184.72, "Community Health & Social Care":6184.72},
+			"2012-10": {"total":6484.72, "Community Health & Social Care":6484.72},
+			"2012-11": {"total":1314.36, "Community, Health & Social Care":1314.36},
+			"2013-01": {"total":12969.44, "Community, Health & Social Care":12969.44},
+			"2013-02": {"total":6484.72, "Community, Health & Social Care":6484.72},
+			"2013-03": {"total":6484.72, "Community Health & Social Care":6484.72},
+			"2013-04": {"total":6490.97, "Community, Health & Social Care":6490.97},
+			"2013-05": {"total":19814.99, "Community, Health & Social Care":19814.99},
+			"2013-06": {"total":6489.72, "Community Health & Social Care":6489.72},
+			"2013-07": {"total":13912.45, "Community, Health & Social Care":13912.45}
+		}
+	},
+	"4234": {
+		"name": "Growth Through Action",
+		"total": 4000,
+		"monthly": {
+			"2012-05": {"total":2500.00, "Customer and Support Services":2500.00},
+			"2013-02": {"total":1500.00, "Capital Expenditure":1500.00}
+		}
+	},
+	"4235": {
+		"name": "Gruber Garratt Solicitors",
+		"total": 62891.39,
+		"monthly": {
+			"2011-09": {"total":62891.39, "Sustainable Regeneration":62891.39}
+		}
+	},
+	"4236": {
+		"name": "Gruber Garratt Sols",
+		"total": 45935,
+		"monthly": {
+			"2012-03": {"total":19650.00, "Sustainable Regeneration":19650.00},
+			"2012-04": {"total":5750.00, "Sustainable Regeneration":5750.00},
+			"2012-06": {"total":20535.00, "Sustainable Regeneration":20535.00}
+		}
+	},
+	"4237": {
+		"name": "Grumpy Salford",
+		"total": 12983.49,
+		"monthly": {
+			"2012-08": {"total":2880.00, "Childrens Services":2880.00},
+			"2012-10": {"total":1224.00, "Childrens Services":1224.00},
+			"2013-03": {"total":4800.00, "Childrens Services":4800.00},
+			"2013-10": {"total":540.00, "Office of the Chief Executive":540.00},
+			"2014-07": {"total":1032.00, "Office of the Chief Executive":1032.00},
+			"2015-10": {"total":2507.49, "Childrens Services":2507.49}
+		}
+	},
+	"4238": {
+		"name": "Grunfeld Furniture Ltd",
+		"alternate-names": [
+			"Grunfeld Furniture Limited"
+		],
 		"total": 10000,
 		"monthly": {
 			"2020-08": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"4230": {
-		"name": "Halliday James Ltd",
-		"total": 4891.2,
-		"monthly": {
-			"2014-06": {"total":640.80, "Capital Expenditure":640.80},
-			"2015-06": {"total":769.20, "Sustainable Regeneration":769.20},
-			"2015-07": {"total":649.20, "Capital Expenditure":649.20},
-			"2016-06": {"total":708.00, "Capital Expenditure":708.00},
-			"2018-10": {"total":2124.00, "Capital Works":2124.00}
-		}
-	},
-	"4231": {
-		"name": "Halliwell Homes Ltd",
-		"total": 386027.86,
-		"monthly": {
-			"2018-07": {"total":36812.86, "People (Childrens) Service Group":36812.86},
-			"2018-08": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2018-09": {"total":29960.00, "People (Childrens) Service Group":29960.00},
-			"2018-10": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2018-11": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2018-12": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-01": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-02": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-03": {"total":29960.00, "People (Childrens) Service Group":29960.00},
-			"2019-04": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-05": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-06": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-07": {"total":59920.00, "People (Childrens) Service Group":59920.00},
-			"2019-08": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-09": {"total":29960.00, "People (Childrens) Service Group":29960.00},
-			"2019-10": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-11": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2019-12": {"total":14980.00, "People (Childrens) Service Group":14980.00},
-			"2020-01": {"total":2675.00, "People (Childrens) Service Group":2675.00},
-			"2020-02": {"total":2000.00, "People (Childrens) Service Group":2000.00}
-		}
-	},
-	"4232": {
-		"name": "Hallmark Lettings & Property",
-		"total": 595,
-		"monthly": {
-			"2011-10": {"total":595.00, "Sustainable Regeneration":595.00}
-		}
-	},
-	"4233": {
-		"name": "Hallmark Real Estate Grp Ltd",
-		"total": 10000,
-		"monthly": {
-			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"4234": {
-		"name": "Halperns Deli Ltd",
-		"alternate-names": [
-			"Halperns Deli Limited"
-		],
-		"total": 10000,
-		"monthly": {
-			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"4235": {
-		"name": "Halton Borough Council",
-		"total": 31714.06,
-		"monthly": {
-			"2011-10": {"total":3490.82, "Childrens Services":3490.82},
-			"2012-03": {"total":5021.00, "Capital Expenditure":2500.00, "Childrens Services":2521.00},
-			"2012-04": {"total":7824.24, "Childrens Services":7824.24},
-			"2012-10": {"total":3551.00, "Childrens Services":3551.00},
-			"2015-01": {"total":650.00, "Childrens Services":650.00},
-			"2015-02": {"total":650.00, "Childrens Services":650.00},
-			"2016-02": {"total":1105.00, "Childrens Services":1105.00},
-			"2016-05": {"total":680.00, "Childrens Services":680.00},
-			"2017-02": {"total":1125.00, "Childrens Services":1125.00},
-			"2018-02": {"total":1105.00, "Childrens Services":1105.00},
-			"2020-07": {"total":6512.00, "People (Childrens) Service Group":6512.00}
-		}
-	},
-	"4236": {
-		"name": "Halton Container Services Ltd",
-		"total": 115734.48,
-		"monthly": {
-			"2016-03": {"total":2964.00, "Capital Expenditure":2964.00},
-			"2016-04": {"total":2325.60, "Environment and Community Safety":2325.60},
-			"2016-06": {"total":3292.80, "Environment and Community Safety":3292.80},
-			"2016-07": {"total":900.00, "Environment and Community Health":900.00},
-			"2016-09": {"total":4673.16, "Environment and Community Safety":4673.16},
-			"2016-10": {"total":1036.80, "Environment and Community Safety":1036.80},
-			"2016-11": {"total":975.60, "Environment and Community Safety":975.60},
-			"2016-12": {"total":6988.92, "Environment and Community Safety":6988.92},
-			"2017-03": {"total":2587.20, "Environment and Community Safety":2587.20},
-			"2017-04": {"total":2380.80, "Environment and Community Safety":2380.80},
-			"2017-06": {"total":604.80, "Environment and Community Safety":604.80},
-			"2017-07": {"total":5452.80, "Environment and Community Safety":5452.80},
-			"2017-10": {"total":4704.00, "Environment and Community Safety":4704.00},
-			"2017-12": {"total":3196.80, "Environment and Community Safety":3196.80},
-			"2018-02": {"total":3177.60, "Environment and Community Safety":3177.60},
-			"2018-06": {"total":4113.60, "Environment and Community Safety":4113.60},
-			"2018-09": {"total":11160.00, "Place Directorate":11160.00},
-			"2019-01": {"total":9926.40, "Place Directorate":9926.40},
-			"2019-04": {"total":15734.40, "Capital Expenditure":15734.40},
-			"2020-03": {"total":15916.80, "Place Directorate":15916.80},
-			"2020-08": {"total":13622.40, "Place Directorate":13622.40}
-		}
-	},
-	"4237": {
-		"name": "Halycon Signs Ltd",
-		"total": 1078.8,
-		"monthly": {
-			"2011-09": {"total":1078.80, "Capital Expenditure":1078.80}
-		}
-	},
-	"4238": {
-		"name": "Hamer Inc Ltd",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
 	"4239": {
-		"name": "Hamilton Davies Trust",
-		"total": 37500,
+		"name": "Grunsfeld Fine Foods Ltd",
+		"total": 10000,
 		"monthly": {
-			"2015-04": {"total":37500.00, "Capital Expenditure":37500.00}
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
 	"4240": {
-		"name": "Hammer Action Group",
-		"total": 8334.37,
+		"name": "Gs Systems",
+		"total": 85625.96,
 		"monthly": {
-			"2011-08": {"total":8334.37, "Customer and Support Services":8334.37}
+			"2011-08": {"total":1240.80, "Community Health & Social Care":1240.80},
+			"2011-11": {"total":957.60, "Chief Executives":957.60},
+			"2011-12": {"total":8463.60, "Customer and Support Services":8463.60},
+			"2012-02": {"total":2430.00, "Community Health & Social Care":2430.00},
+			"2012-03": {"total":3796.80, "Customer and Support Services":3796.80},
+			"2012-07": {"total":1240.80, "Community Health & Social Care":1240.80},
+			"2012-08": {"total":1392.00, "Community Health & Social Care":1392.00},
+			"2012-09": {"total":540.00, "Community Health & Social Care":540.00},
+			"2012-11": {"total":6183.60, "Customer and Support Services":6183.60},
+			"2012-12": {"total":1038.00, "Customer and Support Services":1038.00},
+			"2013-07": {"total":1924.80, "Customer and Support Services":1924.80},
+			"2013-11": {"total":6183.60, "Customer and Support Services":6183.60},
+			"2014-03": {"total":1038.00, "Customer and Support Services":1038.00},
+			"2014-05": {"total":2927.39, "Customer and Support Services":2927.39},
+			"2014-10": {"total":957.60, "Customer and Support Services":957.60},
+			"2014-11": {"total":5226.00, "Customer and Support Services":5226.00},
+			"2015-03": {"total":1476.00, "Customer and Support Services":1476.00},
+			"2016-01": {"total":6609.60, "Corporate Business":6609.60},
+			"2016-02": {"total":957.60, "Corporate Business":957.60},
+			"2016-12": {"total":6493.20, "Corporate Business":6493.20},
+			"2017-10": {"total":5528.40, "Service Reform":5528.40},
+			"2018-02": {"total":10923.27, "Capital Expenditure":10923.27},
+			"2018-03": {"total":3320.10, "Environment and Community Safety":3320.10},
+			"2018-11": {"total":4777.20, "Place Directorate":830.40, "Service Reform (Corp Bus & Transform)":3946.80}
 		}
 	},
 	"4241": {
-		"name": "Hammicks Subscription Service",
-		"total": 545.78,
+		"name": "Gss (Ni) Ltd",
+		"total": 40729.2,
 		"monthly": {
-			"2012-04": {"total":545.78, "Customer and Support Services":545.78}
+			"2020-08": {"total":25969.20, "Place Directorate":25969.20},
+			"2020-09": {"total":14760.00, "Place Directorate":14760.00}
 		}
 	},
 	"4242": {
-		"name": "Hammond Trotter Solicitors Ltd",
-		"total": 10000,
+		"name": "Gtm Electrical Services Ltd",
+		"total": 141909.6,
 		"monthly": {
-			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2018-08": {"total":60772.38, "Capital Expenditure":60772.38},
+			"2018-10": {"total":77589.48, "Capital Works":77589.48},
+			"2020-01": {"total":3547.74, "Capital Expenditure":3547.74}
 		}
 	},
 	"4243": {
-		"name": "Hampshire County Council",
-		"total": 129000,
+		"name": "Gtr Manchester Chamber Of Commerce",
+		"total": 5226,
 		"monthly": {
-			"2017-11": {"total":37000.00, "Childrens Services":37000.00},
-			"2018-01": {"total":61000.00, "Childrens Services":61000.00},
-			"2018-03": {"total":31000.00, "Childrens Services":31000.00}
+			"2015-02": {"total":1272.00, "Sustainable Regeneration":1272.00},
+			"2015-12": {"total":1800.00, "Childrens Services":1800.00},
+			"2016-03": {"total":720.00, "Childrens Services":720.00},
+			"2016-09": {"total":1434.00, "Chief Executives":1434.00}
 		}
 	},
 	"4244": {
-		"name": "Hampson Hughes Solicitors",
-		"total": 27000,
+		"name": "Guardian Homecare",
+		"total": 19160.46,
 		"monthly": {
-			"2013-06": {"total":9000.00, "Customer and Support Services":9000.00},
-			"2013-08": {"total":8400.00, "Customer and Support Services":8400.00},
-			"2014-07": {"total":4600.00, "Customer and Support Services":4600.00},
-			"2014-10": {"total":5000.00, "Customer and Support Services":5000.00}
+			"2012-06": {"total":4012.84, "Community Health & Social Care":4012.84},
+			"2012-07": {"total":4985.52, "Childrens Services":4985.52},
+			"2012-08": {"total":3779.04, "Community Health & Social Care":3779.04},
+			"2012-09": {"total":3755.06, "Community Health & Social Care":3755.06},
+			"2012-11": {"total":2628.00, "Community, Health & Social Care":2628.00}
 		}
 	},
 	"4245": {
-		"name": "Hand On Heart",
-		"total": 6660,
+		"name": "Guardian News & Media",
+		"total": 1020,
 		"monthly": {
-			"2016-04": {"total":6660.00, "Childrens Services":6660.00}
+			"2019-02": {"total":1020.00, "Place Directorate":1020.00}
 		}
 	},
 	"4246": {
-		"name": "Hand On Heart Charity",
-		"total": 15728.23,
+		"name": "Guardian News And Media Ltd",
+		"total": 1080,
 		"monthly": {
-			"2014-03": {"total":12228.23, "Customer and Support Services":12228.23},
-			"2014-08": {"total":3500.00, "Customer and Support Services":3500.00}
+			"2014-09": {"total":1080.00, "Childrens Services":1080.00}
 		}
 	},
 	"4247": {
-		"name": "Handicare",
-		"total": 597019.36,
+		"name": "Guardian Selection Ltd",
+		"alternate-names": [
+			"Guardian Selection Limited"
+		],
+		"total": 8648.18,
 		"monthly": {
-			"2013-09": {"total":3698.66, "Capital Expenditure":2659.83, "Sustainable Regeneration":1038.83},
-			"2013-10": {"total":1546.00, "Capital Expenditure":1546.00},
-			"2013-11": {"total":1746.11, "Capital Expenditure":1746.11},
-			"2013-12": {"total":9402.66, "Capital Expenditure":9402.66},
-			"2014-01": {"total":4171.20, "Capital Expenditure":4171.20},
-			"2014-03": {"total":7751.54, "Capital Expenditure":6573.67, "Sustainable Regeneration":1177.87},
-			"2014-05": {"total":3721.00, "Capital Expenditure":3721.00},
-			"2014-06": {"total":25499.28, "Capital Expenditure":23520.80, "Sustainable Regeneration":1978.48},
-			"2014-07": {"total":2034.90, "Capital Expenditure":2034.90},
-			"2014-08": {"total":1706.00, "Capital Expenditure":1706.00},
-			"2014-09": {"total":12639.25, "Capital Expenditure":12639.25},
-			"2014-10": {"total":12629.88, "Capital Expenditure":10670.54, "Sustainable Regeneration":1959.34},
-			"2014-11": {"total":23627.90, "Capital Expenditure":20721.35, "Sustainable Regeneration":2906.55},
-			"2014-12": {"total":8376.00, "Capital Expenditure":8376.00},
-			"2015-01": {"total":4680.00, "Capital Expenditure":4680.00},
-			"2015-03": {"total":24926.30, "Capital Expenditure":23716.42, "Sustainable Regeneration":1209.88},
-			"2015-04": {"total":2081.64, "Capital Expenditure":2081.64},
-			"2015-06": {"total":3891.28, "Capital Expenditure":2746.14, "Sustainable Regeneration":1145.14},
-			"2015-09": {"total":9525.68, "Capital Expenditure":8498.84, "Sustainable Regeneration":1026.84},
-			"2015-10": {"total":5012.48, "Capital Expenditure":4464.24, "Sustainable Regeneration":548.24},
-			"2015-11": {"total":3781.00, "Capital Expenditure":3781.00},
-			"2015-12": {"total":3495.24, "Capital Expenditure":3495.24},
-			"2016-06": {"total":4680.24, "Capital Expenditure":4680.24},
-			"2016-09": {"total":3146.40, "Capital Expenditure":3146.40},
-			"2016-10": {"total":5324.94, "Capital Expenditure":5324.94},
-			"2016-11": {"total":5642.44, "Capital Expenditure":5642.44},
-			"2017-11": {"total":2240.10, "Capital Expenditure":2240.10},
-			"2018-11": {"total":2410.80, "Capital Expenditure":2410.80},
-			"2018-12": {"total":9344.00, "Capital Expenditure":9344.00},
-			"2019-01": {"total":10467.00, "Capital expenditure":10467.00},
-			"2019-02": {"total":15368.40, "Capital Expenditure":15368.40},
-			"2019-03": {"total":11635.20, "Capital Expenditure":11635.20},
-			"2019-04": {"total":5210.40, "Capital Expenditure":5210.40},
-			"2019-05": {"total":10881.00, "Capital Expenditure":10881.00},
-			"2019-06": {"total":24860.40, "Capital Expenditure":24860.40},
-			"2019-07": {"total":94188.04, "Capital Expenditure":94188.04},
-			"2019-08": {"total":16501.20, "Capital Expenditure":16501.20},
-			"2019-09": {"total":22079.60, "Capital Expenditure":22079.60},
-			"2019-10": {"total":5728.80, "Capital Expenditure":5728.80},
-			"2019-11": {"total":29920.80, "Capital expenditure":29920.80},
-			"2019-12": {"total":6482.40, "Capital expenditure":6482.40},
-			"2020-01": {"total":6661.20, "Capital Expenditure":6661.20},
-			"2020-02": {"total":62580.80, "Capital Expenditure":62580.80},
-			"2020-03": {"total":21438.00, "Capital Expenditure":21438.00},
-			"2020-05": {"total":9700.00, "Capital Expenditure":9700.00},
-			"2020-07": {"total":34583.20, "Service Reform (Corp Bus & Transform)":34583.20}
+			"2018-01": {"total":3805.68, "Childrens Services":3805.68},
+			"2018-04": {"total":2444.30, "Childrens Services":2444.30},
+			"2018-05": {"total":691.20, "Childrens Services":691.20},
+			"2018-07": {"total":1080.00, "People (Childrens) Service Group":1080.00},
+			"2018-08": {"total":627.00, "People (Childrens) Service Group":627.00}
 		}
 	},
 	"4248": {
-		"name": "Handley Law Ltd",
-		"total": 5760.12,
+		"name": "Guesthouse Manchester",
+		"total": 4130,
 		"monthly": {
-			"2016-11": {"total":5760.12, "Corporate Business":5760.12}
+			"2020-01": {"total":2800.00, "People (Childrens) Service Group":2800.00},
+			"2020-03": {"total":1330.00, "People (Childrens) Service Group":1330.00}
 		}
 	},
 	"4249": {
-		"name": "Handm Motors ( Wigan ) Ltd",
-		"total": 10000,
+		"name": "Guild Hall Over 60'S",
+		"total": 2804,
 		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+			"2013-09": {"total":1078.00, "Customer and Support Services":1078.00},
+			"2015-07": {"total":576.00, "Community, Health & Social Care":576.00},
+			"2015-12": {"total":552.00, "Corporate Business":552.00},
+			"2016-04": {"total":598.00, "Corporate Business":598.00}
 		}
 	}
 	}

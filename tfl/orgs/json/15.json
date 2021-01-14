@@ -1,28 +1,295 @@
 {
-	"range": ["2013-04","2020-10"],
+	"range": ["2013-04","2020-12"],
 	"data": {
 	"750": {
+		"name": "AERMEC UK LTD",
+		"total": 14533.92,
+		"monthly": {
+			"2014-07": {"total":4947.92, "LONDON UNDERGROUND LTD":4947.92},
+			"2014-09": {"total":585.00, "LONDON UNDERGROUND LTD":585.00},
+			"2014-10": {"total":4283.00, "LONDON UNDERGROUND LTD":4283.00},
+			"2015-01": {"total":4718.00, "LONDON UNDERGROUND LTD":4718.00}
+		}
+	},
+	"751": {
+		"name": "AERO HEALTHCARE",
+		"total": 153026.52,
+		"monthly": {
+			"2016-07": {"total":376.52, "LONDON UNDERGROUND LTD":376.52},
+			"2017-04": {"total":152650.00, "LONDON UNDERGROUND LTD":152650.00}
+		}
+	},
+	"752": {
+		"name": "AERO MINICABS LTD",
+		"total": 840,
+		"monthly": {
+			"2016-11": {"total":840.00, "RAIL FOR LONDON LIMITED":840.00}
+		}
+	},
+	"753": {
+		"name": "AEROFLEX INTERNATIONAL LTD",
+		"alternate-names": [
+			"AEROFLEX INTERNATIONAL LIMITED"
+		],
+		"total": 1114.38,
+		"monthly": {
+			"2013-04": {"total":810.45, "Maintenance of Plant & Equipment":810.45},
+			"2013-08": {"total":303.93, "Computer Consumables":303.93}
+		}
+	},
+	"754": {
+		"name": "AEROFLEX SERVICES LTD",
+		"total": 303.93,
+		"monthly": {
+			"2013-11": {"total":303.93, "Computer Consumables":303.93}
+		}
+	},
+	"755": {
+		"name": "AERONAUTICAL TRADING LTD",
+		"alternate-names": [
+			"AERONAUTICAL TRADING LIMITED"
+		],
+		"total": 8485,
+		"monthly": {
+			"2019-12": {"total":6770.00, "LT MUSEUM TRADING LTD":6770.00},
+			"2020-01": {"total":1715.00, "LT MUSEUM TRADING LTD":1715.00}
+		}
+	},
+	"756": {
+		"name": "AEROPORTTAXI  LIMOUSIN",
+		"total": 247.03,
+		"monthly": {
+			"2015-08": {"total":247.03, "LONDON UNDERGROUND LTD":247.03}
+		}
+	},
+	"757": {
+		"name": "AEROTECH ABRASIVES GROUP LTD",
+		"total": 22590.1,
+		"monthly": {
+			"2015-04": {"total":10613.05, "TUBELINES LTD":10613.05},
+			"2015-05": {"total":11549.90, "TUBELINES LTD":11549.90},
+			"2015-09": {"total":427.15, "TUBELINES LTD":427.15}
+		}
+	},
+	"758": {
+		"name": "AES SECURITY SYSTEMS",
+		"total": 267.04,
+		"monthly": {
+			"2015-04": {"total":267.04, "RAIL FOR LONDON LIMITED":267.04}
+		}
+	},
+	"759": {
+		"name": "AESSEAL PLC",
+		"total": 6176.85,
+		"monthly": {
+			"2013-04": {"total":2797.52, "Lift Maintenance":2797.52},
+			"2013-05": {"total":1674.42, "Lift Maintenance":1674.42},
+			"2014-03": {"total":867.77, "Building Maintenance & Repairs":867.77},
+			"2014-10": {"total":837.14, "LUL NOMINEE BCV LIMITED":837.14}
+		}
+	},
+	"760": {
+		"name": "AETHER",
+		"total": 39762,
+		"monthly": {
+			"2018-06": {"total":4762.00, "TFL CORPORATE":4762.00},
+			"2018-11": {"total":18424.30, "TFL CORPORATE":18424.30},
+			"2019-01": {"total":11423.00, "TFL CORPORATE":11423.00},
+			"2019-03": {"total":5152.70, "TFL CORPORATE":5152.70}
+		}
+	},
+	"761": {
+		"name": "AETHER LTD",
+		"total": 141977.15,
+		"monthly": {
+			"2015-08": {"total":29519.38, "TFL CORPORATE":29519.38},
+			"2015-11": {"total":47979.07, "TFL CORPORATE":47979.07},
+			"2015-12": {"total":10000.00, "TFL CORPORATE":10000.00},
+			"2016-03": {"total":9790.70, "TFL CORPORATE":9790.70},
+			"2017-11": {"total":6860.00, "TFL CORPORATE":6860.00},
+			"2018-02": {"total":24189.00, "TFL CORPORATE":24189.00},
+			"2018-04": {"total":13639.00, "TFL CORPORATE":13639.00}
+		}
+	},
+	"762": {
+		"name": "AFC ANODISING AND FINISHING LTD",
+		"total": 2605,
+		"monthly": {
+			"2018-10": {"total":2605.00, "LUL NOMINEE SSL LIMITED":2605.00}
+		}
+	},
+	"763": {
+		"name": "AFCAE",
+		"total": 8500,
+		"monthly": {
+			"2013-06": {"total":5000.00, "Signalling Systems":5000.00},
+			"2013-07": {"total":3500.00, "Management & Support Consultancy":3500.00}
+		}
+	},
+	"764": {
+		"name": "AFFINITY FOR BUSINESS",
+		"total": 238392.68,
+		"monthly": {
+			"2018-03": {"total":3242.81, "LONDON UNDERGROUND LTD":3242.81},
+			"2018-04": {"total":9756.01, "LONDON BUS SERVICES LTD":928.83, "LONDON UNDERGROUND LTD":8131.99, "TRANSPORT TRADING LTD":695.19},
+			"2018-05": {"total":12773.31, "LONDON UNDERGROUND LTD":12441.34, "TRANSPORT TRADING LTD":331.97},
+			"2018-06": {"total":12706.65, "LONDON UNDERGROUND LTD":12706.65},
+			"2018-07": {"total":18336.87, "LONDON BUS SERVICES LTD":11330.96, "LONDON UNDERGROUND LTD":7005.91, "TRANSPORT TRADING LTD":0.00},
+			"2018-08": {"total":15735.53, "LONDON BUS SERVICES LTD":880.30, "LONDON UNDERGROUND LTD":13548.25, "TRANSPORT TRADING LTD":1306.98},
+			"2018-09": {"total":21347.99, "LONDON BUS SERVICES LTD":3457.99, "LONDON UNDERGROUND LTD":17890.00},
+			"2018-10": {"total":2053.35, "LONDON BUS SERVICES LTD":993.41, "LONDON UNDERGROUND LTD":1059.94},
+			"2018-11": {"total":27513.26, "LONDON BUS SERVICES LTD":6830.57, "LONDON UNDERGROUND LTD":20682.69},
+			"2018-12": {"total":15105.00, "LONDON BUS SERVICES LTD":1556.45, "LONDON UNDERGROUND LTD":13094.02, "TRANSPORT TRADING LTD":454.53},
+			"2019-01": {"total":10842.90, "LONDON BUS SERVICES LTD":1018.86, "LONDON UNDERGROUND LTD":8781.76, "TRANSPORT TRADING LTD":1042.28},
+			"2019-02": {"total":15797.38, "LONDON BUS SERVICES LTD":757.76, "LONDON UNDERGROUND LTD":15039.62},
+			"2019-03": {"total":5129.98, "LONDON BUS SERVICES LTD":3910.34, "LONDON UNDERGROUND LTD":1219.64},
+			"2019-04": {"total":36021.97, "LONDON BUS SERVICES LTD":1583.59, "LONDON UNDERGROUND LTD":32157.31, "TRANSPORT TRADING LTD":2281.07},
+			"2019-05": {"total":3363.54, "LONDON UNDERGROUND LTD":2716.92, "TRANSPORT TRADING LTD":646.62},
+			"2019-06": {"total":7202.18, "LONDON BUS SERVICES LTD":2830.36, "LONDON UNDERGROUND LTD":4371.82},
+			"2019-07": {"total":-3559.29, "LONDON BUS SERVICES LTD":-1172.80, "LONDON UNDERGROUND LTD":-3907.24, "TRANSPORT TRADING LTD":1520.75},
+			"2019-08": {"total":2258.20, "LONDON UNDERGROUND LTD":609.01, "TRANSPORT TRADING LTD":1649.19},
+			"2019-09": {"total":6768.08, "LONDON BUS SERVICES LTD":5373.35, "LUL NOMINEE BCV LIMITED":934.22, "TRANSPORT TRADING LTD":460.51},
+			"2019-10": {"total":1393.77, "LONDON BUS SERVICES LTD":1125.16, "TRANSPORT TRADING LTD":268.61},
+			"2019-11": {"total":3430.33, "LONDON BUS SERVICES LTD":1409.38, "LONDON UNDERGROUND LTD":1079.97, "TRANSPORT TRADING LTD":940.98},
+			"2019-12": {"total":1095.70, "LONDON UNDERGROUND LTD":1095.70},
+			"2020-01": {"total":936.23, "TRANSPORT TRADING LTD":936.23},
+			"2020-02": {"total":932.60, "TRANSPORT TRADING LTD":932.60},
+			"2020-03": {"total":5742.70, "LONDON BUS SERVICES LTD":5456.21, "TRANSPORT TRADING LTD":286.49},
+			"2020-04": {"total":2465.63, "LONDON BUS SERVICES LTD":1701.78, "TRANSPORT TRADING LTD":763.85}
+		}
+	},
+	"765": {
+		"name": "AFFINITY HEALTH AT WORK LTD",
+		"total": 42699,
+		"monthly": {
+			"2013-06": {"total":4999.00, "Management & Support Consultancy":4999.00},
+			"2013-11": {"total":19700.00, "Management & Support Consultancy":19700.00},
+			"2014-07": {"total":2500.00, "TFL CORPORATE":2500.00},
+			"2014-11": {"total":750.00, "TFL CORPORATE":750.00},
+			"2015-04": {"total":3250.00, "TFL CORPORATE":3250.00},
+			"2015-12": {"total":2500.00, "TFL CORPORATE":2500.00},
+			"2016-12": {"total":3000.00, "TFL CORPORATE":3000.00},
+			"2017-12": {"total":3000.00, "TFL CORPORATE":3000.00},
+			"2018-11": {"total":3000.00, "TFL CORPORATE":3000.00}
+		}
+	},
+	"766": {
+		"name": "AFFINITY WATER LTD",
+		"alternate-names": [
+			"AFFINITY WATER LIMITED"
+		],
+		"total": 1138087.71,
+		"monthly": {
+			"2013-04": {"total":8414.06, "Building Maintenance & Repairs":1125.74, "Water":7288.32},
+			"2013-05": {"total":21236.87, "Building Maintenance & Repairs":1726.60, "Water":19510.27},
+			"2013-06": {"total":17230.29, "Building Maintenance & Repairs":2473.50, "Water":14756.79},
+			"2013-07": {"total":16231.58, "Building Maintenance & Repairs":1344.49, "Water":14887.09},
+			"2013-08": {"total":26707.06, "Building Maintenance & Repairs":1587.78, "Water":25119.28},
+			"2013-09": {"total":7517.07, "Building Maintenance & Repairs":2124.54, "Water":5392.53},
+			"2013-10": {"total":17975.03, "Water":17975.03},
+			"2013-11": {"total":48078.72, "Building Maintenance & Repairs":7357.06, "Water":40721.66},
+			"2013-12": {"total":33097.86, "Building Maintenance & Repairs":1954.32, "Water":31143.54},
+			"2014-01": {"total":14168.10, "Building Maintenance & Repairs":1459.64, "Water":12708.46},
+			"2014-02": {"total":26811.71, "Building Maintenance & Repairs":2221.94, "Water":24589.77},
+			"2014-03": {"total":16857.36, "Building Maintenance & Repairs":2972.34, "Water":13885.02},
+			"2014-04": {"total":15640.47, "LONDON BUS SERVICES LTD":1389.89, "LONDON UNDERGROUND LTD":14250.58},
+			"2014-05": {"total":23365.73, "LONDON BUS SERVICES LTD":1739.70, "LONDON UNDERGROUND LTD":21626.03},
+			"2014-06": {"total":24853.09, "LONDON BUS SERVICES LTD":4644.67, "LONDON UNDERGROUND LTD":20208.42},
+			"2014-07": {"total":23603.38, "LONDON BUS SERVICES LTD":1954.86, "LONDON UNDERGROUND LTD":19850.43, "TRANSPORT TRADING LTD":1798.09},
+			"2014-08": {"total":31587.41, "LONDON BUS SERVICES LTD":1392.03, "LONDON UNDERGROUND LTD":28764.81, "TRANSPORT TRADING LTD":1430.57},
+			"2014-09": {"total":11596.93, "LONDON BUS SERVICES LTD":1577.96, "LONDON UNDERGROUND LTD":10018.97},
+			"2014-10": {"total":27868.31, "LONDON BUS SERVICES LTD":1385.33, "LONDON UNDERGROUND LTD":26482.98},
+			"2014-11": {"total":31653.55, "LONDON BUS SERVICES LTD":5360.60, "LONDON UNDERGROUND LTD":26292.95},
+			"2014-12": {"total":29664.13, "LONDON BUS SERVICES LTD":2779.02, "LONDON UNDERGROUND LTD":26560.39, "TRANSPORT TRADING LTD":324.72},
+			"2015-01": {"total":14936.69, "LONDON UNDERGROUND LTD":14599.70, "TRANSPORT TRADING LTD":336.99},
+			"2015-02": {"total":30711.87, "LONDON BUS SERVICES LTD":2690.10, "LONDON UNDERGROUND LTD":24860.84, "TRANSPORT TRADING LTD":3160.93},
+			"2015-03": {"total":31031.34, "LONDON BUS SERVICES LTD":3055.42, "LONDON UNDERGROUND LTD":12957.28, "TUBELINES LTD":15018.64},
+			"2015-04": {"total":8868.43, "LONDON UNDERGROUND LTD":8868.43},
+			"2015-05": {"total":11853.98, "LONDON BUS SERVICES LTD":947.88, "LONDON UNDERGROUND LTD":10906.10},
+			"2015-06": {"total":31400.69, "LONDON BUS SERVICES LTD":1358.70, "LONDON UNDERGROUND LTD":26216.24, "TRANSPORT TRADING LTD":3825.75},
+			"2015-07": {"total":12334.70, "LONDON BUS SERVICES LTD":1333.16, "LONDON UNDERGROUND LTD":11001.54},
+			"2015-08": {"total":50393.83, "LONDON BUS SERVICES LTD":1330.87, "LONDON UNDERGROUND LTD":16931.70, "LUL NOMINEE SSL LIMITED":30066.51, "TRANSPORT TRADING LTD":2064.75},
+			"2015-09": {"total":11834.56, "LONDON BUS SERVICES LTD":707.89, "LONDON UNDERGROUND LTD":11126.67},
+			"2015-10": {"total":11349.01, "LONDON UNDERGROUND LTD":11349.01},
+			"2015-11": {"total":29898.83, "LONDON BUS SERVICES LTD":2710.16, "LONDON UNDERGROUND LTD":26633.47, "TRANSPORT TRADING LTD":555.20},
+			"2015-12": {"total":20018.51, "LONDON BUS SERVICES LTD":691.67, "LONDON UNDERGROUND LTD":19326.84},
+			"2016-01": {"total":5376.53, "LONDON UNDERGROUND LTD":4980.09, "TRANSPORT TRADING LTD":396.44},
+			"2016-02": {"total":16388.64, "LONDON BUS SERVICES LTD":1655.26, "LONDON UNDERGROUND LTD":14000.93, "LUL NOMINEE BCV LIMITED":732.45},
+			"2016-03": {"total":4443.15, "LONDON BUS SERVICES LTD":679.27, "LONDON UNDERGROUND LTD":2889.37, "TRANSPORT TRADING LTD":874.51},
+			"2016-04": {"total":14288.52, "LONDON UNDERGROUND LTD":14288.52},
+			"2016-05": {"total":11932.19, "LONDON BUS SERVICES LTD":1244.72, "LONDON UNDERGROUND LTD":10687.47},
+			"2016-06": {"total":8764.11, "LONDON BUS SERVICES LTD":1329.14, "LONDON UNDERGROUND LTD":7434.97},
+			"2016-07": {"total":21608.69, "LONDON BUS SERVICES LTD":2376.60, "LONDON UNDERGROUND LTD":19232.09},
+			"2016-08": {"total":27521.55, "LONDON BUS SERVICES LTD":661.30, "LONDON UNDERGROUND LTD":26323.04, "TRANSPORT TRADING LTD":537.21},
+			"2016-09": {"total":12109.98, "LONDON BUS SERVICES LTD":639.06, "LONDON UNDERGROUND LTD":10795.53, "TRANSPORT TRADING LTD":675.39},
+			"2016-10": {"total":15518.56, "LONDON BUS SERVICES LTD":1004.55, "LONDON UNDERGROUND LTD":14193.06, "TRANSPORT TRADING LTD":320.95},
+			"2016-11": {"total":26043.93, "LONDON BUS SERVICES LTD":3356.94, "LONDON UNDERGROUND LTD":22301.27, "TRANSPORT TRADING LTD":385.72},
+			"2016-12": {"total":15607.85, "LONDON BUS SERVICES LTD":1193.05, "LONDON UNDERGROUND LTD":13018.13, "TRANSPORT TRADING LTD":1396.67},
+			"2017-01": {"total":11411.12, "LONDON UNDERGROUND LTD":10238.20, "LUL NOMINEE BCV LIMITED":287.82, "TRANSPORT TRADING LTD":885.10},
+			"2017-02": {"total":11784.68, "LONDON BUS SERVICES LTD":474.71, "LONDON UNDERGROUND LTD":10867.21, "TRANSPORT TRADING LTD":442.76},
+			"2017-03": {"total":8203.93, "LONDON BUS SERVICES LTD":455.37, "LONDON UNDERGROUND LTD":7375.41, "TRANSPORT TRADING LTD":373.15},
+			"2017-04": {"total":13784.98, "LONDON UNDERGROUND LTD":13445.66, "TRANSPORT TRADING LTD":339.32},
+			"2017-05": {"total":30524.78, "LONDON BUS SERVICES LTD":3695.17, "LONDON UNDERGROUND LTD":25938.86, "TRANSPORT TRADING LTD":890.75},
+			"2017-06": {"total":7550.64, "LONDON BUS SERVICES LTD":320.73, "LONDON UNDERGROUND LTD":6889.65, "TRANSPORT TRADING LTD":340.26},
+			"2017-07": {"total":11383.25, "LONDON BUS SERVICES LTD":998.93, "LONDON UNDERGROUND LTD":9350.11, "TRANSPORT TRADING LTD":1034.21},
+			"2017-08": {"total":16100.88, "LONDON UNDERGROUND LTD":15138.28, "LUL NOMINEE BCV LIMITED":337.88, "TRANSPORT TRADING LTD":624.72},
+			"2017-09": {"total":6204.41, "LONDON BUS SERVICES LTD":484.41, "LONDON UNDERGROUND LTD":5331.31, "TRANSPORT TRADING LTD":388.69},
+			"2017-10": {"total":20117.26, "LONDON BUS SERVICES LTD":976.63, "LONDON UNDERGROUND LTD":18783.20, "TRANSPORT TRADING LTD":357.43},
+			"2017-11": {"total":11938.07, "LONDON BUS SERVICES LTD":808.54, "LONDON UNDERGROUND LTD":11129.53},
+			"2018-03": {"total":50006.48, "LONDON BUS SERVICES LTD":4307.32, "LONDON UNDERGROUND LTD":45032.48, "TRANSPORT TRADING LTD":666.68},
+			"2018-06": {"total":8932.87, "LONDON UNDERGROUND LTD":8508.95, "TRANSPORT TRADING LTD":423.92},
+			"2018-07": {"total":-1064.49, "LONDON UNDERGROUND LTD":-1064.49},
+			"2018-08": {"total":0.00, "TRANSPORT TRADING LTD":0.00},
+			"2019-06": {"total":4184.00, "TFL CORPORATE":4184.00},
+			"2020-11": {"total":2189.00, "LONDON UNDERGROUND LTD":2189.00},
+			"2020-12": {"total":6441.00, "TRANSPORT TRADING LTD":6441.00}
+		}
+	},
+	"767": {
+		"name": "AFFIX SCAFFOLDING LTD",
+		"total": 413,
+		"monthly": {
+			"2020-06": {"total":413.00, "SURFACE TRANSPORT CORP":413.00}
+		}
+	},
+	"768": {
+		"name": "AFLEX HOSE LTD",
+		"total": 1577.05,
+		"monthly": {
+			"2020-03": {"total":505.65, "LUL NOMINEE BCV LIMITED":505.65},
+			"2020-10": {"total":545.70, "LUL NOMINEE SSL LIMITED":545.70},
+			"2020-11": {"total":525.70, "LUL NOMINEE SSL LIMITED":525.70}
+		}
+	},
+	"769": {
+		"name": "AFNOR VPC",
+		"total": 36.99,
+		"monthly": {
+			"2016-05": {"total":36.99, "LONDON UNDERGROUND LTD":36.99}
+		}
+	},
+	"770": {
 		"name": "AFROWORLD SUPERSTORE LTD",
 		"total": 4066.37,
 		"monthly": {
 			"2017-08": {"total":4066.37, "TRANSPORT TRADING LTD":4066.37}
 		}
 	},
-	"751": {
+	"771": {
 		"name": "AFZAL NADEEM",
 		"total": 1388.2,
 		"monthly": {
 			"2019-09": {"total":1388.20, "TRANSPORT TRADING LTD":1388.20}
 		}
 	},
-	"752": {
+	"772": {
 		"name": "AG 24 KWS GP LIMITED FOR AND ON",
 		"total": 56020,
 		"monthly": {
 			"2015-07": {"total":56020.00, "LONDON UNDERGROUND LTD":56020.00}
 		}
 	},
-	"753": {
+	"773": {
 		"name": "AG 24 KWS GP LTD",
 		"alternate-names": [
 			"AG 24 KWS GP LIMITED"
@@ -32,14 +299,14 @@
 			"2016-02": {"total":53980.00, "LONDON UNDERGROUND LTD":53980.00}
 		}
 	},
-	"754": {
+	"774": {
 		"name": "AG&G LLIMITED",
 		"total": 1950,
 		"monthly": {
 			"2019-04": {"total":1950.00, "TRANSPORT TRADING LTD":1950.00}
 		}
 	},
-	"755": {
+	"775": {
 		"name": "AG&G LTD",
 		"alternate-names": [
 			"AG&G LIMITED"
@@ -56,21 +323,21 @@
 			"2020-06": {"total":4725.00, "TRANSPORT TRADING LTD":4725.00}
 		}
 	},
-	"756": {
+	"776": {
 		"name": "AGA SCAFFOLDING LTD",
 		"total": 413,
 		"monthly": {
 			"2020-03": {"total":413.00, "SURFACE TRANSPORT CORP":413.00}
 		}
 	},
-	"757": {
+	"777": {
 		"name": "AGAASH LTD S THAYANANTHAMOORTY",
 		"total": 879.69,
 		"monthly": {
 			"2015-03": {"total":879.69, "TRANSPORT TRADING LTD":879.69}
 		}
 	},
-	"758": {
+	"778": {
 		"name": "AGCAS",
 		"total": 3675,
 		"monthly": {
@@ -78,7 +345,7 @@
 			"2016-10": {"total":1225.00, "TFL CORPORATE":1225.00}
 		}
 	},
-	"759": {
+	"779": {
 		"name": "AGD SYSTEMS LTD",
 		"total": 291835,
 		"monthly": {
@@ -95,16 +362,16 @@
 			"2014-08": {"total":8925.00, "SURFACE TRANSPORT CORP":8925.00}
 		}
 	},
-	"760": {
+	"780": {
 		"name": "AGE EXCHANGE",
 		"total": 754.8,
 		"monthly": {
 			"2013-07": {"total":754.80, "Marketing Exhibitions & Events":754.80}
 		}
 	},
-	"761": {
+	"781": {
 		"name": "AGENTIS WORKWEAR LTD",
-		"total": 421666.14,
+		"total": 442937.74,
 		"monthly": {
 			"2015-09": {"total":3567.90, "DIAL A RIDE":3567.90},
 			"2015-10": {"total":2184.50, "DIAL A RIDE":2184.50},
@@ -160,10 +427,12 @@
 			"2020-06": {"total":498.38, "DIAL A RIDE":498.38},
 			"2020-08": {"total":1196.72, "DIAL A RIDE":287.73, "VICTORIA COACH STATN LTD":908.99},
 			"2020-09": {"total":1068.49, "DIAL A RIDE":795.28, "SURFACE TRANSPORT CORP":273.21},
-			"2020-10": {"total":1034.46, "DIAL A RIDE":635.46, "SURFACE TRANSPORT CORP":399.00}
+			"2020-10": {"total":3465.72, "DIAL A RIDE":988.78, "SURFACE TRANSPORT CORP":2476.94},
+			"2020-11": {"total":11319.50, "DIAL A RIDE":318.43, "RAIL FOR LONDON LIMITED":8082.10, "SURFACE TRANSPORT CORP":2918.97},
+			"2020-12": {"total":7520.84, "SURFACE TRANSPORT CORP":7520.84}
 		}
 	},
-	"762": {
+	"782": {
 		"name": "AGGLO UK LTD",
 		"total": 57560.75,
 		"monthly": {
@@ -172,9 +441,9 @@
 			"2017-06": {"total":6585.00, "LUL NOMINEE SSL LIMITED":6585.00}
 		}
 	},
-	"763": {
+	"783": {
 		"name": "AGGREGATE INDUSTRIES UK LTD",
-		"total": 10877186.61,
+		"total": 10966001.47,
 		"monthly": {
 			"2013-08": {"total":20934.14, "Materials":20934.14},
 			"2013-09": {"total":10553.22, "Materials":10553.22},
@@ -254,10 +523,12 @@
 			"2020-04": {"total":67974.07, "LONDON UNDERGROUND LTD":18612.18, "LUL NOMINEE BCV LIMITED":49361.89},
 			"2020-05": {"total":18547.40, "LONDON UNDERGROUND LTD":6136.00, "LUL NOMINEE BCV LIMITED":12411.40},
 			"2020-09": {"total":29900.56, "LONDON UNDERGROUND LTD":13124.56, "LUL NOMINEE BCV LIMITED":16776.00},
-			"2020-10": {"total":55320.80, "LONDON UNDERGROUND LTD":4033.32, "LUL NOMINEE BCV LIMITED":51287.48}
+			"2020-10": {"total":80491.13, "LONDON UNDERGROUND LTD":4033.32, "LUL NOMINEE BCV LIMITED":53151.48, "LUL NOMINEE SSL LIMITED":23306.33},
+			"2020-11": {"total":59916.53, "LONDON UNDERGROUND LTD":13021.80, "LUL NOMINEE BCV LIMITED":46894.73},
+			"2020-12": {"total":3728.00, "LUL NOMINEE BCV LIMITED":3728.00}
 		}
 	},
-	"764": {
+	"784": {
 		"name": "AGGREGATES INDUSTRIES UK LTD",
 		"total": 3510873.16000001,
 		"monthly": {
@@ -279,9 +550,9 @@
 			"2014-07": {"total":220713.14, "LUL NOMINEE BCV LIMITED":220338.68, "LUL NOMINEE SSL LIMITED":374.46}
 		}
 	},
-	"765": {
+	"785": {
 		"name": "AGGREKO UK LTD",
-		"total": 820565.750000001,
+		"total": 821931.030000001,
 		"monthly": {
 			"2013-07": {"total":1970.75, "Plant Hire":1970.75},
 			"2013-08": {"total":6395.19, "Plant Hire":6395.19},
@@ -369,10 +640,12 @@
 			"2020-06": {"total":3482.64, "LUL NOMINEE BCV LIMITED":2800.00, "LUL NOMINEE SSL LIMITED":682.64},
 			"2020-07": {"total":5302.64, "LUL NOMINEE BCV LIMITED":4620.00, "LUL NOMINEE SSL LIMITED":682.64},
 			"2020-08": {"total":682.64, "LUL NOMINEE SSL LIMITED":682.64},
-			"2020-09": {"total":1365.28, "LUL NOMINEE SSL LIMITED":1365.28}
+			"2020-09": {"total":1365.28, "LUL NOMINEE SSL LIMITED":1365.28},
+			"2020-10": {"total":682.64, "LUL NOMINEE SSL LIMITED":682.64},
+			"2020-11": {"total":682.64, "LUL NOMINEE SSL LIMITED":682.64}
 		}
 	},
-	"766": {
+	"786": {
 		"name": "AGH ENGINEERING LTD",
 		"total": 84995,
 		"monthly": {
@@ -382,7 +655,7 @@
 			"2017-06": {"total":3440.00, "RAIL FOR LONDON LIMITED":3440.00}
 		}
 	},
-	"767": {
+	"787": {
 		"name": "AGI-ORG",
 		"total": 240,
 		"monthly": {
@@ -390,7 +663,7 @@
 			"2019-01": {"total":84.00, "TFL CORPORATE":84.00}
 		}
 	},
-	"768": {
+	"788": {
 		"name": "AGIL8 LTD",
 		"alternate-names": [
 			"AGIL8 LIMITED"
@@ -403,7 +676,7 @@
 			"2017-08": {"total":1500.00, "SURFACE TRANSPORT CORP":1500.00}
 		}
 	},
-	"769": {
+	"789": {
 		"name": "AGILISYS MANAGED SERVICES",
 		"total": 932244.5,
 		"monthly": {
@@ -430,7 +703,7 @@
 			"2015-10": {"total":10850.00, "TUBELINES LTD":10850.00}
 		}
 	},
-	"770": {
+	"790": {
 		"name": "AGILITY3",
 		"total": 191540,
 		"monthly": {
@@ -447,28 +720,28 @@
 			"2019-05": {"total":5350.00, "TFL CORPORATE":5350.00}
 		}
 	},
-	"771": {
+	"791": {
 		"name": "AGORA TALENT LTD",
 		"total": 23250,
 		"monthly": {
 			"2020-05": {"total":23250.00, "TFL CORPORATE":23250.00}
 		}
 	},
-	"772": {
+	"792": {
 		"name": "AGR",
 		"total": 2250,
 		"monthly": {
 			"2015-02": {"total":2250.00, "TFL CORPORATE":2250.00}
 		}
 	},
-	"773": {
+	"793": {
 		"name": "AGRIGEM LTD",
 		"total": 1449.6,
 		"monthly": {
 			"2017-06": {"total":1449.60, "TUBE LINES LTD":1449.60}
 		}
 	},
-	"774": {
+	"794": {
 		"name": "AHA! LABS INC",
 		"alternate-names": [
 			"AHA! LABS INC."
@@ -478,7 +751,7 @@
 			"2016-06": {"total":16239.96, "TFL CORPORATE":16239.96}
 		}
 	},
-	"775": {
+	"795": {
 		"name": "AHLUWALIA BALJEET",
 		"total": 1108.57,
 		"monthly": {
@@ -486,200 +759,32 @@
 			"2017-03": {"total":295.17, "LONDON UNDERGROUND LTD":295.17}
 		}
 	},
-	"776": {
+	"796": {
 		"name": "AHMAD AHSAN LEGHARI",
 		"total": 10000,
 		"monthly": {
 			"2014-11": {"total":10000.00, "TRANSPORT TRADING LTD":10000.00}
 		}
 	},
-	"777": {
+	"797": {
 		"name": "AHMAD FAWAD KAKAR",
 		"total": 1707,
 		"monthly": {
 			"2013-11": {"total":1707.00, "Licence Fee Refunds":1707.00}
 		}
 	},
-	"778": {
+	"798": {
 		"name": "AHMAD MUSTAFA DARWISH",
 		"total": 8000,
 		"monthly": {
 			"2019-10": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
 		}
 	},
-	"779": {
+	"799": {
 		"name": "AHMAD POPAL",
 		"total": 16000,
 		"monthly": {
 			"2019-09": {"total":16000.00, "SURFACE TRANSPORT CORP":16000.00}
-		}
-	},
-	"780": {
-		"name": "AHMAD SAADIA",
-		"total": 487.08,
-		"monthly": {
-			"2015-11": {"total":487.08, "LONDON UNDERGROUND LTD":487.08}
-		}
-	},
-	"781": {
-		"name": "AHMAD TEA LTD",
-		"alternate-names": [
-			"AHMAD TEA LIMITED"
-		],
-		"total": 17354.13,
-		"monthly": {
-			"2014-09": {"total":499.20, "LT MUSEUM TRADING LTD":499.20},
-			"2014-11": {"total":849.60, "LT MUSEUM TRADING LTD":849.60},
-			"2015-02": {"total":499.20, "LT MUSEUM TRADING LTD":499.20},
-			"2015-04": {"total":748.80, "LT MUSEUM TRADING LTD":748.80},
-			"2015-07": {"total":374.40, "LT MUSEUM TRADING LTD":374.40},
-			"2015-08": {"total":499.20, "LT MUSEUM TRADING LTD":499.20},
-			"2015-09": {"total":312.00, "LT MUSEUM TRADING LTD":312.00},
-			"2015-10": {"total":448.80, "LT MUSEUM TRADING LTD":448.80},
-			"2015-11": {"total":374.40, "LT MUSEUM TRADING LTD":374.40},
-			"2016-02": {"total":499.20, "LT MUSEUM TRADING LTD":499.20},
-			"2016-06": {"total":624.00, "LT MUSEUM TRADING LTD":624.00},
-			"2016-08": {"total":655.32, "LT MUSEUM TRADING LTD":655.32},
-			"2016-10": {"total":747.84, "LT MUSEUM TRADING LTD":747.84},
-			"2017-01": {"total":727.20, "LT MUSEUM TRADING LTD":727.20},
-			"2017-02": {"total":652.63, "LT MUSEUM TRADING LTD":652.63},
-			"2017-03": {"total":823.45, "LT MUSEUM TRADING LTD":823.45},
-			"2017-04": {"total":849.07, "LT MUSEUM TRADING LTD":849.07},
-			"2017-06": {"total":1167.21, "LT MUSEUM TRADING LTD":1167.21},
-			"2017-08": {"total":3125.15, "LT MUSEUM TRADING LTD":3125.15},
-			"2017-09": {"total":407.11, "LT MUSEUM TRADING LTD":407.11},
-			"2017-10": {"total":823.45, "LT MUSEUM TRADING LTD":823.45},
-			"2017-11": {"total":823.45, "LT MUSEUM TRADING LTD":823.45},
-			"2017-12": {"total":823.45, "LT MUSEUM TRADING LTD":823.45}
-		}
-	},
-	"782": {
-		"name": "AHMAN JAWED AHMADI",
-		"total": 1800,
-		"monthly": {
-			"2018-12": {"total":600.00, "PUBLIC CARRIAGE OFFICE":600.00},
-			"2019-05": {"total":600.00, "PUBLIC CARRIAGE OFFICE":600.00},
-			"2019-06": {"total":600.00, "PUBLIC CARRIAGE OFFICE":600.00}
-		}
-	},
-	"783": {
-		"name": "AHMED ABDI OMAR",
-		"total": 9000,
-		"monthly": {
-			"2019-12": {"total":9000.00, "SURFACE TRANSPORT CORP":9000.00}
-		}
-	},
-	"784": {
-		"name": "AHMED ADBILLAHI HERSI",
-		"total": 9000,
-		"monthly": {
-			"2019-07": {"total":9000.00, "SURFACE TRANSPORT CORP":9000.00}
-		}
-	},
-	"785": {
-		"name": "AHMED IISE",
-		"total": 1200,
-		"monthly": {
-			"2019-01": {"total":1200.00, "SURFACE TRANSPORT CORP":1200.00}
-		}
-	},
-	"786": {
-		"name": "AHMED MOALIN LISE",
-		"total": 9000,
-		"monthly": {
-			"2019-09": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00},
-			"2019-12": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
-		}
-	},
-	"787": {
-		"name": "AHMED MOHAMUD",
-		"total": 7000,
-		"monthly": {
-			"2020-09": {"total":7000.00, "SURFACE TRANSPORT CORP":7000.00}
-		}
-	},
-	"788": {
-		"name": "AHMED MUEN",
-		"total": 250,
-		"monthly": {
-			"2020-10": {"total":250.00, "TFL CORPORATE":250.00}
-		}
-	},
-	"789": {
-		"name": "AHMED MUSSE MOHAMUD",
-		"total": 7000,
-		"monthly": {
-			"2020-08": {"total":7000.00, "SURFACE TRANSPORT CORP":7000.00}
-		}
-	},
-	"790": {
-		"name": "AHMED NASSER OUNAKHEYL",
-		"total": 8000,
-		"monthly": {
-			"2019-10": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
-		}
-	},
-	"791": {
-		"name": "AHMED NASSER OURIAKHEYL",
-		"total": 1000,
-		"monthly": {
-			"2020-01": {"total":1000.00, "SURFACE TRANSPORT CORP":1000.00}
-		}
-	},
-	"792": {
-		"name": "AHMED SHAIEK",
-		"total": 404.57,
-		"monthly": {
-			"2015-06": {"total":404.57, "LONDON UNDERGROUND LTD":404.57}
-		}
-	},
-	"793": {
-		"name": "AHMED WARSAME",
-		"total": 8000,
-		"monthly": {
-			"2020-04": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
-		}
-	},
-	"794": {
-		"name": "AHMED ZIA IBRAHIMI",
-		"total": 8000,
-		"monthly": {
-			"2020-08": {"total":8000.00, "SURFACE TRANSPORT CORP":8000.00}
-		}
-	},
-	"795": {
-		"name": "AHMEDIA LTD",
-		"total": 1860,
-		"monthly": {
-			"2016-02": {"total":1860.00, "LONDON UNDERGROUND LTD":1860.00}
-		}
-	},
-	"796": {
-		"name": "AHMET FEHMI",
-		"total": 10000,
-		"monthly": {
-			"2019-05": {"total":10000.00, "SURFACE TRANSPORT CORP":10000.00}
-		}
-	},
-	"797": {
-		"name": "AHMET KASAP",
-		"total": 7000,
-		"monthly": {
-			"2020-07": {"total":7000.00, "SURFACE TRANSPORT CORP":7000.00}
-		}
-	},
-	"798": {
-		"name": "AHMET NECHAT",
-		"total": 10000,
-		"monthly": {
-			"2019-07": {"total":10000.00, "SURFACE TRANSPORT CORP":10000.00}
-		}
-	},
-	"799": {
-		"name": "AHMET OZBEY/MEHMET ALTUN",
-		"total": 2500,
-		"monthly": {
-			"2019-06": {"total":2500.00, "TRANSPORT TRADING LTD":2500.00}
 		}
 	}
 	}

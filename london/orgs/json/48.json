@@ -1,64 +1,522 @@
 {
-	"range": ["2013-04","2020-09"],
+	"range": ["2013-04","2020-12"],
 	"data": {
 	"2400": {
+		"name": "HUB WESTMINSTER",
+		"total": 6352.5,
+		"monthly": {
+			"2014-03": {"total":6352.50, "External Meeting Room Hire & Expenses":6352.50}
+		}
+	},
+	"2401": {
+		"name": "HUBBUB FOUNDATION UK",
+		"total": 36000,
+		"monthly": {
+			"2019-07": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
+			"2019-10": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00}
+		}
+	},
+	"2402": {
+		"name": "HUDDLE",
+		"total": 49875,
+		"monthly": {
+			"2014-03": {"total":21600.00, "Manage IT Services":21600.00},
+			"2015-03": {"total":13500.00, "SOFTWARE MAINTENANCE":13500.00},
+			"2016-03": {"total":9000.00, "COMPUTER SOFTWARE":9000.00},
+			"2017-02": {"total":4500.00, "SOFTWARE MAINTENANCE":4500.00},
+			"2020-02": {"total":1275.00, "OTHER PROFESSIONAL FEES":1275.00}
+		}
+	},
+	"2403": {
+		"name": "HUGH FLANAGAN",
+		"total": 3000,
+		"monthly": {
+			"2020-12": {"total":3000.00, "LEGAL FEES":3000.00}
+		}
+	},
+	"2404": {
+		"name": "HULL CARNIVAL ARTS",
+		"total": 3458,
+		"monthly": {
+			"2015-03": {"total":3458.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":3458.00}
+		}
+	},
+	"2405": {
+		"name": "HUMA ART",
+		"total": 1000,
+		"monthly": {
+			"2016-03": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00}
+		}
+	},
+	"2406": {
+		"name": "HUMDINGERS CATERING LTD",
+		"total": 382.5,
+		"monthly": {
+			"2018-09": {"total":382.50, "REFRESHMENTS/MEALS AT MEETINGS":382.50}
+		}
+	},
+	"2407": {
+		"name": "HUNT & GATHER LTD",
+		"alternate-names": [
+			"HUNT & GATHER LIMITED"
+		],
+		"total": 500,
+		"monthly": {
+			"2013-12": {"total":500.00, "Consultancy-Project Management":500.00}
+		}
+	},
+	"2408": {
+		"name": "HUNTERS CONTRACTS",
+		"total": 117352.63,
+		"monthly": {
+			"2013-04": {"total":2407.88, "Furniture & Equipment":2407.88},
+			"2015-12": {"total":275.00, "FURNITURE & EQUIPMENT":275.00},
+			"2016-02": {"total":1401.30, "FURNITURE & EQUIPMENT":1401.30},
+			"2016-04": {"total":1305.80, "Resources":1305.80},
+			"2016-05": {"total":539.00, "Development & Environment":539.00},
+			"2016-06": {"total":640.00, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":640.00},
+			"2016-07": {"total":668.01, "STAFF WELFARE BENEFITS":668.01},
+			"2016-08": {"total":3091.33, "FURNITURE & EQUIPMENT":3091.33},
+			"2016-09": {"total":517.00, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":517.00},
+			"2016-12": {"total":440.00, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":440.00},
+			"2017-02": {"total":868.06, "FURNITURE & EQUIPMENT":868.06},
+			"2017-04": {"total":257.00, "FURNITURE & EQUIPMENT":257.00},
+			"2017-06": {"total":293.50, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":293.50},
+			"2017-07": {"total":1293.50, "FURNITURE & EQUIPMENT":400.00, "NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":893.50},
+			"2017-09": {"total":2089.00, "FURNITURE & EQUIPMENT":2089.00},
+			"2017-10": {"total":265.50, "FURNITURE & EQUIPMENT":265.50},
+			"2017-11": {"total":2543.88, "FURNITURE & EQUIPMENT":2543.88},
+			"2017-12": {"total":735.26, "FURNITURE & EQUIPMENT":735.26},
+			"2018-01": {"total":2095.24, "FURNITURE & EQUIPMENT":2095.24},
+			"2018-02": {"total":1689.25, "FURNITURE & EQUIPMENT":1689.25},
+			"2018-04": {"total":1440.00, "FURNITURE & EQUIPMENT":1440.00},
+			"2018-05": {"total":6506.12, "FURNITURE & EQUIPMENT":6506.12},
+			"2018-06": {"total":10690.50, "FURNITURE & EQUIPMENT":10690.50},
+			"2018-08": {"total":300.00, "FURNITURE & EQUIPMENT":300.00},
+			"2018-10": {"total":333.50, "FURNITURE & EQUIPMENT":333.50},
+			"2019-01": {"total":10836.25, "FURNITURE & EQUIPMENT":10836.25},
+			"2019-02": {"total":962.00, "FURNITURE & EQUIPMENT":962.00},
+			"2019-04": {"total":2868.80, "FURNITURE & EQUIPMENT":2868.80},
+			"2020-04": {"total":29702.74, "EXTERNAL MEETING ROOM HIRE & EXPENSES":11702.74, "FURNITURE & EQUIPMENT":18000.00},
+			"2020-08": {"total":30297.21, "FURNITURE & EQUIPMENT":30297.21}
+		}
+	},
+	"2409": {
+		"name": "HUNTERS CONTRACTS LTD",
+		"total": 16435.93,
+		"monthly": {
+			"2020-12": {"total":16435.93, "FURNITURE & EQUIPMENT":16435.93}
+		}
+	},
+	"2410": {
+		"name": "HUNTRESS SEARCH LTD",
+		"total": 1767617.10999999,
+		"monthly": {
+			"2013-04": {"total":93606.53, "Agency Staff":93606.53},
+			"2013-05": {"total":57334.98, "Agency Staff":53846.58, "Recruitment Agency Fees":3488.40},
+			"2013-06": {"total":53720.72, "Agency Staff":53720.72},
+			"2013-07": {"total":36467.75, "Agency Staff":33424.82, "Recruitment Agency Fees":3042.93},
+			"2013-08": {"total":83851.85, "Agency Staff":77821.85, "Recruitment Agency Fees":6030.00},
+			"2013-09": {"total":44771.20, "Agency Staff":41486.05, "Recruitment Agency Fees":3285.15},
+			"2013-10": {"total":27242.92, "Agency Staff":27242.92},
+			"2013-11": {"total":55108.70, "Agency Staff":49117.60, "Recruitment Agency Fees":5991.10},
+			"2013-12": {"total":80615.47, "Agency Staff":76987.40, "Recruitment Agency Fees":3628.07},
+			"2014-01": {"total":174523.36, "Agency Staff":165097.76, "Recruitment Agency Fees":9425.60},
+			"2014-02": {"total":104689.92, "Agency Staff":97337.68, "Recruitment Agency Fees":7352.24},
+			"2014-03": {"total":136835.94, "Agency Staff":114181.22, "Recruitment Agency Fees":22654.72},
+			"2014-04": {"total":111719.12, "Agency Staff":108903.16, "Recruitment Agency Fees":2815.96},
+			"2014-05": {"total":49460.10, "Agency Staff":43476.62, "Recruitment Agency Fees":5983.48},
+			"2014-06": {"total":36102.26, "Agency Staff":33809.14, "Recruitment Agency Fees":2293.12},
+			"2014-07": {"total":14392.87, "AGENCY STAFF":14392.87},
+			"2014-08": {"total":32895.26, "AGENCY STAFF":32895.26},
+			"2014-09": {"total":24340.04, "AGENCY STAFF":24340.04},
+			"2014-10": {"total":19748.88, "AGENCY STAFF":19748.88},
+			"2014-11": {"total":5815.13, "AGENCY STAFF":5815.13},
+			"2014-12": {"total":6600.05, "AGENCY STAFF":6600.05},
+			"2015-01": {"total":1532.18, "Assembly & Secretariat":292.18, "Communities and Intelligence":1240.00},
+			"2015-03": {"total":1419.40, "AGENCY STAFF":1419.40},
+			"2015-12": {"total":2850.00, "AGENCY STAFF":2850.00},
+			"2016-01": {"total":5400.00, "AGENCY STAFF":5400.00},
+			"2016-02": {"total":6926.15, "AGENCY STAFF":6656.88, "RECRUITMENT AGENCY FEES":269.27},
+			"2016-03": {"total":16875.84, "AGENCY STAFF":13494.60, "RECRUITMENT AGENCY FEES":3381.24},
+			"2016-04": {"total":19313.70, "Assembly & Secretariat":2588.48, "Corporate Management":1230.00, "External Affairs":2831.28, "Housing":2134.31, "Resources":10529.63},
+			"2016-05": {"total":13440.27, "Assembly & Secretariat":4931.51, "Communities and Intelligence":1382.73, "Development & Environment":3249.33, "External Affairs":1025.15, "Resources":2851.55},
+			"2016-06": {"total":15212.28, "AGENCY STAFF":11041.83, "RECRUITMENT AGENCY FEES":4170.45},
+			"2016-07": {"total":1260.63, "RECRUITMENT AGENCY FEES":1260.63},
+			"2016-08": {"total":14202.47, "AGENCY STAFF":11782.07, "RECRUITMENT AGENCY FEES":2420.40},
+			"2016-09": {"total":5773.68, "AGENCY STAFF":5216.58, "RECRUITMENT AGENCY FEES":557.10},
+			"2016-10": {"total":1228.94, "AGENCY STAFF":1228.94},
+			"2016-11": {"total":829.17, "AGENCY STAFF":829.17},
+			"2017-10": {"total":1645.20, "AGENCY STAFF":1645.20},
+			"2017-11": {"total":5860.11, "AGENCY STAFF":5860.11},
+			"2018-01": {"total":6757.40, "AGENCY STAFF":6757.40},
+			"2018-02": {"total":2219.72, "AGENCY STAFF":2219.72},
+			"2018-03": {"total":6861.23, "AGENCY STAFF":6861.23},
+			"2018-04": {"total":6492.58, "AGENCY STAFF":6492.58},
+			"2018-05": {"total":5425.30, "AGENCY STAFF":5425.30},
+			"2018-06": {"total":3080.12, "AGENCY STAFF":3080.12},
+			"2018-07": {"total":3302.28, "AGENCY STAFF":3302.28},
+			"2018-08": {"total":4587.14, "AGENCY STAFF":4587.14},
+			"2018-09": {"total":3216.57, "AGENCY STAFF":3216.57},
+			"2018-10": {"total":1539.65, "AGENCY STAFF":1539.65},
+			"2018-11": {"total":18152.93, "AGENCY STAFF":18152.93},
+			"2018-12": {"total":14595.49, "AGENCY STAFF":14595.49},
+			"2019-01": {"total":16104.79, "AGENCY STAFF":16104.79},
+			"2019-02": {"total":9001.77, "AGENCY STAFF":8158.02, "RECRUITMENT AGENCY FEES":843.75},
+			"2019-03": {"total":35401.62, "AGENCY STAFF":31810.62, "RECRUITMENT AGENCY FEES":3591.00},
+			"2019-04": {"total":20620.06, "AGENCY STAFF":17965.06, "RECRUITMENT AGENCY FEES":2655.00},
+			"2019-05": {"total":32345.98, "AGENCY STAFF":32345.98},
+			"2019-06": {"total":40953.30, "AGENCY STAFF":40953.30},
+			"2019-07": {"total":50575.40, "AGENCY STAFF":37609.77, "RECRUITMENT AGENCY FEES":12965.63},
+			"2019-08": {"total":40898.44, "AGENCY STAFF":40060.31, "RECRUITMENT AGENCY FEES":838.13},
+			"2019-09": {"total":12784.06, "AGENCY STAFF":6900.91, "RECRUITMENT AGENCY FEES":5883.15},
+			"2019-10": {"total":16021.87, "AGENCY STAFF":16021.87},
+			"2019-11": {"total":8208.52, "AGENCY STAFF":8208.52},
+			"2019-12": {"total":22539.14, "AGENCY STAFF":22539.14},
+			"2020-01": {"total":4497.45, "RECRUITMENT AGENCY FEES":4497.45},
+			"2020-02": {"total":1798.98, "RECRUITMENT AGENCY FEES":1798.98},
+			"2020-03": {"total":16022.25, "AGENCY STAFF":7337.20, "RECRUITMENT AGENCY FEES":8685.05}
+		}
+	},
+	"2411": {
+		"name": "HURRICANE ACTION SPORTS COMPANY",
+		"total": 1447.12,
+		"monthly": {
+			"2015-09": {"total":1447.12, "GRANTS TO EXTERNAL ORGANISATIONS":1447.12}
+		}
+	},
+	"2412": {
+		"name": "HYBRID",
+		"total": 15000,
+		"monthly": {
+			"2018-03": {"total":15000.00, "RESEARCH & STUDY FEES":15000.00}
+		}
+	},
+	"2413": {
+		"name": "HYDE HOUSING ASSOCIATION LTD",
+		"alternate-names": [
+			"HYDE HOUSING ASSOCIATION LIMITED"
+		],
+		"total": 136489908,
+		"monthly": {
+			"2013-04": {"total":11067563.00, "HSG Grants to Registered Providers":11067563.00},
+			"2013-10": {"total":3057925.00, "HSG Grants to Registered Providers":3057925.00},
+			"2013-11": {"total":1276762.00, "HSG Grants to Registered Providers":1276762.00},
+			"2013-12": {"total":18878312.00, "HSG Grants to Registered Providers":18878312.00},
+			"2014-03": {"total":6399574.00, "HSG Grants to Registered Providers":6399574.00},
+			"2014-06": {"total":32000.00, "HSG Grants to Registered Providers":32000.00},
+			"2014-08": {"total":164556.00, "HSG GRANTS TO REGISTERED PROVIDERS":164556.00},
+			"2014-11": {"total":362175.00, "HSG GRANTS TO REGISTERED PROVIDERS":362175.00},
+			"2014-12": {"total":313440.00, "HSG GRANTS TO REGISTERED PROVIDERS":313440.00},
+			"2015-02": {"total":1553336.00, "Housing":1553336.00},
+			"2015-03": {"total":5455711.00, "HSG GRANTS TO REGISTERED PROVIDERS":5455711.00},
+			"2015-09": {"total":686201.00, "HSG GRANTS TO REGISTERED PROVIDERS":686201.00},
+			"2015-11": {"total":585676.00, "HSG GRANTS TO REGISTERED PROVIDERS":585676.00},
+			"2016-03": {"total":1187068.00, "HSG GRANTS TO REGISTERED PROVIDERS":1187068.00},
+			"2016-08": {"total":1536646.00, "HSG GRANTS TO REGISTERED PROVIDERS":1536646.00},
+			"2016-09": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2016-12": {"total":1891606.00, "HSG GRANTS TO REGISTERED PROVIDERS":1891606.00},
+			"2017-03": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2017-05": {"total":40000.00, "HSG GRANTS TO REGISTERED PROVIDERS":40000.00},
+			"2017-06": {"total":686201.00, "HSG GRANTS TO REGISTERED PROVIDERS":686201.00},
+			"2017-07": {"total":46000.00, "HSG GRANTS TO REGISTERED PROVIDERS":46000.00},
+			"2017-08": {"total":46000.00, "HSG GRANTS TO REGISTERED PROVIDERS":46000.00},
+			"2017-10": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2017-11": {"total":21616000.00, "HSG GRANTS TO REGISTERED PROVIDERS":21616000.00},
+			"2017-12": {"total":574456.00, "HSG GRANTS TO REGISTERED PROVIDERS":574456.00},
+			"2018-01": {"total":60000.00, "HSG GRANTS TO REGISTERED PROVIDERS":60000.00},
+			"2018-02": {"total":90000.00, "HSG GRANTS TO REGISTERED PROVIDERS":90000.00},
+			"2018-03": {"total":46000.00, "HSG GRANTS TO REGISTERED PROVIDERS":46000.00},
+			"2018-04": {"total":8528000.00, "HSG GRANTS TO REGISTERED PROVIDERS":8528000.00},
+			"2018-05": {"total":22361171.00, "HSG GRANTS TO REGISTERED PROVIDERS":22361171.00},
+			"2018-06": {"total":265535.00, "HSG GRANTS TO REGISTERED PROVIDERS":265535.00},
+			"2018-09": {"total":632506.00, "HSG GRANTS TO REGISTERED PROVIDERS":632506.00},
+			"2018-10": {"total":905500.00, "HSG GRANTS TO REGISTERED PROVIDERS":905500.00},
+			"2018-12": {"total":90000.00, "HSG GRANTS TO REGISTERED PROVIDERS":90000.00},
+			"2019-03": {"total":1207150.00, "HSG GRANTS TO REGISTERED PROVIDERS":1207150.00},
+			"2019-04": {"total":3208886.00, "HSG GRANTS TO REGISTERED PROVIDERS":3208886.00},
+			"2019-05": {"total":624000.00, "HSG GRANTS TO REGISTERED PROVIDERS":624000.00},
+			"2019-08": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2019-09": {"total":18725222.00, "HSG GRANTS TO REGISTERED PROVIDERS":18725222.00},
+			"2019-10": {"total":2072730.00, "HSG GRANTS TO REGISTERED PROVIDERS":2072730.00},
+			"2019-11": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2020-03": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
+			"2020-06": {"total":32000.00, "HSG GRANTS TO REGISTERED PROVIDERS":32000.00}
+		}
+	},
+	"2414": {
+		"name": "HYDER CONSULTING (UK) LTD",
+		"total": 154921.96,
+		"monthly": {
+			"2013-04": {"total":18820.00, "Management & Support Consultancy":18820.00},
+			"2013-05": {"total":8918.00, "Management & Support Consultancy":8918.00},
+			"2013-09": {"total":5823.00, "Management & Support Consultancy":5823.00},
+			"2013-12": {"total":14600.00, "Management & Support Consultancy":14600.00},
+			"2014-03": {"total":25148.00, "Management & Support Consultancy":25148.00},
+			"2014-05": {"total":10000.00, "Management & Support Consultancy":10000.00},
+			"2014-12": {"total":7499.00, "MANAGEMENT & SUPPORT CONSULTANCY":7499.00},
+			"2015-03": {"total":20551.00, "MANAGEMENT & SUPPORT CONSULTANCY":20551.00},
+			"2019-12": {"total":30062.96, "CONSULTANCY-COMMISSIONED REPORT":30062.96},
+			"2020-04": {"total":13500.00, "CONSULTANCY-COMMISSIONED REPORT":13500.00}
+		}
+	},
+	"2415": {
+		"name": "HYDROGEN EUROPE",
+		"total": 78656.9,
+		"monthly": {
+			"2016-02": {"total":78656.90, "GRANTS TO EXTERNAL ORGANISATIONS":78656.90}
+		}
+	},
+	"2416": {
+		"name": "HYDROGEN EUROPE AISBL",
+		"total": 10673.68,
+		"monthly": {
+			"2020-05": {"total":10673.68, "GRANTS TO EXTERNAL ORGANISATIONS":10673.68}
+		}
+	},
+	"2417": {
+		"name": "HYDROGEN LINK",
+		"total": 4498.4,
+		"monthly": {
+			"2014-07": {"total":4498.40, "GRANTS TO EXTERNAL ORGANISATIONS":4498.40}
+		}
+	},
+	"2418": {
+		"name": "HYPEROPTIC LTD",
+		"total": 327466.25,
+		"monthly": {
+			"2014-07": {"total":1545.00, "GRANTS TO EXTERNAL ORGANISATIONS":1545.00},
+			"2014-10": {"total":3300.00, "GRANTS TO EXTERNAL ORGANISATIONS":3300.00},
+			"2014-11": {"total":300.00, "GRANTS TO EXTERNAL ORGANISATIONS":300.00},
+			"2014-12": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2015-01": {"total":7200.00, "Development & Environment":7200.00},
+			"2015-02": {"total":3600.00, "Development & Environment":3600.00},
+			"2015-03": {"total":23000.00, "GRANTS TO EXTERNAL ORGANISATIONS":23000.00},
+			"2015-04": {"total":11272.75, "GRANTS TO EXTERNAL ORGANISATIONS":11272.75},
+			"2015-05": {"total":600.00, "GRANTS TO EXTERNAL ORGANISATIONS":600.00},
+			"2015-08": {"total":45300.00, "GRANTS TO EXTERNAL ORGANISATIONS":45300.00},
+			"2015-09": {"total":48900.00, "GRANTS TO EXTERNAL ORGANISATIONS":48900.00},
+			"2015-10": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2015-11": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":9000.00},
+			"2015-12": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":9000.00},
+			"2016-01": {"total":26724.25, "GRANTS TO EXTERNAL ORGANISATIONS":26724.25},
+			"2016-02": {"total":29424.25, "GRANTS TO EXTERNAL ORGANISATIONS":29424.25},
+			"2016-03": {"total":30300.00, "GRANTS TO EXTERNAL ORGANISATIONS":30300.00},
+			"2016-05": {"total":9000.00, "Development & Environment":3000.00, "Resources":6000.00},
+			"2016-06": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-07": {"total":9000.00, "GRANTS TO EXTERNAL ORGANISATIONS":9000.00},
+			"2016-08": {"total":12000.00, "GRANTS TO EXTERNAL ORGANISATIONS":12000.00},
+			"2016-09": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
+			"2016-11": {"total":18000.00, "GRANTS TO EXTERNAL ORGANISATIONS":18000.00}
+		}
+	},
+	"2419": {
+		"name": "HYRAMP T/A HYER",
+		"total": 7793.54,
+		"monthly": {
+			"2013-09": {"total":7793.54, "Other Professional Fees":7793.54}
+		}
+	},
+	"2420": {
+		"name": "HYUNDAI",
+		"total": 2323703.33,
+		"monthly": {
+			"2014-06": {"total":2323703.33, "Grants to External Organisations":2323703.33}
+		}
+	},
+	"2421": {
+		"name": "HYUNDAI MOTOR (EUROPE) GMBH",
+		"total": 1119685.47,
+		"monthly": {
+			"2016-04": {"total":1119685.47, "Development, Enterprise & Environment":1119685.47}
+		}
+	},
+	"2422": {
+		"name": "HYUNDAI MOTOR UK LTD",
+		"total": 259348.88,
+		"monthly": {
+			"2015-02": {"total":259348.88, "Development, Enterprise & Environment":259348.88}
+		}
+	},
+	"2423": {
+		"name": "HYWEL HUGHES COMMERCIAL PROPERTY",
+		"total": 4810.88,
+		"monthly": {
+			"2019-09": {"total":4810.88, "OTHER PROFESSIONAL FEES":4810.88}
+		}
+	},
+	"2424": {
+		"name": "Hackney CVS",
+		"total": 1185,
+		"monthly": {
+			"2018-08": {"total":1185.00, "CATERERS SERVICE CHARGES":285.00, "CONSULTANCY-PROJECT MANAGEMENT":900.00}
+		}
+	},
+	"2425": {
+		"name": "Hackney Co-Op. Developments CIC",
+		"total": 16000,
+		"monthly": {
+			"2017-12": {"total":16000.00, "GRANTS TO EXTERNAL ORGANISATIONS":16000.00}
+		}
+	},
+	"2426": {
+		"name": "Hackney Co-operative Developments",
+		"total": 16000,
+		"monthly": {
+			"2017-12": {"total":16000.00, "GRANTS TO EXTERNAL ORGANISATIONS":16000.00}
+		}
+	},
+	"2427": {
+		"name": "Hackney Community College",
+		"total": 253034.59,
+		"monthly": {
+			"2016-11": {"total":253034.59, "GRANTS TO EXTERNAL ORGANISATIONS":253034.59}
+		}
+	},
+	"2428": {
+		"name": "Haymarket Media Group Ltd",
+		"total": 449,
+		"monthly": {
+			"2015-01": {"total":449.00, "Communities and Intelligence":449.00}
+		}
+	},
+	"2429": {
+		"name": "Hays Specialist Recruitment Ltd",
+		"total": 218434.62,
+		"monthly": {
+			"2017-12": {"total":165940.21, "AGENCY STAFF":139001.99, "CONSULTANTS (CONTRACTORS)":7506.00, "GRANTS TO EXTERNAL ORGANISATIONS":3806.25, "MANAGEMENT & SUPPORT CONSULTANCY":251.29, "RECRUITMENT AGENCY FEES":15374.68},
+			"2018-01": {"total":52494.41, "AGENCY STAFF":46618.76, "CONSULTANTS (CONTRACTORS)":1668.00, "MANAGEMENT & SUPPORT CONSULTANCY":440.27, "RECRUITMENT AGENCY FEES":3767.38}
+		}
+	},
+	"2430": {
+		"name": "Helpful Technology Ltd",
+		"total": 2160,
+		"monthly": {
+			"2017-12": {"total":2160.00, "OTHER PROFESSIONAL FEES":2160.00}
+		}
+	},
+	"2431": {
+		"name": "Higher Education Funding Council",
+		"total": 399,
+		"monthly": {
+			"2017-05": {"total":399.00, "CONFERENCES & SEMINARS":399.00}
+		}
+	},
+	"2432": {
+		"name": "Holborn Community Association",
+		"total": 8650,
+		"monthly": {
+			"2017-03": {"total":8650.00, "GRANTS TO EXTERNAL ORGANISATIONS":8650.00}
+		}
+	},
+	"2433": {
+		"name": "Holland Festival",
+		"total": 10000,
+		"monthly": {
+			"2015-03": {"total":10000.00, "OTHER PROFESSIONAL FEES":10000.00}
+		}
+	},
+	"2434": {
+		"name": "Holly Trinity Church of England Primary School",
+		"total": 10000,
+		"monthly": {
+			"2018-12": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
+		}
+	},
+	"2435": {
+		"name": "Horsey Lightly",
+		"total": 1000,
+		"monthly": {
+			"2018-01": {"total":1000.00, "LEGAL FEES":1000.00}
+		}
+	},
+	"2436": {
+		"name": "Horsey Lightly Client Account",
+		"total": 25000,
+		"monthly": {
+			"2017-12": {"total":25000.00, "LEGAL FEES":25000.00}
+		}
+	},
+	"2437": {
+		"name": "Hounslow Action for Youth",
+		"total": 10000,
+		"monthly": {
+			"2017-03": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00}
+		}
+	},
+	"2438": {
+		"name": "House of Lords",
+		"total": 7656.15,
+		"monthly": {
+			"2017-12": {"total":7656.15, "SECONDED STAFF":7656.15}
+		}
+	},
+	"2439": {
+		"name": "Huma Bhabha",
+		"total": 6000,
+		"monthly": {
+			"2016-11": {"total":6000.00, "OTHER PROFESSIONAL FEES":6000.00}
+		}
+	},
+	"2440": {
 		"name": "HumanRace",
 		"total": 8500,
 		"monthly": {
 			"2017-04": {"total":8500.00, "Miscellaneous Costs":8500.00}
 		}
 	},
-	"2401": {
+	"2441": {
 		"name": "Humankind Research",
 		"total": 50000,
 		"monthly": {
 			"2017-12": {"total":50000.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":50000.00}
 		}
 	},
-	"2402": {
+	"2442": {
 		"name": "Hunters Contracts",
 		"total": 730,
 		"monthly": {
 			"2017-12": {"total":730.00, "FURNITURE & EQUIPMENT":730.00}
 		}
 	},
-	"2403": {
+	"2443": {
 		"name": "Huntress Search Ltd",
 		"total": 1669.07,
 		"monthly": {
 			"2017-12": {"total":1669.07, "AGENCY STAFF":1669.07}
 		}
 	},
-	"2404": {
+	"2444": {
 		"name": "Hyundai Motor (Europe) GmbH",
 		"total": 643733.5,
 		"monthly": {
 			"2017-12": {"total":643733.50, "GRANTS TO EXTERNAL ORGANISATIONS":643733.50}
 		}
 	},
-	"2405": {
+	"2445": {
 		"name": "I AM REMI LTD",
-		"total": 3270,
+		"total": 6540,
 		"monthly": {
 			"2020-06": {"total":2180.00, "STAFF TRAINING":2180.00},
-			"2020-08": {"total":1090.00, "STAFF TRAINING":1090.00}
+			"2020-08": {"total":1090.00, "STAFF TRAINING":1090.00},
+			"2020-11": {"total":3270.00, "STAFF TRAINING":3270.00}
 		}
 	},
-	"2406": {
+	"2446": {
 		"name": "I LIKE THE SOUND OF THAT LTD",
 		"total": 1500,
 		"monthly": {
 			"2017-02": {"total":1500.00, "EVENT MANAGEMENT FEE":1500.00}
 		}
 	},
-	"2407": {
+	"2447": {
 		"name": "I-DASH LTD",
 		"total": 3000,
 		"monthly": {
 			"2014-09": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
 		}
 	},
-	"2408": {
+	"2448": {
 		"name": "I.M. KOHLER",
 		"total": 2830.41,
 		"monthly": {
@@ -68,452 +526,13 @@
 			"2018-07": {"total":670.95, "AGENCY STAFF":670.95}
 		}
 	},
-	"2409": {
+	"2449": {
 		"name": "I.M. Kohler",
 		"total": 53052.61,
 		"monthly": {
 			"2018-01": {"total":1371.65, "OTHER PROFESSIONAL FEES":1371.65},
 			"2018-04": {"total":50000.00, "GRANTS TO EXTERNAL ORGANISATIONS":50000.00},
 			"2018-08": {"total":1680.96, "AGENCY STAFF":409.24, "FURNITURE & EQUIPMENT":1271.72}
-		}
-	},
-	"2410": {
-		"name": "I4C PUBLICITY LTD",
-		"alternate-names": [
-			"I4C PUBLICITY LIMITED"
-		],
-		"total": 5115.45,
-		"monthly": {
-			"2013-06": {"total":970.00, "Uniforms":970.00},
-			"2014-11": {"total":275.95, "STATIONERY":275.95},
-			"2015-09": {"total":1457.00, "UNIFORMS":1457.00},
-			"2017-04": {"total":510.00, "UNIFORMS":510.00},
-			"2018-01": {"total":865.00, "UNIFORMS":865.00},
-			"2019-04": {"total":1037.50, "UNIFORMS":1037.50}
-		}
-	},
-	"2411": {
-		"name": "IAN GORDON AND ASSOCIATES",
-		"total": 5000,
-		"monthly": {
-			"2017-01": {"total":5000.00, "CONSULTANCY  EVALUATION ASSESSMENT":5000.00}
-		}
-	},
-	"2412": {
-		"name": "IAN GRIFFITHS T/AEVENT-PHOTOS.CO.UK",
-		"total": 540,
-		"monthly": {
-			"2020-05": {"total":540.00, "PHOTOGRAPHY & VIDEO":540.00}
-		}
-	},
-	"2413": {
-		"name": "IASQUARE AND DIALECT LABS",
-		"total": 357,
-		"monthly": {
-			"2018-01": {"total":357.00, "STAFF TRAINING":357.00}
-		}
-	},
-	"2414": {
-		"name": "IB2I LTD",
-		"total": 3800,
-		"monthly": {
-			"2015-11": {"total":3800.00, "GRANTS TO EXTERNAL ORGANISATIONS":3800.00}
-		}
-	},
-	"2415": {
-		"name": "IBIS BUDGET HOTEL LONDON BARKING",
-		"total": 84489.34,
-		"monthly": {
-			"2020-04": {"total":84489.34, "NON-GLA STAFF-HOTEL ACCOMMODATION":84489.34}
-		}
-	},
-	"2416": {
-		"name": "IBIS BUDGET LONDON CITY AIRPORT LTD",
-		"alternate-names": [
-			"IBIS BUDGET LONDON CITY AIRPORT LIMITED"
-		],
-		"total": 90720,
-		"monthly": {
-			"2020-04": {"total":90720.00, "NON-GLA STAFF-HOTEL ACCOMMODATION":90720.00}
-		}
-	},
-	"2417": {
-		"name": "IBIS HOTEL",
-		"total": 134820,
-		"monthly": {
-			"2020-04": {"total":134820.00, "NON-GLA STAFF-HOTEL ACCOMMODATION":134820.00}
-		}
-	},
-	"2418": {
-		"name": "IBM",
-		"alternate-names": [
-			"IBM UNITED KINGDOM LIMITED"
-		],
-		"total": 17687.66,
-		"monthly": {
-			"2013-08": {"total":17687.66, "Software Maintenance":17687.66}
-		}
-	},
-	"2419": {
-		"name": "IBRAHIM HASSAN POET",
-		"total": 500,
-		"monthly": {
-			"2016-03": {"total":500.00, "OTHER PROFESSIONAL FEES":500.00}
-		}
-	},
-	"2420": {
-		"name": "IC CONSULTANTS LTD",
-		"total": 112980.37,
-		"monthly": {
-			"2018-10": {"total":4750.00, "MANAGEMENT & SUPPORT CONSULTANCY":4750.00},
-			"2019-03": {"total":4750.00, "MANAGEMENT & SUPPORT CONSULTANCY":4750.00},
-			"2019-06": {"total":28000.00, "GRANTS TO EXTERNAL ORGANISATIONS":28000.00},
-			"2020-03": {"total":70480.37, "GRANTS TO EXTERNAL ORGANISATIONS":70480.37},
-			"2020-06": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00}
-		}
-	},
-	"2421": {
-		"name": "IC WORKS",
-		"total": 3115,
-		"monthly": {
-			"2017-04": {"total":2450.00, "CONSULTANCY-COMMISSIONED REPORT":2450.00},
-			"2018-07": {"total":665.00, "TRANSCRIPTION":665.00}
-		}
-	},
-	"2422": {
-		"name": "ICA ENTERPRISES LTD",
-		"total": 2860,
-		"monthly": {
-			"2018-02": {"total":2860.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":2860.00}
-		}
-	},
-	"2423": {
-		"name": "ICAP",
-		"total": 11102.74,
-		"monthly": {
-			"2016-02": {"total":11102.74, "BROKERS FEES":11102.74}
-		}
-	},
-	"2424": {
-		"name": "ICAP EUROPE LTD",
-		"alternate-names": [
-			"ICAP EUROPE LIMITED"
-		],
-		"total": 12057.55,
-		"monthly": {
-			"2018-05": {"total":7054.80, "BROKERS FEES":7054.80},
-			"2018-06": {"total":2564.39, "BROKERS FEES":2564.39},
-			"2018-07": {"total":2438.36, "BROKERS FEES":2438.36}
-		}
-	},
-	"2425": {
-		"name": "ICAP Europe Ltd",
-		"alternate-names": [
-			"ICAP Europe Limited"
-		],
-		"total": 3397.26,
-		"monthly": {
-			"2017-05": {"total":3397.26, "Brokers Fees":3397.26}
-		}
-	},
-	"2426": {
-		"name": "ICC",
-		"total": 683,
-		"monthly": {
-			"2018-08": {"total":375.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":375.00},
-			"2019-07": {"total":308.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":308.00}
-		}
-	},
-	"2427": {
-		"name": "ICENDRIS LTD",
-		"total": 26906.28,
-		"monthly": {
-			"2013-06": {"total":4400.00, "Staff Training":4400.00},
-			"2013-11": {"total":2200.00, "Staff Training":2200.00},
-			"2013-12": {"total":5500.00, "Staff Training":5500.00},
-			"2014-01": {"total":2200.00, "Staff Training":2200.00},
-			"2014-02": {"total":2200.00, "Staff Training":2200.00},
-			"2014-03": {"total":4906.28, "Staff Training":4906.28},
-			"2014-04": {"total":1100.00, "Staff Training":1100.00},
-			"2014-05": {"total":1100.00, "Staff Training":1100.00},
-			"2014-10": {"total":3300.00, "STAFF TRAINING":3300.00}
-		}
-	},
-	"2428": {
-		"name": "ICF CONSULTING SERVICES LTD",
-		"alternate-names": [
-			"ICF CONSULTING SERVICES LIMITED"
-		],
-		"total": 154361,
-		"monthly": {
-			"2016-05": {"total":31175.00, "Assembly & Secretariat":8700.00, "Resources":22475.00},
-			"2017-05": {"total":23210.00, "GRANTS TO EXTERNAL ORGANISATIONS":23210.00},
-			"2019-03": {"total":17000.00, "CONSULTANCY  EVALUATION ASSESSMENT":17000.00},
-			"2019-11": {"total":7513.00, "CONSULTANCY  EVALUATION ASSESSMENT":7513.00},
-			"2019-12": {"total":26100.00, "GRANTS TO EXTERNAL ORGANISATIONS":26100.00},
-			"2020-05": {"total":6900.00, "GRANTS TO EXTERNAL ORGANISATIONS":6900.00},
-			"2020-06": {"total":14925.00, "RESEARCH & STUDY FEES":14925.00},
-			"2020-09": {"total":27538.00, "CONSULTANCY  EVALUATION ASSESSMENT":27538.00}
-		}
-	},
-	"2429": {
-		"name": "ICM RESEARCH LTD",
-		"alternate-names": [
-			"ICM RESEARCH LIMITED"
-		],
-		"total": 650535,
-		"monthly": {
-			"2013-04": {"total":21750.00, "Management & Support Consultancy":17750.00, "Marketing & Economic Research":4000.00},
-			"2013-07": {"total":8000.00, "Marketing & Economic Research":8000.00},
-			"2013-08": {"total":17750.00, "Management & Support Consultancy":17750.00},
-			"2013-09": {"total":4000.00, "Marketing & Economic Research":4000.00},
-			"2013-10": {"total":12000.00, "Marketing & Economic Research":12000.00},
-			"2013-12": {"total":8000.00, "Marketing & Economic Research":8000.00},
-			"2014-01": {"total":71000.00, "Management & Support Consultancy":71000.00},
-			"2014-02": {"total":16000.00, "Marketing & Economic Research":16000.00},
-			"2014-04": {"total":51500.00, "Consultancy-Project Management":17750.00, "Management & Support Consultancy":17750.00, "Marketing & Economic Research":16000.00},
-			"2014-05": {"total":4000.00, "Marketing & Economic Research":4000.00},
-			"2014-06": {"total":2000.00, "Marketing & Economic Research":2000.00},
-			"2014-07": {"total":1950.00, "EQUIPMENT REPAIRS & MAINTENANCE":1950.00},
-			"2014-08": {"total":13500.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":13500.00},
-			"2014-09": {"total":4500.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4500.00},
-			"2014-10": {"total":9000.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":9000.00},
-			"2014-11": {"total":62250.00, "RESEARCH & STUDY FEES":53250.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":9000.00},
-			"2015-02": {"total":8000.00, "External Affairs":8000.00},
-			"2015-04": {"total":17750.00, "RESEARCH & STUDY FEES":17750.00},
-			"2015-05": {"total":26450.00, "RESEARCH & STUDY FEES":17750.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":8700.00},
-			"2015-06": {"total":5300.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":5300.00},
-			"2015-09": {"total":26050.00, "RESEARCH & STUDY FEES":17750.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":8300.00},
-			"2015-10": {"total":5300.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":5300.00},
-			"2015-11": {"total":17750.00, "RESEARCH & STUDY FEES":17750.00},
-			"2016-02": {"total":26750.00, "RESEARCH & STUDY FEES":17750.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":9000.00},
-			"2016-04": {"total":9800.00, "External Affairs":9800.00},
-			"2016-06": {"total":19250.00, "RESEARCH & STUDY FEES":17750.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":1500.00},
-			"2016-08": {"total":2800.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":2800.00},
-			"2016-09": {"total":13950.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":13950.00},
-			"2016-10": {"total":9350.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":9350.00},
-			"2016-11": {"total":3900.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":3900.00},
-			"2017-01": {"total":4600.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4600.00},
-			"2017-02": {"total":9200.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":9200.00},
-			"2017-04": {"total":4600.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4600.00},
-			"2017-05": {"total":1550.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":1550.00},
-			"2017-06": {"total":9600.00, "CONSULTANCY  EVALUATION ASSESSMENT":9600.00},
-			"2017-08": {"total":5250.00, "CONSULTANCY  EVALUATION ASSESSMENT":5250.00},
-			"2017-09": {"total":6200.00, "CONSULTANCY  EVALUATION ASSESSMENT":6200.00},
-			"2018-08": {"total":9840.00, "CONSULTANCY  EVALUATION ASSESSMENT":9840.00},
-			"2018-10": {"total":11780.00, "CONSULTANCY  EVALUATION ASSESSMENT":11780.00},
-			"2018-12": {"total":10760.00, "CONSULTANCY  EVALUATION ASSESSMENT":10760.00},
-			"2019-02": {"total":11050.00, "CONSULTANCY  EVALUATION ASSESSMENT":11050.00},
-			"2019-04": {"total":6560.00, "CONSULTANCY  EVALUATION ASSESSMENT":6560.00},
-			"2019-06": {"total":9100.00, "CONSULTANCY  EVALUATION ASSESSMENT":9100.00},
-			"2019-07": {"total":5490.00, "CONSULTANCY  EVALUATION ASSESSMENT":5490.00},
-			"2019-10": {"total":11975.00, "CONSULTANCY  EVALUATION ASSESSMENT":11975.00},
-			"2019-12": {"total":11905.00, "CONSULTANCY  EVALUATION ASSESSMENT":11905.00},
-			"2020-02": {"total":11250.00, "CONSULTANCY  EVALUATION ASSESSMENT":11250.00},
-			"2020-03": {"total":4550.00, "CONSULTANCY  EVALUATION ASSESSMENT":4550.00},
-			"2020-04": {"total":5675.00, "CONSULTANCY  EVALUATION ASSESSMENT":5675.00}
-		}
-	},
-	"2430": {
-		"name": "ICM Research Ltd",
-		"alternate-names": [
-			"ICM Research Limited"
-		],
-		"total": 10500,
-		"monthly": {
-			"2017-12": {"total":10500.00, "CONSULTANCY  EVALUATION ASSESSMENT":10500.00}
-		}
-	},
-	"2431": {
-		"name": "ICON DISPLAY LTD",
-		"alternate-names": [
-			"ICON DISPLAY LIMITED"
-		],
-		"total": 4288.7,
-		"monthly": {
-			"2013-09": {"total":2181.20, "Publications & Publicity Material":2181.20},
-			"2013-11": {"total":347.50, "Building Maintenance & Repairs":347.50},
-			"2014-03": {"total":1760.00, "Marketing Exhibitions & Events":1760.00}
-		}
-	},
-	"2432": {
-		"name": "ICON PRINTING LTD",
-		"total": 403.45,
-		"monthly": {
-			"2020-02": {"total":403.45, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":403.45}
-		}
-	},
-	"2433": {
-		"name": "ICOULD LTD",
-		"total": 9800,
-		"monthly": {
-			"2015-05": {"total":9800.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":9800.00}
-		}
-	},
-	"2434": {
-		"name": "ICS COMMUNICATIONS",
-		"total": 35590,
-		"monthly": {
-			"2015-02": {"total":3000.00, "Development & Environment":3000.00},
-			"2015-04": {"total":8800.00, "GRANTS TO EXTERNAL ORGANISATIONS":8800.00},
-			"2015-12": {"total":14790.00, "GRANTS TO EXTERNAL ORGANISATIONS":14790.00},
-			"2016-02": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
-			"2016-03": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
-		}
-	},
-	"2435": {
-		"name": "ID Promotional Services",
-		"total": 2500,
-		"monthly": {
-			"2016-08": {"total":2500.00, "MARKETING EXHIBITIONS & EVENTS":2500.00}
-		}
-	},
-	"2436": {
-		"name": "IDENTITY CREATIVE LTD T/A DIGIISTOR",
-		"total": 600,
-		"monthly": {
-			"2020-06": {"total":600.00, "MEALS REFRESHMENTS & SUBSISTENCE":600.00}
-		}
-	},
-	"2437": {
-		"name": "IDM PROPERTY MANAGEMENT LLP",
-		"total": 886780,
-		"monthly": {
-			"2020-07": {"total":684206.00, "GRANTS TO EXTERNAL ORGANISATIONS":684206.00},
-			"2020-08": {"total":202574.00, "GRANTS TO EXTERNAL ORGANISATIONS":202574.00}
-		}
-	},
-	"2438": {
-		"name": "IDNET",
-		"total": 14995,
-		"monthly": {
-			"2015-02": {"total":3000.00, "Development & Environment":3000.00},
-			"2015-03": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00},
-			"2015-07": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2015-08": {"total":2995.00, "GRANTS TO EXTERNAL ORGANISATIONS":2995.00}
-		}
-	},
-	"2439": {
-		"name": "IDOX",
-		"total": 814733.68,
-		"monthly": {
-			"2013-08": {"total":29206.50, "Publications & Periodicals":29206.50},
-			"2013-10": {"total":41306.50, "Publications & Periodicals":41306.50},
-			"2014-02": {"total":71623.00, "Publications & Periodicals":71623.00},
-			"2014-04": {"total":30972.50, "Publications & Periodicals":30972.50},
-			"2014-09": {"total":36886.00, "PUBLICATIONS & PERIODICALS":36886.00},
-			"2014-11": {"total":36886.00, "PUBLICATIONS & PERIODICALS":36886.00},
-			"2015-02": {"total":36886.00, "Communities and Intelligence":36886.00},
-			"2015-04": {"total":29936.75, "PUBLICATIONS & PERIODICALS":29936.75},
-			"2015-07": {"total":37992.75, "PUBLICATIONS & PERIODICALS":37992.75},
-			"2015-11": {"total":37993.00, "PUBLICATIONS & PERIODICALS":37993.00},
-			"2016-02": {"total":37992.00, "PUBLICATIONS & PERIODICALS":37992.00},
-			"2016-03": {"total":31194.00, "PUBLICATIONS & PERIODICALS":31194.00},
-			"2016-09": {"total":39132.50, "DATA PURCHASE":39132.50},
-			"2016-11": {"total":39132.50, "DATA PURCHASE":39132.50},
-			"2017-01": {"total":39132.50, "DATA PURCHASE":39132.50},
-			"2017-04": {"total":32219.03, "DATA PURCHASE":32219.03},
-			"2017-07": {"total":261.90, "DATA PURCHASE":261.90},
-			"2017-08": {"total":26483.25, "MANAGEMENT & SUPPORT CONSULTANCY":26483.25},
-			"2017-10": {"total":25533.25, "MANAGEMENT & SUPPORT CONSULTANCY":25533.25},
-			"2018-01": {"total":25533.25, "MANAGEMENT & SUPPORT CONSULTANCY":25533.25},
-			"2018-04": {"total":25697.50, "MANAGEMENT & SUPPORT CONSULTANCY":25697.50},
-			"2018-08": {"total":25533.25, "MANAGEMENT & SUPPORT CONSULTANCY":25533.25},
-			"2018-10": {"total":25533.25, "MANAGEMENT & SUPPORT CONSULTANCY":25533.25},
-			"2019-02": {"total":25533.25, "MANAGEMENT & SUPPORT CONSULTANCY":25533.25},
-			"2019-05": {"total":26133.25, "MANAGEMENT & SUPPORT CONSULTANCY":26133.25}
-		}
-	},
-	"2440": {
-		"name": "IDOX SOFTWARE LTD",
-		"total": 203224.8,
-		"monthly": {
-			"2019-09": {"total":3800.00, "PLANNING & DEVELOPMENT CONSULTANCY":3800.00},
-			"2019-10": {"total":9500.00, "PLANNING & DEVELOPMENT CONSULTANCY":9500.00},
-			"2019-12": {"total":9500.00, "PLANNING & DEVELOPMENT CONSULTANCY":9500.00},
-			"2020-05": {"total":94022.80, "STAFF TRAINING":94022.80},
-			"2020-07": {"total":86402.00, "PLANNING & DEVELOPMENT CONSULTANCY":86402.00}
-		}
-	},
-	"2441": {
-		"name": "IFF RESEARCH LTD",
-		"alternate-names": [
-			"IFF RESEARCH LIMITED"
-		],
-		"total": 17430,
-		"monthly": {
-			"2020-06": {"total":4980.00, "RESEARCH & STUDY FEES":4980.00},
-			"2020-08": {"total":12450.00, "RESEARCH & STUDY FEES":12450.00}
-		}
-	},
-	"2442": {
-		"name": "IFG ENTERPRISES LTD",
-		"total": 1285,
-		"monthly": {
-			"2016-11": {"total":1285.00, "STAFF TRAINING":1285.00}
-		}
-	},
-	"2443": {
-		"name": "IFSE LTD",
-		"total": 9950,
-		"monthly": {
-			"2020-02": {"total":9950.00, "CONSULTANCY-COMMISSIONED REPORT":9950.00}
-		}
-	},
-	"2444": {
-		"name": "IGEOLISE LTD",
-		"alternate-names": [
-			"IGEOLISE LIMITED"
-		],
-		"total": 50000,
-		"monthly": {
-			"2014-12": {"total":10000.00, "PUBLICATIONS & PERIODICALS":10000.00},
-			"2016-03": {"total":4000.00, "DATA PURCHASE":4000.00},
-			"2016-08": {"total":12000.00, "DATA PURCHASE":12000.00},
-			"2018-11": {"total":24000.00, "DATA PURCHASE":24000.00}
-		}
-	},
-	"2445": {
-		"name": "IGNITE TRUST",
-		"total": 10000,
-		"monthly": {
-			"2018-12": {"total":10000.00, "MANAGE IT SERVICES":10000.00}
-		}
-	},
-	"2446": {
-		"name": "IIT BOZEN KONSORTIAL-GMBH",
-		"total": 257259.31,
-		"monthly": {
-			"2014-06": {"total":124788.53, "GRANTS TO EXTERNAL ORGANISATIONS":124788.53},
-			"2016-01": {"total":79625.13, "GRANTS TO EXTERNAL ORGANISATIONS":79625.13},
-			"2017-05": {"total":14929.53, "GRANTS TO EXTERNAL ORGANISATIONS":14929.53},
-			"2018-12": {"total":34908.00, "GRANTS TO EXTERNAL ORGANISATIONS":34908.00},
-			"2019-01": {"total":3008.12, "GRANTS TO EXTERNAL ORGANISATIONS":3008.12}
-		}
-	},
-	"2447": {
-		"name": "IKLECTIK",
-		"total": 840,
-		"monthly": {
-			"2017-11": {"total":840.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":840.00}
-		}
-	},
-	"2448": {
-		"name": "ILLUMINATE PRODUCTIONS LTD",
-		"total": 26572,
-		"monthly": {
-			"2019-08": {"total":9500.00, "GRANTS TO EXTERNAL ORGANISATIONS":9500.00},
-			"2020-01": {"total":12000.00, "GRANTS TO EXTERNAL ORGANISATIONS":12000.00},
-			"2020-02": {"total":5072.00, "GRANTS TO EXTERNAL ORGANISATIONS":5072.00}
-		}
-	},
-	"2449": {
-		"name": "ILLUMINATE ROTHERHITHE",
-		"total": 20000,
-		"monthly": {
-			"2019-06": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
-			"2019-07": {"total":5002.16, "GRANTS TO EXTERNAL ORGANISATIONS":5002.16},
-			"2019-12": {"total":4997.84, "GRANTS TO EXTERNAL ORGANISATIONS":4997.84}
 		}
 	}
 	}

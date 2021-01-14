@@ -1,7 +1,556 @@
 {
-	"range": ["2014-04","2020-09"],
+	"range": ["2014-04","2020-11"],
 	"data": {
 	"5000": {
+		"name": "SGS TIMBER HAULAGE LTD",
+		"total": 4848,
+		"monthly": {
+			"2014-11": {"total":1200.00, "Cultural & Related Services":1200.00},
+			"2015-11": {"total":1200.00, "Cultural & Related Services":1200.00},
+			"2016-11": {"total":1200.00, "Cultural & Related Services":1200.00},
+			"2019-11": {"total":1248.00, "Cultural & Related Services":1248.00}
+		}
+	},
+	"5001": {
+		"name": "SGS UNITED KINGDOM LTD",
+		"total": 8167.75,
+		"monthly": {
+			"2014-08": {"total":2228.55, "Housing Revenue Account":2228.55},
+			"2014-10": {"total":5939.20, "Capital":5939.20}
+		}
+	},
+	"5002": {
+		"name": "SHADBOLT CONSULTIG LTD",
+		"alternate-names": [
+			"SHADBOLT CONSULTIG LIMITED"
+		],
+		"total": 950,
+		"monthly": {
+			"2015-08": {"total":950.00, "Adult Social Care":950.00}
+		}
+	},
+	"5003": {
+		"name": "SHAPE ADAPTATION LTD",
+		"total": 119440.14,
+		"monthly": {
+			"2014-11": {"total":4529.40, "Children's & Education Services":4529.40},
+			"2015-04": {"total":4099.00, "Capital":4099.00},
+			"2015-05": {"total":3493.00, "Capital":3493.00},
+			"2015-06": {"total":4230.00, "Capital":4230.00},
+			"2015-07": {"total":3835.00, "Capital":3835.00},
+			"2015-09": {"total":6245.00, "Capital":6245.00},
+			"2015-10": {"total":3205.00, "Capital":3205.00},
+			"2019-09": {"total":3952.00, "Capital":3952.00},
+			"2019-10": {"total":3946.00, "Capital":3946.00},
+			"2019-12": {"total":4486.00, "Capital":4486.00},
+			"2020-01": {"total":10940.30, "Capital":10940.30},
+			"2020-02": {"total":5011.00, "Capital":5011.00},
+			"2020-03": {"total":16342.00, "Capital":16342.00},
+			"2020-04": {"total":8316.00, "Capital":8316.00},
+			"2020-06": {"total":3150.00, "Capital":3150.00},
+			"2020-07": {"total":7129.00, "Capital":7129.00},
+			"2020-08": {"total":3610.00, "Capital":3610.00},
+			"2020-09": {"total":17851.44, "Capital":17851.44},
+			"2020-11": {"total":5070.00, "Capital":5070.00}
+		}
+	},
+	"5004": {
+		"name": "SHAPE POSTURE SEATING",
+		"total": 557.84,
+		"monthly": {
+			"2016-02": {"total":557.84, "Housing Revenue Account":557.84}
+		}
+	},
+	"5005": {
+		"name": "SHARED LIVES CARER",
+		"total": 20166.59,
+		"monthly": {
+			"2019-04": {"total":1320.00, "Adult Social Care":1320.00},
+			"2019-05": {"total":1320.00, "Adult Social Care":1320.00},
+			"2019-06": {"total":1051.92, "Adult Social Care":1051.92},
+			"2019-11": {"total":1492.50, "Adult Social Care":1492.50},
+			"2019-12": {"total":1537.50, "Adult Social Care":1537.50},
+			"2020-01": {"total":1230.00, "Adult Social Care":1230.00},
+			"2020-02": {"total":1230.00, "Adult Social Care":1230.00},
+			"2020-03": {"total":1537.50, "Adult Social Care":1537.50},
+			"2020-04": {"total":1659.22, "Adult Social Care":1659.22},
+			"2020-05": {"total":1351.72, "Adult Social Care":1351.72},
+			"2020-06": {"total":1689.65, "Adult Social Care":1689.65},
+			"2020-07": {"total":1624.17, "Adult Social Care":1624.17},
+			"2020-08": {"total":1401.54, "Adult Social Care":1401.54},
+			"2020-09": {"total":1720.87, "Adult Social Care":1720.87}
+		}
+	},
+	"5006": {
+		"name": "SHARED LIVES PLUS",
+		"total": 4508,
+		"monthly": {
+			"2020-03": {"total":4508.00, "Adult Social Care":4508.00}
+		}
+	},
+	"5007": {
+		"name": "SHAREDIRECT LTD",
+		"alternate-names": [
+			"SHAREDIRECT LIMITED"
+		],
+		"total": 30000,
+		"monthly": {
+			"2015-03": {"total":26067.33, "Capital":26067.33},
+			"2015-11": {"total":3932.67, "Capital":3932.67}
+		}
+	},
+	"5008": {
+		"name": "SHARK NINJA UK",
+		"total": 55.55,
+		"monthly": {
+			"2020-02": {"total":55.55, "Cultural & Related Services":55.55}
+		}
+	},
+	"5009": {
+		"name": "SHARKCLEAN.EU",
+		"total": 191.66,
+		"monthly": {
+			"2019-04": {"total":191.66, "Cultural & Related Services":191.66}
+		}
+	},
+	"5010": {
+		"name": "SHAW & SONS LTD",
+		"total": 27439.07,
+		"monthly": {
+			"2015-03": {"total":2968.86, "Central Services":2968.86},
+			"2015-04": {"total":1201.05, "Central Services":1201.05},
+			"2016-02": {"total":3505.00, "Central Services":3505.00},
+			"2016-03": {"total":2679.60, "Law & Governance":2679.60},
+			"2016-04": {"total":621.30, "Law & Governance":621.30},
+			"2016-05": {"total":3542.99, "Law & Governance":3542.99},
+			"2016-06": {"total":925.60, "Law & Governance":925.60},
+			"2017-02": {"total":1793.75, "Central Services":1793.75},
+			"2019-04": {"total":700.88, "Central Services":700.88},
+			"2019-05": {"total":2149.88, "Environmental & Regulatory Services":2149.88},
+			"2019-11": {"total":4054.68, "Central Services":4054.68},
+			"2019-12": {"total":361.88, "Central Services":361.88},
+			"2020-03": {"total":2933.60, "Central Services":2933.60}
+		}
+	},
+	"5011": {
+		"name": "SHB HIRE LTD",
+		"total": 454,
+		"monthly": {
+			"2020-02": {"total":454.00, "Unallocated":454.00}
+		}
+	},
+	"5012": {
+		"name": "SHEDSWAREHOUSE LTD",
+		"total": 1041.47,
+		"monthly": {
+			"2016-10": {"total":808.29, "Children's & Education Services":808.29},
+			"2019-12": {"total":233.18, "Children's & Education Services":233.18}
+		}
+	},
+	"5013": {
+		"name": "SHEELAGH TICKELL CONSULTANCY SERVICES",
+		"total": 11400,
+		"monthly": {
+			"2014-04": {"total":2000.00, "Children, Young People & Learning":2000.00},
+			"2014-07": {"total":2600.00, "Children, Young People & Learning":2600.00},
+			"2014-10": {"total":1800.00, "Children, Young People & Learning":1800.00},
+			"2014-12": {"total":1600.00, "Children's & Education Services":1600.00},
+			"2015-02": {"total":1000.00, "Children's & Education Services":1000.00},
+			"2015-03": {"total":800.00, "Children's & Education Services":800.00},
+			"2015-06": {"total":400.00, "Children's & Education Services":400.00},
+			"2015-07": {"total":1200.00, "Children's & Education Services":1200.00}
+		}
+	},
+	"5014": {
+		"name": "SHEFFIELD CITY CNC",
+		"total": 9.31,
+		"monthly": {
+			"2017-03": {"total":9.31, "Children's & Education Services":9.31}
+		}
+	},
+	"5015": {
+		"name": "SHEIN",
+		"total": 22.14,
+		"monthly": {
+			"2020-01": {"total":22.14, "Children's & Education Services":22.14}
+		}
+	},
+	"5016": {
+		"name": "SHELL GAS LTD",
+		"total": 15.57,
+		"monthly": {
+			"2016-02": {"total":11.02, "Cultural & Related Services":11.02},
+			"2016-03": {"total":4.55, "unknown":4.55}
+		}
+	},
+	"5017": {
+		"name": "SHELL TYNEMOUTH",
+		"total": 905.49,
+		"monthly": {
+			"2015-01": {"total":105.45, "Environmental & Regulatory Services":105.45},
+			"2015-05": {"total":19.92, "Cultural & Related Services":19.92},
+			"2015-06": {"total":39.75, "Cultural & Related Services":39.75},
+			"2015-08": {"total":27.26, "Cultural & Related Services":27.26},
+			"2015-09": {"total":30.06, "Cultural & Related Services":30.06},
+			"2015-10": {"total":29.13, "Cultural & Related Services":29.13},
+			"2015-11": {"total":18.26, "Cultural & Related Services":18.26},
+			"2016-01": {"total":26.72, "Cultural & Related Services":26.72},
+			"2016-04": {"total":37.41, "Cultural & Related Services":37.41},
+			"2016-05": {"total":22.97, "Cultural & Related Services":22.97},
+			"2016-06": {"total":38.50, "Cultural & Related Services":38.50},
+			"2016-07": {"total":31.75, "Cultural & Related Services":31.75},
+			"2016-08": {"total":36.88, "Cultural & Related Services":36.88},
+			"2016-09": {"total":32.91, "Cultural & Related Services":32.91},
+			"2016-10": {"total":37.76, "Cultural & Related Services":37.76},
+			"2016-12": {"total":35.54, "Cultural & Related Services":35.54},
+			"2017-01": {"total":24.92, "Cultural & Related Services":24.92},
+			"2019-04": {"total":62.78, "Cultural & Related Services":62.78},
+			"2019-06": {"total":40.69, "Cultural & Related Services":40.69},
+			"2019-08": {"total":39.28, "Cultural & Related Services":39.28},
+			"2019-09": {"total":40.17, "Cultural & Related Services":40.17},
+			"2019-12": {"total":60.06, "Cultural & Related Services":60.06}
+		}
+	},
+	"5018": {
+		"name": "SHELTER",
+		"total": 12942.14,
+		"monthly": {
+			"2014-06": {"total":3321.30, "Housing Revenue Account":3321.30},
+			"2014-08": {"total":65.00, "Children, Young People & Learning":65.00},
+			"2016-08": {"total":480.00, "Housing Services":480.00},
+			"2020-09": {"total":9075.84, "Housing Services":9075.84}
+		}
+	},
+	"5019": {
+		"name": "SHELTER TRAINING",
+		"total": 1409.8,
+		"monthly": {
+			"2016-09": {"total":460.00, "Environment, Housing & Leisure":460.00},
+			"2019-08": {"total":949.80, "Housing Services":949.80}
+		}
+	},
+	"5020": {
+		"name": "SHEPHERD OFFSHORE LTD",
+		"total": 65000,
+		"monthly": {
+			"2014-11": {"total":65000.00, "Capital":65000.00}
+		}
+	},
+	"5021": {
+		"name": "SHERRIFF AMENITY",
+		"total": 102017.28,
+		"monthly": {
+			"2014-04": {"total":583.02, "Environment & Leisure":583.02},
+			"2014-05": {"total":4350.65, "Environment & Leisure":4350.65},
+			"2014-06": {"total":594.00, "Housing Revenue Account":594.00},
+			"2014-08": {"total":957.14, "Environment & Leisure":957.14},
+			"2014-09": {"total":1208.80, "Environment & Leisure":1208.80},
+			"2014-10": {"total":18176.48, "Environment & Leisure":18176.48},
+			"2014-12": {"total":617.10, "Cultural & Related Services":617.10},
+			"2015-02": {"total":797.20, "Cultural & Related Services":797.20},
+			"2015-03": {"total":4270.82, "Cultural & Related Services":3642.86, "Environmental & Regulatory Services":627.96},
+			"2015-04": {"total":7625.87, "Cultural & Related Services":7625.87},
+			"2015-06": {"total":485.00, "Cultural & Related Services":485.00},
+			"2015-07": {"total":1424.82, "Cultural & Related Services":1424.82},
+			"2015-09": {"total":9955.85, "Children's & Education Services":720.00, "Cultural & Related Services":9235.85},
+			"2015-10": {"total":216.00, "Cultural & Related Services":216.00},
+			"2015-12": {"total":2065.31, "Cultural & Related Services":1014.51, "Environmental & Regulatory Services":1050.80},
+			"2016-01": {"total":750.27, "Environment, Leisure & Housing":750.27},
+			"2016-03": {"total":782.44, "Environment, Housing & Leisure":782.44},
+			"2016-05": {"total":5856.42, "Environment, Housing & Leisure":5856.42},
+			"2016-06": {"total":5955.24, "Environment, Housing & Leisure":5955.24},
+			"2016-07": {"total":1790.07, "Cultural & Related Services":1790.07},
+			"2016-08": {"total":4870.98, "Environment, Housing & Leisure":4870.98},
+			"2016-09": {"total":840.40, "Environment, Housing & Leisure":840.40},
+			"2016-10": {"total":2608.80, "Cultural & Related Services":2608.80},
+			"2016-11": {"total":1139.94, "Cultural & Related Services":1139.94},
+			"2017-01": {"total":427.50, "Cultural & Related Services":427.50},
+			"2017-02": {"total":3020.50, "Cultural & Related Services":3020.50},
+			"2017-03": {"total":1303.96, "Cultural & Related Services":486.54, "Environmental & Regulatory Services":817.42},
+			"2019-04": {"total":6876.48, "Cultural & Related Services":5644.28, "Environmental & Regulatory Services":1232.20},
+			"2019-06": {"total":1574.36, "Cultural & Related Services":1574.36},
+			"2019-09": {"total":1574.35, "Cultural & Related Services":1574.35},
+			"2020-03": {"total":5091.40, "Cultural & Related Services":5091.40},
+			"2020-05": {"total":2114.53, "Cultural & Related Services":2114.53},
+			"2020-06": {"total":1720.18, "Cultural & Related Services":1218.42, "Environmental & Regulatory Services":501.76},
+			"2020-07": {"total":391.40, "Cultural & Related Services":391.40}
+		}
+	},
+	"5022": {
+		"name": "SHIELD ENVIRONMENTAL SERVICES LTD",
+		"total": 1950,
+		"monthly": {
+			"2015-05": {"total":900.00, "Capital":750.00, "Holding A/C":150.00},
+			"2015-11": {"total":1050.00, "Capital":750.00, "Holding A/C":300.00}
+		}
+	},
+	"5023": {
+		"name": "SHIKARA",
+		"total": 30.79,
+		"monthly": {
+			"2020-01": {"total":30.79, "Children's & Education Services":30.79}
+		}
+	},
+	"5024": {
+		"name": "SHINE CONSULTING LTD",
+		"total": 10692,
+		"monthly": {
+			"2015-05": {"total":3672.00, "Planning Services":3672.00},
+			"2015-06": {"total":3060.00, "Planning Services":3060.00},
+			"2015-08": {"total":3060.00, "Planning Services":3060.00},
+			"2015-09": {"total":900.00, "Planning Services":900.00}
+		}
+	},
+	"5025": {
+		"name": "SHINEVISION LTD",
+		"total": 8960,
+		"monthly": {
+			"2020-05": {"total":8960.00, "Central Services":8960.00}
+		}
+	},
+	"5026": {
+		"name": "SHINING STARS",
+		"total": 201868.54,
+		"monthly": {
+			"2014-05": {"total":5092.50, "Children, Young People & Learning":5092.50},
+			"2014-07": {"total":4342.80, "Children, Young People & Learning":4342.80},
+			"2014-08": {"total":873.00, "Children, Young People & Learning":873.00},
+			"2014-10": {"total":14259.00, "Children, Young People & Learning":14259.00},
+			"2015-01": {"total":11494.50, "Children's & Education Services":11494.50},
+			"2015-02": {"total":712.50, "Children's & Education Services":712.50},
+			"2015-03": {"total":1861.20, "Children's & Education Services":1861.20},
+			"2015-04": {"total":11400.00, "Children's & Education Services":11400.00},
+			"2015-07": {"total":3348.00, "Children's & Education Services":3348.00},
+			"2015-09": {"total":7254.00, "Children's & Education Services":7254.00},
+			"2015-10": {"total":960.00, "Children's & Education Services":960.00},
+			"2015-11": {"total":781.20, "Children's & Education Services":781.20},
+			"2015-12": {"total":582.00, "Children's & Education Services":582.00},
+			"2016-01": {"total":6620.25, "Children, Young People & Learning":6620.25},
+			"2016-03": {"total":1227.60, "Health, Education, Care and Safeguarding":1227.60},
+			"2016-05": {"total":8894.63, "Health, Education, Care and Safeguarding":8894.63},
+			"2016-06": {"total":7056.75, "Health, Education, Care and Safeguarding":7056.75},
+			"2016-07": {"total":1837.87, "Children's & Education Services":1837.87},
+			"2016-10": {"total":9064.87, "Children's & Education Services":9064.87},
+			"2016-11": {"total":367.57, "unknown":367.57},
+			"2016-12": {"total":396.46, "Children's & Education Services":396.46},
+			"2017-01": {"total":5812.72, "Children's & Education Services":5812.72},
+			"2017-03": {"total":589.28, "Children's & Education Services":589.28},
+			"2019-04": {"total":4212.00, "Children's & Education Services":4212.00},
+			"2019-05": {"total":17701.20, "Children's & Education Services":17701.20},
+			"2019-09": {"total":12555.00, "Children's & Education Services":12555.00},
+			"2019-12": {"total":6165.00, "Children's & Education Services":6165.00},
+			"2020-01": {"total":8266.50, "Children's & Education Services":8266.50},
+			"2020-03": {"total":10911.98, "Children's & Education Services":10911.98},
+			"2020-04": {"total":14004.90, "Children's & Education Services":14004.90},
+			"2020-07": {"total":8971.20, "Children's & Education Services":8971.20},
+			"2020-09": {"total":12772.69, "Children's & Education Services":12772.69},
+			"2020-11": {"total":1479.37, "Children's & Education Services":1479.37}
+		}
+	},
+	"5027": {
+		"name": "SHIPLY",
+		"total": 10.83,
+		"monthly": {
+			"2019-04": {"total":10.83, "Cultural & Related Services":10.83}
+		}
+	},
+	"5028": {
+		"name": "SHIREMOOR & DISTRICT CHILDRENS TREAT",
+		"total": 300,
+		"monthly": {
+			"2017-02": {"total":300.00, "Adult Social Care":300.00}
+		}
+	},
+	"5029": {
+		"name": "SHIREMOOR ADVENTURE PLAYGROUND TRUST",
+		"total": 22818.18,
+		"monthly": {
+			"2014-06": {"total":4524.32, "Environment & Leisure":4524.32},
+			"2014-07": {"total":1131.08, "Environment & Leisure":1131.08},
+			"2014-12": {"total":306.17, "Cultural & Related Services":306.17},
+			"2015-03": {"total":1341.67, "Cultural & Related Services":1341.67},
+			"2015-05": {"total":254.00, "Cultural & Related Services":254.00},
+			"2015-06": {"total":411.09, "Cultural & Related Services":411.09},
+			"2015-07": {"total":499.34, "Cultural & Related Services":499.34},
+			"2015-08": {"total":331.43, "Cultural & Related Services":331.43},
+			"2015-09": {"total":763.72, "Cultural & Related Services":763.72},
+			"2016-01": {"total":810.40, "Environment, Leisure & Housing":810.40},
+			"2016-03": {"total":300.00, "Corporate Strategy":300.00},
+			"2016-04": {"total":322.92, "Environment, Housing & Leisure":322.92},
+			"2016-05": {"total":322.92, "Environment, Housing & Leisure":322.92},
+			"2016-06": {"total":281.60, "Environment, Housing & Leisure":281.60},
+			"2016-07": {"total":306.39, "Cultural & Related Services":306.39},
+			"2016-11": {"total":384.89, "Cultural & Related Services":384.89},
+			"2017-01": {"total":273.34, "Cultural & Related Services":273.34},
+			"2017-02": {"total":331.18, "Cultural & Related Services":331.18},
+			"2019-06": {"total":562.58, "General Fund":562.58},
+			"2019-08": {"total":719.98, "Cultural & Related Services":719.98},
+			"2019-09": {"total":1439.96, "Cultural & Related Services":1439.96},
+			"2019-10": {"total":1219.98, "Cultural & Related Services":1219.98},
+			"2019-11": {"total":719.98, "Cultural & Related Services":719.98},
+			"2019-12": {"total":719.98, "Cultural & Related Services":719.98},
+			"2020-01": {"total":719.98, "Cultural & Related Services":719.98},
+			"2020-02": {"total":570.00, "Adult Social Care":570.00},
+			"2020-03": {"total":1205.86, "Cultural & Related Services":1205.86},
+			"2020-09": {"total":1440.36, "Cultural & Related Services":1440.36},
+			"2020-11": {"total":603.06, "Cultural & Related Services":603.06}
+		}
+	},
+	"5030": {
+		"name": "SHIREMOOR CARPET CENTRE",
+		"total": 27757.6,
+		"monthly": {
+			"2014-05": {"total":335.00, "Children, Young People & Learning":335.00},
+			"2014-06": {"total":711.00, "Children, Young People & Learning":711.00},
+			"2014-07": {"total":2765.00, "Children, Young People & Learning":2765.00},
+			"2014-09": {"total":490.00, "Children, Young People & Learning":490.00},
+			"2014-10": {"total":1450.00, "Capital":1450.00},
+			"2014-11": {"total":1118.00, "Capital":1118.00},
+			"2015-01": {"total":5505.00, "Capital":4290.00, "Children's & Education Services":1215.00},
+			"2015-10": {"total":1038.00, "Children's & Education Services":1038.00},
+			"2015-11": {"total":2196.00, "Adult Social Care":2196.00},
+			"2016-02": {"total":2497.50, "Housing Services":2497.50},
+			"2019-11": {"total":2290.00, "Capital":2290.00},
+			"2020-02": {"total":5716.60, "Children's & Education Services":5716.60},
+			"2020-07": {"total":408.00, "Housing Services":408.00},
+			"2020-09": {"total":1237.50, "Capital":1237.50}
+		}
+	},
+	"5031": {
+		"name": "SHIREMOOR COMPRESSORS LTD",
+		"alternate-names": [
+			"SHIREMOOR COMPRESSORS LIMITED"
+		],
+		"total": 9231.1,
+		"monthly": {
+			"2014-04": {"total":531.50, "Environment & Leisure":531.50},
+			"2014-05": {"total":668.00, "Environment & Leisure":668.00},
+			"2014-06": {"total":434.00, "Environment & Leisure":434.00},
+			"2014-09": {"total":324.50, "Environment & Leisure":324.50},
+			"2015-03": {"total":85.50, "Cultural & Related Services":85.50},
+			"2015-04": {"total":597.10, "Cultural & Related Services":345.10, "Environmental & Regulatory Services":252.00},
+			"2015-06": {"total":314.50, "Unallocated":314.50},
+			"2015-09": {"total":757.00, "Unallocated":757.00},
+			"2015-12": {"total":211.00, "Unallocated":211.00},
+			"2016-07": {"total":358.00, "Unallocated":358.00},
+			"2016-08": {"total":3999.00, "Environment, Housing & Leisure":3999.00},
+			"2016-11": {"total":478.00, "unknown":478.00},
+			"2016-12": {"total":253.00, "Unallocated":253.00},
+			"2020-08": {"total":220.00, "Unallocated":220.00}
+		}
+	},
+	"5032": {
+		"name": "SHIREMOOR CREDIT UNION LTD",
+		"total": 11440,
+		"monthly": {
+			"2015-06": {"total":11440.00, "Adult Social Care":11440.00}
+		}
+	},
+	"5033": {
+		"name": "SHIREMOOR HEALTH ADVICE RESOURCE PROJECT (SHARP)",
+		"total": 5000,
+		"monthly": {
+			"2019-09": {"total":5000.00, "Central Services":5000.00}
+		}
+	},
+	"5034": {
+		"name": "SHIREMOOR PHARMACY",
+		"total": 25257.14,
+		"monthly": {
+			"2014-10": {"total":421.88, "Public Health":421.88},
+			"2015-01": {"total":2001.76, "Public Health":2001.76},
+			"2015-04": {"total":879.18, "Public Health":879.18},
+			"2015-06": {"total":270.00, "Public Health":270.00},
+			"2015-07": {"total":1675.01, "Public Health":1675.01},
+			"2015-08": {"total":270.00, "Public Health":270.00},
+			"2015-09": {"total":270.00, "Public Health":270.00},
+			"2015-10": {"total":484.15, "Public Health":484.15},
+			"2015-11": {"total":270.00, "Public Health":270.00},
+			"2015-12": {"total":360.00, "Public Health":360.00},
+			"2016-01": {"total":672.96, "Public Health":672.96},
+			"2016-02": {"total":390.00, "Public Health":390.00},
+			"2016-03": {"total":360.00, "Health, Education, Care and Safeguarding":360.00},
+			"2016-04": {"total":1202.88, "Health, Education, Care and Safeguarding":1202.88},
+			"2016-05": {"total":330.00, "Health, Education, Care and Safeguarding":330.00},
+			"2016-06": {"total":300.00, "Health, Education, Care and Safeguarding":300.00},
+			"2016-07": {"total":849.66, "Public Health":849.66},
+			"2016-08": {"total":330.00, "Health, Education, Care and Safeguarding":330.00},
+			"2016-10": {"total":1594.92, "Public Health":1594.92},
+			"2016-11": {"total":270.00, "Public Health":270.00},
+			"2016-12": {"total":330.00, "Public Health":330.00},
+			"2017-01": {"total":1917.05, "Public Health":1917.05},
+			"2017-02": {"total":390.00, "Public Health":390.00},
+			"2017-03": {"total":390.00, "Public Health":390.00},
+			"2019-04": {"total":1661.14, "Public Health":1661.14},
+			"2019-05": {"total":270.00, "Public Health":270.00},
+			"2019-10": {"total":1287.35, "Public Health":1287.35},
+			"2020-01": {"total":1906.60, "Public Health":1906.60},
+			"2020-04": {"total":1107.19, "Public Health":1107.19},
+			"2020-07": {"total":1401.50, "Public Health":1401.50},
+			"2020-11": {"total":1393.91, "Public Health":1393.91}
+		}
+	},
+	"5035": {
+		"name": "SHIREMOOR PRIMARY SCHOOL",
+		"total": 320497.56,
+		"monthly": {
+			"2014-04": {"total":11717.49, "Capital":11717.49},
+			"2014-05": {"total":1523.74, "Capital":1523.74},
+			"2014-06": {"total":8166.48, "Capital":8166.48},
+			"2014-07": {"total":12861.00, "Capital":12861.00},
+			"2014-09": {"total":6230.61, "Capital":6230.61},
+			"2014-10": {"total":3888.47, "Capital":3888.47},
+			"2014-11": {"total":12229.32, "Capital":12229.32},
+			"2014-12": {"total":3800.53, "Capital":3291.28, "Children's & Education Services":509.25},
+			"2015-03": {"total":20805.21, "Capital":4625.00, "General Fund":16180.21},
+			"2015-05": {"total":11423.87, "General Fund":11423.87},
+			"2015-06": {"total":4481.76, "General Fund":4481.76},
+			"2015-07": {"total":4676.04, "General Fund":4676.04},
+			"2015-09": {"total":3513.82, "General Fund":3513.82},
+			"2015-10": {"total":604.12, "General Fund":604.12},
+			"2015-11": {"total":7621.10, "General Fund":7621.10},
+			"2015-12": {"total":5019.96, "General Fund":5019.96},
+			"2016-01": {"total":3777.18, "Capital":3777.18},
+			"2016-02": {"total":8902.14, "General Fund":8902.14},
+			"2016-03": {"total":6570.80, "Capital":6570.80},
+			"2016-04": {"total":8864.96, "Capital":8864.96},
+			"2016-05": {"total":4085.33, "Capital":4085.33},
+			"2016-06": {"total":6705.47, "Capital":4965.47, "Commissioning & Investment":1740.00},
+			"2016-07": {"total":5894.77, "Children's & Education Services":396.25, "General Fund":5498.52},
+			"2016-10": {"total":7741.36, "General Fund":7221.36, "Holding A/C":520.00},
+			"2016-11": {"total":11216.16, "General Fund":11216.16},
+			"2016-12": {"total":300.00, "Children's & Education Services":300.00},
+			"2017-01": {"total":13637.87, "Children's & Education Services":659.11, "General Fund":12464.76, "Holding A/C":514.00},
+			"2017-03": {"total":15018.08, "Capital":10992.00, "Children's & Education Services":370.00, "General Fund":3656.08},
+			"2019-05": {"total":8371.74, "General Fund":8371.74},
+			"2019-06": {"total":4510.53, "General Fund":4510.53},
+			"2019-09": {"total":2477.43, "General Fund":2477.43},
+			"2019-10": {"total":4502.92, "General Fund":4502.92},
+			"2019-11": {"total":7139.95, "General Fund":7139.95},
+			"2020-02": {"total":12556.77, "General Fund":12556.77},
+			"2020-03": {"total":7320.75, "General Fund":7320.75},
+			"2020-06": {"total":17802.07, "General Fund":17802.07},
+			"2020-09": {"total":30482.40, "Capital":28453.00, "General Fund":2029.40},
+			"2020-11": {"total":14055.36, "General Fund":14055.36}
+		}
+	},
+	"5036": {
+		"name": "SHIREMOOR TEACHING SCHOOL ALLIANCE",
+		"total": 1668,
+		"monthly": {
+			"2015-10": {"total":399.00, "Children's & Education Services":399.00},
+			"2016-02": {"total":326.00, "Children's & Education Services":326.00},
+			"2019-06": {"total":943.00, "Children's & Education Services":943.00}
+		}
+	},
+	"5037": {
+		"name": "SHIRLEY CLARKE MEDIA LTD",
+		"total": 270,
+		"monthly": {
+			"2014-10": {"total":270.00, "Children, Young People & Learning":270.00}
+		}
+	},
+	"5038": {
 		"name": "SHOE ZONE",
 		"total": 49.68,
 		"monthly": {
@@ -10,14 +559,14 @@
 			"2016-05": {"total":20.87, "Children's & Education Services":20.87}
 		}
 	},
-	"5001": {
+	"5039": {
 		"name": "SHOPFITTING WAREHOUSE",
 		"total": 244,
 		"monthly": {
 			"2015-05": {"total":244.00, "Housing Revenue Account":244.00}
 		}
 	},
-	"5002": {
+	"5040": {
 		"name": "SHOPJACKET LTD",
 		"total": 5740,
 		"monthly": {
@@ -30,21 +579,21 @@
 			"2019-10": {"total":1500.00, "Planning Services":1500.00}
 		}
 	},
-	"5003": {
+	"5041": {
 		"name": "SHOPLET.CO.UK",
 		"total": 75.22,
 		"monthly": {
 			"2014-04": {"total":75.22, "Children, Young People & Learning":75.22}
 		}
 	},
-	"5004": {
+	"5042": {
 		"name": "SHOPNEWCASTLEGATESHEAD.COM",
 		"total": 20,
 		"monthly": {
 			"2014-12": {"total":20.00, "Children's & Education Services":20.00}
 		}
 	},
-	"5005": {
+	"5043": {
 		"name": "SHORELAND ACCESS LTD",
 		"total": 2700,
 		"monthly": {
@@ -52,14 +601,14 @@
 			"2015-02": {"total":1200.00, "Environmental & Regulatory Services":1200.00}
 		}
 	},
-	"5006": {
+	"5044": {
 		"name": "SHORT RICHARDSON & FORTH LLP",
 		"total": 75000,
 		"monthly": {
 			"2016-01": {"total":75000.00, "Environment, Leisure & Housing":75000.00}
 		}
 	},
-	"5007": {
+	"5045": {
 		"name": "SHOW RACISM THE RED CARD",
 		"total": 45000,
 		"monthly": {
@@ -71,7 +620,7 @@
 			"2016-06": {"total":11625.00, "Corporate Strategy":11625.00}
 		}
 	},
-	"5008": {
+	"5046": {
 		"name": "SHOWTIME MEDIA SERVICES LTD",
 		"alternate-names": [
 			"SHOWTIME MEDIA SERVICES LIMITED"
@@ -81,7 +630,7 @@
 			"2019-05": {"total":650.00, "Planning Services":650.00}
 		}
 	},
-	"5009": {
+	"5047": {
 		"name": "SHRED-IT LTD",
 		"alternate-names": [
 			"SHRED-IT LIMITED"
@@ -96,572 +645,19 @@
 			"2016-11": {"total":219.17, "Children's & Education Services":219.17}
 		}
 	},
-	"5010": {
+	"5048": {
 		"name": "SHREDDER REPAIR SERVICES",
 		"total": 369.95,
 		"monthly": {
 			"2014-04": {"total":369.95, "Law & Governance":369.95}
 		}
 	},
-	"5011": {
+	"5049": {
 		"name": "SHREWSBURY COLLEGES GROUP",
 		"total": 12534,
 		"monthly": {
 			"2020-05": {"total":8356.00, "Children's & Education Services":8356.00},
 			"2020-08": {"total":4178.00, "Children's & Education Services":4178.00}
-		}
-	},
-	"5012": {
-		"name": "SHRIMPING IT",
-		"total": 1562,
-		"monthly": {
-			"2014-07": {"total":680.00, "Children, Young People & Learning":680.00},
-			"2014-08": {"total":882.00, "Children, Young People & Learning":882.00}
-		}
-	},
-	"5013": {
-		"name": "SIBCAS LTD",
-		"total": 150377.6,
-		"monthly": {
-			"2014-06": {"total":8800.00, "Law & Governance":8800.00},
-			"2015-05": {"total":9240.00, "Central Services":9240.00},
-			"2016-05": {"total":10934.30, "Law & Governance":10934.30},
-			"2016-07": {"total":10934.30, "Environmental & Regulatory Services":10934.30},
-			"2019-08": {"total":56207.00, "Housing Services":56207.00},
-			"2019-09": {"total":53182.00, "Housing Services":53182.00},
-			"2019-11": {"total":1080.00, "Capital":1080.00}
-		}
-	},
-	"5014": {
-		"name": "SICO EUROPE LTD",
-		"alternate-names": [
-			"SICO EUROPE LIMITED"
-		],
-		"total": 12475.2,
-		"monthly": {
-			"2014-08": {"total":8364.00, "Commissioning & Fair Access":8364.00},
-			"2016-09": {"total":2849.20, "Commissioning & Investment":2849.20},
-			"2017-03": {"total":766.00, "Cultural & Related Services":766.00},
-			"2020-03": {"total":496.00, "Cultural & Related Services":496.00}
-		}
-	},
-	"5015": {
-		"name": "SIDHIL LTD",
-		"alternate-names": [
-			"SIDHIL LIMITED"
-		],
-		"total": 10057,
-		"monthly": {
-			"2014-04": {"total":364.50, "Adult Social Care":364.50},
-			"2014-09": {"total":729.00, "Adult Social Care":729.00},
-			"2014-12": {"total":364.50, "Adult Social Care":364.50},
-			"2015-02": {"total":243.00, "Adult Social Care":243.00},
-			"2015-04": {"total":243.00, "Adult Social Care":243.00},
-			"2015-09": {"total":580.75, "Adult Social Care":580.75},
-			"2015-11": {"total":364.50, "Adult Social Care":364.50},
-			"2015-12": {"total":364.50, "Adult Social Care":364.50},
-			"2016-04": {"total":1600.50, "Health, Education, Care and Safeguarding":1600.50},
-			"2016-06": {"total":364.50, "Health, Education, Care and Safeguarding":364.50},
-			"2016-08": {"total":4170.00, "Health, Education, Care and Safeguarding":4170.00},
-			"2016-10": {"total":303.75, "Adult Social Care":303.75},
-			"2016-12": {"total":364.50, "Adult Social Care":364.50}
-		}
-	},
-	"5016": {
-		"name": "SIDS SURF SHACK LTD",
-		"alternate-names": [
-			"SIDS SURF SHACK LIMITED"
-		],
-		"total": 412.21,
-		"monthly": {
-			"2015-08": {"total":174.96, "Children's & Education Services":174.96},
-			"2016-06": {"total":137.29, "Children's & Education Services":137.29},
-			"2016-12": {"total":99.96, "Children's & Education Services":99.96}
-		}
-	},
-	"5017": {
-		"name": "SIEMENS FINANCIAL SERVICES LTD",
-		"total": 162986.95,
-		"monthly": {
-			"2014-04": {"total":944.60, "Environment & Leisure":944.60},
-			"2014-10": {"total":840.00, "Environment & Leisure":840.00},
-			"2015-02": {"total":158139.95, "Adult Social Care":160.00, "Environmental & Regulatory Services":518.00, "Unallocated":157461.95},
-			"2015-04": {"total":160.00, "Adult Social Care":160.00},
-			"2015-05": {"total":2000.00, "Unallocated":2000.00},
-			"2015-07": {"total":561.60, "Environmental & Regulatory Services":561.60},
-			"2015-10": {"total":340.80, "Environmental & Regulatory Services":340.80}
-		}
-	},
-	"5018": {
-		"name": "SIEMENS MOBILITY LTD",
-		"alternate-names": [
-			"SIEMENS MOBILITY LIMITED"
-		],
-		"total": 2192.4,
-		"monthly": {
-			"2019-04": {"total":306.82, "Highways & Transport Services":306.82},
-			"2019-10": {"total":744.60, "Highways & Transport Services":744.60},
-			"2019-11": {"total":510.00, "Highways & Transport Services":510.00},
-			"2020-01": {"total":328.02, "Highways & Transport Services":328.02},
-			"2020-04": {"total":302.96, "Highways & Transport Services":302.96}
-		}
-	},
-	"5019": {
-		"name": "SIEMENS PLC",
-		"total": 3725,
-		"monthly": {
-			"2017-01": {"total":1862.50, "Capital":1862.50},
-			"2019-11": {"total":1862.50, "Capital":1862.50}
-		}
-	},
-	"5020": {
-		"name": "SIGANTURE SYSTEMS GROUP",
-		"total": 2560,
-		"monthly": {
-			"2015-01": {"total":2560.00, "Cultural & Related Services":2560.00}
-		}
-	},
-	"5021": {
-		"name": "SIGHT & SOUND TECHNOLOGY LTD",
-		"total": 1200,
-		"monthly": {
-			"2014-11": {"total":1200.00, "Adult Social Care":1200.00}
-		}
-	},
-	"5022": {
-		"name": "SIGN MAKER DOT NET LTD",
-		"total": 509.29,
-		"monthly": {
-			"2015-09": {"total":509.29, "Cultural & Related Services":509.29}
-		}
-	},
-	"5023": {
-		"name": "SIGN PRO LTD",
-		"total": 37220,
-		"monthly": {
-			"2014-06": {"total":1268.00, "Chief Executive Office":601.00, "Environment & Leisure":667.00},
-			"2014-07": {"total":1090.00, "Environment & Leisure":1090.00},
-			"2014-08": {"total":728.00, "Environment & Leisure":728.00},
-			"2014-09": {"total":4347.00, "Commissioning & Fair Access":4347.00},
-			"2014-10": {"total":2041.00, "Commissioning & Fair Access":1451.00, "Environment & Leisure":210.00, "Housing Revenue Account":380.00},
-			"2014-12": {"total":1942.00, "Adult Social Care":284.00, "Central Services":510.00, "Cultural & Related Services":632.00, "Housing Services":516.00},
-			"2015-01": {"total":4560.00, "Adult Social Care":630.00, "Cultural & Related Services":3930.00},
-			"2015-02": {"total":968.00, "Capital":747.00, "Children's & Education Services":221.00},
-			"2015-03": {"total":446.00, "Children's & Education Services":446.00},
-			"2015-04": {"total":1572.00, "Adult Social Care":332.00, "Children's & Education Services":820.00, "Cultural & Related Services":420.00},
-			"2015-05": {"total":215.00, "Public Health":215.00},
-			"2015-06": {"total":848.00, "Cultural & Related Services":380.00, "Environmental & Regulatory Services":468.00},
-			"2015-07": {"total":307.00, "Children's & Education Services":307.00},
-			"2015-08": {"total":225.00, "Children's & Education Services":225.00},
-			"2015-09": {"total":5517.00, "Children's & Education Services":5517.00},
-			"2015-10": {"total":737.00, "Children's & Education Services":737.00},
-			"2016-01": {"total":709.00, "Environment, Leisure & Housing":709.00},
-			"2016-03": {"total":209.00, "Environment, Housing & Leisure":209.00},
-			"2016-06": {"total":1076.00, "Commissioning & Investment":1076.00},
-			"2016-08": {"total":615.00, "Commissioning & Investment":615.00},
-			"2016-09": {"total":1873.00, "Commissioning & Investment":1873.00},
-			"2016-10": {"total":430.00, "Children's & Education Services":430.00},
-			"2016-11": {"total":845.00, "Children's & Education Services":845.00},
-			"2016-12": {"total":240.00, "Cultural & Related Services":240.00},
-			"2017-03": {"total":475.00, "Children's & Education Services":475.00},
-			"2019-05": {"total":1185.00, "Children's & Education Services":1185.00},
-			"2019-06": {"total":2512.00, "Children's & Education Services":2512.00},
-			"2020-02": {"total":240.00, "Children's & Education Services":240.00}
-		}
-	},
-	"5024": {
-		"name": "SIGNATURE NORTH EAST LTD",
-		"total": 1500,
-		"monthly": {
-			"2019-09": {"total":1500.00, "Housing Revenue Account":1500.00}
-		}
-	},
-	"5025": {
-		"name": "SIGNET SIGNS LTD",
-		"alternate-names": [
-			"SIGNET SIGNS LIMITED"
-		],
-		"total": 4996,
-		"monthly": {
-			"2015-04": {"total":4996.00, "Central Services":4996.00}
-		}
-	},
-	"5026": {
-		"name": "SIGNIFICANT UK LTD",
-		"total": 2945,
-		"monthly": {
-			"2020-06": {"total":2945.00, "Central Services":2945.00}
-		}
-	},
-	"5027": {
-		"name": "SIGNIS LTD",
-		"alternate-names": [
-			"SIGNIS LIMITED"
-		],
-		"total": 50940,
-		"monthly": {
-			"2016-03": {"total":4200.00, "HR & Organisational Development":4200.00},
-			"2016-04": {"total":840.00, "HR & Organisational Development":840.00},
-			"2016-10": {"total":13750.00, "Children's & Education Services":13750.00},
-			"2017-01": {"total":8250.00, "Children's & Education Services":8250.00},
-			"2017-02": {"total":5500.00, "Children's & Education Services":5500.00},
-			"2019-10": {"total":9200.00, "Children's & Education Services":9200.00},
-			"2020-08": {"total":9200.00, "Children's & Education Services":9200.00}
-		}
-	},
-	"5028": {
-		"name": "SIGNS & GRAPHICS LTD",
-		"total": 49537.27,
-		"monthly": {
-			"2014-04": {"total":1378.00, "Environment & Leisure":1378.00},
-			"2014-05": {"total":1316.00, "Environment & Leisure":1316.00},
-			"2014-08": {"total":894.00, "DCE - Technical Package":368.00, "Environment & Leisure":526.00},
-			"2014-09": {"total":1710.00, "Environment & Leisure":1710.00},
-			"2014-10": {"total":1332.00, "Environment & Leisure":1332.00},
-			"2014-12": {"total":1256.00, "Environmental & Regulatory Services":1256.00},
-			"2015-01": {"total":676.00, "Environmental & Regulatory Services":676.00},
-			"2015-02": {"total":2265.00, "Environmental & Regulatory Services":292.00, "Unallocated":1973.00},
-			"2015-03": {"total":1024.00, "Environmental & Regulatory Services":684.00, "Unallocated":340.00},
-			"2015-05": {"total":308.00, "Environmental & Regulatory Services":308.00},
-			"2015-06": {"total":1666.00, "Cultural & Related Services":990.00, "Environmental & Regulatory Services":676.00},
-			"2015-07": {"total":2760.00, "Environmental & Regulatory Services":2760.00},
-			"2015-09": {"total":2125.70, "Environmental & Regulatory Services":1292.00, "Unallocated":833.70},
-			"2015-10": {"total":308.00, "Environmental & Regulatory Services":308.00},
-			"2015-11": {"total":1004.00, "Environmental & Regulatory Services":664.00, "Unallocated":340.00},
-			"2016-02": {"total":428.00, "Environmental & Regulatory Services":428.00},
-			"2016-03": {"total":1307.00, "Environment, Housing & Leisure":1307.00},
-			"2016-04": {"total":2188.50, "Environment, Housing & Leisure":2188.50},
-			"2016-05": {"total":1205.50, "Environment, Housing & Leisure":1205.50},
-			"2016-06": {"total":1081.00, "Environment, Housing & Leisure":1081.00},
-			"2016-07": {"total":664.00, "Environmental & Regulatory Services":664.00},
-			"2016-08": {"total":534.00, "Environment, Housing & Leisure":534.00},
-			"2016-10": {"total":972.00, "Environmental & Regulatory Services":972.00},
-			"2016-11": {"total":1461.15, "Unallocated":1461.15},
-			"2017-03": {"total":1031.92, "Environmental & Regulatory Services":608.00, "Unallocated":423.92},
-			"2019-04": {"total":3660.00, "Unallocated":3660.00},
-			"2019-06": {"total":367.80, "Unallocated":367.80},
-			"2019-08": {"total":1768.00, "Unallocated":1768.00},
-			"2019-09": {"total":4900.00, "Environmental & Regulatory Services":4900.00},
-			"2019-10": {"total":616.00, "Environmental & Regulatory Services":616.00},
-			"2019-12": {"total":548.00, "Highways & Transport Services":308.00, "Unallocated":240.00},
-			"2020-01": {"total":616.00, "Environmental & Regulatory Services":616.00},
-			"2020-02": {"total":2028.00, "Environmental & Regulatory Services":356.00, "Unallocated":1672.00},
-			"2020-05": {"total":912.00, "Highways & Transport Services":912.00},
-			"2020-06": {"total":1725.20, "Environmental & Regulatory Services":1411.60, "Unallocated":313.60},
-			"2020-08": {"total":1012.50, "Unallocated":1012.50},
-			"2020-09": {"total":488.00, "Unallocated":488.00}
-		}
-	},
-	"5029": {
-		"name": "SIGNS EXPRESS (GATESHEAD )",
-		"total": 12921.57,
-		"monthly": {
-			"2016-04": {"total":665.00, "Environment, Housing & Leisure":665.00},
-			"2016-06": {"total":254.40, "Environment, Housing & Leisure":254.40},
-			"2016-09": {"total":665.00, "Environment, Housing & Leisure":665.00},
-			"2016-10": {"total":506.00, "Cultural & Related Services":506.00},
-			"2017-01": {"total":1590.00, "Capital":1590.00},
-			"2019-05": {"total":2200.00, "Capital":1188.00, "Public Health":1012.00},
-			"2019-08": {"total":1050.68, "Children's & Education Services":1050.68},
-			"2019-09": {"total":4300.00, "Capital":4300.00},
-			"2020-03": {"total":1690.49, "Capital":795.60, "Children's & Education Services":894.89}
-		}
-	},
-	"5030": {
-		"name": "SIGNS OF CHESHIRE LTD",
-		"alternate-names": [
-			"SIGNS OF CHESHIRE LIMITED"
-		],
-		"total": 473.5,
-		"monthly": {
-			"2015-08": {"total":306.00, "Environmental & Regulatory Services":306.00},
-			"2019-12": {"total":167.50, "Environmental & Regulatory Services":167.50}
-		}
-	},
-	"5031": {
-		"name": "SIGNS OF SAFETY UK",
-		"total": 720,
-		"monthly": {
-			"2019-08": {"total":480.00, "Adult Social Care":480.00},
-			"2019-09": {"total":240.00, "Adult Social Care":240.00}
-		}
-	},
-	"5032": {
-		"name": "SILVERBECK RYMER SOLICITORS",
-		"total": 6000,
-		"monthly": {
-			"2015-10": {"total":6000.00, "Holding A/C":6000.00}
-		}
-	},
-	"5033": {
-		"name": "SILVERDALE SCHOOL",
-		"total": 359393.77,
-		"monthly": {
-			"2014-04": {"total":4913.03, "Capital":1901.51, "Commissioning & Fair Access":3011.52},
-			"2014-06": {"total":2895.80, "Capital":2895.80},
-			"2014-07": {"total":4174.88, "Capital":4174.88},
-			"2014-08": {"total":9095.00, "Capital":9095.00},
-			"2014-09": {"total":12019.44, "Children, Young People & Learning":4978.00, "Capital":7041.44},
-			"2014-10": {"total":12131.62, "Capital":12131.62},
-			"2014-11": {"total":14202.33, "Capital":4202.33, "Children's & Education Services":10000.00},
-			"2014-12": {"total":1254.60, "Capital":1254.60},
-			"2015-01": {"total":4865.72, "Capital":4865.72},
-			"2015-03": {"total":9922.83, "Children's & Education Services":3416.12, "General Fund":6506.71},
-			"2015-05": {"total":3796.38, "General Fund":3796.38},
-			"2015-06": {"total":4235.28, "General Fund":4235.28},
-			"2015-07": {"total":2707.68, "General Fund":2707.68},
-			"2015-08": {"total":10000.00, "Children's & Education Services":10000.00},
-			"2015-09": {"total":1075.48, "General Fund":1075.48},
-			"2015-11": {"total":4381.39, "General Fund":4381.39},
-			"2015-12": {"total":2164.87, "General Fund":2164.87},
-			"2016-01": {"total":6488.08, "Children, Young People & Learning":525.00, "Capital":2973.08, "Commissioning & Investment":2990.00},
-			"2016-02": {"total":7080.81, "Children's & Education Services":2080.00, "General Fund":5000.81},
-			"2016-03": {"total":71908.94, "Capital":69828.94, "Commissioning & Investment":2080.00},
-			"2016-04": {"total":12059.57, "Capital":12059.57},
-			"2016-05": {"total":1575.65, "Capital":1575.65},
-			"2016-06": {"total":1406.55, "Capital":1406.55},
-			"2016-07": {"total":4831.64, "Children's & Education Services":3375.00, "General Fund":1456.64},
-			"2016-09": {"total":3354.39, "Commissioning & Investment":3354.39},
-			"2016-10": {"total":2686.22, "General Fund":1469.44, "Holding A/C":1216.78},
-			"2016-11": {"total":8484.70, "General Fund":8484.70},
-			"2017-01": {"total":9613.60, "Children's & Education Services":1020.00, "General Fund":8593.60},
-			"2017-02": {"total":3350.43, "Children's & Education Services":3350.43},
-			"2017-03": {"total":6179.52, "General Fund":6179.52},
-			"2019-04": {"total":1530.06, "Children's & Education Services":1530.06},
-			"2019-05": {"total":3981.31, "Children's & Education Services":3119.91, "General Fund":861.40},
-			"2019-06": {"total":4681.61, "Children's & Education Services":1462.53, "General Fund":3219.08},
-			"2019-09": {"total":6544.21, "General Fund":6544.21},
-			"2019-10": {"total":12523.05, "Children's & Education Services":1781.25, "General Fund":10741.80},
-			"2019-11": {"total":36873.36, "Capital":34450.29, "General Fund":2423.07},
-			"2020-02": {"total":19787.57, "General Fund":19787.57},
-			"2020-03": {"total":10126.30, "Capital":2989.00, "Children's & Education Services":3310.23, "General Fund":3827.07},
-			"2020-06": {"total":4416.91, "General Fund":4416.91},
-			"2020-07": {"total":1000.00, "Capital":1000.00},
-			"2020-09": {"total":15072.96, "Capital":13272.85, "General Fund":1800.11}
-		}
-	},
-	"5034": {
-		"name": "SILVERLINE TAXIS LTD",
-		"total": 909267.86,
-		"monthly": {
-			"2014-04": {"total":23597.30, "Commissioning & Fair Access":23597.30},
-			"2014-05": {"total":129591.53, "Adult Social Care":839.16, "Commissioning & Fair Access":128752.37},
-			"2014-06": {"total":19653.34, "Commissioning & Fair Access":19653.34},
-			"2014-07": {"total":44565.88, "Commissioning & Fair Access":44565.88},
-			"2014-10": {"total":40944.81, "Commissioning & Fair Access":40944.81},
-			"2014-11": {"total":860.00, "Children's & Education Services":860.00},
-			"2014-12": {"total":22996.50, "Children's & Education Services":22996.50},
-			"2015-01": {"total":16920.50, "Children's & Education Services":16920.50},
-			"2015-02": {"total":20969.00, "Children's & Education Services":20969.00},
-			"2015-03": {"total":22553.50, "Children's & Education Services":22553.50},
-			"2015-04": {"total":22182.40, "Children's & Education Services":22182.40},
-			"2015-05": {"total":10945.50, "Children's & Education Services":10945.50},
-			"2015-06": {"total":16210.80, "Children's & Education Services":16210.80},
-			"2015-07": {"total":39212.00, "Children's & Education Services":39212.00},
-			"2015-09": {"total":520.00, "Children's & Education Services":520.00},
-			"2015-10": {"total":47309.00, "Children's & Education Services":47309.00},
-			"2015-12": {"total":25671.50, "Children's & Education Services":25671.50},
-			"2016-01": {"total":18735.80, "Commissioning & Investment":18735.80},
-			"2016-02": {"total":25351.00, "Children's & Education Services":25351.00},
-			"2016-03": {"total":42151.50, "Commissioning & Investment":42151.50},
-			"2016-04": {"total":425.00, "Commissioning & Investment":425.00},
-			"2016-05": {"total":18866.00, "Commissioning & Investment":18866.00},
-			"2016-06": {"total":25320.00, "Commissioning & Investment":25320.00},
-			"2016-07": {"total":42702.50, "Children's & Education Services":42092.50, "Holding A/C":610.00},
-			"2016-10": {"total":24298.60, "Children's & Education Services":24298.60},
-			"2016-11": {"total":19929.00, "Children's & Education Services":19929.00},
-			"2016-12": {"total":25787.00, "Children's & Education Services":25787.00},
-			"2017-01": {"total":19103.60, "Children's & Education Services":19103.60},
-			"2017-02": {"total":26252.30, "Children's & Education Services":26252.30},
-			"2017-03": {"total":26694.20, "Children's & Education Services":26694.20},
-			"2019-05": {"total":40292.00, "Children's & Education Services":40292.00},
-			"2019-06": {"total":27838.00, "Children's & Education Services":27838.00},
-			"2019-08": {"total":19582.00, "Children's & Education Services":19582.00},
-			"2019-11": {"total":306.00, "Children's & Education Services":306.00},
-			"2020-04": {"total":929.80, "Children's & Education Services":929.80}
-		}
-	},
-	"5035": {
-		"name": "SILVERLINK SOFTWARE LTD",
-		"alternate-names": [
-			"SILVERLINK SOFTWARE LIMITED"
-		],
-		"total": 73505,
-		"monthly": {
-			"2014-09": {"total":10800.00, "Adult Social Care":10800.00},
-			"2015-07": {"total":6500.00, "Adult Social Care":6500.00},
-			"2016-02": {"total":6500.00, "Adult Social Care":6500.00},
-			"2016-06": {"total":4000.00, "Health, Education, Care and Safeguarding":4000.00},
-			"2016-09": {"total":6000.00, "Commissioning & Investment":6000.00},
-			"2016-12": {"total":6000.00, "Adult Social Care":6000.00},
-			"2019-04": {"total":16500.00, "Adult Social Care":16500.00},
-			"2019-09": {"total":8500.00, "Adult Social Care":8500.00},
-			"2020-01": {"total":8705.00, "Adult Social Care":8705.00}
-		}
-	},
-	"5036": {
-		"name": "SIMARC",
-		"total": 51.25,
-		"monthly": {
-			"2014-09": {"total":10.25, "Adult Social Care":10.25},
-			"2016-06": {"total":41.00, "Adult Social Care":41.00}
-		}
-	},
-	"5037": {
-		"name": "SIMMONS AND SIMMONS",
-		"total": 2000,
-		"monthly": {
-			"2016-09": {"total":2000.00, "Capital":2000.00}
-		}
-	},
-	"5038": {
-		"name": "SIMON FRASER PHOTOGRAPHY LTD",
-		"total": 251.4,
-		"monthly": {
-			"2016-05": {"total":251.40, "Environment, Housing & Leisure":251.40}
-		}
-	},
-	"5039": {
-		"name": "SIMON GARLICK",
-		"total": 1300,
-		"monthly": {
-			"2019-04": {"total":1300.00, "Central Services":1300.00}
-		}
-	},
-	"5040": {
-		"name": "SIMON JERSEY LTD",
-		"alternate-names": [
-			"SIMON JERSEY LIMITED"
-		],
-		"total": 1561.23,
-		"monthly": {
-			"2014-04": {"total":131.99, "Housing Revenue Account":131.99},
-			"2014-08": {"total":151.14, "Housing Revenue Account":151.14},
-			"2014-10": {"total":125.95, "Housing Revenue Account":125.95},
-			"2015-08": {"total":829.74, "Central Services":829.74},
-			"2015-10": {"total":322.41, "Central Services":322.41}
-		}
-	},
-	"5041": {
-		"name": "SIMON TAYLOR PLUMBING",
-		"total": 1033.85,
-		"monthly": {
-			"2014-07": {"total":413.10, "Children, Young People & Learning":413.10},
-			"2014-08": {"total":620.75, "DCE - Technical Package":620.75}
-		}
-	},
-	"5042": {
-		"name": "SIMON THE BEEKEEPER",
-		"total": 406.04,
-		"monthly": {
-			"2015-07": {"total":406.04, "Cultural & Related Services":406.04}
-		}
-	},
-	"5043": {
-		"name": "SIMON WILKINSON",
-		"total": 700,
-		"monthly": {
-			"2020-01": {"total":350.00, "Adult Social Care":350.00},
-			"2020-03": {"total":350.00, "Adult Social Care":350.00}
-		}
-	},
-	"5044": {
-		"name": "SIMONSIDE OUTDOOR ADVENTURE",
-		"total": 425,
-		"monthly": {
-			"2014-10": {"total":425.00, "Commissioning & Fair Access":425.00}
-		}
-	},
-	"5045": {
-		"name": "SIMPLE STUFF WORKS CIC",
-		"total": 1762.1,
-		"monthly": {
-			"2015-11": {"total":236.00, "Adult Social Care":236.00},
-			"2017-02": {"total":212.40, "Adult Social Care":212.40},
-			"2019-09": {"total":1313.70, "Adult Social Care":1313.70}
-		}
-	},
-	"5046": {
-		"name": "SIMPLY MED UK LTD",
-		"total": 42499.31,
-		"monthly": {
-			"2014-05": {"total":594.00, "Adult Social Care":594.00},
-			"2014-07": {"total":1188.00, "Adult Social Care":1188.00},
-			"2014-08": {"total":1159.00, "Adult Social Care":1159.00},
-			"2014-09": {"total":2624.10, "Adult Social Care":2624.10},
-			"2014-10": {"total":2763.00, "Adult Social Care":2763.00},
-			"2014-11": {"total":979.50, "Adult Social Care":979.50},
-			"2015-01": {"total":3126.30, "Adult Social Care":3126.30},
-			"2015-02": {"total":2339.76, "Adult Social Care":2339.76},
-			"2015-05": {"total":2539.56, "Adult Social Care":2539.56},
-			"2015-06": {"total":2345.58, "Adult Social Care":2345.58},
-			"2015-07": {"total":905.10, "Adult Social Care":905.10},
-			"2015-08": {"total":539.82, "Adult Social Care":539.82},
-			"2015-09": {"total":719.76, "Adult Social Care":719.76},
-			"2015-10": {"total":539.82, "Adult Social Care":539.82},
-			"2015-11": {"total":844.92, "Adult Social Care":844.92},
-			"2015-12": {"total":880.38, "Adult Social Care":880.38},
-			"2016-02": {"total":539.82, "Adult Social Care":539.82},
-			"2016-03": {"total":719.76, "Health, Education, Care and Safeguarding":719.76},
-			"2016-04": {"total":1124.16, "Health, Education, Care and Safeguarding":1124.16},
-			"2016-05": {"total":816.00, "Health, Education, Care and Safeguarding":816.00},
-			"2016-06": {"total":1331.82, "Health, Education, Care and Safeguarding":1331.82},
-			"2016-07": {"total":334.80, "Adult Social Care":334.80},
-			"2016-08": {"total":1532.80, "Health, Education, Care and Safeguarding":1532.80},
-			"2016-09": {"total":719.76, "Health, Education, Care and Safeguarding":719.76},
-			"2016-11": {"total":1692.96, "Adult Social Care":1692.96},
-			"2016-12": {"total":1486.23, "Adult Social Care":1486.23},
-			"2017-01": {"total":1846.50, "Adult Social Care":1846.50},
-			"2017-03": {"total":1022.10, "Adult Social Care":1022.10},
-			"2019-04": {"total":765.00, "Adult Social Care":765.00},
-			"2019-06": {"total":840.00, "Adult Social Care":840.00},
-			"2019-08": {"total":1400.00, "Adult Social Care":1400.00},
-			"2019-09": {"total":840.00, "Adult Social Care":840.00},
-			"2019-10": {"total":1120.00, "Adult Social Care":1120.00},
-			"2020-02": {"total":279.00, "Adult Social Care":279.00}
-		}
-	},
-	"5047": {
-		"name": "SIMPLY PLASTICS",
-		"total": 9.28,
-		"monthly": {
-			"2020-04": {"total":9.28, "Capital":9.28}
-		}
-	},
-	"5048": {
-		"name": "SIMPLYLAMPS.CO.UK",
-		"total": 74,
-		"monthly": {
-			"2015-05": {"total":74.00, "Children's & Education Services":74.00}
-		}
-	},
-	"5049": {
-		"name": "SIMPSON SERVICES",
-		"total": 10420,
-		"monthly": {
-			"2014-04": {"total":420.00, "Children, Young People & Learning":420.00},
-			"2014-07": {"total":400.00, "Children, Young People & Learning":400.00},
-			"2014-09": {"total":400.00, "Children, Young People & Learning":400.00},
-			"2014-12": {"total":400.00, "Children's & Education Services":400.00},
-			"2015-01": {"total":400.00, "Children's & Education Services":400.00},
-			"2015-03": {"total":400.00, "Children's & Education Services":400.00},
-			"2015-05": {"total":400.00, "Children's & Education Services":400.00},
-			"2015-07": {"total":1200.00, "Children's & Education Services":1200.00},
-			"2015-09": {"total":400.00, "Children's & Education Services":400.00},
-			"2015-11": {"total":400.00, "Children's & Education Services":400.00},
-			"2016-01": {"total":400.00, "Children, Young People & Learning":400.00},
-			"2016-03": {"total":400.00, "Health, Education, Care and Safeguarding":400.00},
-			"2016-09": {"total":400.00, "Health, Education, Care and Safeguarding":400.00},
-			"2016-10": {"total":400.00, "Children's & Education Services":400.00},
-			"2017-01": {"total":400.00, "Children's & Education Services":400.00},
-			"2017-03": {"total":400.00, "Children's & Education Services":400.00},
-			"2019-04": {"total":400.00, "Children's & Education Services":400.00},
-			"2019-06": {"total":400.00, "Children's & Education Services":400.00},
-			"2019-08": {"total":400.00, "Children's & Education Services":400.00},
-			"2019-10": {"total":800.00, "Children's & Education Services":800.00},
-			"2019-12": {"total":400.00, "Children's & Education Services":400.00},
-			"2020-03": {"total":400.00, "Children's & Education Services":400.00},
-			"2020-04": {"total":400.00, "Children's & Education Services":400.00}
 		}
 	}
 	}

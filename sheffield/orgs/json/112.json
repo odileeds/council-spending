@@ -1,7 +1,537 @@
 {
-	"range": ["2011-01","2020-09"],
+	"range": ["2011-01","2020-12"],
 	"data": {
 	"5600": {
+		"name": "EXEMPLAS LTD",
+		"alternate-names": [
+			"EXEMPLAS LIMITED"
+		],
+		"total": 464444,
+		"monthly": {
+			"2011-01": {"total":18709.00, "SHEFFIELD EMPLOYABILITY PROJEC":18709.00},
+			"2011-02": {"total":31709.00, "SHEFFIELD EMPLOYABILITY PROJEC":31709.00},
+			"2011-03": {"total":48609.00, "SEP (ERDF/SP)":28600.00, "SHEFFIELD EMPLOYABILITY PROJEC":20009.00},
+			"2011-04": {"total":60309.00, "SEP (ERDF/SP)":26000.00, "SHEFFIELD EMPLOYABILITY PROJEC":34309.00},
+			"2011-06": {"total":75118.00, "SEP (ERDF/SP)":42900.00, "SHEFFIELD EMPLOYABILITY PROJEC":32218.00},
+			"2011-07": {"total":35609.00, "SEP (ERDF/SP)":16900.00, "SHEFFIELD EMPLOYABILITY PROJEC":18709.00},
+			"2011-08": {"total":35609.00, "SEP (ERDF/SP)":24700.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2011-10": {"total":72518.00, "SEP (ERDF/SP)":49400.00, "SHEFFIELD EMPLOYABILITY PROJEC":23118.00},
+			"2011-11": {"total":31709.00, "SEP (ERDF/SP)":20800.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2011-12": {"total":10909.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2012-01": {"total":10909.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2012-02": {"total":10909.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2012-03": {"total":10909.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00},
+			"2012-04": {"total":10909.00, "SHEFFIELD EMPLOYABILITY PROJEC":10909.00}
+		}
+	},
+	"5601": {
+		"name": "EXETER - A LEARNING COMMUNITY",
+		"total": 6510,
+		"monthly": {
+			"2015-11": {"total":570.00, "CYPF":570.00},
+			"2016-02": {"total":2850.00, "CYPF":2850.00},
+			"2016-06": {"total":950.00, "CYPF":950.00},
+			"2017-05": {"total":350.00, "CYPF":350.00},
+			"2017-07": {"total":420.00, "CYPF":420.00},
+			"2017-08": {"total":420.00, "CORPORATE":420.00},
+			"2018-12": {"total":950.00, "PEOPLE":950.00}
+		}
+	},
+	"5602": {
+		"name": "EXHAUSTS UK LTD",
+		"alternate-names": [
+			"EXHAUSTS UK LIMITED"
+		],
+		"total": 57939.8,
+		"monthly": {
+			"2012-10": {"total":1367.60, "100 APPRENTICES":1367.60},
+			"2013-01": {"total":1456.00, "100 APPRENTICES":1456.00},
+			"2013-03": {"total":738.40, "100 APPRENTICES":738.40},
+			"2013-05": {"total":260.00, "100 APPRENTICES":260.00},
+			"2013-10": {"total":1710.80, "100 APPRENTICES":1710.80},
+			"2013-11": {"total":351.00, "100 APPRENTICES":351.00},
+			"2016-03": {"total":1420.00, "CA LEP":1420.00},
+			"2019-02": {"total":11785.00, "LOCAL ENTERPRISE PARTNERSHIP":11785.00},
+			"2019-07": {"total":38851.00, "LOCAL ENTERPRISE PARTNERSHIP":38851.00}
+		}
+	},
+	"5603": {
+		"name": "EXOVA (UK) LTD",
+		"total": 23011.6,
+		"monthly": {
+			"2015-09": {"total":2999.00, "PLACE":2999.00},
+			"2016-07": {"total":3998.00, "PLACE":3998.00},
+			"2017-07": {"total":4148.00, "PLACE":4148.00},
+			"2017-08": {"total":7572.60, "CORPORATE":4977.60, "PLACE":2595.00},
+			"2018-07": {"total":4294.00, "PLACE":4294.00}
+		}
+	},
+	"5604": {
+		"name": "EXOVA ENVIRONMENTAL UK LTD",
+		"alternate-names": [
+			"EXOVA ENVIRONMENTAL UK LIMITED"
+		],
+		"total": 7848,
+		"monthly": {
+			"2019-08": {"total":4449.00, "PLACE":4449.00},
+			"2019-09": {"total":3399.00, "PLACE":3399.00}
+		}
+	},
+	"5605": {
+		"name": "EXPERIAN LTD",
+		"total": 99578.76,
+		"monthly": {
+			"2011-03": {"total":10890.00, "POLICY AND RESEARCH":10890.00},
+			"2011-06": {"total":5683.16, "CITY WIDE CARE ALARMS":3583.16, "INCOME MANAGEMENT UNIT":2100.00},
+			"2012-03": {"total":500.00, "INCOME MANAGEMENT":500.00},
+			"2012-05": {"total":11292.93, "POLICY AND RESEARCH":11292.93},
+			"2012-07": {"total":3712.15, "CITY WIDE CARE ALARMS":3712.15},
+			"2012-09": {"total":2412.00, "INCOME MANAGEMENT":2412.00},
+			"2013-05": {"total":11227.59, "POLICY AND IMPROVEMENT":11227.59},
+			"2013-06": {"total":500.00, "CITY CENTRE MANAGEMENT & ADMIN":500.00},
+			"2013-07": {"total":5919.80, "CITY WIDE CARE ALARMS":3819.80, "INCOME MANAGEMENT":2100.00},
+			"2014-05": {"total":2100.00, "INCOME MANAGEMENT":2100.00},
+			"2014-07": {"total":11227.00, "PERFORMANCE & RESEARCH":11227.00},
+			"2015-01": {"total":3000.00, "PERFORMANCE & RESEARCH":3000.00},
+			"2015-07": {"total":12927.00, "POLICY PERFORMANCE AND COMMS":12927.00},
+			"2015-09": {"total":6500.00, "POLICY PERFORMANCE AND COMMS":6500.00},
+			"2016-07": {"total":11406.63, "POLICY PERFORMANCE AND COMMS":11406.63},
+			"2017-11": {"total":280.50, "PLACE":280.50}
+		}
+	},
+	"5606": {
+		"name": "EXPERT WEB LTD",
+		"alternate-names": [
+			"EXPERT WEB LIMITED"
+		],
+		"total": 1500,
+		"monthly": {
+			"2017-04": {"total":1500.00, "CA LEP":1500.00}
+		}
+	},
+	"5607": {
+		"name": "EXPLORATION AND PRODUCTION METALS LTD",
+		"total": 1000,
+		"monthly": {
+			"2014-10": {"total":1000.00, "STRATEGY AND SKILLS":1000.00}
+		}
+	},
+	"5608": {
+		"name": "EXPLORING CHOICES",
+		"total": 23400,
+		"monthly": {
+			"2014-03": {"total":11150.00, "CITY WIDE LEARNING BODY":11150.00},
+			"2014-07": {"total":2100.00, "CITY WIDE LEARNING BODY":2100.00},
+			"2014-10": {"total":1050.00, "CITY WIDE LEARNING BODY":1050.00},
+			"2014-11": {"total":3500.00, "CITY WIDE LEARNING BODY":3500.00},
+			"2014-12": {"total":700.00, "CITY WIDE LEARNING BODY":700.00},
+			"2015-03": {"total":2800.00, "CITY WIDE LEARNING BODY":2800.00},
+			"2015-09": {"total":2100.00, "CYPF":2100.00}
+		}
+	},
+	"5609": {
+		"name": "EXPRESS BLINDS AND CURTAINS LTD",
+		"total": 1120,
+		"monthly": {
+			"2016-11": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"5610": {
+		"name": "EXPRESS COATINGS",
+		"total": 124500,
+		"monthly": {
+			"2014-05": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00},
+			"2014-10": {"total":26048.54, "RGF 4":26048.54},
+			"2015-01": {"total":15499.41, "RGF 3":15499.41},
+			"2015-02": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00},
+			"2015-03": {"total":9952.05, "RGF 3":8452.05, "STUDENT FINANCIAL SUPPORT":1500.00},
+			"2015-04": {"total":70000.00, "RGF 3":70000.00}
+		}
+	},
+	"5611": {
+		"name": "EXPRESS INSTALLATIONS",
+		"total": 4569,
+		"monthly": {
+			"2011-11": {"total":2000.00, "MINOR WORK GRANTS":2000.00},
+			"2013-03": {"total":295.00, "COM.UNITY":295.00},
+			"2015-08": {"total":2274.00, "CYPF":2274.00}
+		}
+	},
+	"5612": {
+		"name": "EXPRESS SOLICITORS",
+		"total": 60050,
+		"monthly": {
+			"2011-06": {"total":10000.00, "CLAIMS":10000.00},
+			"2011-08": {"total":4500.00, "CLAIMS":4500.00},
+			"2011-11": {"total":8800.00, "CLAIMS":8800.00},
+			"2013-08": {"total":14500.00, "CLAIMS":14500.00},
+			"2014-04": {"total":5500.00, "CLAIMS":5500.00},
+			"2015-04": {"total":16750.00, "CLAIMS":16750.00}
+		}
+	},
+	"5613": {
+		"name": "EXPRESS WINDOWS & DOORS",
+		"total": 2272,
+		"monthly": {
+			"2014-03": {"total":2272.00, "HULL - HUMBER SUB REGION HAL":2272.00}
+		}
+	},
+	"5614": {
+		"name": "EXPRESSION MEDIA LTD",
+		"total": 2139,
+		"monthly": {
+			"2016-09": {"total":2139.00, "COMMUNITIES":2139.00}
+		}
+	},
+	"5615": {
+		"name": "EXPRESSWAY COACHES LTD",
+		"total": 47620,
+		"monthly": {
+			"2011-01": {"total":1020.00, "SPORTS EVENTS":1020.00},
+			"2011-03": {"total":1000.00, "SPORTS EVENTS":1000.00},
+			"2011-12": {"total":640.00, "ITC":640.00},
+			"2012-11": {"total":12160.00, "ITC":12160.00},
+			"2017-06": {"total":16545.00, "PLACE":16545.00},
+			"2018-06": {"total":15915.00, "PLACE":15915.00},
+			"2020-03": {"total":340.00, "PEOPLE":340.00}
+		}
+	},
+	"5616": {
+		"name": "EXTERION MEDIA (UK) LTD",
+		"alternate-names": [
+			"EXTERION MEDIA (UK) LIMITED"
+		],
+		"total": 101525,
+		"monthly": {
+			"2014-02": {"total":1950.00, "COMMUNICATIONS":1950.00},
+			"2014-05": {"total":3351.00, "FOSTERING DEVELOPMENT":3351.00},
+			"2014-08": {"total":1896.00, "2 YEAR OLD FEL":1896.00},
+			"2014-10": {"total":2070.00, "FOSTERING DEVELOPMENT":2070.00},
+			"2015-01": {"total":1896.00, "2 YEAR OLD FEL":1896.00},
+			"2015-03": {"total":5629.00, "COMMUNICATIONS":5629.00},
+			"2015-05": {"total":3047.00, "COMMUNICATIONS":3047.00},
+			"2015-10": {"total":2871.00, "CYPF":2871.00},
+			"2016-02": {"total":3350.00, "CYPF":3350.00},
+			"2016-03": {"total":2843.00, "POLICY PERFORMANCE AND COMMS":2843.00},
+			"2016-04": {"total":2600.00, "POLICY PERFORMANCE AND COMMS":2600.00},
+			"2016-05": {"total":3365.00, "CYPF":3365.00},
+			"2016-06": {"total":7296.00, "CYPF":2333.00, "POLICY PERFORMANCE AND COMMS":4963.00},
+			"2016-09": {"total":2670.00, "CYPF":1870.00, "POLICY PERFORMANCE AND COMMS":800.00},
+			"2016-10": {"total":2030.00, "CYPF":430.00, "POLICY PERFORMANCE AND COMMS":1600.00},
+			"2016-11": {"total":270.00, "POLICY PERFORMANCE AND COMMS":270.00},
+			"2017-01": {"total":6235.00, "CYPF":6235.00},
+			"2017-04": {"total":5480.00, "POLICY PERFORMANCE AND COMMS":5480.00},
+			"2017-06": {"total":2150.00, "POLICY PERFORMANCE AND COMMS":2150.00},
+			"2017-07": {"total":850.00, "POLICY PERFORMANCE AND COMMS":850.00},
+			"2017-11": {"total":3750.00, "POLICY, PERFORMANCE AND COMMS":3750.00},
+			"2018-02": {"total":3040.00, "POLICY, PERFORMANCE AND COMMS":3040.00},
+			"2018-03": {"total":5515.00, "POLICY, PERFORMANCE AND COMMS":5515.00},
+			"2018-06": {"total":3100.00, "POLICY, PERFORMANCE AND COMMS":3100.00},
+			"2018-10": {"total":3650.00, "POLICY, PERFORMANCE AND COMMS":3650.00},
+			"2019-01": {"total":2025.00, "POLICY, PERFORMANCE AND COMMS":2025.00},
+			"2019-02": {"total":9406.00, "POLICY, PERFORMANCE AND COMMS":9406.00},
+			"2019-03": {"total":5000.00, "POLICY, PERFORMANCE AND COMMS":5000.00},
+			"2019-06": {"total":2025.00, "POLICY, PERFORMANCE AND COMMS":2025.00},
+			"2019-07": {"total":2165.00, "POLICY, PERFORMANCE AND COMMS":2165.00}
+		}
+	},
+	"5617": {
+		"name": "EXTERNAL COMBUSTION",
+		"total": 2500,
+		"monthly": {
+			"2011-02": {"total":2500.00, "COMMUNITY ASSEMBLY NORTH EAST":2500.00}
+		}
+	},
+	"5618": {
+		"name": "EXTRASPACE INDUSTRIES LTD",
+		"total": 1983.6,
+		"monthly": {
+			"2012-09": {"total":1983.60, "SF GRNI LIABILITY TAKEN":1983.60}
+		}
+	},
+	"5619": {
+		"name": "EXTREME MOUNTAIN BIKE S",
+		"total": 1400,
+		"monthly": {
+			"2018-04": {"total":1400.00, "PLACE":1400.00}
+		}
+	},
+	"5620": {
+		"name": "EYELAW LTD",
+		"total": 4106.37,
+		"monthly": {
+			"2011-01": {"total":833.00, "CARE PROCEEDINGS (LEGAL FEES)":833.00},
+			"2014-03": {"total":1603.12, "CARE PROCEEDINGS (LEGAL FEES)":1603.12},
+			"2016-05": {"total":669.90, "CYPF":669.90},
+			"2016-08": {"total":641.25, "CYPF":641.25},
+			"2017-12": {"total":359.10, "PEOPLE":359.10}
+		}
+	},
+	"5621": {
+		"name": "EYG HERITAGE ELITE",
+		"total": 1000,
+		"monthly": {
+			"2011-03": {"total":1000.00, "MINOR WORK GRANTS":1000.00}
+		}
+	},
+	"5622": {
+		"name": "EYRE & ELLISTON LTD",
+		"total": 1303.58,
+		"monthly": {
+			"2016-10": {"total":702.46, "CYPF":702.46},
+			"2017-07": {"total":304.00, "CYPF":304.00},
+			"2020-07": {"total":297.12, "PEOPLE":297.12}
+		}
+	},
+	"5623": {
+		"name": "Encircle Marketing",
+		"total": 1500,
+		"monthly": {
+			"2017-09": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00}
+		}
+	},
+	"5624": {
+		"name": "Excel Mechanical Contracting",
+		"total": 1420,
+		"monthly": {
+			"2017-09": {"total":1420.00, "LOCAL ENTERPRISE PARTNERSHIP":1420.00}
+		}
+	},
+	"5625": {
+		"name": "F AND C JOINERY",
+		"total": 1420,
+		"monthly": {
+			"2016-03": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"5626": {
+		"name": "F C HALL ASSOCIATES LTD",
+		"total": 57340,
+		"monthly": {
+			"2011-01": {"total":5170.00, "TRANSFORMATION TEAM":5170.00},
+			"2011-02": {"total":5640.00, "TRANSFORMATION TEAM":5640.00},
+			"2011-03": {"total":6110.00, "TRANSFORMATION TEAM":6110.00},
+			"2011-04": {"total":5170.00, "TRANSFORMATION TEAM":5170.00},
+			"2011-05": {"total":5640.00, "TRANSFORMATION TEAM":5640.00},
+			"2011-07": {"total":11280.00, "TRANSFORMATION TEAM":11280.00},
+			"2011-08": {"total":5640.00, "TRANSFORMATION TEAM":5640.00},
+			"2011-09": {"total":4230.00, "TRANSFORMATION TEAM":4230.00},
+			"2011-10": {"total":8460.00, "TRANSFORMATION TEAM":8460.00}
+		}
+	},
+	"5627": {
+		"name": "F CROFT ROOFING CONTRACTORS",
+		"total": 913,
+		"monthly": {
+			"2012-07": {"total":913.00, "OTHER REPAIRS & FEES":913.00}
+		}
+	},
+	"5628": {
+		"name": "F G MARSHALL LTD",
+		"total": 432.2,
+		"monthly": {
+			"2013-10": {"total":432.20, "CREMATORIA":432.20}
+		}
+	},
+	"5629": {
+		"name": "F HARDWICK LTD",
+		"total": 86500,
+		"monthly": {
+			"2012-01": {"total":50000.00, "SCC BALANCE SHEET":50000.00},
+			"2012-03": {"total":36500.00, "SCC BALANCE SHEET":36500.00}
+		}
+	},
+	"5630": {
+		"name": "F J BRINDLEY & SON LTD",
+		"alternate-names": [
+			"F J BRINDLEY & SON LIMITED"
+		],
+		"total": 595,
+		"monthly": {
+			"2012-03": {"total":595.00, "STREET FORCE BALANCE SHEET":595.00}
+		}
+	},
+	"5631": {
+		"name": "F KLUCZNIK & SON LTD T/AS IAE",
+		"total": 16631.7,
+		"monthly": {
+			"2012-11": {"total":967.00, "PLAYGROUND MAINTENANCE & INSPE":967.00},
+			"2013-03": {"total":5559.53, "ARBOURTHORNE PLAYGROUND":5559.53},
+			"2014-03": {"total":4468.98, "PLAYGROUND MAINTENANCE & INSPE":4468.98},
+			"2014-10": {"total":2038.95, "PLAYGROUND MAINTENANCE & INSPE":2038.95},
+			"2015-12": {"total":1873.50, "PLACE":1873.50},
+			"2017-07": {"total":873.21, "PLACE":873.21},
+			"2017-09": {"total":87.32, "CORPORATE":87.32},
+			"2017-10": {"total":763.21, "PLACE":763.21}
+		}
+	},
+	"5632": {
+		"name": "F M BIRCH LTD",
+		"total": 274040.8,
+		"monthly": {
+			"2017-07": {"total":3077.22, "RESOURCES":3077.22},
+			"2017-08": {"total":681.78, "CORPORATE":681.78},
+			"2017-09": {"total":26944.95, "PLACE":26944.95},
+			"2017-10": {"total":1363.34, "PLACE":1363.34},
+			"2017-11": {"total":6810.65, "PLACE":6810.65},
+			"2017-12": {"total":11880.17, "LOCAL ENTERPRISE PARTNERSHIP":1120.00, "PLACE":10760.17},
+			"2018-01": {"total":7793.28, "PLACE":7793.28},
+			"2018-02": {"total":4720.59, "PLACE":4720.59},
+			"2018-03": {"total":10187.81, "PLACE":10187.81},
+			"2018-04": {"total":5651.76, "PLACE":5651.76},
+			"2018-05": {"total":5826.50, "PLACE":5826.50},
+			"2018-06": {"total":6346.12, "PLACE":6346.12},
+			"2018-07": {"total":3301.73, "PLACE":3301.73},
+			"2018-08": {"total":6956.54, "PLACE":6956.54},
+			"2018-09": {"total":6386.48, "PLACE":6386.48},
+			"2018-10": {"total":6983.10, "PLACE":6983.10},
+			"2018-11": {"total":7246.74, "PLACE":7246.74},
+			"2018-12": {"total":10357.72, "PLACE":10357.72},
+			"2019-01": {"total":1549.50, "PLACE":1549.50},
+			"2019-02": {"total":10483.95, "PLACE":10483.95},
+			"2019-03": {"total":3351.94, "PLACE":3351.94},
+			"2019-04": {"total":5503.64, "PLACE":5503.64},
+			"2019-05": {"total":5046.28, "PLACE":5046.28},
+			"2019-06": {"total":16913.46, "PLACE":16913.46},
+			"2019-07": {"total":10745.40, "PLACE":10745.40},
+			"2019-08": {"total":7266.52, "PLACE":7266.52},
+			"2019-11": {"total":6049.60, "PLACE":6049.60},
+			"2019-12": {"total":14822.69, "PLACE":14822.69},
+			"2020-02": {"total":21888.47, "PLACE":21888.47},
+			"2020-03": {"total":2041.65, "PLACE":2041.65},
+			"2020-04": {"total":406.20, "PLACE":406.20},
+			"2020-07": {"total":31297.85, "PLACE":31297.85},
+			"2020-10": {"total":3266.93, "PLACE":3266.93},
+			"2020-12": {"total":890.24, "PLACE":890.24}
+		}
+	},
+	"5633": {
+		"name": "F PARKINSON LTD",
+		"total": 573882.22,
+		"monthly": {
+			"2018-07": {"total":34300.00, "PEOPLE":34300.00},
+			"2018-08": {"total":97800.00, "PEOPLE":97800.00},
+			"2018-12": {"total":16600.00, "PEOPLE":16600.00},
+			"2019-09": {"total":3782.22, "PEOPLE":3782.22},
+			"2020-07": {"total":146200.00, "PLACE":146200.00},
+			"2020-09": {"total":139800.00, "PLACE":139800.00},
+			"2020-10": {"total":135400.00, "PLACE":135400.00}
+		}
+	},
+	"5634": {
+		"name": "F R SHARROCK LTD",
+		"total": 612570.019999999,
+		"monthly": {
+			"2011-01": {"total":636.73, "OLIVE GROVE WORKSHOPS":636.73},
+			"2011-02": {"total":2226.25, "OLIVE GROVE WORKSHOPS":2226.25},
+			"2011-03": {"total":2691.41, "OLIVE GROVE WORKSHOPS":2691.41},
+			"2011-05": {"total":4360.65, "OLIVE GROVE WORKSHOPS":4360.65},
+			"2011-07": {"total":1369.72, "OLIVE GROVE WORKSHOPS":1369.72},
+			"2011-08": {"total":1341.44, "OLIVE GROVE WORKSHOPS":1341.44},
+			"2011-10": {"total":2250.99, "OLIVE GROVE WORKSHOPS":2250.99},
+			"2011-11": {"total":1959.36, "OLIVE GROVE WORKSHOPS":1959.36},
+			"2011-12": {"total":3263.49, "OLIVE GROVE WORKSHOPS":3263.49},
+			"2012-01": {"total":1083.02, "OLIVE GROVE WORKSHOPS":1083.02},
+			"2012-03": {"total":1266.22, "OLIVE GROVE WORKSHOPS":1266.22},
+			"2012-06": {"total":1989.97, "OLIVE GROVE WORKSHOPS":565.47, "STANIFORTH ROAD WORKSHOPS":1424.50},
+			"2012-08": {"total":6218.17, "OLIVE GROVE WORKSHOPS":2339.42, "STANIFORTH ROAD WORKSHOPS":3878.75},
+			"2013-01": {"total":1038.30, "STANIFORTH ROAD WORKSHOPS":1038.30},
+			"2013-02": {"total":4921.98, "STANIFORTH ROAD WORKSHOPS":4921.98},
+			"2013-03": {"total":4985.62, "STANIFORTH ROAD WORKSHOPS":4985.62},
+			"2013-04": {"total":1118.57, "STANIFORTH ROAD WORKSHOPS":1118.57},
+			"2013-05": {"total":2579.58, "STANIFORTH ROAD WORKSHOPS":2579.58},
+			"2013-06": {"total":465.43, "STANIFORTH ROAD WORKSHOPS":465.43},
+			"2013-07": {"total":6341.32, "STANIFORTH ROAD WORKSHOPS":6341.32},
+			"2013-08": {"total":1275.57, "STANIFORTH ROAD WORKSHOPS":1275.57},
+			"2013-10": {"total":378.62, "STANIFORTH ROAD WORKSHOPS":378.62},
+			"2013-11": {"total":3077.28, "STANIFORTH ROAD WORKSHOPS":3077.28},
+			"2013-12": {"total":12767.69, "STANIFORTH ROAD WORKSHOPS":12767.69},
+			"2014-01": {"total":4354.58, "STANIFORTH ROAD WORKSHOPS":4354.58},
+			"2014-02": {"total":4985.26, "STANIFORTH ROAD WORKSHOPS":4985.26},
+			"2014-03": {"total":5894.50, "STANIFORTH ROAD WORKSHOPS":5894.50},
+			"2014-05": {"total":1807.19, "STANIFORTH ROAD WORKSHOPS":1807.19},
+			"2014-06": {"total":1464.64, "STANIFORTH ROAD WORKSHOPS":1464.64},
+			"2014-07": {"total":1248.13, "STANIFORTH ROAD WORKSHOPS":1248.13},
+			"2014-08": {"total":948.96, "STANIFORTH ROAD WORKSHOPS":948.96},
+			"2014-09": {"total":3536.09, "STANIFORTH ROAD WORKSHOPS":3536.09},
+			"2014-10": {"total":493.68, "STANIFORTH ROAD WORKSHOPS":493.68},
+			"2014-11": {"total":3624.91, "STANIFORTH ROAD WORKSHOPS":3624.91},
+			"2014-12": {"total":2074.45, "STANIFORTH ROAD WORKSHOPS":2074.45},
+			"2015-01": {"total":4885.73, "STANIFORTH ROAD WORKSHOPS":4885.73},
+			"2015-02": {"total":7238.97, "STANIFORTH ROAD WORKSHOPS":7238.97},
+			"2015-03": {"total":26369.66, "STANIFORTH ROAD WORKSHOPS":26369.66},
+			"2015-04": {"total":5095.36, "STANIFORTH ROAD WORKSHOPS":5095.36},
+			"2015-05": {"total":3570.39, "STANIFORTH ROAD WORKSHOPS":3570.39},
+			"2015-06": {"total":10310.60, "STANIFORTH ROAD WORKSHOPS":10310.60},
+			"2015-07": {"total":4165.17, "RESOURCES":4165.17},
+			"2015-08": {"total":6685.21, "RESOURCES":6685.21},
+			"2015-09": {"total":2475.99, "RESOURCES":2475.99},
+			"2015-10": {"total":7261.62, "RESOURCES":7261.62},
+			"2015-11": {"total":2716.07, "RESOURCES":2716.07},
+			"2015-12": {"total":1943.86, "RESOURCES":1943.86},
+			"2016-01": {"total":7267.13, "RESOURCES":7267.13},
+			"2016-02": {"total":21894.66, "RESOURCES":21894.66},
+			"2016-03": {"total":9356.27, "RESOURCES":9356.27},
+			"2016-04": {"total":7639.39, "RESOURCES":7639.39},
+			"2016-05": {"total":7077.87, "RESOURCES":7077.87},
+			"2016-06": {"total":2216.45, "RESOURCES":2216.45},
+			"2016-07": {"total":13836.22, "RESOURCES":13836.22},
+			"2016-08": {"total":7896.40, "RESOURCES":7896.40},
+			"2016-09": {"total":3586.60, "RESOURCES":3586.60},
+			"2016-10": {"total":9804.88, "RESOURCES":9804.88},
+			"2016-11": {"total":24936.43, "RESOURCES":24936.43},
+			"2016-12": {"total":3411.69, "RESOURCES":3411.69},
+			"2017-01": {"total":7969.52, "RESOURCES":7969.52},
+			"2017-02": {"total":6348.34, "RESOURCES":6348.34},
+			"2017-04": {"total":9260.61, "RESOURCES":9260.61},
+			"2017-05": {"total":8123.64, "RESOURCES":8123.64},
+			"2017-06": {"total":8628.51, "RESOURCES":8628.51},
+			"2017-07": {"total":8924.28, "RESOURCES":8924.28},
+			"2017-08": {"total":1550.86, "PLACE":1550.86},
+			"2017-09": {"total":13002.75, "PLACE":13002.75},
+			"2017-10": {"total":10179.99, "PLACE":10179.99},
+			"2017-11": {"total":6602.05, "PLACE":6602.05},
+			"2017-12": {"total":31310.88, "PLACE":31310.88},
+			"2018-01": {"total":30697.26, "PLACE":30697.26},
+			"2018-02": {"total":6635.96, "PLACE":6635.96},
+			"2018-03": {"total":5076.21, "PLACE":5076.21},
+			"2018-04": {"total":6362.60, "PLACE":6362.60},
+			"2018-05": {"total":5543.00, "PLACE":5543.00},
+			"2018-06": {"total":1406.42, "PLACE":1406.42},
+			"2018-07": {"total":10252.18, "PLACE":10252.18},
+			"2018-08": {"total":2037.64, "PLACE":2037.64},
+			"2018-09": {"total":1516.76, "PLACE":1516.76},
+			"2018-10": {"total":3271.37, "PLACE":3271.37},
+			"2019-02": {"total":3769.88, "PLACE":3769.88},
+			"2019-03": {"total":1174.90, "PLACE":1174.90},
+			"2019-04": {"total":889.60, "PLACE":889.60},
+			"2019-05": {"total":5024.78, "PLACE":5024.78},
+			"2019-06": {"total":19319.66, "PLACE":19319.66},
+			"2019-07": {"total":10008.84, "PLACE":10008.84},
+			"2019-08": {"total":9006.56, "PLACE":9006.56},
+			"2019-09": {"total":3970.42, "PLACE":3970.42},
+			"2019-10": {"total":7799.01, "PLACE":7799.01},
+			"2019-11": {"total":14075.04, "PLACE":14075.04},
+			"2019-12": {"total":283.72, "PLACE":283.72},
+			"2020-01": {"total":4081.03, "PLACE":4081.03},
+			"2020-02": {"total":10022.02, "PLACE":10022.02},
+			"2020-03": {"total":2533.41, "PLACE":2533.41},
+			"2020-04": {"total":6039.25, "PLACE":6039.25},
+			"2020-06": {"total":7825.70, "PLACE":7825.70},
+			"2020-07": {"total":7129.92, "PLACE":7129.92},
+			"2020-08": {"total":6410.01, "PLACE":6410.01},
+			"2020-09": {"total":1025.32, "PLACE":1025.32},
+			"2020-10": {"total":5797.73, "PLACE":5797.73}
+		}
+	},
+	"5635": {
+		"name": "F W MEGGETT & CO",
+		"total": 9250,
+		"monthly": {
+			"2014-01": {"total":9250.00, "CLAIMS":9250.00}
+		}
+	},
+	"5636": {
 		"name": "F W WALLACE LTD",
 		"alternate-names": [
 			"F W WALLACE LTD."
@@ -12,7 +542,7 @@
 			"2014-08": {"total":618.00, "CLAIMS":618.00}
 		}
 	},
-	"5601": {
+	"5637": {
 		"name": "F W WHITELOCK & SONS LTD",
 		"alternate-names": [
 			"F W WHITELOCK & SONS LIMITED"
@@ -22,16 +552,16 @@
 			"2012-10": {"total":14977.00, "GRNI NO LIABILITY VAL / OHEAD":14977.00}
 		}
 	},
-	"5602": {
+	"5638": {
 		"name": "F&G COMMERCIALS LTD",
 		"total": 1120,
 		"monthly": {
 			"2017-11": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
 		}
 	},
-	"5603": {
+	"5639": {
 		"name": "F. BAMFORD (ENGINEERING) LTD",
-		"total": 46255.72,
+		"total": 46636.17,
 		"monthly": {
 			"2017-07": {"total":1850.00, "RESOURCES":1850.00},
 			"2017-08": {"total":3970.00, "PLACE":3970.00},
@@ -51,10 +581,11 @@
 			"2020-04": {"total":2255.00, "PLACE":2255.00},
 			"2020-06": {"total":371.30, "PLACE":371.30},
 			"2020-07": {"total":2389.75, "PLACE":2389.75},
-			"2020-08": {"total":2040.00, "PLACE":2040.00}
+			"2020-08": {"total":2040.00, "PLACE":2040.00},
+			"2020-10": {"total":380.45, "PLACE":380.45}
 		}
 	},
-	"5604": {
+	"5640": {
 		"name": "FABRIC LENNY",
 		"total": 1750,
 		"monthly": {
@@ -62,7 +593,7 @@
 			"2015-11": {"total":600.00, "PLACE":600.00}
 		}
 	},
-	"5605": {
+	"5641": {
 		"name": "FABRICATED PRODUCTS (UK)",
 		"total": 3360,
 		"monthly": {
@@ -70,7 +601,7 @@
 			"2017-11": {"total":2240.00, "LOCAL ENTERPRISE PARTNERSHIP":2240.00}
 		}
 	},
-	"5606": {
+	"5642": {
 		"name": "FABRICATION ENGINEERING MAINTENANCE LTD",
 		"total": 2920,
 		"monthly": {
@@ -78,7 +609,7 @@
 			"2017-01": {"total":1420.00, "CA LEP":1420.00}
 		}
 	},
-	"5607": {
+	"5643": {
 		"name": "FABTECH STRUCTURAL LTD",
 		"alternate-names": [
 			"FABTECH STRUCTURAL LIMITED"
@@ -88,14 +619,14 @@
 			"2017-04": {"total":2000.00, "CA LEP":2000.00}
 		}
 	},
-	"5608": {
+	"5644": {
 		"name": "FACELIFT GB LTD",
 		"total": 1288.75,
 		"monthly": {
 			"2011-07": {"total":1288.75, "STREET FORCE BALANCE SHEET":1288.75}
 		}
 	},
-	"5609": {
+	"5645": {
 		"name": "FACILITIES & CORPORATE SOLUTIONS LTD",
 		"total": 1030608.74,
 		"monthly": {
@@ -149,21 +680,21 @@
 			"2020-01": {"total":10000.00, "POLICY, PERFORMANCE AND COMMS":10000.00}
 		}
 	},
-	"5610": {
+	"5646": {
 		"name": "FACILITY MAINTENANCE SOLUTIONS LTD",
 		"total": 3295,
 		"monthly": {
 			"2013-12": {"total":3295.00, "STOCKSBRIDGE DISTRICT CENTRE":3295.00}
 		}
 	},
-	"5611": {
+	"5647": {
 		"name": "FACTOR 21 PLC",
 		"total": 2500,
 		"monthly": {
 			"2016-11": {"total":2500.00, "COMMUNITIES":2500.00}
 		}
 	},
-	"5612": {
+	"5648": {
 		"name": "FACTUAL MANAGEMENT",
 		"total": 3184.5,
 		"monthly": {
@@ -171,9 +702,9 @@
 			"2013-02": {"total":1684.50, "NORTH OF ENGLAND CONFERENCE":1684.50}
 		}
 	},
-	"5613": {
+	"5649": {
 		"name": "FACULTATIEVE TECHNOLOGIES LTD",
-		"total": 26008.33,
+		"total": 26365.55,
 		"monthly": {
 			"2011-12": {"total":545.26, "CREMATORIA":545.26},
 			"2012-02": {"total":1684.32, "CREMATORIA":1684.32},
@@ -201,731 +732,8 @@
 			"2019-10": {"total":670.64, "PLACE":670.64},
 			"2020-01": {"total":670.64, "PLACE":670.64},
 			"2020-03": {"total":1372.18, "PLACE":1372.18},
-			"2020-06": {"total":1989.12, "PLACE":1989.12}
-		}
-	},
-	"5614": {
-		"name": "FACULTY OF PUBLIC HEALTH",
-		"total": 269,
-		"monthly": {
-			"2014-03": {"total":269.00, "PUBLIC HEALTH - DPH":269.00}
-		}
-	},
-	"5615": {
-		"name": "FAHRENHEIT LABORATORY SUPPLIES",
-		"total": 1967.4,
-		"monthly": {
-			"2011-01": {"total":675.00, "MEDICO LEGAL CENTRE":675.00},
-			"2011-04": {"total":1292.40, "MEDICO LEGAL CENTRE":1292.40}
-		}
-	},
-	"5616": {
-		"name": "FAILSAFE HEATING LTD",
-		"total": 1420,
-		"monthly": {
-			"2016-02": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"5617": {
-		"name": "FAIR CARE SERVICES LTD",
-		"alternate-names": [
-			"FAIR CARE SERVICES LIMITED"
-		],
-		"total": 423.5,
-		"monthly": {
-			"2015-01": {"total":423.50, "BROOMHALL CHILDRENS CENTRE":423.50}
-		}
-	},
-	"5618": {
-		"name": "FAIRBANKS DENTAL LABORATORIES LTD",
-		"total": 5037.95,
-		"monthly": {
-			"2018-08": {"total":387.95, "PEOPLE":387.95},
-			"2019-02": {"total":4650.00, "PLACE":4650.00}
-		}
-	},
-	"5619": {
-		"name": "FAIRBURN HEALTHCARE (VALE) LTD",
-		"total": 104928.88,
-		"monthly": {
-			"2011-02": {"total":8999.60, "PURCHASING LEARNING DISABILITI":8999.60},
-			"2011-03": {"total":4499.80, "PURCHASING LEARNING DISABILITI":4499.80},
-			"2011-05": {"total":8920.85, "PURCHASING LEARNING DISABILITI":8920.85},
-			"2011-06": {"total":8738.90, "PURCHASING LEARNING DISABILITI":8738.90},
-			"2011-07": {"total":10038.92, "PURCHASING LEARNING DISABILITI":10038.92},
-			"2011-09": {"total":14870.16, "PURCHASING LEARNING DISABILITI":14870.16},
-			"2011-11": {"total":9913.44, "PURCHASING LEARNING DISABILITI":9913.44},
-			"2011-12": {"total":4956.72, "PURCHASING LEARNING DISABILITI":4956.72},
-			"2012-01": {"total":7685.47, "PURCHASING LEARNING DISABILITI":7685.47},
-			"2012-02": {"total":5251.72, "PURCHASING LEARNING DISABILITI":5251.72},
-			"2012-03": {"total":5251.72, "PURCHASING LEARNING DISABILITI":5251.72},
-			"2012-05": {"total":10532.98, "PURCHASING LEARNING DISABILITI":10532.98},
-			"2012-07": {"total":5268.60, "PURCHASING LEARNING DISABILITI":5268.60}
-		}
-	},
-	"5620": {
-		"name": "FAIRBURN HOUSE LTD",
-		"total": 162387.51,
-		"monthly": {
-			"2018-05": {"total":39477.14, "PEOPLE":39477.14},
-			"2018-09": {"total":25626.71, "PEOPLE":25626.71},
-			"2020-02": {"total":75082.21, "PEOPLE":75082.21},
-			"2020-03": {"total":11723.51, "PEOPLE":11723.51},
-			"2020-04": {"total":6495.82, "PEOPLE":6495.82},
-			"2020-05": {"total":3982.12, "PEOPLE":3982.12}
-		}
-	},
-	"5621": {
-		"name": "FAIRMOUNT NURSERY (HACKENTHORPE)",
-		"total": 165382.43,
-		"monthly": {
-			"2012-01": {"total":2125.00, "WORKFORCE DEVELOPMENT":2125.00},
-			"2013-03": {"total":1005.00, "WORKFORCE DEVELOPMENT":1005.00},
-			"2014-01": {"total":260.00, "WEST SA - LAC":260.00},
-			"2014-04": {"total":752.70, "WEST SA - LAC":752.70},
-			"2014-08": {"total":355.34, "WEST SA - LAC":355.34},
-			"2016-07": {"total":252.00, "CYPF":252.00},
-			"2017-06": {"total":912.45, "CYPF":912.45},
-			"2017-08": {"total":17796.78, "PEOPLE":17796.78},
-			"2017-09": {"total":6882.28, "PEOPLE":6882.28},
-			"2017-11": {"total":13502.04, "PEOPLE":13502.04},
-			"2017-12": {"total":1518.53, "PEOPLE":1518.53},
-			"2018-01": {"total":27359.89, "PEOPLE":27359.89},
-			"2018-03": {"total":13854.36, "PEOPLE":13854.36},
-			"2018-04": {"total":34217.91, "PEOPLE":34217.91},
-			"2018-06": {"total":17489.46, "PEOPLE":17489.46},
-			"2018-08": {"total":14204.94, "PEOPLE":14204.94},
-			"2018-09": {"total":317.01, "PEOPLE":317.01},
-			"2018-10": {"total":1491.75, "PEOPLE":1491.75},
-			"2018-11": {"total":11084.99, "PEOPLE":11084.99}
-		}
-	},
-	"5622": {
-		"name": "FAIRMOUNT NURSERY AND PRE-SCHOOL LTD",
-		"alternate-names": [
-			"FAIRMOUNT NURSERY AND PRE-SCHOOL LIMITED"
-		],
-		"total": 6842.85,
-		"monthly": {
-			"2011-09": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
-			"2012-01": {"total":3187.50, "WORKFORCE DEVELOPMENT":3187.50},
-			"2012-08": {"total":660.00, "WORKFORCE DEVELOPMENT":660.00},
-			"2012-09": {"total":640.00, "WORKFORCE DEVELOPMENT":640.00},
-			"2019-10": {"total":1292.85, "PEOPLE":1292.85}
-		}
-	},
-	"5623": {
-		"name": "FAIRMOUNT NURSERY LTD",
-		"alternate-names": [
-			"FAIRMOUNT NURSERY LIMITED"
-		],
-		"total": 686922.59,
-		"monthly": {
-			"2011-09": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
-			"2012-01": {"total":1062.50, "WORKFORCE DEVELOPMENT":1062.50},
-			"2013-02": {"total":6185.00, "WORKFORCE DEVELOPMENT":6185.00},
-			"2013-03": {"total":1005.00, "WORKFORCE DEVELOPMENT":1005.00},
-			"2016-12": {"total":1500.00, "CA LEP":1500.00},
-			"2017-08": {"total":17357.85, "PEOPLE":17357.85},
-			"2017-09": {"total":11109.87, "PEOPLE":11109.87},
-			"2017-10": {"total":2240.00, "LOCAL ENTERPRISE PARTNERSHIP":2240.00},
-			"2017-11": {"total":11793.87, "PEOPLE":11793.87},
-			"2017-12": {"total":679.32, "PEOPLE":679.32},
-			"2018-01": {"total":32226.77, "PEOPLE":32226.77},
-			"2018-03": {"total":13811.47, "PEOPLE":13811.47},
-			"2018-04": {"total":37760.45, "PEOPLE":37760.45},
-			"2018-06": {"total":15650.05, "PEOPLE":15650.05},
-			"2018-08": {"total":23619.96, "PEOPLE":23619.96},
-			"2018-09": {"total":383.76, "PEOPLE":383.76},
-			"2018-11": {"total":9825.79, "PEOPLE":9825.79},
-			"2019-01": {"total":47160.11, "PEOPLE":47160.11},
-			"2019-03": {"total":23857.08, "PEOPLE":23857.08},
-			"2019-04": {"total":58725.03, "PEOPLE":58725.03},
-			"2019-06": {"total":27211.57, "PEOPLE":27211.57},
-			"2019-07": {"total":1153.80, "PEOPLE":1153.80},
-			"2019-08": {"total":44748.81, "PEOPLE":44748.81},
-			"2019-11": {"total":28452.00, "PEOPLE":28452.00},
-			"2019-12": {"total":1883.56, "PEOPLE":1883.56},
-			"2020-01": {"total":57201.65, "PEOPLE":57201.65},
-			"2020-02": {"total":1020.00, "PEOPLE":1020.00},
-			"2020-03": {"total":31322.05, "PEOPLE":31322.05},
-			"2020-04": {"total":77602.06, "PEOPLE":77602.06},
-			"2020-06": {"total":35724.23, "PEOPLE":35724.23},
-			"2020-07": {"total":369.60, "PEOPLE":369.60},
-			"2020-08": {"total":63216.88, "PEOPLE":63216.88}
-		}
-	},
-	"5624": {
-		"name": "FAIRPLAY",
-		"total": 2518,
-		"monthly": {
-			"2019-08": {"total":943.50, "PEOPLE":943.50},
-			"2019-09": {"total":396.00, "PEOPLE":396.00},
-			"2019-10": {"total":324.00, "PEOPLE":324.00},
-			"2020-01": {"total":315.50, "PEOPLE":315.50},
-			"2020-02": {"total":539.00, "PEOPLE":539.00}
-		}
-	},
-	"5625": {
-		"name": "FAIRWINDS",
-		"total": 1056334.08,
-		"monthly": {
-			"2011-01": {"total":4621.64, "PURCHASING":4621.64},
-			"2011-02": {"total":4621.64, "PURCHASING":4621.64},
-			"2011-03": {"total":4621.64, "PURCHASING":4621.64},
-			"2011-04": {"total":4586.99, "PURCHASING":4586.99},
-			"2011-05": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-06": {"total":9150.88, "PURCHASING":9150.88},
-			"2011-07": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-08": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-09": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-10": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-11": {"total":4575.44, "PURCHASING":4575.44},
-			"2011-12": {"total":4575.44, "PURCHASING":4575.44},
-			"2012-01": {"total":4575.44, "PURCHASING":4575.44},
-			"2012-02": {"total":15888.04, "PURCHASING":15888.04},
-			"2012-03": {"total":7909.68, "PURCHASING":7909.68},
-			"2012-04": {"total":7919.22, "PURCHASING":7919.22},
-			"2012-05": {"total":15844.80, "PURCHASING":15844.80},
-			"2012-06": {"total":7922.40, "PURCHASING":7922.40},
-			"2012-07": {"total":7922.40, "PURCHASING":7922.40},
-			"2012-08": {"total":7922.40, "PURCHASING":7922.40},
-			"2012-09": {"total":7922.40, "PURCHASING":7922.40},
-			"2012-10": {"total":7922.40, "PURCHASING":7922.40},
-			"2012-11": {"total":7922.40, "PURCHASING":7922.40},
-			"2013-01": {"total":7922.40, "PURCHASING":7922.40},
-			"2013-02": {"total":7922.40, "PURCHASING":7922.40},
-			"2013-03": {"total":7922.40, "PURCHASING":7922.40},
-			"2013-04": {"total":5140.59, "PURCHASING":5140.59},
-			"2013-05": {"total":3340.60, "PURCHASING":3340.60},
-			"2013-06": {"total":3340.60, "PURCHASING":3340.60},
-			"2013-07": {"total":7109.40, "PURCHASING":7109.40},
-			"2013-08": {"total":7109.40, "PURCHASING":7109.40},
-			"2013-09": {"total":7109.40, "PURCHASING":7109.40},
-			"2013-10": {"total":25778.13, "PURCHASING":25778.13},
-			"2013-11": {"total":8690.36, "PURCHASING":8690.36},
-			"2013-12": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-01": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-03": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-04": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-05": {"total":17380.72, "PURCHASING":17380.72},
-			"2014-06": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-07": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-08": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-09": {"total":52877.65, "PURCHASING":52877.65},
-			"2014-10": {"total":4066.11, "PURCHASING":4066.11},
-			"2014-11": {"total":8690.36, "PURCHASING":8690.36},
-			"2014-12": {"total":44658.94, "PURCHASING":44658.94},
-			"2015-01": {"total":12652.76, "PURCHASING":12652.76},
-			"2015-02": {"total":12652.76, "PURCHASING":12652.76},
-			"2015-03": {"total":12652.76, "PURCHASING":12652.76},
-			"2015-04": {"total":25305.52, "PURCHASING":25305.52},
-			"2015-05": {"total":12652.76, "PURCHASING":12652.76},
-			"2015-06": {"total":12652.76, "PURCHASING":12652.76},
-			"2015-07": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2015-08": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2015-09": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2015-10": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2015-12": {"total":25305.52, "COMMUNITIES":25305.52},
-			"2016-01": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2016-02": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2016-03": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2016-04": {"total":12652.76, "COMMUNITIES":12652.76},
-			"2016-05": {"total":17625.46, "COMMUNITIES":17625.46},
-			"2016-06": {"total":33261.84, "COMMUNITIES":33261.84},
-			"2016-07": {"total":16630.92, "COMMUNITIES":16630.92},
-			"2016-08": {"total":16630.92, "COMMUNITIES":16630.92},
-			"2016-09": {"total":16630.92, "COMMUNITIES":16630.92},
-			"2016-11": {"total":29089.24, "COMMUNITIES":29089.24},
-			"2016-12": {"total":18083.28, "COMMUNITIES":18083.28},
-			"2017-01": {"total":33800.88, "COMMUNITIES":33800.88},
-			"2017-03": {"total":16900.44, "COMMUNITIES":16900.44},
-			"2017-04": {"total":16900.44, "COMMUNITIES":16900.44},
-			"2017-05": {"total":16900.44, "COMMUNITIES":16900.44},
-			"2017-07": {"total":12862.12, "COMMUNITIES":12862.12},
-			"2017-08": {"total":25724.24, "PEOPLE":25724.24},
-			"2017-09": {"total":11893.19, "PEOPLE":11893.19},
-			"2017-10": {"total":7940.56, "PEOPLE":7940.56},
-			"2017-11": {"total":7940.56, "PEOPLE":7940.56},
-			"2017-12": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-01": {"total":15881.12, "PEOPLE":15881.12},
-			"2018-02": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-03": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-04": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-05": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-06": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-07": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-08": {"total":7940.56, "PEOPLE":7940.56},
-			"2018-10": {"total":15881.12, "PEOPLE":15881.12},
-			"2018-11": {"total":7940.56, "PEOPLE":7940.56}
-		}
-	},
-	"5626": {
-		"name": "FAIRWINDS (EXEMPLAR)",
-		"total": 255766.23,
-		"monthly": {
-			"2018-12": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-01": {"total":15881.12, "PEOPLE":15881.12},
-			"2019-02": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-03": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-04": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-05": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-06": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-07": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-08": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-09": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-10": {"total":7940.56, "PEOPLE":7940.56},
-			"2019-12": {"total":17878.08, "PEOPLE":17878.08},
-			"2020-02": {"total":7956.32, "PEOPLE":7956.32},
-			"2020-03": {"total":3978.16, "PEOPLE":3978.16},
-			"2020-04": {"total":41505.26, "PEOPLE":41505.26},
-			"2020-05": {"total":15385.20, "PEOPLE":15385.20},
-			"2020-06": {"total":15385.20, "PEOPLE":15385.20},
-			"2020-07": {"total":30623.61, "PEOPLE":30623.61},
-			"2020-08": {"total":19527.68, "PEOPLE":19527.68},
-			"2020-09": {"total":8240.00, "PEOPLE":8240.00}
-		}
-	},
-	"5627": {
-		"name": "FAIRYLAND NURSERY LTD",
-		"alternate-names": [
-			"FAIRYLAND NURSERY LIMITED"
-		],
-		"total": 3631,
-		"monthly": {
-			"2019-04": {"total":1394.00, "PEOPLE":1394.00},
-			"2019-05": {"total":956.00, "PEOPLE":956.00},
-			"2019-06": {"total":560.00, "PEOPLE":560.00},
-			"2019-07": {"total":721.00, "PEOPLE":721.00}
-		}
-	},
-	"5628": {
-		"name": "FAIRYTALE WEDDING CARS LTD",
-		"total": 1120,
-		"monthly": {
-			"2016-08": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"5629": {
-		"name": "FAITH IN FAMILIES",
-		"total": 120659.04,
-		"monthly": {
-			"2011-06": {"total":4147.36, "ADOPTION SUPPORT":4147.36},
-			"2014-12": {"total":19209.68, "INTER AGENCY FEES":19209.68},
-			"2015-01": {"total":750.00, "INTER AGENCY FEES":750.00},
-			"2015-02": {"total":750.00, "INTER AGENCY FEES":750.00},
-			"2015-04": {"total":750.00, "INTER AGENCY FEES":750.00},
-			"2015-05": {"total":750.00, "INTER AGENCY FEES":750.00},
-			"2015-06": {"total":750.00, "INTER AGENCY FEES":750.00},
-			"2015-07": {"total":750.00, "CYPF":750.00},
-			"2015-08": {"total":750.00, "CYPF":750.00},
-			"2015-11": {"total":750.00, "CYPF":750.00},
-			"2015-12": {"total":750.00, "CYPF":750.00},
-			"2016-10": {"total":1500.00, "CYPF":1500.00},
-			"2019-09": {"total":31620.00, "PEOPLE":31620.00},
-			"2019-11": {"total":51000.00, "PEOPLE":51000.00},
-			"2020-03": {"total":5582.00, "PEOPLE":5582.00},
-			"2020-08": {"total":850.00, "PEOPLE":850.00}
-		}
-	},
-	"5630": {
-		"name": "FAITHSTAR LLP",
-		"total": 164610.56,
-		"monthly": {
-			"2014-10": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00},
-			"2015-04": {"total":1325.00, "CITY DEAL":1325.00},
-			"2015-09": {"total":805.56, "CYPF":805.56},
-			"2015-10": {"total":450.00, "POLICY PERFORMANCE AND COMMS":450.00},
-			"2015-11": {"total":900.00, "CYPF":900.00},
-			"2015-12": {"total":1500.00, "CA LEP":1500.00},
-			"2016-01": {"total":2000.00, "CA LEP":2000.00},
-			"2016-04": {"total":425.00, "CYPF":425.00},
-			"2016-07": {"total":15000.00, "POLICY PERFORMANCE AND COMMS":15000.00},
-			"2016-09": {"total":5000.00, "POLICY PERFORMANCE AND COMMS":5000.00},
-			"2016-10": {"total":7500.00, "POLICY PERFORMANCE AND COMMS":7500.00},
-			"2017-01": {"total":1105.00, "CYPF":1105.00},
-			"2017-04": {"total":12500.00, "POLICY PERFORMANCE AND COMMS":12500.00},
-			"2017-08": {"total":1800.00, "LOCAL ENTERPRISE PARTNERSHIP":1800.00},
-			"2017-10": {"total":12500.00, "POLICY, PERFORMANCE AND COMMS":12500.00},
-			"2018-04": {"total":12500.00, "POLICY, PERFORMANCE AND COMMS":12500.00},
-			"2018-09": {"total":12500.00, "POLICY, PERFORMANCE AND COMMS":12500.00},
-			"2019-04": {"total":12500.00, "POLICY, PERFORMANCE AND COMMS":12500.00},
-			"2019-10": {"total":12500.00, "POLICY, PERFORMANCE AND COMMS":12500.00},
-			"2020-04": {"total":31550.00, "POLICY, PERFORMANCE AND COMMS":6250.00, "PEOPLE":25300.00},
-			"2020-07": {"total":18750.00, "POLICY, PERFORMANCE AND COMMS":18750.00}
-		}
-	},
-	"5631": {
-		"name": "FALCO UK LTD",
-		"total": 5355,
-		"monthly": {
-			"2015-07": {"total":5355.00, "PLACE":5355.00}
-		}
-	},
-	"5632": {
-		"name": "FALCON COMMERCIAL SERVICES LTD",
-		"total": 1120,
-		"monthly": {
-			"2017-02": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"5633": {
-		"name": "FALCON ELECTRICAL INST LTD",
-		"total": 2000,
-		"monthly": {
-			"2015-09": {"total":2000.00, "CA LEP":2000.00}
-		}
-	},
-	"5634": {
-		"name": "FALCON FOODSERVICE EQUIPMENT",
-		"total": 2800,
-		"monthly": {
-			"2012-03": {"total":1400.00, "CATERING PREMISES & EQUIPMENT":1400.00},
-			"2012-06": {"total":1400.00, "CATERING PREMISES & EQUIPMENT":1400.00}
-		}
-	},
-	"5635": {
-		"name": "FALCONER ASSOCIATES LTD",
-		"alternate-names": [
-			"FALCONER ASSOCIATES LIMITED"
-		],
-		"total": 59175,
-		"monthly": {
-			"2014-07": {"total":4000.00, "CITY CENTRE BID":4000.00},
-			"2014-08": {"total":2000.00, "CITY CENTRE BID":2000.00},
-			"2014-09": {"total":2325.00, "CITY CENTRE BID":2000.00, "OFF THE SHELF":325.00},
-			"2014-10": {"total":2000.00, "CITY CENTRE BID":2000.00},
-			"2014-11": {"total":2550.00, "CITY CENTRE BID":2000.00, "OFF THE SHELF":550.00},
-			"2014-12": {"total":2450.00, "CITY CENTRE BID":2000.00, "OFF THE SHELF":450.00},
-			"2015-01": {"total":2000.00, "CITY CENTRE BID":2000.00},
-			"2015-02": {"total":2550.00, "CITY CENTRE BID":2100.00, "OFF THE SHELF":450.00},
-			"2015-03": {"total":7300.00, "CITY CENTRE BID":2000.00, "COMMERCIAL TEAM":2500.00, "SHEFFIELD FIRST PARTNERSHIP":2800.00},
-			"2015-04": {"total":250.00, "OFF THE SHELF":250.00},
-			"2015-07": {"total":8025.00, "PLACE":8025.00},
-			"2015-10": {"total":6025.00, "PLACE":6025.00},
-			"2015-11": {"total":850.00, "PLACE":850.00},
-			"2016-03": {"total":2200.00, "POLICY PERFORMANCE AND COMMS":2200.00},
-			"2016-07": {"total":5000.00, "PLACE":5000.00},
-			"2016-10": {"total":3850.00, "PLACE":3850.00},
-			"2016-11": {"total":2500.00, "PLACE":2500.00},
-			"2016-12": {"total":3000.00, "CA LEP":3000.00},
-			"2017-04": {"total":300.00, "PLACE":300.00}
-		}
-	},
-	"5636": {
-		"name": "FALKLAND HOUSE SURGERY",
-		"total": 2860,
-		"monthly": {
-			"2014-11": {"total":810.00, "GP HEALTH CHECKS":810.00},
-			"2015-01": {"total":410.00, "GP HEALTH CHECKS":410.00},
-			"2015-04": {"total":340.00, "GP HEALTH CHECKS":340.00},
-			"2015-10": {"total":1300.00, "POLICY PERFORMANCE AND COMMS":1300.00}
-		}
-	},
-	"5637": {
-		"name": "FALL PROTECTION SOLUTIONS LTD",
-		"alternate-names": [
-			"FALL PROTECTION SOLUTIONS LIMITED"
-		],
-		"total": 5830,
-		"monthly": {
-			"2013-06": {"total":5830.00, "RE-OPENING OF WOODBOURN":5830.00}
-		}
-	},
-	"5638": {
-		"name": "FALON NAMEPLATES LTD",
-		"total": 79272.4,
-		"monthly": {
-			"2011-04": {"total":521.54, "CREMATORIA":521.54},
-			"2011-07": {"total":690.40, "CREMATORIA":690.40},
-			"2011-10": {"total":546.80, "CREMATORIA":546.80},
-			"2012-06": {"total":515.40, "CREMATORIA":515.40},
-			"2012-11": {"total":638.25, "CREMATORIA":638.25},
-			"2013-01": {"total":287.10, "CREMATORIA":287.10},
-			"2013-02": {"total":567.70, "CREMATORIA":567.70},
-			"2013-03": {"total":763.00, "CREMATORIA":763.00},
-			"2013-04": {"total":468.65, "CREMATORIA":468.65},
-			"2013-05": {"total":663.40, "CREMATORIA":663.40},
-			"2013-06": {"total":878.00, "CEMETERIES":590.00, "CREMATORIA":288.00},
-			"2013-07": {"total":1070.80, "CREMATORIA":1070.80},
-			"2013-08": {"total":609.50, "CREMATORIA":609.50},
-			"2013-10": {"total":865.90, "CREMATORIA":865.90},
-			"2013-11": {"total":282.20, "CREMATORIA":282.20},
-			"2013-12": {"total":269.70, "CREMATORIA":269.70},
-			"2014-03": {"total":877.30, "CREMATORIA":877.30},
-			"2014-04": {"total":334.80, "CREMATORIA":334.80},
-			"2014-05": {"total":263.00, "CREMATORIA":263.00},
-			"2014-06": {"total":329.10, "CREMATORIA":329.10},
-			"2014-07": {"total":304.90, "CREMATORIA":304.90},
-			"2014-08": {"total":351.95, "CREMATORIA":351.95},
-			"2014-09": {"total":11325.90, "CREMATORIA":11325.90},
-			"2014-10": {"total":308.60, "CREMATORIA":308.60},
-			"2014-11": {"total":264.90, "CREMATORIA":264.90},
-			"2014-12": {"total":289.10, "CREMATORIA":289.10},
-			"2015-01": {"total":609.80, "CREMATORIA":609.80},
-			"2015-02": {"total":329.10, "CREMATORIA":329.10},
-			"2015-03": {"total":412.80, "CREMATORIA":412.80},
-			"2015-05": {"total":292.80, "CREMATORIA":292.80},
-			"2015-06": {"total":1913.10, "CREMATORIA":1913.10},
-			"2015-07": {"total":989.50, "PLACE":989.50},
-			"2015-08": {"total":419.90, "PLACE":419.90},
-			"2015-09": {"total":478.50, "PLACE":478.50},
-			"2015-10": {"total":302.70, "PLACE":302.70},
-			"2015-12": {"total":416.00, "PLACE":416.00},
-			"2016-03": {"total":1927.80, "PLACE":1927.80},
-			"2016-04": {"total":520.50, "PLACE":520.50},
-			"2016-05": {"total":1217.45, "PLACE":1217.45},
-			"2016-06": {"total":371.35, "PLACE":371.35},
-			"2016-07": {"total":697.30, "PLACE":697.30},
-			"2016-09": {"total":1292.35, "PLACE":1292.35},
-			"2016-10": {"total":407.25, "PLACE":407.25},
-			"2016-11": {"total":634.00, "PLACE":634.00},
-			"2016-12": {"total":369.20, "PLACE":369.20},
-			"2017-01": {"total":819.70, "PLACE":819.70},
-			"2017-02": {"total":1034.85, "PLACE":1034.85},
-			"2017-03": {"total":636.10, "PLACE":636.10},
-			"2017-05": {"total":655.00, "PLACE":655.00},
-			"2017-06": {"total":553.00, "PLACE":553.00},
-			"2017-07": {"total":621.75, "PLACE":621.75},
-			"2017-09": {"total":489.65, "PLACE":489.65},
-			"2017-11": {"total":594.65, "PLACE":594.65},
-			"2017-12": {"total":784.35, "PLACE":784.35},
-			"2018-01": {"total":15130.00, "PLACE":15130.00},
-			"2018-02": {"total":1017.80, "PLACE":1017.80},
-			"2018-04": {"total":1590.90, "PLACE":1590.90},
-			"2018-06": {"total":486.60, "PLACE":486.60},
-			"2018-07": {"total":585.45, "PLACE":585.45},
-			"2018-09": {"total":587.50, "PLACE":587.50},
-			"2018-10": {"total":400.90, "PLACE":400.90},
-			"2018-11": {"total":1927.90, "PLACE":1927.90},
-			"2018-12": {"total":633.10, "PLACE":633.10},
-			"2019-01": {"total":607.55, "PLACE":607.55},
-			"2019-03": {"total":789.30, "PLACE":789.30},
-			"2019-05": {"total":1496.70, "PLACE":1496.70},
-			"2019-06": {"total":631.88, "PLACE":631.88},
-			"2019-08": {"total":308.96, "PLACE":308.96},
-			"2019-09": {"total":2945.22, "PLACE":2945.22},
-			"2019-10": {"total":617.92, "PLACE":617.92},
-			"2019-12": {"total":1758.58, "PLACE":1758.58},
-			"2020-01": {"total":401.48, "PLACE":401.48},
-			"2020-03": {"total":320.40, "PLACE":320.40},
-			"2020-05": {"total":733.30, "PLACE":733.30},
-			"2020-08": {"total":844.32, "PLACE":844.32},
-			"2020-09": {"total":1378.30, "PLACE":1378.30}
-		}
-	},
-	"5639": {
-		"name": "FAMILIES FOR CHILDREN",
-		"total": 26962.37,
-		"monthly": {
-			"2013-05": {"total":712.37, "ADOPTION SERVICE":712.37},
-			"2016-05": {"total":19500.00, "CYPF":19500.00},
-			"2016-06": {"total":750.00, "CYPF":750.00},
-			"2016-07": {"total":750.00, "CYPF":750.00},
-			"2016-10": {"total":3000.00, "CYPF":3000.00},
-			"2017-01": {"total":750.00, "CYPF":750.00},
-			"2017-02": {"total":750.00, "CYPF":750.00},
-			"2017-05": {"total":750.00, "CYPF":750.00}
-		}
-	},
-	"5640": {
-		"name": "FAMILY ACTION",
-		"total": 1576798.52,
-		"monthly": {
-			"2011-01": {"total":86916.66, "CHANGE / LEARNING& DEVELOPMENT":20000.00, "FAMILY WELFARE ASSOCIATION":38500.00, "TAMHS":28416.66},
-			"2011-02": {"total":10850.00, "FSU - VOLUNTARY & FAITH SECTOR":10850.00},
-			"2011-03": {"total":46880.00, "CHILDRENS FUND GRANTS":8380.00, "FAMILY WELFARE ASSOCIATION":38500.00},
-			"2011-05": {"total":5172.00, "LEARNING AND ACHIEVEMENT SERV":5172.00},
-			"2011-06": {"total":36750.00, "TAMHS":36750.00},
-			"2011-07": {"total":69475.00, "FAMILY WELFARE ASSOCIATION":32725.00, "TAMHS":36750.00},
-			"2011-09": {"total":10500.00, "MAST STRATEGY":10500.00},
-			"2011-10": {"total":79975.00, "FAMILY WELFARE ASSOCIATION":32725.00, "MAST STRATEGY":10500.00, "TAMHS":36750.00},
-			"2012-01": {"total":69475.00, "FAMILY WELFARE ASSOCIATION":32725.00, "TAMHS":36750.00},
-			"2012-02": {"total":10500.00, "MAST STRATEGY":10500.00},
-			"2012-03": {"total":32725.00, "FAMILY WELFARE ASSOCIATION":32725.00},
-			"2012-04": {"total":10500.00, "MAST STRATEGY":10500.00},
-			"2012-08": {"total":107088.75, "CITY WIDE CONTRACTS":31088.75, "PEI & MAST MANAGEMENT":10500.00, "TAMHS":65500.00},
-			"2012-10": {"total":41588.75, "CITY WIDE CONTRACTS":31088.75, "PEI & MAST MANAGEMENT":10500.00},
-			"2012-11": {"total":32750.00, "TAMHS":32750.00},
-			"2013-01": {"total":74338.75, "CITY WIDE CONTRACTS":31088.75, "PEI & MAST MANAGEMENT":10500.00, "TAMHS":32750.00},
-			"2013-02": {"total":15000.00, "TAMHS":15000.00},
-			"2013-04": {"total":10500.00, "PEI & MAST MANAGEMENT":10500.00},
-			"2013-06": {"total":21559.17, "CITY WIDE CHILD CARE CONTRACT":20725.84, "SUCCESSFUL FAMILIES PROGRAMME":833.33},
-			"2013-07": {"total":35922.50, "PEI & MAST MANAGEMENT":3500.00, "TAMHS":32422.50},
-			"2013-08": {"total":14696.25, "CITY WIDE CHILD CARE CONTRACT":10362.92, "PEI & MAST MANAGEMENT":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":833.33},
-			"2013-09": {"total":32892.50, "CITY WIDE CHILD CARE CONTRACT":20725.84, "PEI & MAST MANAGEMENT":10500.00, "SUCCESSFUL FAMILIES PROGRAMME":1666.66},
-			"2013-10": {"total":36755.83, "PEI & MAST MANAGEMENT":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":833.33, "TAMHS":32422.50},
-			"2013-11": {"total":24225.84, "CITY WIDE CHILD CARE CONTRACT":20725.84, "PEI & MAST MANAGEMENT":3500.00},
-			"2014-01": {"total":13500.00, "DRUG & SUBSTANCE":10000.00, "PEI & MAST MANAGEMENT":3500.00},
-			"2014-02": {"total":57955.82, "SUCCESSFUL FAMILIES PROGRAMME":25533.32, "TAMHS":32422.50},
-			"2014-03": {"total":10500.00, "PEI & MAST MANAGEMENT":10500.00},
-			"2014-05": {"total":28677.32, "PEI & MAST MANAGEMENT":3144.00, "SUCCESSFUL FAMILIES PROGRAMME":25533.32},
-			"2014-06": {"total":8233.33, "SUCCESSFUL FAMILIES PROGRAMME":8233.33},
-			"2014-07": {"total":73696.66, "PEI STRATEGY DEVELOP PERFORM":14000.00, "SUCCESSFUL FAMILIES PROGRAMME":16466.66, "TAMHS":43230.00},
-			"2014-09": {"total":11733.33, "PEI STRATEGY DEVELOP PERFORM":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":8233.33},
-			"2014-10": {"total":44155.83, "PEI STRATEGY DEVELOP PERFORM":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":8233.33, "TAMHS":32422.50},
-			"2014-11": {"total":11733.33, "PEI STRATEGY DEVELOP PERFORM":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":8233.33},
-			"2014-12": {"total":22714.29, "TAMHS":22714.29},
-			"2015-01": {"total":11733.33, "PEI STRATEGY DEVELOP PERFORM":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":8233.33},
-			"2015-02": {"total":46180.95, "PEI STRATEGY DEVELOP PERFORM":7000.00, "SUCCESSFUL FAMILIES PROGRAMME":16466.66, "TAMHS":22714.29},
-			"2015-03": {"total":19304.75, "PEI STRATEGY DEVELOP PERFORM":3500.00, "SUCCESSFUL FAMILIES PROGRAMME":8233.33, "TAMHS":7571.42},
-			"2015-06": {"total":7000.00, "PEI STRATEGY DEVELOP PERFORM":7000.00},
-			"2015-07": {"total":3500.00, "CYPF":3500.00},
-			"2015-08": {"total":7000.00, "CYPF":7000.00},
-			"2015-09": {"total":25233.33, "CYPF":25233.33},
-			"2015-11": {"total":13500.00, "CYPF":13500.00},
-			"2015-12": {"total":3500.00, "CYPF":3500.00},
-			"2016-02": {"total":7000.00, "CYPF":7000.00},
-			"2016-03": {"total":13500.00, "CYPF":13500.00},
-			"2016-04": {"total":3500.00, "CYPF":3500.00},
-			"2016-06": {"total":10500.00, "CYPF":10500.00},
-			"2016-08": {"total":3500.00, "CYPF":3500.00},
-			"2016-09": {"total":3500.00, "CYPF":3500.00},
-			"2016-10": {"total":3500.00, "CYPF":3500.00},
-			"2016-11": {"total":3500.00, "CYPF":3500.00},
-			"2016-12": {"total":3500.00, "CYPF":3500.00},
-			"2017-01": {"total":3500.00, "CYPF":3500.00},
-			"2017-02": {"total":3500.00, "CYPF":3500.00},
-			"2017-06": {"total":12809.75, "CYPF":12809.75},
-			"2017-10": {"total":12809.75, "PEOPLE":12809.75},
-			"2018-01": {"total":12809.75, "PEOPLE":12809.75},
-			"2018-06": {"total":12999.00, "PEOPLE":12999.00},
-			"2018-08": {"total":12870.00, "PEOPLE":12870.00},
-			"2018-10": {"total":12870.00, "PEOPLE":12870.00},
-			"2019-01": {"total":12870.00, "PEOPLE":12870.00},
-			"2019-04": {"total":11500.00, "PEOPLE":11500.00},
-			"2019-08": {"total":24499.00, "PEOPLE":24499.00},
-			"2019-10": {"total":12999.00, "PEOPLE":12999.00},
-			"2020-03": {"total":12999.00, "PEOPLE":12999.00},
-			"2020-04": {"total":12999.00, "PEOPLE":12999.00},
-			"2020-07": {"total":15875.00, "PEOPLE":15875.00}
-		}
-	},
-	"5641": {
-		"name": "FAMILY ACTION ENTERPRISES LTD",
-		"total": 13815.5,
-		"monthly": {
-			"2018-02": {"total":12809.75, "PEOPLE":12809.75},
-			"2019-01": {"total":1005.75, "PEOPLE":1005.75}
-		}
-	},
-	"5642": {
-		"name": "FAMILY ACTION PAC LTD",
-		"total": 50368.65,
-		"monthly": {
-			"2019-03": {"total":770.75, "PEOPLE":770.75},
-			"2019-05": {"total":977.52, "PEOPLE":977.52},
-			"2019-06": {"total":1550.00, "PEOPLE":1550.00},
-			"2019-07": {"total":6208.00, "PEOPLE":6208.00},
-			"2019-09": {"total":9300.00, "PEOPLE":9300.00},
-			"2019-11": {"total":488.75, "PEOPLE":488.75},
-			"2020-03": {"total":1034.00, "PEOPLE":1034.00},
-			"2020-04": {"total":9363.00, "PEOPLE":9363.00},
-			"2020-05": {"total":6383.00, "PEOPLE":6383.00},
-			"2020-07": {"total":14293.63, "PEOPLE":14293.63}
-		}
-	},
-	"5643": {
-		"name": "FAMILY AND CHILDCARE TRUST",
-		"total": 250,
-		"monthly": {
-			"2016-10": {"total":250.00, "CYPF":250.00}
-		}
-	},
-	"5644": {
-		"name": "FAMILY CARE",
-		"total": 49388.86,
-		"monthly": {
-			"2017-05": {"total":27000.00, "CYPF":27000.00},
-			"2018-07": {"total":22388.86, "PEOPLE":22388.86}
-		}
-	},
-	"5645": {
-		"name": "FAMILY DEVELOPMENT PROJECT",
-		"total": 94559.32,
-		"monthly": {
-			"2011-01": {"total":12049.82, "CITY WIDE CONTRACTS":12049.82},
-			"2011-02": {"total":11590.51, "CITY WIDE CONTRACTS":11079.51, "CONTRACT PROVIDER":511.00},
-			"2011-05": {"total":15540.45, "CITY WIDE CONTRACTS":14310.45, "CONTRACT PROVIDER":1230.00},
-			"2011-07": {"total":14402.54, "CITY WIDE CONTRACTS":13856.54, "CONTRACT PROVIDER 2010/11":546.00},
-			"2013-03": {"total":479.50, "PROVIDER CONTRACT AUG12-JUL13":479.50},
-			"2013-05": {"total":5690.00, "CITY WIDE CHILD CARE CONTRACT":5000.00, "SUCCESSFUL FAMILIES PROGRAMME":690.00},
-			"2013-06": {"total":5690.00, "CITY WIDE CHILD CARE CONTRACT":5000.00, "SUCCESSFUL FAMILIES PROGRAMME":690.00},
-			"2013-07": {"total":6020.00, "CITY WIDE CHILD CARE CONTRACT":5000.00, "SHEAF TRAINING":330.00, "SUCCESSFUL FAMILIES PROGRAMME":690.00},
-			"2013-09": {"total":6380.00, "CITY WIDE CHILD CARE CONTRACT":5000.00, "SUCCESSFUL FAMILIES PROGRAMME":1380.00},
-			"2013-10": {"total":10690.00, "CITY WIDE CHILD CARE CONTRACT":10000.00, "SUCCESSFUL FAMILIES PROGRAMME":690.00},
-			"2013-12": {"total":1279.00, "COMMUNITY ASSEMBLY CENTRAL":589.00, "SUCCESSFUL FAMILIES PROGRAMME":690.00},
-			"2014-01": {"total":4000.00, "EAST":4000.00},
-			"2018-01": {"total":332.50, "PLACE":332.50},
-			"2018-03": {"total":415.00, "PLACE":415.00}
-		}
-	},
-	"5646": {
-		"name": "FAMILY FOCUSED LTD",
-		"total": 18813.31,
-		"monthly": {
-			"2013-10": {"total":2557.55, "CARE PROCEEDINGS (LEGAL FEES)":2557.55},
-			"2015-01": {"total":676.15, "CARE PROCEEDINGS (LEGAL FEES)":676.15},
-			"2017-07": {"total":2811.20, "CYPF":2811.20},
-			"2017-09": {"total":2665.88, "PEOPLE":2665.88},
-			"2017-10": {"total":2500.00, "PEOPLE":2500.00},
-			"2017-11": {"total":4422.33, "PEOPLE":4422.33},
-			"2018-04": {"total":1379.75, "PEOPLE":1379.75},
-			"2018-07": {"total":657.95, "PEOPLE":657.95},
-			"2018-08": {"total":611.60, "PEOPLE":611.60},
-			"2018-10": {"total":530.90, "PEOPLE":530.90}
-		}
-	},
-	"5647": {
-		"name": "FAMILY FOSTERCARE LTD",
-		"alternate-names": [
-			"FAMILY FOSTERCARE LIMITED"
-		],
-		"total": 141139.78,
-		"monthly": {
-			"2013-02": {"total":6079.10, "INDEPENDENT FOSTERING PLACEMEN":6079.10},
-			"2013-03": {"total":5490.80, "INDEPENDENT FOSTERING PLACEMEN":5490.80},
-			"2013-05": {"total":7066.20, "FOSTERING NON-PLACEMENT LAC 1":403.20, "INDEPENDENT FOSTERING PLACEMEN":6663.00},
-			"2013-06": {"total":6079.10, "INDEPENDENT FOSTERING PLACEMEN":6079.10},
-			"2013-07": {"total":6143.00, "INDEPENDENT FOSTERING PLACEMEN":6143.00},
-			"2013-08": {"total":6079.10, "INDEPENDENT FOSTERING PLACEMEN":6079.10},
-			"2013-09": {"total":6079.10, "INDEPENDENT FOSTERING PLACEMEN":6079.10},
-			"2013-10": {"total":5883.00, "INDEPENDENT FOSTERING PLACEMEN":5883.00},
-			"2013-11": {"total":6339.10, "INDEPENDENT FOSTERING PLACEMEN":6339.10},
-			"2013-12": {"total":5883.00, "INDEPENDENT FOSTERING PLACEMEN":5883.00},
-			"2014-01": {"total":6989.10, "INDEPENDENT FOSTERING PLACEMEN":6989.10},
-			"2019-09": {"total":10285.80, "PEOPLE":10285.80},
-			"2019-10": {"total":5142.90, "PEOPLE":5142.90},
-			"2019-11": {"total":5314.33, "PEOPLE":5314.33},
-			"2019-12": {"total":5142.90, "PEOPLE":5142.90},
-			"2020-01": {"total":5314.33, "PEOPLE":5314.33},
-			"2020-02": {"total":5314.33, "PEOPLE":5314.33},
-			"2020-03": {"total":4971.47, "PEOPLE":4971.47},
-			"2020-04": {"total":5314.33, "PEOPLE":5314.33},
-			"2020-05": {"total":5142.90, "PEOPLE":5142.90},
-			"2020-06": {"total":5314.33, "PEOPLE":5314.33},
-			"2020-07": {"total":5142.90, "PEOPLE":5142.90},
-			"2020-08": {"total":5314.33, "PEOPLE":5314.33},
-			"2020-09": {"total":5314.33, "PEOPLE":5314.33}
-		}
-	},
-	"5648": {
-		"name": "FAMILY FUTURES CIC",
-		"total": 1150,
-		"monthly": {
-			"2020-06": {"total":1150.00, "PEOPLE":1150.00}
-		}
-	},
-	"5649": {
-		"name": "FAMILY MATTERS MEDIATE LTD",
-		"alternate-names": [
-			"FAMILY MATTERS MEDIATE LIMITED"
-		],
-		"total": 1690,
-		"monthly": {
-			"2017-10": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00},
-			"2018-02": {"total":460.00, "PEOPLE":460.00},
-			"2019-10": {"total":110.00, "PEOPLE":110.00}
+			"2020-06": {"total":1989.12, "PLACE":1989.12},
+			"2020-12": {"total":357.22, "PLACE":357.22}
 		}
 	}
 	}

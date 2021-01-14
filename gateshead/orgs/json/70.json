@@ -1,7 +1,489 @@
 {
-	"range": ["2010-12","2020-08"],
+	"range": ["2010-12","2020-10"],
 	"data": {
 	"3500": {
+		"name": "HARVEST HEALTHCARE",
+		"total": 399,
+		"monthly": {
+			"2011-02": {"total":399.00, "Learning and Children":399.00}
+		}
+	},
+	"3501": {
+		"name": "HASAN ASSOCIATES LTD",
+		"total": 3263.36,
+		"monthly": {
+			"2012-11": {"total":1556.44, "Central Services":1556.44},
+			"2015-12": {"total":1706.92, "Corporate Services & Governance":1706.92}
+		}
+	},
+	"3502": {
+		"name": "HASKEL SCHOOL",
+		"total": 614181.25,
+		"monthly": {
+			"2018-09": {"total":78217.02, "Care, Wellbeing & Learning":78217.02},
+			"2019-01": {"total":77303.68, "Care, Wellbeing & Learning":77303.68},
+			"2019-03": {"total":3077.79, "Care, Wellbeing & Learning":3077.79},
+			"2019-04": {"total":83008.46, "Care, Wellbeing & Learning":83008.46},
+			"2019-08": {"total":100839.53, "Care, Wellbeing & Learning":100839.53},
+			"2020-01": {"total":80351.67, "Care, Wellbeing & Learning":80351.67},
+			"2020-04": {"total":84570.34, "Care, Wellbeing & Learning":84570.34},
+			"2020-07": {"total":8661.06, "Children, Adults and Families":8661.06},
+			"2020-09": {"total":98151.70, "Children, Adults and Families":98151.70}
+		}
+	},
+	"3503": {
+		"name": "HASKEL SOCIETY FOR HANDICAPPED CHILDREN",
+		"total": 560744.44,
+		"monthly": {
+			"2013-11": {"total":9050.00, "Learning and Children":9050.00},
+			"2013-12": {"total":1849.00, "Learning and Children":1849.00},
+			"2014-01": {"total":7565.00, "Learning and Children":7565.00},
+			"2014-03": {"total":1436.00, "Learning and Children":1436.00},
+			"2014-04": {"total":14765.00, "Learning and Children":14765.00},
+			"2014-08": {"total":24510.15, "Learning and Children":24510.15},
+			"2014-12": {"total":20348.54, "Care, Wellbeing & Learning":20348.54},
+			"2015-04": {"total":21898.67, "Care, Wellbeing & Learning":21898.67},
+			"2015-08": {"total":30241.01, "Care, Wellbeing & Learning":30241.01},
+			"2016-01": {"total":30241.01, "Care, Wellbeing & Learning":30241.01},
+			"2016-04": {"total":30241.01, "Care, Wellbeing & Learning":30241.01},
+			"2016-08": {"total":48057.01, "Care, Wellbeing & Learning":48057.01},
+			"2016-11": {"total":3208.33, "Care, Wellbeing & Learning":3208.33},
+			"2016-12": {"total":54473.68, "Care, Wellbeing & Learning":54473.68},
+			"2017-03": {"total":3355.39, "Care, Wellbeing & Learning":3355.39},
+			"2017-04": {"total":59321.35, "Care, Wellbeing & Learning":59321.35},
+			"2017-08": {"total":65894.02, "Care, Wellbeing & Learning":65894.02},
+			"2018-01": {"total":66176.26, "Care, Wellbeing & Learning":66176.26},
+			"2018-04": {"total":68113.01, "Care, Wellbeing & Learning":68113.01}
+		}
+	},
+	"3504": {
+		"name": "HASMAN LTD",
+		"total": 2800,
+		"monthly": {
+			"2019-07": {"total":2800.00, "Corporate Resources":2800.00}
+		}
+	},
+	"3505": {
+		"name": "HATHAWAYS SOLICITORS",
+		"total": 41527.82,
+		"monthly": {
+			"2011-03": {"total":31250.00, "Community Based Services":31250.00},
+			"2011-08": {"total":1250.00, "Learning and Children":1250.00},
+			"2014-01": {"total":721.12, "Learning and Children":721.12},
+			"2017-03": {"total":7091.70, "Corporate Resources":7091.70},
+			"2017-08": {"total":715.00, "Care, Wellbeing & Learning":715.00},
+			"2019-07": {"total":500.00, "Care, Wellbeing & Learning":500.00}
+		}
+	},
+	"3506": {
+		"name": "HATTON TRAFFIC MANAGEMENT LTD",
+		"total": 124231.97,
+		"monthly": {
+			"2010-12": {"total":752.90, "Local Environmental Services":752.90},
+			"2011-01": {"total":1364.34, "Community Based Services":1364.34},
+			"2011-02": {"total":842.90, "Development & Enterprise":365.00, "Local Environmental Services":477.90},
+			"2011-04": {"total":857.90, "Development & Enterprise":365.00, "Local Environmental Services":492.90},
+			"2011-05": {"total":2100.80, "Community Based Services":920.00, "Local Environmental Services":1180.80},
+			"2011-06": {"total":387.90, "Local Environmental Services":387.90},
+			"2011-07": {"total":2628.88, "Community Based Services":938.88, "Development & Enterprise":1100.00, "Local Environmental Services":590.00},
+			"2011-08": {"total":1545.00, "Development & Enterprise":365.00, "Local Environmental Services":1180.00},
+			"2011-09": {"total":3780.42, "Community Based Services":3780.42},
+			"2011-10": {"total":5689.00, "Community Based Services":5689.00},
+			"2011-11": {"total":718.92, "Local Environmental Services":718.92},
+			"2011-12": {"total":1548.00, "Community Based Services":1548.00},
+			"2012-02": {"total":350.00, "Development & Enterprise":350.00},
+			"2012-03": {"total":1000.00, "Development & Enterprise":1000.00},
+			"2012-05": {"total":7383.70, "Community Based Services":7383.70},
+			"2012-06": {"total":1301.00, "Community Based Services":911.00, "Development & Enterprise":390.00},
+			"2012-08": {"total":8350.26, "Community Based Services":6850.26, "Miscoding":1500.00},
+			"2012-09": {"total":1300.00, "Development & Enterprise":1300.00},
+			"2012-10": {"total":400.00, "Development & Enterprise":400.00},
+			"2012-11": {"total":2898.00, "Community Based Services":1698.00, "Development & Enterprise":1200.00},
+			"2013-03": {"total":390.00, "Development & Enterprise":390.00},
+			"2013-05": {"total":2045.00, "Community Based Services":945.00, "Development & Enterprise":1100.00},
+			"2013-07": {"total":895.00, "Development & Enterprise":895.00},
+			"2013-08": {"total":7397.76, "Community Based Services":7007.76, "Development & Enterprise":390.00},
+			"2013-11": {"total":1594.00, "Community Based Services":1594.00},
+			"2013-12": {"total":1200.00, "Development & Enterprise":1200.00},
+			"2014-04": {"total":1812.69, "Community Based Services":1812.69},
+			"2014-05": {"total":945.00, "Community Based Services":945.00},
+			"2014-06": {"total":801.72, "Community Based Services":801.72},
+			"2014-12": {"total":1700.00, "Communities & Enviroment":1700.00},
+			"2015-01": {"total":592.00, "Communities & Enviroment":592.00},
+			"2015-08": {"total":2630.37, "Communities & Environment":2630.37},
+			"2016-08": {"total":7442.00, "Communities & Environment":7442.00},
+			"2016-09": {"total":3928.00, "Communities & Environment":3928.00},
+			"2016-10": {"total":480.00, "Communities & Environment":480.00},
+			"2018-02": {"total":630.00, "Care, Wellbeing & Learning":630.00},
+			"2018-04": {"total":1324.90, "Corporate Resources":1324.90},
+			"2018-06": {"total":852.68, "Care, Wellbeing & Learning":852.68},
+			"2018-07": {"total":470.25, "Corporate Resources":470.25},
+			"2019-01": {"total":693.00, "Care, Wellbeing & Learning":693.00},
+			"2019-06": {"total":968.00, "Corporate Resources":968.00},
+			"2019-07": {"total":852.68, "Care, Wellbeing & Learning":852.68},
+			"2019-08": {"total":484.00, "Corporate Resources":484.00},
+			"2019-10": {"total":37719.00, "Corporate Resources":37719.00},
+			"2020-01": {"total":1184.00, "Care, Wellbeing & Learning":700.00, "Corporate Resources":484.00}
+		}
+	},
+	"3507": {
+		"name": "HAVANNA HAIR & BEAUTY",
+		"total": 4000,
+		"monthly": {
+			"2016-10": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2018-02": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2018-04": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2018-10": {"total":500.00, "Care, Wellbeing & Learning":500.00},
+			"2018-11": {"total":1000.00, "Care, Wellbeing & Learning":1000.00}
+		}
+	},
+	"3508": {
+		"name": "HAVEN (TYNESIDE) LTD",
+		"total": 735422.1,
+		"monthly": {
+			"2010-12": {"total":6296.62, "Community Based Services":6296.62},
+			"2011-01": {"total":12593.24, "Community Based Services":12593.24},
+			"2011-04": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-05": {"total":11963.54, "Community Based Services":11963.54},
+			"2011-06": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-07": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-08": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-09": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-10": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-11": {"total":5981.77, "Community Based Services":5981.77},
+			"2011-12": {"total":11963.54, "Community Based Services":11963.54},
+			"2012-02": {"total":11963.53, "Community Based Services":11963.53},
+			"2012-04": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-05": {"total":9692.30, "Community Based Services":9692.30},
+			"2012-06": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-07": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-08": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-09": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-10": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-11": {"total":4846.15, "Community Based Services":4846.15},
+			"2012-12": {"total":9692.30, "Community Based Services":9692.30},
+			"2013-01": {"total":4846.15, "Community Based Services":4846.15},
+			"2013-02": {"total":4846.20, "Community Based Services":4846.20},
+			"2013-04": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-05": {"total":9230.76, "Community Based Services":9230.76},
+			"2013-06": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-07": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-08": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-09": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-10": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-11": {"total":4615.38, "Community Based Services":4615.38},
+			"2013-12": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-01": {"total":9230.76, "Community Based Services":9230.76},
+			"2014-02": {"total":4615.44, "Community Based Services":4615.44},
+			"2014-04": {"total":9230.76, "Community Based Services":9230.76},
+			"2014-05": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-06": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-07": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-08": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-09": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-10": {"total":4615.38, "Community Based Services":4615.38},
+			"2014-11": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2014-12": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2015-02": {"total":4615.44, "Care, Wellbeing & Learning":4615.44},
+			"2015-04": {"total":0.00, "Care, Wellbeing & Learning":0.00},
+			"2015-05": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2015-07": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2015-08": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2015-09": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2015-10": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2015-11": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2015-12": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2016-02": {"total":4615.44, "Care, Wellbeing & Learning":4615.44},
+			"2016-04": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-05": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-06": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2016-07": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-08": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-09": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-10": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-11": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2016-12": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2017-01": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2017-02": {"total":4615.38, "Care, Wellbeing & Learning":4615.38},
+			"2017-03": {"total":4615.44, "Care, Wellbeing & Learning":4615.44},
+			"2017-04": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-05": {"total":20000.00, "Care, Wellbeing & Learning":20000.00},
+			"2017-06": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-07": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-08": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-09": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-10": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2017-11": {"total":10000.00, "Care, Wellbeing & Learning":10000.00},
+			"2018-01": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2018-02": {"total":7500.00, "Care, Wellbeing & Learning":7500.00},
+			"2018-03": {"total":7500.00, "Care, Wellbeing & Learning":7500.00},
+			"2018-04": {"total":9230.80, "Care, Wellbeing & Learning":9230.80},
+			"2018-05": {"total":18461.52, "Care, Wellbeing & Learning":18461.52},
+			"2018-06": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-07": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-08": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-09": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-10": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-11": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2018-12": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2019-01": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2019-02": {"total":9230.76, "Care, Wellbeing & Learning":9230.76},
+			"2019-03": {"total":9230.84, "Care, Wellbeing & Learning":9230.84},
+			"2019-04": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2019-07": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2019-11": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2019-12": {"total":15000.00, "Children, Adults and Families":15000.00},
+			"2020-03": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2020-06": {"total":15000.00, "Children, Adults and Families":15000.00},
+			"2020-09": {"total":15000.00, "Children, Adults and Families":15000.00}
+		}
+	},
+	"3509": {
+		"name": "HAVEN HOLIDAYS",
+		"total": 3851.49,
+		"monthly": {
+			"2013-06": {"total":459.94, "Learning and Children":459.94},
+			"2013-07": {"total":526.30, "Learning and Children":526.30},
+			"2013-12": {"total":500.00, "Learning and Children":500.00},
+			"2014-02": {"total":2365.25, "Learning and Children":2365.25}
+		}
+	},
+	"3510": {
+		"name": "HAVEN POWER LTD",
+		"alternate-names": [
+			"HAVEN POWER LIMITED"
+		],
+		"total": 8204.34,
+		"monthly": {
+			"2016-11": {"total":4093.90, "Corporate Services & Governance":4093.90},
+			"2016-12": {"total":895.73, "Corporate Services & Governance":895.73},
+			"2018-08": {"total":477.67, "Corporate Services & Governance":477.67},
+			"2019-01": {"total":486.09, "Corporate Services & Governance":486.09},
+			"2019-03": {"total":1038.90, "Corporate Services & Governance":1038.90},
+			"2019-04": {"total":1212.05, "Corporate Services & Governance":1212.05}
+		}
+	},
+	"3511": {
+		"name": "HAVENDENE",
+		"total": 86985.81,
+		"monthly": {
+			"2013-09": {"total":5871.84, "Community Based Services":5871.84},
+			"2013-10": {"total":6325.68, "Community Based Services":6325.68},
+			"2013-11": {"total":4460.08, "Community Based Services":4460.08},
+			"2013-12": {"total":6324.64, "Community Based Services":6324.64},
+			"2014-01": {"total":3162.32, "Community Based Services":3162.32},
+			"2014-02": {"total":3162.32, "Community Based Services":3162.32},
+			"2014-03": {"total":3162.32, "Community Based Services":3162.32},
+			"2014-04": {"total":3187.19, "Community Based Services":3187.19},
+			"2014-05": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-06": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-07": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-08": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-09": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-10": {"total":3195.48, "Community Based Services":3195.48},
+			"2014-11": {"total":3195.48, "Care, Wellbeing & Learning":3195.48},
+			"2014-12": {"total":6390.96, "Care, Wellbeing & Learning":6390.96},
+			"2015-01": {"total":3195.48, "Care, Wellbeing & Learning":3195.48},
+			"2015-02": {"total":3195.48, "Care, Wellbeing & Learning":3195.48},
+			"2015-03": {"total":3195.48, "Care, Wellbeing & Learning":3195.48},
+			"2015-04": {"total":3216.39, "Care, Wellbeing & Learning":3216.39},
+			"2015-05": {"total":3301.91, "Care, Wellbeing & Learning":3301.91},
+			"2015-06": {"total":3232.68, "Care, Wellbeing & Learning":3232.68},
+			"2015-07": {"total":3232.68, "Care, Wellbeing & Learning":3232.68}
+		}
+	},
+	"3512": {
+		"name": "HAVENDENE RESIDENTIAL HOME",
+		"total": 29565.96,
+		"monthly": {
+			"2011-02": {"total":29565.96, "Community Based Services":29565.96}
+		}
+	},
+	"3513": {
+		"name": "HAWKS ROAD COMMUNITY NURSERY LTD T/A TIK-TOK",
+		"total": 3945.5,
+		"monthly": {
+			"2011-08": {"total":457.65, "Learning and Children":457.65},
+			"2011-10": {"total":511.50, "Learning and Children":511.50},
+			"2012-01": {"total":262.00, "Learning and Children":262.00},
+			"2012-02": {"total":580.15, "Learning and Children":580.15},
+			"2012-03": {"total":279.00, "Learning and Children":279.00},
+			"2012-08": {"total":308.50, "Learning and Children":308.50},
+			"2012-09": {"total":546.70, "Learning and Children":546.70},
+			"2013-10": {"total":1000.00, "Development & Enterprise":1000.00}
+		}
+	},
+	"3514": {
+		"name": "HAWKSBURY HOUSE LTD",
+		"alternate-names": [
+			"HAWKSBURY HOUSE LIMITED"
+		],
+		"total": 4055092.77,
+		"monthly": {
+			"2016-05": {"total":48470.20, "Care, Wellbeing & Learning":48470.20},
+			"2016-06": {"total":103971.63, "Care, Wellbeing & Learning":103971.63},
+			"2016-07": {"total":72671.63, "Care, Wellbeing & Learning":72671.63},
+			"2016-08": {"total":77769.47, "Care, Wellbeing & Learning":77769.47},
+			"2016-09": {"total":44997.22, "Care, Wellbeing & Learning":44997.22},
+			"2016-10": {"total":46084.00, "Care, Wellbeing & Learning":46084.00},
+			"2016-11": {"total":132730.61, "Care, Wellbeing & Learning":132730.61},
+			"2016-12": {"total":64944.81, "Care, Wellbeing & Learning":64944.81},
+			"2017-01": {"total":57886.04, "Care, Wellbeing & Learning":57886.04},
+			"2017-02": {"total":60901.35, "Care, Wellbeing & Learning":60901.35},
+			"2017-03": {"total":65444.44, "Care, Wellbeing & Learning":65444.44},
+			"2017-04": {"total":67472.36, "Care, Wellbeing & Learning":67472.36},
+			"2017-05": {"total":60464.40, "Care, Wellbeing & Learning":60464.40},
+			"2017-06": {"total":60524.27, "Care, Wellbeing & Learning":60524.27},
+			"2017-07": {"total":73635.23, "Care, Wellbeing & Learning":73635.23},
+			"2017-08": {"total":66249.20, "Care, Wellbeing & Learning":66249.20},
+			"2017-09": {"total":68964.62, "Care, Wellbeing & Learning":68964.62},
+			"2017-10": {"total":73869.85, "Care, Wellbeing & Learning":73869.85},
+			"2017-11": {"total":169856.19, "Care, Wellbeing & Learning":169856.19},
+			"2017-12": {"total":68589.00, "Care, Wellbeing & Learning":68589.00},
+			"2018-01": {"total":71838.36, "Care, Wellbeing & Learning":71838.36},
+			"2018-02": {"total":58489.71, "Care, Wellbeing & Learning":58489.71},
+			"2018-03": {"total":63699.04, "Care, Wellbeing & Learning":63699.04},
+			"2018-04": {"total":57734.38, "Care, Wellbeing & Learning":57734.38},
+			"2018-05": {"total":233589.89, "Care, Wellbeing & Learning":233589.89},
+			"2018-06": {"total":58007.37, "Care, Wellbeing & Learning":58007.37},
+			"2018-07": {"total":65145.10, "Care, Wellbeing & Learning":65145.10},
+			"2018-08": {"total":52608.97, "Care, Wellbeing & Learning":52608.97},
+			"2018-09": {"total":53377.12, "Care, Wellbeing & Learning":53377.12},
+			"2018-10": {"total":124907.66, "Care, Wellbeing & Learning":124907.66},
+			"2018-11": {"total":71374.59, "Care, Wellbeing & Learning":71374.59},
+			"2018-12": {"total":57699.40, "Care, Wellbeing & Learning":57699.40},
+			"2019-01": {"total":67386.74, "Care, Wellbeing & Learning":67386.74},
+			"2019-02": {"total":62323.95, "Care, Wellbeing & Learning":62323.95},
+			"2019-03": {"total":69179.71, "Care, Wellbeing & Learning":69179.71},
+			"2019-04": {"total":82913.95, "Care, Wellbeing & Learning":82913.95},
+			"2019-05": {"total":63945.11, "Care, Wellbeing & Learning":63945.11},
+			"2019-06": {"total":78413.74, "Care, Wellbeing & Learning":78413.74},
+			"2019-07": {"total":87039.50, "Care, Wellbeing & Learning":87039.50},
+			"2019-08": {"total":77755.03, "Care, Wellbeing & Learning":77755.03},
+			"2019-09": {"total":64221.32, "Care, Wellbeing & Learning":64221.32},
+			"2019-10": {"total":130086.49, "Care, Wellbeing & Learning":130086.49},
+			"2019-11": {"total":83385.68, "Care, Wellbeing & Learning":83385.68},
+			"2019-12": {"total":72170.16, "Children, Adults and Families":72170.16},
+			"2020-01": {"total":59909.20, "Care, Wellbeing & Learning":59909.20},
+			"2020-02": {"total":70566.64, "Care, Wellbeing & Learning":70566.64},
+			"2020-03": {"total":62748.89, "Care, Wellbeing & Learning":62748.89},
+			"2020-04": {"total":104516.09, "Care, Wellbeing & Learning":104516.09},
+			"2020-05": {"total":66409.73, "Children, Adults and Families":66409.73},
+			"2020-06": {"total":61852.54, "Children, Adults and Families":61852.54},
+			"2020-07": {"total":73258.57, "Children, Adults and Families":73258.57},
+			"2020-08": {"total":69606.00, "Children, Adults and Families":69606.00},
+			"2020-09": {"total":47182.33, "Children, Adults and Families":47182.33},
+			"2020-10": {"total":46253.29, "Children, Adults and Families":46253.29}
+		}
+	},
+	"3515": {
+		"name": "HAWTHORN COURT",
+		"total": 176222.26,
+		"monthly": {
+			"2011-12": {"total":2299.48, "Community Based Services":2299.48},
+			"2012-01": {"total":2299.48, "Community Based Services":2299.48},
+			"2012-02": {"total":4707.64, "Community Based Services":4707.64},
+			"2012-03": {"total":2319.24, "Community Based Services":2319.24},
+			"2012-04": {"total":2327.91, "Community Based Services":2327.91},
+			"2012-05": {"total":2330.80, "Community Based Services":2330.80},
+			"2012-06": {"total":2330.80, "Community Based Services":2330.80},
+			"2012-07": {"total":3021.19, "Community Based Services":3021.19},
+			"2012-08": {"total":2330.80, "Community Based Services":2330.80},
+			"2012-09": {"total":76.71, "Community Based Services":76.71},
+			"2013-03": {"total":3470.10, "Community Based Services":3470.10},
+			"2014-09": {"total":15525.96, "Community Based Services":15525.96},
+			"2014-10": {"total":6825.56, "Community Based Services":6825.56},
+			"2014-11": {"total":6255.86, "Care, Wellbeing & Learning":6255.86},
+			"2014-12": {"total":12539.20, "Care, Wellbeing & Learning":12539.20},
+			"2015-01": {"total":6269.60, "Care, Wellbeing & Learning":6269.60},
+			"2015-02": {"total":6269.60, "Care, Wellbeing & Learning":6269.60},
+			"2015-03": {"total":6269.60, "Care, Wellbeing & Learning":6269.60},
+			"2015-04": {"total":6272.27, "Care, Wellbeing & Learning":6272.27},
+			"2015-05": {"total":6458.30, "Care, Wellbeing & Learning":6458.30},
+			"2015-06": {"total":6369.16, "Care, Wellbeing & Learning":6369.16},
+			"2015-07": {"total":6369.16, "Care, Wellbeing & Learning":6369.16},
+			"2015-08": {"total":6369.16, "Care, Wellbeing & Learning":6369.16},
+			"2015-09": {"total":6369.16, "Care, Wellbeing & Learning":6369.16},
+			"2015-10": {"total":9192.37, "Care, Wellbeing & Learning":9192.37},
+			"2016-09": {"total":4455.08, "Care, Wellbeing & Learning":4455.08},
+			"2017-10": {"total":4830.94, "Care, Wellbeing & Learning":4830.94},
+			"2018-03": {"total":5907.10, "Care, Wellbeing & Learning":5907.10},
+			"2018-04": {"total":9401.65, "Care, Wellbeing & Learning":9401.65},
+			"2018-05": {"total":7748.79, "Care, Wellbeing & Learning":7748.79},
+			"2018-09": {"total":630.40, "Care, Wellbeing & Learning":630.40},
+			"2018-11": {"total":8379.19, "Care, Wellbeing & Learning":8379.19}
+		}
+	},
+	"3516": {
+		"name": "HAYMARKET MEDIA GROUP LTD",
+		"total": 16040,
+		"monthly": {
+			"2014-03": {"total":1225.00, "Development & Enterprise":1225.00},
+			"2015-02": {"total":1325.00, "Communities & Enviroment":1325.00},
+			"2016-05": {"total":1470.00, "Communities & Environment":1470.00},
+			"2016-12": {"total":349.00, "Communities & Environment":349.00},
+			"2017-04": {"total":1596.00, "Communities & Environment":1596.00},
+			"2018-01": {"total":925.00, "Corporate Services & Governance":925.00},
+			"2018-03": {"total":1860.00, "Communities & Environment":1860.00},
+			"2019-02": {"total":470.00, "Communities & Environment":470.00},
+			"2019-03": {"total":2690.00, "Communities & Environment":2690.00},
+			"2019-04": {"total":495.00, "Communities & Environment":495.00},
+			"2020-02": {"total":3635.00, "Communities & Environment":3635.00}
+		}
+	},
+	"3517": {
+		"name": "HAYMARKET PUBLISHING SERVICES LTD",
+		"total": 3140,
+		"monthly": {
+			"2010-12": {"total":460.00, "Learning and Children":460.00},
+			"2011-10": {"total":495.00, "Local Environmental Services":495.00},
+			"2012-02": {"total":1050.00, "Development & Enterprise":1050.00},
+			"2013-02": {"total":1135.00, "Development & Enterprise":1135.00}
+		}
+	},
+	"3518": {
+		"name": "HAZEL SIMPSON TRAINING CONSULTANT",
+		"total": 20120,
+		"monthly": {
+			"2012-11": {"total":465.00, "Central Services":465.00},
+			"2013-01": {"total":465.00, "Central Services":465.00},
+			"2013-03": {"total":715.00, "Central Services":715.00},
+			"2013-05": {"total":930.00, "Central Services":930.00},
+			"2013-07": {"total":465.00, "Central Services":465.00},
+			"2013-10": {"total":465.00, "Central Services":465.00},
+			"2013-11": {"total":930.00, "Central Services":930.00},
+			"2014-06": {"total":465.00, "Central Services":465.00},
+			"2014-11": {"total":930.00, "Corporate Services & Governance":930.00},
+			"2014-12": {"total":465.00, "Corporate Services & Governance":465.00},
+			"2015-03": {"total":1395.00, "Corporate Services & Governance":1395.00},
+			"2015-05": {"total":930.00, "Corporate Services & Governance":930.00},
+			"2015-07": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2015-10": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2016-01": {"total":4200.00, "Corporate Services & Governance":4200.00},
+			"2016-03": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2016-12": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2017-02": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2018-02": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2018-10": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2018-11": {"total":600.00, "Corporate Services & Governance":600.00},
+			"2019-07": {"total":1300.00, "Corporate Services & Governance":1300.00}
+		}
+	},
+	"3519": {
+		"name": "HB EDITORIAL SERVICES LTD",
+		"total": 450,
+		"monthly": {
+			"2018-11": {"total":450.00, "Corporate Resources":450.00}
+		}
+	},
+	"3520": {
+		"name": "HB SPORT SURFACES LTD",
+		"total": 1595,
+		"monthly": {
+			"2014-09": {"total":1595.00, "Community Based Services":1595.00}
+		}
+	},
+	"3521": {
 		"name": "HBINFO LTD",
 		"total": 4742.2,
 		"monthly": {
@@ -16,12 +498,12 @@
 			"2020-04": {"total":810.00, "Corporate Resources":810.00}
 		}
 	},
-	"3501": {
+	"3522": {
 		"name": "HC-ONE BEAMISH LTD",
 		"alternate-names": [
 			"HC-ONE BEAMISH LIMITED"
 		],
-		"total": 177617.22,
+		"total": 180921.62,
 		"monthly": {
 			"2018-08": {"total":6930.11, "Care, Wellbeing & Learning":6930.11},
 			"2018-09": {"total":3666.76, "Care, Wellbeing & Learning":3666.76},
@@ -47,10 +529,12 @@
 			"2020-05": {"total":1780.18, "Children, Adults and Families":1780.18},
 			"2020-06": {"total":5278.84, "Children, Adults and Families":5278.84},
 			"2020-07": {"total":7431.00, "Children, Adults and Families":7431.00},
-			"2020-08": {"total":3963.72, "Children, Adults and Families":3963.72}
+			"2020-08": {"total":3963.72, "Children, Adults and Families":3963.72},
+			"2020-09": {"total":1652.20, "Children, Adults and Families":1652.20},
+			"2020-10": {"total":1652.20, "Children, Adults and Families":1652.20}
 		}
 	},
-	"3502": {
+	"3523": {
 		"name": "HC-ONE LTD",
 		"alternate-names": [
 			"HC-ONE LIMITED"
@@ -73,14 +557,14 @@
 			"2018-11": {"total":3430.44, "Corporate Resources":3430.44}
 		}
 	},
-	"3503": {
+	"3524": {
 		"name": "HCE HEALTH-CARE EQUIPMENT",
 		"total": 2488,
 		"monthly": {
 			"2019-11": {"total":2488.00, "Corporate Services & Governance":2488.00}
 		}
 	},
-	"3504": {
+	"3525": {
 		"name": "HCL SAFETY LTD",
 		"total": 29701.97,
 		"monthly": {
@@ -98,7 +582,7 @@
 			"2016-12": {"total":2167.00, "Communities & Environment":2167.00}
 		}
 	},
-	"3505": {
+	"3526": {
 		"name": "HCL TECHNOLOGIES",
 		"total": 14950,
 		"monthly": {
@@ -106,7 +590,7 @@
 			"2018-03": {"total":10000.00, "Corporate Resources":10000.00}
 		}
 	},
-	"3506": {
+	"3527": {
 		"name": "HCS DRAIN SERVICES LTD",
 		"total": 34202.5,
 		"monthly": {
@@ -131,30 +615,30 @@
 			"2015-12": {"total":4866.25, "Communities & Enviroment":1258.75, "Communities & Environment":3607.50}
 		}
 	},
-	"3507": {
+	"3528": {
 		"name": "HEADLAM",
 		"total": 610.4,
 		"monthly": {
 			"2015-03": {"total":610.40, "Communities & Enviroment":610.40}
 		}
 	},
-	"3508": {
+	"3529": {
 		"name": "HEADLINE MODELS LTD",
 		"total": 850,
 		"monthly": {
 			"2019-08": {"total":850.00, "Office of the Chief Executive":850.00}
 		}
 	},
-	"3509": {
+	"3530": {
 		"name": "HEADLINERS (UK)",
 		"total": 769.2,
 		"monthly": {
 			"2011-09": {"total":769.20, "Learning and Children":769.20}
 		}
 	},
-	"3510": {
+	"3531": {
 		"name": "HEADWAY ARTS",
-		"total": 59706,
+		"total": 71422.8,
 		"monthly": {
 			"2016-11": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
 			"2017-07": {"total":6000.00, "Care, Wellbeing & Learning":6000.00},
@@ -163,10 +647,11 @@
 			"2018-10": {"total":7950.00, "Care, Wellbeing & Learning":7950.00},
 			"2019-01": {"total":6344.00, "Care, Wellbeing & Learning":6344.00},
 			"2019-03": {"total":5300.00, "Care, Wellbeing & Learning":5300.00},
-			"2020-02": {"total":10842.00, "Care, Wellbeing & Learning":10842.00}
+			"2020-02": {"total":10842.00, "Care, Wellbeing & Learning":10842.00},
+			"2020-10": {"total":11716.80, "Children, Adults and Families":11716.80}
 		}
 	},
-	"3511": {
+	"3532": {
 		"name": "HEADWAY GATESHEAD & SOUTH TYNE PROJECT",
 		"total": 3000,
 		"monthly": {
@@ -174,28 +659,28 @@
 			"2011-06": {"total":1500.00, "Learning and Children":1500.00}
 		}
 	},
-	"3512": {
+	"3533": {
 		"name": "HEADWAY GATESHEAD & SOUTH TYNESIDE",
 		"total": 1540,
 		"monthly": {
 			"2012-11": {"total":1540.00, "Learning and Children":1540.00}
 		}
 	},
-	"3513": {
+	"3534": {
 		"name": "HEADWORTHFIELD PRIMARY SCHOOL",
 		"total": 1500,
 		"monthly": {
 			"2017-03": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"3514": {
+	"3535": {
 		"name": "HEALTH & SAFETY TRAINING LTD",
 		"total": 500,
 		"monthly": {
 			"2011-03": {"total":500.00, "Development & Enterprise":500.00}
 		}
 	},
-	"3515": {
+	"3536": {
 		"name": "HEALTH AND SAFETY EXECUTIVE",
 		"total": 4870.6,
 		"monthly": {
@@ -204,7 +689,7 @@
 			"2017-10": {"total":3250.80, "Communities & Environment":3250.80}
 		}
 	},
-	"3516": {
+	"3537": {
 		"name": "HEALTH DIAGNOSTICS LTD",
 		"total": 248610.57,
 		"monthly": {
@@ -228,35 +713,35 @@
 			"2017-03": {"total":10000.00, "Care, Wellbeing & Learning":10000.00}
 		}
 	},
-	"3517": {
+	"3538": {
 		"name": "HEALTH PROTECTION AGENCY",
 		"total": 8520.4,
 		"monthly": {
 			"2013-11": {"total":8520.40, "Community Based Services":8520.40}
 		}
 	},
-	"3518": {
+	"3539": {
 		"name": "HEALTH SYSTEMS NE LTD",
 		"total": 1640.8,
 		"monthly": {
 			"2015-01": {"total":1640.80, "Communities & Enviroment":1640.80}
 		}
 	},
-	"3519": {
+	"3540": {
 		"name": "HEALTHCARE CONFERENCES UK",
 		"total": 365,
 		"monthly": {
 			"2015-07": {"total":365.00, "Care, Wellbeing & Learning":365.00}
 		}
 	},
-	"3520": {
+	"3541": {
 		"name": "HEARTHSIDE TALES",
 		"total": 3600,
 		"monthly": {
 			"2014-11": {"total":3600.00, "Communities & Enviroment":3600.00}
 		}
 	},
-	"3521": {
+	"3542": {
 		"name": "HEATHCOL WELDING SUPPLIES LTD",
 		"total": 3516.62,
 		"monthly": {
@@ -269,7 +754,7 @@
 			"2019-04": {"total":715.00, "Communities & Environment":715.00}
 		}
 	},
-	"3522": {
+	"3543": {
 		"name": "HEATHER HOUSE",
 		"total": 5481773.18999998,
 		"monthly": {
@@ -372,7 +857,7 @@
 			"2018-12": {"total":182965.77, "Care, Wellbeing & Learning":182965.77}
 		}
 	},
-	"3523": {
+	"3544": {
 		"name": "HEATHLANDS SCHOOL",
 		"total": 30955.66,
 		"monthly": {
@@ -381,7 +866,7 @@
 			"2020-08": {"total":12285.33, "Children, Adults and Families":12285.33}
 		}
 	},
-	"3524": {
+	"3545": {
 		"name": "HEATING COMPONENTS & EQUIP LTD",
 		"total": 104419.95,
 		"monthly": {
@@ -434,7 +919,7 @@
 			"2019-07": {"total":1159.79, "Corporate Resources":1159.79}
 		}
 	},
-	"3525": {
+	"3546": {
 		"name": "HEATON CATERING EQUIPMENT LTD",
 		"total": 2040.12,
 		"monthly": {
@@ -443,14 +928,14 @@
 			"2015-06": {"total":1048.50, "Care, Wellbeing & Learning":1048.50}
 		}
 	},
-	"3526": {
+	"3547": {
 		"name": "HEATON PARK GARAGE LTD",
 		"total": 9624.99,
 		"monthly": {
 			"2015-05": {"total":9624.99, "Community Based Services":9624.99}
 		}
 	},
-	"3527": {
+	"3548": {
 		"name": "HEATPAC MIDDLESBROUGH",
 		"total": 528152.43,
 		"monthly": {
@@ -483,464 +968,12 @@
 			"2014-03": {"total":1209.90, "Development & Enterprise":1209.90}
 		}
 	},
-	"3528": {
+	"3549": {
 		"name": "HEAVENLY BEAUTY",
 		"total": 3000,
 		"monthly": {
 			"2016-10": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
 			"2017-04": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
-		}
-	},
-	"3529": {
-		"name": "HEBBURN COMPREHENSIVE",
-		"total": 105417.3,
-		"monthly": {
-			"2017-06": {"total":850.00, "Care, Wellbeing & Learning":850.00},
-			"2019-06": {"total":2719.00, "Care, Wellbeing & Learning":2719.00},
-			"2019-12": {"total":92536.30, "Children, Adults and Families":92536.30},
-			"2020-04": {"total":9312.00, "Care, Wellbeing & Learning":9312.00}
-		}
-	},
-	"3530": {
-		"name": "HEBBURN COURT CARE HOME",
-		"total": 775985.310000001,
-		"monthly": {
-			"2011-12": {"total":6707.88, "Community Based Services":6707.88},
-			"2012-01": {"total":4471.92, "Community Based Services":4471.92},
-			"2012-02": {"total":9121.68, "Community Based Services":9121.68},
-			"2012-03": {"total":4511.44, "Community Based Services":4511.44},
-			"2012-04": {"total":4547.29, "Community Based Services":4547.29},
-			"2012-05": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-06": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-07": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-08": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-09": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-10": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-11": {"total":4559.24, "Community Based Services":4559.24},
-			"2012-12": {"total":4559.24, "Community Based Services":4559.24},
-			"2013-01": {"total":9170.48, "Community Based Services":9170.48},
-			"2013-02": {"total":10209.05, "Community Based Services":10209.05},
-			"2013-03": {"total":10209.05, "Community Based Services":10209.05},
-			"2013-04": {"total":4586.62, "Community Based Services":4586.62},
-			"2013-05": {"total":4593.08, "Community Based Services":4593.08},
-			"2013-06": {"total":4593.08, "Community Based Services":4593.08},
-			"2013-07": {"total":4593.08, "Community Based Services":4593.08},
-			"2013-08": {"total":13946.60, "Community Based Services":13946.60},
-			"2013-09": {"total":8082.09, "Community Based Services":8082.09},
-			"2013-10": {"total":4593.08, "Community Based Services":4593.08},
-			"2013-11": {"total":5818.64, "Community Based Services":5818.64},
-			"2013-12": {"total":8832.66, "Community Based Services":8832.66},
-			"2014-01": {"total":2169.76, "Community Based Services":2169.76},
-			"2014-02": {"total":4774.09, "Community Based Services":4774.09},
-			"2014-03": {"total":2944.47, "Community Based Services":2944.47},
-			"2014-04": {"total":2209.47, "Community Based Services":2209.47},
-			"2014-05": {"total":2211.92, "Community Based Services":2211.92},
-			"2014-06": {"total":2211.92, "Community Based Services":2211.92},
-			"2014-07": {"total":2211.92, "Community Based Services":2211.92},
-			"2014-08": {"total":2424.99, "Community Based Services":2424.99},
-			"2014-09": {"total":2254.84, "Community Based Services":2254.84},
-			"2014-10": {"total":2254.84, "Community Based Services":2254.84},
-			"2014-11": {"total":13612.69, "Care, Wellbeing & Learning":13612.69},
-			"2014-12": {"total":18679.03, "Care, Wellbeing & Learning":18679.03},
-			"2015-02": {"total":3326.04, "Care, Wellbeing & Learning":3326.04},
-			"2015-04": {"total":2849.15, "Care, Wellbeing & Learning":2849.15},
-			"2015-05": {"total":8406.95, "Care, Wellbeing & Learning":8406.95},
-			"2015-06": {"total":5096.04, "Care, Wellbeing & Learning":5096.04},
-			"2015-07": {"total":10950.23, "Care, Wellbeing & Learning":10950.23},
-			"2015-08": {"total":5096.04, "Care, Wellbeing & Learning":5096.04},
-			"2015-09": {"total":5096.04, "Care, Wellbeing & Learning":5096.04},
-			"2015-10": {"total":5096.04, "Care, Wellbeing & Learning":5096.04},
-			"2015-11": {"total":26526.32, "Care, Wellbeing & Learning":26526.32},
-			"2015-12": {"total":4393.12, "Care, Wellbeing & Learning":4393.12},
-			"2016-01": {"total":2196.56, "Care, Wellbeing & Learning":2196.56},
-			"2016-02": {"total":2700.90, "Care, Wellbeing & Learning":2700.90},
-			"2016-03": {"total":2238.84, "Care, Wellbeing & Learning":2238.84},
-			"2016-04": {"total":2247.64, "Care, Wellbeing & Learning":2247.64},
-			"2016-05": {"total":2256.44, "Care, Wellbeing & Learning":2256.44},
-			"2016-06": {"total":2256.44, "Care, Wellbeing & Learning":2256.44},
-			"2016-07": {"total":2256.44, "Care, Wellbeing & Learning":2256.44},
-			"2016-08": {"total":2256.44, "Care, Wellbeing & Learning":2256.44},
-			"2016-09": {"total":3548.76, "Care, Wellbeing & Learning":3548.76},
-			"2016-10": {"total":2477.08, "Care, Wellbeing & Learning":2477.08},
-			"2016-11": {"total":4954.16, "Care, Wellbeing & Learning":4954.16},
-			"2016-12": {"total":29371.10, "Care, Wellbeing & Learning":29371.10},
-			"2017-01": {"total":2477.08, "Care, Wellbeing & Learning":2477.08},
-			"2017-02": {"total":2477.08, "Care, Wellbeing & Learning":2477.08},
-			"2017-03": {"total":12737.05, "Care, Wellbeing & Learning":12737.05},
-			"2017-04": {"total":4438.86, "Care, Wellbeing & Learning":4438.86},
-			"2017-05": {"total":4446.36, "Care, Wellbeing & Learning":4446.36},
-			"2017-06": {"total":4446.36, "Care, Wellbeing & Learning":4446.36},
-			"2017-07": {"total":4446.36, "Care, Wellbeing & Learning":4446.36},
-			"2017-08": {"total":4446.36, "Care, Wellbeing & Learning":4446.36},
-			"2017-09": {"total":4446.36, "Care, Wellbeing & Learning":4446.36},
-			"2017-10": {"total":5842.83, "Care, Wellbeing & Learning":5842.83},
-			"2017-11": {"total":13947.09, "Care, Wellbeing & Learning":13947.09},
-			"2017-12": {"total":5410.41, "Care, Wellbeing & Learning":5410.41},
-			"2018-01": {"total":6336.80, "Care, Wellbeing & Learning":6336.80},
-			"2018-02": {"total":6336.80, "Care, Wellbeing & Learning":6336.80},
-			"2018-03": {"total":6336.80, "Care, Wellbeing & Learning":6336.80},
-			"2018-04": {"total":6336.80, "Care, Wellbeing & Learning":6336.80},
-			"2018-05": {"total":44979.49, "Care, Wellbeing & Learning":44979.49},
-			"2018-06": {"total":45580.31, "Care, Wellbeing & Learning":45580.31},
-			"2018-07": {"total":6567.08, "Care, Wellbeing & Learning":6567.08},
-			"2018-08": {"total":6567.08, "Care, Wellbeing & Learning":6567.08},
-			"2018-09": {"total":15986.64, "Care, Wellbeing & Learning":15986.64},
-			"2018-10": {"total":9018.72, "Care, Wellbeing & Learning":9018.72},
-			"2018-11": {"total":4509.36, "Care, Wellbeing & Learning":4509.36},
-			"2018-12": {"total":4509.36, "Care, Wellbeing & Learning":4509.36},
-			"2019-01": {"total":22504.86, "Care, Wellbeing & Learning":22504.86},
-			"2019-02": {"total":2530.88, "Care, Wellbeing & Learning":2530.88},
-			"2019-03": {"total":2530.88, "Care, Wellbeing & Learning":2530.88},
-			"2019-04": {"total":2530.88, "Care, Wellbeing & Learning":2530.88},
-			"2019-05": {"total":118414.71, "Care, Wellbeing & Learning":5061.76, "Corporate Resources":113352.95},
-			"2019-06": {"total":2573.38, "Care, Wellbeing & Learning":2573.38},
-			"2019-07": {"total":2547.88, "Care, Wellbeing & Learning":2547.88},
-			"2019-08": {"total":2547.88, "Care, Wellbeing & Learning":2547.88},
-			"2019-09": {"total":2547.88, "Care, Wellbeing & Learning":2547.88},
-			"2019-10": {"total":5095.76, "Care, Wellbeing & Learning":5095.76},
-			"2019-11": {"total":4480.93, "Care, Wellbeing & Learning":4480.93},
-			"2019-12": {"total":2768.80, "Children, Adults and Families":2768.80},
-			"2020-01": {"total":2768.80, "Care, Wellbeing & Learning":2768.80},
-			"2020-02": {"total":2768.80, "Care, Wellbeing & Learning":2768.80},
-			"2020-03": {"total":2768.80, "Care, Wellbeing & Learning":2768.80},
-			"2020-04": {"total":4179.20, "Care, Wellbeing & Learning":4179.20},
-			"2020-05": {"total":2794.80, "Children, Adults and Families":2794.80},
-			"2020-06": {"total":2794.80, "Children, Adults and Families":2794.80},
-			"2020-07": {"total":2794.80, "Children, Adults and Families":2794.80},
-			"2020-08": {"total":2794.80, "Children, Adults and Families":2794.80}
-		}
-	},
-	"3531": {
-		"name": "HEDGELEY FARMS",
-		"total": 29834.6,
-		"monthly": {
-			"2013-12": {"total":29834.60, "Development & Enterprise":29834.60}
-		}
-	},
-	"3532": {
-		"name": "HEDLEY DESIGN LTD",
-		"alternate-names": [
-			"HEDLEY DESIGN LIMITED"
-		],
-		"total": 3820,
-		"monthly": {
-			"2013-07": {"total":500.00, "Community Based Services":500.00},
-			"2013-08": {"total":1050.00, "Community Based Services":1050.00},
-			"2013-11": {"total":500.00, "Community Based Services":500.00},
-			"2014-04": {"total":750.00, "Community Based Services":750.00},
-			"2015-03": {"total":570.00, "Policy, Economic Growth and Transformation":570.00},
-			"2015-06": {"total":450.00, "Policy, Economic Growth and Transformation":450.00}
-		}
-	},
-	"3533": {
-		"name": "HEDLEY GRANGE SELF CATERING",
-		"total": 7655,
-		"monthly": {
-			"2011-07": {"total":860.00, "Learning and Children":860.00},
-			"2012-07": {"total":850.00, "Learning and Children":850.00},
-			"2013-01": {"total":500.00, "Learning and Children":500.00},
-			"2013-07": {"total":950.00, "Learning and Children":950.00},
-			"2013-12": {"total":800.00, "Learning and Children":800.00},
-			"2014-07": {"total":1095.00, "Learning and Children":1095.00},
-			"2016-02": {"total":600.00, "Care, Wellbeing & Learning":600.00},
-			"2016-07": {"total":1000.00, "Care, Wellbeing & Learning":1000.00},
-			"2017-06": {"total":1000.00, "Care, Wellbeing & Learning":1000.00}
-		}
-	},
-	"3534": {
-		"name": "HEDLEY HALL COTTAGES",
-		"total": 7333.8,
-		"monthly": {
-			"2013-08": {"total":1275.00, "Learning and Children":1275.00},
-			"2013-10": {"total":510.00, "Learning and Children":510.00},
-			"2013-11": {"total":440.00, "Learning and Children":440.00},
-			"2014-02": {"total":765.00, "Learning and Children":765.00},
-			"2014-08": {"total":720.00, "Learning and Children":720.00},
-			"2015-05": {"total":935.00, "Care, Wellbeing & Learning":935.00},
-			"2017-06": {"total":850.00, "Care, Wellbeing & Learning":850.00},
-			"2017-11": {"total":510.00, "Care, Wellbeing & Learning":510.00},
-			"2018-04": {"total":620.00, "Care, Wellbeing & Learning":620.00},
-			"2018-06": {"total":708.80, "Care, Wellbeing & Learning":708.80}
-		}
-	},
-	"3535": {
-		"name": "HEDLEY MCEWAN LTD",
-		"alternate-names": [
-			"HEDLEY MCEWAN LIMITED"
-		],
-		"total": 16411,
-		"monthly": {
-			"2019-11": {"total":11004.00, "Corporate Resources":11004.00},
-			"2020-01": {"total":3108.00, "Corporate Resources":3108.00},
-			"2020-03": {"total":2299.00, "Corporate Resources":2299.00}
-		}
-	},
-	"3536": {
-		"name": "HEIGHT FOR HIRE LTD",
-		"total": 5906.6,
-		"monthly": {
-			"2016-06": {"total":402.00, "Communities & Environment":402.00},
-			"2016-08": {"total":425.60, "Communities & Environment":425.60},
-			"2016-12": {"total":1900.00, "Communities & Environment":1900.00},
-			"2017-12": {"total":1636.80, "Communities & Environment":1200.00, "Corporate Resources":436.80},
-			"2019-01": {"total":1076.20, "Corporate Resources":1076.20},
-			"2019-09": {"total":466.00, "Corporate Resources":466.00}
-		}
-	},
-	"3537": {
-		"name": "HEINEKEN UK",
-		"total": 56980.79,
-		"monthly": {
-			"2011-01": {"total":3758.74, "Local Environmental Services":3758.74},
-			"2011-03": {"total":1285.93, "Community Based Services":1285.93},
-			"2011-04": {"total":398.19, "Local Environmental Services":398.19},
-			"2011-05": {"total":851.88, "Local Environmental Services":851.88},
-			"2011-06": {"total":2033.96, "Local Environmental Services":2033.96},
-			"2011-09": {"total":787.93, "Local Environmental Services":787.93},
-			"2011-10": {"total":492.56, "Local Environmental Services":492.56},
-			"2011-11": {"total":1623.33, "Local Environmental Services":1623.33},
-			"2011-12": {"total":994.00, "Local Environmental Services":994.00},
-			"2012-01": {"total":3057.51, "Community Based Services":1584.72, "Local Environmental Services":1472.79},
-			"2012-02": {"total":472.64, "Local Environmental Services":472.64},
-			"2012-03": {"total":356.92, "Local Environmental Services":356.92},
-			"2012-05": {"total":887.10, "Community Based Services":459.25, "Local Environmental Services":427.85},
-			"2012-06": {"total":590.30, "Local Environmental Services":590.30},
-			"2012-07": {"total":1520.91, "Local Environmental Services":1520.91},
-			"2012-09": {"total":623.64, "Local Environmental Services":623.64},
-			"2012-10": {"total":640.45, "Local Environmental Services":640.45},
-			"2012-11": {"total":1896.87, "Community Based Services":928.86, "Local Environmental Services":968.01},
-			"2012-12": {"total":2007.38, "Community Based Services":562.44, "Local Environmental Services":1444.94},
-			"2013-01": {"total":2105.97, "Community Based Services":1189.15, "Local Environmental Services":916.82},
-			"2013-02": {"total":764.16, "Community Based Services":764.16},
-			"2013-05": {"total":486.55, "Local Environmental Services":486.55},
-			"2013-07": {"total":6475.65, "Community Based Services":5861.40, "Local Environmental Services":614.25},
-			"2013-08": {"total":433.01, "Local Environmental Services":433.01},
-			"2013-09": {"total":3942.84, "Community Based Services":2943.31, "Local Environmental Services":999.53},
-			"2013-10": {"total":876.96, "Community Based Services":876.96},
-			"2013-11": {"total":2363.64, "Community Based Services":1066.67, "Local Environmental Services":1296.97},
-			"2013-12": {"total":5528.91, "Community Based Services":5528.91},
-			"2014-01": {"total":2760.45, "Community Based Services":2279.25, "Local Environmental Services":481.20},
-			"2014-03": {"total":5843.35, "Community Based Services":5843.35},
-			"2014-04": {"total":1119.06, "Community Based Services":745.60, "Local Environmental Services":373.46}
-		}
-	},
-	"3538": {
-		"name": "HELEN GORDON ASSOCIATES LTD",
-		"total": 4215,
-		"monthly": {
-			"2012-03": {"total":2500.00, "Learning and Children":2500.00},
-			"2014-11": {"total":1365.00, "Corporate Services & Governance":1365.00},
-			"2015-02": {"total":350.00, "Care, Wellbeing & Learning":350.00}
-		}
-	},
-	"3539": {
-		"name": "HELEN MCARDLE CARE LTD",
-		"total": 1500,
-		"monthly": {
-			"2014-09": {"total":1500.00, "Learning and Children":1500.00}
-		}
-	},
-	"3540": {
-		"name": "HELIX ARTS LTD",
-		"total": 12000,
-		"monthly": {
-			"2016-03": {"total":2000.00, "Communities & Environment":2000.00},
-			"2017-01": {"total":2000.00, "Communities & Environment":2000.00},
-			"2019-03": {"total":4000.00, "Corporate Resources":4000.00},
-			"2020-03": {"total":4000.00, "Corporate Resources":4000.00}
-		}
-	},
-	"3541": {
-		"name": "HELIX BINDERS LTD",
-		"alternate-names": [
-			"HELIX BINDERS LIMITED"
-		],
-		"total": 2062.7,
-		"monthly": {
-			"2013-11": {"total":1495.20, "Community Based Services":1495.20},
-			"2014-04": {"total":567.50, "Community Based Services":567.50}
-		}
-	},
-	"3542": {
-		"name": "HELMEPARK LTD",
-		"total": 7625,
-		"monthly": {
-			"2010-12": {"total":7625.00, "Learning and Children":7625.00}
-		}
-	},
-	"3543": {
-		"name": "HELMSLEY SECURITIES LTD TRUST ACC NO 2",
-		"total": 2010,
-		"monthly": {
-			"2012-02": {"total":2010.00, "Development & Enterprise":2010.00}
-		}
-	},
-	"3544": {
-		"name": "HELPING HAND",
-		"total": 1500,
-		"monthly": {
-			"2016-02": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
-		}
-	},
-	"3545": {
-		"name": "HELPING HAND CO (LEDBURY)LTD",
-		"total": 27569.56,
-		"monthly": {
-			"2011-03": {"total":1383.50, "Local Environmental Services":1383.50},
-			"2011-12": {"total":1315.00, "Local Environmental Services":1315.00},
-			"2012-05": {"total":742.50, "Local Environmental Services":742.50},
-			"2013-01": {"total":3081.60, "Local Environmental Services":3081.60},
-			"2013-06": {"total":742.50, "Local Environmental Services":742.50},
-			"2014-03": {"total":2402.20, "Community Based Services":1584.60, "Local Environmental Services":817.60},
-			"2014-07": {"total":434.80, "Local Environmental Services":434.80},
-			"2014-11": {"total":926.40, "Communities & Enviroment":926.40},
-			"2015-02": {"total":2082.00, "Communities & Enviroment":2082.00},
-			"2015-11": {"total":1382.00, "Communities & Environment":1382.00},
-			"2016-08": {"total":363.13, "Communities & Environment":363.13},
-			"2016-11": {"total":1042.45, "Care, Wellbeing & Learning":440.13, "Communities & Environment":602.32},
-			"2017-06": {"total":774.80, "Communities & Environment":774.80},
-			"2017-07": {"total":520.00, "Communities & Environment":520.00},
-			"2017-12": {"total":875.00, "Communities & Environment":875.00},
-			"2018-03": {"total":1412.80, "Communities & Environment":1412.80},
-			"2018-05": {"total":859.80, "Communities & Environment":859.80},
-			"2018-10": {"total":1897.60, "Communities & Environment":1897.60},
-			"2019-03": {"total":1011.40, "Communities & Environment":1011.40},
-			"2019-04": {"total":3867.08, "Communities & Environment":3867.08},
-			"2020-04": {"total":453.00, "Communities & Environment":453.00}
-		}
-	},
-	"3546": {
-		"name": "HELPING HANDS COMMUNITY CARE",
-		"total": 1555279.72,
-		"monthly": {
-			"2011-01": {"total":11218.56, "Community Based Services":11218.56},
-			"2011-02": {"total":37187.10, "Community Based Services":37187.10},
-			"2011-03": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-04": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-05": {"total":11218.56, "Community Based Services":11218.56},
-			"2011-07": {"total":11218.56, "Community Based Services":11218.56},
-			"2011-08": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-09": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-10": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-11": {"total":5609.28, "Community Based Services":5609.28},
-			"2011-12": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-01": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-02": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-03": {"total":11218.56, "Community Based Services":11218.56},
-			"2012-04": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-05": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-06": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-07": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-08": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-09": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-10": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-11": {"total":5609.28, "Community Based Services":5609.28},
-			"2012-12": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-01": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-02": {"total":11218.56, "Community Based Services":11218.56},
-			"2013-04": {"total":11213.56, "Community Based Services":11213.56},
-			"2013-05": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-06": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-08": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-09": {"total":11218.56, "Community Based Services":11218.56},
-			"2013-10": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-11": {"total":5609.28, "Community Based Services":5609.28},
-			"2013-12": {"total":5609.28, "Community Based Services":5609.28},
-			"2014-01": {"total":9906.06, "Community Based Services":9906.06},
-			"2014-03": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-04": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-05": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-06": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-07": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-09": {"total":7718.56, "Community Based Services":7718.56},
-			"2014-10": {"total":3859.28, "Community Based Services":3859.28},
-			"2014-11": {"total":3859.28, "Care, Wellbeing & Learning":3859.28},
-			"2014-12": {"total":7718.56, "Care, Wellbeing & Learning":7718.56},
-			"2015-02": {"total":7718.56, "Care, Wellbeing & Learning":7718.56},
-			"2015-03": {"total":3859.28, "Care, Wellbeing & Learning":3859.28},
-			"2015-04": {"total":3859.28, "Care, Wellbeing & Learning":3859.28},
-			"2015-05": {"total":3784.72, "Care, Wellbeing & Learning":3784.72},
-			"2015-07": {"total":8381.02, "Care, Wellbeing & Learning":8381.02},
-			"2015-08": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2015-09": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2015-10": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2015-11": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2015-12": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-01": {"total":11356.80, "Care, Wellbeing & Learning":11356.80},
-			"2016-02": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-05": {"total":17035.20, "Care, Wellbeing & Learning":17035.20},
-			"2016-06": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-07": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-08": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-09": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-10": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2016-11": {"total":11356.80, "Care, Wellbeing & Learning":11356.80},
-			"2017-01": {"total":11356.80, "Care, Wellbeing & Learning":11356.80},
-			"2017-03": {"total":11356.80, "Care, Wellbeing & Learning":11356.80},
-			"2017-04": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-05": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-06": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-07": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-08": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-09": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-10": {"total":5678.40, "Care, Wellbeing & Learning":5678.40},
-			"2017-11": {"total":11356.80, "Care, Wellbeing & Learning":11356.80},
-			"2018-01": {"total":14078.40, "Care, Wellbeing & Learning":14078.40},
-			"2018-02": {"total":39777.00, "Care, Wellbeing & Learning":39777.00},
-			"2018-03": {"total":34449.60, "Care, Wellbeing & Learning":34449.60},
-			"2018-04": {"total":8708.00, "Care, Wellbeing & Learning":8708.00},
-			"2018-05": {"total":9016.00, "Care, Wellbeing & Learning":9016.00},
-			"2018-07": {"total":18032.00, "Care, Wellbeing & Learning":18032.00},
-			"2018-08": {"total":9016.00, "Care, Wellbeing & Learning":9016.00},
-			"2018-09": {"total":9016.00, "Care, Wellbeing & Learning":9016.00},
-			"2018-10": {"total":9016.00, "Care, Wellbeing & Learning":9016.00},
-			"2018-11": {"total":78770.60, "Care, Wellbeing & Learning":78770.60},
-			"2018-12": {"total":27998.10, "Care, Wellbeing & Learning":27998.10},
-			"2019-01": {"total":27113.10, "Care, Wellbeing & Learning":27113.10},
-			"2019-02": {"total":27113.10, "Care, Wellbeing & Learning":27113.10},
-			"2019-03": {"total":79545.90, "Care, Wellbeing & Learning":79545.90},
-			"2019-04": {"total":28462.35, "Care, Wellbeing & Learning":28462.35},
-			"2019-05": {"total":57879.41, "Care, Wellbeing & Learning":57879.41},
-			"2019-06": {"total":29252.46, "Care, Wellbeing & Learning":29252.46},
-			"2019-07": {"total":29283.56, "Care, Wellbeing & Learning":29283.56},
-			"2019-10": {"total":87757.38, "Care, Wellbeing & Learning":87757.38},
-			"2019-11": {"total":67594.26, "Care, Wellbeing & Learning":67594.26},
-			"2019-12": {"total":33060.46, "Children, Adults and Families":33060.46},
-			"2020-01": {"total":62143.72, "Care, Wellbeing & Learning":62143.72},
-			"2020-03": {"total":63251.68, "Care, Wellbeing & Learning":63251.68},
-			"2020-04": {"total":31071.38, "Care, Wellbeing & Learning":31071.38},
-			"2020-05": {"total":51718.32, "Children, Adults and Families":51718.32},
-			"2020-06": {"total":38473.21, "Children, Adults and Families":38473.21},
-			"2020-07": {"total":36595.01, "Children, Adults and Families":36595.01},
-			"2020-08": {"total":35151.30, "Children, Adults and Families":35151.30}
-		}
-	},
-	"3547": {
-		"name": "HEM DES LLP",
-		"total": 25000,
-		"monthly": {
-			"2018-11": {"total":7500.00, "Policy, Economic Growth and Transformation":7500.00},
-			"2019-10": {"total":17500.00, "Policy, Economic Growth and Transformation":17500.00}
-		}
-	},
-	"3548": {
-		"name": "HEMMING GROUP LTD",
-		"total": 9393,
-		"monthly": {
-			"2011-10": {"total":545.00, "Community Based Services":545.00},
-			"2015-05": {"total":850.00, "Corporate Resources":850.00},
-			"2015-06": {"total":498.00, "Communities & Environment":498.00},
-			"2018-01": {"total":1850.00, "Corporate Services & Governance":1850.00},
-			"2018-11": {"total":5650.00, "Corporate Resources":5650.00}
-		}
-	},
-	"3549": {
-		"name": "HEMPSALL CONSULTANCIES LTD",
-		"total": 9022.95,
-		"monthly": {
-			"2011-01": {"total":4000.00, "Learning and Children":4000.00},
-			"2011-03": {"total":3465.00, "Learning and Children":3465.00},
-			"2017-02": {"total":1557.95, "Care, Wellbeing & Learning":1557.95}
 		}
 	}
 	}

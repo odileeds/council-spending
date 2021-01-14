@@ -1,9 +1,569 @@
 {
-	"range": ["2011-01","2020-09"],
+	"range": ["2011-01","2020-12"],
 	"data": {
 	"4150": {
+		"name": "DANUM DAISIES DAYCARE",
+		"total": 4500,
+		"monthly": {
+			"2016-07": {"total":1500.00, "CA LEP":1500.00},
+			"2017-01": {"total":3000.00, "CA LEP":3000.00}
+		}
+	},
+	"4151": {
+		"name": "DANUM WINDOWS LTD",
+		"total": 2000,
+		"monthly": {
+			"2017-07": {"total":2000.00, "CA LEP":2000.00}
+		}
+	},
+	"4152": {
+		"name": "DAPATCHI LTD",
+		"alternate-names": [
+			"DAPATCHI LIMITED"
+		],
+		"total": 4000,
+		"monthly": {
+			"2017-04": {"total":4000.00, "CA LEP":4000.00}
+		}
+	},
+	"4153": {
+		"name": "DAPPER DAN LTD",
+		"total": 1120,
+		"monthly": {
+			"2016-06": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"4154": {
+		"name": "DARESBURY ROAD",
+		"total": 224358.07,
+		"monthly": {
+			"2011-01": {"total":11700.60, "PURCHASING ELDERLY":3538.56, "PURCHASING LEARNING DISABILITI":8162.04},
+			"2011-03": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2011-04": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2011-05": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2011-06": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2011-07": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2011-08": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2011-09": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2011-10": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2011-11": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2012-01": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2012-02": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2012-04": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2012-05": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2012-07": {"total":7800.40, "PURCHASING ELDERLY":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2012-08": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2012-09": {"total":3900.20, "PURCHASING ELDERLY":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2012-11": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2013-01": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2013-02": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2013-03": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2013-05": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2013-06": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2013-07": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2013-09": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2013-11": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2013-12": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2014-01": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2014-03": {"total":11700.60, "ADULT SOCIAL CARE PURCHASING":3538.56, "PURCHASING LEARNING DISABILITI":8162.04},
+			"2014-05": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2014-07": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2014-08": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2014-10": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2014-11": {"total":7800.40, "ADULT SOCIAL CARE PURCHASING":2359.04, "PURCHASING LEARNING DISABILITI":5441.36},
+			"2014-12": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2015-01": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2015-05": {"total":3900.20, "ADULT SOCIAL CARE PURCHASING":1179.52, "PURCHASING LEARNING DISABILITI":2720.68},
+			"2015-07": {"total":5946.87, "COMMUNITIES":5946.87}
+		}
+	},
+	"4155": {
+		"name": "DARFEN DURAFENCING",
+		"total": 7868,
+		"monthly": {
+			"2013-07": {"total":7868.00, "ALLOTMENTS":7868.00}
+		}
+	},
+	"4156": {
+		"name": "DARFIELD ELECTRICAL SERVICES",
+		"total": 1420,
+		"monthly": {
+			"2016-11": {"total":1420.00, "CA LEP":1420.00}
+		}
+	},
+	"4157": {
+		"name": "DARIS RESTAURANT LTD TRADING SAN LORENZO",
+		"total": 2000,
+		"monthly": {
+			"2017-09": {"total":1000.00, "POLICY, PERFORMANCE AND COMMS":1000.00},
+			"2018-05": {"total":1000.00, "POLICY, PERFORMANCE AND COMMS":1000.00}
+		}
+	},
+	"4158": {
+		"name": "DARK STAR SPORTS LTD",
+		"alternate-names": [
+			"DARK STAR SPORTS LIMITED"
+		],
+		"total": 570,
+		"monthly": {
+			"2014-01": {"total":285.00, "COMMUNITY YOUTH TEAMS":285.00},
+			"2014-03": {"total":285.00, "COMMUNITY YOUTH TEAMS":285.00}
+		}
+	},
+	"4159": {
+		"name": "DARKER ENTERPRISES LTD",
+		"alternate-names": [
+			"DARKER ENTERPRISES LIMITED"
+		],
+		"total": 1150,
+		"monthly": {
+			"2018-02": {"total":1150.00, "PLACE":1150.00}
+		}
+	},
+	"4160": {
+		"name": "DARLINGTON ASSOCIATION ON DISABILITY",
+		"total": 1057,
+		"monthly": {
+			"2015-02": {"total":1057.00, "PURCHASING LEARNING DISABILITI":1057.00}
+		}
+	},
+	"4161": {
+		"name": "DARNALL & DISTRICT ADVICE SERVICE",
+		"total": 112519,
+		"monthly": {
+			"2011-03": {"total":21088.50, "ADVICE AND ADVOCACY":21088.50},
+			"2011-05": {"total":4600.00, "VS- VCS GENERAL":4600.00},
+			"2011-06": {"total":21088.50, "VS-ADVICE AND ADVOCACY":21088.50},
+			"2011-09": {"total":23241.00, "VS-ADVICE AND ADVOCACY":23241.00},
+			"2011-12": {"total":21806.00, "VS-ADVICE AND ADVOCACY":21806.00},
+			"2012-03": {"total":20695.00, "VS - TACKLING POVERTY":20695.00}
+		}
+	},
+	"4162": {
+		"name": "DARNALL ALLOTMENT PROJECT",
+		"total": 250,
+		"monthly": {
+			"2018-12": {"total":250.00, "PLACE":250.00}
+		}
+	},
+	"4163": {
+		"name": "DARNALL CAR PROJECTS",
+		"total": 13400,
+		"monthly": {
+			"2016-10": {"total":700.00, "CYPF":700.00},
+			"2016-11": {"total":400.00, "CYPF":400.00},
+			"2016-12": {"total":1000.00, "CYPF":1000.00},
+			"2017-01": {"total":2300.00, "CYPF":2300.00},
+			"2017-05": {"total":2850.00, "CYPF":2850.00},
+			"2017-06": {"total":3600.00, "CYPF":3600.00},
+			"2017-07": {"total":1700.00, "CYPF":1700.00},
+			"2017-09": {"total":850.00, "PEOPLE":850.00}
+		}
+	},
+	"4164": {
+		"name": "DARNALL COMMUNITY DEV CENTRE",
+		"total": 2770.4,
+		"monthly": {
+			"2016-07": {"total":800.00, "COMMUNITIES":300.00, "POLICY PERFORMANCE AND COMMS":500.00},
+			"2017-04": {"total":500.00, "POLICY PERFORMANCE AND COMMS":500.00},
+			"2018-01": {"total":564.48, "PEOPLE":564.48},
+			"2018-03": {"total":905.92, "PEOPLE":905.92}
+		}
+	},
+	"4165": {
+		"name": "DARNALL COMMUNITY NURSERY",
+		"total": 265929.59,
+		"monthly": {
+			"2011-01": {"total":20538.50, "PHASES 1,2 & 3 CHILDRENS CENTR":19541.00, "EAST SA - CIN S17":997.50},
+			"2011-02": {"total":6629.34, "SNIPS":6629.34},
+			"2011-03": {"total":11450.00, "MATHER ROAD":2500.00, "SNIPS":6000.00, "SURESTART GRANTS TO LAS":2950.00},
+			"2011-04": {"total":22500.00, "SMALL EDUCATION CAP GRANTS":22500.00},
+			"2011-05": {"total":11073.00, "CITY WIDE CHILD CARE CONTRACT":11073.00},
+			"2011-06": {"total":23450.00, "CITY WIDE CHILD CARE CONTRACT":23450.00},
+			"2011-09": {"total":22588.00, "CITY WIDE CHILD CARE CONTRACT":17913.00, "WORKFORCE DEVELOPMENT":4675.00},
+			"2011-11": {"total":682.50, "LSE SUB-CONTRACTORS":682.50},
+			"2011-12": {"total":17913.00, "CITY WIDE CHILD CARE CONTRACT":17913.00},
+			"2012-01": {"total":8120.50, "EMTAS":3445.50, "WORKFORCE DEVELOPMENT":4675.00},
+			"2012-02": {"total":3750.00, "COMMUNITY TEACHERS":3750.00},
+			"2012-06": {"total":17844.50, "CITY WIDE CHILD CARE CONTRACT":16707.00, "EAST SA - CIN S17":1137.50},
+			"2012-07": {"total":19708.00, "CITY WIDE CHILD CARE CONTRACT":16708.00, "CLIMATE IMPACT FUND":3000.00},
+			"2012-10": {"total":28455.00, "CITY WIDE CHILD CARE CONTRACT":16708.00, "EARLY YEARS SEN TEAM":697.00, "WORKFORCE DEVELOPMENT":11050.00},
+			"2012-11": {"total":663.00, "EARLY YEARS SEN TEAM":663.00},
+			"2012-12": {"total":16708.00, "CITY WIDE CHILD CARE CONTRACT":16708.00},
+			"2013-03": {"total":1122.00, "EARLY YEARS SEN TEAM":1122.00},
+			"2013-11": {"total":1426.10, "100 APPRENTICES":1426.10},
+			"2014-01": {"total":8322.00, "EARLY YEARS SEN TEAM":8322.00},
+			"2014-02": {"total":1878.00, "100 APPRENTICES":455.00, "EARLY YEARS SEN TEAM":1423.00},
+			"2014-03": {"total":455.00, "100 APPRENTICES":455.00},
+			"2014-04": {"total":728.00, "100 APPRENTICES":728.00},
+			"2014-05": {"total":2846.00, "EARLY YEARS SEN TEAM":2846.00},
+			"2014-07": {"total":977.40, "100 APPRENTICES":977.40},
+			"2014-09": {"total":1760.00, "EARLY YEARS SEN TEAM":1320.00, "HEARING IMPAIRED":440.00},
+			"2014-11": {"total":1898.00, "EARLY YEARS SEN TEAM":1898.00},
+			"2014-12": {"total":1160.00, "EARLY YEARS SEN TEAM":1160.00},
+			"2015-02": {"total":2457.00, "100 APPRENTICES":2457.00},
+			"2015-04": {"total":2135.00, "IN CITY SEN PROVISION":2135.00},
+			"2015-05": {"total":910.00, "100 APPRENTICES":910.00},
+			"2015-07": {"total":1804.00, "CYPF":1804.00},
+			"2015-09": {"total":520.00, "CYPF":520.00},
+			"2016-01": {"total":2000.00, "CYPF":2000.00},
+			"2018-10": {"total":897.75, "PEOPLE":897.75},
+			"2018-11": {"total":560.00, "PEOPLE":560.00}
+		}
+	},
+	"4166": {
+		"name": "DARNALL CRICKET CLUB",
+		"total": 2420,
+		"monthly": {
+			"2017-07": {"total":570.00, "COMMUNITIES":570.00},
+			"2018-10": {"total":450.00, "PEOPLE":450.00},
+			"2019-07": {"total":1400.00, "PEOPLE":1400.00}
+		}
+	},
+	"4167": {
+		"name": "DARNALL DEMENTIA GROUP",
+		"total": 465966.34,
+		"monthly": {
+			"2011-04": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2011-06": {"total":500.00, "COMMUNITY ASSEMBLY EAST":500.00},
+			"2011-07": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2011-09": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2012-01": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2012-04": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2012-06": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2012-08": {"total":11481.00, "PURCHASING ELDERLY":11481.00},
+			"2012-11": {"total":1000.00, "COMMUNITY ASSEMBLY EAST":1000.00},
+			"2012-12": {"total":11480.27, "ADULT SOCIAL CARE PURCHASING":11480.27},
+			"2013-01": {"total":1000.00, "ADULT SOCIAL CARE PURCHASING":1000.00},
+			"2013-04": {"total":11481.00, "ADULT SOCIAL CARE PURCHASING":11481.00},
+			"2013-07": {"total":11481.00, "ADULT SOCIAL CARE PURCHASING":11481.00},
+			"2013-09": {"total":11481.00, "ADULT SOCIAL CARE PURCHASING":11481.00},
+			"2014-01": {"total":11480.27, "ADULT SOCIAL CARE PURCHASING":11480.27},
+			"2014-04": {"total":11480.75, "ADULT SOCIAL CARE PURCHASING":11480.75},
+			"2014-07": {"total":11480.75, "ADULT SOCIAL CARE PURCHASING":11480.75},
+			"2014-10": {"total":11480.75, "ADULT SOCIAL CARE PURCHASING":11480.75},
+			"2015-01": {"total":11480.75, "ADULT SOCIAL CARE PURCHASING":11480.75},
+			"2015-03": {"total":690.00, "ADULT SOCIAL CARE PURCHASING":690.00},
+			"2015-05": {"total":11480.75, "ADULT SOCIAL CARE PURCHASING":11480.75},
+			"2015-07": {"total":12180.75, "COMMUNITIES":12180.75},
+			"2015-10": {"total":11870.75, "COMMUNITIES":11870.75},
+			"2015-12": {"total":300.00, "COMMUNITIES":300.00},
+			"2016-01": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2016-05": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2016-06": {"total":820.00, "COMMUNITIES":820.00},
+			"2016-07": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2016-09": {"total":280.00, "COMMUNITIES":280.00},
+			"2016-10": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2017-02": {"total":11760.75, "COMMUNITIES":11760.75},
+			"2017-05": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2017-07": {"total":11480.75, "COMMUNITIES":11480.75},
+			"2017-10": {"total":11480.75, "PEOPLE":11480.75},
+			"2018-01": {"total":11480.75, "PEOPLE":11480.75},
+			"2018-05": {"total":11480.75, "PEOPLE":11480.75},
+			"2018-07": {"total":11480.75, "PEOPLE":11480.75},
+			"2018-10": {"total":11480.75, "PEOPLE":11480.75},
+			"2018-12": {"total":575.00, "PEOPLE":575.00},
+			"2019-01": {"total":11480.75, "PEOPLE":11480.75},
+			"2019-02": {"total":50.00, "PEOPLE":50.00},
+			"2019-04": {"total":11505.75, "PEOPLE":11505.75},
+			"2019-07": {"total":11480.75, "PEOPLE":11480.75},
+			"2019-10": {"total":11480.75, "PEOPLE":11480.75},
+			"2019-11": {"total":25.00, "PEOPLE":25.00},
+			"2020-01": {"total":11480.75, "PEOPLE":11480.75},
+			"2020-02": {"total":50.00, "PEOPLE":50.00},
+			"2020-04": {"total":25.00, "PEOPLE":25.00},
+			"2020-05": {"total":11505.70, "PEOPLE":11505.70},
+			"2020-07": {"total":11480.70, "PEOPLE":11480.70},
+			"2020-09": {"total":11480.70, "PEOPLE":11480.70},
+			"2020-12": {"total":11480.70, "PEOPLE":11480.70}
+		}
+	},
+	"4168": {
+		"name": "DARNALL EDUCATION CENTRE",
+		"total": 3000,
+		"monthly": {
+			"2011-11": {"total":3000.00, "GRANT AID - PERFORMING & COMMU":3000.00}
+		}
+	},
+	"4169": {
+		"name": "DARNALL FA LTD",
+		"total": 5630,
+		"monthly": {
+			"2019-09": {"total":1000.00, "PEOPLE":1000.00},
+			"2020-08": {"total":4630.00, "PLACE":4630.00}
+		}
+	},
+	"4170": {
+		"name": "DARNALL FITNESS ACADEMY",
+		"total": 430,
+		"monthly": {
+			"2013-11": {"total":430.00, "COMMUNITY ASSEMBLY EAST":430.00}
+		}
+	},
+	"4171": {
+		"name": "DARNALL FORUM",
+		"total": 105371.19,
+		"monthly": {
+			"2011-01": {"total":3360.00, "CA DISCRETIONARY BUDGET":3360.00},
+			"2011-02": {"total":19771.51, "CA DISCRETIONARY BUDGET":18045.00, "CONTRACT PROVIDER":1726.51},
+			"2011-04": {"total":20475.00, "CA DISCRETIONARY BUDGET":20475.00},
+			"2011-06": {"total":1005.00, "CONTRACT PROVIDER 2010/11":1005.00},
+			"2011-10": {"total":14613.70, "ADULT & COMM LEARN ADD GRANTS":10000.00, "CONTRACT PROVIDER 2010/11":1582.70, "CONTRACT PROVIDER 2011/12":3031.00},
+			"2011-11": {"total":1307.18, "CONTRACT PROVIDER 2011/12":1307.18},
+			"2011-12": {"total":10000.00, "DISADVANTAGED AREA FUNDING":10000.00},
+			"2012-01": {"total":673.50, "CONTRACT PROVIDER 2011/12":673.50},
+			"2012-02": {"total":15000.00, "DISADVANTAGED AREA FUNDING":15000.00},
+			"2012-03": {"total":3031.00, "CONTRACT PROVIDER 2011/12":3031.00},
+			"2012-05": {"total":3031.00, "CONTRACT PROVIDER 2011/12":3031.00},
+			"2012-07": {"total":1400.00, "PROVIDER CONTRACT AUG11-JUL12":1400.00},
+			"2012-08": {"total":520.00, "PROVIDER CONTRACT AUG11-JUL12":520.00},
+			"2012-09": {"total":520.00, "PROVIDER CONTRACT AUG11-JUL12":520.00},
+			"2014-01": {"total":663.30, "EAST":663.30},
+			"2015-04": {"total":10000.00, "LOCALITY TEAM":10000.00}
+		}
+	},
+	"4172": {
+		"name": "DARNALL FORUM LTD",
+		"total": 503726.31,
+		"monthly": {
+			"2011-02": {"total":67950.00, "CONTRACT PROVIDER":1200.00, "DISADVANTAGED AREA FUNDING":66750.00},
+			"2011-04": {"total":1499.25, "NLDC 2009/10":1499.25},
+			"2011-07": {"total":11998.50, "DISADVANTAGED AREA FUNDING":9000.00, "NLDC 2010/11":2998.50},
+			"2011-09": {"total":2949.81, "NLDC 2010/11":2949.81},
+			"2011-10": {"total":11998.50, "DISADVANTAGED AREA FUNDING":9000.00, "NLDC 2011/12":2998.50},
+			"2011-12": {"total":12500.00, "COMMUNITY ASSEMBLY EAST":12500.00},
+			"2012-01": {"total":1499.25, "NLDC 2011/12":1499.25},
+			"2012-03": {"total":8000.00, "DISADVANTAGED AREA FUNDING":8000.00},
+			"2012-05": {"total":12500.00, "COMMUNITY ASSEMBLY EAST":12500.00},
+			"2012-07": {"total":3000.00, "DISADVANTAGED AREA FUNDING":3000.00},
+			"2012-08": {"total":3255.00, "COMMUNITY ASSEMBLY EAST":3255.00},
+			"2012-10": {"total":13345.95, "COMMUNITY ASSEMBLY EAST":9300.00, "NLDC (AUG 11 - JULY 12)":1051.95, "PROVIDER CONTRACT AUG11-JUL12":691.00, "PROVIDER CONTRACT AUG12-JUL13":2303.00},
+			"2012-11": {"total":20059.00, "COMMUNITY ASSEMBLY EAST":15350.00, "NLDC (AUG 12 - JULY 13)":4189.00, "PROVIDER CONTRACT AUG12-JUL13":520.00},
+			"2013-02": {"total":18895.00, "COMMUNITY ASSEMBLY EAST":15350.00, "PROVIDER CONTRACT AUG12-JUL13":3545.00},
+			"2013-03": {"total":7376.50, "NLDC (AUG 12 - JULY 13)":2094.50, "PROVIDER CONTRACT AUG12-JUL13":5282.00},
+			"2013-04": {"total":345.00, "PROVIDER CONTRACT AUG12-JUL13":345.00},
+			"2013-05": {"total":3086.00, "PROVIDER CONTRACT AUG12-JUL13":3086.00},
+			"2013-06": {"total":5743.00, "PROVIDER CONTRACT AUG12-JUL13":5743.00},
+			"2013-08": {"total":493.50, "PROVIDER CONTRACT AUG12-JUL13":493.50},
+			"2013-09": {"total":2950.00, "NLDC (AUG 12 - JULY 13)":2456.50, "PROVIDER CONTRACT AUG12-JUL13":493.50},
+			"2013-10": {"total":2102.00, "PROVIDER CONTRACT AUG12-JUL13":2102.00},
+			"2013-12": {"total":7812.00, "NLDC AUG 13 - JUL 14":4200.00, "PROVIDER CONTRACT AUG13-JUL14":3612.00},
+			"2014-01": {"total":520.00, "PROVIDER CONTRACT AUG13-JUL14":520.00},
+			"2014-03": {"total":6449.00, "NLDC AUG 13 - JUL 14":2100.00, "PROVIDER CONTRACT AUG13-JUL14":4349.00},
+			"2014-05": {"total":1741.50, "PROVIDER CONTRACT AUG13-JUL14":1741.50},
+			"2014-07": {"total":4193.75, "PROVIDER CONTRACT AUG13-JUL14":4193.75},
+			"2014-08": {"total":520.00, "PROVIDER CONTRACT AUG13-JUL14":520.00},
+			"2014-10": {"total":2593.50, "NLDC AUG 13 - JUL 14":2100.00, "PROVIDER CONTRACT AUG13-JUL14":493.50},
+			"2014-11": {"total":8400.00, "NLDC AUG 14 - JUL 15":8400.00},
+			"2014-12": {"total":6844.50, "PROVIDER CONTRACT AUG13-JUL14":971.50, "PROVIDER CONTRACT AUG14-JUL15":5873.00},
+			"2015-01": {"total":733.00, "EAST":733.00},
+			"2015-02": {"total":11662.25, "COMMUNITY DEVELOPMENT & HEALTH":1000.00, "NLDC AUG 14 - JUL 15":4200.00, "PROVIDER CONTRACT AUG14-JUL15":6462.25},
+			"2015-03": {"total":1358.00, "PROVIDER CONTRACT AUG14-JUL15":1358.00},
+			"2015-04": {"total":4081.00, "EQUALITIES & INVOLVEMENT":2500.00, "PROVIDER CONTRACT AUG14-JUL15":1581.00},
+			"2015-07": {"total":9207.50, "CYPF":9207.50},
+			"2015-09": {"total":4200.00, "CYPF":4200.00},
+			"2015-11": {"total":8400.00, "CYPF":8400.00},
+			"2016-01": {"total":4175.50, "CYPF":4175.50},
+			"2016-02": {"total":5984.50, "CYPF":5984.50},
+			"2016-03": {"total":8813.50, "CYPF":6313.50, "POLICY PERFORMANCE AND COMMS":2500.00},
+			"2016-04": {"total":513.50, "CYPF":513.50},
+			"2016-05": {"total":381.50, "CYPF":381.50},
+			"2016-06": {"total":5950.00, "CYPF":5950.00},
+			"2016-07": {"total":723.00, "CYPF":723.00},
+			"2016-08": {"total":4200.00, "CYPF":4200.00},
+			"2016-09": {"total":513.50, "CYPF":513.50},
+			"2016-10": {"total":6500.00, "CYPF":6500.00},
+			"2016-11": {"total":3598.00, "CYPF":3598.00},
+			"2017-01": {"total":545.00, "CYPF":545.00},
+			"2017-02": {"total":5979.50, "COMMUNITIES":2000.00, "CYPF":3979.50},
+			"2017-06": {"total":1063.00, "CYPF":1063.00},
+			"2017-07": {"total":3433.50, "CYPF":3433.50},
+			"2017-10": {"total":3250.00, "PEOPLE":3250.00},
+			"2017-11": {"total":8044.50, "PEOPLE":8044.50},
+			"2018-01": {"total":7000.00, "PEOPLE":7000.00},
+			"2018-02": {"total":6899.30, "PEOPLE":6899.30},
+			"2018-04": {"total":3283.00, "PEOPLE":3283.00},
+			"2018-05": {"total":3000.00, "PEOPLE":3000.00},
+			"2018-06": {"total":7766.30, "PEOPLE":7766.30},
+			"2018-07": {"total":4039.00, "PEOPLE":4039.00},
+			"2018-08": {"total":1920.00, "PEOPLE":1920.00},
+			"2018-10": {"total":4527.20, "PEOPLE":4527.20},
+			"2018-11": {"total":8790.50, "PEOPLE":8790.50},
+			"2018-12": {"total":1289.00, "PEOPLE":1289.00},
+			"2019-01": {"total":1336.50, "PEOPLE":1336.50},
+			"2019-02": {"total":11400.80, "PEOPLE":11400.80},
+			"2019-05": {"total":2888.70, "PEOPLE":2888.70},
+			"2019-06": {"total":3182.00, "PEOPLE":3182.00},
+			"2019-08": {"total":14683.00, "PEOPLE":14683.00},
+			"2019-09": {"total":6000.00, "PEOPLE":6000.00},
+			"2019-11": {"total":11440.00, "PEOPLE":11440.00},
+			"2019-12": {"total":1039.00, "PEOPLE":1039.00},
+			"2020-02": {"total":6000.00, "PEOPLE":6000.00},
+			"2020-03": {"total":6907.50, "PEOPLE":6907.50},
+			"2020-06": {"total":4567.50, "PEOPLE":4567.50},
+			"2020-07": {"total":999.00, "PEOPLE":999.00},
+			"2020-08": {"total":835.00, "PEOPLE":835.00},
+			"2020-09": {"total":22904.15, "PEOPLE":22904.15},
+			"2020-10": {"total":3037.63, "PEOPLE":3037.63},
+			"2020-12": {"total":4060.47, "PEOPLE":4060.47}
+		}
+	},
+	"4173": {
+		"name": "DARNALL HEALTH CENTRE (SWINDEN)",
+		"total": 1390,
+		"monthly": {
+			"2013-07": {"total":1390.00, "PUBLIC HEALTH - DPH":1390.00}
+		}
+	},
+	"4174": {
+		"name": "DARNALL HEALTH CNTRE/RICHMOND RD SURGERY",
+		"total": 3340,
+		"monthly": {
+			"2013-10": {"total":2130.00, "PUBLIC HEALTH - DPH":2130.00},
+			"2013-11": {"total":850.00, "PUBLIC HEALTH - DPH":850.00},
+			"2014-07": {"total":360.00, "GP HEALTH CHECKS":360.00}
+		}
+	},
+	"4175": {
+		"name": "DARNALL LUNCH CLUB",
+		"total": 39384.11,
+		"monthly": {
+			"2011-01": {"total":570.00, "LUNCH CLUB GRANT":570.00},
+			"2011-04": {"total":1018.75, "LUNCH CLUB GRANT":1018.75},
+			"2011-07": {"total":1018.75, "VS- LUNCH CLUB GRANT":1018.75},
+			"2011-09": {"total":1018.75, "VS- LUNCH CLUB GRANT":1018.75},
+			"2012-01": {"total":1018.75, "VS- LUNCH CLUB GRANT":1018.75},
+			"2012-04": {"total":1054.75, "VS- LUNCH CLUB GRANT":1054.75},
+			"2012-07": {"total":1054.75, "VS- LUNCH CLUB GRANT":1054.75},
+			"2012-10": {"total":1054.75, "VS- LUNCH CLUB GRANT":1054.75},
+			"2013-01": {"total":1054.75, "VS- LUNCH CLUB GRANT":1054.75},
+			"2013-04": {"total":1299.50, "VS- LUNCH CLUB GRANT":1299.50},
+			"2013-07": {"total":1299.50, "LUNCH CLUB GRANT":1299.50},
+			"2013-10": {"total":1299.50, "LUNCH CLUB GRANT":1299.50},
+			"2014-01": {"total":1299.50, "LUNCH CLUB GRANT":1299.50},
+			"2014-04": {"total":1245.00, "LUNCH CLUB GRANT":1245.00},
+			"2014-07": {"total":1745.00, "EAST":500.00, "LUNCH CLUB GRANT":1245.00},
+			"2014-10": {"total":1244.00, "LUNCH CLUB GRANT":1244.00},
+			"2014-12": {"total":390.00, "LUNCH CLUB GRANT":390.00},
+			"2015-01": {"total":1244.00, "LUNCH CLUB GRANT":1244.00},
+			"2015-04": {"total":925.00, "LUNCH CLUB GRANT":925.00},
+			"2015-07": {"total":924.00, "COMMUNITIES":924.00},
+			"2015-10": {"total":924.00, "COMMUNITIES":924.00},
+			"2016-01": {"total":924.00, "COMMUNITIES":924.00},
+			"2016-04": {"total":1079.00, "COMMUNITIES":1079.00},
+			"2016-06": {"total":1079.00, "COMMUNITIES":1079.00},
+			"2016-10": {"total":1079.00, "COMMUNITIES":1079.00},
+			"2017-01": {"total":1079.00, "COMMUNITIES":1079.00},
+			"2017-04": {"total":990.69, "COMMUNITIES":990.69},
+			"2017-07": {"total":987.00, "COMMUNITIES":987.00},
+			"2017-10": {"total":987.00, "PEOPLE":987.00},
+			"2018-01": {"total":987.00, "PEOPLE":987.00},
+			"2018-04": {"total":990.75, "PEOPLE":990.75},
+			"2018-07": {"total":990.00, "PEOPLE":990.00},
+			"2018-09": {"total":1515.00, "PEOPLE":1515.00},
+			"2019-01": {"total":1515.00, "PEOPLE":1515.00},
+			"2019-04": {"total":1238.67, "PEOPLE":1238.67},
+			"2019-07": {"total":1240.00, "PEOPLE":1240.00}
+		}
+	},
+	"4176": {
+		"name": "DARNALL MUSICAL THEATRE COMPANY",
+		"total": 500,
+		"monthly": {
+			"2013-03": {"total":500.00, "COMMUNITY ASSEMBLY EAST":500.00}
+		}
+	},
+	"4177": {
+		"name": "DARNALL OUTREACH PLAY",
+		"total": 16897,
+		"monthly": {
+			"2011-04": {"total":10000.00, "SPLISH":10000.00},
+			"2011-09": {"total":6897.00, "SPLISH":6897.00}
+		}
+	},
+	"4178": {
+		"name": "DARNALL PHARMACY T/A DARNALL HEALTH LTD",
+		"total": 14249.4,
+		"monthly": {
+			"2015-11": {"total":301.60, "COMMUNITIES":301.60},
+			"2016-11": {"total":260.80, "COMMUNITIES":260.80},
+			"2016-12": {"total":320.00, "COMMUNITIES":320.00},
+			"2017-01": {"total":284.80, "COMMUNITIES":284.80},
+			"2017-05": {"total":521.60, "COMMUNITIES":521.60},
+			"2017-06": {"total":939.20, "COMMUNITIES":939.20},
+			"2017-07": {"total":315.20, "COMMUNITIES":315.20},
+			"2017-10": {"total":257.60, "PEOPLE":257.60},
+			"2017-12": {"total":1359.20, "PEOPLE":1359.20},
+			"2018-02": {"total":1232.80, "PEOPLE":1232.80},
+			"2018-03": {"total":283.20, "PEOPLE":283.20},
+			"2018-04": {"total":326.40, "PEOPLE":326.40},
+			"2018-06": {"total":254.40, "PEOPLE":254.40},
+			"2018-07": {"total":342.40, "PEOPLE":342.40},
+			"2018-08": {"total":324.00, "PEOPLE":324.00},
+			"2018-09": {"total":329.60, "PEOPLE":329.60},
+			"2018-10": {"total":316.00, "PEOPLE":316.00},
+			"2018-11": {"total":1762.20, "PEOPLE":1762.20},
+			"2019-01": {"total":252.00, "PEOPLE":252.00},
+			"2019-02": {"total":303.20, "PEOPLE":303.20},
+			"2019-03": {"total":310.40, "PEOPLE":310.40},
+			"2019-04": {"total":339.20, "PEOPLE":339.20},
+			"2019-05": {"total":266.40, "PEOPLE":266.40},
+			"2019-06": {"total":286.40, "PEOPLE":286.40},
+			"2019-08": {"total":260.80, "PEOPLE":260.80},
+			"2019-11": {"total":259.20, "PEOPLE":259.20},
+			"2019-12": {"total":326.40, "PEOPLE":326.40},
+			"2020-02": {"total":303.20, "PEOPLE":303.20},
+			"2020-03": {"total":331.20, "PEOPLE":331.20},
+			"2020-05": {"total":579.20, "PEOPLE":579.20},
+			"2020-07": {"total":351.60, "PEOPLE":351.60},
+			"2020-10": {"total":349.20, "PEOPLE":349.20}
+		}
+	},
+	"4179": {
+		"name": "DARNALL SOMALI DEVELOPMENT GROUP",
+		"total": 2300,
+		"monthly": {
+			"2012-01": {"total":1200.00, "COMMUNITY ASSEMBLY EAST":1200.00},
+			"2016-03": {"total":600.00, "COMMUNITIES":600.00},
+			"2017-10": {"total":500.00, "PEOPLE":500.00}
+		}
+	},
+	"4180": {
+		"name": "DARNALL TARA",
+		"total": 25286.4,
+		"monthly": {
+			"2014-07": {"total":1040.00, "SCC BALANCE SHEET":1040.00},
+			"2014-12": {"total":666.00, "AREA EAST":666.00},
+			"2015-01": {"total":887.70, "SCC BALANCE SHEET":887.70},
+			"2015-05": {"total":1040.00, "SCC BALANCE SHEET":1040.00},
+			"2015-07": {"total":1024.40, "RESOURCES":1024.40},
+			"2015-10": {"total":1034.80, "RESOURCES":1034.80},
+			"2016-02": {"total":867.90, "RESOURCES":867.90},
+			"2016-04": {"total":1038.70, "RESOURCES":1038.70},
+			"2016-07": {"total":1038.70, "RESOURCES":1038.70},
+			"2016-11": {"total":1033.50, "RESOURCES":1033.50},
+			"2017-02": {"total":886.60, "RESOURCES":886.60},
+			"2017-05": {"total":1033.50, "RESOURCES":1033.50},
+			"2017-07": {"total":1032.20, "RESOURCES":1032.20},
+			"2017-10": {"total":1041.30, "PLACE":1041.30},
+			"2018-01": {"total":878.90, "PLACE":878.90},
+			"2018-04": {"total":1045.20, "PLACE":1045.20},
+			"2018-07": {"total":1037.40, "PLACE":1037.40},
+			"2018-10": {"total":1027.00, "PLACE":1027.00},
+			"2019-02": {"total":943.30, "PLACE":943.30},
+			"2019-05": {"total":862.20, "PLACE":862.20},
+			"2019-08": {"total":1027.70, "PLACE":1027.70},
+			"2019-10": {"total":1171.90, "PLACE":1171.90},
+			"2019-11": {"total":250.00, "PLACE":250.00},
+			"2019-12": {"total":309.40, "PLACE":309.40},
+			"2020-02": {"total":840.80, "PLACE":840.80},
+			"2020-06": {"total":250.00, "PLACE":250.00},
+			"2020-10": {"total":1977.30, "PLACE":1977.30}
+		}
+	},
+	"4181": {
 		"name": "DARNALL VIEW RESIDENTIAL HOME",
-		"total": 4082628.58999998,
+		"total": 4161884.63999998,
 		"monthly": {
 			"2011-01": {"total":27330.00, "PURCHASING ELDERLY":27330.00},
 			"2011-02": {"total":23460.00, "PURCHASING ELDERLY":23460.00},
@@ -117,10 +677,12 @@
 			"2020-06": {"total":43814.75, "PEOPLE":43814.75},
 			"2020-07": {"total":70893.63, "PEOPLE":70893.63},
 			"2020-08": {"total":13349.24, "PEOPLE":13349.24},
-			"2020-09": {"total":53299.86, "PEOPLE":53299.86}
+			"2020-09": {"total":53299.86, "PEOPLE":53299.86},
+			"2020-10": {"total":20131.72, "PEOPLE":20131.72},
+			"2020-12": {"total":59124.33, "PEOPLE":59124.33}
 		}
 	},
-	"4151": {
+	"4182": {
 		"name": "DARNALL WELL BEING CENTRE LTD",
 		"total": 337739,
 		"monthly": {
@@ -157,7 +719,7 @@
 			"2016-02": {"total":14963.60, "COMMUNITIES":14963.60}
 		}
 	},
-	"4152": {
+	"4183": {
 		"name": "DARNALL WELL BEING GROUP",
 		"total": 27433,
 		"monthly": {
@@ -167,9 +729,9 @@
 			"2013-03": {"total":2000.00, "COMMUNITY ASSEMBLY EAST":2000.00}
 		}
 	},
-	"4153": {
+	"4184": {
 		"name": "DARNALL WELL BEING LTD",
-		"total": 238493.69,
+		"total": 245853.55,
 		"monthly": {
 			"2011-09": {"total":1000.00, "POSITIVE ACTIVITIES FOR 8-13'S":1000.00},
 			"2013-07": {"total":4659.00, "30) COMM ST SMOK - DARN, TIN,":4659.00},
@@ -194,10 +756,11 @@
 			"2020-04": {"total":51000.00, "PEOPLE":51000.00},
 			"2020-05": {"total":6000.00, "PEOPLE":6000.00},
 			"2020-07": {"total":9000.00, "POLICY, PERFORMANCE AND COMMS":3000.00, "PEOPLE":3000.00, "PLACE":3000.00},
-			"2020-09": {"total":6389.79, "PLACE":6389.79}
+			"2020-09": {"total":6389.79, "PLACE":6389.79},
+			"2020-12": {"total":7359.86, "PLACE":7359.86}
 		}
 	},
-	"4154": {
+	"4185": {
 		"name": "DARNALL WELL-BEING CENTRE",
 		"total": 11813,
 		"monthly": {
@@ -209,7 +772,7 @@
 			"2018-02": {"total":862.50, "PLACE":862.50}
 		}
 	},
-	"4155": {
+	"4186": {
 		"name": "DARNALL WELLBEING CTR - USE CLOVER GRP",
 		"total": 236067.44,
 		"monthly": {
@@ -226,9 +789,9 @@
 			"2017-11": {"total":16016.64, "PEOPLE":16016.64}
 		}
 	},
-	"4156": {
+	"4187": {
 		"name": "DARNALL WELLBEING LTD",
-		"total": 468215.08,
+		"total": 483215.08,
 		"monthly": {
 			"2017-01": {"total":25000.00, "COMMUNITIES":25000.00},
 			"2017-12": {"total":32033.44, "PEOPLE":32033.44},
@@ -257,10 +820,12 @@
 			"2020-06": {"total":4550.00, "PEOPLE":4550.00},
 			"2020-07": {"total":1250.00, "PEOPLE":1250.00},
 			"2020-08": {"total":1250.00, "PEOPLE":1250.00},
-			"2020-09": {"total":1250.00, "PEOPLE":1250.00}
+			"2020-09": {"total":1250.00, "PEOPLE":1250.00},
+			"2020-10": {"total":13750.00, "PEOPLE":13750.00},
+			"2020-12": {"total":1250.00, "PEOPLE":1250.00}
 		}
 	},
-	"4157": {
+	"4188": {
 		"name": "DARNALL YOUNG PEOPLE'S CLUB",
 		"total": 16415,
 		"monthly": {
@@ -277,49 +842,49 @@
 			"2019-12": {"total":500.00, "PEOPLE":500.00}
 		}
 	},
-	"4158": {
+	"4189": {
 		"name": "DARNTONB3 ARCHITECTURE",
 		"total": 6517.09,
 		"monthly": {
 			"2017-08": {"total":6517.09, "PEOPLE":6517.09}
 		}
 	},
-	"4159": {
+	"4190": {
 		"name": "DARREN & SUSAN CASHMORE",
 		"total": 419.26,
 		"monthly": {
 			"2013-08": {"total":419.26, "PURCHASING LEARNING DISABILITI":419.26}
 		}
 	},
-	"4160": {
+	"4191": {
 		"name": "DARREN BLOOD PLUMBING AND HEATING",
 		"total": 1500,
 		"monthly": {
 			"2015-03": {"total":1500.00, "STUDENT FINANCIAL SUPPORT":1500.00}
 		}
 	},
-	"4161": {
+	"4192": {
 		"name": "DARREN KEITH HOYLAND LTD",
 		"total": 1650,
 		"monthly": {
 			"2015-12": {"total":1650.00, "PLACE":1650.00}
 		}
 	},
-	"4162": {
+	"4193": {
 		"name": "DARREN MIRFIN",
 		"total": 1420,
 		"monthly": {
 			"2016-02": {"total":1420.00, "CA LEP":1420.00}
 		}
 	},
-	"4163": {
+	"4194": {
 		"name": "DARRENS FAMILY BUTCHERS",
 		"total": 1120,
 		"monthly": {
 			"2017-04": {"total":1120.00, "CA LEP":1120.00}
 		}
 	},
-	"4164": {
+	"4195": {
 		"name": "DARRYL & MANDY TAYLOR",
 		"total": 5477.18,
 		"monthly": {
@@ -327,7 +892,7 @@
 			"2012-03": {"total":2122.00, "IN HOUSE FOSTER PLACEMENT":2122.00}
 		}
 	},
-	"4165": {
+	"4196": {
 		"name": "DART",
 		"total": 11838.62,
 		"monthly": {
@@ -344,7 +909,7 @@
 			"2014-11": {"total":329.80, "CITY DEAL - FRAMEWORKS":329.80}
 		}
 	},
-	"4166": {
+	"4197": {
 		"name": "DARTFORD METALCRAFTS",
 		"total": 23260,
 		"monthly": {
@@ -360,7 +925,7 @@
 			"2012-02": {"total":1300.00, "STREET FORCE BALANCE SHEET":1300.00}
 		}
 	},
-	"4167": {
+	"4198": {
 		"name": "DARTINGTON HALL TRUST",
 		"total": 88520,
 		"monthly": {
@@ -372,7 +937,7 @@
 			"2014-06": {"total":15000.00, "RECRUITMENT AND RETENTION":15000.00}
 		}
 	},
-	"4168": {
+	"4199": {
 		"name": "DARTON COLLEGE",
 		"total": 21302,
 		"monthly": {
@@ -390,335 +955,6 @@
 			"2016-10": {"total":1500.00, "CYPF":1500.00},
 			"2017-02": {"total":1000.00, "CYPF":1000.00},
 			"2017-05": {"total":1000.00, "CYPF":1000.00}
-		}
-	},
-	"4169": {
-		"name": "DARWEN SCHOOL",
-		"total": 300,
-		"monthly": {
-			"2013-06": {"total":300.00, "ISB":300.00}
-		}
-	},
-	"4170": {
-		"name": "DARWIN HOUSE RESIDENTIAL CARE",
-		"total": 254322.72,
-		"monthly": {
-			"2011-06": {"total":13721.29, "PURCHASING ELDERLY":13721.29},
-			"2011-10": {"total":11540.00, "PURCHASING ELDERLY":11540.00},
-			"2011-11": {"total":2308.00, "PURCHASING ELDERLY":2308.00},
-			"2011-12": {"total":2308.00, "PURCHASING ELDERLY":2308.00},
-			"2012-01": {"total":2308.00, "PURCHASING ELDERLY":2308.00},
-			"2012-02": {"total":7608.00, "PURCHASING ELDERLY":7608.00},
-			"2012-03": {"total":5108.00, "PURCHASING ELDERLY":5108.00},
-			"2012-04": {"total":5201.00, "PURCHASING ELDERLY":5201.00},
-			"2012-05": {"total":4736.00, "PURCHASING ELDERLY":4736.00},
-			"2012-06": {"total":2368.00, "PURCHASING ELDERLY":2368.00},
-			"2012-07": {"total":4618.00, "PURCHASING ELDERLY":4618.00},
-			"2012-08": {"total":2368.00, "PURCHASING ELDERLY":2368.00},
-			"2012-09": {"total":2368.00, "PURCHASING ELDERLY":2368.00},
-			"2012-10": {"total":4078.00, "ADULT SOCIAL CARE PURCHASING":4078.00},
-			"2012-11": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-01": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-02": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-03": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-04": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-05": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-06": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-07": {"total":10168.00, "ADULT SOCIAL CARE PURCHASING":10168.00},
-			"2013-08": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-09": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2013-10": {"total":8960.86, "ADULT SOCIAL CARE PURCHASING":8960.86},
-			"2013-11": {"total":6268.00, "ADULT SOCIAL CARE PURCHASING":6268.00},
-			"2013-12": {"total":4968.00, "ADULT SOCIAL CARE PURCHASING":4968.00},
-			"2014-01": {"total":4968.00, "ADULT SOCIAL CARE PURCHASING":4968.00},
-			"2014-03": {"total":4968.00, "ADULT SOCIAL CARE PURCHASING":4968.00},
-			"2014-04": {"total":9936.00, "ADULT SOCIAL CARE PURCHASING":9936.00},
-			"2014-06": {"total":15586.28, "ADULT SOCIAL CARE PURCHASING":15586.28},
-			"2014-07": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2014-08": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2014-09": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2014-10": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2014-11": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2014-12": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2015-01": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2015-02": {"total":2368.00, "ADULT SOCIAL CARE PURCHASING":2368.00},
-			"2015-03": {"total":289.05, "ADULT SOCIAL CARE PURCHASING":289.05},
-			"2017-01": {"total":413.00, "COMMUNITIES":413.00},
-			"2017-06": {"total":1700.00, "COMMUNITIES":1700.00},
-			"2018-02": {"total":5289.64, "PEOPLE":5289.64},
-			"2019-03": {"total":7146.85, "PEOPLE":7146.85},
-			"2019-04": {"total":5480.26, "PEOPLE":5480.26},
-			"2019-05": {"total":2764.12, "PEOPLE":2764.12},
-			"2019-06": {"total":2764.12, "PEOPLE":2764.12},
-			"2019-07": {"total":2764.12, "PEOPLE":2764.12},
-			"2019-08": {"total":1924.00, "PEOPLE":1924.00},
-			"2019-09": {"total":1083.88, "PEOPLE":1083.88},
-			"2019-10": {"total":2764.12, "PEOPLE":2764.12},
-			"2019-11": {"total":2764.12, "PEOPLE":2764.12},
-			"2019-12": {"total":5528.24, "PEOPLE":5528.24},
-			"2020-01": {"total":1083.88, "PEOPLE":1083.88},
-			"2020-02": {"total":2764.12, "PEOPLE":2764.12},
-			"2020-03": {"total":2764.12, "PEOPLE":2764.12},
-			"2020-04": {"total":4832.12, "PEOPLE":4832.12},
-			"2020-05": {"total":2860.12, "PEOPLE":2860.12},
-			"2020-06": {"total":2860.12, "PEOPLE":2860.12},
-			"2020-07": {"total":2899.07, "PEOPLE":2899.07},
-			"2020-08": {"total":3262.77, "PEOPLE":3262.77},
-			"2020-09": {"total":11603.45, "PEOPLE":11603.45}
-		}
-	},
-	"4171": {
-		"name": "DAS LAW LTD",
-		"alternate-names": [
-			"DAS LAW LIMITED"
-		],
-		"total": 37798.76,
-		"monthly": {
-			"2015-07": {"total":4584.70, "RESOURCES":4584.70},
-			"2018-04": {"total":33214.06, "CORPORATE":33214.06}
-		}
-	},
-	"4172": {
-		"name": "DAS LEGAL EXPENSES",
-		"total": 3613.99,
-		"monthly": {
-			"2011-08": {"total":874.08, "CLAIMS":874.08},
-			"2011-12": {"total":2216.21, "CLAIMS":2216.21},
-			"2012-08": {"total":523.70, "CLAIMS":523.70}
-		}
-	},
-	"4173": {
-		"name": "DAS UK GROUP",
-		"total": 2685.76,
-		"monthly": {
-			"2018-11": {"total":2685.76, "CORPORATE":2685.76}
-		}
-	},
-	"4174": {
-		"name": "DATA DISPLAY UK LTD",
-		"total": 2785,
-		"monthly": {
-			"2015-03": {"total":2785.00, "LOWFIELD PRO FIT":2785.00}
-		}
-	},
-	"4175": {
-		"name": "DATAMILLS UK LTD",
-		"total": 1500,
-		"monthly": {
-			"2018-09": {"total":1500.00, "PLACE":1500.00}
-		}
-	},
-	"4176": {
-		"name": "DATRIX TRAINING LTD",
-		"total": 995,
-		"monthly": {
-			"2011-10": {"total":995.00, "PORTFOLIO LEADERSHIP":995.00}
-		}
-	},
-	"4177": {
-		"name": "DATUM SURVEYING SERVICES LTD",
-		"total": 975,
-		"monthly": {
-			"2012-09": {"total":975.00, "LANDFILL SITES":975.00}
-		}
-	},
-	"4178": {
-		"name": "DAVALLY GARDEN SERVICES LTD",
-		"total": 1120,
-		"monthly": {
-			"2017-10": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"4179": {
-		"name": "DAVE BINGHAM BUILDING & ROOFING CONTRACT",
-		"total": 1209.49,
-		"monthly": {
-			"2019-10": {"total":1209.49, "PLACE":1209.49}
-		}
-	},
-	"4180": {
-		"name": "DAVE BINGHAM BUILDING&ROOFING CONTRACTOR",
-		"total": 5842,
-		"monthly": {
-			"2015-08": {"total":5842.00, "PLACE":5842.00}
-		}
-	},
-	"4181": {
-		"name": "DAVE BREARLEY DECORATORS",
-		"total": 1420,
-		"monthly": {
-			"2016-12": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"4182": {
-		"name": "DAVE DRAWS LTD",
-		"alternate-names": [
-			"DAVE DRAWS LIMITED"
-		],
-		"total": 300,
-		"monthly": {
-			"2019-12": {"total":300.00, "PEOPLE":300.00}
-		}
-	},
-	"4183": {
-		"name": "DAVE KING",
-		"total": 2840,
-		"monthly": {
-			"2016-02": {"total":2840.00, "CA LEP":2840.00}
-		}
-	},
-	"4184": {
-		"name": "DAVE STONE DESIGN LTD",
-		"alternate-names": [
-			"DAVE STONE DESIGN LIMITED"
-		],
-		"total": 274,
-		"monthly": {
-			"2015-05": {"total":274.00, "100 APPRENTICES":274.00}
-		}
-	},
-	"4185": {
-		"name": "DAVE STONES BUILDING CONTRACTOR",
-		"total": 1420,
-		"monthly": {
-			"2016-03": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"4186": {
-		"name": "DAVE TRELFA",
-		"total": 2115.62,
-		"monthly": {
-			"2012-05": {"total":2115.62, "LEEDS - WY SUB REGION HAL":2115.62}
-		}
-	},
-	"4187": {
-		"name": "DAVID & BETTY BROTHERS",
-		"total": 9640,
-		"monthly": {
-			"2011-12": {"total":6052.00, "IN HOUSE FOSTER PLACEMENT":6052.00},
-			"2012-03": {"total":3588.00, "IN HOUSE FOSTER PLACEMENT":3588.00}
-		}
-	},
-	"4188": {
-		"name": "DAVID A GRAHAM ASSOCIATES LTD",
-		"alternate-names": [
-			"DAVID A GRAHAM ASSOCIATES LIMITED"
-		],
-		"total": 34807.33,
-		"monthly": {
-			"2016-03": {"total":7231.95, "POLICY PERFORMANCE AND COMMS":7231.95},
-			"2016-04": {"total":1528.00, "POLICY PERFORMANCE AND COMMS":1528.00},
-			"2016-05": {"total":475.00, "POLICY PERFORMANCE AND COMMS":475.00},
-			"2016-08": {"total":9808.88, "POLICY PERFORMANCE AND COMMS":9808.88},
-			"2017-04": {"total":4845.00, "POLICY PERFORMANCE AND COMMS":4845.00},
-			"2017-05": {"total":6161.00, "POLICY PERFORMANCE AND COMMS":6161.00},
-			"2017-06": {"total":4757.50, "POLICY PERFORMANCE AND COMMS":4757.50}
-		}
-	},
-	"4189": {
-		"name": "DAVID AND ELIZABETH MELLOR TRADING AS ST",
-		"total": 6976.8,
-		"monthly": {
-			"2015-03": {"total":1350.00, "SSCB":1350.00},
-			"2015-06": {"total":2430.00, "SSCB":2430.00},
-			"2015-09": {"total":3196.80, "CYPF":3196.80}
-		}
-	},
-	"4190": {
-		"name": "DAVID APPLEYARD",
-		"total": 21880,
-		"monthly": {
-			"2011-03": {"total":15375.00, "CHAUCER NEW SQUARE":15375.00},
-			"2011-06": {"total":6505.00, "CHAUCER NEW SQUARE":6505.00}
-		}
-	},
-	"4191": {
-		"name": "DAVID APPLEYARD STUDIO LTD",
-		"alternate-names": [
-			"DAVID APPLEYARD STUDIO LIMITED"
-		],
-		"total": 50510,
-		"monthly": {
-			"2014-08": {"total":4000.00, "EDWARD STREET":4000.00},
-			"2014-10": {"total":12450.00, "EDWARD STREET":12450.00},
-			"2015-03": {"total":10070.00, "EDWARD STREET":10070.00},
-			"2015-06": {"total":12000.00, "EDWARD STREET":12000.00},
-			"2015-12": {"total":4500.00, "PLACE":4500.00},
-			"2016-08": {"total":3490.00, "PLACE":3490.00},
-			"2016-11": {"total":1500.00, "PLACE":1500.00},
-			"2017-11": {"total":2500.00, "PLACE":2500.00}
-		}
-	},
-	"4192": {
-		"name": "DAVID ASHWORTH",
-		"total": 6955,
-		"monthly": {
-			"2015-09": {"total":640.00, "CYPF":640.00},
-			"2015-12": {"total":700.00, "CYPF":700.00},
-			"2016-03": {"total":750.00, "CYPF":750.00},
-			"2017-06": {"total":4865.00, "CYPF":4865.00}
-		}
-	},
-	"4193": {
-		"name": "DAVID ATKIN T/A A D PLASTERING",
-		"total": 2625.6,
-		"monthly": {
-			"2015-08": {"total":548.00, "CYPF":548.00},
-			"2015-09": {"total":657.60, "CYPF":657.60},
-			"2016-05": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"4194": {
-		"name": "DAVID BICKLEY",
-		"total": 360,
-		"monthly": {
-			"2016-07": {"total":360.00, "CYPF":360.00}
-		}
-	},
-	"4195": {
-		"name": "DAVID BOCKING",
-		"total": 1200,
-		"monthly": {
-			"2017-05": {"total":1200.00, "PLACE":1200.00}
-		}
-	},
-	"4196": {
-		"name": "DAVID BOLSOVER PHOTOGRAPHY",
-		"total": 477.75,
-		"monthly": {
-			"2013-01": {"total":477.75, "CORPORATE PARENTING":477.75}
-		}
-	},
-	"4197": {
-		"name": "DAVID BOOTH LAND SERVICES",
-		"total": 780.24,
-		"monthly": {
-			"2012-04": {"total":780.24, "RANGERS (MANAGER)":780.24}
-		}
-	},
-	"4198": {
-		"name": "DAVID BRIGGS ASSOCIATES",
-		"total": 2515.35,
-		"monthly": {
-			"2017-11": {"total":469.97, "PEOPLE":469.97},
-			"2019-06": {"total":279.07, "PEOPLE":279.07},
-			"2019-08": {"total":1050.66, "PEOPLE":1050.66},
-			"2019-09": {"total":364.65, "PEOPLE":364.65},
-			"2019-10": {"total":351.00, "PEOPLE":351.00}
-		}
-	},
-	"4199": {
-		"name": "DAVID BRIGGS ASSOCIATES LTD",
-		"total": 4978.24,
-		"monthly": {
-			"2011-06": {"total":687.94, "CARE PROCEEDINGS (LEGAL FEES)":687.94},
-			"2013-01": {"total":473.36, "CARE PROCEEDINGS (LEGAL FEES)":473.36},
-			"2013-10": {"total":340.93, "CARE PROCEEDINGS (LEGAL FEES)":340.93},
-			"2013-11": {"total":495.78, "CARE PROCEEDINGS (LEGAL FEES)":495.78},
-			"2014-01": {"total":444.65, "CARE PROCEEDINGS (LEGAL FEES)":444.65},
-			"2014-03": {"total":432.43, "CARE PROCEEDINGS (LEGAL FEES)":432.43},
-			"2014-07": {"total":1514.55, "NORTH SA - CIN S17":1514.55},
-			"2014-08": {"total":588.60, "CARE PROCEEDINGS (LEGAL FEES)":588.60}
 		}
 	}
 	}

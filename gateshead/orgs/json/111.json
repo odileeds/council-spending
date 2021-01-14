@@ -1,7 +1,961 @@
 {
-	"range": ["2010-12","2020-08"],
+	"range": ["2010-12","2020-10"],
 	"data": {
 	"5550": {
+		"name": "NORTHUMBRIA LEARNING PROVIDERS",
+		"total": 900,
+		"monthly": {
+			"2014-02": {"total":450.00, "Learning and Children":450.00},
+			"2015-06": {"total":450.00, "Care, Wellbeing & Learning":450.00}
+		}
+	},
+	"5551": {
+		"name": "NORTHUMBRIA PLANT HIRE",
+		"total": 353,
+		"monthly": {
+			"2012-12": {"total":353.00, "Local Environmental Services":353.00}
+		}
+	},
+	"5552": {
+		"name": "NORTHUMBRIA POLICE AND CRIME COMMISSIONER",
+		"total": 498738.01,
+		"monthly": {
+			"2016-07": {"total":392709.00, "Full Authority":392709.00},
+			"2016-08": {"total":78364.10, "Communities & Environment":78364.10},
+			"2017-03": {"total":430.10, "Communities & Environment":430.10},
+			"2017-10": {"total":1300.00, "Communities & Environment":1300.00},
+			"2018-01": {"total":5579.85, "Corporate Resources":5579.85},
+			"2018-11": {"total":10000.00, "Communities & Environment":10000.00},
+			"2019-09": {"total":7854.96, "Care, Wellbeing & Learning":7854.96},
+			"2020-10": {"total":2500.00, "Children, Adults and Families":2500.00}
+		}
+	},
+	"5553": {
+		"name": "NORTHUMBRIA POLICE AUTHORITY",
+		"total": 2949492.17,
+		"monthly": {
+			"2011-01": {"total":10000.00, "Learning and Children":10000.00},
+			"2011-02": {"total":249078.00, "Community Based Services":48794.00, "Development & Enterprise":200284.00},
+			"2011-03": {"total":67105.00, "Central Services":15000.00, "Community Based Services":52105.00},
+			"2011-04": {"total":14846.00, "Development & Enterprise":14846.00},
+			"2011-06": {"total":185644.20, "Development & Enterprise":184569.00, "Local Environmental Services":1075.20},
+			"2011-07": {"total":90000.00, "Community Based Services":90000.00},
+			"2011-08": {"total":230628.00, "Community Based Services":4000.00, "Development & Enterprise":226628.00},
+			"2012-02": {"total":172912.00, "Community Based Services":10000.00, "Development & Enterprise":162912.00},
+			"2012-03": {"total":180778.00, "Development & Enterprise":180778.00},
+			"2012-04": {"total":14846.00, "Development & Enterprise":14846.00},
+			"2012-05": {"total":225924.32, "Development & Enterprise":225924.32},
+			"2012-06": {"total":6756.26, "Learning and Children":5750.00, "Local Environmental Services":1006.26},
+			"2012-07": {"total":216743.00, "Development & Enterprise":216743.00},
+			"2012-11": {"total":207981.00, "Development & Enterprise":207981.00},
+			"2013-02": {"total":163935.00, "Development & Enterprise":163935.00},
+			"2013-03": {"total":10000.00, "Community Based Services":10000.00},
+			"2013-06": {"total":235382.00, "Development & Enterprise":235382.00},
+			"2013-11": {"total":216946.00, "Development & Enterprise":216946.00},
+			"2014-02": {"total":418224.00, "Development & Enterprise":418224.00},
+			"2014-03": {"total":1215.00, "Community Based Services":1215.00},
+			"2015-01": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2015-03": {"total":15000.00, "Care, Wellbeing & Learning":15000.00},
+			"2015-08": {"total":548.39, "Full Authority":548.39}
+		}
+	},
+	"5554": {
+		"name": "NORTHUMBRIA PROBATION BOARD",
+		"total": 133181.13,
+		"monthly": {
+			"2011-01": {"total":2934.79, "Community Based Services":2934.79},
+			"2011-02": {"total":11750.00, "Community Based Services":11750.00},
+			"2011-03": {"total":24424.00, "Community Based Services":24424.00},
+			"2012-03": {"total":39399.00, "Community Based Services":39399.00},
+			"2013-09": {"total":7515.00, "Community Based Services":7515.00},
+			"2013-10": {"total":7515.00, "Community Based Services":7515.00},
+			"2014-01": {"total":7515.00, "Community Based Services":7515.00},
+			"2014-03": {"total":7515.00, "Community Based Services":7515.00},
+			"2015-01": {"total":15030.00, "Care, Wellbeing & Learning":15030.00},
+			"2015-05": {"total":4791.67, "Care, Wellbeing & Learning":4791.67},
+			"2015-08": {"total":4791.67, "Care, Wellbeing & Learning":4791.67}
+		}
+	},
+	"5555": {
+		"name": "NORTHUMBRIA SIGHT SERVICE",
+		"total": 1041905.44,
+		"monthly": {
+			"2010-12": {"total":15603.54, "Community Based Services":15603.54},
+			"2011-01": {"total":46810.60, "Community Based Services":46810.60},
+			"2011-04": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-05": {"total":28866.62, "Community Based Services":28866.62},
+			"2011-06": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-07": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-08": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-09": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-10": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-11": {"total":14433.31, "Community Based Services":14433.31},
+			"2011-12": {"total":28866.62, "Community Based Services":28866.62},
+			"2012-02": {"total":28866.59, "Community Based Services":28866.59},
+			"2012-04": {"total":15636.00, "Community Based Services":15636.00},
+			"2012-05": {"total":23977.34, "Community Based Services":23977.34},
+			"2012-06": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-07": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-08": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-09": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-10": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-11": {"total":11988.67, "Community Based Services":11988.67},
+			"2012-12": {"total":23977.34, "Community Based Services":23977.34},
+			"2013-01": {"total":11988.67, "Community Based Services":11988.67},
+			"2013-02": {"total":11988.63, "Community Based Services":11988.63},
+			"2013-04": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-05": {"total":18093.24, "Community Based Services":18093.24},
+			"2013-06": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-07": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-08": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-09": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-10": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-11": {"total":9046.62, "Community Based Services":9046.62},
+			"2013-12": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-01": {"total":27139.80, "Community Based Services":27139.80},
+			"2014-04": {"total":18093.24, "Community Based Services":18093.24},
+			"2014-05": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-06": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-07": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-08": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-09": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-10": {"total":9046.62, "Community Based Services":9046.62},
+			"2014-11": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2014-12": {"total":18093.24, "Care, Wellbeing & Learning":18093.24},
+			"2015-02": {"total":9046.56, "Care, Wellbeing & Learning":9046.56},
+			"2015-04": {"total":0.00, "Care, Wellbeing & Learning":0.00},
+			"2015-05": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-07": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-08": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-09": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-10": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-11": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2015-12": {"total":18093.24, "Care, Wellbeing & Learning":18093.24},
+			"2016-02": {"total":9046.56, "Care, Wellbeing & Learning":9046.56},
+			"2016-04": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-05": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-06": {"total":18093.24, "Care, Wellbeing & Learning":18093.24},
+			"2016-07": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-08": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-09": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-10": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-11": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2016-12": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2017-01": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2017-02": {"total":9046.62, "Care, Wellbeing & Learning":9046.62},
+			"2017-03": {"total":9046.56, "Care, Wellbeing & Learning":9046.56},
+			"2017-04": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-05": {"total":34377.12, "Care, Wellbeing & Learning":34377.12},
+			"2017-06": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-07": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-08": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-09": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-10": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-11": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2017-12": {"total":17188.56, "Care, Wellbeing & Learning":17188.56},
+			"2018-01": {"total":17188.56, "Care, Wellbeing & Learning":17188.56}
+		}
+	},
+	"5556": {
+		"name": "NORTHUMBRIA UNIVERSITY",
+		"total": 640731.8,
+		"monthly": {
+			"2010-12": {"total":10455.00, "Central Services":1500.00, "Community Based Services":2285.00, "Development & Enterprise":1840.00, "Learning and Children":4830.00},
+			"2011-01": {"total":11089.99, "Central Services":9089.99, "Development & Enterprise":1000.00, "Learning and Children":1000.00},
+			"2011-02": {"total":9324.00, "Central Services":7484.00, "Local Environmental Services":1840.00},
+			"2011-03": {"total":11145.50, "Central Services":5314.00, "Development & Enterprise":1840.00, "Learning and Children":3991.50},
+			"2011-04": {"total":24744.35, "Central Services":4898.00, "Development & Enterprise":19846.35},
+			"2011-06": {"total":830.00, "Learning and Children":830.00},
+			"2011-07": {"total":10110.00, "Central Services":6090.00, "Community Based Services":2400.00, "Learning and Children":500.00, "Local Environmental Services":1120.00},
+			"2011-08": {"total":10577.50, "Central Services":964.40, "Development & Enterprise":7709.10, "Learning and Children":784.00, "Local Environmental Services":1120.00},
+			"2011-09": {"total":8237.87, "Development & Enterprise":8237.87},
+			"2011-10": {"total":15842.00, "Central Services":9032.00, "Learning and Children":3130.00, "Local Environmental Services":3680.00},
+			"2011-11": {"total":11926.92, "Development & Enterprise":11926.92},
+			"2011-12": {"total":2389.50, "Local Environmental Services":2389.50},
+			"2012-01": {"total":3049.00, "Development & Enterprise":3049.00},
+			"2012-02": {"total":6690.92, "Development & Enterprise":2010.92, "Learning and Children":4680.00},
+			"2012-03": {"total":6170.92, "Central Services":2320.00, "Development & Enterprise":3850.92},
+			"2012-04": {"total":14520.82, "Central Services":666.66, "Development & Enterprise":13854.16},
+			"2012-06": {"total":1986.43, "Development & Enterprise":1986.43},
+			"2012-07": {"total":10778.00, "Central Services":9950.00, "Development & Enterprise":828.00},
+			"2012-09": {"total":3680.00, "Development & Enterprise":1840.00, "Local Environmental Services":1840.00},
+			"2012-10": {"total":5260.00, "Central Services":3420.00, "Development & Enterprise":1840.00},
+			"2012-11": {"total":15431.50, "Central Services":3256.50, "Development & Enterprise":4495.00, "Local Environmental Services":7680.00},
+			"2012-12": {"total":5580.85, "Central Services":4685.00, "Learning and Children":895.85},
+			"2013-02": {"total":19000.00, "Central Services":14000.00, "Development & Enterprise":5000.00},
+			"2013-03": {"total":25100.00, "Central Services":6000.00, "Community Based Services":10300.00, "Development & Enterprise":8800.00},
+			"2013-05": {"total":42466.66, "Central Services":1800.00, "Community Based Services":40666.66},
+			"2013-06": {"total":9075.00, "Central Services":9075.00},
+			"2013-07": {"total":6409.00, "Central Services":5560.00, "Local Environmental Services":849.00},
+			"2013-09": {"total":5400.00, "Central Services":5400.00},
+			"2013-10": {"total":12449.00, "Central Services":5650.00, "Development & Enterprise":1840.00, "Local Environmental Services":4959.00},
+			"2013-11": {"total":16535.00, "Central Services":15155.00, "Local Environmental Services":1380.00},
+			"2013-12": {"total":2541.40, "Central Services":1200.00, "Development & Enterprise":724.00, "Learning and Children":617.40},
+			"2014-01": {"total":1948.08, "Central Services":1200.00, "Community Based Services":748.08},
+			"2014-02": {"total":2190.70, "Central Services":1220.00, "Community Based Services":970.70},
+			"2014-03": {"total":7280.00, "Central Services":6670.00, "Community Based Services":610.00},
+			"2014-04": {"total":1220.00, "Central Services":1220.00},
+			"2014-05": {"total":3730.77, "Community Based Services":2366.66, "Learning and Children":1364.11},
+			"2014-06": {"total":3650.00, "Central Services":3650.00},
+			"2014-07": {"total":7485.00, "Local Environmental Services":7485.00},
+			"2014-08": {"total":8000.00, "Central Services":8000.00},
+			"2014-10": {"total":18930.00, "Central Services":7930.00, "Local Environmental Services":11000.00},
+			"2014-11": {"total":7910.00, "Communities & Enviroment":4000.00, "Corporate Services & Governance":3910.00},
+			"2015-01": {"total":2220.00, "Care, Wellbeing & Learning":1620.00, "Corporate Services & Governance":600.00},
+			"2015-02": {"total":3050.00, "Corporate Services & Governance":3050.00},
+			"2015-03": {"total":2620.00, "Care, Wellbeing & Learning":1220.00, "Corporate Services & Governance":1400.00},
+			"2015-04": {"total":2516.00, "Care, Wellbeing & Learning":1906.00, "Corporate Services & Governance":610.00},
+			"2015-05": {"total":4340.56, "Care, Wellbeing & Learning":2480.00, "Policy, Economic Growth and Transformation":1034.56, "Corporate Services & Governance":826.00},
+			"2015-06": {"total":2620.00, "Corporate Services & Governance":2620.00},
+			"2015-10": {"total":9713.75, "Communities & Environment":8000.00, "Corporate Services & Governance":1713.75},
+			"2015-11": {"total":12479.20, "Communities & Environment":8000.00, "Corporate Services & Governance":4479.20},
+			"2015-12": {"total":1678.00, "Care, Wellbeing & Learning":590.00, "Corporate Services & Governance":1088.00},
+			"2016-01": {"total":3610.00, "Corporate Services & Governance":3610.00},
+			"2016-02": {"total":8336.00, "Care, Wellbeing & Learning":1575.00, "Corporate Services & Governance":6761.00},
+			"2016-03": {"total":18429.00, "Corporate Services & Governance":18429.00},
+			"2016-04": {"total":1062.05, "Care, Wellbeing & Learning":574.05, "Corporate Services & Governance":488.00},
+			"2016-05": {"total":2928.00, "Corporate Services & Governance":2928.00},
+			"2016-08": {"total":4445.48, "Communities & Environment":4445.48},
+			"2016-10": {"total":8993.00, "Corporate Services & Governance":8993.00},
+			"2016-11": {"total":14562.00, "Communities & Environment":12000.00, "Corporate Services & Governance":2562.00},
+			"2016-12": {"total":6630.00, "Care, Wellbeing & Learning":3630.00, "Communities & Environment":3000.00},
+			"2017-01": {"total":7660.00, "Communities & Environment":4000.00, "Corporate Services & Governance":3660.00},
+			"2017-02": {"total":13990.00, "Communities & Environment":1390.00, "Corporate Resources":12600.00},
+			"2017-03": {"total":4054.00, "Corporate Services & Governance":4054.00},
+			"2017-05": {"total":1220.00, "Corporate Services & Governance":1220.00},
+			"2017-08": {"total":1220.00, "Corporate Services & Governance":1220.00},
+			"2017-09": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2017-11": {"total":8490.00, "Communities & Environment":3000.00, "Corporate Services & Governance":5490.00},
+			"2017-12": {"total":6461.15, "Care, Wellbeing & Learning":2805.15, "Corporate Services & Governance":3656.00},
+			"2018-02": {"total":610.00, "Corporate Services & Governance":610.00},
+			"2018-03": {"total":13200.00, "Corporate Resources":13200.00},
+			"2018-06": {"total":1247.42, "Care, Wellbeing & Learning":637.42, "Corporate Services & Governance":610.00},
+			"2018-07": {"total":1980.00, "Corporate Services & Governance":1980.00},
+			"2018-10": {"total":1598.40, "Care, Wellbeing & Learning":1598.40},
+			"2018-11": {"total":4570.00, "Corporate Services & Governance":4570.00},
+			"2019-02": {"total":2625.40, "Care, Wellbeing & Learning":795.40, "Corporate Services & Governance":1830.00},
+			"2019-03": {"total":1367.10, "Care, Wellbeing & Learning":757.10, "Corporate Services & Governance":610.00},
+			"2019-04": {"total":8200.00, "Communities & Environment":8200.00},
+			"2019-08": {"total":5000.00, "Corporate Services & Governance":5000.00},
+			"2019-10": {"total":10000.00, "Corporate Services & Governance":10000.00},
+			"2019-11": {"total":5218.00, "Care, Wellbeing & Learning":1998.00, "Corporate Services & Governance":3220.00},
+			"2020-01": {"total":1200.00, "Corporate Services & Governance":1200.00},
+			"2020-02": {"total":7648.00, "Corporate Services & Governance":7648.00},
+			"2020-03": {"total":3685.00, "Corporate Services & Governance":3685.00},
+			"2020-04": {"total":5700.00, "Corporate Services & Governance":5700.00},
+			"2020-06": {"total":4592.00, "Corporate Services & Governance":4592.00},
+			"2020-08": {"total":1792.90, "Children, Adults and Families":1792.90},
+			"2020-09": {"total":3092.95, "Children, Adults and Families":2392.95, "Corporate Services & Governance":700.00},
+			"2020-10": {"total":1734.76, "Children, Adults and Families":1734.76}
+		}
+	},
+	"5557": {
+		"name": "NORTHUMBRIA YOUTH ACTION LTD",
+		"total": 47942.23,
+		"monthly": {
+			"2014-07": {"total":7580.21, "Learning and Children":7580.21},
+			"2014-08": {"total":2067.33, "Learning and Children":2067.33},
+			"2015-01": {"total":23724.97, "Care, Wellbeing & Learning":23724.97},
+			"2015-03": {"total":6201.99, "Care, Wellbeing & Learning":6201.99},
+			"2015-08": {"total":5941.41, "Care, Wellbeing & Learning":5941.41},
+			"2015-12": {"total":2426.32, "Care, Wellbeing & Learning":2426.32}
+		}
+	},
+	"5558": {
+		"name": "NORTHUMBRIAN ROADS LTD",
+		"total": 62779.86,
+		"monthly": {
+			"2012-03": {"total":8650.91, "Community Based Services":8650.91},
+			"2016-09": {"total":11812.46, "Communities & Environment":11812.46},
+			"2016-12": {"total":12742.45, "Communities & Environment":12742.45},
+			"2017-01": {"total":12393.11, "Communities & Environment":12393.11},
+			"2017-02": {"total":17180.93, "Communities & Environment":17180.93}
+		}
+	},
+	"5559": {
+		"name": "NORTHUMBRIAN TRUST DAY NURSERIES LTD",
+		"total": 16075.37,
+		"monthly": {
+			"2013-05": {"total":8216.67, "Learning and Children":8216.67},
+			"2013-06": {"total":3188.93, "Learning and Children":3188.93},
+			"2013-10": {"total":701.32, "Learning and Children":701.32},
+			"2014-01": {"total":2724.11, "Learning and Children":2724.11},
+			"2014-03": {"total":1244.34, "Learning and Children":1244.34}
+		}
+	},
+	"5560": {
+		"name": "NORTHUMBRIAN WATER",
+		"total": 12297327.81,
+		"monthly": {
+			"2010-12": {"total":123883.00, "Development & Enterprise":3189.69, "Full Authority":119034.77, "Local Environmental Services":1658.54},
+			"2011-01": {"total":228195.44, "Central Services":370.00, "Community Based Services":748.00, "Development & Enterprise":6362.72, "Full Authority":209275.75, "Local Environmental Services":11438.97},
+			"2011-02": {"total":34292.98, "Community Based Services":1909.30, "Development & Enterprise":591.43, "Full Authority":29384.66, "Local Environmental Services":2407.59},
+			"2011-03": {"total":282665.58, "Community Based Services":1425.00, "Development & Enterprise":4096.80, "Full Authority":273615.90, "Learning and Children":700.90, "Local Environmental Services":2826.98},
+			"2011-04": {"total":4410.38, "Development & Enterprise":2575.12, "Learning and Children":1100.24, "Local Environmental Services":735.02},
+			"2011-05": {"total":104942.87, "Community Based Services":1286.85, "Development & Enterprise":2332.69, "Full Authority":97559.86, "Local Environmental Services":3763.47},
+			"2011-06": {"total":113028.90, "Community Based Services":900.20, "Development & Enterprise":2267.18, "Full Authority":109861.52},
+			"2011-07": {"total":105081.40, "Development & Enterprise":3244.66, "Full Authority":99412.66, "Learning and Children":1234.90, "Local Environmental Services":1189.18},
+			"2011-08": {"total":283380.82, "Central Services":370.00, "Community Based Services":937.60, "Development & Enterprise":3382.40, "Full Authority":274446.01, "Local Environmental Services":4244.81},
+			"2011-09": {"total":78309.36, "Central Services":370.00, "Community Based Services":2013.00, "Development & Enterprise":10095.05, "Full Authority":65831.31},
+			"2011-10": {"total":34932.13, "Development & Enterprise":845.00, "Full Authority":32709.23, "Learning and Children":856.36, "Local Environmental Services":521.54},
+			"2011-11": {"total":118834.47, "Community Based Services":21082.25, "Development & Enterprise":1673.26, "Full Authority":91977.05, "Learning and Children":792.95, "Local Environmental Services":3308.96},
+			"2011-12": {"total":94937.73, "Development & Enterprise":713.48, "Full Authority":90592.34, "Learning and Children":479.21, "Local Environmental Services":3152.70},
+			"2012-01": {"total":179933.73, "Development & Enterprise":6295.26, "Full Authority":172038.72, "Learning and Children":1244.75, "Local Environmental Services":355.00},
+			"2012-02": {"total":168676.58, "Community Based Services":4770.12, "Development & Enterprise":689.14, "Full Authority":159899.49, "Local Environmental Services":3317.83},
+			"2012-03": {"total":3420.26, "Development & Enterprise":3065.26, "Local Environmental Services":355.00},
+			"2012-04": {"total":57351.43, "Central Services":370.00, "Development & Enterprise":2146.97, "Full Authority":51334.22, "Learning and Children":2047.53, "Local Environmental Services":1452.71},
+			"2012-05": {"total":246806.17, "Community Based Services":461.30, "Development & Enterprise":2544.92, "Full Authority":236953.89, "Local Environmental Services":6846.06},
+			"2012-06": {"total":5056.19, "Development & Enterprise":4686.19, "Local Environmental Services":370.00},
+			"2012-07": {"total":163357.15, "Community Based Services":458.87, "Development & Enterprise":10255.97, "Full Authority":148200.10, "Learning and Children":900.12, "Local Environmental Services":3542.09},
+			"2012-08": {"total":1516.18, "Community Based Services":475.95, "Local Environmental Services":1040.23},
+			"2012-09": {"total":147066.48, "Community Based Services":475.00, "Development & Enterprise":3900.16, "Full Authority":142118.62, "Local Environmental Services":572.70},
+			"2012-10": {"total":159252.80, "Central Services":370.00, "Community Based Services":370.00, "Development & Enterprise":6053.50, "Full Authority":150952.04, "Learning and Children":902.33, "Local Environmental Services":604.93},
+			"2012-11": {"total":152875.79, "Community Based Services":482.34, "Development & Enterprise":2687.73, "Full Authority":146337.05, "Local Environmental Services":3368.67},
+			"2012-12": {"total":3108.74, "Development & Enterprise":3108.74},
+			"2013-01": {"total":137016.26, "Development & Enterprise":5947.65, "Full Authority":128720.26, "Local Environmental Services":2348.35},
+			"2013-02": {"total":4829.62, "Development & Enterprise":2706.34, "Local Environmental Services":2123.28},
+			"2013-03": {"total":163550.67, "Community Based Services":3095.67, "Full Authority":157068.10, "Local Environmental Services":3386.90},
+			"2013-04": {"total":3491.38, "Development & Enterprise":1898.00, "Full Authority":1003.20, "Local Environmental Services":590.18},
+			"2013-05": {"total":234238.17, "Community Based Services":494.31, "Development & Enterprise":3035.22, "Full Authority":230708.64},
+			"2013-06": {"total":9965.83, "Development & Enterprise":9965.83},
+			"2013-07": {"total":184802.13, "Development & Enterprise":2672.88, "Full Authority":178782.86, "Local Environmental Services":3346.39},
+			"2013-08": {"total":8524.40, "Community Based Services":467.85, "Development & Enterprise":2054.37, "Local Environmental Services":6002.18},
+			"2013-09": {"total":271745.65, "Community Based Services":510.78, "Development & Enterprise":5296.72, "Full Authority":265359.82, "Local Environmental Services":578.33},
+			"2013-10": {"total":108376.75, "Development & Enterprise":2807.41, "Full Authority":102870.67, "Local Environmental Services":2698.67},
+			"2013-11": {"total":141527.42, "Development & Enterprise":2144.15, "Full Authority":139383.27},
+			"2013-12": {"total":48698.23, "Community Based Services":491.07, "Development & Enterprise":747.03, "Full Authority":46869.97, "Local Environmental Services":590.16},
+			"2014-01": {"total":139475.69, "Community Based Services":530.48, "Development & Enterprise":18361.17, "Full Authority":120088.97, "Local Environmental Services":495.07},
+			"2014-02": {"total":4112.53, "Development & Enterprise":3593.15, "Local Environmental Services":519.38},
+			"2014-03": {"total":124980.02, "Development & Enterprise":12218.42, "Full Authority":105530.22, "Learning and Children":553.46, "Local Environmental Services":6677.92},
+			"2014-04": {"total":36500.84, "Development & Enterprise":3028.06, "Full Authority":32076.21, "Learning and Children":799.27, "Local Environmental Services":597.30},
+			"2014-05": {"total":244194.75, "Community Based Services":421.31, "Development & Enterprise":2693.87, "Full Authority":241079.57},
+			"2014-06": {"total":46378.54, "Community Based Services":3700.00, "Development & Enterprise":2033.10, "Full Authority":40645.44},
+			"2014-07": {"total":100056.35, "Development & Enterprise":7888.05, "Full Authority":92168.30},
+			"2014-08": {"total":144693.53, "Development & Enterprise":3698.26, "Full Authority":140215.59, "Learning and Children":779.68},
+			"2014-09": {"total":51576.75, "Community Based Services":4070.00, "Development & Enterprise":1295.97, "Full Authority":44659.91, "Local Environmental Services":1550.87},
+			"2014-10": {"total":80311.80, "Development & Enterprise":4987.15, "Full Authority":75324.65},
+			"2014-11": {"total":162863.78, "Policy, Economic Growth and Transformation":1982.34, "Full Authority":160881.44},
+			"2014-12": {"total":47332.77, "Care, Wellbeing & Learning":1680.64, "Communities & Enviroment":2480.53, "Corporate Services & Governance":1040.95, "Full Authority":42130.65},
+			"2015-01": {"total":100159.21, "Policy, Economic Growth and Transformation":1966.82, "Communities & Enviroment":6908.46, "Corporate Services & Governance":3222.28, "Full Authority":88061.65},
+			"2015-02": {"total":1233.67, "Policy, Economic Growth and Transformation":798.47, "Corporate Services & Governance":435.20},
+			"2015-03": {"total":146986.15, "Communities & Enviroment":3414.56, "Corporate Services & Governance":1059.84, "Full Authority":142511.75},
+			"2015-04": {"total":139264.80, "Communities & Enviroment":7537.30, "Corporate Services & Governance":3069.72, "Full Authority":128657.78},
+			"2015-05": {"total":131086.85, "Policy, Economic Growth and Transformation":1949.79, "Communities & Enviroment":1026.58, "Corporate Services & Governance":734.40, "Full Authority":127376.08},
+			"2015-06": {"total":54607.39, "Policy, Economic Growth and Transformation":1047.73, "Communities & Environment":2151.73, "Corporate Services & Governance":467.91, "Full Authority":50940.02},
+			"2015-07": {"total":76011.07, "Communities & Environment":8277.29, "Corporate Services & Governance":2930.80, "Full Authority":64802.98},
+			"2015-08": {"total":68358.05, "Policy, Economic Growth and Transformation":1983.95, "Communities & Environment":3496.69, "Full Authority":62877.41},
+			"2015-09": {"total":69739.87, "Communities & Environment":1309.80, "Corporate Services & Governance":456.12, "Full Authority":67973.95},
+			"2015-10": {"total":120065.81, "Policy, Economic Growth and Transformation":857.46, "Communities & Environment":4776.43, "Corporate Services & Governance":2867.46, "Full Authority":111564.46},
+			"2015-11": {"total":121208.23, "Policy, Economic Growth and Transformation":3236.23, "Communities & Environment":3514.44, "Corporate Services & Governance":1058.88, "Full Authority":113398.68},
+			"2015-12": {"total":55745.23, "Policy, Economic Growth and Transformation":2219.17, "Corporate Services & Governance":10584.36, "Full Authority":42941.70},
+			"2016-01": {"total":116110.07, "Policy, Economic Growth and Transformation":2219.17, "Communities & Environment":2202.80, "Corporate Services & Governance":5339.20, "Full Authority":106348.90},
+			"2016-02": {"total":91415.67, "Policy, Economic Growth and Transformation":2001.70, "Communities & Environment":3414.59, "Full Authority":85999.38},
+			"2016-03": {"total":48134.39, "Communities & Environment":2302.39, "Corporate Services & Governance":639.99, "Full Authority":45192.01},
+			"2016-04": {"total":526.40, "Corporate Services & Governance":526.40},
+			"2016-05": {"total":91675.65, "Policy, Economic Growth and Transformation":2139.75, "Communities & Enviroment":370.00, "Communities & Environment":4507.50, "Full Authority":84658.40},
+			"2016-06": {"total":34392.09, "Policy, Economic Growth and Transformation":976.66, "Communities & Enviroment":376.00, "Communities & Environment":1070.40, "Full Authority":31969.03},
+			"2016-07": {"total":39998.15, "Corporate Services & Governance":1607.09, "Full Authority":38391.06},
+			"2016-08": {"total":295370.31, "Communities & Environment":4196.22, "Corporate Services & Governance":483.42, "Full Authority":290690.67},
+			"2016-09": {"total":67601.25, "Communities & Environment":5901.69, "Corporate Services & Governance":6809.74, "Full Authority":54889.82},
+			"2016-10": {"total":128301.27, "Communities & Environment":2647.83, "Corporate Services & Governance":1437.26, "Full Authority":124216.18},
+			"2016-11": {"total":96773.41, "Communities & Enviroment":852.00, "Communities & Environment":7306.43, "Corporate Services & Governance":1067.81, "Full Authority":87547.17},
+			"2016-12": {"total":1955.08, "Communities & Enviroment":400.00, "Communities & Environment":1555.08},
+			"2017-01": {"total":117678.68, "Communities & Environment":4252.96, "Full Authority":113425.72},
+			"2017-02": {"total":136912.02, "Communities & Environment":3007.39, "Corporate Services & Governance":1957.03, "Full Authority":131947.60},
+			"2017-03": {"total":45352.12, "Communities & Environment":2173.07, "Corporate Services & Governance":1190.61, "Full Authority":41988.44},
+			"2017-04": {"total":32596.24, "Corporate Services & Governance":7167.80, "Full Authority":25428.44},
+			"2017-05": {"total":4441.62, "Full Authority":4441.62},
+			"2017-07": {"total":5191.80, "Communities & Environment":5191.80},
+			"2017-08": {"total":1020.25, "Full Authority":1020.25},
+			"2017-09": {"total":3447.23, "Full Authority":3447.23},
+			"2017-10": {"total":2872.04, "Communities & Environment":2872.04},
+			"2018-01": {"total":352318.58, "Communities & Enviroment":352318.58},
+			"2018-03": {"total":762.75, "Care, Wellbeing & Learning":741.53, "Communities & Environment":21.22},
+			"2018-05": {"total":7996.85, "Full Authority":7996.85},
+			"2018-06": {"total":438.82, "Corporate Resources":438.82},
+			"2018-07": {"total":925.42, "Care, Wellbeing & Learning":925.42},
+			"2018-11": {"total":2081.85, "Corporate Services & Governance":2081.85},
+			"2018-12": {"total":10121.70, "Communities & Environment":10121.70},
+			"2019-01": {"total":200.46, "Communities & Environment":200.46},
+			"2019-03": {"total":829.41, "Care, Wellbeing & Learning":692.59, "Communities & Environment":136.82},
+			"2019-04": {"total":8252.97, "Full Authority":8252.97},
+			"2019-05": {"total":793.09, "Communities & Environment":793.09},
+			"2019-06": {"total":4062106.83, "Communities & Enviroment":4059611.48, "Communities & Environment":2495.35},
+			"2019-10": {"total":749.15, "Corporate Services & Governance":749.15},
+			"2019-11": {"total":552.00, "Care, Wellbeing & Learning":552.00},
+			"2019-12": {"total":1602.91, "Children, Adults and Families":870.17, "Housing, Environment and Healthy Communities":732.74},
+			"2020-01": {"total":302.40, "Care, Wellbeing & Learning":97.94, "Communities & Environment":204.46},
+			"2020-02": {"total":978.53, "Care, Wellbeing & Learning":840.94, "Communities & Environment":137.59},
+			"2020-03": {"total":673.00, "Communities & Enviroment":673.00},
+			"2020-06": {"total":461.61, "Economy, Innovation and Growth":461.61},
+			"2020-07": {"total":4386.99, "Economy, Innovation and Growth":4386.99}
+		}
+	},
+	"5561": {
+		"name": "NORTHUMBRIAN WATER LTD",
+		"total": 1315895.31,
+		"monthly": {
+			"2010-12": {"total":12374.51, "Local Environmental Services":12374.51},
+			"2011-01": {"total":1147.99, "Learning and Children":1147.99},
+			"2011-02": {"total":2253.86, "Community Based Services":2253.86},
+			"2011-03": {"total":2811.46, "Miscoding":2811.46},
+			"2012-02": {"total":441.14, "Community Based Services":441.14},
+			"2012-09": {"total":686.85, "Community Based Services":686.85},
+			"2012-11": {"total":370.00, "Community Based Services":370.00},
+			"2013-07": {"total":4721.89, "Central Services":4351.89, "Local Environmental Services":370.00},
+			"2013-09": {"total":2361.97, "Central Services":370.00, "Development & Enterprise":1991.97},
+			"2013-10": {"total":370.00, "Community Based Services":370.00},
+			"2013-12": {"total":8015.39, "Community Based Services":475.00, "Development & Enterprise":3929.90, "Local Environmental Services":3610.49},
+			"2014-01": {"total":2695.00, "Central Services":370.00, "Development & Enterprise":2325.00},
+			"2014-02": {"total":475.00, "Development & Enterprise":475.00},
+			"2014-03": {"total":12717.45, "Community Based Services":1215.00, "Development & Enterprise":5932.00, "Local Environmental Services":5570.45},
+			"2014-04": {"total":3814.02, "Development & Enterprise":3814.02},
+			"2014-05": {"total":2800.00, "Development & Enterprise":2800.00},
+			"2014-08": {"total":1129.25, "Development & Enterprise":1129.25},
+			"2014-09": {"total":18927.50, "Community Based Services":1110.00, "Development & Enterprise":17817.50},
+			"2015-01": {"total":562.00, "Care, Wellbeing & Learning":562.00},
+			"2015-03": {"total":20000.00, "Communities & Enviroment":20000.00},
+			"2015-04": {"total":1010.67, "Communities & Enviroment":370.00, "Corporate Services & Governance":640.67},
+			"2015-08": {"total":3499.00, "Communities & Environment":3499.00},
+			"2015-09": {"total":401.49, "Corporate Services & Governance":401.49},
+			"2016-01": {"total":1285.49, "Communities & Environment":884.00, "Corporate Services & Governance":401.49},
+			"2016-02": {"total":30000.00, "Communities & Enviroment":30000.00},
+			"2016-03": {"total":151589.17, "Communities & Enviroment":150000.00, "Communities & Environment":1219.17, "Corporate Services & Governance":370.00},
+			"2016-04": {"total":1690.89, "Policy, Economic Growth and Transformation":912.76, "Corporate Services & Governance":778.13},
+			"2016-05": {"total":84348.56, "Communities & Enviroment":84348.56},
+			"2016-06": {"total":511.00, "Communities & Enviroment":511.00},
+			"2016-09": {"total":1534.19, "Communities & Environment":1062.44, "Corporate Services & Governance":471.75},
+			"2016-10": {"total":1078.36, "Communities & Environment":426.96, "Corporate Services & Governance":651.40},
+			"2016-11": {"total":10694.95, "Communities & Enviroment":10000.00, "Corporate Services & Governance":694.95},
+			"2016-12": {"total":22369.70, "Communities & Enviroment":20000.00, "Communities & Environment":2369.70},
+			"2017-01": {"total":274335.06, "Communities & Enviroment":274335.06},
+			"2017-05": {"total":321628.48, "Communities & Enviroment":321628.48},
+			"2017-10": {"total":9717.00, "Communities & Enviroment":9717.00},
+			"2018-01": {"total":2674.74, "Corporate Resources":462.54, "Corporate Services & Governance":2212.20},
+			"2018-03": {"total":899.00, "Communities & Enviroment":899.00},
+			"2018-04": {"total":1485.30, "Communities & Enviroment":899.00, "Corporate Services & Governance":586.30},
+			"2018-08": {"total":872.00, "Corporate Services & Governance":872.00},
+			"2018-10": {"total":934.00, "Care, Wellbeing & Learning":934.00},
+			"2018-11": {"total":2356.30, "Policy, Economic Growth and Transformation":538.65, "Corporate Services & Governance":1817.65},
+			"2018-12": {"total":557.80, "Corporate Services & Governance":557.80},
+			"2019-01": {"total":1513.50, "Corporate Services & Governance":1513.50},
+			"2019-03": {"total":1289.20, "Communities & Enviroment":1010.55, "Corporate Services & Governance":278.65},
+			"2019-04": {"total":670.55, "Corporate Services & Governance":670.55},
+			"2019-09": {"total":418.35, "Corporate Services & Governance":418.35},
+			"2019-10": {"total":488.10, "Communities & Environment":368.65, "Housing Revenue Account":119.45},
+			"2019-12": {"total":15760.00, "Communities & Enviroment":15760.00},
+			"2020-01": {"total":211030.68, "Communities & Enviroment":210582.63, "Corporate Services & Governance":448.05},
+			"2020-03": {"total":59650.05, "Communities & Environment":59650.05},
+			"2020-04": {"total":418.35, "Corporate Services & Governance":418.35},
+			"2020-10": {"total":508.10, "Corporate Services & Governance":508.10}
+		}
+	},
+	"5562": {
+		"name": "NORTHVIEW LODGE CARE HOME",
+		"total": 1171879.05,
+		"monthly": {
+			"2011-12": {"total":17199.60, "Community Based Services":17199.60},
+			"2012-01": {"total":11466.40, "Community Based Services":11466.40},
+			"2012-02": {"total":13075.66, "Community Based Services":13075.66},
+			"2012-03": {"total":7786.40, "Community Based Services":7786.40},
+			"2012-04": {"total":7537.43, "Community Based Services":7537.43},
+			"2012-05": {"total":8288.84, "Community Based Services":8288.84},
+			"2012-06": {"total":7931.24, "Community Based Services":7931.24},
+			"2012-07": {"total":7931.24, "Community Based Services":7931.24},
+			"2012-08": {"total":8212.44, "Community Based Services":8212.44},
+			"2012-09": {"total":7990.44, "Community Based Services":7990.44},
+			"2012-12": {"total":23971.32, "Community Based Services":23971.32},
+			"2013-01": {"total":15980.88, "Community Based Services":15980.88},
+			"2013-02": {"total":7990.44, "Community Based Services":7990.44},
+			"2013-03": {"total":7990.44, "Community Based Services":7990.44},
+			"2013-04": {"total":7996.14, "Community Based Services":7996.14},
+			"2013-05": {"total":7998.04, "Community Based Services":7998.04},
+			"2013-06": {"total":7998.04, "Community Based Services":7998.04},
+			"2013-07": {"total":7998.04, "Community Based Services":7998.04},
+			"2013-08": {"total":7998.04, "Community Based Services":7998.04},
+			"2013-09": {"total":7998.04, "Community Based Services":7998.04},
+			"2013-10": {"total":8004.84, "Community Based Services":8004.84},
+			"2013-11": {"total":8866.64, "Community Based Services":8866.64},
+			"2013-12": {"total":16009.68, "Community Based Services":16009.68},
+			"2014-01": {"total":8004.84, "Community Based Services":8004.84},
+			"2014-02": {"total":7950.73, "Community Based Services":7950.73},
+			"2014-03": {"total":7944.24, "Community Based Services":7944.24},
+			"2014-04": {"total":7954.74, "Community Based Services":7954.74},
+			"2014-05": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-06": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-07": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-08": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-09": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-10": {"total":7958.24, "Community Based Services":7958.24},
+			"2014-11": {"total":7958.24, "Care, Wellbeing & Learning":7958.24},
+			"2014-12": {"total":15916.48, "Care, Wellbeing & Learning":15916.48},
+			"2015-01": {"total":8806.56, "Care, Wellbeing & Learning":8806.56},
+			"2015-02": {"total":7958.24, "Care, Wellbeing & Learning":7958.24},
+			"2015-03": {"total":7958.24, "Care, Wellbeing & Learning":7958.24},
+			"2015-04": {"total":7967.09, "Care, Wellbeing & Learning":7967.09},
+			"2015-05": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-06": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-07": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-08": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-09": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-10": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-11": {"total":7970.04, "Care, Wellbeing & Learning":7970.04},
+			"2015-12": {"total":48806.09, "Care, Wellbeing & Learning":48806.09},
+			"2016-01": {"total":3968.24, "Care, Wellbeing & Learning":3968.24},
+			"2016-02": {"total":3968.24, "Care, Wellbeing & Learning":3968.24},
+			"2016-03": {"total":3968.24, "Care, Wellbeing & Learning":3968.24},
+			"2016-04": {"total":3977.04, "Care, Wellbeing & Learning":3977.04},
+			"2016-05": {"total":3985.84, "Care, Wellbeing & Learning":3985.84},
+			"2016-06": {"total":3985.84, "Care, Wellbeing & Learning":3985.84},
+			"2016-07": {"total":3985.84, "Care, Wellbeing & Learning":3985.84},
+			"2016-08": {"total":3985.84, "Care, Wellbeing & Learning":3985.84},
+			"2016-09": {"total":4069.44, "Care, Wellbeing & Learning":4069.44},
+			"2016-10": {"total":4001.04, "Care, Wellbeing & Learning":4001.04},
+			"2016-11": {"total":8002.08, "Care, Wellbeing & Learning":8002.08},
+			"2016-12": {"total":4001.04, "Care, Wellbeing & Learning":4001.04},
+			"2017-01": {"total":4001.04, "Care, Wellbeing & Learning":4001.04},
+			"2017-02": {"total":4001.04, "Care, Wellbeing & Learning":4001.04},
+			"2017-03": {"total":4001.04, "Care, Wellbeing & Learning":4001.04},
+			"2017-04": {"total":4008.68, "Care, Wellbeing & Learning":4008.68},
+			"2017-05": {"total":4016.32, "Care, Wellbeing & Learning":4016.32},
+			"2017-06": {"total":4016.32, "Care, Wellbeing & Learning":4016.32},
+			"2017-07": {"total":4016.32, "Care, Wellbeing & Learning":4016.32},
+			"2017-08": {"total":4016.32, "Care, Wellbeing & Learning":4016.32},
+			"2017-09": {"total":4016.32, "Care, Wellbeing & Learning":4016.32},
+			"2017-10": {"total":45756.52, "Care, Wellbeing & Learning":45756.52},
+			"2017-11": {"total":20554.70, "Care, Wellbeing & Learning":20554.70},
+			"2017-12": {"total":9581.68, "Care, Wellbeing & Learning":9581.68},
+			"2018-01": {"total":9581.68, "Care, Wellbeing & Learning":9581.68},
+			"2018-02": {"total":9581.68, "Care, Wellbeing & Learning":9581.68},
+			"2018-03": {"total":9581.68, "Care, Wellbeing & Learning":9581.68},
+			"2018-04": {"total":9581.68, "Care, Wellbeing & Learning":9581.68},
+			"2018-05": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-06": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-07": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-08": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-09": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-10": {"total":19198.16, "Care, Wellbeing & Learning":19198.16},
+			"2018-11": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2018-12": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-01": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-02": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-03": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-04": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-05": {"total":9599.08, "Care, Wellbeing & Learning":9599.08},
+			"2019-06": {"total":9643.38, "Care, Wellbeing & Learning":9643.38},
+			"2019-07": {"total":9616.80, "Care, Wellbeing & Learning":9616.80},
+			"2019-08": {"total":9616.80, "Care, Wellbeing & Learning":9616.80},
+			"2019-09": {"total":9616.80, "Care, Wellbeing & Learning":9616.80},
+			"2019-10": {"total":19233.60, "Care, Wellbeing & Learning":19233.60},
+			"2019-11": {"total":9616.80, "Care, Wellbeing & Learning":9616.80},
+			"2019-12": {"total":94592.49, "Children, Adults and Families":94592.49},
+			"2020-01": {"total":39027.99, "Care, Wellbeing & Learning":39027.99},
+			"2020-02": {"total":12596.56, "Care, Wellbeing & Learning":12596.56},
+			"2020-03": {"total":12596.56, "Care, Wellbeing & Learning":12596.56},
+			"2020-04": {"total":18921.00, "Care, Wellbeing & Learning":18921.00},
+			"2020-05": {"total":12622.72, "Children, Adults and Families":12622.72},
+			"2020-06": {"total":14362.72, "Children, Adults and Families":14362.72},
+			"2020-07": {"total":11462.72, "Children, Adults and Families":11462.72},
+			"2020-08": {"total":11462.72, "Children, Adults and Families":11462.72},
+			"2020-09": {"total":10233.60, "Children, Adults and Families":10233.60},
+			"2020-10": {"total":10233.60, "Children, Adults and Families":10233.60}
+		}
+	},
+	"5563": {
+		"name": "NORTON PROPERTIES LTD",
+		"total": 500,
+		"monthly": {
+			"2012-03": {"total":500.00, "Community Based Services":500.00}
+		}
+	},
+	"5564": {
+		"name": "NORWICH PUPPET THEATRE TRUST LTD",
+		"total": 2920,
+		"monthly": {
+			"2018-12": {"total":2920.00, "Corporate Resources":2920.00}
+		}
+	},
+	"5565": {
+		"name": "NORWOOD RAVENSWOOD SERVICES LTD",
+		"alternate-names": [
+			"NORWOOD RAVENSWOOD SERVICES LIMITED"
+		],
+		"total": 30600,
+		"monthly": {
+			"2010-12": {"total":5304.00, "Learning and Children":5304.00},
+			"2011-06": {"total":5712.00, "Learning and Children":5712.00},
+			"2011-11": {"total":5712.00, "Learning and Children":5712.00},
+			"2012-05": {"total":8568.00, "Learning and Children":8568.00},
+			"2012-06": {"total":1224.00, "Learning and Children":1224.00},
+			"2013-02": {"total":4080.00, "Learning and Children":4080.00}
+		}
+	},
+	"5566": {
+		"name": "NOT JUST A PRETTY FACE PAINT",
+		"total": 546.5,
+		"monthly": {
+			"2018-09": {"total":546.50, "Corporate Resources":546.50}
+		}
+	},
+	"5567": {
+		"name": "NOTTINGHAM REHAB LTD",
+		"total": 1272.2,
+		"monthly": {
+			"2014-01": {"total":449.95, "Community Based Services":449.95},
+			"2014-11": {"total":205.75, "Care, Wellbeing & Learning":205.75},
+			"2020-03": {"total":616.50, "Care, Wellbeing & Learning":616.50}
+		}
+	},
+	"5568": {
+		"name": "NOVA INTERNATIONAL LTD",
+		"total": 1132553.43,
+		"monthly": {
+			"2010-12": {"total":35000.00, "Community Based Services":35000.00},
+			"2011-08": {"total":30000.00, "Community Based Services":30000.00},
+			"2011-10": {"total":35000.00, "Community Based Services":35000.00},
+			"2012-03": {"total":15000.00, "Community Based Services":15000.00},
+			"2012-10": {"total":65000.00, "Community Based Services":65000.00},
+			"2012-11": {"total":2556.00, "Community Based Services":2556.00},
+			"2012-12": {"total":6774.00, "Community Based Services":6774.00},
+			"2013-03": {"total":3477.18, "Community Based Services":3477.18},
+			"2013-06": {"total":2996.25, "Community Based Services":2996.25},
+			"2013-07": {"total":35000.00, "Community Based Services":35000.00},
+			"2013-09": {"total":65000.00, "Community Based Services":65000.00},
+			"2013-10": {"total":281750.00, "Community Based Services":281750.00},
+			"2013-12": {"total":9000.00, "Community Based Services":9000.00},
+			"2014-03": {"total":66000.00, "Community Based Services":66000.00},
+			"2015-03": {"total":65000.00, "Communities & Enviroment":65000.00},
+			"2016-02": {"total":65000.00, "Communities & Environment":65000.00},
+			"2018-01": {"total":100000.00, "Corporate Resources":100000.00},
+			"2019-03": {"total":150000.00, "Corporate Resources":150000.00},
+			"2020-01": {"total":100000.00, "Corporate Resources":100000.00}
+		}
+	},
+	"5569": {
+		"name": "NOVAR SYSTEMS LTD",
+		"total": 19558.92,
+		"monthly": {
+			"2011-09": {"total":992.39, "Learning and Children":992.39},
+			"2012-03": {"total":6600.00, "Community Based Services":6600.00},
+			"2012-09": {"total":3900.00, "Community Based Services":3900.00},
+			"2012-10": {"total":1042.01, "Learning and Children":1042.01},
+			"2013-09": {"total":1094.11, "Learning and Children":1094.11},
+			"2014-05": {"total":5930.41, "Central Services":5930.41}
+		}
+	},
+	"5570": {
+		"name": "NOVOTEL UK LTD",
+		"total": 2841.66,
+		"monthly": {
+			"2015-07": {"total":2841.66, "Care, Wellbeing & Learning":2841.66}
+		}
+	},
+	"5571": {
+		"name": "NOVUS PROPERTY SOLUTIONS LTD",
+		"total": 33684.39,
+		"monthly": {
+			"2014-09": {"total":1979.22, "Local Environmental Services":1979.22},
+			"2016-09": {"total":31705.17, "Communities & Environment":31705.17}
+		}
+	},
+	"5572": {
+		"name": "NPC TRAINING LTD",
+		"total": 2880,
+		"monthly": {
+			"2011-09": {"total":2880.00, "Local Environmental Services":2880.00}
+		}
+	},
+	"5573": {
+		"name": "NPOWER",
+		"total": 39239519.09,
+		"monthly": {
+			"2010-12": {"total":207837.10, "Development & Enterprise":4915.81, "Full Authority":90490.84, "Local Environmental Services":112430.45},
+			"2011-01": {"total":584434.66, "Community Based Services":1031.17, "Development & Enterprise":123554.62, "Full Authority":455012.14, "Local Environmental Services":4836.73},
+			"2011-02": {"total":11578.77, "Development & Enterprise":8491.29, "Local Environmental Services":3087.48},
+			"2011-03": {"total":784838.63, "Community Based Services":5002.52, "Development & Enterprise":10901.21, "Full Authority":538487.83, "Local Environmental Services":230447.07},
+			"2011-04": {"total":317012.59, "Community Based Services":1886.79, "Development & Enterprise":10031.78, "Full Authority":184469.82, "Local Environmental Services":120624.20},
+			"2011-05": {"total":345030.76, "Community Based Services":524.04, "Development & Enterprise":4502.15, "Full Authority":302248.07, "Local Environmental Services":37756.50},
+			"2011-06": {"total":308121.29, "Community Based Services":1474.02, "Development & Enterprise":10118.89, "Full Authority":41844.65, "Learning and Children":867.13, "Local Environmental Services":253816.60},
+			"2011-07": {"total":341054.99, "Community Based Services":575.99, "Development & Enterprise":22327.12, "Full Authority":191407.92, "Local Environmental Services":126743.96},
+			"2011-08": {"total":385131.09, "Community Based Services":1133.39, "Development & Enterprise":5043.98, "Full Authority":248263.24, "Local Environmental Services":130690.48},
+			"2011-09": {"total":207826.13, "Development & Enterprise":769.37, "Full Authority":207056.76},
+			"2011-10": {"total":258466.40, "Community Based Services":1133.39, "Development & Enterprise":10665.64, "Full Authority":120086.96, "Local Environmental Services":126580.41},
+			"2011-11": {"total":191617.52, "Community Based Services":575.99, "Development & Enterprise":1941.95, "Full Authority":53882.35, "Local Environmental Services":135217.23},
+			"2011-12": {"total":506060.79, "Development & Enterprise":10647.60, "Full Authority":364604.54, "Local Environmental Services":130808.65},
+			"2012-01": {"total":137706.75, "Community Based Services":1133.39, "Development & Enterprise":904.16, "Full Authority":135007.97, "Local Environmental Services":661.23},
+			"2012-02": {"total":924781.76, "Community Based Services":574.41, "Development & Enterprise":49464.40, "Full Authority":488428.06, "Local Environmental Services":386314.89},
+			"2012-03": {"total":367057.85, "Community Based Services":505.20, "Development & Enterprise":8000.12, "Full Authority":237918.43, "Local Environmental Services":120634.10},
+			"2012-04": {"total":563739.83, "Community Based Services":1111.76, "Development & Enterprise":7738.58, "Full Authority":425477.88, "Local Environmental Services":129411.61},
+			"2012-05": {"total":325587.29, "Community Based Services":3262.87, "Development & Enterprise":5761.27, "Full Authority":163398.88, "Local Environmental Services":153164.27},
+			"2012-06": {"total":134869.76, "Community Based Services":1847.28, "Development & Enterprise":2175.00, "Full Authority":130489.23, "Local Environmental Services":358.25},
+			"2012-07": {"total":331847.47, "Community Based Services":559.49, "Development & Enterprise":12558.47, "Full Authority":164466.36, "Local Environmental Services":154263.15},
+			"2012-08": {"total":274126.13, "Development & Enterprise":1471.13, "Full Authority":123669.47, "Local Environmental Services":148985.53},
+			"2012-09": {"total":327456.60, "Development & Enterprise":527.75, "Full Authority":324465.31, "Learning and Children":1795.55, "Local Environmental Services":667.99},
+			"2012-10": {"total":634312.74, "Development & Enterprise":17649.75, "Full Authority":165640.34, "Local Environmental Services":451022.65},
+			"2012-11": {"total":329710.84, "Community Based Services":56137.52, "Development & Enterprise":8514.74, "Full Authority":111139.00, "Local Environmental Services":153919.58},
+			"2012-12": {"total":278146.90, "Development & Enterprise":7407.11, "Full Authority":122065.56, "Learning and Children":1176.76, "Local Environmental Services":147497.47},
+			"2013-01": {"total":715198.46, "Development & Enterprise":7592.39, "Full Authority":555175.49, "Local Environmental Services":152430.58},
+			"2013-02": {"total":354485.96, "Development & Enterprise":5420.54, "Full Authority":342799.94, "Learning and Children":2231.69, "Local Environmental Services":4033.79},
+			"2013-03": {"total":356361.83, "Community Based Services":665.73, "Development & Enterprise":8364.41, "Full Authority":205989.05, "Learning and Children":1667.62, "Local Environmental Services":139675.02},
+			"2013-04": {"total":445934.70, "Community Based Services":926.70, "Full Authority":445008.00},
+			"2013-05": {"total":125766.42, "Development & Enterprise":2827.85, "Full Authority":119644.80, "Local Environmental Services":3293.77},
+			"2013-06": {"total":100391.02, "Development & Enterprise":7680.58, "Full Authority":90781.07, "Local Environmental Services":1929.37},
+			"2013-07": {"total":910114.35, "Development & Enterprise":8483.34, "Full Authority":397241.47, "Local Environmental Services":504389.54},
+			"2013-08": {"total":438389.28, "Development & Enterprise":789.24, "Full Authority":434911.16, "Local Environmental Services":2688.88},
+			"2013-09": {"total":398732.63, "Development & Enterprise":1293.59, "Full Authority":275399.60, "Local Environmental Services":122039.44},
+			"2013-10": {"total":398123.41, "Development & Enterprise":14362.13, "Full Authority":383761.28},
+			"2013-11": {"total":309841.66, "Community Based Services":1135.40, "Development & Enterprise":7781.80, "Full Authority":182082.69, "Local Environmental Services":118841.77},
+			"2013-12": {"total":263610.80, "Development & Enterprise":12549.17, "Full Authority":191236.69, "Local Environmental Services":59824.94},
+			"2014-01": {"total":1847848.62, "Development & Enterprise":2765.14, "Full Authority":1675299.75, "Local Environmental Services":169783.73},
+			"2014-02": {"total":197515.44, "Development & Enterprise":9211.04, "Full Authority":130344.57, "Learning and Children":1788.67, "Local Environmental Services":56171.16},
+			"2014-03": {"total":323096.12, "Development & Enterprise":10946.52, "Full Authority":240886.21, "Local Environmental Services":71263.39},
+			"2014-04": {"total":423824.19, "Development & Enterprise":14678.71, "Full Authority":306738.74, "Local Environmental Services":102406.74},
+			"2014-05": {"total":169489.34, "Development & Enterprise":533.36, "Full Authority":114757.88, "Local Environmental Services":54198.10},
+			"2014-06": {"total":254607.99, "Community Based Services":462.99, "Development & Enterprise":1077.26, "Full Authority":150220.64, "Local Environmental Services":102847.10},
+			"2014-07": {"total":288862.86, "Development & Enterprise":3547.42, "Full Authority":284853.11, "Learning and Children":462.33},
+			"2014-08": {"total":376016.99, "Development & Enterprise":177199.43, "Full Authority":181593.94, "Local Environmental Services":17223.62},
+			"2014-09": {"total":160843.11, "Full Authority":156094.71, "Local Environmental Services":4748.40},
+			"2014-10": {"total":651639.61, "Development & Enterprise":10226.82, "Full Authority":227694.57, "Local Environmental Services":413718.22},
+			"2014-11": {"total":326920.65, "Communities & Enviroment":125887.35, "Corporate Services & Governance":10376.93, "Full Authority":190656.37},
+			"2014-12": {"total":213700.90, "Communities & Enviroment":5662.31, "Corporate Services & Governance":23381.78, "Full Authority":184656.81},
+			"2015-01": {"total":607255.16, "Communities & Enviroment":336449.27, "Full Authority":270805.89},
+			"2015-02": {"total":700186.70, "Communities & Enviroment":494315.75, "Full Authority":205870.95},
+			"2015-03": {"total":1470227.03, "Communities & Enviroment":1279689.74, "Corporate Services & Governance":2262.04, "Full Authority":188275.25},
+			"2015-04": {"total":658600.03, "Communities & Enviroment":333079.61, "Full Authority":325520.42},
+			"2015-05": {"total":143360.99, "Communities & Enviroment":474.28, "Full Authority":142886.71},
+			"2015-06": {"total":158069.49, "Communities & Environment":599.49, "Full Authority":157470.00},
+			"2015-07": {"total":497375.98, "Communities & Environment":259246.38, "Corporate Services & Governance":476.03, "Full Authority":237653.57},
+			"2015-08": {"total":284220.64, "Communities & Environment":121136.16, "Full Authority":163084.48},
+			"2015-09": {"total":251661.29, "Communities & Environment":108269.42, "Full Authority":143391.87},
+			"2015-10": {"total":340317.32, "Communities & Environment":120747.22, "Full Authority":219570.10},
+			"2015-11": {"total":46067.84, "Communities & Environment":46067.84},
+			"2015-12": {"total":388476.86, "Communities & Environment":204752.97, "Full Authority":183723.89},
+			"2016-01": {"total":258619.96, "Communities & Environment":2584.42, "Full Authority":256035.54},
+			"2016-02": {"total":392453.41, "Communities & Environment":211825.07, "Full Authority":180628.34},
+			"2016-03": {"total":204184.84, "Communities & Environment":20395.45, "Full Authority":183789.39},
+			"2016-04": {"total":462616.92, "Communities & Environment":167837.91, "Full Authority":294779.01},
+			"2016-05": {"total":372707.90, "Communities & Environment":227942.24, "Full Authority":144765.66},
+			"2016-06": {"total":170554.02, "Communities & Environment":23439.25, "Full Authority":147114.77},
+			"2016-07": {"total":312266.04, "Communities & Environment":205855.97, "Full Authority":106410.07},
+			"2016-08": {"total":568354.28, "Communities & Environment":338388.13, "Full Authority":229966.15},
+			"2016-09": {"total":151581.98, "Communities & Environment":15581.37, "Full Authority":136000.61},
+			"2016-10": {"total":537442.82, "Communities & Environment":345540.86, "Full Authority":191901.96},
+			"2016-11": {"total":179879.66, "Communities & Environment":21160.57, "Full Authority":158719.09},
+			"2016-12": {"total":343449.59, "Communities & Environment":160047.39, "Full Authority":183402.20},
+			"2017-01": {"total":611026.03, "Communities & Environment":398314.38, "Full Authority":212711.65},
+			"2017-02": {"total":30813.79, "Communities & Environment":618.41, "Full Authority":30195.38},
+			"2017-03": {"total":680967.70, "Communities & Environment":344821.60, "Full Authority":336146.10},
+			"2017-04": {"total":256999.37, "Full Authority":256999.37},
+			"2017-05": {"total":711796.21, "Communities & Environment":602590.89, "Full Authority":109205.32},
+			"2017-06": {"total":91205.90, "Communities & Environment":74864.62, "Full Authority":16341.28},
+			"2017-07": {"total":248732.05, "Communities & Environment":52494.78, "Full Authority":196237.27},
+			"2017-08": {"total":221416.65, "Communities & Environment":100271.80, "Full Authority":121144.85},
+			"2017-09": {"total":245274.38, "Communities & Environment":24006.31, "Full Authority":221268.07},
+			"2017-10": {"total":320158.01, "Communities & Environment":149840.72, "Full Authority":170317.29},
+			"2017-11": {"total":217475.49, "Communities & Environment":81552.58, "Full Authority":135922.91},
+			"2017-12": {"total":173161.56, "Communities & Environment":15456.81, "Full Authority":157704.75},
+			"2018-01": {"total":433788.76, "Communities & Environment":212759.79, "Corporate Resources":2509.17, "Full Authority":218519.80},
+			"2018-02": {"total":1023000.44, "Communities & Environment":857931.01, "Full Authority":165069.43},
+			"2018-03": {"total":398094.58, "Communities & Environment":398094.58},
+			"2018-04": {"total":510246.21, "Communities & Environment":112787.11, "Full Authority":397459.10},
+			"2018-05": {"total":17118.48, "Communities & Environment":17118.48},
+			"2018-06": {"total":297177.16, "Communities & Environment":90303.50, "Full Authority":206873.66},
+			"2018-07": {"total":391350.84, "Communities & Environment":317789.30, "Full Authority":73561.54},
+			"2018-08": {"total":445680.22, "Communities & Environment":421565.32, "Full Authority":24114.90},
+			"2018-09": {"total":395328.52, "Communities & Environment":131001.70, "Full Authority":264326.82},
+			"2018-10": {"total":168139.69, "Communities & Environment":20950.27, "Full Authority":147189.42},
+			"2018-11": {"total":186192.09, "Communities & Environment":66723.47, "Full Authority":119468.62},
+			"2018-12": {"total":294319.84, "Communities & Environment":166900.23, "Full Authority":127419.61},
+			"2019-01": {"total":209842.61, "Communities & Environment":15731.43, "Full Authority":194111.18},
+			"2019-02": {"total":549527.26, "Communities & Environment":366374.27, "Full Authority":183152.99},
+			"2019-03": {"total":47579.44, "Communities & Environment":9146.50, "Corporate Services & Governance":9875.36, "Full Authority":28557.58},
+			"2019-04": {"total":137682.38, "Communities & Environment":23263.70, "Full Authority":114418.68},
+			"2019-05": {"total":760736.04, "Communities & Environment":5231.45, "Full Authority":755504.59},
+			"2019-06": {"total":387894.35, "Communities & Environment":387894.35},
+			"2019-07": {"total":18285.95, "Care, Wellbeing & Learning":1233.24, "Communities & Environment":1267.76, "Corporate Resources":587.17, "Corporate Services & Governance":917.58, "Full Authority":14280.20},
+			"2019-09": {"total":6049.25, "Communities & Environment":6049.25},
+			"2019-10": {"total":2395.30, "Communities & Environment":1811.72, "Full Authority":583.58},
+			"2019-11": {"total":9952.43, "Communities & Environment":9952.43},
+			"2019-12": {"total":1255.56, "Housing, Environment and Healthy Communities":1255.56},
+			"2020-01": {"total":1819.02, "Corporate Resources":1819.02},
+			"2020-04": {"total":1253.06, "Communities & Environment":1253.06},
+			"2020-06": {"total":2728.21, "Housing, Environment and Healthy Communities":2728.21},
+			"2020-08": {"total":17352.44, "Housing, Environment and Healthy Communities":17352.44},
+			"2020-09": {"total":49879.15, "Housing, Environment and Healthy Communities":9882.10, "Full Authority":39997.05},
+			"2020-10": {"total":36220.94, "Housing, Environment and Healthy Communities":36220.94}
+		}
+	},
+	"5574": {
+		"name": "NPOWER LTD",
+		"total": 885697.75,
+		"monthly": {
+			"2011-09": {"total":881.64, "Local Environmental Services":881.64},
+			"2013-08": {"total":571.61, "Community Based Services":571.61},
+			"2013-09": {"total":2667.91, "Community Based Services":1497.89, "Local Environmental Services":1170.02},
+			"2013-10": {"total":1829.93, "Community Based Services":1829.93},
+			"2014-01": {"total":521.73, "Community Based Services":521.73},
+			"2014-03": {"total":393399.12, "Local Environmental Services":393399.12},
+			"2014-04": {"total":420.65, "Community Based Services":420.65},
+			"2014-05": {"total":2265.72, "Community Based Services":453.15, "Local Environmental Services":1812.57},
+			"2014-06": {"total":3791.72, "Local Environmental Services":3791.72},
+			"2014-08": {"total":43137.56, "Local Environmental Services":43137.56},
+			"2014-09": {"total":150078.25, "Community Based Services":469.08, "Local Environmental Services":149609.17},
+			"2014-10": {"total":1618.44, "Community Based Services":1618.44},
+			"2014-11": {"total":380.95, "Communities & Enviroment":380.95},
+			"2015-01": {"total":94708.33, "Communities & Enviroment":94708.33},
+			"2015-02": {"total":2567.95, "Care, Wellbeing & Learning":2035.60, "Communities & Enviroment":532.35},
+			"2015-04": {"total":759.25, "Care, Wellbeing & Learning":759.25},
+			"2015-06": {"total":1547.58, "Communities & Environment":1547.58},
+			"2015-07": {"total":1127.33, "Care, Wellbeing & Learning":651.30, "Corporate Services & Governance":476.03},
+			"2015-08": {"total":651.30, "Care, Wellbeing & Learning":651.30},
+			"2015-11": {"total":170122.00, "Full Authority":170122.00},
+			"2015-12": {"total":904.06, "Care, Wellbeing & Learning":485.01, "Communities & Environment":419.05},
+			"2016-03": {"total":609.52, "Communities & Environment":609.52},
+			"2016-04": {"total":535.74, "Communities & Environment":535.74},
+			"2016-10": {"total":407.83, "Care, Wellbeing & Learning":407.83},
+			"2017-03": {"total":540.12, "Care, Wellbeing & Learning":540.12},
+			"2017-04": {"total":540.12, "Care, Wellbeing & Learning":540.12},
+			"2017-06": {"total":480.63, "Care, Wellbeing & Learning":480.63},
+			"2017-09": {"total":3840.06, "Communities & Environment":3840.06},
+			"2018-05": {"total":1823.64, "Care, Wellbeing & Learning":1823.64},
+			"2018-07": {"total":758.88, "Care, Wellbeing & Learning":758.88},
+			"2018-08": {"total":686.65, "Corporate Services & Governance":686.65},
+			"2019-01": {"total":419.66, "Corporate Services & Governance":419.66},
+			"2019-03": {"total":1101.87, "Corporate Services & Governance":1101.87}
+		}
+	},
+	"5575": {
+		"name": "NPOWER NORTHERN LTD",
+		"total": 2259.9,
+		"monthly": {
+			"2012-01": {"total":1186.55, "Learning and Children":1186.55},
+			"2013-04": {"total":664.06, "Community Based Services":664.06},
+			"2014-04": {"total":409.29, "Local Environmental Services":409.29}
+		}
+	},
+	"5576": {
+		"name": "NPS MEDIA LTD",
+		"total": 2828,
+		"monthly": {
+			"2020-07": {"total":1328.00, "Corporate Services & Governance":1328.00},
+			"2020-09": {"total":1500.00, "Corporate Services & Governance":1500.00}
+		}
+	},
+	"5577": {
+		"name": "NPower",
+		"total": 3865.83,
+		"monthly": {
+			"2011-08": {"total":3865.83, "Local Environmental Services":3865.83}
+		}
+	},
+	"5578": {
+		"name": "NRJ SOLUTIONS",
+		"total": 19475,
+		"monthly": {
+			"2018-05": {"total":4275.00, "Care, Wellbeing & Learning":4275.00},
+			"2018-06": {"total":4275.00, "Care, Wellbeing & Learning":4275.00},
+			"2018-07": {"total":4275.00, "Care, Wellbeing & Learning":4275.00},
+			"2018-08": {"total":4275.00, "Care, Wellbeing & Learning":4275.00},
+			"2018-09": {"total":1425.00, "Care, Wellbeing & Learning":1425.00},
+			"2018-10": {"total":950.00, "Care, Wellbeing & Learning":950.00}
+		}
+	},
+	"5579": {
+		"name": "NSL LTD",
+		"total": 675,
+		"monthly": {
+			"2011-02": {"total":675.00, "Development & Enterprise":675.00}
+		}
+	},
+	"5580": {
+		"name": "NSPCC REGISTERED CHARITY",
+		"total": 5020,
+		"monthly": {
+			"2013-08": {"total":820.00, "Learning and Children":820.00},
+			"2013-11": {"total":2200.00, "Learning and Children":2200.00},
+			"2014-07": {"total":2000.00, "Learning and Children":2000.00}
+		}
+	},
+	"5581": {
+		"name": "NSR MANAGEMENT LTD",
+		"total": 1195,
+		"monthly": {
+			"2010-12": {"total":1195.00, "Local Environmental Services":1195.00}
+		}
+	},
+	"5582": {
+		"name": "NST TRAVEL GROUP PLC",
+		"total": 17972,
+		"monthly": {
+			"2011-02": {"total":3200.00, "Learning and Children":3200.00},
+			"2011-05": {"total":14772.00, "Learning and Children":14772.00}
+		}
+	},
+	"5583": {
+		"name": "NT STEEL SERVICES LTD",
+		"total": 8379.44,
+		"monthly": {
+			"2014-04": {"total":405.00, "Local Environmental Services":405.00},
+			"2014-07": {"total":1103.40, "Local Environmental Services":1103.40},
+			"2016-12": {"total":1171.20, "Communities & Environment":1171.20},
+			"2018-02": {"total":429.84, "Communities & Environment":429.84},
+			"2018-04": {"total":3500.00, "Communities & Environment":3500.00},
+			"2018-08": {"total":1770.00, "Communities & Environment":1770.00}
+		}
+	},
+	"5584": {
+		"name": "NTA MONITOR LTD",
+		"total": 58051.31,
+		"monthly": {
+			"2011-05": {"total":4645.20, "Central Services":4645.20},
+			"2012-05": {"total":5422.45, "Central Services":5422.45},
+			"2013-07": {"total":8436.97, "Central Services":8436.97},
+			"2014-04": {"total":2250.00, "Central Services":2250.00},
+			"2014-06": {"total":8638.60, "Central Services":8638.60},
+			"2015-06": {"total":1450.00, "Corporate Resources":1450.00},
+			"2016-02": {"total":5625.00, "Policy, Economic Growth and Transformation":3000.00, "Central Services":2625.00},
+			"2016-08": {"total":7804.09, "Corporate Resources":7804.09},
+			"2017-09": {"total":1163.00, "Communities & Environment":1163.00},
+			"2017-10": {"total":3100.00, "Communities & Environment":3100.00},
+			"2017-12": {"total":3660.00, "Corporate Resources":3660.00},
+			"2018-03": {"total":1098.00, "Corporate Resources":1098.00},
+			"2018-05": {"total":2196.00, "Corporate Resources":2196.00},
+			"2018-10": {"total":2562.00, "Corporate Resources":2562.00}
+		}
+	},
+	"5585": {
+		"name": "NTC MICROCAD",
+		"total": 33635,
+		"monthly": {
+			"2011-06": {"total":17045.00, "Development & Enterprise":17045.00},
+			"2012-03": {"total":350.00, "Development & Enterprise":350.00},
+			"2012-08": {"total":16240.00, "Development & Enterprise":16240.00}
+		}
+	},
+	"5586": {
+		"name": "NTC TOURING THEATRE CO LTD",
+		"total": 695,
+		"monthly": {
+			"2012-01": {"total":695.00, "Community Based Services":695.00}
+		}
+	},
+	"5587": {
+		"name": "NTE LTD",
+		"total": 13725.55,
+		"monthly": {
+			"2011-02": {"total":672.40, "Central Services":672.40},
+			"2011-03": {"total":836.90, "Central Services":836.90},
+			"2011-06": {"total":1738.50, "Central Services":1738.50},
+			"2012-07": {"total":1815.00, "Central Services":1815.00},
+			"2012-08": {"total":741.50, "Central Services":741.50},
+			"2012-10": {"total":2500.00, "Community Based Services":2500.00},
+			"2015-02": {"total":400.50, "Corporate Resources":400.50},
+			"2017-03": {"total":3476.00, "Care, Wellbeing & Learning":3476.00},
+			"2019-12": {"total":601.25, "Children, Adults and Families":601.25},
+			"2020-04": {"total":943.50, "Care, Wellbeing & Learning":943.50}
+		}
+	},
+	"5588": {
 		"name": "NTM LINKTIP LTD",
 		"total": 96033.45,
 		"monthly": {
@@ -9,7 +963,7 @@
 			"2015-03": {"total":703.45, "Communities & Enviroment":703.45}
 		}
 	},
-	"5551": {
+	"5589": {
 		"name": "NTW NHS FOUNDATION TRUST",
 		"total": 9092600.73999999,
 		"monthly": {
@@ -50,21 +1004,21 @@
 			"2014-03": {"total":678682.67, "Community Based Services":678682.67}
 		}
 	},
-	"5552": {
+	"5590": {
 		"name": "NTW SU & C NETWORK",
 		"total": 1500,
 		"monthly": {
 			"2012-03": {"total":1500.00, "Community Based Services":1500.00}
 		}
 	},
-	"5553": {
+	"5591": {
 		"name": "NU NETWORK PRODUCTS LTD",
 		"total": 1559,
 		"monthly": {
 			"2011-07": {"total":1559.00, "Learning and Children":1559.00}
 		}
 	},
-	"5554": {
+	"5592": {
 		"name": "NU-WAY LTD",
 		"total": 1624.17,
 		"monthly": {
@@ -73,14 +1027,14 @@
 			"2012-02": {"total":360.00, "Local Environmental Services":360.00}
 		}
 	},
-	"5555": {
+	"5593": {
 		"name": "NUCO TRAINING LTD",
 		"total": 447.5,
 		"monthly": {
 			"2016-08": {"total":447.50, "Care, Wellbeing & Learning":447.50}
 		}
 	},
-	"5556": {
+	"5594": {
 		"name": "NUDGE EDUCATION LTD",
 		"total": 3825,
 		"monthly": {
@@ -89,7 +1043,7 @@
 			"2019-05": {"total":1425.00, "Care, Wellbeing & Learning":1425.00}
 		}
 	},
-	"5557": {
+	"5595": {
 		"name": "NUEVA VIDA",
 		"total": 54899.99,
 		"monthly": {
@@ -98,7 +1052,7 @@
 			"2019-12": {"total":9285.71, "Children, Adults and Families":9285.71}
 		}
 	},
-	"5558": {
+	"5596": {
 		"name": "NUFINS LTD",
 		"total": 5877.34,
 		"monthly": {
@@ -113,14 +1067,14 @@
 			"2018-04": {"total":504.00, "Communities & Environment":504.00}
 		}
 	},
-	"5559": {
+	"5597": {
 		"name": "NUGENT CARE",
 		"total": 2151,
 		"monthly": {
 			"2015-07": {"total":2151.00, "Care, Wellbeing & Learning":2151.00}
 		}
 	},
-	"5560": {
+	"5598": {
 		"name": "NUMATIC INTERNATIONAL LTD",
 		"total": 6842.97,
 		"monthly": {
@@ -131,7 +1085,7 @@
 			"2020-03": {"total":2541.14, "Corporate Resources":2541.14}
 		}
 	},
-	"5561": {
+	"5599": {
 		"name": "NUNEATON SIGNS",
 		"total": 4495.91,
 		"monthly": {
@@ -140,644 +1094,6 @@
 			"2013-01": {"total":424.00, "Local Environmental Services":424.00},
 			"2013-03": {"total":1340.84, "Local Environmental Services":1340.84},
 			"2016-08": {"total":386.00, "Communities & Environment":386.00}
-		}
-	},
-	"5562": {
-		"name": "NUNNYKIRK CENTRE FOR DYSLEXIA",
-		"total": 172811.19,
-		"monthly": {
-			"2010-12": {"total":7270.00, "Learning and Children":7270.00},
-			"2011-04": {"total":7270.00, "Learning and Children":7270.00},
-			"2011-07": {"total":7270.00, "Learning and Children":7270.00},
-			"2012-01": {"total":7270.00, "Learning and Children":7270.00},
-			"2012-04": {"total":7270.00, "Learning and Children":7270.00},
-			"2012-08": {"total":7270.00, "Learning and Children":7270.00},
-			"2013-01": {"total":7840.00, "Learning and Children":7840.00},
-			"2013-09": {"total":4507.00, "Learning and Children":4507.00},
-			"2014-02": {"total":24775.05, "Learning and Children":24775.05},
-			"2014-05": {"total":14183.36, "Learning and Children":14183.36},
-			"2014-10": {"total":11816.33, "Learning and Children":11816.33},
-			"2015-01": {"total":11816.33, "Care, Wellbeing & Learning":11816.33},
-			"2015-04": {"total":11816.33, "Care, Wellbeing & Learning":11816.33},
-			"2015-09": {"total":6092.66, "Care, Wellbeing & Learning":6092.66},
-			"2016-01": {"total":6092.66, "Care, Wellbeing & Learning":6092.66},
-			"2016-04": {"total":3216.33, "Care, Wellbeing & Learning":3216.33},
-			"2016-10": {"total":2561.23, "Care, Wellbeing & Learning":2561.23},
-			"2017-01": {"total":2561.63, "Care, Wellbeing & Learning":2561.63},
-			"2017-04": {"total":2561.63, "Care, Wellbeing & Learning":2561.63},
-			"2017-06": {"total":4967.00, "Care, Wellbeing & Learning":4967.00},
-			"2017-11": {"total":4794.53, "Care, Wellbeing & Learning":4794.53},
-			"2017-12": {"total":4794.56, "Care, Wellbeing & Learning":4794.56},
-			"2018-04": {"total":4794.56, "Care, Wellbeing & Learning":4794.56}
-		}
-	},
-	"5563": {
-		"name": "NURTURE US",
-		"total": 1425,
-		"monthly": {
-			"2011-03": {"total":450.00, "Learning and Children":450.00},
-			"2011-05": {"total":450.00, "Learning and Children":450.00},
-			"2013-11": {"total":525.00, "Learning and Children":525.00}
-		}
-	},
-	"5564": {
-		"name": "NURTURED CARE",
-		"total": 63972.35,
-		"monthly": {
-			"2017-10": {"total":4930.77, "Care, Wellbeing & Learning":4930.77},
-			"2017-11": {"total":13054.80, "Care, Wellbeing & Learning":13054.80},
-			"2017-12": {"total":17199.57, "Care, Wellbeing & Learning":17199.57},
-			"2018-01": {"total":13511.89, "Care, Wellbeing & Learning":13511.89},
-			"2018-02": {"total":15275.32, "Care, Wellbeing & Learning":15275.32}
-		}
-	},
-	"5565": {
-		"name": "NURTURED CARE NE LTD",
-		"total": 846424.14,
-		"monthly": {
-			"2018-07": {"total":632.22, "Care, Wellbeing & Learning":632.22},
-			"2018-08": {"total":4641.42, "Care, Wellbeing & Learning":4641.42},
-			"2018-09": {"total":3669.96, "Care, Wellbeing & Learning":3669.96},
-			"2018-10": {"total":5728.53, "Care, Wellbeing & Learning":5728.53},
-			"2018-11": {"total":12128.66, "Care, Wellbeing & Learning":12128.66},
-			"2018-12": {"total":13720.13, "Care, Wellbeing & Learning":13720.13},
-			"2019-01": {"total":19043.94, "Care, Wellbeing & Learning":19043.94},
-			"2019-02": {"total":17514.87, "Care, Wellbeing & Learning":17514.87},
-			"2019-03": {"total":35445.59, "Care, Wellbeing & Learning":35445.59},
-			"2019-04": {"total":30395.86, "Care, Wellbeing & Learning":30395.86},
-			"2019-05": {"total":35350.11, "Care, Wellbeing & Learning":35350.11},
-			"2019-06": {"total":35700.86, "Care, Wellbeing & Learning":35700.86},
-			"2019-07": {"total":39606.60, "Care, Wellbeing & Learning":39606.60},
-			"2019-08": {"total":41780.93, "Care, Wellbeing & Learning":41780.93},
-			"2019-09": {"total":41163.37, "Care, Wellbeing & Learning":41163.37},
-			"2019-10": {"total":35538.66, "Care, Wellbeing & Learning":35538.66},
-			"2019-11": {"total":34470.22, "Care, Wellbeing & Learning":34470.22},
-			"2019-12": {"total":32465.34, "Children, Adults and Families":32465.34},
-			"2020-01": {"total":61464.86, "Care, Wellbeing & Learning":61464.86},
-			"2020-02": {"total":27805.56, "Care, Wellbeing & Learning":27805.56},
-			"2020-03": {"total":30937.51, "Care, Wellbeing & Learning":30937.51},
-			"2020-04": {"total":52289.54, "Care, Wellbeing & Learning":52289.54},
-			"2020-05": {"total":54528.18, "Children, Adults and Families":54528.18},
-			"2020-06": {"total":70072.80, "Children, Adults and Families":70072.80},
-			"2020-07": {"total":52986.27, "Children, Adults and Families":52986.27},
-			"2020-08": {"total":57342.15, "Children, Adults and Families":57342.15}
-		}
-	},
-	"5566": {
-		"name": "NURTURING TEAM",
-		"total": 1800,
-		"monthly": {
-			"2017-04": {"total":1800.00, "Care, Wellbeing & Learning":1800.00}
-		}
-	},
-	"5567": {
-		"name": "NUSAFE EUROPE LTD",
-		"alternate-names": [
-			"NUSAFE EUROPE LIMITED"
-		],
-		"total": 219996.66,
-		"monthly": {
-			"2016-04": {"total":5772.80, "Communities & Environment":5772.80},
-			"2016-06": {"total":5978.61, "Communities & Environment":5978.61},
-			"2016-08": {"total":6347.75, "Communities & Environment":6347.75},
-			"2016-10": {"total":5008.32, "Communities & Environment":5008.32},
-			"2016-11": {"total":2593.85, "Communities & Environment":2593.85},
-			"2017-01": {"total":8389.59, "Care, Wellbeing & Learning":716.87, "Communities & Environment":7672.72},
-			"2017-02": {"total":3752.89, "Care, Wellbeing & Learning":1734.97, "Communities & Environment":2017.92},
-			"2017-03": {"total":61687.13, "Care, Wellbeing & Learning":8647.99, "Communities & Environment":53039.14},
-			"2017-05": {"total":5018.20, "Communities & Environment":5018.20},
-			"2017-06": {"total":4918.88, "Communities & Environment":4918.88},
-			"2017-07": {"total":6671.94, "Communities & Environment":6671.94},
-			"2017-08": {"total":3013.20, "Corporate Resources":3013.20},
-			"2017-09": {"total":13398.68, "Communities & Environment":13398.68},
-			"2017-10": {"total":11203.26, "Communities & Environment":2815.93, "Corporate Resources":8387.33},
-			"2017-11": {"total":3448.25, "Communities & Environment":683.05, "Corporate Resources":2765.20},
-			"2017-12": {"total":619.21, "Communities & Environment":619.21},
-			"2018-01": {"total":3983.19, "Communities & Environment":2815.91, "Corporate Resources":1167.28},
-			"2018-02": {"total":1003.88, "Corporate Resources":1003.88},
-			"2018-03": {"total":13981.32, "Care, Wellbeing & Learning":11639.35, "Corporate Resources":2341.97},
-			"2018-04": {"total":1652.93, "Care, Wellbeing & Learning":912.50, "Corporate Resources":740.43},
-			"2018-06": {"total":44311.53, "Communities & Environment":43589.33, "Corporate Resources":722.20},
-			"2018-08": {"total":1554.85, "Communities & Environment":1103.55, "Corporate Resources":451.30},
-			"2018-10": {"total":1735.08, "Communities & Environment":1735.08},
-			"2018-11": {"total":1877.76, "Communities & Environment":779.16, "Corporate Resources":1098.60},
-			"2018-12": {"total":860.96, "Communities & Environment":425.36, "Corporate Resources":435.60},
-			"2019-02": {"total":1212.60, "Communities & Environment":1212.60}
-		}
-	},
-	"5568": {
-		"name": "NVT GROUP LTD",
-		"alternate-names": [
-			"NVT GROUP LIMITED"
-		],
-		"total": 19208,
-		"monthly": {
-			"2011-08": {"total":737.50, "Central Services":737.50},
-			"2011-11": {"total":1787.50, "Central Services":1787.50},
-			"2011-12": {"total":16683.00, "Central Services":16683.00}
-		}
-	},
-	"5569": {
-		"name": "NWG BUSINESS",
-		"total": 543232.94,
-		"monthly": {
-			"2017-06": {"total":2106.33, "Communities & Environment":2106.33},
-			"2017-07": {"total":3027.38, "Communities & Environment":3027.38},
-			"2017-08": {"total":5088.20, "Corporate Resources":814.78, "Corporate Services & Governance":4273.42},
-			"2017-09": {"total":16207.93, "Communities & Environment":16207.93},
-			"2017-10": {"total":4420.05, "Corporate Services & Governance":4420.05},
-			"2017-11": {"total":499033.01, "Communities & Environment":3823.12, "Full Authority":495209.89},
-			"2017-12": {"total":8432.96, "Communities & Environment":7204.98, "Corporate Services & Governance":1227.98},
-			"2018-01": {"total":4917.08, "Communities & Environment":2716.17, "Corporate Services & Governance":2200.91}
-		}
-	},
-	"5570": {
-		"name": "NWG BUSINESS T/A WAVE",
-		"total": 3061161.53,
-		"monthly": {
-			"2018-02": {"total":183163.59, "Full Authority":183163.59},
-			"2018-03": {"total":77016.07, "Communities & Environment":7146.14, "Full Authority":69869.93},
-			"2018-04": {"total":63480.51, "Communities & Environment":4408.86, "Corporate Resources":732.01, "Full Authority":58339.64},
-			"2018-05": {"total":80499.59, "Communities & Environment":938.28, "Corporate Services & Governance":1596.35, "Full Authority":77964.96},
-			"2018-06": {"total":337447.00, "Communities & Environment":5572.57, "Full Authority":331874.43},
-			"2018-07": {"total":88744.07, "Communities & Environment":4217.15, "Corporate Resources":566.49, "Full Authority":83960.43},
-			"2018-08": {"total":149317.39, "Communities & Environment":1008.62, "Corporate Services & Governance":6630.84, "Full Authority":141677.93},
-			"2018-09": {"total":104442.51, "Communities & Environment":3601.30, "Full Authority":100841.21},
-			"2018-10": {"total":167968.88, "Communities & Environment":3489.39, "Full Authority":164479.49},
-			"2018-11": {"total":613.18, "Corporate Services & Governance":613.18},
-			"2018-12": {"total":167685.49, "Full Authority":167685.49},
-			"2019-01": {"total":122699.57, "Communities & Environment":44790.96, "Corporate Services & Governance":6007.21, "Full Authority":71901.40},
-			"2019-02": {"total":66220.03, "Communities & Environment":962.09, "Full Authority":65257.94},
-			"2019-03": {"total":72161.89, "Communities & Environment":1714.18, "Full Authority":70447.71},
-			"2019-04": {"total":85448.61, "Communities & Environment":4130.16, "Corporate Services & Governance":2137.93, "Full Authority":79180.52},
-			"2019-05": {"total":1039.63, "Communities & Environment":1039.63},
-			"2019-06": {"total":97423.05, "Communities & Environment":3398.37, "Corporate Resources":16523.03, "Corporate Services & Governance":823.67, "Full Authority":76677.98},
-			"2019-07": {"total":190419.73, "Communities & Environment":3163.54, "Corporate Resources":31099.94, "Corporate Services & Governance":5441.91, "Full Authority":150714.34},
-			"2019-08": {"total":76437.82, "Communities & Environment":936.69, "Full Authority":75501.13},
-			"2019-09": {"total":83641.12, "Communities & Environment":1156.37, "Full Authority":82484.75},
-			"2019-10": {"total":40914.91, "Communities & Environment":3175.25, "Corporate Resources":528.42, "Full Authority":37211.24},
-			"2019-11": {"total":85865.50, "Communities & Environment":998.00, "Corporate Services & Governance":558.67, "Full Authority":84308.83},
-			"2019-12": {"total":73888.77, "Housing, Environment and Healthy Communities":1156.37, "Full Authority":72732.40},
-			"2020-01": {"total":74612.21, "Communities & Environment":2861.84, "Full Authority":71750.37},
-			"2020-02": {"total":146716.00, "Full Authority":146716.00},
-			"2020-03": {"total":120729.76, "Communities & Environment":1776.66, "Full Authority":118953.10},
-			"2020-04": {"total":83142.50, "Communities & Environment":1998.28, "Corporate Resources":502.19, "Full Authority":80642.03},
-			"2020-05": {"total":91869.17, "Economy, Innovation and Growth":1603.19, "Housing, Environment and Healthy Communities":2897.40, "Full Authority":62018.20, "Public Health and Wellbeing":25350.38},
-			"2020-06": {"total":59163.25, "Housing, Environment and Healthy Communities":1021.99, "Full Authority":48536.40, "Public Health and Wellbeing":9604.86},
-			"2020-07": {"total":67606.99, "Housing, Environment and Healthy Communities":2751.20, "Full Authority":64855.79},
-			"2020-08": {"total":782.74, "Economy, Innovation and Growth":782.74}
-		}
-	},
-	"5571": {
-		"name": "NWG NETWORK",
-		"total": 3000,
-		"monthly": {
-			"2015-04": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2016-05": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2017-05": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2018-10": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2019-08": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2020-07": {"total":500.00, "Children, Adults and Families":500.00}
-		}
-	},
-	"5572": {
-		"name": "National Association of Councillors English Region",
-		"total": 4425,
-		"monthly": {
-			"2012-02": {"total":3025.00, "Central Services":3025.00},
-			"2012-05": {"total":1400.00, "Central Services":1400.00}
-		}
-	},
-	"5573": {
-		"name": "O C R CAMBRIDGE",
-		"total": 13346.3,
-		"monthly": {
-			"2011-01": {"total":660.00, "Learning and Children":660.00},
-			"2011-02": {"total":506.00, "Learning and Children":506.00},
-			"2011-03": {"total":1550.00, "Learning and Children":1550.00},
-			"2011-04": {"total":600.00, "Learning and Children":600.00},
-			"2011-09": {"total":2660.00, "Learning and Children":2660.00},
-			"2011-12": {"total":1267.20, "Learning and Children":1267.20},
-			"2012-06": {"total":476.00, "Learning and Children":476.00},
-			"2012-07": {"total":780.00, "Learning and Children":780.00},
-			"2012-11": {"total":428.00, "Learning and Children":428.00},
-			"2017-10": {"total":515.00, "Care, Wellbeing & Learning":515.00},
-			"2017-11": {"total":1141.20, "Care, Wellbeing & Learning":1141.20},
-			"2018-09": {"total":530.00, "Care, Wellbeing & Learning":530.00},
-			"2018-11": {"total":980.50, "Care, Wellbeing & Learning":980.50},
-			"2019-06": {"total":662.40, "Care, Wellbeing & Learning":662.40},
-			"2019-09": {"total":590.00, "Care, Wellbeing & Learning":590.00}
-		}
-	},
-	"5574": {
-		"name": "O'BRIEN LICENSING & TRAINING SERVICES",
-		"total": 2450,
-		"monthly": {
-			"2011-07": {"total":2450.00, "Development & Enterprise":2450.00}
-		}
-	},
-	"5575": {
-		"name": "O'BRIEN WASTE RECYCLING SOLUTIONS LTD",
-		"total": 2910,
-		"monthly": {
-			"2017-02": {"total":795.00, "Communities & Environment":795.00},
-			"2017-03": {"total":1590.00, "Communities & Environment":1590.00},
-			"2017-08": {"total":525.00, "Communities & Environment":525.00}
-		}
-	},
-	"5576": {
-		"name": "O'BRIENS",
-		"total": 599.99,
-		"monthly": {
-			"2019-08": {"total":599.99, "Care, Wellbeing & Learning":599.99}
-		}
-	},
-	"5577": {
-		"name": "O'CONNOR ROOFING SERVICES",
-		"total": 3688.88,
-		"monthly": {
-			"2015-04": {"total":1372.88, "Communities & Enviroment":1372.88},
-			"2017-01": {"total":2316.00, "Communities & Environment":2316.00}
-		}
-	},
-	"5578": {
-		"name": "O'NEILL RICHMONDS LAW FIRM LTD",
-		"total": 1500,
-		"monthly": {
-			"2016-10": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
-		}
-	},
-	"5579": {
-		"name": "O2 (UK) LTD",
-		"total": 2393583.29000001,
-		"monthly": {
-			"2010-12": {"total":728.37, "Learning and Children":728.37},
-			"2011-01": {"total":1768.09, "Central Services":489.53, "Development & Enterprise":476.74, "Learning and Children":801.82},
-			"2011-02": {"total":723.67, "Learning and Children":723.67},
-			"2011-03": {"total":1466.68, "Central Services":627.00, "Learning and Children":839.68},
-			"2011-04": {"total":738.96, "Learning and Children":738.96},
-			"2011-05": {"total":927.38, "Central Services":195.19, "Learning and Children":17.80, "Local Environmental Services":714.39},
-			"2011-06": {"total":740.16, "Learning and Children":740.16},
-			"2011-08": {"total":680.00, "Central Services":680.00},
-			"2011-09": {"total":2664.27, "Central Services":493.81, "Community Based Services":144.44, "Development & Enterprise":186.42, "Learning and Children":252.17, "Local Environmental Services":1587.43},
-			"2011-10": {"total":6840.85, "Central Services":86.33, "Community Based Services":2296.28, "Development & Enterprise":513.88, "Learning and Children":945.96, "Local Environmental Services":2998.40},
-			"2011-12": {"total":3413.13, "Central Services":45.34, "Community Based Services":1040.20, "Development & Enterprise":278.32, "Learning and Children":708.76, "Local Environmental Services":1340.51},
-			"2012-01": {"total":8587.96, "Central Services":287.12, "Community Based Services":2342.19, "Development & Enterprise":576.63, "Learning and Children":1339.87, "Local Environmental Services":4042.15},
-			"2012-02": {"total":12224.22, "Central Services":1639.97, "Community Based Services":2981.53, "Development & Enterprise":957.26, "Learning and Children":3001.92, "Local Environmental Services":3643.54},
-			"2012-03": {"total":19536.03, "Central Services":2162.76, "Community Based Services":4783.87, "Development & Enterprise":1725.92, "Learning and Children":4208.67, "Local Environmental Services":6654.81},
-			"2012-05": {"total":9505.37, "Central Services":1019.22, "Community Based Services":2386.35, "Development & Enterprise":699.01, "Learning and Children":2069.67, "Local Environmental Services":3331.12},
-			"2012-06": {"total":9702.40, "Central Services":1006.71, "Community Based Services":2461.93, "Development & Enterprise":660.01, "Learning and Children":2110.28, "Local Environmental Services":3463.47},
-			"2012-07": {"total":13000.31, "Central Services":4418.25, "Community Based Services":2275.07, "Development & Enterprise":693.18, "Learning and Children":2301.76, "Local Environmental Services":3312.05},
-			"2012-08": {"total":10912.65, "Central Services":1219.48, "Community Based Services":2572.61, "Development & Enterprise":741.22, "Learning and Children":2203.16, "Local Environmental Services":4176.18},
-			"2012-09": {"total":14471.19, "Central Services":4838.97, "Community Based Services":2562.88, "Development & Enterprise":698.73, "Learning and Children":2040.89, "Local Environmental Services":4329.72},
-			"2012-10": {"total":9564.67, "Central Services":1014.39, "Community Based Services":2197.54, "Development & Enterprise":640.73, "Learning and Children":1945.83, "Local Environmental Services":3766.18},
-			"2012-11": {"total":10272.07, "Central Services":1017.92, "Community Based Services":2313.70, "Development & Enterprise":706.08, "Learning and Children":2264.07, "Local Environmental Services":3970.30},
-			"2012-12": {"total":10598.69, "Central Services":992.51, "Community Based Services":2364.73, "Development & Enterprise":648.06, "Learning and Children":2420.53, "Local Environmental Services":4172.86},
-			"2013-01": {"total":20433.40, "Central Services":1948.65, "Community Based Services":4859.09, "Development & Enterprise":1404.48, "Learning and Children":4626.50, "Local Environmental Services":7594.68},
-			"2013-03": {"total":21726.67, "Central Services":2003.46, "Community Based Services":5074.42, "Development & Enterprise":1376.64, "Learning and Children":5007.58, "Local Environmental Services":8264.57},
-			"2013-06": {"total":11291.26, "Community Based Services":1753.28, "Development & Enterprise":681.41, "Learning and Children":4905.00, "Local Environmental Services":3951.57},
-			"2013-07": {"total":24497.43, "Central Services":3411.69, "Community Based Services":5829.73, "Development & Enterprise":1684.92, "Learning and Children":5131.38, "Local Environmental Services":8439.71},
-			"2013-12": {"total":14214.55, "Central Services":14214.55},
-			"2014-02": {"total":632.89, "Development & Enterprise":632.89},
-			"2014-03": {"total":171331.07, "Central Services":171331.07},
-			"2014-04": {"total":42894.18, "Central Services":42894.18},
-			"2014-05": {"total":16073.34, "Central Services":3111.67, "Community Based Services":3641.90, "Development & Enterprise":1294.84, "Learning and Children":4330.10, "Local Environmental Services":3694.83},
-			"2014-07": {"total":371.33, "Development & Enterprise":371.33},
-			"2014-08": {"total":53106.38, "Central Services":35082.18, "Community Based Services":5349.85, "Development & Enterprise":1868.35, "Learning and Children":5965.24, "Local Environmental Services":4840.76},
-			"2014-09": {"total":40270.08, "Central Services":7716.44, "Community Based Services":8328.70, "Development & Enterprise":3514.73, "Learning and Children":10509.57, "Local Environmental Services":10200.64},
-			"2014-10": {"total":16962.49, "Central Services":3878.64, "Community Based Services":3445.98, "Development & Enterprise":1555.33, "Learning and Children":4218.11, "Local Environmental Services":3864.43},
-			"2014-11": {"total":16469.48, "Care, Wellbeing & Learning":8062.08, "Policy, Economic Growth and Transformation":525.94, "Communities & Enviroment":5509.46, "Corporate Resources":1976.20, "Corporate Services & Governance":395.80},
-			"2014-12": {"total":65968.48, "Care, Wellbeing & Learning":30576.97, "Communities & Enviroment":23903.31, "Corporate Resources":5000.76, "Corporate Services & Governance":6487.44},
-			"2015-01": {"total":4099.63, "Care, Wellbeing & Learning":2102.23, "Policy, Economic Growth and Transformation":151.90, "Communities & Enviroment":1513.80, "Corporate Resources":236.55, "Corporate Services & Governance":95.15},
-			"2015-02": {"total":26092.77, "Care, Wellbeing & Learning":6973.13, "Policy, Economic Growth and Transformation":468.51, "Communities & Enviroment":10077.45, "Corporate Resources":5558.54, "Corporate Services & Governance":3015.14},
-			"2015-03": {"total":25877.66, "Care, Wellbeing & Learning":7983.89, "Policy, Economic Growth and Transformation":479.92, "Communities & Enviroment":11581.16, "Corporate Resources":2331.81, "Corporate Services & Governance":3500.88},
-			"2015-05": {"total":25962.80, "Care, Wellbeing & Learning":8232.82, "Policy, Economic Growth and Transformation":479.96, "Communities & Enviroment":11416.12, "Corporate Resources":2393.75, "Corporate Services & Governance":3440.15},
-			"2015-06": {"total":24597.22, "Communities & Environment":738.29, "Corporate Resources":23858.93},
-			"2015-07": {"total":15042.74, "Care, Wellbeing & Learning":4564.92, "Policy, Economic Growth and Transformation":290.29, "Communities & Environment":6163.57, "Corporate Resources":2290.19, "Corporate Services & Governance":1733.77},
-			"2015-08": {"total":15072.06, "Care, Wellbeing & Learning":4747.89, "Policy, Economic Growth and Transformation":332.26, "Communities & Environment":6397.62, "Corporate Resources":1808.19, "Corporate Services & Governance":1786.10},
-			"2015-09": {"total":19399.12, "Care, Wellbeing & Learning":6974.68, "Policy, Economic Growth and Transformation":425.70, "Communities & Environment":8285.11, "Corporate Resources":1809.83, "Corporate Services & Governance":1903.80},
-			"2015-10": {"total":31764.05, "Care, Wellbeing & Learning":10544.41, "Policy, Economic Growth and Transformation":779.45, "Communities & Environment":13255.93, "Corporate Resources":3607.51, "Corporate Services & Governance":3576.75},
-			"2015-12": {"total":16234.28, "Care, Wellbeing & Learning":5159.04, "Policy, Economic Growth and Transformation":678.51, "Communities & Environment":5881.55, "Corporate Resources":2823.16, "Corporate Services & Governance":1692.02},
-			"2016-01": {"total":54791.40, "Care, Wellbeing & Learning":5381.22, "Policy, Economic Growth and Transformation":789.04, "Communities & Environment":6084.73, "Corporate Resources":40867.69, "Corporate Services & Governance":1668.72},
-			"2016-02": {"total":31445.01, "Care, Wellbeing & Learning":11105.38, "Policy, Economic Growth and Transformation":1544.28, "Communities & Environment":11959.35, "Corporate Resources":3586.58, "Corporate Services & Governance":3249.42},
-			"2016-03": {"total":14967.97, "Care, Wellbeing & Learning":5861.04, "Policy, Economic Growth and Transformation":740.85, "Communities & Environment":5667.19, "Corporate Resources":1145.33, "Corporate Services & Governance":1553.56},
-			"2016-05": {"total":69302.33, "Care, Wellbeing & Learning":11495.93, "Policy, Economic Growth and Transformation":1549.12, "Communities & Environment":11822.62, "Corporate Resources":2384.60, "Corporate Services & Governance":3637.20, "Full Authority":19206.43, "unknown":19206.43},
-			"2016-06": {"total":31471.18, "Care, Wellbeing & Learning":12062.29, "Policy, Economic Growth and Transformation":1650.03, "Communities & Environment":12067.48, "Corporate Resources":2350.74, "Corporate Services & Governance":3340.64},
-			"2016-08": {"total":31335.86, "Care, Wellbeing & Learning":11147.81, "Communities & Environment":13857.02, "Corporate Resources":2519.17, "Corporate Services & Governance":3351.11, "Office of the Chief Executive":460.75},
-			"2016-09": {"total":15356.65, "Care, Wellbeing & Learning":5691.51, "Communities & Environment":6766.44, "Corporate Resources":1067.78, "Corporate Services & Governance":1617.90, "Office of the Chief Executive":213.02},
-			"2016-11": {"total":30016.94, "Care, Wellbeing & Learning":11180.31, "Communities & Environment":13152.91, "Corporate Resources":2044.51, "Corporate Services & Governance":3218.86, "Office of the Chief Executive":420.35},
-			"2017-01": {"total":14799.98, "Care, Wellbeing & Learning":5590.84, "Communities & Environment":6494.96, "Corporate Resources":1005.93, "Corporate Services & Governance":1498.25, "Office of the Chief Executive":210.00},
-			"2017-03": {"total":35937.08, "Care, Wellbeing & Learning":11333.29, "Communities & Environment":18781.21, "Corporate Resources":2295.13, "Corporate Services & Governance":3077.89, "Office of the Chief Executive":449.56},
-			"2017-04": {"total":15952.73, "Care, Wellbeing & Learning":5776.35, "Communities & Environment":7179.68, "Corporate Resources":1070.09, "Corporate Services & Governance":1566.66, "Office of the Chief Executive":359.95},
-			"2017-06": {"total":15491.99, "Care, Wellbeing & Learning":5802.82, "Communities & Environment":6733.00, "Corporate Resources":1028.84, "Corporate Services & Governance":1615.83, "Office of the Chief Executive":311.50},
-			"2017-07": {"total":31590.90, "Care, Wellbeing & Learning":11795.16, "Communities & Environment":14050.18, "Corporate Resources":1972.17, "Corporate Services & Governance":3037.95, "Office of the Chief Executive":735.44},
-			"2017-09": {"total":32766.23, "Care, Wellbeing & Learning":12200.12, "Communities & Environment":11673.71, "Corporate Resources":4818.00, "Corporate Services & Governance":3253.77, "Office of the Chief Executive":820.63},
-			"2017-11": {"total":17492.92, "Care, Wellbeing & Learning":7207.67, "Communities & Environment":6007.16, "Corporate Resources":2311.92, "Corporate Services & Governance":1554.67, "Office of the Chief Executive":411.50},
-			"2017-12": {"total":32790.29, "Care, Wellbeing & Learning":12899.26, "Communities & Environment":11497.66, "Corporate Resources":4473.71, "Corporate Services & Governance":3115.64, "Office of the Chief Executive":804.02},
-			"2018-01": {"total":17144.34, "Care, Wellbeing & Learning":6854.30, "Communities & Environment":6035.33, "Corporate Resources":2225.56, "Corporate Services & Governance":1627.65, "Office of the Chief Executive":401.50},
-			"2018-03": {"total":35676.88, "Care, Wellbeing & Learning":15148.18, "Communities & Environment":10782.61, "Corporate Resources":5912.98, "Corporate Services & Governance":3610.11, "Office of the Chief Executive":223.00},
-			"2018-04": {"total":17819.83, "Care, Wellbeing & Learning":7844.13, "Communities & Environment":5253.09, "Corporate Resources":2829.68, "Corporate Services & Governance":1781.43, "Office of the Chief Executive":111.50},
-			"2018-05": {"total":445.09, "Communities & Environment":445.09},
-			"2018-06": {"total":47777.83, "Care, Wellbeing & Learning":16897.07, "Communities & Environment":9087.99, "Corporate Resources":17930.33, "Corporate Services & Governance":3629.44, "Office of the Chief Executive":233.00},
-			"2018-08": {"total":17991.01, "Care, Wellbeing & Learning":8763.66, "Communities & Environment":4396.35, "Corporate Resources":2848.22, "Corporate Services & Governance":1841.88, "Office of the Chief Executive":140.90},
-			"2018-10": {"total":113622.78, "Care, Wellbeing & Learning":63815.16, "Communities & Environment":14186.78, "Corporate Resources":29686.16, "Corporate Services & Governance":5539.96, "Office of the Chief Executive":394.72},
-			"2018-11": {"total":7559.40, "Communities & Environment":480.40, "Corporate Resources":7079.00},
-			"2018-12": {"total":65139.04, "Care, Wellbeing & Learning":46162.41, "Communities & Environment":9576.71, "Corporate Resources":5536.56, "Corporate Services & Governance":3602.99, "Office of the Chief Executive":260.37},
-			"2019-01": {"total":16447.50, "Corporate Resources":16447.50},
-			"2019-02": {"total":162157.12, "Care, Wellbeing & Learning":24798.31, "Communities & Environment":9228.91, "Corporate Resources":124340.64, "Corporate Services & Governance":3537.71, "Office of the Chief Executive":251.55},
-			"2019-03": {"total":28998.27, "Care, Wellbeing & Learning":17241.00, "Communities & Environment":4464.75, "Corporate Resources":5336.61, "Corporate Services & Governance":1825.00, "Office of the Chief Executive":130.91},
-			"2019-04": {"total":21834.49, "Care, Wellbeing & Learning":11445.27, "Communities & Environment":5518.65, "Corporate Resources":2915.48, "Corporate Services & Governance":1825.09, "Office of the Chief Executive":130.00},
-			"2019-05": {"total":20513.91, "Care, Wellbeing & Learning":11329.13, "Communities & Environment":4347.59, "Corporate Resources":2861.55, "Corporate Services & Governance":1845.64, "Office of the Chief Executive":130.00},
-			"2019-06": {"total":21160.66, "Care, Wellbeing & Learning":11883.41, "Communities & Environment":4393.42, "Corporate Resources":2829.90, "Corporate Services & Governance":1922.14, "Office of the Chief Executive":131.79},
-			"2019-07": {"total":2050.19, "Communities & Environment":2050.19},
-			"2019-08": {"total":32228.64, "Communities & Environment":1513.64, "Corporate Resources":30715.00},
-			"2019-09": {"total":38436.42, "Communities & Environment":440.97, "Corporate Resources":37995.45},
-			"2019-10": {"total":11200.27, "Care, Wellbeing & Learning":189.40, "Communities & Environment":50.34, "Corporate Resources":10943.95, "Corporate Services & Governance":16.58},
-			"2019-11": {"total":6990.53, "Care, Wellbeing & Learning":183.22, "Communities & Environment":45.12, "Corporate Resources":6745.69, "Corporate Services & Governance":16.50},
-			"2019-12": {"total":460.00, "Corporate Resources":460.00},
-			"2020-01": {"total":8368.19, "Care, Wellbeing & Learning":198.46, "Communities & Environment":43.63, "Corporate Resources":8109.60, "Corporate Services & Governance":16.50},
-			"2020-02": {"total":15406.57, "Care, Wellbeing & Learning":420.82, "Communities & Environment":1420.46, "Corporate Resources":13532.11, "Corporate Services & Governance":33.18},
-			"2020-03": {"total":79536.71, "Care, Wellbeing & Learning":1150.00, "Communities & Environment":2463.71, "Corporate Resources":75923.00},
-			"2020-04": {"total":172503.50, "Care, Wellbeing & Learning":609.53, "Communities & Environment":128.79, "Corporate Resources":21729.09, "Corporate Services & Governance":150036.09},
-			"2020-05": {"total":41961.87, "Children, Adults and Families":694.52, "Economy, Innovation and Growth":122.52, "Housing, Environment and Healthy Communities":282.78, "Corporate Services & Governance":23070.31, "Public Health and Wellbeing":0.39, "Resources and Digital":17791.35},
-			"2020-06": {"total":7875.00, "Resources and Digital":7875.00},
-			"2020-07": {"total":26230.32, "Children, Adults and Families":1323.97, "Economy, Innovation and Growth":1872.56, "Housing, Environment and Healthy Communities":1089.78, "Corporate Services & Governance":98.98, "Public Health and Wellbeing":26.65, "Resources and Digital":21818.38},
-			"2020-08": {"total":11084.99, "Children, Adults and Families":585.44, "Economy, Innovation and Growth":153.11, "Housing, Environment and Healthy Communities":301.13, "Corporate Services & Governance":44.06, "Public Health and Wellbeing":0.76, "Resources and Digital":10000.49}
-		}
-	},
-	"5580": {
-		"name": "OAK TREE MANAGEMENT & TRAINING LTD",
-		"total": 760,
-		"monthly": {
-			"2011-10": {"total":760.00, "Development & Enterprise":760.00}
-		}
-	},
-	"5581": {
-		"name": "OAKES ENERGY SERVICES LTD",
-		"total": 43714,
-		"monthly": {
-			"2017-03": {"total":12396.00, "Communities & Environment":12396.00},
-			"2017-05": {"total":2068.00, "Communities & Environment":2068.00},
-			"2019-03": {"total":2000.00, "Corporate Resources":2000.00},
-			"2020-04": {"total":25500.00, "Communities & Environment":25500.00},
-			"2020-07": {"total":1750.00, "Economy, Innovation and Growth":1750.00}
-		}
-	},
-	"5582": {
-		"name": "OAKFIELD INFANT SCHOOL",
-		"total": 1000,
-		"monthly": {
-			"2012-07": {"total":500.00, "Community Based Services":500.00},
-			"2013-06": {"total":500.00, "Community Based Services":500.00}
-		}
-	},
-	"5583": {
-		"name": "OAKFIELD PHARMACY LTD",
-		"alternate-names": [
-			"OAKFIELD PHARMACY LIMITED"
-		],
-		"total": 534.08,
-		"monthly": {
-			"2013-11": {"total":534.08, "Community Based Services":534.08}
-		}
-	},
-	"5584": {
-		"name": "OAKHILL PUBLISHING LTD",
-		"total": 10527.05,
-		"monthly": {
-			"2010-12": {"total":521.05, "Community Based Services":521.05},
-			"2012-02": {"total":2913.60, "Community Based Services":2913.60},
-			"2013-03": {"total":3790.80, "Community Based Services":3790.80},
-			"2014-05": {"total":371.20, "Community Based Services":371.20},
-			"2014-06": {"total":351.20, "Community Based Services":351.20},
-			"2014-08": {"total":736.80, "Community Based Services":736.80},
-			"2014-10": {"total":364.80, "Community Based Services":364.80},
-			"2014-11": {"total":373.60, "Communities & Enviroment":373.60},
-			"2015-01": {"total":368.00, "Communities & Enviroment":368.00},
-			"2015-03": {"total":736.00, "Communities & Enviroment":736.00}
-		}
-	},
-	"5585": {
-		"name": "OAKLEY (NE) LTD",
-		"total": 1200,
-		"monthly": {
-			"2012-11": {"total":1200.00, "Community Based Services":1200.00}
-		}
-	},
-	"5586": {
-		"name": "OASIS AQUILA HOUSING",
-		"total": 373206.62,
-		"monthly": {
-			"2014-06": {"total":13333.34, "Learning and Children":13333.34},
-			"2014-07": {"total":6666.67, "Learning and Children":6666.67},
-			"2014-09": {"total":6666.67, "Learning and Children":6666.67},
-			"2014-10": {"total":6666.67, "Learning and Children":6666.67},
-			"2014-11": {"total":12281.25, "Care, Wellbeing & Learning":12281.25},
-			"2015-03": {"total":45683.34, "Care, Wellbeing & Learning":45683.34},
-			"2015-04": {"total":6666.60, "Care, Wellbeing & Learning":6666.60},
-			"2015-05": {"total":18750.00, "Care, Wellbeing & Learning":18750.00},
-			"2015-07": {"total":11250.00, "Care, Wellbeing & Learning":11250.00},
-			"2015-08": {"total":17500.00, "Care, Wellbeing & Learning":17500.00},
-			"2015-09": {"total":7500.00, "Care, Wellbeing & Learning":7500.00},
-			"2015-12": {"total":3291.84, "Care, Wellbeing & Learning":3291.84},
-			"2016-01": {"total":48963.57, "Care, Wellbeing & Learning":48963.57},
-			"2016-02": {"total":8000.00, "Care, Wellbeing & Learning":8000.00},
-			"2016-03": {"total":28929.67, "Care, Wellbeing & Learning":28929.67},
-			"2016-11": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
-			"2017-07": {"total":33250.00, "Care, Wellbeing & Learning":33250.00},
-			"2017-09": {"total":3750.00, "Care, Wellbeing & Learning":3750.00},
-			"2017-10": {"total":29750.00, "Care, Wellbeing & Learning":29750.00},
-			"2018-01": {"total":6000.00, "Care, Wellbeing & Learning":6000.00},
-			"2018-02": {"total":22250.00, "Care, Wellbeing & Learning":22250.00},
-			"2018-08": {"total":22250.00, "Care, Wellbeing & Learning":22250.00},
-			"2018-10": {"total":4807.00, "Care, Wellbeing & Learning":4807.00}
-		}
-	},
-	"5587": {
-		"name": "OASIS COMMUNITY HOUSING",
-		"total": 48140.72,
-		"monthly": {
-			"2019-03": {"total":9140.72, "Communities & Environment":7500.00, "Corporate Resources":1640.72},
-			"2019-10": {"total":7500.00, "Communities & Environment":7500.00},
-			"2020-03": {"total":24000.00, "Care, Wellbeing & Learning":24000.00},
-			"2020-04": {"total":7500.00, "Communities & Environment":7500.00}
-		}
-	},
-	"5588": {
-		"name": "OASYS LTD",
-		"alternate-names": [
-			"OASYS LIMITED"
-		],
-		"total": 18405.89,
-		"monthly": {
-			"2011-02": {"total":1246.75, "Community Based Services":39.87, "Development & Enterprise":1141.73, "Local Environmental Services":65.15},
-			"2011-12": {"total":404.80, "Development & Enterprise":404.80},
-			"2012-02": {"total":1529.50, "Central Services":80.50, "Development & Enterprise":1352.40, "Local Environmental Services":96.60},
-			"2013-03": {"total":1336.30, "Central Services":14.01, "Development & Enterprise":1238.29, "Local Environmental Services":84.00},
-			"2014-01": {"total":4271.14, "Central Services":4271.14},
-			"2014-03": {"total":1674.40, "Central Services":48.30, "Development & Enterprise":1529.50, "Local Environmental Services":96.60},
-			"2015-03": {"total":4302.50, "Communities & Enviroment":4136.25, "Corporate Resources":17.50, "Corporate Services & Governance":148.75},
-			"2016-02": {"total":1802.50, "Communities & Environment":1540.00, "Corporate Resources":17.50, "Corporate Services & Governance":245.00},
-			"2017-03": {"total":1838.00, "Communities & Environment":1599.06, "Corporate Services & Governance":238.94}
-		}
-	},
-	"5589": {
-		"name": "OC ACCOUNTANTS LTD",
-		"total": 1500,
-		"monthly": {
-			"2013-12": {"total":1500.00, "Community Based Services":1500.00}
-		}
-	},
-	"5590": {
-		"name": "OCCUPATIONAL EXPOSURE LTD",
-		"alternate-names": [
-			"OCCUPATIONAL EXPOSURE LIMITED"
-		],
-		"total": 732,
-		"monthly": {
-			"2019-05": {"total":732.00, "Care, Wellbeing & Learning":732.00}
-		}
-	},
-	"5591": {
-		"name": "OCE FINANCE",
-		"total": 307582.22,
-		"monthly": {
-			"2011-01": {"total":2993.04, "Central Services":2993.04},
-			"2011-03": {"total":16394.73, "Central Services":16394.73},
-			"2011-05": {"total":19387.77, "Central Services":19387.77},
-			"2011-07": {"total":18794.73, "Central Services":18794.73},
-			"2011-08": {"total":593.04, "Central Services":593.04},
-			"2011-10": {"total":2993.04, "Central Services":2993.04},
-			"2011-11": {"total":16394.73, "Central Services":16394.73},
-			"2012-01": {"total":2993.04, "Central Services":2993.04},
-			"2012-03": {"total":16394.73, "Central Services":16394.73},
-			"2012-04": {"total":593.04, "Central Services":593.04},
-			"2012-05": {"total":25748.64, "Central Services":25748.64},
-			"2012-07": {"total":19387.77, "Central Services":19387.77},
-			"2012-09": {"total":2400.00, "Central Services":2400.00},
-			"2012-10": {"total":17106.38, "Central Services":17106.38},
-			"2013-01": {"total":2993.04, "Central Services":2993.04},
-			"2013-02": {"total":16394.73, "Central Services":16394.73},
-			"2013-05": {"total":19387.77, "Central Services":19387.77},
-			"2013-07": {"total":2993.04, "Central Services":2993.04},
-			"2013-08": {"total":825.35, "Central Services":825.35},
-			"2013-09": {"total":15569.38, "Central Services":15569.38},
-			"2013-10": {"total":16987.77, "Central Services":16987.77},
-			"2013-11": {"total":2400.00, "Central Services":2400.00},
-			"2014-01": {"total":18562.42, "Central Services":18562.42},
-			"2014-03": {"total":825.35, "Central Services":825.35},
-			"2014-04": {"total":2400.00, "Central Services":2400.00},
-			"2014-05": {"total":16987.77, "Central Services":16987.77},
-			"2014-07": {"total":19387.77, "Central Services":19387.77},
-			"2014-12": {"total":5860.27, "Corporate Services & Governance":5860.27},
-			"2015-02": {"total":2400.00, "Corporate Services & Governance":2400.00},
-			"2017-04": {"total":716.44, "Corporate Resources":716.44},
-			"2018-06": {"total":716.44, "Corporate Resources":716.44}
-		}
-	},
-	"5592": {
-		"name": "OCE IMAGISTICS (UK) LTD",
-		"total": 58692.33,
-		"monthly": {
-			"2011-01": {"total":16726.38, "Central Services":16726.38},
-			"2011-03": {"total":10022.69, "Central Services":10022.69},
-			"2011-04": {"total":8425.43, "Central Services":8425.43},
-			"2011-06": {"total":17613.93, "Central Services":17613.93},
-			"2011-08": {"total":5903.90, "Central Services":5903.90}
-		}
-	},
-	"5593": {
-		"name": "OCE UK LTD",
-		"total": 314756.62,
-		"monthly": {
-			"2011-09": {"total":9363.26, "Central Services":9363.26},
-			"2011-10": {"total":1823.33, "Development & Enterprise":1823.33},
-			"2011-11": {"total":685.00, "Central Services":685.00},
-			"2011-12": {"total":6705.93, "Central Services":6705.93},
-			"2012-01": {"total":7899.72, "Central Services":7899.72},
-			"2012-03": {"total":8502.84, "Central Services":8502.84},
-			"2012-04": {"total":6307.25, "Central Services":6307.25},
-			"2012-05": {"total":34475.00, "Central Services":34475.00},
-			"2012-06": {"total":1124.35, "Central Services":1124.35},
-			"2012-07": {"total":26275.23, "Central Services":26275.23},
-			"2012-08": {"total":6725.18, "Central Services":6725.18},
-			"2012-10": {"total":26126.73, "Central Services":26126.73},
-			"2012-11": {"total":10083.94, "Central Services":8142.10, "Development & Enterprise":1941.84},
-			"2013-01": {"total":22973.13, "Central Services":22973.13},
-			"2013-03": {"total":119302.78, "Central Services":119302.78},
-			"2013-04": {"total":19337.93, "Central Services":19337.93},
-			"2013-05": {"total":7045.02, "Central Services":7045.02}
-		}
-	},
-	"5594": {
-		"name": "OCEAN HOTELS LTD",
-		"total": 360,
-		"monthly": {
-			"2011-01": {"total":360.00, "Learning and Children":360.00}
-		}
-	},
-	"5595": {
-		"name": "OCEAN MEDIA GROUP LTD",
-		"total": 5884.6,
-		"monthly": {
-			"2015-08": {"total":970.00, "Communities & Environment":970.00},
-			"2015-11": {"total":1799.60, "Communities & Environment":1799.60},
-			"2017-12": {"total":1485.00, "Communities & Environment":1485.00},
-			"2020-02": {"total":1630.00, "Communities & Environment":1630.00}
-		}
-	},
-	"5596": {
-		"name": "OCLC",
-		"total": 6802.83,
-		"monthly": {
-			"2011-01": {"total":2267.61, "Community Based Services":2267.61},
-			"2012-02": {"total":4535.22, "Community Based Services":4535.22}
-		}
-	},
-	"5597": {
-		"name": "OCLC (UK) LTD",
-		"total": 12156.22,
-		"monthly": {
-			"2014-05": {"total":2324.30, "Community Based Services":2324.30},
-			"2015-04": {"total":2324.30, "Communities & Enviroment":2324.30},
-			"2016-06": {"total":2324.30, "Communities & Environment":2324.30},
-			"2017-02": {"total":2359.16, "Communities & Environment":2359.16},
-			"2018-06": {"total":2359.16, "Corporate Resources":2359.16},
-			"2019-03": {"total":465.00, "Corporate Resources":465.00}
-		}
-	},
-	"5598": {
-		"name": "OCS GROUP UK LTD T/A LEGION",
-		"total": 70696.98,
-		"monthly": {
-			"2019-10": {"total":8161.88, "Communities & Environment":8161.88},
-			"2019-11": {"total":7752.33, "Communities & Environment":7752.33},
-			"2019-12": {"total":8032.03, "Housing, Environment and Healthy Communities":8032.03},
-			"2020-01": {"total":8060.49, "Communities & Environment":8060.49},
-			"2020-02": {"total":7448.53, "Communities & Environment":7448.53},
-			"2020-03": {"total":8134.75, "Communities & Environment":8134.75},
-			"2020-04": {"total":6109.89, "Communities & Environment":6109.89},
-			"2020-05": {"total":679.25, "Housing, Environment and Healthy Communities":679.25},
-			"2020-06": {"total":543.40, "Housing, Environment and Healthy Communities":543.40},
-			"2020-07": {"total":6708.51, "Housing, Environment and Healthy Communities":6708.51},
-			"2020-08": {"total":9065.92, "Housing, Environment and Healthy Communities":9065.92}
-		}
-	},
-	"5599": {
-		"name": "OCTAGON ASSETS LTD",
-		"total": 7150,
-		"monthly": {
-			"2013-09": {"total":650.00, "Learning and Children":650.00},
-			"2013-10": {"total":650.00, "Learning and Children":650.00},
-			"2013-11": {"total":650.00, "Learning and Children":650.00},
-			"2013-12": {"total":650.00, "Learning and Children":650.00},
-			"2014-01": {"total":650.00, "Learning and Children":650.00},
-			"2014-02": {"total":650.00, "Learning and Children":650.00},
-			"2014-03": {"total":650.00, "Learning and Children":650.00},
-			"2014-04": {"total":650.00, "Learning and Children":650.00},
-			"2014-05": {"total":650.00, "Learning and Children":650.00},
-			"2014-06": {"total":650.00, "Learning and Children":650.00},
-			"2014-07": {"total":650.00, "Learning and Children":650.00}
 		}
 	}
 	}
