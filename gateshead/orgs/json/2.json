@@ -1,7 +1,36 @@
 {
-	"range": ["2010-12","2020-10"],
+	"range": ["2010-12","2021-06"],
 	"data": {
 	"100": {
+		"name": "A1 INDUSTRIAL TRUCKS LTD",
+		"total": 4548.28,
+		"monthly": {
+			"2013-02": {"total":603.72, "Local Environmental Services":603.72},
+			"2015-12": {"total":419.96, "Communities & Environment":419.96},
+			"2016-02": {"total":1488.00, "Communities & Environment":1488.00},
+			"2017-02": {"total":448.20, "Communities & Environment":448.20},
+			"2017-05": {"total":657.85, "Communities & Environment":657.85},
+			"2019-08": {"total":502.23, "Communities & Environment":502.23},
+			"2019-09": {"total":428.32, "Communities & Environment":428.32}
+		}
+	},
+	"101": {
+		"name": "A1 SCALES",
+		"total": 2982.05,
+		"monthly": {
+			"2012-03": {"total":377.00, "Community Based Services":377.00},
+			"2015-04": {"total":1792.80, "Communities & Enviroment":1792.80},
+			"2016-01": {"total":812.25, "Communities & Environment":812.25}
+		}
+	},
+	"102": {
+		"name": "A1 TRADE WINDOWS",
+		"total": 6571.54,
+		"monthly": {
+			"2011-02": {"total":6571.54, "Community Based Services":6571.54}
+		}
+	},
+	"103": {
 		"name": "A2B STATIONERY",
 		"total": 7500,
 		"monthly": {
@@ -11,7 +40,7 @@
 			"2016-06": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"101": {
+	"104": {
 		"name": "AA FLAGS LTD",
 		"total": 5209.5,
 		"monthly": {
@@ -22,19 +51,19 @@
 			"2016-10": {"total":535.00, "Communities & Environment":535.00}
 		}
 	},
-	"102": {
+	"105": {
 		"name": "AA GLOBAL LANGUAGE SERVICES LTD",
 		"total": 746,
 		"monthly": {
 			"2020-05": {"total":746.00, "Children, Adults and Families":746.00}
 		}
 	},
-	"103": {
+	"106": {
 		"name": "AAA CHEMICALS LTD",
 		"alternate-names": [
 			"AAA CHEMICALS LIMITED"
 		],
-		"total": 60268,
+		"total": 63606,
 		"monthly": {
 			"2012-08": {"total":758.92, "Local Environmental Services":758.92},
 			"2012-09": {"total":2086.72, "Local Environmental Services":2086.72},
@@ -72,10 +101,12 @@
 			"2016-10": {"total":890.20, "Communities & Environment":890.20},
 			"2016-11": {"total":1908.56, "Communities & Environment":1908.56},
 			"2017-01": {"total":1780.40, "Communities & Environment":1780.40},
-			"2017-03": {"total":1807.80, "Communities & Environment":1807.80}
+			"2017-03": {"total":1807.80, "Communities & Environment":1807.80},
+			"2021-05": {"total":1669.00, "Housing Revenue Account":1669.00},
+			"2021-06": {"total":1669.00, "Housing Revenue Account":1669.00}
 		}
 	},
-	"104": {
+	"107": {
 		"name": "AAA SIGNS",
 		"total": 4854,
 		"monthly": {
@@ -85,7 +116,14 @@
 			"2012-03": {"total":1060.00, "Development & Enterprise":1060.00}
 		}
 	},
-	"105": {
+	"108": {
+		"name": "AAA SIGNS LTD",
+		"total": 587,
+		"monthly": {
+			"2021-05": {"total":587.00, "Housing, Environment and Healthy Communities":587.00}
+		}
+	},
+	"109": {
 		"name": "AAA THOMPSON & SON ELECTRICAL LTD",
 		"total": 741495.62,
 		"monthly": {
@@ -128,7 +166,7 @@
 			"2017-01": {"total":655.09, "Communities & Environment":655.09}
 		}
 	},
-	"106": {
+	"110": {
 		"name": "AAA TRAINING CO LTD",
 		"total": 8810,
 		"monthly": {
@@ -143,9 +181,9 @@
 			"2017-06": {"total":750.00, "Communities & Environment":750.00}
 		}
 	},
-	"107": {
+	"111": {
 		"name": "AAASPORTS",
-		"total": 32400,
+		"total": 32850,
 		"monthly": {
 			"2016-08": {"total":600.00, "Care, Wellbeing & Learning":600.00},
 			"2017-03": {"total":1250.00, "Care, Wellbeing & Learning":1250.00},
@@ -164,10 +202,11 @@
 			"2019-07": {"total":2375.00, "Care, Wellbeing & Learning":2375.00},
 			"2019-10": {"total":1675.00, "Care, Wellbeing & Learning":1675.00},
 			"2020-01": {"total":1575.00, "Care, Wellbeing & Learning":1575.00},
-			"2020-03": {"total":3575.00, "Care, Wellbeing & Learning":3575.00}
+			"2020-03": {"total":3575.00, "Care, Wellbeing & Learning":3575.00},
+			"2020-11": {"total":450.00, "Children, Adults and Families":450.00}
 		}
 	},
-	"108": {
+	"112": {
 		"name": "AARAN BUILDERS (NE) LTD",
 		"total": 12821.4,
 		"monthly": {
@@ -180,7 +219,7 @@
 			"2018-08": {"total":1144.00, "Full Authority":1144.00}
 		}
 	},
-	"109": {
+	"113": {
 		"name": "AARAN DESIGN LTD",
 		"total": 28247.1,
 		"monthly": {
@@ -188,7 +227,7 @@
 			"2013-11": {"total":666.10, "Local Environmental Services":666.10}
 		}
 	},
-	"110": {
+	"114": {
 		"name": "AARK LOFT CONVERSIONS LTD",
 		"total": 24125.01,
 		"monthly": {
@@ -198,7 +237,7 @@
 			"2011-11": {"total":2458.34, "Learning and Children":2458.34}
 		}
 	},
-	"111": {
+	"115": {
 		"name": "AAT (GB) LTD",
 		"total": 8418,
 		"monthly": {
@@ -210,14 +249,14 @@
 			"2017-03": {"total":425.00, "Communities & Environment":425.00}
 		}
 	},
-	"112": {
+	"116": {
 		"name": "AB CONSULTING",
 		"total": 420,
 		"monthly": {
 			"2012-01": {"total":420.00, "Learning and Children":420.00}
 		}
 	},
-	"113": {
+	"117": {
 		"name": "ABACUS ACCOUNTANCY NETWORK",
 		"total": 5300,
 		"monthly": {
@@ -227,49 +266,49 @@
 			"2015-03": {"total":800.00, "Policy, Economic Growth and Transformation":800.00}
 		}
 	},
-	"114": {
+	"118": {
 		"name": "ABACUS CARE",
 		"total": 705,
 		"monthly": {
 			"2014-12": {"total":705.00, "Corporate Services & Governance":705.00}
 		}
 	},
-	"115": {
+	"119": {
 		"name": "ABACUS DAY NURSERY",
 		"total": 2184,
 		"monthly": {
 			"2018-01": {"total":2184.00, "Care, Wellbeing & Learning":2184.00}
 		}
 	},
-	"116": {
+	"120": {
 		"name": "ABACUS LIGHTING",
 		"total": 2075.2,
 		"monthly": {
 			"2011-03": {"total":2075.20, "Development & Enterprise":2075.20}
 		}
 	},
-	"117": {
+	"121": {
 		"name": "ABBEY CONSTRUCTION CONSULTANTS",
 		"total": 1350,
 		"monthly": {
 			"2017-09": {"total":1350.00, "Communities & Enviroment":1350.00}
 		}
 	},
-	"118": {
+	"122": {
 		"name": "ABBEY INVESTIGATIONS",
 		"total": 1370,
 		"monthly": {
 			"2015-03": {"total":1370.00, "Communities & Enviroment":1370.00}
 		}
 	},
-	"119": {
+	"123": {
 		"name": "ABBEY JOINERY N.E. LTD",
 		"total": 540,
 		"monthly": {
 			"2013-05": {"total":540.00, "Community Based Services":540.00}
 		}
 	},
-	"120": {
+	"124": {
 		"name": "ABBEY POLYTHENE LTD",
 		"total": 5717.7,
 		"monthly": {
@@ -279,7 +318,7 @@
 			"2020-09": {"total":1525.20, "Housing, Environment and Healthy Communities":1525.20}
 		}
 	},
-	"121": {
+	"125": {
 		"name": "ABBEY TREE SURGEONS",
 		"total": 15000,
 		"monthly": {
@@ -291,7 +330,7 @@
 			"2013-11": {"total":850.00, "Development & Enterprise":850.00}
 		}
 	},
-	"122": {
+	"126": {
 		"name": "ABC",
 		"total": 25223,
 		"monthly": {
@@ -318,7 +357,7 @@
 			"2013-08": {"total":523.50, "Learning and Children":523.50}
 		}
 	},
-	"123": {
+	"127": {
 		"name": "ABCA SYSTEMS",
 		"total": 10142.25,
 		"monthly": {
@@ -326,7 +365,7 @@
 			"2011-06": {"total":7482.25, "Community Based Services":7482.25}
 		}
 	},
-	"124": {
+	"128": {
 		"name": "ABCA SYSTEMS LTD",
 		"total": 99159.53,
 		"monthly": {
@@ -345,23 +384,23 @@
 			"2016-07": {"total":25048.75, "Communities & Environment":25048.75}
 		}
 	},
-	"125": {
+	"129": {
 		"name": "ABERTAY UNIVERSITY",
 		"total": 675,
 		"monthly": {
 			"2014-04": {"total":675.00, "Development & Enterprise":675.00}
 		}
 	},
-	"126": {
+	"130": {
 		"name": "ABG LTD",
 		"total": 1746,
 		"monthly": {
 			"2014-06": {"total":1746.00, "Local Environmental Services":1746.00}
 		}
 	},
-	"127": {
+	"131": {
 		"name": "ABIGAIL LODGE",
-		"total": 468022.88,
+		"total": 484776.56,
 		"monthly": {
 			"2012-03": {"total":7569.99, "Community Based Services":7569.99},
 			"2012-04": {"total":1827.24, "Community Based Services":1827.24},
@@ -452,10 +491,17 @@
 			"2020-07": {"total":6848.69, "Children, Adults and Families":6848.69},
 			"2020-08": {"total":7008.16, "Children, Adults and Families":7008.16},
 			"2020-09": {"total":4618.24, "Children, Adults and Families":4618.24},
-			"2020-10": {"total":4618.24, "Children, Adults and Families":4618.24}
+			"2020-10": {"total":4618.24, "Children, Adults and Families":4618.24},
+			"2020-11": {"total":4618.24, "Children, Adults and Families":4618.24},
+			"2020-12": {"total":4618.24, "Children, Adults and Families":4618.24},
+			"2021-01": {"total":4618.24, "Children, Adults and Families":4618.24},
+			"2021-02": {"total":4618.24, "Children, Adults and Families":4618.24},
+			"2021-03": {"total":1293.12, "Children, Adults and Families":1293.12},
+			"2021-04": {"total":1281.33, "Children, Adults and Families":1281.33},
+			"2021-05": {"total":-4293.73, "Children, Adults and Families":-4293.73}
 		}
 	},
-	"128": {
+	"132": {
 		"name": "ABILITY SMART",
 		"total": 8699,
 		"monthly": {
@@ -464,7 +510,7 @@
 			"2020-08": {"total":2412.00, "Corporate Services & Governance":2412.00}
 		}
 	},
-	"129": {
+	"133": {
 		"name": "ABLE PROPERTY SERVICES LTD",
 		"total": 24335.8,
 		"monthly": {
@@ -479,14 +525,29 @@
 			"2013-03": {"total":1146.44, "Community Based Services":1146.44}
 		}
 	},
-	"130": {
+	"134": {
 		"name": "ABLE2FLY LTD",
 		"total": 4000,
 		"monthly": {
 			"2014-12": {"total":4000.00, "Care, Wellbeing & Learning":4000.00}
 		}
 	},
-	"131": {
+	"135": {
+		"name": "ABOUT CHILDREN LTD",
+		"alternate-names": [
+			"ABOUT CHILDREN LIMITED"
+		],
+		"total": 9200,
+		"monthly": {
+			"2021-01": {"total":2600.00, "Children, Adults and Families":2600.00},
+			"2021-02": {"total":2600.00, "Children, Adults and Families":2600.00},
+			"2021-03": {"total":550.00, "Children, Adults and Families":550.00},
+			"2021-04": {"total":1150.00, "Children, Adults and Families":1150.00},
+			"2021-05": {"total":1150.00, "Children, Adults and Families":1150.00},
+			"2021-06": {"total":1150.00, "Children, Adults and Families":1150.00}
+		}
+	},
+	"136": {
 		"name": "ABOUT PRESENTATION LTD",
 		"total": 2252,
 		"monthly": {
@@ -494,7 +555,14 @@
 			"2011-03": {"total":1377.00, "Community Based Services":1377.00}
 		}
 	},
-	"132": {
+	"137": {
+		"name": "ABOVO-CONSULT",
+		"total": 4100,
+		"monthly": {
+			"2021-03": {"total":4100.00, "Housing, Environment and Healthy Communities":4100.00}
+		}
+	},
+	"138": {
 		"name": "ABP PROPERTY CONSULTANTS",
 		"total": 2970,
 		"monthly": {
@@ -502,7 +570,7 @@
 			"2018-07": {"total":945.00, "Corporate Services & Governance":945.00}
 		}
 	},
-	"133": {
+	"139": {
 		"name": "ABRITAS",
 		"total": 91268.74,
 		"monthly": {
@@ -520,7 +588,7 @@
 			"2017-04": {"total":1519.56, "Communities & Environment":1519.56}
 		}
 	},
-	"134": {
+	"140": {
 		"name": "ABSOLUTE LETTINGS",
 		"total": 3000,
 		"monthly": {
@@ -528,14 +596,14 @@
 			"2015-06": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
 		}
 	},
-	"135": {
+	"141": {
 		"name": "ABSOLUTE PRINT",
 		"total": 450,
 		"monthly": {
 			"2015-02": {"total":450.00, "Communities & Enviroment":450.00}
 		}
 	},
-	"136": {
+	"142": {
 		"name": "ABSORB FITNESS",
 		"total": 20829.3,
 		"monthly": {
@@ -553,9 +621,17 @@
 			"2018-12": {"total":640.00, "Corporate Resources":640.00}
 		}
 	},
-	"137": {
+	"143": {
+		"name": "ACADEMIA LTD",
+		"total": 3165,
+		"monthly": {
+			"2021-03": {"total":2340.00, "Children, Adults and Families":2340.00},
+			"2021-05": {"total":825.00, "Children, Adults and Families":825.00}
+		}
+	},
+	"144": {
 		"name": "ACADEMY GEOMATICS LTD",
-		"total": 115680,
+		"total": 123335,
 		"monthly": {
 			"2013-06": {"total":30790.00, "Community Based Services":30790.00},
 			"2013-12": {"total":8040.00, "Community Based Services":8040.00},
@@ -564,17 +640,22 @@
 			"2019-05": {"total":2895.00, "Communities & Enviroment":2335.00, "Housing Revenue Account":560.00},
 			"2019-10": {"total":14375.00, "Communities & Enviroment":14375.00},
 			"2020-07": {"total":8120.00, "Communities & Enviroment":1410.00, "Housing Revenue Account":6710.00},
-			"2020-10": {"total":780.00, "Policy, Economic Growth and Transformation":780.00}
+			"2020-10": {"total":780.00, "Policy, Economic Growth and Transformation":780.00},
+			"2020-12": {"total":1015.00, "Communities & Enviroment":1015.00},
+			"2021-02": {"total":1280.00, "Communities & Enviroment":1280.00},
+			"2021-03": {"total":3575.00, "Communities & Enviroment":3575.00},
+			"2021-04": {"total":1020.00, "Policy, Economic Growth and Transformation":1020.00},
+			"2021-05": {"total":765.00, "Communities & Enviroment":765.00}
 		}
 	},
-	"138": {
+	"145": {
 		"name": "ACAS",
 		"total": 1845,
 		"monthly": {
 			"2020-02": {"total":1845.00, "Corporate Services & Governance":1845.00}
 		}
 	},
-	"139": {
+	"146": {
 		"name": "ACCESS CONSTRUCTION",
 		"total": 142410.16,
 		"monthly": {
@@ -601,7 +682,14 @@
 			"2013-02": {"total":7859.56, "Community Based Services":7859.56}
 		}
 	},
-	"140": {
+	"147": {
+		"name": "ACCESS INDEPENDENT LTD",
+		"total": 4500,
+		"monthly": {
+			"2021-03": {"total":4500.00, "Children, Adults and Families":4500.00}
+		}
+	},
+	"148": {
 		"name": "ACCESS INTELLIGENCE MEDIA & COMMUNICATIONS LTD",
 		"total": 5712,
 		"monthly": {
@@ -610,164 +698,13 @@
 			"2020-07": {"total":1904.00, "Office of the Chief Executive":1904.00}
 		}
 	},
-	"141": {
+	"149": {
 		"name": "ACCESS NORTH LTD T/A ACCESS NORTH STRUCTURES",
 		"total": 9230,
 		"monthly": {
 			"2018-08": {"total":6965.00, "Corporate Resources":6965.00},
 			"2018-11": {"total":1285.00, "Corporate Resources":1285.00},
 			"2019-05": {"total":980.00, "Corporate Resources":980.00}
-		}
-	},
-	"142": {
-		"name": "ACCESS PLATFORM SALES LTD",
-		"alternate-names": [
-			"ACCESS PLATFORM SALES LIMITED"
-		],
-		"total": 289261.56,
-		"monthly": {
-			"2017-04": {"total":285261.56, "Communities & Environment":285261.56},
-			"2017-07": {"total":4000.00, "Communities & Enviroment":4000.00}
-		}
-	},
-	"143": {
-		"name": "ACCESS POINT",
-		"total": 1710,
-		"monthly": {
-			"2014-03": {"total":985.00, "Community Based Services":985.00},
-			"2014-09": {"total":725.00, "Learning and Children":725.00}
-		}
-	},
-	"144": {
-		"name": "ACCESS TRAINING LTD",
-		"total": 77310,
-		"monthly": {
-			"2011-03": {"total":15600.00, "Learning and Children":15600.00},
-			"2011-06": {"total":12540.00, "Learning and Children":12540.00},
-			"2011-11": {"total":4800.00, "Learning and Children":4800.00},
-			"2012-02": {"total":4800.00, "Learning and Children":4800.00},
-			"2012-07": {"total":4440.00, "Learning and Children":4440.00},
-			"2014-09": {"total":27698.44, "Learning and Children":27698.44},
-			"2019-09": {"total":4373.38, "Care, Wellbeing & Learning":4373.38},
-			"2019-10": {"total":3058.18, "Care, Wellbeing & Learning":3058.18}
-		}
-	},
-	"145": {
-		"name": "ACCESSIBLE BUSINESS",
-		"total": 5460,
-		"monthly": {
-			"2011-06": {"total":2730.00, "Learning and Children":2730.00},
-			"2011-11": {"total":2730.00, "Learning and Children":2730.00}
-		}
-	},
-	"146": {
-		"name": "ACCIDENT COMPENSATION ANGELS",
-		"total": 1500,
-		"monthly": {
-			"2013-10": {"total":1500.00, "Learning and Children":1500.00}
-		}
-	},
-	"147": {
-		"name": "ACCOUNTING OFFICER-HOME OFFICE",
-		"total": 8057,
-		"monthly": {
-			"2018-01": {"total":973.00, "Care, Wellbeing & Learning":973.00},
-			"2018-04": {"total":2024.00, "Care, Wellbeing & Learning":2024.00},
-			"2018-05": {"total":1012.00, "Care, Wellbeing & Learning":1012.00},
-			"2018-10": {"total":4048.00, "Care, Wellbeing & Learning":4048.00}
-		}
-	},
-	"148": {
-		"name": "ACE EDUCATION TRAINING LLP",
-		"total": 440,
-		"monthly": {
-			"2016-02": {"total":440.00, "Corporate Services & Governance":440.00}
-		}
-	},
-	"149": {
-		"name": "ACE JOINERY (NE) LTD",
-		"total": 612729.63,
-		"monthly": {
-			"2010-12": {"total":8131.87, "Local Environmental Services":8131.87},
-			"2011-01": {"total":3900.52, "Local Environmental Services":3900.52},
-			"2011-02": {"total":2497.50, "Local Environmental Services":2497.50},
-			"2011-03": {"total":9443.71, "Local Environmental Services":9443.71},
-			"2011-04": {"total":1106.46, "Gateshead Trading Company":27.30, "Local Environmental Services":1079.16},
-			"2011-05": {"total":1098.84, "Local Environmental Services":1098.84},
-			"2011-06": {"total":12990.33, "Local Environmental Services":12990.33},
-			"2011-07": {"total":1172.81, "Local Environmental Services":1172.81},
-			"2011-08": {"total":2773.85, "Local Environmental Services":2773.85},
-			"2011-09": {"total":10086.29, "Local Environmental Services":10086.29},
-			"2011-10": {"total":2667.16, "Local Environmental Services":2667.16},
-			"2011-11": {"total":829.75, "Local Environmental Services":829.75},
-			"2011-12": {"total":579.00, "Local Environmental Services":579.00},
-			"2012-01": {"total":805.90, "Local Environmental Services":805.90},
-			"2012-02": {"total":6719.72, "Local Environmental Services":6719.72},
-			"2012-03": {"total":5744.61, "Local Environmental Services":5744.61},
-			"2012-04": {"total":13925.53, "Local Environmental Services":13925.53},
-			"2012-05": {"total":16014.07, "Local Environmental Services":16014.07},
-			"2012-06": {"total":3051.77, "Local Environmental Services":3051.77},
-			"2012-07": {"total":46440.37, "Local Environmental Services":46440.37},
-			"2012-08": {"total":24883.82, "Local Environmental Services":24883.82},
-			"2012-09": {"total":14205.06, "Local Environmental Services":14205.06},
-			"2012-10": {"total":37554.08, "Local Environmental Services":37554.08},
-			"2012-12": {"total":3928.52, "Local Environmental Services":3928.52},
-			"2013-02": {"total":872.70, "Local Environmental Services":872.70},
-			"2013-03": {"total":47354.46, "Local Environmental Services":47354.46},
-			"2013-05": {"total":4347.01, "Local Environmental Services":4347.01},
-			"2013-06": {"total":5317.34, "Local Environmental Services":5317.34},
-			"2013-07": {"total":19000.00, "Local Environmental Services":19000.00},
-			"2013-08": {"total":30037.14, "Local Environmental Services":30037.14},
-			"2013-09": {"total":21858.37, "Local Environmental Services":21858.37},
-			"2013-10": {"total":18329.38, "Local Environmental Services":18329.38},
-			"2013-11": {"total":8841.48, "Local Environmental Services":8841.48},
-			"2013-12": {"total":15870.46, "Local Environmental Services":15870.46},
-			"2014-01": {"total":833.64, "Local Environmental Services":833.64},
-			"2014-02": {"total":15543.31, "Local Environmental Services":15543.31},
-			"2014-03": {"total":4576.22, "Local Environmental Services":4576.22},
-			"2014-04": {"total":1931.67, "Local Environmental Services":1931.67},
-			"2014-05": {"total":1740.48, "Local Environmental Services":1740.48},
-			"2014-06": {"total":6429.43, "Local Environmental Services":6429.43},
-			"2014-07": {"total":6882.73, "Local Environmental Services":6882.73},
-			"2014-08": {"total":7351.32, "Local Environmental Services":7351.32},
-			"2014-09": {"total":819.52, "Local Environmental Services":819.52},
-			"2014-10": {"total":717.60, "Local Environmental Services":717.60},
-			"2014-11": {"total":12796.76, "Communities & Enviroment":12796.76},
-			"2014-12": {"total":1815.07, "Communities & Enviroment":1815.07},
-			"2015-01": {"total":11192.64, "Communities & Enviroment":11192.64},
-			"2015-02": {"total":5979.11, "Communities & Enviroment":5979.11},
-			"2015-03": {"total":3944.31, "Communities & Enviroment":3944.31},
-			"2015-04": {"total":3249.23, "Communities & Enviroment":3249.23},
-			"2015-05": {"total":9783.92, "Communities & Enviroment":9783.92},
-			"2015-06": {"total":804.55, "Communities & Environment":804.55},
-			"2015-07": {"total":8619.95, "Communities & Environment":8619.95},
-			"2015-08": {"total":574.69, "Communities & Environment":574.69},
-			"2015-09": {"total":3301.40, "Communities & Environment":3301.40},
-			"2015-10": {"total":569.37, "Communities & Environment":569.37},
-			"2015-11": {"total":20334.09, "Communities & Environment":20334.09},
-			"2015-12": {"total":2587.91, "Communities & Environment":2587.91},
-			"2016-01": {"total":20427.74, "Communities & Environment":20427.74},
-			"2016-02": {"total":16691.09, "Communities & Environment":16691.09},
-			"2016-03": {"total":3273.19, "Communities & Environment":3273.19},
-			"2016-05": {"total":1756.11, "Communities & Environment":1756.11},
-			"2016-06": {"total":1562.22, "Communities & Environment":1562.22},
-			"2016-08": {"total":1746.43, "Communities & Environment":1746.43},
-			"2016-09": {"total":1088.00, "Communities & Environment":1088.00},
-			"2016-10": {"total":702.57, "Communities & Environment":702.57},
-			"2016-11": {"total":1650.07, "Communities & Environment":1650.07},
-			"2017-01": {"total":4775.13, "Communities & Environment":4775.13},
-			"2017-03": {"total":16660.99, "Communities & Environment":16660.99},
-			"2017-06": {"total":885.00, "Communities & Environment":885.00},
-			"2017-07": {"total":460.21, "Communities & Environment":460.21},
-			"2017-12": {"total":907.60, "Corporate Resources":907.60},
-			"2018-02": {"total":506.40, "Corporate Resources":506.40},
-			"2018-03": {"total":640.00, "Corporate Resources":640.00},
-			"2018-05": {"total":1786.58, "Corporate Resources":1786.58},
-			"2018-09": {"total":479.72, "Corporate Resources":479.72},
-			"2018-10": {"total":489.78, "Corporate Resources":489.78},
-			"2019-06": {"total":595.00, "Corporate Resources":595.00},
-			"2019-11": {"total":470.00, "Corporate Resources":470.00},
-			"2020-07": {"total":417.00, "Housing, Environment and Healthy Communities":417.00}
 		}
 	}
 	}

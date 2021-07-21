@@ -1,7 +1,52 @@
 {
-	"range": ["2014-04","2020-09"],
+	"range": ["2014-04","2021-04"],
 	"data": {
 	"100": {
+		"name": "A1 FLUE SYSTEMS",
+		"total": 35243.8,
+		"monthly": {
+			"2014-07": {"total":2581.00, "Property & Asset Management":2581.00},
+			"2014-08": {"total":6067.80, "Property & Asset Management":6067.80},
+			"2014-10": {"total":1176.00, "Property & Asset Management":1176.00},
+			"2014-11": {"total":2596.00, "Property & Asset Management":2596.00},
+			"2014-12": {"total":2596.00, "Property & Asset Management":2596.00},
+			"2015-07": {"total":3349.00, "Property & Asset Management":3349.00},
+			"2016-07": {"total":7509.00, "Property & Asset Management":7509.00},
+			"2016-08": {"total":3860.00, "Property & Asset Management":3860.00},
+			"2016-09": {"total":1869.00, "Property & Asset Management":1869.00},
+			"2016-10": {"total":3640.00, "Property & Regeneration":3640.00}
+		}
+	},
+	"101": {
+		"name": "A1 RESPONSE",
+		"total": 200646,
+		"monthly": {
+			"2014-04": {"total":5040.00, "Property & Asset Management":5040.00},
+			"2014-05": {"total":10440.00, "Property & Asset Management":10440.00},
+			"2014-06": {"total":5400.00, "Property & Asset Management":5400.00},
+			"2014-07": {"total":5040.00, "Property & Asset Management":5040.00},
+			"2014-09": {"total":24600.00, "Property & Asset Management":24600.00},
+			"2014-10": {"total":2040.00, "Property & Asset Management":2040.00},
+			"2014-11": {"total":35643.50, "Property & Asset Management":35643.50},
+			"2015-01": {"total":16625.50, "Property & Asset Management":16625.50},
+			"2015-02": {"total":15498.00, "Property & Asset Management":15498.00},
+			"2015-03": {"total":20664.00, "Property & Asset Management":20664.00},
+			"2015-04": {"total":6273.00, "Property & Asset Management":6273.00},
+			"2015-05": {"total":15867.00, "Property & Asset Management":15867.00},
+			"2015-06": {"total":2952.00, "Property & Asset Management":2952.00},
+			"2015-07": {"total":12915.00, "Property & Asset Management":12915.00},
+			"2015-08": {"total":12915.00, "Property & Asset Management":12915.00},
+			"2015-09": {"total":8733.00, "Property & Asset Management":8733.00}
+		}
+	},
+	"102": {
+		"name": "A1ACTIVE",
+		"total": 3100,
+		"monthly": {
+			"2014-11": {"total":3100.00, "Adult Services":3100.00}
+		}
+	},
+	"103": {
 		"name": "A1NSPECT LTD",
 		"alternate-names": [
 			"A1NSPECT LIMITED"
@@ -11,7 +56,7 @@
 			"2019-06": {"total":3155.00, "Property & Regeneration":3155.00}
 		}
 	},
-	"101": {
+	"104": {
 		"name": "A2 CHANGE LTD",
 		"total": 22990,
 		"monthly": {
@@ -21,7 +66,7 @@
 			"2017-06": {"total":5500.00, "Professional Services":5500.00}
 		}
 	},
-	"102": {
+	"105": {
 		"name": "A2Z LICENSING (UK) LTD",
 		"alternate-names": [
 			"A2Z LICENSING (UK) LIMITED"
@@ -32,9 +77,9 @@
 			"2019-12": {"total":20000.00, "Business Services":20000.00}
 		}
 	},
-	"103": {
+	"106": {
 		"name": "AA GLOBAL LANGUAGE SERVICES LTD",
-		"total": 172706.65,
+		"total": 198231.4,
 		"monthly": {
 			"2017-04": {"total":1454.74, "Business Services":1454.74},
 			"2017-06": {"total":521.50, "Business Services":521.50},
@@ -70,10 +115,16 @@
 			"2020-06": {"total":4599.20, "Business Services":4599.20},
 			"2020-07": {"total":1957.00, "Business Services":1957.00},
 			"2020-08": {"total":3018.00, "Business Services":3018.00},
-			"2020-09": {"total":1116.60, "Business Services":1116.60}
+			"2020-09": {"total":1116.60, "Business Services":1116.60},
+			"2020-10": {"total":5332.00, "Business Services":5332.00},
+			"2020-11": {"total":2552.26, "Business Services":2552.26},
+			"2020-12": {"total":3568.38, "Business Services":3568.38},
+			"2021-01": {"total":2669.51, "Business Services":2669.51},
+			"2021-02": {"total":5584.51, "Business Services":5584.51},
+			"2021-03": {"total":5818.09, "Business Services":5818.09}
 		}
 	},
-	"104": {
+	"107": {
 		"name": "AA MEDIA LTD",
 		"total": 6397.9,
 		"monthly": {
@@ -87,21 +138,29 @@
 			"2019-01": {"total":1069.00, "Business Services":1069.00}
 		}
 	},
-	"105": {
-		"name": "AARDVARK ART SERVICES LTD",
-		"total": 92,
+	"108": {
+		"name": "AA PROPERTY RENOVATIONS LTD",
+		"total": 4134.86,
 		"monthly": {
-			"2019-11": {"total":92.00, "Business Services":92.00}
+			"2020-10": {"total":4134.86, "Property & Regeneration":4134.86}
 		}
 	},
-	"106": {
+	"109": {
+		"name": "AARDVARK ART SERVICES LTD",
+		"total": 292,
+		"monthly": {
+			"2019-11": {"total":92.00, "Business Services":92.00},
+			"2020-12": {"total":200.00, "Business Services":200.00}
+		}
+	},
+	"110": {
 		"name": "AARDVARK JOINERY",
 		"total": 1800,
 		"monthly": {
 			"2014-09": {"total":1800.00, "Property & Asset Management":1800.00}
 		}
 	},
-	"107": {
+	"111": {
 		"name": "AAT GB LTD",
 		"total": 8923.9,
 		"monthly": {
@@ -116,16 +175,16 @@
 			"2020-04": {"total":954.00, "Adult Services":954.00}
 		}
 	},
-	"108": {
+	"112": {
 		"name": "ABACUS FURNITURE FITTINGS",
 		"total": 530,
 		"monthly": {
 			"2014-10": {"total":530.00, "n/a":530.00}
 		}
 	},
-	"109": {
+	"113": {
 		"name": "ABACUS NURSERY",
-		"total": 1276149.5,
+		"total": 1365389.53,
 		"monthly": {
 			"2014-04": {"total":32305.69, "Family Services":32305.69},
 			"2014-05": {"total":1964.25, "Family Services":1964.25},
@@ -183,36 +242,43 @@
 			"2020-05": {"total":3855.84, "Children and Young People":3855.84},
 			"2020-06": {"total":47817.77, "Children and Young People":47817.77},
 			"2020-08": {"total":399.28, "Children and Young People":399.28},
-			"2020-09": {"total":32371.68, "Children and Young People":32371.68}
+			"2020-09": {"total":32371.68, "Children and Young People":32371.68},
+			"2020-11": {"total":28768.39, "Children and Young People":28768.39},
+			"2020-12": {"total":34148.78, "Children and Young People":34148.78},
+			"2021-01": {"total":643.50, "Children and Young People":643.50},
+			"2021-03": {"total":25679.36, "Children and Young People":25679.36}
 		}
 	},
-	"110": {
+	"114": {
 		"name": "ABACUS PLAYGROUNDS LTD",
-		"total": 91169.59,
+		"total": 103121.19,
 		"monthly": {
 			"2016-11": {"total":3500.00, "Environment":3500.00},
 			"2018-06": {"total":5346.80, "Environment":5346.80},
 			"2018-07": {"total":52176.00, "Environment":52176.00},
 			"2018-09": {"total":18414.00, "Environment":18414.00},
 			"2018-12": {"total":2287.00, "Environment":2287.00},
-			"2020-03": {"total":9445.79, "Environment":9445.79}
+			"2020-03": {"total":9445.79, "Environment":9445.79},
+			"2020-10": {"total":5139.60, "Environment":5139.60},
+			"2021-01": {"total":3794.00, "Environment":3794.00},
+			"2021-02": {"total":3018.00, "Environment":3018.00}
 		}
 	},
-	"111": {
+	"115": {
 		"name": "ABBEY GRANGE C OF E ACADEMY",
 		"total": 1000,
 		"monthly": {
 			"2016-01": {"total":1000.00, "Children and Young People":1000.00}
 		}
 	},
-	"112": {
+	"116": {
 		"name": "ABBEY GRANGE MEDICAL PRACTICE",
 		"total": 67.5,
 		"monthly": {
 			"2019-05": {"total":67.50, "Public Health":67.50}
 		}
 	},
-	"113": {
+	"117": {
 		"name": "ABBEYDALE BEC LTD",
 		"total": 18143.5,
 		"monthly": {
@@ -223,7 +289,7 @@
 			"2020-03": {"total":4917.50, "Professional Services":4917.50}
 		}
 	},
-	"114": {
+	"118": {
 		"name": "ABC AWARDS",
 		"total": 2119.6,
 		"monthly": {
@@ -231,31 +297,32 @@
 			"2016-08": {"total":691.60, "Business Services":691.60}
 		}
 	},
-	"115": {
+	"119": {
 		"name": "ABC CHILDMINDING",
 		"total": 506.25,
 		"monthly": {
 			"2015-09": {"total":506.25, "Children and Young People":506.25}
 		}
 	},
-	"116": {
+	"120": {
 		"name": "ABC FOOD LAW LTD",
 		"alternate-names": [
 			"ABC FOOD LAW LIMITED"
 		],
-		"total": 195,
+		"total": 390,
 		"monthly": {
-			"2020-01": {"total":195.00, "Business Services":195.00}
+			"2020-01": {"total":195.00, "Business Services":195.00},
+			"2021-02": {"total":195.00, "Business Services":195.00}
 		}
 	},
-	"117": {
+	"121": {
 		"name": "ABERRATION  FILMS LTD",
 		"total": 7000,
 		"monthly": {
 			"2018-04": {"total":7000.00, "Business Services":7000.00}
 		}
 	},
-	"118": {
+	"122": {
 		"name": "ABERRATIONFILMS",
 		"total": 14000,
 		"monthly": {
@@ -263,12 +330,12 @@
 			"2016-11": {"total":7000.00, "Business Services":7000.00}
 		}
 	},
-	"119": {
+	"123": {
 		"name": "ABHI ROSE LTD",
 		"alternate-names": [
 			"ABHI ROSE LIMITED"
 		],
-		"total": 75480.43,
+		"total": 107329.79,
 		"monthly": {
 			"2019-10": {"total":749.90, "Adult Services":749.90},
 			"2019-11": {"total":10571.36, "Adult Services":10571.36},
@@ -281,10 +348,16 @@
 			"2020-06": {"total":9112.12, "Adult Services":9112.12},
 			"2020-07": {"total":4870.78, "Adult Services":4870.78},
 			"2020-08": {"total":7104.53, "Adult Services":7104.53},
-			"2020-09": {"total":3588.73, "Adult Services":3588.73}
+			"2020-09": {"total":3588.73, "Adult Services":3588.73},
+			"2020-10": {"total":5730.09, "Adult Services":5730.09},
+			"2020-11": {"total":2910.95, "Adult Services":2910.95},
+			"2020-12": {"total":6469.88, "Adult Services":6469.88},
+			"2021-01": {"total":3988.47, "Adult Services":3988.47},
+			"2021-02": {"total":2589.45, "Adult Services":2589.45},
+			"2021-03": {"total":10160.52, "Adult Services":10160.52}
 		}
 	},
-	"120": {
+	"124": {
 		"name": "ABILITY LIFTS LTD",
 		"alternate-names": [
 			"ABILITY LIFTS LIMITED"
@@ -294,12 +367,12 @@
 			"2020-01": {"total":286.31, "Property & Regeneration":286.31}
 		}
 	},
-	"121": {
+	"125": {
 		"name": "ABILITY SMART LTD",
 		"alternate-names": [
 			"ABILITY SMART LIMITED"
 		],
-		"total": 7981,
+		"total": 9095.66,
 		"monthly": {
 			"2018-12": {"total":796.00, "Business Services":796.00},
 			"2019-05": {"total":876.00, "Business Services":876.00},
@@ -307,24 +380,25 @@
 			"2019-11": {"total":349.00, "Business Services":349.00},
 			"2020-02": {"total":349.00, "Business Services":349.00},
 			"2020-04": {"total":2082.00, "Business Services":2082.00},
-			"2020-07": {"total":1008.00, "Business Services":1008.00}
+			"2020-07": {"total":1008.00, "Business Services":1008.00},
+			"2020-10": {"total":1114.66, "Business Services":1114.66}
 		}
 	},
-	"122": {
+	"126": {
 		"name": "ABLE MOBILITY LTD",
 		"total": 8000,
 		"monthly": {
 			"2018-04": {"total":8000.00, "Adult Services":8000.00}
 		}
 	},
-	"123": {
+	"127": {
 		"name": "ABLE PARTNERSHIP LTD",
 		"total": 4375,
 		"monthly": {
 			"2014-10": {"total":4375.00, "Adult Services":4375.00}
 		}
 	},
-	"124": {
+	"128": {
 		"name": "ABM BUILDERS & SONS LTD",
 		"total": 80658.17,
 		"monthly": {
@@ -337,25 +411,43 @@
 			"2014-10": {"total":9959.19, "Property & Asset Management":9959.19}
 		}
 	},
-	"125": {
+	"129": {
+		"name": "ABSOLUTE CHILDRENS SERVICES LTD",
+		"total": 75850.4,
+		"monthly": {
+			"2020-12": {"total":23358.50, "Children and Young People":23358.50},
+			"2021-01": {"total":18072.48, "Children and Young People":18072.48},
+			"2021-02": {"total":18084.78, "Children and Young People":18084.78},
+			"2021-03": {"total":16334.64, "Children and Young People":16334.64}
+		}
+	},
+	"130": {
+		"name": "ABSOLUTE INTERPRETING AND TRANSLATIONS LTD",
+		"total": 180,
+		"monthly": {
+			"2021-03": {"total":180.00, "Business Services":180.00}
+		}
+	},
+	"131": {
 		"name": "ABSOLUTE TRANSLATIONS LTD",
-		"total": 9179.99,
+		"total": 9332.88,
 		"monthly": {
 			"2020-03": {"total":3385.28, "Business Services":3385.28},
 			"2020-04": {"total":316.71, "Business Services":316.71},
 			"2020-06": {"total":1040.69, "Business Services":1040.69},
 			"2020-08": {"total":3630.11, "Business Services":3630.11},
-			"2020-09": {"total":807.20, "Business Services":807.20}
+			"2020-09": {"total":807.20, "Business Services":807.20},
+			"2020-12": {"total":152.89, "Business Services":152.89}
 		}
 	},
-	"126": {
+	"132": {
 		"name": "ABSON BLAZA LTD T/A ABSON BLAZA PROPERTY SERVICES",
 		"total": 550,
 		"monthly": {
 			"2018-08": {"total":550.00, "Property & Regeneration":550.00}
 		}
 	},
-	"127": {
+	"133": {
 		"name": "ABSTRACT DANCE PROMOTIONS",
 		"total": 7050,
 		"monthly": {
@@ -366,16 +458,16 @@
 			"2020-07": {"total":1500.00, "Culture & Sport":1500.00}
 		}
 	},
-	"128": {
+	"134": {
 		"name": "AC EDUCATION",
 		"total": 11287.5,
 		"monthly": {
 			"2014-10": {"total":11287.50, "Children and Young People":11287.50}
 		}
 	},
-	"129": {
+	"135": {
 		"name": "ACADEMIC APPOINTMENTS LTD",
-		"total": 29721.69,
+		"total": 46056.69,
 		"monthly": {
 			"2016-10": {"total":17371.69, "Business Services":17371.69},
 			"2019-12": {"total":125.00, "Business Services":125.00},
@@ -386,19 +478,30 @@
 			"2020-06": {"total":1750.00, "Business Services":1750.00},
 			"2020-07": {"total":2850.00, "Business Services":2850.00},
 			"2020-08": {"total":1250.00, "Business Services":1250.00},
-			"2020-09": {"total":375.00, "Business Services":375.00}
+			"2020-09": {"total":375.00, "Business Services":375.00},
+			"2020-10": {"total":5875.00, "Business Services":5875.00},
+			"2020-11": {"total":750.00, "Business Services":750.00},
+			"2020-12": {"total":2500.00, "Business Services":2500.00},
+			"2021-01": {"total":1250.00, "Business Services":1250.00},
+			"2021-02": {"total":1410.00, "Business Services":1410.00},
+			"2021-03": {"total":4550.00, "Business Services":4550.00}
 		}
 	},
-	"130": {
+	"136": {
 		"name": "ACADEMY CARE LTD",
-		"total": 39531.24,
+		"total": 102420.58,
 		"monthly": {
 			"2020-07": {"total":4111.11, "Adult Services":4111.11},
 			"2020-08": {"total":9933.58, "Adult Services":9933.58},
-			"2020-09": {"total":25486.55, "Adult Services":25486.55}
+			"2020-09": {"total":25486.55, "Adult Services":25486.55},
+			"2020-10": {"total":20395.34, "Adult Services":20395.34},
+			"2020-11": {"total":8090.50, "Adult Services":8090.50},
+			"2020-12": {"total":10801.49, "Adult Services":10801.49},
+			"2021-01": {"total":6556.35, "Adult Services":6556.35},
+			"2021-03": {"total":17045.66, "Adult Services":17045.66}
 		}
 	},
-	"131": {
+	"137": {
 		"name": "ACAINN LTD",
 		"total": 5991.69,
 		"monthly": {
@@ -407,14 +510,14 @@
 			"2014-10": {"total":1383.79, "Business Services":1383.79}
 		}
 	},
-	"132": {
+	"138": {
 		"name": "ACAS",
 		"total": 220,
 		"monthly": {
 			"2020-02": {"total":220.00, "Professional Services":220.00}
 		}
 	},
-	"133": {
+	"139": {
 		"name": "ACCENT FOUNDATION LTD",
 		"total": 22978,
 		"monthly": {
@@ -448,9 +551,9 @@
 			"2016-09": {"total":683.52, "Property & Asset Management":683.52}
 		}
 	},
-	"134": {
+	"140": {
 		"name": "ACCESS HIRE NATIONWIDE LTD",
-		"total": 210247.31,
+		"total": 226043.45,
 		"monthly": {
 			"2014-04": {"total":1585.72, "Transport":1585.72},
 			"2014-05": {"total":3003.96, "Transport":3003.96},
@@ -527,10 +630,16 @@
 			"2020-06": {"total":1677.86, "Transport":1677.86},
 			"2020-07": {"total":2235.71, "Transport":2235.71},
 			"2020-08": {"total":1993.57, "Transport":1993.57},
-			"2020-09": {"total":3727.07, "Transport":3727.07}
+			"2020-09": {"total":3727.07, "Transport":3727.07},
+			"2020-10": {"total":1352.21, "Transport":1352.21},
+			"2020-11": {"total":5322.79, "Transport":5322.79},
+			"2020-12": {"total":2760.00, "Transport":2760.00},
+			"2021-01": {"total":2098.57, "Transport":2098.57},
+			"2021-02": {"total":3332.57, "Transport":3332.57},
+			"2021-03": {"total":930.00, "Transport":930.00}
 		}
 	},
-	"135": {
+	"141": {
 		"name": "ACCESS INTELLIGENCE MEDIA & COMMUNICATIONS LTD",
 		"total": 13199.98,
 		"monthly": {
@@ -542,7 +651,7 @@
 			"2020-04": {"total":2400.00, "ICT":2400.00}
 		}
 	},
-	"136": {
+	"142": {
 		"name": "ACCESS MAINTENANCE SOLUTIONS LTD",
 		"total": 20430,
 		"monthly": {
@@ -552,7 +661,7 @@
 			"2014-10": {"total":660.00, "Property & Asset Management":660.00}
 		}
 	},
-	"137": {
+	"143": {
 		"name": "ACCESS PAVING",
 		"total": 16304,
 		"monthly": {
@@ -562,14 +671,21 @@
 			"2018-10": {"total":6222.00, "Property & Regeneration":6222.00}
 		}
 	},
-	"138": {
+	"144": {
+		"name": "ACCESS TESTING",
+		"total": 1106.8,
+		"monthly": {
+			"2021-01": {"total":1106.80, "Business Services":1106.80}
+		}
+	},
+	"145": {
 		"name": "ACCESS UK LTD",
 		"total": 1110,
 		"monthly": {
 			"2020-05": {"total":1110.00, "ICT":1110.00}
 		}
 	},
-	"139": {
+	"146": {
 		"name": "ACCESS UK LTD T/A SELIMA",
 		"total": 2180,
 		"monthly": {
@@ -577,7 +693,7 @@
 			"2019-02": {"total":1121.75, "ICT":1121.75}
 		}
 	},
-	"140": {
+	"147": {
 		"name": "ACCESS-ABILITY UK LTD",
 		"total": 343,
 		"monthly": {
@@ -587,9 +703,9 @@
 			"2020-07": {"total":226.00, "Property & Regeneration":226.00}
 		}
 	},
-	"141": {
+	"148": {
 		"name": "ACCLAIMED SECURITY LTD",
-		"total": 209421.51,
+		"total": 371604.32,
 		"monthly": {
 			"2016-09": {"total":610.00, "Property & Asset Management":610.00},
 			"2016-10": {"total":10080.00, "Property & Regeneration":10080.00},
@@ -610,10 +726,15 @@
 			"2020-06": {"total":24691.10, "Property & Regeneration":24691.10},
 			"2020-07": {"total":31952.25, "Property & Regeneration":31952.25},
 			"2020-08": {"total":31388.50, "Property & Regeneration":31388.50},
-			"2020-09": {"total":37820.96, "Property & Regeneration":37820.96}
+			"2020-09": {"total":37820.96, "Property & Regeneration":37820.96},
+			"2020-10": {"total":34159.11, "Property & Regeneration":34159.11},
+			"2020-11": {"total":36109.80, "Property & Regeneration":36109.80},
+			"2020-12": {"total":34732.12, "Property & Regeneration":34732.12},
+			"2021-01": {"total":33299.80, "Property & Regeneration":33299.80},
+			"2021-02": {"total":23881.98, "Property & Regeneration":23881.98}
 		}
 	},
-	"142": {
+	"149": {
 		"name": "ACCORD MULTI ACADEMY TRUST T/A HORBURY PRIMARY ACADEMY",
 		"total": 18795.25,
 		"monthly": {
@@ -633,84 +754,6 @@
 			"2020-06": {"total":70.50, "Children and Young People":70.50},
 			"2020-07": {"total":103.40, "Children and Young People":103.40},
 			"2020-08": {"total":70.50, "Children and Young People":70.50}
-		}
-	},
-	"143": {
-		"name": "ACCORD MULTI ACADEMY TRUST T/A MIDDLESTOWN PRIMARY ACADEMY",
-		"total": 26451.68,
-		"monthly": {
-			"2017-03": {"total":500.00, "Children and Young People":500.00},
-			"2017-04": {"total":18601.28, "Children and Young People":18601.28},
-			"2017-09": {"total":1552.50, "Children and Young People":1552.50},
-			"2017-11": {"total":1048.80, "Children and Young People":1048.80},
-			"2019-02": {"total":1000.00, "Children and Young People":1000.00},
-			"2019-05": {"total":14.10, "Children and Young People":14.10},
-			"2019-06": {"total":239.70, "Children and Young People":239.70},
-			"2019-07": {"total":402.00, "Children and Young People":402.00},
-			"2019-08": {"total":239.70, "Children and Young People":239.70},
-			"2019-10": {"total":296.10, "Children and Young People":296.10},
-			"2019-11": {"total":267.90, "Children and Young People":267.90},
-			"2019-12": {"total":282.00, "Children and Young People":282.00},
-			"2020-01": {"total":211.50, "Children and Young People":211.50},
-			"2020-02": {"total":372.00, "Children and Young People":372.00},
-			"2020-03": {"total":521.70, "Children and Young People":521.70},
-			"2020-05": {"total":169.20, "Children and Young People":169.20},
-			"2020-06": {"total":211.50, "Children and Young People":211.50},
-			"2020-07": {"total":310.20, "Children and Young People":310.20},
-			"2020-08": {"total":211.50, "Children and Young People":211.50}
-		}
-	},
-	"144": {
-		"name": "ACCORDIAL MANUFACTURING UK",
-		"total": 595,
-		"monthly": {
-			"2014-07": {"total":595.00, "Property & Asset Management":595.00}
-		}
-	},
-	"145": {
-		"name": "ACCRINGTON & ROSSENDALE COLLEGE",
-		"total": 12750,
-		"monthly": {
-			"2018-02": {"total":4250.00, "Children and Young People":4250.00},
-			"2018-03": {"total":4250.00, "Children and Young People":4250.00},
-			"2018-06": {"total":4250.00, "Children and Young People":4250.00}
-		}
-	},
-	"146": {
-		"name": "ACE CONTAINER SERVICES LTD",
-		"total": 2672.6,
-		"monthly": {
-			"2015-09": {"total":1800.00, "Transport":1800.00},
-			"2018-08": {"total":532.60, "Transport":532.60},
-			"2019-09": {"total":340.00, "Transport":340.00}
-		}
-	},
-	"147": {
-		"name": "ACE TAXIS WAKEFIELD LTD",
-		"total": 79617.75,
-		"monthly": {
-			"2017-10": {"total":14725.50, "Transport":14725.50},
-			"2017-12": {"total":28494.25, "Transport":28494.25},
-			"2019-01": {"total":11095.00, "Transport":11095.00},
-			"2019-02": {"total":11392.00, "Transport":11392.00},
-			"2019-03": {"total":13911.00, "Transport":13911.00}
-		}
-	},
-	"148": {
-		"name": "ACENDEN LTD",
-		"alternate-names": [
-			"ACENDEN LIMITED"
-		],
-		"total": 6231.08,
-		"monthly": {
-			"2016-05": {"total":6231.08, "Business Services":6231.08}
-		}
-	},
-	"149": {
-		"name": "ACHIEVING FOR CHILDREN",
-		"total": 1200,
-		"monthly": {
-			"2015-09": {"total":1200.00, "Adult Services":1200.00}
 		}
 	}
 	}

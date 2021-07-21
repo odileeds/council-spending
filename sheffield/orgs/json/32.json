@@ -1,28 +1,825 @@
 {
-	"range": ["2011-01","2020-12"],
+	"range": ["2011-01","2021-06"],
 	"data": {
 	"1600": {
+		"name": "BANKS LONG & CO - CLT 164 WHOLESALE MKT",
+		"total": 603147.19,
+		"monthly": {
+			"2019-09": {"total":69160.57, "PLACE":69160.57},
+			"2019-11": {"total":24284.15, "PLACE":24284.15},
+			"2019-12": {"total":103402.34, "PLACE":103402.34},
+			"2020-03": {"total":69160.57, "PLACE":69160.57},
+			"2020-05": {"total":28000.69, "PLACE":28000.69},
+			"2020-07": {"total":91454.28, "PLACE":91454.28},
+			"2020-08": {"total":271.91, "PLACE":271.91},
+			"2020-09": {"total":91454.28, "PLACE":91454.28},
+			"2020-12": {"total":81188.64, "PLACE":81188.64},
+			"2021-03": {"total":35950.27, "PLACE":35950.27},
+			"2021-04": {"total":8819.49, "PLACE":8819.49}
+		}
+	},
+	"1601": {
+		"name": "BANKWOOD CHILDREN'S CENTRE",
+		"total": 1706,
+		"monthly": {
+			"2011-03": {"total":500.00, "SURESTART GRANTS TO LAS":500.00},
+			"2012-01": {"total":1206.00, "CHILDREN'S HOSP (JESSSOPS/RYEG":706.00, "EMTAS":500.00}
+		}
+	},
+	"1602": {
+		"name": "BANKWOOD PRIMARY SCHOOL",
+		"total": 2400,
+		"monthly": {
+			"2018-06": {"total":2400.00, "PEOPLE":2400.00}
+		}
+	},
+	"1603": {
+		"name": "BANNER BOX",
+		"total": 58777.7,
+		"monthly": {
+			"2014-07": {"total":2562.00, "COMMUNICATIONS":2562.00},
+			"2015-04": {"total":1943.00, "MARKETING SHEFFIELD":1943.00},
+			"2015-05": {"total":1522.24, "CITY CENTRE PROMOTIONAL PLAN":1522.24},
+			"2015-10": {"total":2801.53, "PLACE":2801.53},
+			"2015-11": {"total":2664.48, "PLACE":2664.48},
+			"2016-03": {"total":3462.54, "PLACE":3462.54},
+			"2016-11": {"total":1236.50, "PLACE":1236.50},
+			"2017-03": {"total":540.00, "PLACE":540.00},
+			"2017-07": {"total":3374.90, "PLACE":3374.90},
+			"2017-10": {"total":1642.24, "PLACE":1642.24},
+			"2017-11": {"total":270.00, "PLACE":270.00},
+			"2018-01": {"total":5404.20, "LOCAL ENTERPRISE PARTNERSHIP":3085.60, "PLACE":2318.60},
+			"2018-02": {"total":250.00, "PLACE":250.00},
+			"2018-03": {"total":1875.50, "PLACE":1875.50},
+			"2018-05": {"total":1783.40, "PLACE":1783.40},
+			"2018-08": {"total":6315.80, "PLACE":6315.80},
+			"2018-09": {"total":1335.50, "PLACE":1335.50},
+			"2018-11": {"total":520.00, "PLACE":520.00},
+			"2019-03": {"total":1971.90, "PLACE":1971.90},
+			"2019-04": {"total":250.00, "PLACE":250.00},
+			"2019-05": {"total":1783.40, "PLACE":1783.40},
+			"2019-08": {"total":2551.60, "PLACE":2551.60},
+			"2019-09": {"total":540.00, "POLICY, PERFORMANCE AND COMMS":270.00, "PLACE":270.00},
+			"2020-02": {"total":1981.90, "PLACE":1981.90},
+			"2020-03": {"total":414.00, "POLICY, PERFORMANCE AND COMMS":414.00},
+			"2020-04": {"total":4250.00, "PEOPLE":4250.00},
+			"2020-08": {"total":1783.40, "PLACE":1783.40},
+			"2021-04": {"total":3050.44, "POLICY, PERFORMANCE AND COMMS":1395.20, "PLACE":1655.24},
+			"2021-05": {"total":275.00, "PLACE":275.00},
+			"2021-06": {"total":422.23, "POLICY, PERFORMANCE AND COMMS":422.23}
+		}
+	},
+	"1604": {
+		"name": "BANNER CROSS LUNCHEON & FRIENDSHIP CLUB",
+		"total": 22066,
+		"monthly": {
+			"2012-04": {"total":768.50, "VS- LUNCH CLUB GRANT":768.50},
+			"2012-07": {"total":768.50, "VS- LUNCH CLUB GRANT":768.50},
+			"2012-10": {"total":768.50, "VS- LUNCH CLUB GRANT":768.50},
+			"2013-01": {"total":768.50, "VS- LUNCH CLUB GRANT":768.50},
+			"2013-04": {"total":788.50, "VS- LUNCH CLUB GRANT":788.50},
+			"2013-09": {"total":399.50, "LUNCH CLUB GRANT":399.50},
+			"2013-10": {"total":958.50, "LUNCH CLUB GRANT":958.50},
+			"2014-01": {"total":788.50, "LUNCH CLUB GRANT":788.50},
+			"2014-04": {"total":725.00, "LUNCH CLUB GRANT":725.00},
+			"2014-07": {"total":725.00, "LUNCH CLUB GRANT":725.00},
+			"2014-10": {"total":725.00, "LUNCH CLUB GRANT":725.00},
+			"2015-01": {"total":725.00, "LUNCH CLUB GRANT":725.00},
+			"2015-04": {"total":667.00, "LUNCH CLUB GRANT":667.00},
+			"2015-07": {"total":666.00, "COMMUNITIES":666.00},
+			"2015-10": {"total":666.00, "COMMUNITIES":666.00},
+			"2016-01": {"total":666.00, "COMMUNITIES":666.00},
+			"2016-04": {"total":666.00, "COMMUNITIES":666.00},
+			"2016-06": {"total":666.00, "COMMUNITIES":666.00},
+			"2016-10": {"total":666.00, "COMMUNITIES":666.00},
+			"2017-01": {"total":667.00, "COMMUNITIES":667.00},
+			"2017-04": {"total":663.00, "COMMUNITIES":663.00},
+			"2017-07": {"total":663.00, "COMMUNITIES":663.00},
+			"2017-10": {"total":663.00, "PEOPLE":663.00},
+			"2018-01": {"total":663.00, "PEOPLE":663.00},
+			"2018-04": {"total":644.00, "PEOPLE":644.00},
+			"2018-07": {"total":644.00, "PEOPLE":644.00},
+			"2018-09": {"total":644.00, "PEOPLE":644.00},
+			"2019-01": {"total":644.00, "PEOPLE":644.00},
+			"2019-04": {"total":649.00, "PEOPLE":649.00},
+			"2019-07": {"total":650.00, "PEOPLE":650.00},
+			"2019-10": {"total":650.00, "PEOPLE":650.00},
+			"2020-01": {"total":650.00, "PEOPLE":650.00}
+		}
+	},
+	"1605": {
+		"name": "BANNER CROSS LUNCHEON CLUB",
+		"total": 3787.75,
+		"monthly": {
+			"2011-01": {"total":783.75, "LUNCH CLUB GRANT":783.75},
+			"2011-04": {"total":751.00, "LUNCH CLUB GRANT":751.00},
+			"2011-08": {"total":751.00, "VS- LUNCH CLUB GRANT":751.00},
+			"2011-09": {"total":751.00, "VS- LUNCH CLUB GRANT":751.00},
+			"2012-01": {"total":751.00, "VS- LUNCH CLUB GRANT":751.00}
+		}
+	},
+	"1606": {
+		"name": "BANNER CROSS METHODIST CHURCH",
+		"total": 3000,
+		"monthly": {
+			"2012-12": {"total":250.00, "NATIONAL ELECTIONS":250.00},
+			"2014-06": {"total":250.00, "LOCAL ELECTIONS":250.00},
+			"2014-11": {"total":250.00, "NATIONAL ELECTIONS":250.00},
+			"2015-05": {"total":250.00, "LOCAL ELECTIONS":250.00},
+			"2016-05": {"total":250.00, "POLICY PERFORMANCE AND COMMS":250.00},
+			"2016-07": {"total":250.00, "POLICY PERFORMANCE AND COMMS":250.00},
+			"2017-06": {"total":250.00, "POLICY PERFORMANCE AND COMMS":250.00},
+			"2018-05": {"total":250.00, "POLICY, PERFORMANCE AND COMMS":250.00},
+			"2019-06": {"total":500.00, "POLICY, PERFORMANCE AND COMMS":500.00},
+			"2020-01": {"total":250.00, "POLICY, PERFORMANCE AND COMMS":250.00},
+			"2021-06": {"total":250.00, "POLICY, PERFORMANCE AND COMMS":250.00}
+		}
+	},
+	"1607": {
+		"name": "BANNER CROSS NEIGHBOURHOOD GROUP",
+		"total": 5683,
+		"monthly": {
+			"2011-01": {"total":510.00, "CA SMALL GRANT":510.00},
+			"2012-06": {"total":500.00, "COMMUNITY ASSEMBLY SOUTH WEST":500.00},
+			"2014-03": {"total":4115.00, "TDLC":4115.00},
+			"2018-01": {"total":258.00, "PEOPLE":258.00},
+			"2020-02": {"total":300.00, "PEOPLE":300.00}
+		}
+	},
+	"1608": {
+		"name": "BANNER JONES",
+		"total": 198500,
+		"monthly": {
+			"2014-03": {"total":70000.00, "LTE'S PURCHASE & REPAIR":70000.00},
+			"2015-09": {"total":67500.00, "PLACE":67500.00},
+			"2015-11": {"total":61000.00, "PLACE":61000.00}
+		}
+	},
+	"1609": {
+		"name": "BANNER JONES SOLICITORS",
+		"total": 1526336.43,
+		"monthly": {
+			"2011-03": {"total":160319.78, "SWAN":160319.78},
+			"2011-05": {"total":83744.40, "SWAN":83744.40},
+			"2011-07": {"total":83744.40, "SWAN":83744.40},
+			"2011-10": {"total":82432.00, "SWAN":82432.00},
+			"2012-01": {"total":79639.00, "SWAN":79639.00},
+			"2012-02": {"total":82399.50, "SWAN":82399.50},
+			"2012-08": {"total":66210.14, "SWAN":66210.14},
+			"2013-03": {"total":73774.21, "PARK HILL (STH)":73774.21},
+			"2014-07": {"total":62000.00, "LTE'S PURCHASE & REPAIR":62000.00},
+			"2015-06": {"total":189000.00, "COUNCIL HSG ACQUISITIONS PROG":189000.00},
+			"2015-12": {"total":157173.00, "PLACE":157173.00},
+			"2016-06": {"total":58500.00, "PLACE":58500.00},
+			"2018-05": {"total":70000.00, "PLACE":70000.00},
+			"2018-07": {"total":69500.00, "PLACE":69500.00},
+			"2018-08": {"total":65000.00, "PLACE":65000.00},
+			"2019-09": {"total":141400.00, "PLACE":141400.00},
+			"2020-08": {"total":1000.00, "PEOPLE":1000.00},
+			"2020-10": {"total":500.00, "PEOPLE":500.00}
+		}
+	},
+	"1610": {
+		"name": "BANNER PLANT  LTD",
+		"total": 168450.73,
+		"monthly": {
+			"2011-01": {"total":11733.35, "STREET FORCE BALANCE SHEET":11029.35, "WOODLAND GATEWAY BUILDING":704.00},
+			"2011-02": {"total":1564.00, "STREET FORCE BALANCE SHEET":1564.00},
+			"2011-03": {"total":8368.00, "CITY CENTRE PROMOTIONAL PLAN":930.00, "STREET FORCE BALANCE SHEET":7438.00},
+			"2011-05": {"total":8023.22, "EVENTS IN PARKS":711.22, "STREET FORCE BALANCE SHEET":5512.00, "WOODLAND GATEWAY BUILDING":1800.00},
+			"2011-06": {"total":2099.00, "STREET FORCE BALANCE SHEET":2099.00},
+			"2011-07": {"total":2695.00, "STREET FORCE BALANCE SHEET":1815.00, "WOODLAND GATEWAY BUILDING":880.00},
+			"2011-08": {"total":3348.00, "CITY CENTRE PROMOTIONAL PLAN":1300.00, "STREET FORCE BALANCE SHEET":1208.00, "WOODLAND GATEWAY BUILDING":840.00},
+			"2011-09": {"total":12384.22, "CITY CENTRE PROMOTIONAL PLAN":7000.00, "EVENTS IN PARKS":1672.44, "STREET FORCE BALANCE SHEET":2946.00, "WOODLAND GATEWAY BUILDING":765.78},
+			"2011-10": {"total":4081.00, "STREET FORCE BALANCE SHEET":4081.00},
+			"2011-11": {"total":6776.25, "STREET FORCE BALANCE SHEET":6776.25},
+			"2011-12": {"total":2328.05, "STREET FORCE BALANCE SHEET":1666.25, "SWEEP":661.80},
+			"2012-01": {"total":5749.55, "STREET FORCE BALANCE SHEET":5749.55},
+			"2012-02": {"total":1994.00, "STREET FORCE BALANCE SHEET":1994.00},
+			"2012-03": {"total":6158.80, "FIRST START CHILDRENS CENTRE":2400.00, "STREET FORCE BALANCE SHEET":3758.80},
+			"2012-04": {"total":3580.00, "PARKS OPERATIONS EAST":1450.00, "STREET FORCE BALANCE SHEET":2130.00},
+			"2012-05": {"total":1972.00, "STREET FORCE BALANCE SHEET":1972.00},
+			"2012-06": {"total":506.00, "GENERAL ADMINISTRATION":506.00},
+			"2012-07": {"total":3622.00, "STREET FORCE BALANCE SHEET":3622.00},
+			"2012-08": {"total":5775.00, "EVENTS IN PARKS":3300.00, "ITC":1815.00, "STREET FORCE BALANCE SHEET":660.00},
+			"2012-09": {"total":4352.00, "EVENTS IN PARKS":1550.00, "GENERAL ADMINISTRATION":506.00, "GRNI NO LIABILITY VAL / OHEAD":2296.00},
+			"2012-11": {"total":1096.00, "CITY CENTRE PROMOTIONAL PLAN":590.00, "GENERAL ADMINISTRATION":506.00},
+			"2012-12": {"total":710.00, "CITY CENTRE PROMOTIONAL PLAN":710.00},
+			"2013-01": {"total":3392.00, "CASTLE MARKET":600.00, "CRYSTAL PEAKS":1200.00, "ECCLESALL WOODS SAWMILL SITE":296.00, "GENERAL ADMINISTRATION":946.00, "WOODLANDS":350.00},
+			"2013-02": {"total":868.00, "CASTLE MARKET":362.00, "GENERAL ADMINISTRATION":506.00},
+			"2013-03": {"total":440.00, "GENERAL ADMINISTRATION":440.00},
+			"2013-04": {"total":462.00, "TRANSPORT FLEET MANAGEMENT":462.00},
+			"2013-05": {"total":2424.00, "ARBOURTHORNE PLAYGROUND":700.00, "EVENTS IN PARKS":1240.00, "GENERAL ADMINISTRATION":484.00},
+			"2013-06": {"total":756.00, "EVENTS IN PARKS":250.00, "GENERAL ADMINISTRATION":506.00},
+			"2013-07": {"total":2826.00, "CRYSTAL PEAKS":886.00, "GENERAL ADMINISTRATION":440.00, "PEACE GARDENS":1500.00},
+			"2013-08": {"total":1058.00, "CRYSTAL PEAKS":552.00, "GENERAL ADMINISTRATION":506.00},
+			"2013-09": {"total":7946.31, "CRYSTAL PEAKS":2518.00, "EVENTS IN PARKS":4354.31, "GENERAL ADMINISTRATION":484.00, "PEACE GARDENS":590.00},
+			"2013-10": {"total":5700.00, "CITY CENTRE PROMOTIONAL PLAN":480.00, "CRYSTAL PEAKS":3108.00, "EVENTS IN PARKS":1650.00, "GENERAL ADMINISTRATION":462.00},
+			"2013-11": {"total":1983.20, "CASTLE MARKET":257.20, "CITY CENTRE PROMOTIONAL PLAN":1220.00, "GENERAL ADMINISTRATION":506.00},
+			"2013-12": {"total":462.00, "GENERAL ADMINISTRATION":462.00},
+			"2014-01": {"total":1513.20, "CASTLE MARKET":567.20, "GENERAL ADMINISTRATION":946.00},
+			"2014-02": {"total":506.00, "GENERAL ADMINISTRATION":506.00},
+			"2014-03": {"total":1332.04, "CRYSTAL PEAKS":521.24, "GENERAL ADMINISTRATION":352.00, "URBAN NATURE PARKS":458.80},
+			"2014-04": {"total":369.60, "GENERAL ADMINISTRATION":369.60},
+			"2014-05": {"total":1845.20, "EVENTS IN PARKS":1140.00, "GENERAL ADMINISTRATION":387.20, "RANGER SERVICE":318.00},
+			"2014-06": {"total":1792.00, "CITY CENTRE PROMOTIONAL PLAN":740.00, "GENERAL ADMINISTRATION":387.20, "TREES & WOODLAND EDUCATION":664.80},
+			"2014-07": {"total":2349.60, "EVENTS IN PARKS":1320.00, "GENERAL ADMINISTRATION":369.60, "TOUR DE FRANCE":360.00, "TREES & WOODLAND EDUCATION":300.00},
+			"2014-08": {"total":1282.20, "CITY CENTRE MANAGEMENT & ADMIN":590.00, "GENERAL ADMINISTRATION":404.80, "RANGER SERVICE":287.40},
+			"2014-09": {"total":2225.60, "EVENTS IN PARKS":1590.00, "GENERAL ADMINISTRATION":369.60, "RANGER SERVICE":266.00},
+			"2014-10": {"total":387.20, "GENERAL ADMINISTRATION":387.20},
+			"2014-11": {"total":2104.80, "CITY CENTRE PROMOTIONAL PLAN":780.00, "GENERAL ADMINISTRATION":404.80, "SPORTS EVENTS":920.00},
+			"2014-12": {"total":1156.00, "CITY CENTRE PROMOTIONAL PLAN":580.00, "RANGER SERVICE":576.00},
+			"2015-01": {"total":3027.60, "CRYSTAL PEAKS":558.00, "GENERAL ADMINISTRATION":2164.00, "URBAN NATURE PARKS":305.60},
+			"2015-02": {"total":292.40, "URBAN NATURE PARKS":292.40},
+			"2015-04": {"total":305.60, "URBAN NATURE PARKS":305.60},
+			"2015-05": {"total":505.00, "SYFP & FC":505.00},
+			"2015-06": {"total":2093.20, "CITY CENTRE PROMOTIONAL PLAN":775.00, "ROYAL VISIT 2015":400.00, "THE MOOR INDOOR MARKET":918.20},
+			"2015-07": {"total":710.00, "PLACE":710.00},
+			"2016-02": {"total":370.00, "PLACE":370.00},
+			"2016-03": {"total":1181.60, "PLACE":1181.60},
+			"2016-04": {"total":358.00, "PLACE":358.00},
+			"2016-05": {"total":2380.00, "PLACE":2380.00},
+			"2016-06": {"total":8554.00, "PLACE":8554.00},
+			"2016-07": {"total":280.00, "PLACE":280.00},
+			"2016-09": {"total":736.00, "PLACE":736.00},
+			"2016-12": {"total":653.00, "PLACE":653.00},
+			"2017-04": {"total":505.80, "PLACE":505.80},
+			"2017-06": {"total":975.00, "PLACE":975.00},
+			"2017-07": {"total":1427.14, "RESOURCES":1427.14}
+		}
+	},
+	"1611": {
+		"name": "BANNER PLANT LTD",
+		"total": 97486.85,
+		"monthly": {
+			"2017-09": {"total":998.70, "PLACE":998.70},
+			"2017-10": {"total":648.70, "PLACE":648.70},
+			"2017-11": {"total":1135.00, "PLACE":1135.00},
+			"2018-02": {"total":405.00, "PLACE":405.00},
+			"2018-03": {"total":2005.00, "PLACE":2005.00},
+			"2018-04": {"total":1052.00, "PLACE":1052.00},
+			"2018-05": {"total":1884.00, "PLACE":1884.00},
+			"2018-07": {"total":280.00, "PLACE":280.00},
+			"2018-08": {"total":2527.00, "PEOPLE":36.00, "PLACE":2491.00},
+			"2018-09": {"total":677.00, "PLACE":677.00},
+			"2018-10": {"total":260.00, "PLACE":260.00},
+			"2018-11": {"total":1489.40, "PLACE":1489.40},
+			"2018-12": {"total":7312.00, "PLACE":7312.00},
+			"2019-01": {"total":953.40, "PLACE":953.40},
+			"2019-02": {"total":13222.00, "PLACE":13222.00},
+			"2019-03": {"total":250.00, "PLACE":250.00},
+			"2019-04": {"total":677.00, "PLACE":677.00},
+			"2019-05": {"total":878.00, "PLACE":878.00},
+			"2019-06": {"total":3769.45, "PLACE":3769.45},
+			"2019-07": {"total":1495.40, "PLACE":1495.40},
+			"2019-08": {"total":1362.00, "PLACE":1362.00},
+			"2019-09": {"total":5318.40, "PLACE":5318.40},
+			"2019-10": {"total":1517.00, "PLACE":1517.00},
+			"2019-11": {"total":1650.00, "PLACE":1650.00},
+			"2019-12": {"total":5221.00, "PLACE":5221.00},
+			"2020-01": {"total":3907.00, "PLACE":3907.00},
+			"2020-02": {"total":2517.00, "PLACE":2517.00},
+			"2020-03": {"total":2040.00, "PLACE":2040.00},
+			"2020-04": {"total":677.00, "PLACE":677.00},
+			"2020-05": {"total":5627.00, "PLACE":5627.00},
+			"2020-07": {"total":250.00, "PLACE":250.00},
+			"2020-08": {"total":1870.00, "PLACE":1870.00},
+			"2020-09": {"total":5380.40, "PLACE":5380.40},
+			"2020-10": {"total":1293.60, "PLACE":1293.60},
+			"2020-11": {"total":1557.00, "PLACE":1557.00},
+			"2020-12": {"total":2259.40, "PLACE":2259.40},
+			"2021-01": {"total":432.40, "PLACE":432.40},
+			"2021-02": {"total":1681.80, "PLACE":1681.80},
+			"2021-03": {"total":1790.00, "PLACE":1790.00},
+			"2021-04": {"total":1139.40, "PLACE":1139.40},
+			"2021-05": {"total":5765.60, "PLACE":5765.60},
+			"2021-06": {"total":2311.80, "PLACE":2311.80}
+		}
+	},
+	"1612": {
+		"name": "BANSA SINGH HAYER",
+		"total": 950,
+		"monthly": {
+			"2013-10": {"total":400.00, "CARE PROCEEDINGS (LEGAL FEES)":400.00},
+			"2014-08": {"total":550.00, "CARE PROCEEDINGS (LEGAL FEES)":550.00}
+		}
+	},
+	"1613": {
+		"name": "BANYA FAMILY PLACEMENT AGENCY",
+		"total": 95489.79,
+		"monthly": {
+			"2011-01": {"total":10823.34, "INDEPENDENT RESIDENTAL PLACEME":10823.34},
+			"2011-03": {"total":4887.96, "INDEPENDENT RESIDENTAL PLACEME":4887.96},
+			"2011-04": {"total":5411.67, "INDEPENDENT RESIDENTAL PLACEME":5411.67},
+			"2011-05": {"total":5237.10, "INDEPENDENT RESIDENTAL PLACEME":5237.10},
+			"2011-06": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2011-07": {"total":5237.10, "CWD INDEPENDENT PLACEMENTS":5237.10},
+			"2011-12": {"total":5237.10, "CWD INDEPENDENT PLACEMENTS":5237.10},
+			"2012-03": {"total":5062.53, "CWD INDEPENDENT PLACEMENTS":5062.53},
+			"2013-02": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2013-05": {"total":5237.10, "CWD INDEPENDENT PLACEMENTS":5237.10},
+			"2013-06": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2013-07": {"total":5237.10, "CWD INDEPENDENT PLACEMENTS":5237.10},
+			"2013-08": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2013-09": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2013-10": {"total":5237.10, "CWD INDEPENDENT PLACEMENTS":5237.10},
+			"2013-11": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2014-01": {"total":5411.67, "CWD INDEPENDENT PLACEMENTS":5411.67},
+			"2014-04": {"total":0.00, "CWD INDEPENDENT PLACEMENTS":0.00}
+		}
+	},
+	"1614": {
+		"name": "BANYA FAMILY PLACEMENT AGENCY LTD",
+		"total": 275567.24,
+		"monthly": {
+			"2017-09": {"total":10823.34, "PEOPLE":10823.34},
+			"2018-01": {"total":21297.54, "PEOPLE":21297.54},
+			"2018-03": {"total":10299.63, "PEOPLE":10299.63},
+			"2018-05": {"total":10648.77, "PEOPLE":10648.77},
+			"2018-07": {"total":10648.77, "PEOPLE":10648.77},
+			"2018-09": {"total":5062.61, "PEOPLE":5062.61},
+			"2019-05": {"total":6615.17, "PEOPLE":6615.17},
+			"2019-06": {"total":6864.29, "PEOPLE":6864.29},
+			"2019-07": {"total":6642.86, "PEOPLE":6642.86},
+			"2019-08": {"total":6864.29, "PEOPLE":6864.29},
+			"2019-09": {"total":6864.29, "PEOPLE":6864.29},
+			"2019-10": {"total":6642.86, "PEOPLE":6642.86},
+			"2019-11": {"total":6864.29, "PEOPLE":6864.29},
+			"2020-02": {"total":13507.15, "PEOPLE":13507.15},
+			"2020-03": {"total":7307.11, "PEOPLE":7307.11},
+			"2020-04": {"total":6864.29, "PEOPLE":6864.29},
+			"2020-05": {"total":6642.86, "PEOPLE":6642.86},
+			"2020-06": {"total":6864.29, "PEOPLE":6864.29},
+			"2020-07": {"total":6642.86, "PEOPLE":6642.86},
+			"2020-08": {"total":6864.29, "PEOPLE":6864.29},
+			"2020-09": {"total":19541.17, "PEOPLE":19541.17},
+			"2020-10": {"total":6642.86, "PEOPLE":6642.86},
+			"2020-11": {"total":8524.94, "PEOPLE":8524.94},
+			"2020-12": {"total":6642.86, "PEOPLE":6642.86},
+			"2021-01": {"total":17492.44, "PEOPLE":17492.44},
+			"2021-02": {"total":16330.83, "PEOPLE":16330.83},
+			"2021-03": {"total":9521.30, "PEOPLE":9521.30},
+			"2021-04": {"total":6532.13, "PEOPLE":6532.13},
+			"2021-05": {"total":6642.86, "PEOPLE":6642.86},
+			"2021-06": {"total":6864.29, "PEOPLE":6864.29}
+		}
+	},
+	"1615": {
+		"name": "BANYARD CONSULTANTS LTD",
+		"alternate-names": [
+			"BANYARD CONSULTANTS LIMITED"
+		],
+		"total": 85296.31,
+		"monthly": {
+			"2017-12": {"total":8496.00, "PLACE":8496.00},
+			"2018-01": {"total":2832.00, "PLACE":2832.00},
+			"2018-02": {"total":495.60, "PLACE":495.60},
+			"2018-03": {"total":495.60, "PLACE":495.60},
+			"2018-04": {"total":2478.00, "PLACE":2478.00},
+			"2018-06": {"total":2478.00, "PLACE":2478.00},
+			"2018-07": {"total":2478.00, "PLACE":2478.00},
+			"2018-08": {"total":4460.40, "PLACE":4460.40},
+			"2018-09": {"total":4460.40, "PLACE":4460.40},
+			"2018-10": {"total":6938.40, "PLACE":6938.40},
+			"2018-11": {"total":7929.60, "PLACE":7929.60},
+			"2018-12": {"total":7929.60, "PLACE":7929.60},
+			"2019-01": {"total":26539.39, "PLACE":26539.39},
+			"2019-03": {"total":7285.32, "PLACE":7285.32}
+		}
+	},
+	"1616": {
+		"name": "BAOBAB CENTRE",
+		"total": 3300,
+		"monthly": {
+			"2020-12": {"total":2960.00, "RESOURCES":2960.00},
+			"2021-03": {"total":340.00, "RESOURCES":340.00}
+		}
+	},
+	"1617": {
+		"name": "BAPP INDUSTRIAL SUPPLIES",
+		"total": 1120,
+		"monthly": {
+			"2016-04": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"1618": {
+		"name": "BARATHAY TRUST",
+		"total": 750,
+		"monthly": {
+			"2014-08": {"total":750.00, "CENTRAL":750.00}
+		}
+	},
+	"1619": {
+		"name": "BARBARA FLETCHER",
+		"total": 6000.86,
+		"monthly": {
+			"2011-12": {"total":4401.36, "ADOPTION ALLOWANCES":1153.36, "IN HOUSE FOSTER PLACEMENT":3248.00},
+			"2012-03": {"total":1599.50, "IN HOUSE FOSTER PLACEMENT":1599.50}
+		}
+	},
+	"1620": {
+		"name": "BARBARA REECE",
+		"total": 4090,
+		"monthly": {
+			"2011-12": {"total":2558.00, "IN HOUSE FOSTER PLACEMENT":2558.00},
+			"2012-03": {"total":1532.00, "IN HOUSE FOSTER PLACEMENT":1532.00}
+		}
+	},
+	"1621": {
+		"name": "BARBER BARBER",
+		"total": 9000,
+		"monthly": {
+			"2017-06": {"total":4500.00, "CA LEP":4500.00},
+			"2017-11": {"total":3000.00, "LOCAL ENTERPRISE PARTNERSHIP":3000.00},
+			"2018-01": {"total":1500.00, "LOCAL ENTERPRISE PARTNERSHIP":1500.00}
+		}
+	},
+	"1622": {
+		"name": "BARBER HARRISON & PLATT",
+		"total": 202589.5,
+		"monthly": {
+			"2011-02": {"total":640.00, "FULWOOD & WHIRLOW":640.00},
+			"2011-09": {"total":4995.00, "BUSINESS GROWTH":4995.00},
+			"2011-11": {"total":555.00, "BUSINESS GROWTH":555.00},
+			"2011-12": {"total":750.00, "BUSINESS GROWTH":750.00},
+			"2012-02": {"total":600.00, "SH GENERAL":600.00},
+			"2012-03": {"total":650.00, "FULWOOD & WHIRLOW":650.00},
+			"2012-05": {"total":6275.00, "BURNGREAVE NEW DEAL":6275.00},
+			"2013-02": {"total":10440.00, "PARKS GENERAL":10440.00},
+			"2013-03": {"total":2352.50, "FULWOOD & WHIRLOW":517.50, "PARKS GENERAL":1835.00},
+			"2013-08": {"total":9500.00, "GRANT DD":3000.00, "SECTOR GROWTH":6500.00},
+			"2014-01": {"total":1000.00, "GRANT DD":1000.00},
+			"2014-02": {"total":10365.00, "PARKS GENERAL":8865.00, "STRATEGY AND SKILLS":1500.00},
+			"2014-03": {"total":575.00, "FULWOOD & WHIRLOW":575.00},
+			"2014-05": {"total":2135.00, "PARKS GENERAL":635.00, "STRATEGY AND SKILLS":1500.00},
+			"2014-07": {"total":350.00, "PARKS GENERAL":350.00},
+			"2015-02": {"total":10475.00, "FULWOOD & WHIRLOW":575.00, "PARKS GENERAL":9900.00},
+			"2015-03": {"total":1100.00, "PARKS GENERAL":1100.00},
+			"2015-04": {"total":7000.00, "ELECTRIC WORKS BUSINESS CENTRE":7000.00},
+			"2016-01": {"total":9337.50, "PLACE":9337.50},
+			"2016-03": {"total":1037.50, "PLACE":1037.50},
+			"2017-01": {"total":10476.00, "PLACE":9855.00, "RESOURCES":621.00},
+			"2017-03": {"total":1095.00, "PLACE":1095.00},
+			"2018-01": {"total":33507.00, "PLACE":33507.00},
+			"2018-03": {"total":621.00, "PLACE":621.00},
+			"2018-06": {"total":3723.00, "PLACE":3723.00},
+			"2019-01": {"total":34749.00, "PLACE":34749.00},
+			"2019-02": {"total":69.00, "PLACE":69.00},
+			"2019-03": {"total":4240.50, "PLACE":4240.50},
+			"2020-01": {"total":9855.00, "PLACE":9855.00},
+			"2020-02": {"total":11551.50, "PLACE":5551.50, "RESOURCES":6000.00},
+			"2021-02": {"total":6000.00, "RESOURCES":6000.00},
+			"2021-03": {"total":0.00, "PLACE":0.00},
+			"2021-04": {"total":0.00, "PLACE":0.00},
+			"2021-06": {"total":6570.00, "PLACE":6570.00}
+		}
+	},
+	"1623": {
+		"name": "BARBER OF SHEFFIELD LTD",
+		"alternate-names": [
+			"BARBER OF SHEFFIELD LIMITED"
+		],
+		"total": 1783.25,
+		"monthly": {
+			"2017-04": {"total":788.25, "PLACE":788.25},
+			"2017-07": {"total":995.00, "PLACE":995.00}
+		}
+	},
+	"1624": {
+		"name": "BARBOUR EHS",
+		"total": 23267.53,
+		"monthly": {
+			"2017-05": {"total":4600.00, "RESOURCES":4600.00},
+			"2018-05": {"total":5014.00, "PLACE":5014.00},
+			"2019-05": {"total":5465.26, "PLACE":5465.26},
+			"2021-02": {"total":1695.00, "RESOURCES":1695.00},
+			"2021-05": {"total":6493.27, "PLACE":6493.27}
+		}
+	},
+	"1625": {
+		"name": "BARBOUR LOGIC",
+		"total": 35730,
+		"monthly": {
+			"2019-08": {"total":9550.00, "PLACE":9550.00},
+			"2020-03": {"total":26180.00, "RESOURCES":26180.00}
+		}
+	},
+	"1626": {
+		"name": "BARC PRODUCTS LTD",
+		"total": 9444.9,
+		"monthly": {
+			"2016-03": {"total":1000.00, "PLACE":1000.00},
+			"2016-10": {"total":1066.73, "CYPF":1066.73},
+			"2017-01": {"total":793.90, "CYPF":793.90},
+			"2017-06": {"total":1025.10, "CYPF":1025.10},
+			"2017-10": {"total":2494.70, "LOCAL ENTERPRISE PARTNERSHIP":2000.00, "PEOPLE":494.70},
+			"2017-11": {"total":600.10, "PEOPLE":600.10},
+			"2018-07": {"total":2464.37, "PEOPLE":2464.37}
+		}
+	},
+	"1627": {
+		"name": "BARCHAM TREES PLC",
+		"total": 118604.6,
+		"monthly": {
+			"2011-03": {"total":33368.40, "BCNE/SHARROW COMMUNITY FORESTE":8505.00, "BRIGHTSIDE/SHIREGREEN COM FORE":2566.80, "BURNGREAVE DARNALL & TINSLEY C":6707.70, "PARK HEELEY COMMUNITY FOREST":4383.90, "SHEFFIELD HOMES TREES":6178.50, "SOUTH EAST COMMUNITY ASSEMBLY":5026.50},
+			"2011-10": {"total":610.20, "TREES & WOODLAND EDUCATION":610.20},
+			"2011-12": {"total":6534.00, "MILLHOUSES PARK GYM":2865.60, "PARKS OPERATIONS WEST":1267.20, "SHEFFIELD HOMES TREES":2401.20},
+			"2012-01": {"total":3908.70, "BRIGHTSIDE/SHIREGREEN COM FORE":3908.70},
+			"2012-02": {"total":4275.00, "BRIGHTSIDE/SHIREGREEN COM FORE":4275.00},
+			"2012-03": {"total":4329.00, "BRIGHTSIDE/SHIREGREEN COM FORE":2382.30, "TREES & WOODLAND EDUCATION":1946.70},
+			"2012-04": {"total":952.20, "TREES & WOODLANDS RECH WORKS":952.20},
+			"2012-10": {"total":2368.80, "TREES & WOODLAND EDUCATION":2368.80},
+			"2013-01": {"total":3936.60, "COMMUNITY FORESTRY":2784.60, "TREES & WOODLAND EDUCATION":1152.00},
+			"2013-02": {"total":2334.60, "SHEFFIELD HOMES TREES":2334.60},
+			"2013-03": {"total":4639.50, "SHEFFIELD HOMES TREES":4639.50},
+			"2013-11": {"total":4760.10, "TREE TEAM":1171.80, "TREES & WOODLAND EDUCATION":3588.30},
+			"2013-12": {"total":1415.70, "SHEFFIELD HOMES TREES":1415.70},
+			"2014-01": {"total":330.30, "WESTON PARK":330.30},
+			"2014-06": {"total":1472.40, "AREA EAST":603.90, "URBAN NATURE PARKS":868.50},
+			"2014-10": {"total":5542.70, "TREE TEAM":299.70, "TREES & WOODLAND EDUCATION":5243.00},
+			"2014-12": {"total":480.60, "VACANT PROPERTIES":480.60},
+			"2015-01": {"total":332.10, "SHEFFIELD HOMES TREES":332.10},
+			"2015-02": {"total":2911.10, "COMMUNITY FORESTRY":886.10, "SHEFFIELD HOMES TREES":2025.00},
+			"2015-04": {"total":3860.30, "NORTHERN VALLEYS INC SSV":695.00, "SHEFFIELD HOMES TREES":3165.30},
+			"2015-11": {"total":756.45, "PLACE":756.45},
+			"2016-01": {"total":255.85, "PLACE":255.85},
+			"2016-02": {"total":2385.90, "PLACE":2385.90},
+			"2016-03": {"total":1522.00, "PLACE":1522.00},
+			"2016-04": {"total":785.00, "PLACE":785.00},
+			"2016-11": {"total":1867.00, "PLACE":1867.00},
+			"2017-10": {"total":531.00, "PLACE":531.00},
+			"2017-12": {"total":297.00, "PLACE":297.00},
+			"2018-01": {"total":1563.10, "PLACE":1563.10},
+			"2018-03": {"total":525.00, "PEOPLE":525.00},
+			"2018-05": {"total":287.00, "PLACE":287.00},
+			"2018-11": {"total":1476.00, "PLACE":1476.00},
+			"2018-12": {"total":300.00, "PLACE":300.00},
+			"2019-02": {"total":2203.00, "PLACE":2203.00},
+			"2020-12": {"total":899.00, "PLACE":899.00},
+			"2021-02": {"total":4120.20, "PEOPLE":4120.20},
+			"2021-03": {"total":10468.80, "PEOPLE":5896.80, "PLACE":4572.00}
+		}
+	},
+	"1628": {
+		"name": "BARCHESTER HEALTHCARE",
+		"total": 520296.500000001,
+		"monthly": {
+			"2013-06": {"total":11046.00, "ADULT SOCIAL CARE PURCHASING":11046.00},
+			"2013-07": {"total":15848.84, "ADULT SOCIAL CARE PURCHASING":8340.86, "PURCHASING":7507.98},
+			"2013-08": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2013-09": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2013-10": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2013-11": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2013-12": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2014-01": {"total":6576.84, "ADULT SOCIAL CARE PURCHASING":2104.00, "PURCHASING":4472.84},
+			"2014-03": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-04": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-05": {"total":8945.68, "PURCHASING":8945.68},
+			"2014-06": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-07": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-08": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-09": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-10": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-11": {"total":4472.84, "PURCHASING":4472.84},
+			"2014-12": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-01": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-02": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-03": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-04": {"total":8945.68, "PURCHASING":8945.68},
+			"2015-05": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-06": {"total":4472.84, "PURCHASING":4472.84},
+			"2015-07": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2015-08": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2015-09": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2015-10": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2015-11": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2015-12": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2016-01": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2016-02": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2016-03": {"total":8945.68, "COMMUNITIES":8945.68},
+			"2016-04": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2016-05": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2017-01": {"total":42850.72, "COMMUNITIES":42850.72},
+			"2017-06": {"total":26837.04, "COMMUNITIES":26837.04},
+			"2017-07": {"total":4472.84, "COMMUNITIES":4472.84},
+			"2017-10": {"total":8945.68, "PEOPLE":8945.68},
+			"2018-01": {"total":13418.52, "PEOPLE":13418.52},
+			"2018-02": {"total":19454.08, "PEOPLE":19454.08},
+			"2018-03": {"total":4472.84, "PEOPLE":4472.84},
+			"2018-04": {"total":8945.68, "PEOPLE":8945.68},
+			"2018-06": {"total":8945.68, "PEOPLE":8945.68},
+			"2018-08": {"total":4472.84, "PEOPLE":4472.84},
+			"2018-09": {"total":4472.84, "PEOPLE":4472.84},
+			"2018-10": {"total":8945.68, "PEOPLE":8945.68},
+			"2019-01": {"total":13418.52, "PEOPLE":13418.52},
+			"2019-02": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-03": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-04": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-05": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-06": {"total":8945.68, "PEOPLE":8945.68},
+			"2019-07": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-08": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-09": {"total":4472.84, "PEOPLE":4472.84},
+			"2019-11": {"total":8945.68, "PEOPLE":8945.68},
+			"2019-12": {"total":8945.68, "PEOPLE":8945.68},
+			"2020-01": {"total":4472.84, "PEOPLE":4472.84},
+			"2020-02": {"total":4472.84, "PEOPLE":4472.84},
+			"2020-03": {"total":4472.84, "PEOPLE":4472.84},
+			"2020-04": {"total":9146.98, "PEOPLE":9146.98},
+			"2020-05": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-06": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-07": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-08": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-09": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-10": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-11": {"total":4607.04, "PEOPLE":4607.04},
+			"2020-12": {"total":4607.04, "PEOPLE":4607.04},
+			"2021-01": {"total":4607.04, "PEOPLE":4607.04},
+			"2021-02": {"total":9214.08, "PEOPLE":9214.08},
+			"2021-03": {"total":4607.04, "PEOPLE":4607.04},
+			"2021-04": {"total":4607.04, "PEOPLE":4607.04},
+			"2021-05": {"total":4607.04, "PEOPLE":4607.04},
+			"2021-06": {"total":4891.48, "PEOPLE":4891.48}
+		}
+	},
+	"1629": {
+		"name": "BARCLAYCARD COMMERCIAL",
+		"total": 27584.41,
+		"monthly": {
+			"2012-11": {"total":2102.85, "SHOPPING SERVICES":2102.85},
+			"2013-01": {"total":4387.50, "SHOPPING SERVICES":4387.50},
+			"2013-02": {"total":1785.54, "SHOPPING SERVICES":1785.54},
+			"2013-03": {"total":1553.65, "SHOPPING SERVICES":1553.65},
+			"2013-04": {"total":1677.19, "SHOPPING SERVICES":1677.19},
+			"2013-05": {"total":1562.06, "SHOPPING SERVICES":1562.06},
+			"2013-06": {"total":1410.16, "SHOPPING SERVICES":1410.16},
+			"2013-07": {"total":1270.99, "SHOPPING SERVICES":1270.99},
+			"2013-08": {"total":1496.08, "SHOPPING SERVICES":1496.08},
+			"2013-09": {"total":1185.24, "SHOPPING SERVICES":1185.24},
+			"2013-10": {"total":1370.63, "SHOPPING SERVICES":1370.63},
+			"2013-11": {"total":1327.38, "SHOPPING SERVICES":1327.38},
+			"2014-01": {"total":2130.58, "SHOPPING SERVICES":2130.58},
+			"2014-02": {"total":1133.45, "SHOPPING SERVICES":1133.45},
+			"2014-03": {"total":1071.19, "SHOPPING SERVICES":1071.19},
+			"2014-04": {"total":855.75, "SHOPPING SERVICES":855.75},
+			"2014-05": {"total":947.04, "SHOPPING SERVICES":947.04},
+			"2014-06": {"total":317.13, "SHOPPING SERVICES":317.13}
+		}
+	},
+	"1630": {
+		"name": "BARCLAYS CORPORATE",
+		"total": 4763114.55,
+		"monthly": {
+			"2011-01": {"total":366019.90, "URBAN SPLASH":366019.90},
+			"2011-02": {"total":483144.16, "PARKHILL FLATS REFURBISHMENT":483144.16},
+			"2011-03": {"total":722102.61, "PARKHILL FLATS REFURBISHMENT":722102.61},
+			"2011-04": {"total":868272.04, "PARKHILL FLATS REFURBISHMENT":868272.04},
+			"2011-05": {"total":511248.12, "PARKHILL FLATS REFURBISHMENT":511248.12},
+			"2011-06": {"total":461106.54, "PARKHILL FLATS REFURBISHMENT":461106.54},
+			"2011-07": {"total":372913.57, "PARKHILL FLATS REFURBISHMENT":372913.57},
+			"2011-08": {"total":278388.42, "PARKHILL FLATS REFURBISHMENT":278388.42},
+			"2011-09": {"total":183886.07, "PARKHILL FLATS REFURBISHMENT":183886.07},
+			"2011-10": {"total":96484.14, "PARKHILL FLATS REFURBISHMENT":96484.14},
+			"2011-11": {"total":217310.95, "PARKHILL FLATS REFURBISHMENT":217310.95},
+			"2011-12": {"total":100087.67, "PARKHILL FLATS REFURBISHMENT":100087.67},
+			"2012-02": {"total":11042.25, "PARKHILL FLATS REFURBISHMENT":11042.25},
+			"2012-03": {"total":24171.47, "PARKHILL FLATS REFURBISHMENT":24171.47},
+			"2012-04": {"total":11632.50, "PARKHILL FLATS REFURBISHMENT":11632.50},
+			"2012-07": {"total":3766.75, "PARKHILL FLATS REFURBISHMENT":3766.75},
+			"2012-09": {"total":3766.72, "PARKHILL FLATS REFURBISHMENT":3766.72},
+			"2012-10": {"total":988.75, "PARKHILL FLATS REFURBISHMENT":988.75},
+			"2012-11": {"total":46781.92, "PARKHILL FLATS REFURBISHMENT":46781.92}
+		}
+	},
+	"1631": {
+		"name": "BARCLAYS HMG PROCUREMENT CARD",
+		"total": 75835.98,
+		"monthly": {
+			"2011-01": {"total":4368.64, "SHOPPING CONTRACT":4368.64},
+			"2011-02": {"total":4183.37, "SHOPPING CONTRACT":4183.37},
+			"2011-03": {"total":3905.42, "SHOPPING CONTRACT":3905.42},
+			"2011-04": {"total":4149.82, "SHOPPING CONTRACT":4149.82},
+			"2011-05": {"total":3777.73, "SHOPPING SERVICES":3777.73},
+			"2011-06": {"total":4128.63, "SHOPPING SERVICES":4128.63},
+			"2011-07": {"total":3946.60, "SHOPPING SERVICES":3946.60},
+			"2011-08": {"total":3647.87, "SHOPPING SERVICES":3647.87},
+			"2011-09": {"total":3819.96, "SHOPPING SERVICES":3819.96},
+			"2011-10": {"total":3554.01, "SHOPPING SERVICES":3554.01},
+			"2011-11": {"total":3718.48, "SHOPPING SERVICES":3718.48},
+			"2011-12": {"total":3744.58, "SHOPPING SERVICES":3744.58},
+			"2012-01": {"total":3941.79, "SHOPPING SERVICES":3941.79},
+			"2012-02": {"total":3257.65, "SHOPPING SERVICES":3257.65},
+			"2012-03": {"total":3828.63, "SHOPPING SERVICES":3828.63},
+			"2012-05": {"total":5875.55, "SHOPPING SERVICES":5875.55},
+			"2012-06": {"total":2593.86, "SHOPPING SERVICES":2593.86},
+			"2012-07": {"total":2535.91, "SHOPPING SERVICES":2535.91},
+			"2012-08": {"total":2282.04, "SHOPPING SERVICES":2282.04},
+			"2012-10": {"total":4575.44, "SHOPPING SERVICES":4575.44}
+		}
+	},
+	"1632": {
+		"name": "BARCO CONTROL ROOMS GMBH",
+		"total": 15010.09,
+		"monthly": {
+			"2012-11": {"total":12430.82, "INTELLIGENT TRANSPORT SYSTEMS":12430.82},
+			"2014-04": {"total":2579.27, "INTELLIGENT TRANSPORT SYSTEMS":2579.27}
+		}
+	},
+	"1633": {
+		"name": "BARDEN AND HALL LTD",
+		"alternate-names": [
+			"BARDEN AND HALL LIMITED"
+		],
+		"total": 7514,
+		"monthly": {
+			"2012-03": {"total":906.00, "EMPTY PROPERTY TEAM":906.00},
+			"2013-08": {"total":1540.00, "DEVELOPMENT CONTROL":1540.00},
+			"2014-01": {"total":649.00, "PSH WORKS IN DEFAULT":649.00},
+			"2014-04": {"total":4419.00, "TTAPS GENERAL":4419.00}
+		}
+	},
+	"1634": {
+		"name": "BARDSLEY CONSTRUCTION LTD",
+		"total": 14850,
+		"monthly": {
+			"2018-02": {"total":14850.00, "PLACE":14850.00}
+		}
+	},
+	"1635": {
+		"name": "BARDWELL BUSINESS ENTERPRISES",
+		"total": 2778,
+		"monthly": {
+			"2011-05": {"total":2778.00, "DISABLED GRANTS":2778.00}
+		}
+	},
+	"1636": {
+		"name": "BARGAIN TYRES (UK) LTD",
+		"alternate-names": [
+			"BARGAIN TYRES (UK) LIMITED"
+		],
+		"total": 1120,
+		"monthly": {
+			"2017-01": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"1637": {
+		"name": "BARGAINS DELIVERED",
+		"total": 1120,
+		"monthly": {
+			"2016-12": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"1638": {
+		"name": "BARK LANE GROOMING SALON",
+		"total": 1120,
+		"monthly": {
+			"2016-02": {"total":1120.00, "CA LEP":1120.00}
+		}
+	},
+	"1639": {
+		"name": "BARKER CONSTRUCTION LTD",
+		"total": 12488.14,
+		"monthly": {
+			"2011-03": {"total":12488.14, "KIRKLEES RHB LOANS HAL":12488.14}
+		}
+	},
+	"1640": {
+		"name": "BARKING HAVERING & REDBRIDGE NHS TRUST",
+		"total": 132,
+		"monthly": {
+			"2020-06": {"total":264.00, "PEOPLE":264.00},
+			"2020-10": {"total":-132.00, "PEOPLE":-132.00}
+		}
+	},
+	"1641": {
+		"name": "BARLEY FIELDS PRIMARY SCHOOL",
+		"total": 1134,
+		"monthly": {
+			"2017-01": {"total":1134.00, "CYPF":1134.00}
+		}
+	},
+	"1642": {
 		"name": "BARLOW GROUP LTD",
 		"total": 1500,
 		"monthly": {
 			"2014-03": {"total":1500.00, "STRATEGY AND SKILLS":1500.00}
 		}
 	},
-	"1601": {
+	"1643": {
 		"name": "BARLOW INTERIORS LTD",
 		"total": 3150,
 		"monthly": {
 			"2018-12": {"total":3150.00, "PLACE":3150.00}
 		}
 	},
-	"1602": {
+	"1644": {
 		"name": "BARLOW LYDE AND GILBERT LLP",
 		"total": 3000,
 		"monthly": {
 			"2012-04": {"total":3000.00, "CLAIMS":3000.00}
 		}
 	},
-	"1603": {
+	"1645": {
 		"name": "BARLOW ROBBINS SOLICITORS",
 		"total": 17890,
 		"monthly": {
@@ -30,9 +827,9 @@
 			"2011-12": {"total":5190.00, "CLAIMS":5190.00}
 		}
 	},
-	"1604": {
+	"1646": {
 		"name": "BARNARDO SERVICES LTD",
-		"total": 405392.32,
+		"total": 415992.32,
 		"monthly": {
 			"2011-03": {"total":40194.25, "OUT OF CITY FEES - EDUCATION P":40194.25},
 			"2011-05": {"total":68021.04, "SEN PUPIL PLACEMENTS - EDUCAT":68021.04},
@@ -47,12 +844,15 @@
 			"2013-11": {"total":20049.72, "INDEPENDENT PLACEMENTS":20049.72},
 			"2020-08": {"total":600.00, "PEOPLE":600.00},
 			"2020-09": {"total":1200.00, "PEOPLE":1200.00},
-			"2020-12": {"total":300.00, "PEOPLE":300.00}
+			"2020-11": {"total":4800.00, "PEOPLE":4800.00},
+			"2020-12": {"total":300.00, "PEOPLE":300.00},
+			"2021-03": {"total":5100.00, "PEOPLE":5100.00},
+			"2021-04": {"total":700.00, "PEOPLE":700.00}
 		}
 	},
-	"1605": {
+	"1647": {
 		"name": "BARNARDO'S",
-		"total": 824962.269999998,
+		"total": 898609.089999998,
 		"monthly": {
 			"2011-02": {"total":16103.78, "INDEPENDENT FOSTERING PLACEMEN":8668.22, "INDEPENDENT RESIDENTAL PLACEME":7435.56},
 			"2011-03": {"total":7829.36, "INDEPENDENT FOSTERING PLACEMEN":7829.36},
@@ -157,10 +957,17 @@
 			"2020-08": {"total":6494.67, "PEOPLE":6494.67},
 			"2020-09": {"total":3300.57, "PEOPLE":3300.57},
 			"2020-10": {"total":3194.10, "PEOPLE":3194.10},
-			"2020-12": {"total":20390.51, "PEOPLE":20390.51}
+			"2020-11": {"total":3300.57, "PEOPLE":3300.57},
+			"2020-12": {"total":20390.51, "PEOPLE":20390.51},
+			"2021-01": {"total":55014.57, "PEOPLE":55014.57},
+			"2021-02": {"total":3300.57, "PEOPLE":3300.57},
+			"2021-03": {"total":2981.16, "PEOPLE":2981.16},
+			"2021-04": {"total":3300.57, "PEOPLE":3300.57},
+			"2021-05": {"total":3194.10, "PEOPLE":3194.10},
+			"2021-06": {"total":2555.28, "PEOPLE":2555.28}
 		}
 	},
-	"1606": {
+	"1648": {
 		"name": "BARNARDO'S LITTLE GREENHOUSE PARENT & CA",
 		"total": 770,
 		"monthly": {
@@ -168,9 +975,9 @@
 			"2016-12": {"total":520.00, "CYPF":520.00}
 		}
 	},
-	"1607": {
+	"1649": {
 		"name": "BARNARDO'S YORKSHIRE",
-		"total": 585603.11,
+		"total": 715133.8,
 		"monthly": {
 			"2012-03": {"total":1000.00, "SUPPORT FOR TARGETED AND VULN":1000.00},
 			"2012-07": {"total":2589.00, "UNIVERSAL YOUTH SERVICE":2589.00},
@@ -212,925 +1019,13 @@
 			"2020-06": {"total":20610.63, "PEOPLE":20610.63},
 			"2020-08": {"total":39266.80, "PEOPLE":39266.80},
 			"2020-09": {"total":1040.00, "PEOPLE":1040.00},
-			"2020-12": {"total":1412.70, "PEOPLE":1412.70}
-		}
-	},
-	"1608": {
-		"name": "BARNARDO'S YORKSHIRE FINANCE DEPARTMENT",
-		"total": 16091.69,
-		"monthly": {
-			"2011-05": {"total":4033.92, "NORTH SA - LAC":2753.92, "PARENTING STRATEGY":1280.00},
-			"2011-07": {"total":2713.99, "POSITIVE ACTIVITIES FOR 8-13'S":2713.99},
-			"2011-09": {"total":2595.82, "TARGETED YOUTH SUPPORT":2595.82},
-			"2011-10": {"total":2463.99, "POSITIVE ACTIVITIES FOR 8-13'S":2463.99},
-			"2011-11": {"total":1688.14, "NORTH SA - LAC":1688.14},
-			"2012-01": {"total":2595.83, "TARGETED YOUTH SUPPORT":2595.83}
-		}
-	},
-	"1609": {
-		"name": "BARNARDOS",
-		"total": 298.5,
-		"monthly": {
-			"2016-11": {"total":298.50, "CYPF":298.50}
-		}
-	},
-	"1610": {
-		"name": "BARNARDOS SERVICES LTD",
-		"total": 135565.26,
-		"monthly": {
-			"2013-07": {"total":6000.00, "SUCCESSFUL FAMILIES PROGRAMME":6000.00},
-			"2014-05": {"total":1430.00, "SUCCESSFUL FAMILIES PROGRAMME":1430.00},
-			"2014-11": {"total":40000.00, "INTER AGENCY FEES":40000.00},
-			"2015-04": {"total":20000.00, "INTER AGENCY FEES":20000.00},
-			"2016-01": {"total":18000.00, "CYPF":18000.00},
-			"2016-03": {"total":18000.00, "CYPF":18000.00},
-			"2016-05": {"total":9000.00, "CYPF":9000.00},
-			"2016-11": {"total":9000.00, "CYPF":9000.00},
-			"2017-07": {"total":3766.13, "CYPF":3766.13},
-			"2017-08": {"total":3766.13, "CORPORATE":3766.13},
-			"2018-01": {"total":2520.00, "PEOPLE":2520.00},
-			"2020-04": {"total":4083.00, "PEOPLE":4083.00}
-		}
-	},
-	"1611": {
-		"name": "BARNBOW PROPERTY SERVICES",
-		"total": 4439.75,
-		"monthly": {
-			"2015-09": {"total":663.00, "CYPF":663.00},
-			"2015-10": {"total":497.25, "CYPF":497.25},
-			"2015-12": {"total":663.00, "CYPF":663.00},
-			"2016-01": {"total":1453.50, "CYPF":1453.50},
-			"2016-02": {"total":1163.00, "CYPF":1163.00}
-		}
-	},
-	"1612": {
-		"name": "BARNBROOKS RESTAURANT LTD",
-		"total": 2620,
-		"monthly": {
-			"2017-01": {"total":1120.00, "CA LEP":1120.00},
-			"2017-02": {"total":1500.00, "CA LEP":1500.00}
-		}
-	},
-	"1613": {
-		"name": "BARNBURGH PRIMARY SCHOOL",
-		"total": 1000,
-		"monthly": {
-			"2020-05": {"total":500.00, "PEOPLE":500.00},
-			"2020-08": {"total":500.00, "PEOPLE":500.00}
-		}
-	},
-	"1614": {
-		"name": "BARNES ASSOCIATES",
-		"total": 1242.5,
-		"monthly": {
-			"2016-04": {"total":332.50, "PLACE":332.50},
-			"2016-05": {"total":455.00, "PLACE":455.00},
-			"2016-10": {"total":455.00, "PLACE":455.00}
-		}
-	},
-	"1615": {
-		"name": "BARNES LIFTING SERVICES LTD",
-		"alternate-names": [
-			"BARNES LIFTING SERVICES LIMITED"
-		],
-		"total": 1292.77,
-		"monthly": {
-			"2011-06": {"total":643.12, "OLIVE GROVE WORKSHOPS":643.12},
-			"2012-06": {"total":649.65, "OLIVE GROVE WORKSHOPS":649.65}
-		}
-	},
-	"1616": {
-		"name": "BARNET",
-		"total": 4014.3,
-		"monthly": {
-			"2011-06": {"total":4014.30, "INTER AGENCY FEES":4014.30}
-		}
-	},
-	"1617": {
-		"name": "BARNET'S HAIR STUDIO",
-		"total": 1120,
-		"monthly": {
-			"2016-12": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"1618": {
-		"name": "BARNSDALES LTD",
-		"alternate-names": [
-			"BARNSDALES LIMITED"
-		],
-		"total": 3200,
-		"monthly": {
-			"2018-02": {"total":3200.00, "PLACE":3200.00}
-		}
-	},
-	"1619": {
-		"name": "BARNSLEY AUTO CENTRE",
-		"total": 1120,
-		"monthly": {
-			"2017-12": {"total":1120.00, "LOCAL ENTERPRISE PARTNERSHIP":1120.00}
-		}
-	},
-	"1620": {
-		"name": "BARNSLEY BUSINESS & INNOVATION CTR LTD",
-		"total": 1831.53,
-		"monthly": {
-			"2019-06": {"total":782.10, "PEOPLE":782.10},
-			"2020-01": {"total":300.00, "PEOPLE":300.00},
-			"2020-08": {"total":749.43, "PEOPLE":749.43}
-		}
-	},
-	"1621": {
-		"name": "BARNSLEY CATERING SERVICES LTD",
-		"total": 645680.85,
-		"monthly": {
-			"2011-01": {"total":2093.29, "CATERING PREMISES & EQUIPMENT":608.29, "SCHOOL KITCHENS - STOCKSBRIDGE":1485.00},
-			"2011-02": {"total":2171.39, "CATERING PREMISES & EQUIPMENT":2171.39},
-			"2011-03": {"total":2132.32, "CATERING PREMISES & EQUIPMENT":2132.32},
-			"2011-04": {"total":7374.04, "CATERING PREMISES & EQUIPMENT":7374.04},
-			"2011-05": {"total":11359.79, "CATERING PREMISES & EQUIPMENT":11359.79},
-			"2011-06": {"total":28809.28, "HAZELHURST":697.28, "INTAKE PRIMARY KITCHEN":28112.00},
-			"2011-07": {"total":56585.30, "CATERING PREMISES & EQUIPMENT":7971.30, "WESTWAYS":48614.00},
-			"2011-08": {"total":89888.00, "CATERING PREMISES & EQUIPMENT":89888.00},
-			"2011-09": {"total":80886.78, "CATERING PREMISES & EQUIPMENT":76186.78, "WESTWAYS":4700.00},
-			"2011-10": {"total":1710.46, "CATERING PREMISES & EQUIPMENT":1710.46},
-			"2011-11": {"total":10548.06, "CARBROOK HALL":686.88, "CATERING PREMISES & EQUIPMENT":3967.00, "HAZELHURST":500.18, "INTAKE PRIMARY KITCHEN":5394.00},
-			"2011-12": {"total":14716.61, "CATERING PREMISES & EQUIPMENT":14716.61},
-			"2012-01": {"total":1128.66, "CATERING PREMISES & EQUIPMENT":1128.66},
-			"2012-03": {"total":4260.27, "CATERING PREMISES & EQUIPMENT":4260.27},
-			"2012-04": {"total":2416.07, "CATERING PREMISES & EQUIPMENT":2416.07},
-			"2012-06": {"total":6378.05, "BOLE HILL VIEW":1660.00, "CATERING PREMISES & EQUIPMENT":4033.27, "NORBURY":684.78},
-			"2012-07": {"total":2882.04, "CATERING PREMISES & EQUIPMENT":2882.04},
-			"2012-08": {"total":10249.05, "CATERING PREMISES & EQUIPMENT":10249.05},
-			"2012-09": {"total":5385.00, "CATERING PREMISES & EQUIPMENT":5385.00},
-			"2012-10": {"total":77372.87, "CATERING PREMISES & EQUIPMENT":76835.87, "COMMERCIAL TEAM":537.00},
-			"2012-11": {"total":6905.08, "CATERING PREMISES & EQUIPMENT":6905.08},
-			"2012-12": {"total":1445.80, "CATERING PREMISES & EQUIPMENT":1445.80},
-			"2013-01": {"total":4411.37, "CATERING PREMISES & EQUIPMENT":3879.82, "MALON WAY CHILDREN'S HOME":260.65, "MULBERRY LODGE":270.90},
-			"2013-02": {"total":10870.98, "ALDINE HOUSE":640.54, "CATERING PREMISES & EQUIPMENT":9752.85, "NORBURY":477.59},
-			"2013-03": {"total":11225.94, "CATERING PREMISES & EQUIPMENT":10973.84, "MULBERRY LODGE":252.10},
-			"2013-04": {"total":5741.87, "CATERING PREMISES & EQUIPMENT":5741.87},
-			"2013-05": {"total":12727.88, "CATERING PREMISES & EQUIPMENT":12727.88},
-			"2013-06": {"total":2339.11, "CATERING PREMISES & EQUIPMENT":2339.11},
-			"2013-07": {"total":9976.40, "CATERING PREMISES & EQUIPMENT":9976.40},
-			"2013-08": {"total":8842.65, "ALDINE HOUSE":368.45, "CATERING PREMISES & EQUIPMENT":8189.65, "MULBERRY LODGE":284.55},
-			"2013-09": {"total":6174.82, "CATERING PREMISES & EQUIPMENT":6174.82},
-			"2013-10": {"total":8578.69, "CATERING PREMISES & EQUIPMENT":8578.69},
-			"2013-11": {"total":13278.54, "CATERING PREMISES & EQUIPMENT":13278.54},
-			"2013-12": {"total":10930.17, "ALDINE HOUSE":334.10, "CATERING PREMISES & EQUIPMENT":10596.07},
-			"2014-01": {"total":14796.46, "ALDINE HOUSE":746.07, "CARBROOK":331.83, "CATERING PREMISES & EQUIPMENT":13246.06, "SHEAF TRAINING":472.50},
-			"2014-02": {"total":19055.77, "CATERING PREMISES & EQUIPMENT":19055.77},
-			"2014-03": {"total":17950.00, "CATERING PREMISES & EQUIPMENT":17950.00},
-			"2014-04": {"total":7714.11, "CATERING PREMISES & EQUIPMENT":7714.11},
-			"2014-05": {"total":333.98, "CATERING PREMISES & EQUIPMENT":333.98},
-			"2014-06": {"total":766.00, "CATERING PREMISES & EQUIPMENT":766.00},
-			"2014-10": {"total":1916.00, "ALDINE HOUSE":1916.00},
-			"2015-01": {"total":264.85, "CHANCET WOOD":264.85},
-			"2015-08": {"total":254.42, "CYPF":254.42},
-			"2015-11": {"total":34650.50, "CYPF":34650.50},
-			"2016-01": {"total":635.00, "CYPF":635.00},
-			"2016-11": {"total":376.80, "CYPF":376.80},
-			"2017-02": {"total":250.75, "CYPF":250.75},
-			"2017-05": {"total":4674.80, "CYPF":4674.80},
-			"2017-06": {"total":1284.25, "CYPF":1284.25},
-			"2017-11": {"total":3263.70, "PEOPLE":3263.70},
-			"2018-03": {"total":1273.00, "PEOPLE":1273.00},
-			"2018-06": {"total":331.63, "PEOPLE":331.63},
-			"2018-07": {"total":1162.90, "PEOPLE":1162.90},
-			"2019-06": {"total":964.00, "PEOPLE":964.00},
-			"2019-08": {"total":1472.30, "PEOPLE":1472.30},
-			"2019-11": {"total":493.00, "PEOPLE":493.00}
-		}
-	},
-	"1622": {
-		"name": "BARNSLEY CHRONICLE LTD",
-		"total": 728,
-		"monthly": {
-			"2014-04": {"total":432.00, "RECRUITMENT ADVERTISING":432.00},
-			"2014-05": {"total":296.00, "RECRUITMENT ADVERTISING":296.00}
-		}
-	},
-	"1623": {
-		"name": "BARNSLEY CIVIC ENTERPRISE LTD",
-		"total": 337.5,
-		"monthly": {
-			"2019-09": {"total":337.50, "PEOPLE":337.50}
-		}
-	},
-	"1624": {
-		"name": "BARNSLEY COLLEGE",
-		"total": 632709.85,
-		"monthly": {
-			"2012-01": {"total":595.00, "SUPPORT SERVICES":595.00},
-			"2013-01": {"total":890.00, "FINANCE LEADERSHIP TEAM":890.00},
-			"2013-05": {"total":1000.00, "FUTURE SHAPE - HEALTH":1000.00},
-			"2013-11": {"total":28769.50, "CITY DEAL - FRAMEWORKS":401.50, "POST 16 HIGH NEEDS BLOCK":28368.00},
-			"2014-01": {"total":1095.00, "FINANCE LEADERSHIP TEAM":1095.00},
-			"2014-02": {"total":5141.81, "CITY DEAL - FRAMEWORKS":5141.81},
-			"2014-03": {"total":34035.35, "CITY DEAL - FRAMEWORKS":5667.35, "POST 16 HIGH NEEDS BLOCK":28368.00},
-			"2014-04": {"total":28368.00, "POST 16 HIGH NEEDS BLOCK":28368.00},
-			"2014-05": {"total":3212.08, "CITY DEAL - FRAMEWORKS":3212.08},
-			"2014-06": {"total":21365.02, "CITY DEAL - FRAMEWORKS":1513.67, "POST 16 HIGH NEEDS BLOCK":19851.35},
-			"2014-07": {"total":1460.37, "CITY DEAL - FRAMEWORKS":1460.37},
-			"2014-08": {"total":29390.07, "CITY DEAL - FRAMEWORKS":1022.07, "POST 16 HIGH NEEDS BLOCK":28368.00},
-			"2014-09": {"total":1022.07, "CITY DEAL - FRAMEWORKS":1022.07},
-			"2014-10": {"total":1460.33, "CITY DEAL - FRAMEWORKS":1460.33},
-			"2014-11": {"total":1385.36, "CITY DEAL - FRAMEWORKS":1385.36},
-			"2014-12": {"total":22223.86, "CITY DEAL - FRAMEWORKS":1043.86, "POST16 HIGH NEEDS AUG14-JUL15":21180.00},
-			"2015-01": {"total":2865.64, "CITY DEAL - FRAMEWORKS":2865.64},
-			"2015-02": {"total":8571.87, "CITY DEAL - FRAMEWORKS":1511.87, "POST16 HIGH NEEDS AUG14-JUL15":7060.00},
-			"2015-03": {"total":1236.92, "CITY DEAL - FRAMEWORKS":1236.92},
-			"2015-04": {"total":8693.30, "CITY DEAL - FRAMEWORKS":1402.30, "POST16 HIGH NEEDS AUG14-JUL15":7291.00},
-			"2015-05": {"total":1402.30, "CITY DEAL - FRAMEWORKS":1402.30},
-			"2015-06": {"total":10869.49, "CITY DEAL - FRAMEWORKS":3578.49, "POST16 HIGH NEEDS AUG14-JUL15":7291.00},
-			"2015-07": {"total":20725.77, "CYPF":20725.77},
-			"2015-08": {"total":1548.04, "CYPF":1548.04},
-			"2015-09": {"total":1552.60, "CYPF":1552.60},
-			"2015-10": {"total":2453.58, "CYPF":2453.58},
-			"2015-11": {"total":3331.54, "CYPF":3331.54},
-			"2015-12": {"total":26676.00, "CYPF":26676.00},
-			"2016-01": {"total":2987.26, "CYPF":2987.26},
-			"2016-02": {"total":2416.73, "CYPF":2416.73},
-			"2016-03": {"total":14555.49, "CYPF":14555.49},
-			"2016-04": {"total":1539.13, "CYPF":1539.13},
-			"2016-05": {"total":1475.40, "CYPF":1475.40},
-			"2016-06": {"total":4882.70, "COMMUNITIES":2700.00, "CYPF":2182.70},
-			"2016-07": {"total":12690.24, "CYPF":12690.24},
-			"2016-09": {"total":1955.00, "CYPF":1955.00},
-			"2016-10": {"total":2325.63, "CYPF":2325.63},
-			"2016-11": {"total":3741.31, "COMMUNITIES":1500.00, "CYPF":2241.31},
-			"2016-12": {"total":790.00, "CYPF":790.00},
-			"2017-01": {"total":1432.91, "CYPF":1432.91},
-			"2017-04": {"total":1234.41, "CYPF":1234.41},
-			"2017-05": {"total":1734.41, "CYPF":1734.41},
-			"2017-06": {"total":18918.41, "CYPF":18918.41},
-			"2017-07": {"total":19353.41, "COMMUNITIES":1500.00, "CYPF":17853.41},
-			"2017-08": {"total":18961.26, "CORPORATE":17853.41, "PEOPLE":1107.85},
-			"2017-09": {"total":740.69, "PEOPLE":740.69},
-			"2017-10": {"total":15657.30, "PEOPLE":15657.30},
-			"2017-12": {"total":2022.56, "PEOPLE":2022.56},
-			"2018-01": {"total":1123.21, "PEOPLE":1123.21},
-			"2018-02": {"total":1570.34, "PEOPLE":1570.34},
-			"2018-03": {"total":33961.71, "PEOPLE":33961.71},
-			"2018-04": {"total":1241.63, "PEOPLE":1241.63},
-			"2018-05": {"total":770.34, "PEOPLE":770.34},
-			"2018-06": {"total":19265.95, "PEOPLE":19265.95},
-			"2018-07": {"total":471.29, "PEOPLE":471.29},
-			"2018-08": {"total":1767.86, "PEOPLE":1767.86},
-			"2018-09": {"total":496.09, "PEOPLE":496.09},
-			"2018-10": {"total":384.60, "PEOPLE":384.60},
-			"2018-11": {"total":1339.12, "PEOPLE":1339.12},
-			"2019-01": {"total":651.32, "PEOPLE":651.32},
-			"2019-02": {"total":1162.18, "PEOPLE":1162.18},
-			"2019-04": {"total":15371.00, "PEOPLE":15371.00},
-			"2019-05": {"total":5307.09, "PEOPLE":5307.09},
-			"2019-06": {"total":3777.09, "PEOPLE":3777.09},
-			"2019-07": {"total":496.09, "PEOPLE":496.09},
-			"2019-08": {"total":3777.09, "PEOPLE":3777.09},
-			"2019-09": {"total":496.09, "PEOPLE":496.09},
-			"2019-10": {"total":255.00, "PEOPLE":255.00},
-			"2020-01": {"total":989.40, "PEOPLE":989.40},
-			"2020-02": {"total":2084.50, "PEOPLE":2084.50},
-			"2020-03": {"total":106552.95, "LOCAL ENTERPRISE PARTNERSHIP":106552.95},
-			"2020-04": {"total":12944.00, "PEOPLE":12944.00},
-			"2020-05": {"total":4620.00, "PEOPLE":4620.00},
-			"2020-06": {"total":2574.00, "PEOPLE":2574.00},
-			"2020-07": {"total":5540.43, "PEOPLE":5540.43},
-			"2020-08": {"total":804.84, "PEOPLE":804.84},
-			"2020-09": {"total":804.84, "PEOPLE":804.84},
-			"2020-10": {"total":804.84, "PEOPLE":804.84},
-			"2020-12": {"total":549.84, "PEOPLE":549.84}
-		}
-	},
-	"1625": {
-		"name": "BARNSLEY COMMERCIAL SALES LTD",
-		"total": 1120,
-		"monthly": {
-			"2017-03": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"1626": {
-		"name": "BARNSLEY HEALTHCARE FEDERATION CIC",
-		"total": 15000,
-		"monthly": {
-			"2017-06": {"total":10500.00, "CYPF":10500.00},
-			"2017-07": {"total":4500.00, "CYPF":4500.00}
-		}
-	},
-	"1627": {
-		"name": "BARNSLEY HOSPITAL NHS FT",
-		"total": 906674.76,
-		"monthly": {
-			"2011-01": {"total":6604.80, "CORONIAL SERVICES":6604.80},
-			"2011-02": {"total":21630.72, "CORONIAL SERVICES":21630.72},
-			"2011-03": {"total":9246.72, "CORONIAL SERVICES":9246.72},
-			"2011-04": {"total":6604.80, "CORONIAL SERVICES":6604.80},
-			"2011-07": {"total":13044.48, "CORONIAL SERVICES":13044.48},
-			"2011-08": {"total":7925.76, "CORONIAL SERVICES":7925.76},
-			"2011-09": {"total":4953.60, "CORONIAL SERVICES":4953.60},
-			"2011-10": {"total":6769.92, "CORONIAL SERVICES":6769.92},
-			"2011-11": {"total":6274.56, "CORONIAL SERVICES":6274.56},
-			"2011-12": {"total":8586.24, "CORONIAL SERVICES":8586.24},
-			"2012-01": {"total":8586.24, "CORONIAL SERVICES":8586.24},
-			"2012-02": {"total":7430.40, "CORONIAL SERVICES":7430.40},
-			"2012-03": {"total":5779.20, "CORONIAL SERVICES":5779.20},
-			"2012-04": {"total":6109.44, "CORONIAL SERVICES":6109.44},
-			"2012-05": {"total":7760.64, "CORONIAL SERVICES":7760.64},
-			"2012-07": {"total":12384.00, "CORONIAL SERVICES":12384.00},
-			"2012-08": {"total":7430.40, "CORONIAL SERVICES":7430.40},
-			"2012-10": {"total":13044.48, "CORONIAL SERVICES":13044.48},
-			"2012-11": {"total":5118.72, "CORONIAL SERVICES":5118.72},
-			"2013-01": {"total":17172.48, "CORONIAL SERVICES":17172.48},
-			"2013-02": {"total":7595.52, "CORONIAL SERVICES":7595.52},
-			"2013-03": {"total":7265.28, "CORONIAL SERVICES":7265.28},
-			"2013-04": {"total":9411.84, "CORONIAL SERVICES":9411.84},
-			"2013-07": {"total":16181.76, "CORONIAL SERVICES":16181.76},
-			"2013-08": {"total":3457.61, "OUT OF CITY GUM":3457.61},
-			"2013-09": {"total":16016.64, "CORONIAL SERVICES":16016.64},
-			"2013-10": {"total":11353.13, "CORONIAL SERVICES":7100.16, "OUT OF CITY GUM":4252.97},
-			"2013-11": {"total":8916.48, "CORONIAL SERVICES":8916.48},
-			"2013-12": {"total":8843.68, "CORONIAL SERVICES":7430.40, "OUT OF CITY GUM":1413.28},
-			"2014-01": {"total":8706.62, "CORONIAL SERVICES":7760.64, "OUT OF CITY GUM":945.98},
-			"2014-02": {"total":10881.91, "CORONIAL SERVICES":9576.96, "OUT OF CITY GUM":1304.95},
-			"2014-03": {"total":10122.16, "CORONIAL SERVICES":8256.00, "OUT OF CITY GUM":1866.16},
-			"2014-05": {"total":7925.76, "CORONIAL SERVICES":7925.76},
-			"2014-06": {"total":13539.84, "CORONIAL SERVICES":13539.84},
-			"2014-07": {"total":5614.08, "CORONIAL SERVICES":5614.08},
-			"2014-08": {"total":10958.67, "CORONIAL SERVICES":8256.00, "OUT OF CITY GUM":2702.67},
-			"2014-09": {"total":21115.76, "CORONIAL SERVICES":9907.20, "OUT OF CITY GUM":11208.56},
-			"2014-10": {"total":3467.52, "CORONIAL SERVICES":3467.52},
-			"2014-11": {"total":2686.73, "OUT OF CITY GUM":2686.73},
-			"2015-01": {"total":26769.17, "CORONIAL SERVICES":23447.04, "OUT OF CITY GUM":3322.13},
-			"2015-02": {"total":2041.33, "OUT OF CITY GUM":2041.33},
-			"2015-03": {"total":1457.78, "OUT OF CITY GUM":1457.78},
-			"2015-04": {"total":18996.10, "CORONIAL SERVICES":17998.08, "OUT OF CITY GUM":998.02},
-			"2015-06": {"total":18658.56, "CORONIAL SERVICES":18658.56},
-			"2015-08": {"total":1017.47, "CYPF":1017.47},
-			"2015-10": {"total":30051.84, "PLACE":30051.84},
-			"2015-12": {"total":18823.68, "PLACE":18823.68},
-			"2016-04": {"total":19814.40, "PLACE":19814.40},
-			"2016-08": {"total":24768.00, "PLACE":24768.00},
-			"2016-11": {"total":12218.88, "PLACE":12218.88},
-			"2017-01": {"total":14365.44, "PLACE":14365.44},
-			"2017-02": {"total":16181.76, "PLACE":16181.76},
-			"2017-04": {"total":19979.52, "PLACE":19979.52},
-			"2017-10": {"total":36873.36, "PLACE":36873.36},
-			"2017-11": {"total":15319.80, "PLACE":15319.80},
-			"2018-02": {"total":16170.90, "PLACE":16170.90},
-			"2018-04": {"total":38639.34, "PLACE":38639.34},
-			"2018-07": {"total":16851.78, "PLACE":16851.78},
-			"2018-08": {"total":7489.68, "PLACE":7489.68},
-			"2018-09": {"total":6127.92, "PLACE":6127.92},
-			"2018-10": {"total":4085.28, "PLACE":4085.28},
-			"2018-11": {"total":4595.94, "PLACE":4595.94},
-			"2019-01": {"total":13617.60, "PLACE":13617.60},
-			"2019-02": {"total":6638.58, "PLACE":6638.58},
-			"2019-03": {"total":6468.36, "PLACE":6468.36},
-			"2019-04": {"total":5787.48, "PLACE":5787.48},
-			"2019-05": {"total":6127.92, "PLACE":6127.92},
-			"2019-06": {"total":5787.48, "PLACE":5787.48},
-			"2019-07": {"total":5617.26, "PLACE":5617.26},
-			"2019-08": {"total":6808.80, "PLACE":6808.80},
-			"2019-09": {"total":6979.02, "PLACE":6979.02},
-			"2019-10": {"total":4425.72, "PLACE":4425.72},
-			"2019-11": {"total":5617.26, "PLACE":5617.26},
-			"2019-12": {"total":8000.34, "PLACE":8000.34},
-			"2020-01": {"total":11064.30, "PLACE":11064.30},
-			"2020-02": {"total":11064.30, "PLACE":11064.30},
-			"2020-03": {"total":7319.46, "PLACE":7319.46},
-			"2020-04": {"total":9362.10, "PLACE":9362.10},
-			"2020-05": {"total":8000.34, "PLACE":8000.34},
-			"2020-06": {"total":5957.70, "PLACE":5957.70},
-			"2020-07": {"total":6638.58, "PLACE":6638.58},
-			"2020-08": {"total":5106.60, "PLACE":5106.60},
-			"2020-09": {"total":7830.12, "PLACE":7830.12},
-			"2020-10": {"total":6979.02, "PLACE":6979.02},
-			"2020-12": {"total":7659.90, "PLACE":7659.90}
-		}
-	},
-	"1628": {
-		"name": "BARNSLEY JEWELLERS",
-		"total": 1120,
-		"monthly": {
-			"2017-07": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"1629": {
-		"name": "BARNSLEY M B C",
-		"total": 27089313.89,
-		"monthly": {
-			"2011-01": {"total":9371.25, "SY EMP UNIT TRAINING CONSORTIU":9371.25},
-			"2011-02": {"total":153184.40, "POLICY AND RESEARCH":5500.00, "SOCIAL SERVICES LOCATION PLACE":91457.40, "SY EMP UNIT TRAINING CONSORTIU":56227.00},
-			"2011-03": {"total":24435.35, "BUSINESS SUPPORT":5971.00, "SOCIAL MARKETING":4012.00, "SOCIAL SERVICES LOCATION PLACE":5080.98, "SY EMP UNIT TRAINING CONSORTIU":9371.37},
-			"2011-04": {"total":39448.79, "SOCIAL SERVICES LOCATION PLACE":39448.79},
-			"2011-05": {"total":1000.00, "SOCIAL MARKETING":1000.00},
-			"2011-06": {"total":38453.08, "RESOURCES EFFICIENCY NORTH":26203.08, "SOCIAL MARKETING":12250.00},
-			"2011-08": {"total":7500.00, "RESOURCES EFFICIENCY NORTH":7500.00},
-			"2011-09": {"total":19794.85, "ECONOMIC":4000.00, "RESOURCES EFFICIENCY NORTH":15794.85},
-			"2011-10": {"total":58732.88, "SEN PUPIL PLACEMENTS - EDUCAT":58732.88},
-			"2011-11": {"total":75148.80, "ECONOMIC":75148.80},
-			"2011-12": {"total":855.00, "ECONOMIC":855.00},
-			"2012-01": {"total":74266.21, "RESOURCES EFFICIENCY NORTH":19838.29, "SEN PUPIL PLACEMENTS - EDUCAT":54427.92},
-			"2012-02": {"total":40936.83, "SECTOR GWTH ENHANCEMENT PROG":40936.83},
-			"2012-03": {"total":93508.16, "ECONOMIC":26474.00, "ESF T A LEVY":5341.50, "SECTOR GWTH ENHANCEMENT PROG":5017.68, "SEN PUPIL PLACEMENTS - EDUCAT":56674.98},
-			"2012-04": {"total":4632.45, "SECTOR GWTH ENHANCEMENT PROG":4632.45},
-			"2012-05": {"total":10847.19, "POLICY AND RESEARCH":1000.00, "RESOURCES EFFICIENCY NORTH":4890.00, "SECTOR GWTH ENHANCEMENT PROG":4957.19},
-			"2012-07": {"total":9006.20, "SECTOR GWTH ENHANCEMENT PROG":5006.20, "STRATEGY AND SKILLS":4000.00},
-			"2012-09": {"total":28717.36, "CORPORATE CS MGT":19114.20, "SECTOR GWTH ENHANCEMENT PROG":9603.16},
-			"2012-10": {"total":80491.53, "OTHER LOCAL AUTHORITY PLACEMEN":69362.92, "SECTOR GWTH ENHANCEMENT PROG":11128.61},
-			"2012-11": {"total":11453.64, "SECTOR GWTH ENHANCEMENT PROG":11453.64},
-			"2013-01": {"total":28616.99, "CORPORATE CS MGT":28616.99},
-			"2013-02": {"total":58287.92, "OTHER LOCAL AUTHORITY PLACEMEN":52997.25, "SECTOR GWTH ENHANCEMENT PROG":5290.67},
-			"2013-03": {"total":44806.15, "OTHER LOCAL AUTHORITY PLACEMEN":38935.46, "SECTOR GWTH ENHANCEMENT PROG":5870.69},
-			"2013-04": {"total":132420.38, "CITY SKILLS FUND":125000.00, "POLICY AND IMPROVEMENT":2000.00, "SECTOR GWTH ENHANCEMENT PROG":5420.38},
-			"2013-05": {"total":4000.00, "STRATEGY AND SKILLS":4000.00},
-			"2013-06": {"total":29128.52, "CORPORATE CS MGT":17816.53, "SECTOR GWTH ENHANCEMENT PROG":11311.99},
-			"2013-07": {"total":13037.45, "SECTOR GWTH ENHANCEMENT PROG":13037.45},
-			"2013-11": {"total":11991.92, "SECTOR GWTH ENHANCEMENT PROG":11991.92},
-			"2014-06": {"total":4000.00, "STRATEGY AND SKILLS":4000.00},
-			"2014-07": {"total":18000.00, "INTER AGENCY FEES":18000.00},
-			"2014-08": {"total":4397.05, "SECTOR GWTH ENHANCEMENT PROG":4397.05},
-			"2014-09": {"total":1236.69, "PURCHASING LEARNING DISABILITI":1236.69},
-			"2014-10": {"total":6380.39, "SECTOR GWTH ENHANCEMENT PROG":6380.39},
-			"2014-11": {"total":28666.52, "PURCHASING LEARNING DISABILITI":1082.10, "SECTOR GWTH ENHANCEMENT PROG":27584.42},
-			"2014-12": {"total":33216.73, "SECTOR GWTH ENHANCEMENT PROG":33216.73},
-			"2015-01": {"total":9000.00, "INTER AGENCY FEES":9000.00},
-			"2015-02": {"total":4732.98, "SECTOR GWTH ENHANCEMENT PROG":4732.98},
-			"2015-03": {"total":1000.00, "PLUGGED IN":1000.00},
-			"2015-05": {"total":13024.17, "SECTOR GWTH ENHANCEMENT PROG":13024.17},
-			"2015-09": {"total":5583.30, "PLACE":5583.30},
-			"2015-11": {"total":2563.71, "POLICY PERFORMANCE AND COMMS":2563.71},
-			"2015-12": {"total":16472.56, "PLACE":16472.56},
-			"2016-01": {"total":7880.20, "PLACE":7880.20},
-			"2016-03": {"total":8237.28, "POLICY PERFORMANCE AND COMMS":8237.28},
-			"2017-06": {"total":250.00, "CYPF":250.00},
-			"2017-10": {"total":1190643.15, "LOCAL ENTERPRISE PARTNERSHIP":1185823.00, "PLACE":4820.15},
-			"2017-12": {"total":982032.00, "LOCAL ENTERPRISE PARTNERSHIP":982032.00},
-			"2018-01": {"total":312125.00, "LOCAL ENTERPRISE PARTNERSHIP":312125.00},
-			"2018-02": {"total":2310.00, "PLACE":2310.00},
-			"2018-03": {"total":792031.00, "LOCAL ENTERPRISE PARTNERSHIP":549260.00, "PLACE":37500.00, "TRANSPORT AUTHORITY":205271.00},
-			"2018-04": {"total":509717.24, "LOCAL ENTERPRISE PARTNERSHIP":506637.24, "PLACE":3080.00},
-			"2018-05": {"total":1816939.00, "LOCAL ENTERPRISE PARTNERSHIP":190000.00, "PEOPLE":1400.00, "TRANSPORT AUTHORITY":1625539.00},
-			"2018-06": {"total":159289.20, "LOCAL ENTERPRISE PARTNERSHIP":159289.20},
-			"2018-09": {"total":1414158.89, "LOCAL ENTERPRISE PARTNERSHIP":1414158.89},
-			"2018-10": {"total":1888021.50, "PLACE":18750.00, "TRANSPORT AUTHORITY":1869271.50},
-			"2018-11": {"total":324859.32, "LOCAL ENTERPRISE PARTNERSHIP":324859.32},
-			"2018-12": {"total":1136496.75, "LOCAL ENTERPRISE PARTNERSHIP":605768.25, "TRANSPORT AUTHORITY":530728.50},
-			"2019-01": {"total":1587714.63, "LOCAL ENTERPRISE PARTNERSHIP":60714.63, "TRANSPORT AUTHORITY":1527000.00},
-			"2019-02": {"total":350018.00, "LOCAL ENTERPRISE PARTNERSHIP":350018.00},
-			"2019-03": {"total":5771942.01, "LOCAL ENTERPRISE PARTNERSHIP":5771692.01, "TRANSPORT AUTHORITY":250.00},
-			"2019-04": {"total":647037.74, "LOCAL ENTERPRISE PARTNERSHIP":647037.74},
-			"2019-05": {"total":850589.82, "LOCAL ENTERPRISE PARTNERSHIP":850589.82},
-			"2019-06": {"total":19541.66, "LOCAL ENTERPRISE PARTNERSHIP":291.66, "PEOPLE":500.00, "PLACE":18750.00},
-			"2019-07": {"total":975665.00, "LOCAL ENTERPRISE PARTNERSHIP":212165.00, "TRANSPORT AUTHORITY":763500.00},
-			"2019-08": {"total":135236.00, "LOCAL ENTERPRISE PARTNERSHIP":135236.00},
-			"2019-09": {"total":35198.75, "LOCAL ENTERPRISE PARTNERSHIP":35198.75},
-			"2019-10": {"total":37599.00, "LOCAL ENTERPRISE PARTNERSHIP":37599.00},
-			"2019-11": {"total":265.00, "LOCAL ENTERPRISE PARTNERSHIP":265.00},
-			"2019-12": {"total":221063.85, "LOCAL ENTERPRISE PARTNERSHIP":221063.85},
-			"2020-01": {"total":24112.22, "LOCAL ENTERPRISE PARTNERSHIP":24112.22},
-			"2020-02": {"total":2397877.66, "LOCAL ENTERPRISE PARTNERSHIP":2397877.66},
-			"2020-03": {"total":2238114.62, "LOCAL ENTERPRISE PARTNERSHIP":1609747.79, "TRANSPORT AUTHORITY":628366.83}
-		}
-	},
-	"1630": {
-		"name": "BARNSLEY MBC",
-		"total": 29520345.38,
-		"monthly": {
-			"2011-01": {"total":6442.08, "CORONIAL SERVICES":4570.08, "QUANTITY SURVEYORS":1872.00},
-			"2011-02": {"total":5581.75, "BARNSLEY RHB LOANS HAL":1249.70, "CORONIAL SERVICES":4332.05},
-			"2011-03": {"total":15815.20, "CORONIAL SERVICES":8315.20, "ECONOMIC":7500.00},
-			"2011-05": {"total":5432.68, "BARNSLEY RHB LOANS HAL":1260.00, "CORONIAL SERVICES":4172.68},
-			"2011-06": {"total":9537.52, "BARNSLEY RHB LOANS HAL":853.88, "CORONIAL SERVICES":8683.64},
-			"2011-07": {"total":1000.00, "TRAINING":1000.00},
-			"2011-08": {"total":4516.31, "CORONIAL SERVICES":4516.31},
-			"2011-10": {"total":3788.35, "CORONIAL SERVICES":3788.35},
-			"2011-11": {"total":46051.25, "CORONIAL SERVICES":8255.75, "ESF T A LEVY":37795.50},
-			"2011-12": {"total":3838.86, "CORONIAL SERVICES":3838.86},
-			"2012-01": {"total":3616.32, "CORONIAL SERVICES":3616.32},
-			"2012-02": {"total":3788.35, "CORONIAL SERVICES":3788.35},
-			"2012-03": {"total":65489.34, "CORONIAL SERVICES":4306.42, "ECOLOGY":1658.92, "HIGHWAYS GENERAL":29524.00, "HOMELESSNESS ADMIN":30000.00},
-			"2012-04": {"total":19862.01, "CORONIAL SERVICES":4129.01, "ESF T A LEVY":15733.00},
-			"2012-05": {"total":1250.00, "TRAINING":1250.00},
-			"2012-06": {"total":16999.38, "BARNSLEY RHB LOANS RAL":12972.00, "CORONIAL SERVICES":4027.38},
-			"2012-07": {"total":18733.89, "BARNSLEY - SY SUB REGION HAL":4065.00, "CHIEF EXECUTIVE":5768.00, "CORONIAL SERVICES":8900.89},
-			"2012-08": {"total":8275.00, "ESF T A LEVY":8275.00},
-			"2012-09": {"total":6596.07, "CORONIAL SERVICES":4234.04, "ECOLOGY":1855.03, "TREE PLANTING":507.00},
-			"2012-10": {"total":83556.41, "CORONIAL SERVICES":8407.61, "STRATEGY AND SKILLS":75148.80},
-			"2012-11": {"total":3380.82, "CORONIAL SERVICES":3380.82},
-			"2013-01": {"total":5907.29, "CORONIAL SERVICES":3983.73, "ECOLOGY":1069.56, "ISB":446.00, "NORTH SA - CIN S17":408.00},
-			"2013-02": {"total":8619.95, "CORONIAL SERVICES":8219.95, "ISB":400.00},
-			"2013-03": {"total":161664.25, "CORONIAL SERVICES":4060.34, "ECOLOGY":2585.41, "GRANT DD":5200.00, "OTHER":148318.50, "TRAINING - BROCKWOOD":1500.00},
-			"2013-04": {"total":50000.00, "GROWING PLACES FUND":50000.00},
-			"2013-06": {"total":80440.53, "CORONIAL SERVICES":4341.57, "ISB":600.00, "STRATEGY AND SKILLS":75149.00, "TRAINING - BROCKWOOD":349.96},
-			"2013-08": {"total":1113.82, "ECOLOGY":1113.82},
-			"2013-09": {"total":238736.42, "CORONIAL SERVICES":12092.42, "OTHER":226644.00},
-			"2013-10": {"total":14353.10, "BARNSLEY RHB LOANS RAL":13723.50, "ECOLOGY":629.60},
-			"2013-11": {"total":79602.26, "CORONIAL SERVICES":12424.26, "ISB":600.00, "PRECEPTS & LEVIES":63578.00, "STRATEGIC FINANCE":3000.00},
-			"2014-01": {"total":8633.57, "CORONIAL SERVICES":8030.99, "ECOLOGY":602.58},
-			"2014-02": {"total":22847.77, "BARNSLEY RHB LOANS RAL":18982.25, "CORONIAL SERVICES":3865.52},
-			"2014-03": {"total":2596.91, "CEX OFFICE":731.25, "ECOLOGY":1265.66, "ISB":600.00},
-			"2014-04": {"total":8749.78, "CORONIAL SERVICES":8249.78, "TREE PLANTING":500.00},
-			"2014-05": {"total":1664.25, "MEMBERS ALLOWANCES":414.25, "TRAINING":1250.00},
-			"2014-06": {"total":5082.77, "CEX OFFICE":1008.50, "CORONIAL SERVICES":4074.27},
-			"2014-08": {"total":6665.34, "CORONIAL SERVICES":3869.82, "ECOLOGY":1527.52, "LAC PUPIL PREMIUM":1268.00},
-			"2014-09": {"total":4864.05, "CORONIAL SERVICES":4297.24, "PURCHASING LEARNING DISABILITI":566.81},
-			"2014-10": {"total":25659.06, "CORONIAL SERVICES":11693.38, "ECOLOGY":1666.08, "INWARD INVESTMENT":12299.60},
-			"2014-11": {"total":5266.00, "AUDIT FEES":3000.00, "LAC PUPIL PREMIUM":1266.00, "SINTO":1000.00},
-			"2014-12": {"total":151769.00, "LSTF MAIN BID REVENUE":151769.00},
-			"2015-01": {"total":72751.78, "LOAN REDEMPTIONS ACCOUNT":19126.78, "SOUTH YORKSHIRE BROADBAND":53625.00},
-			"2015-02": {"total":556397.03, "CORONIAL SERVICES":12862.21, "ECOLOGY":587.82, "LAC PUPIL PREMIUM":1266.00, "LEP CORE":3120.00, "LSTF MAIN BID":263562.00, "LSTF MAIN BID REVENUE":156351.00, "LTP MAIN BLOCK":118648.00},
-			"2015-03": {"total":209038.43, "ECOLOGY":1107.52, "LEP CORE":32842.91, "LTP MAIN BLOCK":159562.00, "MADE IN SHEFFIELD":11000.00, "SOUTH YORKSHIRE BROADBAND":4526.00},
-			"2015-04": {"total":1837.92, "CEX OFFICE":1018.50, "MEMBERS ALLOWANCES":819.42},
-			"2015-05": {"total":57652.82, "LSTF MAIN BID":20943.00, "LSTF MAIN BID REVENUE":29892.00, "SOUTH YORKSHIRE BROADBAND":6817.82},
-			"2015-06": {"total":782983.00, "LAC PUPIL PREMIUM":1268.00, "LTP MAIN BLOCK":781715.00},
-			"2015-07": {"total":846179.44, "PLACE":16717.44, "TRANSPORT AUTHORITY":829462.00},
-			"2015-08": {"total":12081.70, "PLACE":12081.70},
-			"2015-10": {"total":11212.01, "CYPF":1266.00, "PLACE":9946.01},
-			"2015-11": {"total":127695.07, "PLACE":9955.89, "TRANSPORT AUTHORITY":117739.18},
-			"2015-12": {"total":23953.00, "CYPF":23953.00},
-			"2016-01": {"total":258376.50, "CYPF":2000.00, "PLACE":27607.50, "TRANSPORT AUTHORITY":228769.00},
-			"2016-02": {"total":23752.31, "PLACE":23752.31},
-			"2016-03": {"total":1005359.28, "CA LEP":582442.47, "RESOURCES":3000.00, "TRANSPORT AUTHORITY":419916.81},
-			"2016-04": {"total":18537.90, "CYPF":6253.80, "PLACE":11293.60, "POLICY PERFORMANCE AND COMMS":990.50},
-			"2016-05": {"total":840081.82, "CA LEP":647145.00, "COMMUNITIES":1250.00, "CYPF":4385.79, "PLACE":2307.03, "TRANSPORT AUTHORITY":184994.00},
-			"2016-06": {"total":2289398.44, "CA LEP":1208077.31, "PLACE":12371.72, "TRANSPORT AUTHORITY":1068949.41},
-			"2016-07": {"total":636673.58, "CA LEP":618985.00, "CYPF":8218.11, "PLACE":9470.47},
-			"2016-08": {"total":1065412.06, "CA LEP":1059594.00, "PLACE":5818.06},
-			"2016-09": {"total":1509872.63, "CA LEP":1493145.11, "CYPF":4196.88, "PLACE":12530.64},
-			"2016-10": {"total":1305212.12, "CA LEP":1301482.11, "CYPF":3730.01},
-			"2016-11": {"total":628553.27, "CA LEP":619057.07, "PLACE":9496.20},
-			"2016-12": {"total":1465032.89, "CA LEP":1452092.04, "PLACE":12940.85},
-			"2017-01": {"total":1544102.02, "CA LEP":1544102.02},
-			"2017-02": {"total":34717.69, "CA LEP":1672.50, "CYPF":12205.80, "PLACE":20839.39},
-			"2017-03": {"total":45260.00, "CA LEP":45260.00},
-			"2017-04": {"total":14242.25, "CA LEP":4025.76, "CYPF":2324.62, "PLACE":7891.87},
-			"2017-05": {"total":4037046.79, "CA LEP":1520.79, "COMMUNITIES":1250.00, "TRANSPORT AUTHORITY":4034276.00},
-			"2017-06": {"total":1227612.75, "CA LEP":566125.49, "CYPF":10220.00, "PLACE":4694.26, "TRANSPORT AUTHORITY":646573.00},
-			"2017-07": {"total":1692415.70, "CA LEP":1072072.90, "PLACE":620342.80},
-			"2017-09": {"total":10379.18, "LOCAL ENTERPRISE PARTNERSHIP":10379.18},
-			"2017-11": {"total":26304.62, "PLACE":26304.62},
-			"2017-12": {"total":926359.24, "LOCAL ENTERPRISE PARTNERSHIP":926359.24},
-			"2018-01": {"total":478035.34, "LOCAL ENTERPRISE PARTNERSHIP":451980.72, "PLACE":26054.62},
-			"2018-02": {"total":655017.36, "POLICY, PERFORMANCE AND COMMS":33526.69, "LOCAL ENTERPRISE PARTNERSHIP":616911.50, "PEOPLE":2134.17, "PLACE":2445.00},
-			"2018-03": {"total":457123.38, "LOCAL ENTERPRISE PARTNERSHIP":411982.38, "PEOPLE":2250.00, "PLACE":42891.00},
-			"2018-04": {"total":70766.38, "POLICY, PERFORMANCE AND COMMS":906.00, "PEOPLE":36513.39, "PLACE":33346.99},
-			"2018-05": {"total":1614920.00, "PLACE":593903.00, "TRANSPORT AUTHORITY":1021017.00},
-			"2018-08": {"total":98334.61, "LOCAL ENTERPRISE PARTNERSHIP":72280.00, "PLACE":26054.61},
-			"2018-11": {"total":26568.43, "PLACE":26568.43},
-			"2019-01": {"total":27346.46, "PEOPLE":1400.00, "PLACE":25946.46},
-			"2019-02": {"total":527590.81, "TRANSPORT AUTHORITY":527590.81},
-			"2019-03": {"total":1172.75, "POLICY, PERFORMANCE AND COMMS":922.75, "PEOPLE":250.00},
-			"2019-04": {"total":120390.46, "LOCAL ENTERPRISE PARTNERSHIP":94444.00, "PLACE":25946.46},
-			"2019-05": {"total":1400.00, "PEOPLE":1400.00},
-			"2019-06": {"total":97324.59, "PLACE":2394.00, "TRANSPORT AUTHORITY":94930.59},
-			"2019-07": {"total":498267.32, "TRANSPORT AUTHORITY":498267.32},
-			"2019-08": {"total":3231.75, "PEOPLE":3231.75},
-			"2019-09": {"total":18674.41, "PLACE":18674.41},
-			"2019-10": {"total":12320.00, "PEOPLE":7500.00, "PLACE":4820.00},
-			"2019-11": {"total":36584.00, "LOCAL ENTERPRISE PARTNERSHIP":28187.00, "PLACE":8397.00},
-			"2019-12": {"total":7881.00, "PLACE":4381.00, "RESOURCES":3500.00},
-			"2020-01": {"total":3584.00, "RESOURCES":3584.00},
-			"2020-02": {"total":6702.13, "PEOPLE":1020.63, "RESOURCES":5681.50},
-			"2020-03": {"total":72364.34, "LOCAL ENTERPRISE PARTNERSHIP":63192.14, "PLACE":3151.20, "RESOURCES":6021.00},
-			"2020-04": {"total":12626.50, "PEOPLE":3500.00, "PLACE":4690.00, "RESOURCES":4436.50},
-			"2020-05": {"total":33608.24, "POLICY, PERFORMANCE AND COMMS":18927.75, "PEOPLE":3276.99, "PLACE":5000.00, "RESOURCES":6403.50},
-			"2020-06": {"total":5905.00, "RESOURCES":5905.00},
-			"2020-07": {"total":73593.58, "PLACE":66167.08, "RESOURCES":7426.50},
-			"2020-08": {"total":6247.00, "RESOURCES":6247.00},
-			"2020-09": {"total":5406.50, "RESOURCES":5406.50},
-			"2020-10": {"total":10235.00, "PLACE":4139.00, "RESOURCES":6096.00},
-			"2020-12": {"total":12851.09, "PLACE":3641.09, "RESOURCES":9210.00}
-		}
-	},
-	"1631": {
-		"name": "BARNSLEY MBC INC SIGOMA",
-		"total": 976690.400000001,
-		"monthly": {
-			"2017-09": {"total":19029.61, "PLACE":19029.61},
-			"2017-10": {"total":1000.00, "PLACE":1000.00},
-			"2018-01": {"total":5400.00, "PEOPLE":5400.00},
-			"2018-02": {"total":3000.00, "RESOURCES":3000.00},
-			"2018-04": {"total":20954.23, "PEOPLE":6808.62, "PLACE":14145.61},
-			"2018-06": {"total":267273.00, "PLACE":267273.00},
-			"2018-07": {"total":4802.98, "PEOPLE":4802.98},
-			"2018-08": {"total":80054.61, "PEOPLE":54000.00, "PLACE":26054.61},
-			"2018-10": {"total":107204.89, "PEOPLE":4855.76, "PLACE":102349.13},
-			"2018-11": {"total":3609.97, "PLACE":3609.97},
-			"2018-12": {"total":4026.63, "PLACE":4026.63},
-			"2019-01": {"total":12056.04, "PEOPLE":4855.76, "PLACE":4200.28, "RESOURCES":3000.00},
-			"2019-02": {"total":4384.84, "PLACE":4384.84},
-			"2019-03": {"total":12653.15, "PEOPLE":2250.00, "PLACE":8010.45, "RESOURCES":2392.70},
-			"2019-04": {"total":697.11, "RESOURCES":697.11},
-			"2019-05": {"total":27334.55, "PEOPLE":4750.20, "PLACE":7720.35, "RESOURCES":14864.00},
-			"2019-07": {"total":8713.08, "PLACE":8713.08},
-			"2019-08": {"total":5280.77, "PEOPLE":5280.77},
-			"2019-10": {"total":9422.59, "PLACE":9422.59},
-			"2019-11": {"total":4855.76, "PEOPLE":4855.76},
-			"2020-01": {"total":23505.56, "PEOPLE":4855.76, "PLACE":18649.80},
-			"2020-02": {"total":5282.23, "CORPORATE":335.23, "PLACE":4947.00},
-			"2020-03": {"total":4834.57, "PLACE":4834.57},
-			"2020-04": {"total":4802.98, "PEOPLE":4802.98},
-			"2020-05": {"total":3577.06, "PLACE":3577.06},
-			"2020-07": {"total":33650.46, "PEOPLE":23927.98, "PLACE":9151.96, "RESOURCES":570.52},
-			"2020-08": {"total":274622.35, "PEOPLE":274622.35},
-			"2020-09": {"total":4644.12, "PLACE":4644.12},
-			"2020-10": {"total":15182.85, "PEOPLE":4855.76, "PLACE":9047.09, "RESOURCES":1280.00},
-			"2020-12": {"total":4834.41, "CORPORATE":299.66, "PLACE":4534.75}
-		}
-	},
-	"1632": {
-		"name": "BARNSLEY METROPOLITAN BOROUGH COUNCIL",
-		"total": 414460.8,
-		"monthly": {
-			"2011-02": {"total":1236.00, "CO-ORDINATED ASSESSMENT":1236.00},
-			"2011-03": {"total":1408.50, "BIS CORE SERVICES":1408.50},
-			"2011-06": {"total":1448.16, "BIS CORE SERVICES":1448.16},
-			"2011-07": {"total":1289.23, "BIS CORE SERVICES":1289.23},
-			"2011-12": {"total":2240.30, "BIS CORE SERVICES":2240.30},
-			"2013-12": {"total":5940.00, "CWD INDEPENDENT PLACEMENTS":5940.00},
-			"2014-03": {"total":12100.00, "CWD INDEPENDENT PLACEMENTS":12100.00},
-			"2014-09": {"total":12150.00, "CWD INDEPENDENT PLACEMENTS":12150.00},
-			"2014-12": {"total":4060.00, "CWD INDEPENDENT PLACEMENTS":4060.00},
-			"2015-03": {"total":2700.00, "CWD INDEPENDENT PLACEMENTS":2700.00},
-			"2015-11": {"total":62336.25, "CYPF":61436.25, "TRANSPORT AUTHORITY":900.00},
-			"2016-01": {"total":16043.60, "CYPF":16043.60},
-			"2016-02": {"total":6143.60, "CYPF":6143.60},
-			"2016-03": {"total":6143.60, "CYPF":6143.60},
-			"2016-04": {"total":17687.20, "CYPF":17687.20},
-			"2016-05": {"total":6143.60, "CYPF":6143.60},
-			"2016-07": {"total":6143.60, "CYPF":6143.60},
-			"2016-08": {"total":5400.00, "CYPF":5400.00},
-			"2016-09": {"total":6143.60, "CYPF":6143.60},
-			"2016-10": {"total":36861.66, "CYPF":36861.66},
-			"2016-11": {"total":18430.83, "CYPF":18430.83},
-			"2016-12": {"total":14450.00, "CYPF":14450.00},
-			"2017-01": {"total":55292.18, "CYPF":55292.18},
-			"2017-02": {"total":2900.00, "CYPF":2900.00},
-			"2017-10": {"total":17917.72, "PEOPLE":8550.00, "PLACE":9367.72},
-			"2017-11": {"total":7331.54, "PLACE":7331.54},
-			"2018-01": {"total":16074.63, "PEOPLE":7000.00, "PLACE":9074.63},
-			"2018-05": {"total":3535.00, "PLACE":3535.00},
-			"2019-01": {"total":50900.00, "PEOPLE":50900.00},
-			"2019-02": {"total":7070.00, "PLACE":7070.00},
-			"2019-05": {"total":4000.00, "PLACE":4000.00},
-			"2020-10": {"total":2940.00, "RESOURCES":2940.00}
-		}
-	},
-	"1633": {
-		"name": "BARNSLEY NORSE LTD",
-		"total": 777299.16,
-		"monthly": {
-			"2013-10": {"total":29541.46, "NORSE CONTROL ACCOUNT":29541.46},
-			"2013-11": {"total":14770.73, "NORSE CONTROL ACCOUNT":14770.73},
-			"2013-12": {"total":14770.73, "NORSE CONTROL ACCOUNT":14770.73},
-			"2014-01": {"total":18346.00, "NORSE CONTROL ACCOUNT":18346.00},
-			"2014-02": {"total":17556.86, "NORSE CONTROL ACCOUNT":17556.86},
-			"2014-03": {"total":16030.70, "NORSE CONTROL ACCOUNT":16030.70},
-			"2014-05": {"total":32327.14, "NORSE CONTROL ACCOUNT":32327.14},
-			"2014-07": {"total":31938.26, "NORSE CONTROL ACCOUNT":31938.26},
-			"2014-08": {"total":16684.03, "NORSE CONTROL ACCOUNT":16684.03},
-			"2014-09": {"total":15974.53, "NORSE CONTROL ACCOUNT":15974.53},
-			"2014-10": {"total":15974.53, "NORSE CONTROL ACCOUNT":15974.53},
-			"2014-11": {"total":15974.53, "NORSE CONTROL ACCOUNT":15974.53},
-			"2014-12": {"total":15974.53, "NORSE CONTROL ACCOUNT":15974.53},
-			"2015-02": {"total":15974.53, "NORSE CONTROL ACCOUNT":15974.53},
-			"2015-03": {"total":31599.62, "NORSE CONTROL ACCOUNT":31599.62},
-			"2015-04": {"total":15713.11, "NORSE CONTROL ACCOUNT":15713.11},
-			"2015-05": {"total":16038.79, "NORSE CONTROL ACCOUNT":16038.79},
-			"2015-06": {"total":16067.69, "NORSE CONTROL ACCOUNT":16067.69},
-			"2015-07": {"total":16038.79, "RESOURCES":16038.79},
-			"2015-08": {"total":16038.79, "RESOURCES":16038.79},
-			"2015-09": {"total":16038.79, "RESOURCES":16038.79},
-			"2015-10": {"total":17877.21, "RESOURCES":17877.21},
-			"2015-11": {"total":17877.21, "RESOURCES":17877.21},
-			"2015-12": {"total":18193.69, "RESOURCES":18193.69},
-			"2016-01": {"total":18073.43, "RESOURCES":18073.43},
-			"2016-02": {"total":18073.43, "RESOURCES":18073.43},
-			"2016-03": {"total":18073.43, "RESOURCES":18073.43},
-			"2016-04": {"total":18073.43, "RESOURCES":18073.43},
-			"2016-05": {"total":18819.06, "RESOURCES":18819.06},
-			"2016-06": {"total":18819.06, "RESOURCES":18819.06},
-			"2016-07": {"total":18819.06, "RESOURCES":18819.06},
-			"2016-08": {"total":15973.51, "RESOURCES":15973.51},
-			"2016-09": {"total":15973.90, "RESOURCES":15973.90},
-			"2016-10": {"total":15973.90, "RESOURCES":15973.90},
-			"2016-11": {"total":15973.90, "RESOURCES":15973.90},
-			"2016-12": {"total":15973.90, "RESOURCES":15973.90},
-			"2017-01": {"total":16735.98, "RESOURCES":16735.98},
-			"2017-02": {"total":15995.18, "RESOURCES":15995.18},
-			"2017-04": {"total":15973.90, "RESOURCES":15973.90},
-			"2017-05": {"total":16539.18, "RESOURCES":16539.18},
-			"2017-06": {"total":16458.22, "RESOURCES":16458.22},
-			"2017-07": {"total":16458.22, "RESOURCES":16458.22},
-			"2017-08": {"total":16458.22, "RESOURCES":16458.22},
-			"2017-10": {"total":738.00, "RESOURCES":738.00}
-		}
-	},
-	"1634": {
-		"name": "BARNSLEY REFRIGERATION LTD",
-		"total": 2202,
-		"monthly": {
-			"2014-08": {"total":782.00, "FOOD HYGIENE":782.00},
-			"2017-02": {"total":1420.00, "CA LEP":1420.00}
-		}
-	},
-	"1635": {
-		"name": "BARNSLEY ROAD SURGERY",
-		"total": 6545,
-		"monthly": {
-			"2013-07": {"total":795.00, "ENHANCED SERVICE - IMPLANON":465.00, "PUBLIC HEALTH - DPH":330.00},
-			"2014-07": {"total":1020.00, "GP HEALTH CHECKS":1020.00},
-			"2014-10": {"total":870.00, "GP HEALTH CHECKS":870.00},
-			"2015-04": {"total":540.00, "GP HEALTH CHECKS":540.00},
-			"2015-10": {"total":270.00, "POLICY PERFORMANCE AND COMMS":270.00},
-			"2016-01": {"total":380.00, "POLICY PERFORMANCE AND COMMS":380.00},
-			"2016-04": {"total":310.00, "POLICY PERFORMANCE AND COMMS":310.00},
-			"2016-10": {"total":360.00, "POLICY PERFORMANCE AND COMMS":360.00},
-			"2017-06": {"total":400.00, "POLICY PERFORMANCE AND COMMS":400.00},
-			"2018-05": {"total":400.00, "POLICY, PERFORMANCE AND COMMS":400.00},
-			"2019-06": {"total":800.00, "POLICY, PERFORMANCE AND COMMS":800.00},
-			"2020-01": {"total":400.00, "POLICY, PERFORMANCE AND COMMS":400.00}
-		}
-	},
-	"1636": {
-		"name": "BARNSLEY YOUTH CHOIR",
-		"total": 270,
-		"monthly": {
-			"2019-05": {"total":270.00, "LOCAL ENTERPRISE PARTNERSHIP":270.00}
-		}
-	},
-	"1637": {
-		"name": "BARONMEAD INTERNATIONAL LTD",
-		"alternate-names": [
-			"BARONMEAD INTERNATIONAL LTD."
-		],
-		"total": 6085,
-		"monthly": {
-			"2011-09": {"total":4795.00, "STATEMENTING & EXCEPTIONAL NE":4795.00},
-			"2013-05": {"total":515.00, "SEN ASSESSMENT & PLACEMENT TEA":515.00},
-			"2013-12": {"total":255.00, "SEN ASSESSMENT & PLACEMENT TEA":255.00},
-			"2014-06": {"total":255.00, "SEN ASSESSMENT & PLACEMENT TEA":255.00},
-			"2015-01": {"total":265.00, "SEN ASSESSMENT & PLACEMENT TEA":265.00}
-		}
-	},
-	"1638": {
-		"name": "BARONS FYLDE COAST SUPPLIES LTD",
-		"total": 2759,
-		"monthly": {
-			"2019-03": {"total":2759.00, "PEOPLE":2759.00}
-		}
-	},
-	"1639": {
-		"name": "BARRA ORGANICS LTD",
-		"alternate-names": [
-			"BARRA ORGANICS LIMITED"
-		],
-		"total": 1000,
-		"monthly": {
-			"2019-01": {"total":1000.00, "PLACE":1000.00}
-		}
-	},
-	"1640": {
-		"name": "BARRETT-LETTINGS",
-		"total": 4626,
-		"monthly": {
-			"2017-10": {"total":1542.00, "PEOPLE":1542.00},
-			"2018-01": {"total":1542.00, "PEOPLE":1542.00},
-			"2018-04": {"total":1542.00, "PEOPLE":1542.00}
-		}
-	},
-	"1641": {
-		"name": "BARRETTINE ENVIRONMENTAL HEALTH",
-		"total": 27848.09,
-		"monthly": {
-			"2011-06": {"total":1675.30, "PEST CONTROL":1675.30},
-			"2011-07": {"total":954.58, "PEST CONTROL":954.58},
-			"2011-08": {"total":816.00, "PEST CONTROL":816.00},
-			"2011-11": {"total":534.03, "PEST CONTROL":534.03},
-			"2012-04": {"total":563.86, "PEST CONTROL":563.86},
-			"2012-05": {"total":563.86, "PEST CONTROL":563.86},
-			"2012-09": {"total":1424.66, "PEST CONTROL":1424.66},
-			"2013-01": {"total":755.24, "PEST CONTROL":755.24},
-			"2013-05": {"total":513.36, "PEST CONTROL":513.36},
-			"2013-07": {"total":450.80, "PEST CONTROL":450.80},
-			"2013-08": {"total":677.12, "PEST CONTROL":677.12},
-			"2013-10": {"total":306.43, "PEST CONTROL":306.43},
-			"2013-12": {"total":882.40, "PEST CONTROL":882.40},
-			"2014-07": {"total":555.94, "PEST CONTROL":555.94},
-			"2014-08": {"total":1049.50, "PEST CONTROL":1049.50},
-			"2014-10": {"total":435.11, "PEST CONTROL":435.11},
-			"2014-11": {"total":681.60, "PEST CONTROL":681.60},
-			"2015-02": {"total":1349.21, "PEST CONTROL":1349.21},
-			"2015-05": {"total":330.89, "PEST CONTROL":330.89},
-			"2016-03": {"total":475.52, "PLACE":475.52},
-			"2016-06": {"total":1054.01, "PLACE":1054.01},
-			"2016-08": {"total":475.20, "PLACE":475.20},
-			"2017-07": {"total":1050.60, "PLACE":1050.60},
-			"2017-08": {"total":1260.72, "CORPORATE":1260.72},
-			"2018-01": {"total":1234.20, "PLACE":1234.20},
-			"2018-06": {"total":1201.43, "PLACE":1201.43},
-			"2018-08": {"total":450.00, "PLACE":450.00},
-			"2018-10": {"total":1129.22, "PLACE":1129.22},
-			"2018-12": {"total":610.80, "PLACE":610.80},
-			"2019-02": {"total":1012.50, "PLACE":1012.50},
-			"2019-07": {"total":783.12, "PLACE":783.12},
-			"2020-09": {"total":1486.98, "PLACE":1486.98},
-			"2020-10": {"total":735.90, "PLACE":735.90},
-			"2020-12": {"total":368.00, "PLACE":368.00}
-		}
-	},
-	"1642": {
-		"name": "BARRIE BOOKKEEPING & PAYROLL SOLUTIO",
-		"total": 45797.72,
-		"monthly": {
-			"2016-04": {"total":4570.36, "COMMUNITIES":4570.36},
-			"2016-05": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-06": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-07": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-08": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-09": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-10": {"total":943.84, "COMMUNITIES":943.84},
-			"2016-11": {"total":1887.68, "COMMUNITIES":1887.68},
-			"2016-12": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-01": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-02": {"total":1093.84, "COMMUNITIES":1093.84},
-			"2017-04": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-05": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-06": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-07": {"total":943.84, "COMMUNITIES":943.84},
-			"2017-08": {"total":1156.72, "PEOPLE":1156.72},
-			"2017-09": {"total":1156.72, "PEOPLE":1156.72},
-			"2017-10": {"total":1156.72, "PEOPLE":1156.72},
-			"2017-11": {"total":2313.44, "PEOPLE":2313.44},
-			"2017-12": {"total":1156.72, "PEOPLE":1156.72},
-			"2018-01": {"total":1156.72, "PEOPLE":1156.72},
-			"2018-02": {"total":1156.72, "PEOPLE":1156.72},
-			"2018-03": {"total":1156.72, "PEOPLE":1156.72},
-			"2018-04": {"total":1177.12, "PEOPLE":1177.12},
-			"2018-05": {"total":1177.12, "PEOPLE":1177.12},
-			"2018-06": {"total":1177.12, "PEOPLE":1177.12},
-			"2018-07": {"total":1177.12, "PEOPLE":1177.12},
-			"2018-08": {"total":6553.12, "PEOPLE":6553.12},
-			"2018-09": {"total":3017.40, "PEOPLE":3017.40},
-			"2018-10": {"total":893.72, "PEOPLE":893.72},
-			"2018-11": {"total":893.72, "PEOPLE":893.72},
-			"2019-01": {"total":442.84, "PEOPLE":442.84}
-		}
-	},
-	"1643": {
-		"name": "BARRIE JOSEPH CHEADLE",
-		"total": 1120,
-		"monthly": {
-			"2016-02": {"total":1120.00, "CA LEP":1120.00}
-		}
-	},
-	"1644": {
-		"name": "BARRINGTON INTERNATIONAL SSS LTD",
-		"total": 289.1,
-		"monthly": {
-			"2020-02": {"total":289.10, "PEOPLE":289.10}
-		}
-	},
-	"1645": {
-		"name": "BARRONS HAIR SALON",
-		"total": 2240,
-		"monthly": {
-			"2017-01": {"total":2240.00, "CA LEP":2240.00}
-		}
-	},
-	"1646": {
-		"name": "BARRY BENNETT LTD",
-		"alternate-names": [
-			"BARRY BENNETT LIMITED"
-		],
-		"total": 1408.53,
-		"monthly": {
-			"2011-05": {"total":598.53, "FW - SOUTH WEST 2":598.53},
-			"2014-07": {"total":270.00, "WEST MAST":270.00},
-			"2014-08": {"total":270.00, "REVIEW & REASSESSMENT 4":270.00},
-			"2015-11": {"total":270.00, "CYPF":270.00}
-		}
-	},
-	"1647": {
-		"name": "BARRY DENYER-GREEN",
-		"total": 4850,
-		"monthly": {
-			"2012-05": {"total":1600.00, "CORPORATE COSTS":1600.00},
-			"2012-08": {"total":3250.00, "PROPERTY DISPOSAL":3250.00}
-		}
-	},
-	"1648": {
-		"name": "BARRY SWALES TA TUCANA GLOBAL",
-		"total": 985.5,
-		"monthly": {
-			"2014-09": {"total":985.50, "HR LEADERSHIP":985.50}
-		}
-	},
-	"1649": {
-		"name": "BARTCO UK",
-		"total": 2285,
-		"monthly": {
-			"2016-02": {"total":2285.00, "PLACE":2285.00}
+			"2020-11": {"total":19678.39, "PEOPLE":19678.39},
+			"2020-12": {"total":1412.70, "PEOPLE":1412.70},
+			"2021-01": {"total":32138.61, "PEOPLE":32138.61},
+			"2021-03": {"total":18950.79, "PEOPLE":18950.79},
+			"2021-04": {"total":36917.62, "PEOPLE":36917.62},
+			"2021-05": {"total":3970.20, "PEOPLE":3970.20},
+			"2021-06": {"total":17875.08, "PEOPLE":17875.08}
 		}
 	}
 	}

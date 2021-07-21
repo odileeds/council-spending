@@ -1,7 +1,39 @@
 {
-	"range": ["2009-09","2020-12"],
+	"range": ["2009-09","2021-06"],
 	"data": {
 	"500": {
+		"name": "2014:12FTIFrailty And/Or Temporary Illness",
+		"total": 403068.51,
+		"monthly": {
+			"2015-01": {"total":159934.91, "Adults, Health and Social Care":0.00},
+			"2015-02": {"total":243133.60, "unknown":243133.60}
+		}
+	},
+	"501": {
+		"name": "2014:12LD Learning Disabilities",
+		"total": 167921.94,
+		"monthly": {
+			"2015-01": {"total":128300.56, "Adults, Health and Social Care":0.00},
+			"2015-02": {"total":39621.38, "unknown":39621.38}
+		}
+	},
+	"502": {
+		"name": "2014:12MH Mental Health (Except Dementia)",
+		"total": 17502.66,
+		"monthly": {
+			"2015-01": {"total":14407.38, "Adults, Health and Social Care":0.00},
+			"2015-02": {"total":3095.28, "unknown":3095.28}
+		}
+	},
+	"503": {
+		"name": "2014:12OV Other Vulnerable People",
+		"total": 26651.7,
+		"monthly": {
+			"2015-01": {"total":11446.08, "Adults, Health and Social Care":0.00},
+			"2015-02": {"total":15205.62, "unknown":15205.62}
+		}
+	},
+	"504": {
 		"name": "2014:12PD Physically Disabled",
 		"total": 335612.21,
 		"monthly": {
@@ -9,7 +41,7 @@
 			"2015-02": {"total":68088.65, "unknown":68088.65}
 		}
 	},
-	"501": {
+	"505": {
 		"name": "2014:12SM Substance Misuse",
 		"total": 3293.12,
 		"monthly": {
@@ -17,7 +49,7 @@
 			"2015-02": {"total":813.12, "unknown":813.12}
 		}
 	},
-	"502": {
+	"506": {
 		"name": "2014:12VI Visual Impairment",
 		"total": 19937.24,
 		"monthly": {
@@ -25,7 +57,7 @@
 			"2015-02": {"total":3101.52, "unknown":3101.52}
 		}
 	},
-	"503": {
+	"507": {
 		"name": "2014:13D  Dementia",
 		"total": 67456.18,
 		"monthly": {
@@ -33,7 +65,7 @@
 			"2015-03": {"total":21977.48, "unknown":21977.48}
 		}
 	},
-	"504": {
+	"508": {
 		"name": "2014:13DSLDual Sensory Loss",
 		"total": 8410.44,
 		"monthly": {
@@ -41,7 +73,7 @@
 			"2015-03": {"total":1024.12, "unknown":1024.12}
 		}
 	},
-	"505": {
+	"509": {
 		"name": "2014:13FTIFrailty And/Or Temporary Illness",
 		"total": 376544.49,
 		"monthly": {
@@ -49,7 +81,7 @@
 			"2015-03": {"total":220883.49, "unknown":220883.49}
 		}
 	},
-	"506": {
+	"510": {
 		"name": "2014:13LD Learning Disabilities",
 		"total": 206311.85,
 		"monthly": {
@@ -57,7 +89,7 @@
 			"2015-03": {"total":37289.48, "unknown":37289.48}
 		}
 	},
-	"507": {
+	"511": {
 		"name": "2014:13MH Mental Health (Except Dementia)",
 		"total": 21529.06,
 		"monthly": {
@@ -65,7 +97,7 @@
 			"2015-03": {"total":5644.68, "Adults, Health and Social Care":0.00}
 		}
 	},
-	"508": {
+	"512": {
 		"name": "2014:13OV Other Vulnerable People",
 		"total": 23232.28,
 		"monthly": {
@@ -73,7 +105,7 @@
 			"2015-03": {"total":11744.52, "unknown":11744.52}
 		}
 	},
-	"509": {
+	"513": {
 		"name": "2014:13PD Physically Disabled",
 		"total": 355790.7,
 		"monthly": {
@@ -81,7 +113,7 @@
 			"2015-03": {"total":73288.46, "unknown":73288.46}
 		}
 	},
-	"510": {
+	"514": {
 		"name": "2014:13SM Substance Misuse",
 		"total": 2053.12,
 		"monthly": {
@@ -89,7 +121,7 @@
 			"2015-03": {"total":813.12, "unknown":813.12}
 		}
 	},
-	"511": {
+	"515": {
 		"name": "2014:13VI Visual Impairment",
 		"total": 19937.24,
 		"monthly": {
@@ -97,7 +129,7 @@
 			"2015-03": {"total":3101.52, "unknown":3101.52}
 		}
 	},
-	"512": {
+	"516": {
 		"name": "2015:01D  Dementia",
 		"total": 92040.09,
 		"monthly": {
@@ -105,7 +137,7 @@
 			"2015-04": {"total":27641.78, "unknown":27641.78}
 		}
 	},
-	"513": {
+	"517": {
 		"name": "2015:01DSLDual Sensory Loss",
 		"total": 10547.84,
 		"monthly": {
@@ -113,7 +145,7 @@
 			"2015-04": {"total":1024.12, "unknown":1024.12}
 		}
 	},
-	"514": {
+	"518": {
 		"name": "2015:01FTIFrailty And/Or Temporary Illness",
 		"total": 524619.32,
 		"monthly": {
@@ -121,14 +153,14 @@
 			"2015-04": {"total":310371.62, "unknown":310371.62}
 		}
 	},
-	"515": {
+	"519": {
 		"name": "2015:01HI Hearing Impairment",
 		"total": 1794.69,
 		"monthly": {
 			"2015-04": {"total":1794.69, "unknown":1794.69}
 		}
 	},
-	"516": {
+	"520": {
 		"name": "2015:01LD Learning Disabilities",
 		"total": 468754.89,
 		"monthly": {
@@ -136,7 +168,7 @@
 			"2015-04": {"total":47822.62, "unknown":47822.62}
 		}
 	},
-	"517": {
+	"521": {
 		"name": "2015:01MH Mental Health (Except Dementia)",
 		"total": 30697.52,
 		"monthly": {
@@ -144,7 +176,7 @@
 			"2015-04": {"total":7856.68, "Adults, Health and Social Care":0.00}
 		}
 	},
-	"518": {
+	"522": {
 		"name": "2015:01OV Other Vulnerable People",
 		"total": 24748.57,
 		"monthly": {
@@ -152,7 +184,7 @@
 			"2015-04": {"total":14065.73, "unknown":14065.73}
 		}
 	},
-	"519": {
+	"523": {
 		"name": "2015:01PD Physically Disabled",
 		"total": 428806.03,
 		"monthly": {
@@ -160,7 +192,7 @@
 			"2015-04": {"total":87421.52, "unknown":87421.52}
 		}
 	},
-	"520": {
+	"524": {
 		"name": "2015:01SM Substance Misuse",
 		"total": 2053.12,
 		"monthly": {
@@ -168,7 +200,7 @@
 			"2015-04": {"total":813.12, "unknown":813.12}
 		}
 	},
-	"521": {
+	"525": {
 		"name": "2015:01VI Visual Impairment",
 		"total": 20048.97,
 		"monthly": {
@@ -176,7 +208,7 @@
 			"2015-04": {"total":2087.17, "unknown":2087.17}
 		}
 	},
-	"522": {
+	"526": {
 		"name": "2015:02D  Dementia",
 		"total": 64228,
 		"monthly": {
@@ -184,7 +216,7 @@
 			"2015-05": {"total":30390.95, "unknown":30390.95}
 		}
 	},
-	"523": {
+	"527": {
 		"name": "2015:02DSLDual Sensory Loss",
 		"total": 8492.36,
 		"monthly": {
@@ -192,7 +224,7 @@
 			"2015-05": {"total":558.64, "unknown":558.64}
 		}
 	},
-	"524": {
+	"528": {
 		"name": "2015:02FTIFrailty And/Or Temporary Illness",
 		"total": 409150.99,
 		"monthly": {
@@ -200,14 +232,14 @@
 			"2015-05": {"total":237205.00, "unknown":237205.00}
 		}
 	},
-	"525": {
+	"529": {
 		"name": "2015:02HI Hearing Impairment",
 		"total": 1339.61,
 		"monthly": {
 			"2015-05": {"total":1339.61, "unknown":1339.61}
 		}
 	},
-	"526": {
+	"530": {
 		"name": "2015:02LD Learning Disabilities",
 		"total": 199207.73,
 		"monthly": {
@@ -215,7 +247,7 @@
 			"2015-05": {"total":57467.84, "unknown":57467.84}
 		}
 	},
-	"527": {
+	"531": {
 		"name": "2015:02MH Mental Health (Except Dementia)",
 		"total": 22511.29,
 		"monthly": {
@@ -223,7 +255,7 @@
 			"2015-05": {"total":8242.61, "unknown":8242.61}
 		}
 	},
-	"528": {
+	"532": {
 		"name": "2015:02OV Other Vulnerable People",
 		"total": 26714.42,
 		"monthly": {
@@ -231,7 +263,7 @@
 			"2015-05": {"total":13123.50, "unknown":13123.50}
 		}
 	},
-	"529": {
+	"533": {
 		"name": "2015:02PD Physically Disabled",
 		"total": 363139.44,
 		"monthly": {
@@ -239,7 +271,7 @@
 			"2015-05": {"total":78061.40, "unknown":78061.40}
 		}
 	},
-	"530": {
+	"534": {
 		"name": "2015:02SM Substance Misuse",
 		"total": 2053.12,
 		"monthly": {
@@ -247,7 +279,7 @@
 			"2015-05": {"total":813.12, "unknown":813.12}
 		}
 	},
-	"531": {
+	"535": {
 		"name": "2015:02VI Visual Impairment",
 		"total": 23814.24,
 		"monthly": {
@@ -255,7 +287,7 @@
 			"2015-05": {"total":4142.66, "unknown":4142.66}
 		}
 	},
-	"532": {
+	"536": {
 		"name": "2015:03D  Dementia",
 		"total": 58294.3,
 		"monthly": {
@@ -263,14 +295,14 @@
 			"2015-06": {"total":27087.90, "Adult Services and Wellbeing":27087.90}
 		}
 	},
-	"533": {
+	"537": {
 		"name": "2015:03DSLDual Sensory Loss",
 		"total": 5279.8,
 		"monthly": {
 			"2015-05": {"total":5279.80, "Adults, Health and Social Care":0.00}
 		}
 	},
-	"534": {
+	"538": {
 		"name": "2015:03FTIFrailty And/Or Temporary Illness",
 		"total": 409181.29,
 		"monthly": {
@@ -278,14 +310,14 @@
 			"2015-06": {"total":252840.26, "Adult Services and Wellbeing":252840.26}
 		}
 	},
-	"535": {
+	"539": {
 		"name": "2015:03HI Hearing Impairment",
 		"total": 1411.6,
 		"monthly": {
 			"2015-06": {"total":1411.60, "Adult Services and Wellbeing":1411.60}
 		}
 	},
-	"536": {
+	"540": {
 		"name": "2015:03LD Learning Disabilities",
 		"total": 202795.74,
 		"monthly": {
@@ -293,7 +325,7 @@
 			"2015-06": {"total":61920.74, "Adult Services and Wellbeing":61920.74}
 		}
 	},
-	"537": {
+	"541": {
 		"name": "2015:03MH Mental Health (Except Dementia)",
 		"total": 15880.17,
 		"monthly": {
@@ -301,7 +333,7 @@
 			"2015-06": {"total":2194.88, "Adult Services and Wellbeing":2194.88}
 		}
 	},
-	"538": {
+	"542": {
 		"name": "2015:03OV Other Vulnerable People",
 		"total": 20160.53,
 		"monthly": {
@@ -309,7 +341,7 @@
 			"2015-06": {"total":9210.41, "Adult Services and Wellbeing":9210.41}
 		}
 	},
-	"539": {
+	"543": {
 		"name": "2015:03PD Physically Disabled",
 		"total": 341634.02,
 		"monthly": {
@@ -317,7 +349,7 @@
 			"2015-06": {"total":69219.92, "Adult Services and Wellbeing":69219.92}
 		}
 	},
-	"540": {
+	"544": {
 		"name": "2015:03SM Substance Misuse",
 		"total": 2053.12,
 		"monthly": {
@@ -325,7 +357,7 @@
 			"2015-06": {"total":813.12, "Adult Services and Wellbeing":813.12}
 		}
 	},
-	"541": {
+	"545": {
 		"name": "2015:03VI Visual Impairment",
 		"total": 22138.66,
 		"monthly": {
@@ -333,7 +365,7 @@
 			"2015-06": {"total":3698.58, "Adult Services and Wellbeing":3698.58}
 		}
 	},
-	"542": {
+	"546": {
 		"name": "2015:04D  Dementia",
 		"total": 59021.7,
 		"monthly": {
@@ -341,14 +373,14 @@
 			"2015-07": {"total":28734.44, "unknown":28734.44}
 		}
 	},
-	"543": {
+	"547": {
 		"name": "2015:04DSLDual Sensory Loss",
 		"total": 5279.8,
 		"monthly": {
 			"2015-06": {"total":5279.80, "Adult Services and Wellbeing":5279.80}
 		}
 	},
-	"544": {
+	"548": {
 		"name": "2015:04FTIFrailty And/Or Temporary Illness",
 		"total": 421120.49,
 		"monthly": {
@@ -356,43 +388,11 @@
 			"2015-07": {"total":262102.33, "unknown":262102.33}
 		}
 	},
-	"545": {
+	"549": {
 		"name": "2015:04HI Hearing Impairment",
 		"total": 1109.11,
 		"monthly": {
 			"2015-07": {"total":1109.11, "unknown":1109.11}
-		}
-	},
-	"546": {
-		"name": "2015:04LD Learning Disabilities",
-		"total": 297223.25,
-		"monthly": {
-			"2015-06": {"total":239805.49, "Adult Services and Wellbeing":239805.49},
-			"2015-07": {"total":57417.76, "unknown":57417.76}
-		}
-	},
-	"547": {
-		"name": "2015:04MH Mental Health (Except Dementia)",
-		"total": 18625.09,
-		"monthly": {
-			"2015-06": {"total":15838.71, "Adult Services and Wellbeing":15838.71},
-			"2015-07": {"total":2786.38, "Adults, Health and Social Care":0.00}
-		}
-	},
-	"548": {
-		"name": "2015:04OV Other Vulnerable People",
-		"total": 36816.24,
-		"monthly": {
-			"2015-06": {"total":21311.92, "Adult Services and Wellbeing":21311.92},
-			"2015-07": {"total":15504.32, "unknown":15504.32}
-		}
-	},
-	"549": {
-		"name": "2015:04PD Physically Disabled",
-		"total": 374587.72,
-		"monthly": {
-			"2015-06": {"total":288665.72, "Adult Services and Wellbeing":288665.72},
-			"2015-07": {"total":85922.00, "unknown":85922.00}
 		}
 	}
 	}

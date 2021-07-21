@@ -1,23 +1,419 @@
 {
-	"range": ["2010-12","2020-10"],
+	"range": ["2010-12","2021-06"],
 	"data": {
 	"1000": {
+		"name": "BIRTLEY COMMUNITY CHURCH",
+		"total": 500,
+		"monthly": {
+			"2016-11": {"total":500.00, "Communities & Environment":500.00}
+		}
+	},
+	"1001": {
+		"name": "BIRTLEY COMMUNITY HUB",
+		"total": 9840,
+		"monthly": {
+			"2014-03": {"total":2304.00, "Community Based Services":2304.00},
+			"2016-06": {"total":1300.00, "Communities & Environment":1300.00},
+			"2016-11": {"total":450.00, "Communities & Environment":450.00},
+			"2018-07": {"total":500.00, "Communities & Environment":500.00},
+			"2018-12": {"total":500.00, "Communities & Environment":500.00},
+			"2019-03": {"total":1400.00, "Communities & Environment":1400.00},
+			"2019-08": {"total":1624.00, "Communities & Environment":1624.00},
+			"2019-10": {"total":812.00, "Communities & Environment":812.00},
+			"2020-01": {"total":950.00, "Communities & Environment":950.00}
+		}
+	},
+	"1002": {
+		"name": "BIRTLEY COMMUNITY PARTNERSHIP",
+		"total": 52733.33,
+		"monthly": {
+			"2012-01": {"total":9800.00, "Community Based Services":9800.00},
+			"2012-05": {"total":2594.00, "Community Based Services":2594.00},
+			"2012-07": {"total":2600.00, "Community Based Services":2600.00},
+			"2013-03": {"total":4990.60, "Community Based Services":4990.60},
+			"2013-05": {"total":3754.35, "Community Based Services":3754.35},
+			"2013-07": {"total":750.00, "Community Based Services":750.00},
+			"2013-08": {"total":5833.00, "Community Based Services":5833.00},
+			"2013-12": {"total":1500.00, "Learning and Children":1500.00},
+			"2014-02": {"total":698.92, "Community Based Services":698.92},
+			"2014-03": {"total":750.00, "Community Based Services":750.00},
+			"2014-08": {"total":5000.00, "Community Based Services":5000.00},
+			"2014-10": {"total":2500.00, "Community Based Services":2500.00},
+			"2015-01": {"total":2500.00, "Care, Wellbeing & Learning":2500.00},
+			"2015-05": {"total":2500.00, "Care, Wellbeing & Learning":2500.00},
+			"2015-06": {"total":2500.00, "Care, Wellbeing & Learning":2500.00},
+			"2015-07": {"total":1300.00, "Communities & Environment":1300.00},
+			"2015-11": {"total":1538.46, "Care, Wellbeing & Learning":1538.46},
+			"2019-07": {"total":1624.00, "Communities & Environment":1624.00}
+		}
+	},
+	"1003": {
+		"name": "BIRTLEY COMMUNITY TRUST",
+		"total": 5000,
+		"monthly": {
+			"2015-08": {"total":5000.00, "Communities & Environment":5000.00}
+		}
+	},
+	"1004": {
+		"name": "BIRTLEY EAST PRIMARY SCHOOL",
+		"total": 4000,
+		"monthly": {
+			"2019-08": {"total":2000.00, "Communities & Environment":2000.00},
+			"2019-10": {"total":2000.00, "Communities & Environment":2000.00}
+		}
+	},
+	"1005": {
+		"name": "BIRTLEY GROUP LTD",
+		"total": 5019.4,
+		"monthly": {
+			"2014-12": {"total":488.00, "Communities & Enviroment":488.00},
+			"2015-01": {"total":1467.84, "Communities & Enviroment":1467.84},
+			"2015-03": {"total":1350.76, "Communities & Enviroment":1350.76},
+			"2015-05": {"total":1712.80, "Communities & Enviroment":1712.80}
+		}
+	},
+	"1006": {
+		"name": "BIRTLEY HERITAGE GROUP",
+		"total": 11762,
+		"monthly": {
+			"2011-06": {"total":3000.00, "Community Based Services":3000.00},
+			"2012-03": {"total":7000.00, "Community Based Services":7000.00},
+			"2015-05": {"total":612.00, "Communities & Enviroment":612.00},
+			"2016-09": {"total":1150.00, "Communities & Environment":1150.00}
+		}
+	},
+	"1007": {
+		"name": "BIRTLEY MEDICAL GROUP",
+		"total": 330914.9,
+		"monthly": {
+			"2013-07": {"total":9537.50, "Community Based Services":9537.50},
+			"2013-09": {"total":1050.00, "Community Based Services":1050.00},
+			"2013-10": {"total":10721.80, "Community Based Services":10721.80},
+			"2014-01": {"total":14407.95, "Community Based Services":14407.95},
+			"2014-03": {"total":10730.00, "Community Based Services":10730.00},
+			"2014-04": {"total":13480.80, "Community Based Services":13480.80},
+			"2014-05": {"total":10230.00, "Community Based Services":10230.00},
+			"2014-06": {"total":1140.00, "Community Based Services":1140.00},
+			"2014-08": {"total":9929.50, "Community Based Services":9929.50},
+			"2014-09": {"total":7725.00, "Community Based Services":7725.00},
+			"2014-11": {"total":6933.35, "Care, Wellbeing & Learning":6933.35},
+			"2014-12": {"total":3880.00, "Care, Wellbeing & Learning":3880.00},
+			"2015-01": {"total":2685.00, "Care, Wellbeing & Learning":2685.00},
+			"2015-02": {"total":4828.35, "Care, Wellbeing & Learning":4828.35},
+			"2015-03": {"total":545.00, "Care, Wellbeing & Learning":545.00},
+			"2015-04": {"total":7702.65, "Care, Wellbeing & Learning":7702.65},
+			"2015-05": {"total":1458.00, "Care, Wellbeing & Learning":1458.00},
+			"2015-06": {"total":14160.00, "Care, Wellbeing & Learning":14160.00},
+			"2015-07": {"total":3658.35, "Care, Wellbeing & Learning":3658.35},
+			"2015-08": {"total":8825.00, "Care, Wellbeing & Learning":8825.00},
+			"2015-09": {"total":3716.00, "Care, Wellbeing & Learning":3716.00},
+			"2015-10": {"total":3406.05, "Care, Wellbeing & Learning":3406.05},
+			"2015-11": {"total":9855.00, "Care, Wellbeing & Learning":9855.00},
+			"2016-02": {"total":9063.75, "Care, Wellbeing & Learning":9063.75},
+			"2016-05": {"total":12810.25, "Care, Wellbeing & Learning":12810.25},
+			"2016-08": {"total":14269.90, "Care, Wellbeing & Learning":14269.90},
+			"2016-11": {"total":12277.20, "Care, Wellbeing & Learning":12277.20},
+			"2016-12": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
+			"2017-02": {"total":11202.20, "Care, Wellbeing & Learning":11202.20},
+			"2017-03": {"total":990.00, "Care, Wellbeing & Learning":990.00},
+			"2017-05": {"total":15725.50, "Care, Wellbeing & Learning":15725.50},
+			"2017-08": {"total":11324.68, "Care, Wellbeing & Learning":11324.68},
+			"2017-09": {"total":2539.02, "Care, Wellbeing & Learning":2539.02},
+			"2017-10": {"total":5172.15, "Care, Wellbeing & Learning":5172.15},
+			"2017-11": {"total":5990.00, "Care, Wellbeing & Learning":5990.00},
+			"2018-01": {"total":6147.55, "Care, Wellbeing & Learning":6147.55},
+			"2018-02": {"total":4530.00, "Care, Wellbeing & Learning":4530.00},
+			"2018-04": {"total":1080.00, "Care, Wellbeing & Learning":1080.00},
+			"2018-05": {"total":9942.55, "Care, Wellbeing & Learning":9942.55},
+			"2018-07": {"total":2940.66, "Care, Wellbeing & Learning":2940.66},
+			"2018-08": {"total":4174.99, "Care, Wellbeing & Learning":4174.99},
+			"2018-11": {"total":5331.80, "Care, Wellbeing & Learning":5331.80},
+			"2019-02": {"total":2302.40, "Care, Wellbeing & Learning":2302.40},
+			"2019-05": {"total":3585.00, "Care, Wellbeing & Learning":3585.00},
+			"2019-07": {"total":3035.00, "Care, Wellbeing & Learning":3035.00},
+			"2019-08": {"total":1310.00, "Care, Wellbeing & Learning":1310.00},
+			"2019-10": {"total":875.00, "Care, Wellbeing & Learning":875.00},
+			"2019-11": {"total":3825.00, "Care, Wellbeing & Learning":3825.00},
+			"2020-02": {"total":3600.00, "Care, Wellbeing & Learning":3600.00},
+			"2020-04": {"total":2420.00, "Care, Wellbeing & Learning":2420.00},
+			"2020-05": {"total":3070.00, "Public Health and Wellbeing":3070.00},
+			"2020-07": {"total":920.00, "Public Health and Wellbeing":920.00},
+			"2020-12": {"total":4780.00, "Public Health and Wellbeing":4780.00},
+			"2021-02": {"total":2695.00, "Public Health and Wellbeing":2695.00},
+			"2021-04": {"total":880.00, "Public Health and Wellbeing":880.00}
+		}
+	},
+	"1008": {
+		"name": "BIRTLEY MINIBUSES",
+		"total": 49865,
+		"monthly": {
+			"2010-12": {"total":1435.00, "Community Based Services":1435.00},
+			"2011-01": {"total":910.00, "Community Based Services":910.00},
+			"2011-02": {"total":1400.00, "Community Based Services":1400.00},
+			"2011-03": {"total":1400.00, "Community Based Services":1400.00},
+			"2011-04": {"total":1610.00, "Community Based Services":1610.00},
+			"2011-05": {"total":1260.00, "Community Based Services":1260.00},
+			"2011-06": {"total":1800.00, "Community Based Services":1800.00},
+			"2011-07": {"total":1980.00, "Community Based Services":1980.00},
+			"2011-08": {"total":1890.00, "Community Based Services":1890.00},
+			"2011-09": {"total":1980.00, "Community Based Services":1980.00},
+			"2011-10": {"total":1980.00, "Community Based Services":1980.00},
+			"2011-11": {"total":1890.00, "Community Based Services":1890.00},
+			"2011-12": {"total":1890.00, "Community Based Services":1890.00},
+			"2012-01": {"total":1350.00, "Community Based Services":1350.00},
+			"2012-02": {"total":1890.00, "Community Based Services":1890.00},
+			"2012-03": {"total":1890.00, "Community Based Services":1890.00},
+			"2012-04": {"total":1980.00, "Community Based Services":1980.00},
+			"2012-05": {"total":1710.00, "Community Based Services":1710.00},
+			"2012-06": {"total":1980.00, "Community Based Services":1980.00},
+			"2012-07": {"total":1710.00, "Community Based Services":1710.00},
+			"2012-08": {"total":1980.00, "Community Based Services":1980.00},
+			"2012-09": {"total":1980.00, "Community Based Services":1980.00},
+			"2012-10": {"total":1800.00, "Community Based Services":1800.00},
+			"2012-11": {"total":2070.00, "Community Based Services":2070.00},
+			"2012-12": {"total":1980.00, "Community Based Services":1980.00},
+			"2013-01": {"total":1350.00, "Community Based Services":1350.00},
+			"2013-02": {"total":1980.00, "Community Based Services":1980.00},
+			"2013-03": {"total":1800.00, "Community Based Services":1800.00},
+			"2013-04": {"total":990.00, "Community Based Services":990.00}
+		}
+	},
+	"1009": {
+		"name": "BIRTLEY TOWN FC",
+		"total": 11000,
+		"monthly": {
+			"2011-01": {"total":10000.00, "Community Based Services":10000.00},
+			"2018-11": {"total":1000.00, "Communities & Environment":1000.00}
+		}
+	},
+	"1010": {
+		"name": "BIRTLEY YOUNG PEOPLES CLUB",
+		"total": 50550,
+		"monthly": {
+			"2011-01": {"total":20000.00, "Community Based Services":20000.00},
+			"2011-04": {"total":20000.00, "Community Based Services":20000.00},
+			"2011-11": {"total":10000.00, "Community Based Services":10000.00},
+			"2012-12": {"total":550.00, "Community Based Services":550.00}
+		}
+	},
+	"1011": {
+		"name": "BIRTLEY YOUTH CENTRE",
+		"total": 10573.44,
+		"monthly": {
+			"2011-02": {"total":3433.44, "Community Based Services":3433.44},
+			"2012-07": {"total":1440.00, "Community Based Services":1440.00},
+			"2012-10": {"total":700.00, "Learning and Children":700.00},
+			"2016-01": {"total":5000.00, "Care, Wellbeing & Learning":5000.00}
+		}
+	},
+	"1012": {
+		"name": "BIS SILLS CENTRE",
+		"total": 500,
+		"monthly": {
+			"2011-03": {"total":500.00, "Development & Enterprise":500.00}
+		}
+	},
+	"1013": {
+		"name": "BISHOP AUCKLAND COLLEGE",
+		"total": 9999.99,
+		"monthly": {
+			"2019-12": {"total":3333.33, "Children, Adults and Families":3333.33},
+			"2020-01": {"total":3333.33, "Care, Wellbeing & Learning":3333.33},
+			"2020-03": {"total":3333.33, "Care, Wellbeing & Learning":3333.33}
+		}
+	},
+	"1014": {
+		"name": "BISHOP SPORTS & LEISURE LTD",
+		"total": 1112.69,
+		"monthly": {
+			"2014-10": {"total":542.49, "Community Based Services":542.49},
+			"2014-11": {"total":570.20, "Communities & Enviroment":570.20}
+		}
+	},
+	"1015": {
+		"name": "BISHOP WILKINSON CATHOLIC EDUCATION TRUST",
+		"total": 63223.73,
+		"monthly": {
+			"2020-06": {"total":2030.00, "Children, Adults and Families":2030.00},
+			"2020-12": {"total":10798.11, "Children, Adults and Families":10798.11},
+			"2021-01": {"total":13759.16, "Children, Adults and Families":13759.16},
+			"2021-06": {"total":36636.46, "Children, Adults and Families":36636.46}
+		}
+	},
+	"1016": {
+		"name": "BIV BOWES",
+		"total": 1500,
+		"monthly": {
+			"2017-05": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
+		}
+	},
+	"1017": {
+		"name": "BJD ASSOCIATES LTD",
+		"total": 6489.5,
+		"monthly": {
+			"2011-06": {"total":3527.50, "Central Services":3527.50},
+			"2011-09": {"total":2571.50, "Central Services":2571.50},
+			"2011-10": {"total":390.50, "Central Services":390.50}
+		}
+	},
+	"1018": {
+		"name": "BKSB LTD",
+		"total": 16355,
+		"monthly": {
+			"2017-10": {"total":627.00, "Communities & Environment":627.00},
+			"2018-05": {"total":3368.00, "Care, Wellbeing & Learning":3368.00},
+			"2018-08": {"total":3368.00, "Care, Wellbeing & Learning":3368.00},
+			"2019-12": {"total":776.00, "Children, Adults and Families":776.00},
+			"2020-06": {"total":3716.00, "Children, Adults and Families":3716.00},
+			"2020-11": {"total":784.00, "Children, Adults and Families":784.00},
+			"2021-03": {"total":3716.00, "Children, Adults and Families":3716.00}
+		}
+	},
+	"1019": {
+		"name": "BLACHERE ILLUMINATION UK LTD",
+		"total": 164050.04,
+		"monthly": {
+			"2010-12": {"total":42364.18, "Local Environmental Services":42364.18},
+			"2011-01": {"total":12788.75, "Community Based Services":1950.00, "Local Environmental Services":10838.75},
+			"2011-02": {"total":3168.25, "Local Environmental Services":3168.25},
+			"2011-03": {"total":5166.00, "Development & Enterprise":5166.00},
+			"2011-10": {"total":18853.93, "Local Environmental Services":18853.93},
+			"2011-12": {"total":15757.49, "Community Based Services":1055.90, "Local Environmental Services":14701.59},
+			"2012-01": {"total":4924.00, "Community Based Services":600.00, "Local Environmental Services":4324.00},
+			"2012-02": {"total":8022.39, "Local Environmental Services":8022.39},
+			"2012-03": {"total":1483.25, "Local Environmental Services":1483.25},
+			"2012-11": {"total":561.89, "Community Based Services":561.89},
+			"2012-12": {"total":21523.93, "Local Environmental Services":21523.93},
+			"2013-01": {"total":26497.98, "Community Based Services":600.00, "Local Environmental Services":25897.98},
+			"2013-10": {"total":2938.00, "Local Environmental Services":2938.00}
+		}
+	},
+	"1020": {
+		"name": "BLACK DOG DESIGN",
+		"total": 2730,
+		"monthly": {
+			"2011-01": {"total":425.00, "Community Based Services":425.00},
+			"2011-03": {"total":605.00, "Community Based Services":605.00},
+			"2017-01": {"total":700.00, "Care, Wellbeing & Learning":700.00},
+			"2018-05": {"total":1000.00, "Corporate Resources":1000.00}
+		}
+	},
+	"1021": {
+		"name": "BLACK LIGHT LTD",
+		"total": 126327.46,
+		"monthly": {
+			"2011-03": {"total":4485.00, "Community Based Services":4485.00},
+			"2011-06": {"total":27644.63, "Community Based Services":27644.63},
+			"2011-09": {"total":91227.62, "Community Based Services":91227.62},
+			"2012-09": {"total":2970.21, "Community Based Services":2970.21}
+		}
+	},
+	"1022": {
+		"name": "BLACK OAK TREE SERVICES",
+		"total": 79832,
+		"monthly": {
+			"2019-02": {"total":2300.00, "Communities & Environment":2300.00},
+			"2019-05": {"total":9750.00, "Communities & Environment":9750.00},
+			"2019-07": {"total":3050.00, "Communities & Environment":3050.00},
+			"2019-08": {"total":2950.00, "Communities & Environment":2950.00},
+			"2019-09": {"total":850.00, "Communities & Environment":850.00},
+			"2019-10": {"total":15364.00, "Communities & Environment":15364.00},
+			"2019-11": {"total":1950.00, "Communities & Enviroment":1300.00, "Communities & Environment":650.00},
+			"2019-12": {"total":2200.00, "Housing, Environment and Healthy Communities":2200.00},
+			"2020-01": {"total":2590.00, "Communities & Environment":2590.00},
+			"2020-02": {"total":1150.00, "Communities & Environment":1150.00},
+			"2020-03": {"total":3625.00, "Communities & Environment":3625.00},
+			"2020-10": {"total":4310.00, "Housing, Environment and Healthy Communities":4310.00},
+			"2020-11": {"total":11587.00, "Housing, Environment and Healthy Communities":11587.00},
+			"2021-02": {"total":4435.00, "Housing, Environment and Healthy Communities":4435.00},
+			"2021-03": {"total":6830.00, "Housing, Environment and Healthy Communities":6830.00},
+			"2021-04": {"total":2050.00, "Housing, Environment and Healthy Communities":2050.00},
+			"2021-05": {"total":2335.00, "Housing, Environment and Healthy Communities":2335.00},
+			"2021-06": {"total":2506.00, "Housing, Environment and Healthy Communities":2506.00}
+		}
+	},
+	"1023": {
+		"name": "BLACK SHEEP PRESS",
+		"total": 847.75,
+		"monthly": {
+			"2015-01": {"total":847.75, "Care, Wellbeing & Learning":847.75}
+		}
+	},
+	"1024": {
+		"name": "BLACKBURN & ROBERTS MANUFACTURING LTD",
+		"total": 520,
+		"monthly": {
+			"2016-06": {"total":520.00, "Communities & Enviroment":520.00}
+		}
+	},
+	"1025": {
+		"name": "BLACKBURNS OF BOLTON LTD",
+		"total": 4880,
+		"monthly": {
+			"2010-12": {"total":915.00, "Central Services":915.00},
+			"2011-10": {"total":1840.00, "Central Services":1840.00},
+			"2012-07": {"total":915.00, "Central Services":915.00},
+			"2012-08": {"total":1210.00, "Central Services":1210.00}
+		}
+	},
+	"1026": {
+		"name": "BLACKETT-ORD CONSERVATION LTD",
+		"total": 18950,
+		"monthly": {
+			"2018-06": {"total":2700.00, "Communities & Environment":2700.00},
+			"2018-07": {"total":3460.00, "Communities & Environment":3460.00},
+			"2018-08": {"total":2550.00, "Communities & Environment":2550.00},
+			"2018-09": {"total":2190.00, "Communities & Environment":2190.00},
+			"2018-12": {"total":500.00, "Communities & Environment":500.00},
+			"2019-01": {"total":1500.00, "Communities & Environment":1500.00},
+			"2019-02": {"total":750.00, "Communities & Enviroment":750.00},
+			"2019-04": {"total":1750.00, "Communities & Environment":1750.00},
+			"2019-05": {"total":1800.00, "Communities & Enviroment":1800.00},
+			"2019-06": {"total":1750.00, "Communities & Environment":1750.00}
+		}
+	},
+	"1027": {
+		"name": "BLACKHALL MILL COMMUNITY ASSOC",
+		"total": 11836.82,
+		"monthly": {
+			"2011-06": {"total":2116.80, "Community Based Services":2116.80},
+			"2011-07": {"total":2950.00, "Community Based Services":2950.00},
+			"2012-08": {"total":1905.02, "Community Based Services":1905.02},
+			"2013-02": {"total":2960.00, "Community Based Services":2960.00},
+			"2013-07": {"total":1905.00, "Community Based Services":1905.00}
+		}
+	},
+	"1028": {
+		"name": "BLACKHALL MILL COMMUNITY CENTR",
+		"total": 1905.12,
+		"monthly": {
+			"2012-07": {"total":1905.12, "Community Based Services":1905.12}
+		}
+	},
+	"1029": {
+		"name": "BLACKS SOLICITORS",
+		"total": 350,
+		"monthly": {
+			"2014-03": {"total":350.00, "Central Services":350.00}
+		}
+	},
+	"1030": {
 		"name": "BLACKSHAWS",
 		"total": 3286.29,
 		"monthly": {
 			"2019-05": {"total":3286.29, "Communities & Environment":3286.29}
 		}
 	},
-	"1001": {
+	"1031": {
 		"name": "BLACKWELL UK LTD",
 		"total": 474.72,
 		"monthly": {
 			"2011-06": {"total":474.72, "Community Based Services":474.72}
 		}
 	},
-	"1002": {
+	"1032": {
 		"name": "BLAIR ESTATES LTD",
-		"total": 646265.6,
+		"total": 671859.1,
 		"monthly": {
 			"2010-12": {"total":19375.00, "Development & Enterprise":19375.00},
 			"2011-03": {"total":19375.00, "Development & Enterprise":19375.00},
@@ -59,10 +455,11 @@
 			"2019-12": {"total":12796.75, "Economy, Innovation and Growth":12796.75},
 			"2020-03": {"total":12796.75, "Corporate Services & Governance":12796.75},
 			"2020-06": {"total":12796.75, "Economy, Innovation and Growth":12796.75},
-			"2020-10": {"total":12796.75, "Economy, Innovation and Growth":12796.75}
+			"2020-10": {"total":12796.75, "Economy, Innovation and Growth":12796.75},
+			"2021-05": {"total":25593.50, "Economy, Innovation and Growth":25593.50}
 		}
 	},
-	"1003": {
+	"1033": {
 		"name": "BLAKE HOPKINSON ARCHITECTURE & DESIGN",
 		"total": 28714.32,
 		"monthly": {
@@ -71,7 +468,7 @@
 			"2020-06": {"total":7733.75, "Communities & Enviroment":7733.75}
 		}
 	},
-	"1004": {
+	"1034": {
 		"name": "BLAKE LEISURE",
 		"total": 6000,
 		"monthly": {
@@ -79,7 +476,7 @@
 			"2014-08": {"total":1500.00, "Learning and Children":1500.00}
 		}
 	},
-	"1005": {
+	"1035": {
 		"name": "BLANCO LTD",
 		"total": 5076.88,
 		"monthly": {
@@ -87,7 +484,7 @@
 			"2012-03": {"total":552.88, "Local Environmental Services":552.88}
 		}
 	},
-	"1006": {
+	"1036": {
 		"name": "BLANDFORD TRAINING LTD",
 		"alternate-names": [
 			"BLANDFORD TRAINING LIMITED"
@@ -98,14 +495,14 @@
 			"2015-12": {"total":416.20, "Corporate Services & Governance":416.20}
 		}
 	},
-	"1007": {
+	"1037": {
 		"name": "BLAYDON & DISTRICT SCOUT ASSOCIATION",
 		"total": 750,
 		"monthly": {
 			"2016-09": {"total":750.00, "Communities & Environment":750.00}
 		}
 	},
-	"1008": {
+	"1038": {
 		"name": "BLAYDON ART GROUP",
 		"total": 3896.38,
 		"monthly": {
@@ -115,14 +512,14 @@
 			"2020-01": {"total":500.00, "Communities & Environment":500.00}
 		}
 	},
-	"1009": {
+	"1039": {
 		"name": "BLAYDON BUZZERS",
 		"total": 440,
 		"monthly": {
 			"2015-10": {"total":440.00, "Communities & Environment":440.00}
 		}
 	},
-	"1010": {
+	"1040": {
 		"name": "BLAYDON COMMUNICATIONS LTD",
 		"total": 9705,
 		"monthly": {
@@ -133,9 +530,9 @@
 			"2016-10": {"total":930.00, "Communities & Environment":930.00}
 		}
 	},
-	"1011": {
+	"1041": {
 		"name": "BLAYDON DAY CARE CENTRE",
-		"total": 680602.39,
+		"total": 775133.71,
 		"monthly": {
 			"2012-02": {"total":440.00, "Learning and Children":440.00},
 			"2012-03": {"total":2313.30, "Learning and Children":2313.30},
@@ -171,19 +568,24 @@
 			"2020-03": {"total":20408.15, "Care, Wellbeing & Learning":20408.15},
 			"2020-04": {"total":41773.76, "Care, Wellbeing & Learning":41773.76},
 			"2020-07": {"total":6843.54, "Children, Adults and Families":6843.54},
-			"2020-09": {"total":32222.18, "Children, Adults and Families":32222.18}
+			"2020-09": {"total":32222.18, "Children, Adults and Families":32222.18},
+			"2020-11": {"total":30440.85, "Children, Adults and Families":30440.85},
+			"2021-01": {"total":18524.44, "Children, Adults and Families":18524.44},
+			"2021-03": {"total":7263.24, "Children, Adults and Families":7263.24},
+			"2021-04": {"total":23789.60, "Children, Adults and Families":23789.60},
+			"2021-06": {"total":14513.19, "Children, Adults and Families":14513.19}
 		}
 	},
-	"1012": {
+	"1042": {
 		"name": "BLAYDON DISTRICT SCOUTS",
 		"total": 1000,
 		"monthly": {
 			"2013-10": {"total":1000.00, "Community Based Services":1000.00}
 		}
 	},
-	"1013": {
+	"1043": {
 		"name": "BLAYDON GP PRACTICE",
-		"total": 7395,
+		"total": 8220,
 		"monthly": {
 			"2017-11": {"total":640.00, "Care, Wellbeing & Learning":640.00},
 			"2019-05": {"total":1485.00, "Care, Wellbeing & Learning":1485.00},
@@ -191,25 +593,27 @@
 			"2019-10": {"total":1260.00, "Care, Wellbeing & Learning":1260.00},
 			"2020-02": {"total":675.00, "Care, Wellbeing & Learning":675.00},
 			"2020-04": {"total":1055.00, "Care, Wellbeing & Learning":1055.00},
-			"2020-07": {"total":1485.00, "Public Health and Wellbeing":1485.00}
+			"2020-07": {"total":1485.00, "Public Health and Wellbeing":1485.00},
+			"2020-11": {"total":825.00, "Public Health and Wellbeing":825.00}
 		}
 	},
-	"1014": {
+	"1044": {
 		"name": "BLAYDON GUIDEPOST",
 		"total": 450,
 		"monthly": {
 			"2012-01": {"total":450.00, "Community Based Services":450.00}
 		}
 	},
-	"1015": {
+	"1045": {
 		"name": "BLAYDON METHODIST CHURCH",
-		"total": 3744,
+		"total": 4264,
 		"monthly": {
 			"2011-11": {"total":3030.00, "Community Based Services":3030.00},
-			"2013-07": {"total":714.00, "Community Based Services":714.00}
+			"2013-07": {"total":714.00, "Community Based Services":714.00},
+			"2021-03": {"total":520.00, "Housing, Environment and Healthy Communities":520.00}
 		}
 	},
-	"1016": {
+	"1046": {
 		"name": "BLAYDON RACES FESTIVAL",
 		"total": 32715.71,
 		"monthly": {
@@ -222,653 +626,25 @@
 			"2015-01": {"total":3715.45, "Communities & Enviroment":3715.45}
 		}
 	},
-	"1017": {
+	"1047": {
 		"name": "BLAYDON RFC",
 		"total": 600,
 		"monthly": {
 			"2011-11": {"total":600.00, "Community Based Services":600.00}
 		}
 	},
-	"1018": {
+	"1048": {
 		"name": "BLAYDON TENNIS CLUB",
 		"total": 460,
 		"monthly": {
 			"2011-03": {"total":460.00, "Community Based Services":460.00}
 		}
 	},
-	"1019": {
+	"1049": {
 		"name": "BLAYDON WEST RESIDENTS ASSOCIATION",
 		"total": 600,
 		"monthly": {
 			"2012-06": {"total":600.00, "Community Based Services":600.00}
-		}
-	},
-	"1020": {
-		"name": "BLAYDON YOUTH AND COMMUNITY CENTRE",
-		"total": 1500,
-		"monthly": {
-			"2019-09": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2020-06": {"total":1000.00, "Children, Adults and Families":1000.00}
-		}
-	},
-	"1021": {
-		"name": "BLAYDON YOUTH CLUB",
-		"total": 571509.18,
-		"monthly": {
-			"2011-02": {"total":3070.00, "Community Based Services":3070.00},
-			"2011-06": {"total":13500.00, "Community Based Services":13500.00},
-			"2011-09": {"total":508.57, "Learning and Children":508.57},
-			"2011-12": {"total":3000.00, "Learning and Children":3000.00},
-			"2012-01": {"total":445.34, "Learning and Children":445.34},
-			"2012-04": {"total":979.74, "Learning and Children":979.74},
-			"2012-06": {"total":419.89, "Learning and Children":419.89},
-			"2012-07": {"total":12150.00, "Community Based Services":12150.00},
-			"2012-08": {"total":1591.66, "Learning and Children":1591.66},
-			"2012-11": {"total":682.14, "Learning and Children":682.14},
-			"2012-12": {"total":2903.36, "Learning and Children":2903.36},
-			"2013-03": {"total":11361.80, "Community Based Services":9390.00, "Learning and Children":1971.80},
-			"2013-04": {"total":3493.99, "Learning and Children":3493.99},
-			"2013-06": {"total":3287.07, "Learning and Children":3287.07},
-			"2013-07": {"total":12630.00, "Community Based Services":12150.00, "Learning and Children":480.00},
-			"2013-08": {"total":6681.75, "Learning and Children":6681.75},
-			"2013-09": {"total":1037.38, "Learning and Children":1037.38},
-			"2013-10": {"total":1176.00, "Learning and Children":1176.00},
-			"2013-11": {"total":1841.39, "Learning and Children":1841.39},
-			"2013-12": {"total":3363.56, "Learning and Children":3363.56},
-			"2014-01": {"total":900.00, "Learning and Children":900.00},
-			"2014-02": {"total":3500.00, "Community Based Services":3500.00},
-			"2014-03": {"total":2032.92, "Learning and Children":1194.67, "Local Environmental Services":838.25},
-			"2014-04": {"total":4181.33, "Learning and Children":4181.33},
-			"2014-06": {"total":1792.00, "Learning and Children":1792.00},
-			"2014-07": {"total":624.00, "Learning and Children":624.00},
-			"2014-08": {"total":5186.91, "Learning and Children":5186.91},
-			"2014-09": {"total":3564.75, "Learning and Children":3564.75},
-			"2014-11": {"total":740.99, "Care, Wellbeing & Learning":740.99},
-			"2014-12": {"total":8759.55, "Care, Wellbeing & Learning":8759.55},
-			"2015-01": {"total":4644.36, "Care, Wellbeing & Learning":4644.36},
-			"2015-03": {"total":3290.54, "Care, Wellbeing & Learning":3290.54},
-			"2015-04": {"total":6968.89, "Care, Wellbeing & Learning":6968.89},
-			"2015-05": {"total":5550.83, "Care, Wellbeing & Learning":5550.83},
-			"2015-06": {"total":2986.67, "Care, Wellbeing & Learning":2986.67},
-			"2015-07": {"total":2815.43, "Care, Wellbeing & Learning":2815.43},
-			"2015-08": {"total":5798.91, "Care, Wellbeing & Learning":5186.91, "Communities & Environment":612.00},
-			"2015-09": {"total":6009.15, "Care, Wellbeing & Learning":6009.15},
-			"2015-10": {"total":1948.10, "Care, Wellbeing & Learning":1948.10},
-			"2015-11": {"total":850.00, "Communities & Environment":850.00},
-			"2015-12": {"total":8133.96, "Care, Wellbeing & Learning":8133.96},
-			"2016-01": {"total":3717.53, "Care, Wellbeing & Learning":3717.53},
-			"2016-03": {"total":6862.56, "Care, Wellbeing & Learning":6262.56, "Communities & Environment":600.00},
-			"2016-04": {"total":17379.63, "Care, Wellbeing & Learning":17379.63},
-			"2016-06": {"total":2206.15, "Care, Wellbeing & Learning":2206.15},
-			"2016-09": {"total":15566.41, "Care, Wellbeing & Learning":15566.41},
-			"2016-11": {"total":2284.47, "Care, Wellbeing & Learning":2284.47},
-			"2016-12": {"total":1132.60, "Communities & Environment":1132.60},
-			"2017-01": {"total":14215.15, "Care, Wellbeing & Learning":14215.15},
-			"2017-02": {"total":3040.07, "Care, Wellbeing & Learning":3040.07},
-			"2017-03": {"total":1353.15, "Care, Wellbeing & Learning":1353.15},
-			"2017-04": {"total":16256.21, "Care, Wellbeing & Learning":16256.21},
-			"2017-06": {"total":3522.30, "Care, Wellbeing & Learning":3522.30},
-			"2017-07": {"total":3182.40, "Care, Wellbeing & Learning":3182.40},
-			"2017-08": {"total":1416.50, "Communities & Environment":1416.50},
-			"2017-09": {"total":23087.40, "Care, Wellbeing & Learning":23087.40},
-			"2017-11": {"total":7339.10, "Care, Wellbeing & Learning":7339.10},
-			"2017-12": {"total":3010.80, "Care, Wellbeing & Learning":3010.80},
-			"2018-01": {"total":23642.66, "Care, Wellbeing & Learning":23642.66},
-			"2018-02": {"total":6253.84, "Care, Wellbeing & Learning":6253.84},
-			"2018-03": {"total":811.20, "Care, Wellbeing & Learning":811.20},
-			"2018-04": {"total":24432.72, "Care, Wellbeing & Learning":24432.72},
-			"2018-07": {"total":15416.66, "Care, Wellbeing & Learning":15416.66},
-			"2018-09": {"total":22250.04, "Care, Wellbeing & Learning":22250.04},
-			"2018-12": {"total":14545.82, "Care, Wellbeing & Learning":13988.72, "Communities & Environment":557.10},
-			"2019-01": {"total":23307.61, "Care, Wellbeing & Learning":23307.61},
-			"2019-03": {"total":9753.67, "Care, Wellbeing & Learning":9753.67},
-			"2019-04": {"total":27484.84, "Care, Wellbeing & Learning":27484.84},
-			"2019-07": {"total":12640.38, "Care, Wellbeing & Learning":11775.38, "Communities & Environment":865.00},
-			"2019-08": {"total":1545.00, "Communities & Environment":1545.00},
-			"2019-09": {"total":11817.01, "Care, Wellbeing & Learning":11817.01},
-			"2019-12": {"total":8849.93, "Children, Adults and Families":8849.93},
-			"2020-01": {"total":15521.23, "Care, Wellbeing & Learning":15521.23},
-			"2020-03": {"total":10332.13, "Care, Wellbeing & Learning":10332.13},
-			"2020-04": {"total":24829.40, "Care, Wellbeing & Learning":24829.40},
-			"2020-07": {"total":9551.63, "Children, Adults and Families":9551.63},
-			"2020-09": {"total":18548.05, "Children, Adults and Families":18548.05}
-		}
-	},
-	"1022": {
-		"name": "BLEACH GREEN RESIDENTS ASSOC",
-		"total": 4314.37,
-		"monthly": {
-			"2011-03": {"total":2500.00, "Community Based Services":2500.00},
-			"2011-04": {"total":454.37, "Community Based Services":454.37},
-			"2011-10": {"total":1360.00, "Community Based Services":1360.00}
-		}
-	},
-	"1023": {
-		"name": "BLISS ABILITY",
-		"total": 13468,
-		"monthly": {
-			"2016-11": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
-			"2018-02": {"total":3000.00, "Care, Wellbeing & Learning":3000.00},
-			"2018-05": {"total":1468.00, "Care, Wellbeing & Learning":1468.00}
-		}
-	},
-	"1024": {
-		"name": "BLISSETT BOOKBINDERS",
-		"total": 6857.8,
-		"monthly": {
-			"2011-01": {"total":550.00, "Community Based Services":550.00},
-			"2011-02": {"total":870.04, "Community Based Services":870.04},
-			"2011-08": {"total":1842.50, "Community Based Services":1842.50},
-			"2012-05": {"total":965.28, "Community Based Services":965.28},
-			"2012-12": {"total":802.68, "Community Based Services":802.68},
-			"2013-01": {"total":497.55, "Community Based Services":497.55},
-			"2013-06": {"total":1329.75, "Community Based Services":1329.75}
-		}
-	},
-	"1025": {
-		"name": "BLOM AEROFILMS LTD",
-		"alternate-names": [
-			"BLOM AEROFILMS LIMITED"
-		],
-		"total": 13239,
-		"monthly": {
-			"2011-03": {"total":13239.00, "Central Services":13239.00}
-		}
-	},
-	"1026": {
-		"name": "BLOODHOUND PROGRAMME LTD",
-		"total": 500,
-		"monthly": {
-			"2016-05": {"total":500.00, "Communities & Environment":500.00}
-		}
-	},
-	"1027": {
-		"name": "BLOOM PROCUREMENT SERVICES LTD",
-		"alternate-names": [
-			"BLOOM PROCUREMENT SERVICES LIMITED"
-		],
-		"total": 994416.69,
-		"monthly": {
-			"2018-02": {"total":2592.88, "Communities & Environment":2592.88},
-			"2018-03": {"total":100634.24, "Communities & Environment":100634.24},
-			"2018-06": {"total":5702.20, "Communities & Environment":5702.20},
-			"2018-08": {"total":5433.53, "Communities & Environment":5433.53},
-			"2018-09": {"total":22690.25, "Communities & Environment":22690.25},
-			"2018-10": {"total":32518.82, "Communities & Environment":32518.82},
-			"2018-11": {"total":15729.06, "Communities & Environment":15729.06},
-			"2019-01": {"total":54611.86, "Communities & Environment":54611.86},
-			"2019-02": {"total":119038.61, "Communities & Environment":119038.61},
-			"2019-03": {"total":132398.09, "Communities & Environment":132398.09},
-			"2019-05": {"total":29264.76, "Communities & Environment":29264.76},
-			"2019-06": {"total":52924.70, "Communities & Environment":52924.70},
-			"2019-07": {"total":42020.42, "Communities & Environment":42020.42},
-			"2019-08": {"total":39843.09, "Communities & Environment":39843.09},
-			"2019-09": {"total":73884.35, "Communities & Environment":73884.35},
-			"2019-10": {"total":18508.93, "Communities & Environment":18508.93},
-			"2019-12": {"total":35927.13, "Housing, Environment and Healthy Communities":35927.13},
-			"2020-01": {"total":34827.76, "Communities & Environment":34827.76},
-			"2020-02": {"total":20541.04, "Communities & Environment":20541.04},
-			"2020-03": {"total":25602.22, "Communities & Environment":25602.22},
-			"2020-04": {"total":2939.57, "Communities & Environment":2939.57},
-			"2020-05": {"total":28391.99, "Housing, Environment and Healthy Communities":28391.99},
-			"2020-07": {"total":16096.26, "Housing, Environment and Healthy Communities":16096.26},
-			"2020-09": {"total":35238.83, "Housing, Environment and Healthy Communities":35238.83},
-			"2020-10": {"total":47056.10, "Housing, Environment and Healthy Communities":47056.10}
-		}
-	},
-	"1028": {
-		"name": "BLP SURVEYORS",
-		"total": 500,
-		"monthly": {
-			"2011-09": {"total":500.00, "Community Based Services":500.00}
-		}
-	},
-	"1029": {
-		"name": "BLUE  HYDRAULICS  LTD",
-		"total": 55567.72,
-		"monthly": {
-			"2018-02": {"total":1468.20, "Communities & Environment":1468.20},
-			"2018-03": {"total":9650.87, "Communities & Environment":9650.87},
-			"2018-04": {"total":907.00, "Communities & Environment":907.00},
-			"2018-05": {"total":1926.00, "Communities & Environment":1926.00},
-			"2018-06": {"total":2970.00, "Communities & Environment":2970.00},
-			"2018-08": {"total":597.00, "Communities & Environment":597.00},
-			"2019-04": {"total":11494.91, "Communities & Environment":11494.91},
-			"2019-05": {"total":2700.00, "Communities & Environment":2700.00},
-			"2019-07": {"total":495.00, "Communities & Environment":495.00},
-			"2019-09": {"total":2576.00, "Communities & Environment":2576.00},
-			"2019-10": {"total":650.50, "Communities & Environment":650.50},
-			"2020-04": {"total":2961.61, "Communities & Environment":2961.61},
-			"2020-05": {"total":17170.63, "Housing, Environment and Healthy Communities":17170.63}
-		}
-	},
-	"1030": {
-		"name": "BLUE ARROW LTD",
-		"total": 1646.29,
-		"monthly": {
-			"2018-10": {"total":1646.29, "Corporate Resources":1646.29}
-		}
-	},
-	"1031": {
-		"name": "BLUE BELL AUTOMOTIVE",
-		"total": 517242.6,
-		"monthly": {
-			"2010-12": {"total":772.57, "Local Environmental Services":772.57},
-			"2011-01": {"total":1529.76, "Local Environmental Services":1529.76},
-			"2011-02": {"total":1509.20, "Local Environmental Services":1509.20},
-			"2011-03": {"total":762.16, "Local Environmental Services":762.16},
-			"2011-04": {"total":1006.90, "Local Environmental Services":1006.90},
-			"2011-05": {"total":850.74, "Local Environmental Services":850.74},
-			"2011-06": {"total":749.94, "Local Environmental Services":749.94},
-			"2011-08": {"total":730.81, "Local Environmental Services":730.81},
-			"2011-09": {"total":2199.94, "Local Environmental Services":2199.94},
-			"2011-10": {"total":914.42, "Local Environmental Services":914.42},
-			"2011-11": {"total":3090.80, "Local Environmental Services":3090.80},
-			"2012-01": {"total":676.00, "Local Environmental Services":676.00},
-			"2012-02": {"total":1900.65, "Local Environmental Services":1900.65},
-			"2012-03": {"total":3340.38, "Local Environmental Services":3340.38},
-			"2012-04": {"total":363.00, "Local Environmental Services":363.00},
-			"2012-05": {"total":1808.67, "Local Environmental Services":1808.67},
-			"2012-06": {"total":1897.30, "Local Environmental Services":1897.30},
-			"2012-07": {"total":5517.43, "Local Environmental Services":5517.43},
-			"2012-08": {"total":1432.98, "Local Environmental Services":1432.98},
-			"2012-10": {"total":2283.86, "Local Environmental Services":2283.86},
-			"2012-11": {"total":4247.79, "Local Environmental Services":4247.79},
-			"2012-12": {"total":7537.23, "Local Environmental Services":6874.06, "Miscoding":663.17},
-			"2013-01": {"total":1957.89, "Local Environmental Services":1957.89},
-			"2013-02": {"total":3285.50, "Local Environmental Services":3285.50},
-			"2013-03": {"total":8158.50, "Local Environmental Services":8158.50},
-			"2013-04": {"total":2311.03, "Local Environmental Services":2311.03},
-			"2013-05": {"total":1202.65, "Local Environmental Services":1202.65},
-			"2013-06": {"total":5479.23, "Local Environmental Services":5479.23},
-			"2013-07": {"total":9187.25, "Local Environmental Services":9187.25},
-			"2013-08": {"total":7389.24, "Local Environmental Services":7389.24},
-			"2013-09": {"total":4167.60, "Local Environmental Services":4167.60},
-			"2013-10": {"total":3301.41, "Local Environmental Services":3301.41},
-			"2013-11": {"total":7245.75, "Local Environmental Services":7245.75},
-			"2013-12": {"total":2435.79, "Local Environmental Services":2435.79},
-			"2014-01": {"total":6210.89, "Local Environmental Services":6210.89},
-			"2014-02": {"total":4766.50, "Local Environmental Services":4766.50},
-			"2014-03": {"total":8076.61, "Local Environmental Services":8076.61},
-			"2014-04": {"total":8268.38, "Local Environmental Services":8268.38},
-			"2014-05": {"total":10883.40, "Local Environmental Services":10883.40},
-			"2014-06": {"total":4471.86, "Local Environmental Services":4471.86},
-			"2014-07": {"total":6196.74, "Local Environmental Services":6196.74},
-			"2014-08": {"total":5331.42, "Local Environmental Services":5331.42},
-			"2014-09": {"total":3121.37, "Local Environmental Services":3121.37},
-			"2014-10": {"total":6791.73, "Local Environmental Services":6791.73},
-			"2014-11": {"total":8566.13, "Communities & Enviroment":8566.13},
-			"2014-12": {"total":10183.39, "Communities & Enviroment":10183.39},
-			"2015-01": {"total":15301.89, "Communities & Enviroment":15301.89},
-			"2015-02": {"total":10818.34, "Communities & Enviroment":10818.34},
-			"2015-03": {"total":17964.61, "Communities & Enviroment":17964.61},
-			"2015-04": {"total":10245.01, "Communities & Enviroment":10245.01},
-			"2015-05": {"total":11081.41, "Communities & Enviroment":11081.41},
-			"2015-06": {"total":9894.36, "Communities & Environment":9894.36},
-			"2015-07": {"total":11107.10, "Communities & Environment":11107.10},
-			"2015-08": {"total":8722.87, "Communities & Environment":8722.87},
-			"2015-09": {"total":7398.22, "Communities & Environment":7398.22},
-			"2015-10": {"total":11397.62, "Communities & Environment":11397.62},
-			"2015-11": {"total":1907.73, "Communities & Environment":1907.73},
-			"2015-12": {"total":18806.47, "Communities & Environment":18806.47},
-			"2016-01": {"total":9418.70, "Communities & Environment":9418.70},
-			"2016-02": {"total":17452.60, "Communities & Environment":17452.60},
-			"2016-03": {"total":10422.07, "Communities & Environment":10422.07},
-			"2016-04": {"total":5986.27, "Communities & Environment":5986.27},
-			"2016-05": {"total":11443.60, "Communities & Environment":11443.60},
-			"2016-06": {"total":11042.88, "Communities & Environment":11042.88},
-			"2016-07": {"total":13605.84, "Communities & Environment":13605.84},
-			"2016-08": {"total":7110.67, "Communities & Environment":7110.67},
-			"2016-09": {"total":8429.17, "Communities & Environment":8429.17},
-			"2016-10": {"total":7589.02, "Communities & Environment":7589.02},
-			"2016-11": {"total":16902.75, "Communities & Environment":16902.75},
-			"2016-12": {"total":12424.55, "Communities & Environment":12424.55},
-			"2017-01": {"total":10110.50, "Communities & Environment":10110.50},
-			"2017-02": {"total":10135.15, "Communities & Environment":10135.15},
-			"2017-03": {"total":18230.76, "Communities & Environment":18230.76},
-			"2017-04": {"total":4273.91, "Communities & Environment":4273.91},
-			"2017-05": {"total":9682.67, "Communities & Environment":9682.67},
-			"2017-06": {"total":14223.07, "Communities & Environment":14223.07}
-		}
-	},
-	"1032": {
-		"name": "BLUE CHULA LTD",
-		"total": 3220,
-		"monthly": {
-			"2017-10": {"total":3220.00, "Communities & Environment":3220.00}
-		}
-	},
-	"1033": {
-		"name": "BLUE HOUSE (PHARMACY) RETAIL LTD",
-		"total": 3000,
-		"monthly": {
-			"2016-08": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
-			"2018-02": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2018-11": {"total":500.00, "Care, Wellbeing & Learning":500.00},
-			"2020-03": {"total":500.00, "Care, Wellbeing & Learning":500.00}
-		}
-	},
-	"1034": {
-		"name": "BLUE LINE TAXIS",
-		"total": 4336.18,
-		"monthly": {
-			"2011-03": {"total":600.38, "Community Based Services":600.38},
-			"2020-10": {"total":3735.80, "Children, Adults and Families":3735.80}
-		}
-	},
-	"1035": {
-		"name": "BLUE RIBBON COMMUNITY CARE",
-		"total": 662.21,
-		"monthly": {
-			"2019-10": {"total":662.21, "Corporate Resources":662.21}
-		}
-	},
-	"1036": {
-		"name": "BLUE SKY TRUST",
-		"total": 92378.7599999999,
-		"monthly": {
-			"2010-12": {"total":327.77, "Community Based Services":327.77},
-			"2011-01": {"total":655.54, "Community Based Services":655.54},
-			"2011-03": {"total":1500.00, "Community Based Services":1500.00},
-			"2011-04": {"total":1827.77, "Community Based Services":1827.77},
-			"2011-05": {"total":655.54, "Community Based Services":655.54},
-			"2011-06": {"total":327.77, "Community Based Services":327.77},
-			"2011-07": {"total":327.77, "Community Based Services":327.77},
-			"2011-08": {"total":1827.77, "Community Based Services":1827.77},
-			"2011-09": {"total":327.77, "Community Based Services":327.77},
-			"2011-10": {"total":327.77, "Community Based Services":327.77},
-			"2011-11": {"total":327.77, "Community Based Services":327.77},
-			"2011-12": {"total":655.54, "Community Based Services":655.54},
-			"2012-02": {"total":3655.53, "Community Based Services":3655.53},
-			"2012-04": {"total":245.85, "Community Based Services":245.85},
-			"2012-05": {"total":491.70, "Community Based Services":491.70},
-			"2012-06": {"total":1745.85, "Community Based Services":1745.85},
-			"2012-07": {"total":245.85, "Community Based Services":245.85},
-			"2012-08": {"total":245.85, "Community Based Services":245.85},
-			"2012-09": {"total":245.85, "Community Based Services":245.85},
-			"2012-10": {"total":3245.85, "Community Based Services":3245.85},
-			"2012-11": {"total":245.85, "Community Based Services":245.85},
-			"2012-12": {"total":491.70, "Community Based Services":491.70},
-			"2013-01": {"total":245.85, "Community Based Services":245.85},
-			"2013-02": {"total":245.80, "Community Based Services":245.80},
-			"2013-03": {"total":1250.00, "Community Based Services":1250.00},
-			"2013-04": {"total":1745.85, "Community Based Services":1745.85},
-			"2013-05": {"total":491.70, "Community Based Services":491.70},
-			"2013-06": {"total":245.85, "Community Based Services":245.85},
-			"2013-07": {"total":245.85, "Community Based Services":245.85},
-			"2013-08": {"total":245.85, "Community Based Services":245.85},
-			"2013-09": {"total":1745.85, "Community Based Services":1745.85},
-			"2013-10": {"total":245.85, "Community Based Services":245.85},
-			"2013-11": {"total":1745.85, "Community Based Services":1745.85},
-			"2013-12": {"total":245.85, "Community Based Services":245.85},
-			"2014-01": {"total":491.70, "Community Based Services":491.70},
-			"2014-02": {"total":245.80, "Community Based Services":245.80},
-			"2014-03": {"total":3000.00, "Community Based Services":3000.00},
-			"2014-04": {"total":491.70, "Community Based Services":491.70},
-			"2014-05": {"total":245.85, "Community Based Services":245.85},
-			"2014-06": {"total":245.85, "Community Based Services":245.85},
-			"2014-07": {"total":245.85, "Community Based Services":245.85},
-			"2014-08": {"total":245.85, "Community Based Services":245.85},
-			"2014-09": {"total":1745.85, "Community Based Services":1745.85},
-			"2014-10": {"total":245.85, "Community Based Services":245.85},
-			"2014-11": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2014-12": {"total":491.70, "Care, Wellbeing & Learning":491.70},
-			"2015-01": {"total":3000.00, "Care, Wellbeing & Learning":3000.00},
-			"2015-02": {"total":245.80, "Care, Wellbeing & Learning":245.80},
-			"2015-04": {"total":0.00, "Care, Wellbeing & Learning":0.00},
-			"2015-05": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-07": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-08": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-09": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-10": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-11": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2015-12": {"total":491.70, "Care, Wellbeing & Learning":491.70},
-			"2016-01": {"total":4500.00, "Care, Wellbeing & Learning":4500.00},
-			"2016-02": {"total":245.80, "Care, Wellbeing & Learning":245.80},
-			"2016-04": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2016-05": {"total":3245.85, "Care, Wellbeing & Learning":3245.85},
-			"2016-06": {"total":491.70, "Care, Wellbeing & Learning":491.70},
-			"2016-07": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2016-08": {"total":1745.85, "Care, Wellbeing & Learning":1745.85},
-			"2016-09": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2016-10": {"total":1495.85, "Care, Wellbeing & Learning":1495.85},
-			"2016-11": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2016-12": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2017-01": {"total":1745.85, "Care, Wellbeing & Learning":1745.85},
-			"2017-02": {"total":245.85, "Care, Wellbeing & Learning":245.85},
-			"2017-03": {"total":245.80, "Care, Wellbeing & Learning":245.80},
-			"2017-04": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2017-05": {"total":2032.66, "Care, Wellbeing & Learning":2032.66},
-			"2017-06": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2017-07": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2017-08": {"total":1766.33, "Care, Wellbeing & Learning":1766.33},
-			"2017-09": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2017-10": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2017-11": {"total":1766.36, "Care, Wellbeing & Learning":1766.36},
-			"2018-01": {"total":399.50, "Care, Wellbeing & Learning":399.50},
-			"2018-02": {"total":199.75, "Care, Wellbeing & Learning":199.75},
-			"2018-03": {"total":199.75, "Care, Wellbeing & Learning":199.75},
-			"2018-04": {"total":1739.70, "Care, Wellbeing & Learning":1739.70},
-			"2018-05": {"total":1979.40, "Care, Wellbeing & Learning":1979.40},
-			"2018-06": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2018-07": {"total":1739.70, "Care, Wellbeing & Learning":1739.70},
-			"2018-08": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2018-09": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2018-10": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2018-11": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2018-12": {"total":239.70, "Care, Wellbeing & Learning":239.70},
-			"2019-01": {"total":15266.33, "Care, Wellbeing & Learning":15266.33},
-			"2019-02": {"total":266.33, "Care, Wellbeing & Learning":266.33},
-			"2019-03": {"total":266.34, "Care, Wellbeing & Learning":266.34},
-			"2019-07": {"total":1500.00, "Care, Wellbeing & Learning":1500.00},
-			"2020-01": {"total":3000.00, "Care, Wellbeing & Learning":3000.00}
-		}
-	},
-	"1037": {
-		"name": "BLUE WATCH YOUTH CENTRE",
-		"total": 62834.12,
-		"monthly": {
-			"2014-05": {"total":4053.60, "Learning and Children":4053.60},
-			"2014-07": {"total":4053.60, "Learning and Children":4053.60},
-			"2014-08": {"total":4053.60, "Learning and Children":4053.60},
-			"2015-01": {"total":13087.31, "Care, Wellbeing & Learning":13087.31},
-			"2015-08": {"total":7586.01, "Care, Wellbeing & Learning":7586.01},
-			"2016-11": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
-			"2017-07": {"total":6000.00, "Care, Wellbeing & Learning":6000.00},
-			"2017-10": {"total":9000.00, "Care, Wellbeing & Learning":9000.00},
-			"2018-02": {"total":6000.00, "Care, Wellbeing & Learning":6000.00}
-		}
-	},
-	"1038": {
-		"name": "BLUEBELL AUTOMOTIVE",
-		"total": 542438.68,
-		"monthly": {
-			"2012-12": {"total":500.00, "Local Environmental Services":500.00},
-			"2017-07": {"total":22852.44, "Communities & Environment":22852.44},
-			"2017-08": {"total":21010.34, "Communities & Environment":21010.34},
-			"2017-09": {"total":3872.95, "Communities & Environment":3872.95},
-			"2017-10": {"total":14823.37, "Communities & Environment":14823.37},
-			"2017-11": {"total":11435.25, "Communities & Environment":10569.25, "Corporate Resources":866.00},
-			"2017-12": {"total":7025.15, "Communities & Environment":6461.15, "Corporate Resources":564.00},
-			"2018-01": {"total":20362.15, "Communities & Environment":20362.15},
-			"2018-02": {"total":15635.54, "Communities & Environment":15635.54},
-			"2018-03": {"total":16154.22, "Communities & Environment":16154.22},
-			"2018-04": {"total":10564.60, "Communities & Environment":10564.60},
-			"2018-05": {"total":11467.23, "Communities & Environment":11467.23},
-			"2018-06": {"total":9793.73, "Communities & Environment":9793.73},
-			"2018-07": {"total":9205.01, "Communities & Environment":9205.01},
-			"2018-08": {"total":15089.51, "Communities & Environment":15089.51},
-			"2018-09": {"total":14269.17, "Communities & Environment":14269.17},
-			"2018-10": {"total":10070.00, "Communities & Environment":10070.00},
-			"2018-11": {"total":10367.83, "Communities & Environment":10367.83},
-			"2018-12": {"total":8324.57, "Communities & Environment":8324.57},
-			"2019-01": {"total":16025.87, "Communities & Environment":16025.87},
-			"2019-02": {"total":18456.32, "Communities & Environment":18456.32},
-			"2019-03": {"total":10568.14, "Communities & Environment":10568.14},
-			"2019-04": {"total":9829.15, "Communities & Environment":9829.15},
-			"2019-05": {"total":20518.93, "Communities & Enviroment":572.18, "Communities & Environment":19946.75},
-			"2019-06": {"total":4346.82, "Communities & Environment":4346.82},
-			"2019-07": {"total":15040.31, "Communities & Environment":15040.31},
-			"2019-08": {"total":18650.01, "Communities & Environment":18650.01},
-			"2019-09": {"total":14144.00, "Communities & Environment":14144.00},
-			"2019-10": {"total":19988.26, "Communities & Environment":19988.26},
-			"2019-11": {"total":11630.02, "Communities & Environment":11630.02},
-			"2019-12": {"total":4319.41, "Housing, Environment and Healthy Communities":4319.41},
-			"2020-01": {"total":22615.39, "Communities & Environment":22615.39},
-			"2020-02": {"total":11546.86, "Communities & Environment":11546.86},
-			"2020-03": {"total":20643.32, "Communities & Environment":20643.32},
-			"2020-04": {"total":6937.41, "Communities & Environment":6937.41},
-			"2020-05": {"total":10075.16, "Housing, Environment and Healthy Communities":10075.16},
-			"2020-06": {"total":16843.17, "Housing, Environment and Healthy Communities":16843.17},
-			"2020-07": {"total":10766.72, "Housing, Environment and Healthy Communities":10766.72},
-			"2020-08": {"total":18204.75, "Housing, Environment and Healthy Communities":18204.75},
-			"2020-09": {"total":15129.18, "Housing, Environment and Healthy Communities":15129.18},
-			"2020-10": {"total":13336.42, "Housing, Environment and Healthy Communities":13336.42}
-		}
-	},
-	"1039": {
-		"name": "BLUEBIRD CARE (GATESHEAD)",
-		"total": 33583.46,
-		"monthly": {
-			"2019-01": {"total":1031.03, "Care, Wellbeing & Learning":1031.03},
-			"2019-04": {"total":1198.29, "Care, Wellbeing & Learning":1198.29},
-			"2020-04": {"total":2604.64, "Care, Wellbeing & Learning":2604.64},
-			"2020-06": {"total":7093.69, "Children, Adults and Families":7093.69},
-			"2020-08": {"total":14441.79, "Children, Adults and Families":14441.79},
-			"2020-10": {"total":7214.02, "Children, Adults and Families":7214.02}
-		}
-	},
-	"1040": {
-		"name": "BLUEBIRD CARE SERVICES LIMITED (NORTH TYNESIDE)",
-		"total": 5700,
-		"monthly": {
-			"2016-05": {"total":1260.00, "Corporate Services & Governance":1260.00},
-			"2016-12": {"total":630.00, "Corporate Services & Governance":630.00},
-			"2017-03": {"total":1200.00, "Corporate Services & Governance":1200.00},
-			"2017-09": {"total":900.00, "Corporate Services & Governance":900.00},
-			"2018-02": {"total":1710.00, "Corporate Services & Governance":1710.00}
-		}
-	},
-	"1041": {
-		"name": "BLUEFORT SECURITY LTD",
-		"alternate-names": [
-			"BLUEFORT SECURITY LIMITED"
-		],
-		"total": 284131.77,
-		"monthly": {
-			"2011-01": {"total":8466.00, "Central Services":8466.00},
-			"2011-04": {"total":6497.00, "Central Services":6497.00},
-			"2011-11": {"total":3838.00, "Central Services":3838.00},
-			"2012-03": {"total":1560.00, "Central Services":1560.00},
-			"2012-04": {"total":18891.42, "Central Services":18891.42},
-			"2012-11": {"total":4450.50, "Central Services":4450.50},
-			"2013-01": {"total":2500.00, "Central Services":2500.00},
-			"2013-03": {"total":17306.25, "Central Services":17306.25},
-			"2013-06": {"total":3873.75, "Central Services":3873.75},
-			"2013-10": {"total":6958.50, "Central Services":6958.50},
-			"2014-04": {"total":2500.00, "Central Services":2500.00},
-			"2014-05": {"total":8527.50, "Central Services":8527.50},
-			"2014-09": {"total":13221.15, "Central Services":13221.15},
-			"2014-11": {"total":16309.10, "Corporate Resources":16309.10},
-			"2015-01": {"total":19822.50, "Corporate Resources":19822.50},
-			"2015-03": {"total":2500.00, "Corporate Resources":2500.00},
-			"2015-04": {"total":3495.00, "Corporate Resources":3495.00},
-			"2015-08": {"total":16972.50, "Corporate Resources":16972.50},
-			"2016-01": {"total":8484.00, "Corporate Resources":8484.00},
-			"2016-02": {"total":3339.00, "Corporate Resources":3339.00},
-			"2016-05": {"total":3495.00, "Corporate Resources":3495.00},
-			"2016-06": {"total":17923.80, "Corporate Resources":17923.80},
-			"2017-03": {"total":5853.00, "Corporate Resources":5853.00},
-			"2017-06": {"total":30240.65, "Corporate Resources":30240.65},
-			"2017-12": {"total":21190.83, "Corporate Resources":21190.83},
-			"2018-02": {"total":5166.00, "Corporate Resources":5166.00},
-			"2018-06": {"total":30750.32, "Corporate Resources":30750.32}
-		}
-	},
-	"1042": {
-		"name": "BLUEGRASS RESEARCH LTD",
-		"total": 36377.5,
-		"monthly": {
-			"2010-12": {"total":3745.00, "Development & Enterprise":3745.00},
-			"2011-01": {"total":3745.00, "Development & Enterprise":3745.00},
-			"2011-12": {"total":2050.00, "Community Based Services":2050.00},
-			"2012-04": {"total":3477.50, "Development & Enterprise":3477.50},
-			"2012-07": {"total":8810.00, "Development & Enterprise":8810.00},
-			"2013-10": {"total":987.50, "Community Based Services":987.50},
-			"2014-03": {"total":987.50, "Community Based Services":987.50},
-			"2014-11": {"total":6287.50, "Care, Wellbeing & Learning":6287.50},
-			"2015-01": {"total":3143.75, "Care, Wellbeing & Learning":3143.75},
-			"2015-02": {"total":3143.75, "Care, Wellbeing & Learning":3143.75}
-		}
-	},
-	"1043": {
-		"name": "BLUESKY INTERNATIONAL LTD",
-		"total": 1382,
-		"monthly": {
-			"2017-08": {"total":1382.00, "Office of the Chief Executive":1382.00}
-		}
-	},
-	"1044": {
-		"name": "BLUESOURCE INFORMATION LTD",
-		"alternate-names": [
-			"BLUESOURCE INFORMATION LIMITED"
-		],
-		"total": 96499.4,
-		"monthly": {
-			"2011-04": {"total":41509.90, "Central Services":41509.90},
-			"2012-04": {"total":22750.00, "Central Services":22750.00},
-			"2013-04": {"total":23887.50, "Central Services":23887.50},
-			"2014-10": {"total":2652.00, "Central Services":2652.00},
-			"2016-09": {"total":950.00, "Corporate Resources":950.00},
-			"2017-03": {"total":4750.00, "Corporate Resources":4750.00}
-		}
-	},
-	"1045": {
-		"name": "BLUETON LTD",
-		"alternate-names": [
-			"BLUETON LIMITED"
-		],
-		"total": 8566,
-		"monthly": {
-			"2011-10": {"total":5310.00, "Local Environmental Services":5310.00},
-			"2012-08": {"total":1586.00, "Local Environmental Services":1586.00},
-			"2015-10": {"total":1670.00, "Communities & Environment":1670.00}
-		}
-	},
-	"1046": {
-		"name": "BLYTH RESOURCE & INITIATIVE CENTRE",
-		"total": 10500,
-		"monthly": {
-			"2013-03": {"total":1500.00, "Learning and Children":1500.00},
-			"2016-11": {"total":9000.00, "Care, Wellbeing & Learning":9000.00}
-		}
-	},
-	"1047": {
-		"name": "BLYTH STAR ENTERPRISES LTD",
-		"alternate-names": [
-			"BLYTH STAR ENTERPRISES LIMITED"
-		],
-		"total": 4823.36,
-		"monthly": {
-			"2015-10": {"total":422.56, "Care, Wellbeing & Learning":422.56},
-			"2016-01": {"total":845.12, "Care, Wellbeing & Learning":845.12},
-			"2016-03": {"total":422.56, "Care, Wellbeing & Learning":422.56},
-			"2016-06": {"total":845.12, "Care, Wellbeing & Learning":845.12},
-			"2017-11": {"total":2288.00, "Care, Wellbeing & Learning":2288.00}
-		}
-	},
-	"1048": {
-		"name": "BM STAFFORD",
-		"total": 1500,
-		"monthly": {
-			"2015-10": {"total":1500.00, "Care, Wellbeing & Learning":1500.00}
-		}
-	},
-	"1049": {
-		"name": "BMC INTERNET GROUP LLP",
-		"total": 3000,
-		"monthly": {
-			"2012-02": {"total":3000.00, "Development & Enterprise":3000.00}
 		}
 	}
 	}

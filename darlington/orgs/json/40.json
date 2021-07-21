@@ -1,16 +1,548 @@
 {
-	"range": ["2015-04","2021-06"],
+	"range": ["2015-04","2021-12"],
 	"data": {
 	"2000": {
+		"name": "LYNDSAY SMITH",
+		"total": 13797.9,
+		"monthly": {
+			"2019-02": {"total":684.75, "Children and Adults Services":684.75},
+			"2019-04": {"total":809.25, "Children and Adults Services":809.25},
+			"2019-12": {"total":858.00, "Children and Adults Services":858.00},
+			"2020-03": {"total":4344.60, "Children and Adults Services":4344.60},
+			"2020-08": {"total":2893.80, "Children and Adults Services":2893.80},
+			"2020-12": {"total":4207.50, "Children and Adults Services":4207.50}
+		}
+	},
+	"2001": {
+		"name": "LYNN ORCHARD",
+		"total": 20639.66,
+		"monthly": {
+			"2017-05": {"total":825.20, "Children and Adults Services":825.20},
+			"2017-06": {"total":2203.02, "Children and Adults Services":2203.02},
+			"2017-07": {"total":2741.46, "Children and Adults Services":2741.46},
+			"2017-08": {"total":1120.08, "Children and Adults Services":1120.08},
+			"2017-10": {"total":2670.96, "Children and Adults Services":2670.96},
+			"2017-12": {"total":1680.12, "Children and Adults Services":1680.12},
+			"2018-01": {"total":1933.44, "Children and Adults Services":1933.44},
+			"2018-02": {"total":7465.38, "Children and Adults Services":7465.38}
+		}
+	},
+	"2002": {
+		"name": "LYNX PRECAST LTD",
+		"total": 584641.32,
+		"monthly": {
+			"2017-04": {"total":16300.00, "Neighbourhood Services and Resources":16300.00},
+			"2017-05": {"total":31485.00, "Neighbourhood Services and Resources":31485.00},
+			"2017-06": {"total":23236.00, "Neighbourhood Services and Resources":23236.00},
+			"2017-07": {"total":41686.66, "Neighbourhood Services and Resources":41686.66},
+			"2017-08": {"total":26540.00, "Neighbourhood Services and Resources":26540.00},
+			"2017-09": {"total":42546.66, "Neighbourhood Services and Resources":42546.66},
+			"2017-10": {"total":39965.00, "Neighbourhood Services and Resources":39965.00},
+			"2017-11": {"total":9425.00, "Neighbourhood Services and Resources":9425.00},
+			"2018-04": {"total":18540.00, "Economic Growth & Neighbourhood Services":18540.00},
+			"2018-10": {"total":27510.00, "Economic Growth & Neighbourhood Services":27510.00},
+			"2018-11": {"total":34515.00, "Economic Growth & Neighbourhood Services":34515.00},
+			"2018-12": {"total":36317.00, "Economic Growth & Neighbourhood Services":36317.00},
+			"2019-02": {"total":19180.00, "Economic Growth & Neighbourhood Services":19180.00},
+			"2019-03": {"total":9590.00, "Economic Growth & Neighbourhood Services":9590.00},
+			"2019-08": {"total":18310.00, "Economic Growth & Neighbourhood Services":18310.00},
+			"2019-09": {"total":8415.00, "Economic Growth & Neighbourhood Services":8415.00},
+			"2019-10": {"total":4840.00, "Economic Growth & Neighbourhood Services":4840.00},
+			"2020-07": {"total":26480.00, "Economic Growth & Neighbourhood Services":26480.00},
+			"2020-09": {"total":23582.50, "Economic Growth & Neighbourhood Services":23582.50},
+			"2020-10": {"total":23582.50, "Economic Growth & Neighbourhood Services":23582.50},
+			"2020-11": {"total":65535.00, "Economic Growth & Neighbourhood Services":65535.00},
+			"2020-12": {"total":37060.00, "Economic Growth & Neighbourhood Services":37060.00}
+		}
+	},
+	"2003": {
+		"name": "LYNXLETS",
+		"total": 3540,
+		"monthly": {
+			"2020-08": {"total":3540.00, "Children and Adults Services":3540.00}
+		}
+	},
+	"2004": {
+		"name": "LYTESTREAM ELECTRICAL CONTRACTORS",
+		"total": 788143.32,
+		"monthly": {
+			"2017-04": {"total":23711.06, "Neighbourhood Services and Resources":23711.06},
+			"2017-05": {"total":25167.51, "Neighbourhood Services and Resources":25167.51},
+			"2017-06": {"total":10715.02, "Neighbourhood Services and Resources":10715.02},
+			"2017-07": {"total":32814.34, "Neighbourhood Services and Resources":32814.34},
+			"2017-08": {"total":129160.99, "Neighbourhood Services and Resources":129160.99},
+			"2017-09": {"total":31096.51, "Neighbourhood Services and Resources":31096.51},
+			"2017-10": {"total":33675.88, "Neighbourhood Services and Resources":33675.88},
+			"2017-11": {"total":31822.08, "Neighbourhood Services and Resources":31822.08},
+			"2017-12": {"total":23647.40, "Neighbourhood Services and Resources":23647.40},
+			"2018-01": {"total":19538.39, "Neighbourhood Services and Resources":19538.39},
+			"2018-02": {"total":16536.80, "Neighbourhood Services and Resources":16536.80},
+			"2018-03": {"total":18669.88, "Economic Growth & Neighbourhood Services":17274.87, "Neighbourhood Services and Resources":1395.01},
+			"2018-04": {"total":33196.22, "Economic Growth & Neighbourhood Services":33196.22},
+			"2018-05": {"total":2304.04, "Economic Growth & Neighbourhood Services":2304.04},
+			"2018-06": {"total":2226.34, "Children and Adults Services":1625.08, "Economic Growth & Neighbourhood Services":601.26},
+			"2018-07": {"total":6642.20, "Economic Growth & Neighbourhood Services":6642.20},
+			"2018-08": {"total":1533.21, "Children and Adults Services":742.44, "Economic Growth & Neighbourhood Services":790.77},
+			"2018-09": {"total":1494.31, "Economic Growth & Neighbourhood Services":1494.31},
+			"2018-11": {"total":3411.24, "Economic Growth & Neighbourhood Services":3411.24},
+			"2018-12": {"total":672.90, "Economic Growth & Neighbourhood Services":672.90},
+			"2019-01": {"total":1547.70, "Economic Growth & Neighbourhood Services":1547.70},
+			"2019-03": {"total":11898.04, "Economic Growth & Neighbourhood Services":11898.04},
+			"2019-04": {"total":4441.30, "Economic Growth & Neighbourhood Services":4441.30},
+			"2019-06": {"total":597.79, "Economic Growth & Neighbourhood Services":597.79},
+			"2019-07": {"total":739.28, "Economic Growth & Neighbourhood Services":739.28},
+			"2019-08": {"total":8581.95, "Economic Growth & Neighbourhood Services":8581.95},
+			"2019-09": {"total":7244.93, "Economic Growth & Neighbourhood Services":7244.93},
+			"2019-10": {"total":1478.24, "Economic Growth & Neighbourhood Services":1478.24},
+			"2019-11": {"total":664.15, "Economic Growth & Neighbourhood Services":664.15},
+			"2020-03": {"total":2888.84, "Economic Growth & Neighbourhood Services":2888.84},
+			"2020-06": {"total":2490.84, "Children and Adults Services":1042.48, "Economic Growth & Neighbourhood Services":1448.36},
+			"2020-07": {"total":3718.24, "Economic Growth & Neighbourhood Services":3718.24},
+			"2020-08": {"total":19102.99, "Economic Growth & Neighbourhood Services":19102.99},
+			"2020-09": {"total":42217.51, "Children and Adults Services":821.75, "Economic Growth & Neighbourhood Services":41395.76},
+			"2020-10": {"total":106810.06, "Economic Growth & Neighbourhood Services":106810.06},
+			"2020-11": {"total":41624.64, "Economic Growth & Neighbourhood Services":41624.64},
+			"2020-12": {"total":36372.71, "Economic Growth & Neighbourhood Services":36372.71}
+		}
+	},
+	"2005": {
+		"name": "Lisa Cherry",
+		"total": 3732.85,
+		"monthly": {
+			"2019-09": {"total":1158.25, "Children and Adults Services":1158.25},
+			"2020-12": {"total":2574.60, "Children and Adults Services":2574.60}
+		}
+	},
+	"2006": {
+		"name": "M & D TRAVEL",
+		"total": 3679,
+		"monthly": {
+			"2017-10": {"total":775.00, "Children and Adults Services":775.00},
+			"2018-10": {"total":775.00, "Children and Adults Services":775.00},
+			"2019-10": {"total":1570.00, "Children and Adults Services":1570.00}
+		}
+	},
+	"2007": {
+		"name": "M & J HORTICULTURE",
+		"total": 1872.4,
+		"monthly": {
+
+		}
+	},
+	"2008": {
+		"name": "M & R DEVELOPMENTS & CONTRACTORS LTD",
+		"total": 86858.06,
+		"monthly": {
+			"2018-03": {"total":17091.00, "COMMISSIONING":17091.00},
+			"2018-05": {"total":1998.00, "COMMISSIONING":1998.00},
+			"2019-02": {"total":5040.00, "COMMISSIONING":5040.00},
+			"2019-07": {"total":1560.00, "COMMISSIONING":1560.00},
+			"2019-09": {"total":12897.16, "COMMISSIONING":12897.16},
+			"2019-10": {"total":12176.40, "COMMISSIONING":12176.40},
+			"2019-11": {"total":5518.00, "COMMISSIONING":5518.00},
+			"2019-12": {"total":9757.50, "COMMISSIONING":9757.50},
+			"2020-01": {"total":4878.75, "COMMISSIONING":4878.75},
+			"2020-02": {"total":6218.75, "COMMISSIONING":6218.75},
+			"2020-12": {"total":7294.87, "COMMISSIONING":7294.87},
+			"2021-01": {"total":2427.63, "COMMISSIONING":2427.63}
+		}
+	},
+	"2009": {
+		"name": "M AND V LOVEJOY T/A KIDDIES CORNER",
+		"total": 409564.33,
+		"monthly": {
+			"2017-07": {"total":873.60, "Children and Adults Services":873.60},
+			"2017-08": {"total":45234.45, "Children and Adults Services":45234.45},
+			"2017-12": {"total":37961.65, "Children and Adults Services":37961.65},
+			"2018-01": {"total":1454.16, "Children and Adults Services":1454.16},
+			"2018-04": {"total":47342.54, "Children and Adults Services":47342.54},
+			"2018-07": {"total":716.92, "Children and Adults Services":716.92},
+			"2018-08": {"total":30681.90, "Children and Adults Services":30681.90},
+			"2018-11": {"total":1828.06, "Children and Adults Services":1828.06},
+			"2018-12": {"total":32949.95, "Children and Adults Services":32949.95},
+			"2019-03": {"total":3172.55, "Children and Adults Services":3172.55},
+			"2019-04": {"total":54002.65, "Children and Adults Services":54002.65},
+			"2019-07": {"total":17118.55, "Children and Adults Services":17118.55},
+			"2019-08": {"total":39980.25, "Children and Adults Services":39980.25},
+			"2019-11": {"total":624.00, "Children and Adults Services":624.00},
+			"2019-12": {"total":39413.50, "Children and Adults Services":39413.50},
+			"2020-02": {"total":624.00, "Children and Adults Services":624.00},
+			"2020-03": {"total":54900.55, "Children and Adults Services":54900.55},
+			"2020-07": {"total":685.05, "Children and Adults Services":685.05}
+		}
+	},
+	"2010": {
+		"name": "M BISSELL DISPLAY LTD",
+		"total": 8643,
+		"monthly": {
+			"2018-05": {"total":3610.00, "Economic Growth & Neighbourhood Services":3610.00},
+			"2019-02": {"total":4300.00, "Economic Growth & Neighbourhood Services":4300.00}
+		}
+	},
+	"2011": {
+		"name": "M D INTERIOR LININGS LTD",
+		"total": 12508.73,
+		"monthly": {
+			"2018-01": {"total":7487.05, "Neighbourhood Services and Resources":7487.05},
+			"2018-04": {"total":5021.68, "Economic Growth & Neighbourhood Services":5021.68}
+		}
+	},
+	"2012": {
+		"name": "M H LAVERICK & PARTNERS",
+		"total": 34824,
+		"monthly": {
+			"2017-07": {"total":1528.00, "Economic Growth":1528.00},
+			"2017-08": {"total":1768.00, "Economic Growth":1768.00},
+			"2017-09": {"total":1164.00, "Economic Growth":1164.00},
+			"2017-10": {"total":638.00, "Economic Growth":638.00},
+			"2018-02": {"total":940.00, "Economic Growth & Neighbourhood Services":940.00},
+			"2018-10": {"total":900.00, "Economic Growth & Neighbourhood Services":900.00},
+			"2019-05": {"total":544.00, "Economic Growth & Neighbourhood Services":544.00},
+			"2019-07": {"total":1054.00, "Economic Growth & Neighbourhood Services":1054.00},
+			"2020-06": {"total":1198.50, "Economic Growth & Neighbourhood Services":1198.50},
+			"2020-07": {"total":3826.50, "Economic Growth & Neighbourhood Services":3826.50},
+			"2020-08": {"total":4808.00, "Economic Growth & Neighbourhood Services":4808.00},
+			"2020-09": {"total":4866.50, "Economic Growth & Neighbourhood Services":4866.50},
+			"2020-10": {"total":2223.00, "Economic Growth & Neighbourhood Services":2223.00}
+		}
+	},
+	"2013": {
+		"name": "M H SOUTHERN",
+		"total": 2678.54,
+		"monthly": {
+
+		}
+	},
+	"2014": {
+		"name": "M MEDIA & DESIGN",
+		"total": 745,
+		"monthly": {
+
+		}
+	},
+	"2015": {
+		"name": "M T AUDIO SYSTEMS",
+		"total": 23630,
+		"monthly": {
+			"2017-03": {"total":570.00, "Neighbourhood Services and Resources":570.00},
+			"2017-06": {"total":1990.00, "Neighbourhood Services and Resources":1990.00},
+			"2017-08": {"total":1227.00, "Neighbourhood Services and Resources":1227.00},
+			"2017-09": {"total":4448.00, "Economic Growth":2730.00, "Neighbourhood Services and Resources":1718.00},
+			"2017-11": {"total":9110.00, "Neighbourhood Services and Resources":9110.00},
+			"2017-12": {"total":680.00, "Neighbourhood Services and Resources":680.00},
+			"2018-02": {"total":1130.00, "Economic Growth & Neighbourhood Services":1130.00},
+			"2018-03": {"total":2295.00, "Neighbourhood Services and Resources":2295.00}
+		}
+	},
+	"2016": {
+		"name": "M2 EDUCATION",
+		"total": 39496.7,
+		"monthly": {
+			"2017-02": {"total":508.20, "Children and Adults Services":508.20},
+			"2017-05": {"total":504.00, "Children and Adults Services":504.00},
+			"2017-06": {"total":6232.80, "Children and Adults Services":6232.80},
+			"2017-07": {"total":2150.40, "Children and Adults Services":2150.40},
+			"2017-10": {"total":5350.80, "Children and Adults Services":5350.80},
+			"2017-12": {"total":4712.40, "Children and Adults Services":4712.40},
+			"2018-01": {"total":3003.00, "Children and Adults Services":3003.00},
+			"2018-02": {"total":3259.20, "Children and Adults Services":3259.20},
+			"2018-03": {"total":2528.40, "Children and Adults Services":2528.40},
+			"2018-04": {"total":3544.80, "Children and Adults Services":3544.80},
+			"2018-05": {"total":1961.70, "Children and Adults Services":1961.70},
+			"2018-06": {"total":3746.30, "Children and Adults Services":3746.30},
+			"2018-07": {"total":1994.70, "Children and Adults Services":1994.70}
+		}
+	},
+	"2017": {
+		"name": "M3 HOUSING LTD",
+		"total": 54010,
+		"monthly": {
+			"2017-08": {"total":34330.00, "Neighbourhood Services and Resources":34330.00},
+			"2018-08": {"total":6365.00, "Economic Growth & Neighbourhood Services":6365.00},
+			"2019-08": {"total":6560.00, "Economic Growth & Neighbourhood Services":6560.00},
+			"2020-07": {"total":6755.00, "Economic Growth & Neighbourhood Services":6755.00}
+		}
+	},
+	"2018": {
+		"name": "MA EDUCATION",
+		"total": 11463,
+		"monthly": {
+			"2018-03": {"total":5200.00, "Children and Adults Services":5200.00},
+			"2018-10": {"total":4446.00, "Children and Adults Services":4446.00},
+			"2019-03": {"total":1817.00, "Children and Adults Services":1817.00}
+		}
+	},
+	"2019": {
+		"name": "MACFARLANE TELESYSTEMS LIMITED (MTS)",
+		"total": 25335,
+		"monthly": {
+			"2019-10": {"total":25335.00, "Resources":25335.00}
+		}
+	},
+	"2020": {
+		"name": "MACHINE MART LTD",
+		"total": 532.49,
+		"monthly": {
+			"2020-02": {"total":532.49, "Children and Adults Services":532.49}
+		}
+	},
+	"2021": {
+		"name": "MACLEAN ELECTRICAL",
+		"total": 471724.11,
+		"monthly": {
+			"2017-05": {"total":58179.83, "Economic Growth":58179.83},
+			"2017-06": {"total":105963.04, "Economic Growth":105963.04},
+			"2017-07": {"total":86603.65, "Economic Growth":86603.65},
+			"2017-08": {"total":90164.23, "Economic Growth":90164.23},
+			"2017-09": {"total":58549.71, "Economic Growth":58549.71},
+			"2017-10": {"total":27665.65, "Economic Growth":27665.65},
+			"2017-11": {"total":39293.96, "Economic Growth":39293.96},
+			"2017-12": {"total":5304.04, "Economic Growth":5304.04}
+		}
+	},
+	"2022": {
+		"name": "MACS AUTOMATED BOLLARD SYSTEMS LTD",
+		"total": 60318.8,
+		"monthly": {
+			"2017-07": {"total":1730.00, "Economic Growth":1730.00},
+			"2017-09": {"total":12298.00, "Economic Growth":12298.00},
+			"2017-11": {"total":1665.00, "Economic Growth":1665.00},
+			"2018-05": {"total":20065.00, "Economic Growth & Neighbourhood Services":20065.00},
+			"2019-01": {"total":3704.95, "Balance Sheet":3704.95},
+			"2019-02": {"total":4280.95, "Economic Growth & Neighbourhood Services":4280.95},
+			"2019-04": {"total":3224.95, "Balance Sheet":3224.95},
+			"2019-06": {"total":3657.95, "Economic Growth & Neighbourhood Services":3657.95},
+			"2019-09": {"total":1388.00, "Economic Growth & Neighbourhood Services":1388.00},
+			"2019-12": {"total":2759.00, "Economic Growth & Neighbourhood Services":2759.00},
+			"2020-07": {"total":2199.00, "Economic Growth & Neighbourhood Services":2199.00},
+			"2020-08": {"total":510.00, "Economic Growth & Neighbourhood Services":510.00},
+			"2020-09": {"total":510.00, "Economic Growth & Neighbourhood Services":510.00},
+			"2020-11": {"total":658.00, "Economic Growth & Neighbourhood Services":658.00},
+			"2020-12": {"total":1668.00, "Economic Growth & Neighbourhood Services":1668.00}
+		}
+	},
+	"2023": {
+		"name": "MACS TAXIS",
+		"total": 200060.04,
+		"monthly": {
+			"2017-04": {"total":3252.72, "Children and Adults Services":3252.72},
+			"2017-05": {"total":6012.00, "Children and Adults Services":6012.00},
+			"2017-06": {"total":6315.40, "Children and Adults Services":6315.40},
+			"2017-07": {"total":960.96, "Children and Adults Services":960.96},
+			"2017-08": {"total":2930.00, "Children and Adults Services":2930.00},
+			"2017-09": {"total":5506.32, "Children and Adults Services":5506.32},
+			"2017-10": {"total":4662.24, "Children and Adults Services":4662.24},
+			"2017-11": {"total":4400.00, "Children and Adults Services":4400.00},
+			"2017-12": {"total":3130.00, "Children and Adults Services":3130.00},
+			"2018-01": {"total":9060.28, "Children and Adults Services":9060.28},
+			"2018-02": {"total":5527.50, "Children and Adults Services":5527.50},
+			"2018-03": {"total":7874.52, "Children and Adults Services":7874.52},
+			"2018-04": {"total":3634.54, "Children and Adults Services":3634.54},
+			"2018-05": {"total":6150.94, "Children and Adults Services":6150.94},
+			"2018-06": {"total":6311.53, "Children and Adults Services":6311.53},
+			"2018-07": {"total":3912.66, "Children and Adults Services":3912.66},
+			"2018-09": {"total":7133.76, "Children and Adults Services":7133.76},
+			"2018-10": {"total":5278.46, "Children and Adults Services":5278.46},
+			"2018-11": {"total":5023.72, "Children and Adults Services":5023.72},
+			"2018-12": {"total":2862.66, "Children and Adults Services":2862.66},
+			"2019-01": {"total":6055.30, "Children and Adults Services":6055.30},
+			"2019-02": {"total":4097.40, "Children and Adults Services":4097.40},
+			"2019-03": {"total":5490.04, "Children and Adults Services":5490.04},
+			"2019-04": {"total":2881.60, "Children and Adults Services":2881.60},
+			"2019-05": {"total":4335.82, "Children and Adults Services":4335.82},
+			"2019-06": {"total":3000.00, "Children and Adults Services":3000.00},
+			"2019-07": {"total":6392.70, "Children and Adults Services":6392.70},
+			"2019-09": {"total":5120.04, "Children and Adults Services":5120.04},
+			"2019-10": {"total":4740.56, "Children and Adults Services":4740.56},
+			"2019-11": {"total":5393.20, "Children and Adults Services":5393.20},
+			"2019-12": {"total":4035.82, "Children and Adults Services":4035.82},
+			"2020-01": {"total":5278.46, "Children and Adults Services":5278.46},
+			"2020-02": {"total":4097.40, "Children and Adults Services":4097.40},
+			"2020-03": {"total":5320.20, "Children and Adults Services":5320.20},
+			"2020-04": {"total":5502.52, "Children and Adults Services":5502.52},
+			"2020-05": {"total":4366.00, "Children and Adults Services":4366.00},
+			"2020-06": {"total":2340.04, "Children and Adults Services":2340.04},
+			"2020-07": {"total":2804.17, "Children and Adults Services":2804.17},
+			"2020-09": {"total":5666.36, "Children and Adults Services":5666.36},
+			"2020-10": {"total":4520.56, "Children and Adults Services":4520.56},
+			"2020-11": {"total":4681.08, "Children and Adults Services":4681.08},
+			"2020-12": {"total":4000.56, "Children and Adults Services":4000.56}
+		}
+	},
+	"2024": {
+		"name": "MAD ALICE THEATRE COMPANY LTD",
+		"total": 550,
+		"monthly": {
+			"2019-09": {"total":550.00, "Economic Growth & Neighbourhood Services":550.00}
+		}
+	},
+	"2025": {
+		"name": "MAEGIS LTD",
+		"alternate-names": [
+			"MAEGIS LIMITED"
+		],
+		"total": 13915,
+		"monthly": {
+			"2017-05": {"total":895.00, "Children and Adults Services":895.00},
+			"2018-09": {"total":13020.00, "Economic Growth & Neighbourhood Services":13020.00}
+		}
+	},
+	"2026": {
+		"name": "MAG LAUNDRY EQUIPMENT",
+		"total": 7052.4,
+		"monthly": {
+			"2017-09": {"total":7052.40, "NEIGHBOURHOOD SERVICES & RESOURCES":7052.40}
+		}
+	},
+	"2027": {
+		"name": "MAGGIE CAMPBELL ASSOCIATES",
+		"total": 5271.25,
+		"monthly": {
+
+		}
+	},
+	"2028": {
+		"name": "MAGIC CARPET THEATRE",
+		"total": 750,
+		"monthly": {
+			"2017-07": {"total":750.00, "Children and Adults Services":750.00}
+		}
+	},
+	"2029": {
+		"name": "MAGIK OUT OF SCHOOL CLUB - CLOSED",
+		"total": 4235.4,
+		"monthly": {
+			"2017-11": {"total":4235.40, "Children and Adults Services":4235.40}
+		}
+	},
+	"2030": {
+		"name": "MAGNA LARGE PRINT BOOKS",
+		"total": 17341.13,
+		"monthly": {
+			"2018-01": {"total":8656.33, "Neighbourhood Services and Resources":8656.33},
+			"2019-02": {"total":8684.80, "Economic Growth & Neighbourhood Services":8684.80}
+		}
+	},
+	"2031": {
+		"name": "MAGNET TRADE",
+		"total": 511242.060000001,
+		"monthly": {
+			"2017-03": {"total":3314.92, "Neighbourhood Services and Resources":3314.92},
+			"2017-04": {"total":11650.59, "Neighbourhood Services and Resources":11650.59},
+			"2017-05": {"total":14506.42, "Neighbourhood Services and Resources":14506.42},
+			"2017-06": {"total":18529.75, "Neighbourhood Services and Resources":18529.75},
+			"2017-07": {"total":19435.40, "Economic Growth & Neighbourhood Services":599.16, "Neighbourhood Services and Resources":18836.24},
+			"2017-08": {"total":13580.25, "Neighbourhood Services and Resources":13580.25},
+			"2017-09": {"total":19962.20, "Neighbourhood Services and Resources":19962.20},
+			"2017-10": {"total":10642.77, "Neighbourhood Services and Resources":10642.77},
+			"2017-11": {"total":15924.67, "Economic Growth & Neighbourhood Services":708.32, "Neighbourhood Services and Resources":15216.35},
+			"2017-12": {"total":5028.62, "Economic Growth & Neighbourhood Services":526.76, "Neighbourhood Services and Resources":4501.86},
+			"2018-01": {"total":14559.14, "Economic Growth & Neighbourhood Services":510.98, "Neighbourhood Services and Resources":14048.16},
+			"2018-02": {"total":12838.54, "Economic Growth & Neighbourhood Services":12838.54},
+			"2018-03": {"total":11655.05, "Economic Growth & Neighbourhood Services":11655.05},
+			"2018-04": {"total":19690.07, "Economic Growth & Neighbourhood Services":19690.07},
+			"2018-05": {"total":10745.90, "Economic Growth & Neighbourhood Services":10745.90},
+			"2018-06": {"total":12714.81, "Economic Growth & Neighbourhood Services":12714.81},
+			"2018-07": {"total":10427.40, "Economic Growth & Neighbourhood Services":10427.40},
+			"2018-08": {"total":16443.15, "Economic Growth & Neighbourhood Services":16443.15},
+			"2018-09": {"total":17599.46, "Economic Growth & Neighbourhood Services":17599.46},
+			"2018-10": {"total":10685.56, "Economic Growth & Neighbourhood Services":10685.56},
+			"2018-11": {"total":8684.26, "Economic Growth & Neighbourhood Services":8684.26},
+			"2018-12": {"total":3758.43, "Economic Growth & Neighbourhood Services":3758.43},
+			"2019-01": {"total":12222.36, "Economic Growth & Neighbourhood Services":12222.36},
+			"2019-02": {"total":12853.16, "Economic Growth & Neighbourhood Services":12853.16},
+			"2019-03": {"total":8493.65, "Economic Growth & Neighbourhood Services":8493.65},
+			"2019-04": {"total":11829.96, "Economic Growth & Neighbourhood Services":11829.96},
+			"2019-05": {"total":16651.10, "Economic Growth & Neighbourhood Services":16651.10},
+			"2019-06": {"total":13786.06, "Economic Growth & Neighbourhood Services":13786.06},
+			"2019-07": {"total":20463.73, "Economic Growth & Neighbourhood Services":20463.73},
+			"2019-08": {"total":26302.62, "Economic Growth & Neighbourhood Services":26302.62},
+			"2019-09": {"total":17272.83, "Economic Growth & Neighbourhood Services":17272.83},
+			"2019-10": {"total":5261.05, "Economic Growth & Neighbourhood Services":5261.05},
+			"2019-11": {"total":18287.46, "Economic Growth & Neighbourhood Services":18287.46},
+			"2019-12": {"total":7965.84, "Economic Growth & Neighbourhood Services":7965.84},
+			"2020-01": {"total":11859.27, "Economic Growth & Neighbourhood Services":11859.27},
+			"2020-02": {"total":9520.50, "Economic Growth & Neighbourhood Services":9520.50},
+			"2020-03": {"total":8629.47, "Economic Growth & Neighbourhood Services":8629.47},
+			"2020-06": {"total":2620.83, "Economic Growth & Neighbourhood Services":2620.83},
+			"2020-07": {"total":6979.35, "Economic Growth & Neighbourhood Services":6979.35},
+			"2020-08": {"total":4516.95, "Economic Growth & Neighbourhood Services":4516.95},
+			"2020-09": {"total":2721.01, "Economic Growth & Neighbourhood Services":2721.01},
+			"2020-10": {"total":3122.59, "Economic Growth & Neighbourhood Services":3122.59},
+			"2020-11": {"total":3243.52, "Economic Growth & Neighbourhood Services":3243.52},
+			"2020-12": {"total":1945.98, "Economic Growth & Neighbourhood Services":1945.98},
+			"2021-12": {"total":2315.41, "Economic Growth & Neighbourhood Services":2315.41}
+		}
+	},
+	"2032": {
+		"name": "MAIDENDALE NURSERY",
+		"total": 820682.37,
+		"monthly": {
+			"2017-06": {"total":1800.00, "Children and Adults Services":1800.00},
+			"2017-07": {"total":4493.44, "Children and Adults Services":4493.44},
+			"2017-08": {"total":67309.65, "Children and Adults Services":67309.65},
+			"2017-11": {"total":1872.00, "Children and Adults Services":1872.00},
+			"2017-12": {"total":59607.04, "Children and Adults Services":59607.04},
+			"2018-02": {"total":4370.96, "Children and Adults Services":4370.96},
+			"2018-04": {"total":73388.04, "Children and Adults Services":73388.04},
+			"2018-06": {"total":2600.00, "Children and Adults Services":2600.00},
+			"2018-07": {"total":5734.22, "Children and Adults Services":5734.22},
+			"2018-08": {"total":72784.65, "Children and Adults Services":72784.65},
+			"2018-10": {"total":520.00, "Children and Adults Services":520.00},
+			"2018-11": {"total":2962.00, "Children and Adults Services":2962.00},
+			"2018-12": {"total":49075.77, "Children and Adults Services":49075.77},
+			"2019-01": {"total":672.00, "Children and Adults Services":672.00},
+			"2019-03": {"total":2000.00, "Children and Adults Services":2000.00},
+			"2019-04": {"total":72067.50, "Children and Adults Services":72067.50},
+			"2019-07": {"total":6923.45, "Children and Adults Services":6923.45},
+			"2019-08": {"total":72418.50, "Children and Adults Services":72418.50},
+			"2019-12": {"total":54743.45, "Children and Adults Services":54743.45},
+			"2020-01": {"total":25641.00, "Children and Adults Services":25641.00},
+			"2020-03": {"total":87268.00, "Children and Adults Services":87268.00},
+			"2020-09": {"total":72750.30, "Children and Adults Services":72750.30},
+			"2020-10": {"total":1845.00, "Children and Adults Services":1845.00},
+			"2020-12": {"total":77835.40, "Children and Adults Services":77835.40}
+		}
+	},
+	"2033": {
+		"name": "MAIDENDALE PLAYGROUP",
+		"total": 4000,
+		"monthly": {
+
+		}
+	},
+	"2034": {
+		"name": "MAILADOC LTD",
+		"total": 1749.14,
+		"monthly": {
+			"2019-03": {"total":683.40, "Economic Growth & Neighbourhood Services":683.40},
+			"2019-08": {"total":1065.74, "Economic Growth & Neighbourhood Services":1065.74}
+		}
+	},
+	"2035": {
+		"name": "MAJOR & ASPINALL LTD",
+		"total": 750,
+		"monthly": {
+			"2018-10": {"total":750.00, "Economic Growth & Neighbourhood Services":750.00}
+		}
+	},
+	"2036": {
+		"name": "MAKE MY DAY EVENTS",
+		"total": 1650,
+		"monthly": {
+			"2019-12": {"total":1650.00, "Economic Growth & Neighbourhood Services":1650.00}
+		}
+	},
+	"2037": {
 		"name": "MAKEPORT 2001 LTD",
 		"total": 28039.25,
 		"monthly": {
 
 		}
 	},
-	"2001": {
+	"2038": {
 		"name": "MAKING SPACE",
-		"total": 5462127.35,
+		"total": 6032208.95,
 		"monthly": {
 			"2017-05": {"total":115736.26, "Children and Adults Services":115736.26},
 			"2017-06": {"total":116148.58, "Children and Adults Services":116148.58},
@@ -53,10 +585,13 @@
 			"2020-07": {"total":132659.57, "Children and Adults Services":132659.57},
 			"2020-08": {"total":113217.16, "Children and Adults Services":113217.16},
 			"2020-09": {"total":132018.75, "Children and Adults Services":132018.75},
-			"2020-10": {"total":118675.22, "Children and Adults Services":118675.22}
+			"2020-10": {"total":118675.22, "Children and Adults Services":118675.22},
+			"2020-11": {"total":148852.39, "Children and Adults Services":148852.39},
+			"2020-12": {"total":263203.90, "Children and Adults Services":263203.90},
+			"2021-01": {"total":158025.31, "Children and Adults Services":158025.31}
 		}
 	},
-	"2002": {
+	"2039": {
 		"name": "MALCOLM SINGLETON",
 		"total": 2500,
 		"monthly": {
@@ -64,19 +599,20 @@
 			"2018-07": {"total":1000.00, "Children and Adults Services":1000.00}
 		}
 	},
-	"2003": {
+	"2040": {
 		"name": "MALLARD CONSULTANCY LTD",
-		"total": 1390,
+		"total": 2389,
 		"monthly": {
-			"2020-09": {"total":1390.00, "Economic Growth & Neighbourhood Services":1390.00}
+			"2020-09": {"total":1390.00, "Economic Growth & Neighbourhood Services":1390.00},
+			"2020-11": {"total":999.00, "Economic Growth & Neighbourhood Services":999.00}
 		}
 	},
-	"2004": {
+	"2041": {
 		"name": "MALLATITE LTD",
 		"alternate-names": [
 			"MALLATITE LIMITED"
 		],
-		"total": 225306.29,
+		"total": 235879.4,
 		"monthly": {
 			"2017-05": {"total":831.03, "Economic Growth":831.03},
 			"2017-06": {"total":42824.40, "Economic Growth":42824.40},
@@ -100,17 +636,19 @@
 			"2020-02": {"total":3215.26, "Economic Growth & Neighbourhood Services":3215.26},
 			"2020-03": {"total":504.00, "Economic Growth & Neighbourhood Services":504.00},
 			"2020-06": {"total":783.64, "Economic Growth & Neighbourhood Services":783.64},
-			"2020-07": {"total":27711.00, "Economic Growth & Neighbourhood Services":27711.00}
+			"2020-07": {"total":27711.00, "Economic Growth & Neighbourhood Services":27711.00},
+			"2020-11": {"total":7276.79, "Economic Growth & Neighbourhood Services":7276.79},
+			"2020-12": {"total":3296.32, "Economic Growth & Neighbourhood Services":3296.32}
 		}
 	},
-	"2005": {
+	"2042": {
 		"name": "MANDALE CARE HOME",
 		"total": 1680,
 		"monthly": {
 
 		}
 	},
-	"2006": {
+	"2043": {
 		"name": "MANDY'S LITTLE FACES",
 		"total": 8168.01,
 		"monthly": {
@@ -123,7 +661,7 @@
 			"2020-04": {"total":1657.50, "Children and Adults Services":1657.50}
 		}
 	},
-	"2007": {
+	"2044": {
 		"name": "MANGAR INTERNATIONAL LTD",
 		"alternate-names": [
 			"MANGAR INTERNATIONAL LIMITED"
@@ -136,7 +674,7 @@
 			"2019-04": {"total":1725.83, "Economic Growth & Neighbourhood Services":1725.83}
 		}
 	},
-	"2008": {
+	"2045": {
 		"name": "MANNING LTD",
 		"alternate-names": [
 			"MANNING LIMITED"
@@ -146,9 +684,9 @@
 
 		}
 	},
-	"2009": {
+	"2046": {
 		"name": "MANOR CARE HOME GROUP",
-		"total": 4162912.4,
+		"total": 4341792.72,
 		"monthly": {
 			"2017-05": {"total":80280.55, "Children and Adults Services":80280.55},
 			"2017-06": {"total":162062.52, "Children and Adults Services":162062.52},
@@ -191,444 +729,31 @@
 			"2020-07": {"total":78229.31, "Children and Adults Services":78229.31},
 			"2020-08": {"total":93461.74, "Children and Adults Services":93461.74},
 			"2020-09": {"total":76291.13, "Children and Adults Services":76291.13},
-			"2020-10": {"total":72598.87, "Children and Adults Services":72598.87}
+			"2020-10": {"total":72598.87, "Children and Adults Services":72598.87},
+			"2020-11": {"total":73223.75, "Children and Adults Services":73223.75},
+			"2020-12": {"total":38405.70, "Children and Adults Services":38405.70},
+			"2021-01": {"total":67250.87, "Children and Adults Services":67250.87}
 		}
 	},
-	"2010": {
+	"2047": {
 		"name": "MANSE MASTERDOR  LTD",
 		"total": 1231.5,
 		"monthly": {
 
 		}
 	},
-	"2011": {
+	"2048": {
 		"name": "MAP GROUP UK",
 		"total": 13994.19,
 		"monthly": {
 
 		}
 	},
-	"2012": {
+	"2049": {
 		"name": "MAPLE FLEET SERVICES LTD",
 		"total": 925,
 		"monthly": {
 			"2018-03": {"total":925.00, "Neighbourhood Services and Resources":925.00}
-		}
-	},
-	"2013": {
-		"name": "MAPLE TREE ENTERTAINMENT LTD",
-		"total": 4744.91,
-		"monthly": {
-			"2019-05": {"total":4744.91, "Economic Growth & Neighbourhood Services":4744.91}
-		}
-	},
-	"2014": {
-		"name": "MARC WILKINSON",
-		"total": 4700,
-		"monthly": {
-			"2018-06": {"total":1250.00, "Children and Adults Services":1250.00},
-			"2018-07": {"total":600.00, "Resources":600.00},
-			"2019-04": {"total":1150.00, "Children and Adults Services":1150.00},
-			"2019-06": {"total":1700.00, "Economic Growth & Neighbourhood Services":1700.00}
-		}
-	},
-	"2015": {
-		"name": "MARCHBANK FREE SCHOOL",
-		"total": 808923.38,
-		"monthly": {
-			"2017-05": {"total":88000.00, "Children and Adults Services":88000.00},
-			"2017-09": {"total":81846.15, "Children and Adults Services":81846.15},
-			"2018-01": {"total":73846.15, "Children and Adults Services":73846.15},
-			"2018-05": {"total":72000.00, "Children and Adults Services":72000.00},
-			"2018-09": {"total":93538.46, "Children and Adults Services":93538.46},
-			"2018-10": {"total":540.00, "Children and Adults Services":540.00},
-			"2018-11": {"total":2758.00, "Children and Adults Services":2758.00},
-			"2019-01": {"total":630.58, "Children and Adults Services":630.58},
-			"2019-02": {"total":55508.83, "Children and Adults Services":55508.83},
-			"2019-03": {"total":744.14, "Children and Adults Services":744.14},
-			"2019-05": {"total":68000.00, "Children and Adults Services":68000.00},
-			"2019-07": {"total":2516.00, "Children and Adults Services":2516.00},
-			"2019-10": {"total":67076.92, "Children and Adults Services":67076.92},
-			"2019-11": {"total":18210.37, "Children and Adults Services":18210.37},
-			"2020-02": {"total":51184.62, "Children and Adults Services":51184.62},
-			"2020-03": {"total":1900.00, "Children and Adults Services":1900.00},
-			"2020-05": {"total":68033.62, "Children and Adults Services":68033.62},
-			"2020-07": {"total":4128.00, "Children and Adults Services":4128.00},
-			"2020-09": {"total":58461.54, "Children and Adults Services":58461.54}
-		}
-	},
-	"2016": {
-		"name": "MARIAN DOORS & SHUTTERS",
-		"total": 934.44,
-		"monthly": {
-			"2017-12": {"total":934.44, "Children and Adults Services":934.44}
-		}
-	},
-	"2017": {
-		"name": "MARIO PRODUCTIONS",
-		"total": 10784.89,
-		"monthly": {
-			"2020-01": {"total":10784.89, "Economic Growth & Neighbourhood Services":10784.89}
-		}
-	},
-	"2018": {
-		"name": "MARK ANDREWS PRODUCTIONS",
-		"total": 1654.75,
-		"monthly": {
-			"2019-06": {"total":1654.75, "Economic Growth & Neighbourhood Services":1654.75}
-		}
-	},
-	"2019": {
-		"name": "MARK FINNIS TRAINING & CONSULTANCY LTD",
-		"total": 17173.6,
-		"monthly": {
-			"2018-02": {"total":950.50, "Children and Adults Services":950.50},
-			"2019-02": {"total":921.60, "Children and Adults Services":921.60},
-			"2019-10": {"total":5408.80, "Children and Adults Services":5408.80},
-			"2019-12": {"total":5390.00, "Children and Adults Services":5390.00},
-			"2020-03": {"total":4502.70, "Children and Adults Services":4502.70}
-		}
-	},
-	"2020": {
-		"name": "MARK MARK PRODUCTIONS",
-		"total": 9946.67,
-		"monthly": {
-			"2018-08": {"total":680.00, "Economic Growth & Neighbourhood Services":680.00},
-			"2018-12": {"total":2720.00, "Economic Growth & Neighbourhood Services":2720.00},
-			"2019-05": {"total":1900.00, "Economic Growth & Neighbourhood Services":1900.00},
-			"2019-10": {"total":680.00, "Economic Growth & Neighbourhood Services":680.00},
-			"2020-06": {"total":1166.67, "Economic Growth & Neighbourhood Services":1166.67},
-			"2020-09": {"total":2800.00, "Economic Growth & Neighbourhood Services":2800.00}
-		}
-	},
-	"2021": {
-		"name": "MARK STOBBART",
-		"total": 800,
-		"monthly": {
-			"2019-06": {"total":800.00, "Economic Growth & Neighbourhood Services":800.00}
-		}
-	},
-	"2022": {
-		"name": "MARKET ASSET MANAGEMENT",
-		"total": 1000,
-		"monthly": {
-			"2019-05": {"total":1000.00, "Economic Growth & Neighbourhood Services":1000.00}
-		}
-	},
-	"2023": {
-		"name": "MARKET ASSET MANAGEMENT (DARLINGTON) LTD",
-		"total": 11690,
-		"monthly": {
-			"2017-10": {"total":1190.00, "Neighbourhood Services and Resources":1190.00},
-			"2018-04": {"total":10000.00, "Economic Growth & Neighbourhood Services":10000.00},
-			"2019-01": {"total":500.00, "Economic Growth & Neighbourhood Services":500.00}
-		}
-	},
-	"2024": {
-		"name": "MARSDEN WEIGHING MACHINE GROUP LTD",
-		"total": 2105,
-		"monthly": {
-
-		}
-	},
-	"2025": {
-		"name": "MARSHA HILLARY",
-		"total": 595,
-		"monthly": {
-
-		}
-	},
-	"2026": {
-		"name": "MARSKE FURNISHINGS LTD",
-		"total": 706.5,
-		"monthly": {
-			"2020-10": {"total":706.50, "Economic Growth & Neighbourhood Services":706.50}
-		}
-	},
-	"2027": {
-		"name": "MARTIN GRAY FOOTBALL ACADEMY LTD",
-		"total": 251478,
-		"monthly": {
-			"2017-03": {"total":600.00, "Neighbourhood Services and Resources":600.00},
-			"2017-09": {"total":1920.00, "Neighbourhood Services and Resources":1920.00},
-			"2017-10": {"total":960.00, "Children and Adults Services":960.00},
-			"2017-11": {"total":2840.00, "Children and Adults Services":2840.00},
-			"2017-12": {"total":690.00, "Children and Adults Services":690.00},
-			"2018-02": {"total":1640.00, "Children and Adults Services":1640.00},
-			"2018-03": {"total":1810.00, "Children and Adults Services":1810.00},
-			"2018-05": {"total":1880.00, "Children and Adults Services":1880.00},
-			"2018-06": {"total":1880.00, "Children and Adults Services":1880.00},
-			"2018-07": {"total":720.00, "Children and Adults Services":720.00},
-			"2018-09": {"total":1480.00, "Children and Adults Services":1480.00},
-			"2018-10": {"total":4010.00, "Children and Adults Services":2260.00, "Economic Growth & Neighbourhood Services":1750.00},
-			"2018-11": {"total":2680.00, "Children and Adults Services":2680.00},
-			"2018-12": {"total":900.00, "Children and Adults Services":900.00},
-			"2019-02": {"total":3620.00, "Children and Adults Services":1920.00, "Resources":1700.00},
-			"2019-03": {"total":3580.00, "Children and Adults Services":3580.00},
-			"2019-05": {"total":8440.00, "Children and Adults Services":8440.00},
-			"2019-06": {"total":13650.00, "Children and Adults Services":13650.00},
-			"2019-07": {"total":13860.00, "Children and Adults Services":13860.00},
-			"2019-08": {"total":7000.00, "Resources":7000.00},
-			"2019-09": {"total":13210.00, "Children and Adults Services":13210.00},
-			"2019-10": {"total":12470.00, "Children and Adults Services":12470.00},
-			"2019-11": {"total":10850.00, "Children and Adults Services":10850.00},
-			"2019-12": {"total":8100.00, "Children and Adults Services":8100.00},
-			"2020-01": {"total":12752.00, "Children and Adults Services":12752.00},
-			"2020-02": {"total":11060.00, "Children and Adults Services":11060.00},
-			"2020-03": {"total":19100.00, "Children and Adults Services":19100.00},
-			"2020-04": {"total":9300.00, "Children and Adults Services":9300.00},
-			"2020-05": {"total":27300.00, "Children and Adults Services":27300.00},
-			"2020-06": {"total":20400.00, "Children and Adults Services":20400.00},
-			"2020-07": {"total":17700.00, "Children and Adults Services":17700.00},
-			"2020-08": {"total":4800.00, "Children and Adults Services":4800.00},
-			"2020-09": {"total":8300.00, "Children and Adults Services":4800.00, "Economic Growth & Neighbourhood Services":3500.00},
-			"2020-10": {"total":1976.00, "Children and Adults Services":1976.00}
-		}
-	},
-	"2028": {
-		"name": "MARVELLOUS ME LTD",
-		"alternate-names": [
-			"MARVELLOUS ME LIMITED"
-		],
-		"total": 2297.06,
-		"monthly": {
-			"2018-03": {"total":798.93, "Children and Adults Services":798.93},
-			"2018-09": {"total":799.00, "Children and Adults Services":799.00},
-			"2019-03": {"total":699.13, "Children and Adults Services":699.13}
-		}
-	},
-	"2029": {
-		"name": "MARWOOD GROUP LTD",
-		"total": 730,
-		"monthly": {
-
-		}
-	},
-	"2030": {
-		"name": "MASON CLARK ASSOCIATES",
-		"total": 1295,
-		"monthly": {
-			"2019-08": {"total":1295.00, "ECONOMIC GROWTH":1295.00}
-		}
-	},
-	"2031": {
-		"name": "MASON WOODCHIPPERS LTD",
-		"total": 1600,
-		"monthly": {
-			"2020-09": {"total":1600.00, "Economic Growth & Neighbourhood Services":1600.00}
-		}
-	},
-	"2032": {
-		"name": "MASTA LTD",
-		"total": 5760,
-		"monthly": {
-			"2018-10": {"total":750.00, "Resources":750.00},
-			"2018-11": {"total":1250.00, "Resources":1250.00},
-			"2019-10": {"total":1560.00, "Resources":1560.00},
-			"2019-11": {"total":1240.00, "Resources":1240.00},
-			"2020-09": {"total":960.00, "Resources":960.00}
-		}
-	},
-	"2033": {
-		"name": "MASTERBILL MICRO SYSTEMS LTD",
-		"total": 14584.8,
-		"monthly": {
-			"2017-10": {"total":3262.00, "Economic Growth":1631.00, "Neighbourhood Services and Resources":1631.00},
-			"2018-10": {"total":3392.00, "Economic Growth & Neighbourhood Services":3392.00},
-			"2019-10": {"total":3528.00, "Economic Growth & Neighbourhood Services":3528.00},
-			"2020-10": {"total":4402.80, "Economic Growth & Neighbourhood Services":4402.80}
-		}
-	},
-	"2034": {
-		"name": "MASTERDOR  LTD",
-		"total": 198163.07,
-		"monthly": {
-			"2017-05": {"total":9277.36, "NEIGHBOURHOOD SERVICES & RESOURCES":9277.36},
-			"2017-06": {"total":11640.80, "NEIGHBOURHOOD SERVICES & RESOURCES":11640.80},
-			"2017-07": {"total":2068.93, "NEIGHBOURHOOD SERVICES & RESOURCES":2068.93},
-			"2017-08": {"total":11140.35, "NEIGHBOURHOOD SERVICES & RESOURCES":11140.35},
-			"2017-09": {"total":12719.44, "NEIGHBOURHOOD SERVICES & RESOURCES":12719.44},
-			"2017-10": {"total":8231.07, "NEIGHBOURHOOD SERVICES & RESOURCES":8231.07},
-			"2017-11": {"total":15559.15, "NEIGHBOURHOOD SERVICES & RESOURCES":15559.15},
-			"2017-12": {"total":2002.69, "NEIGHBOURHOOD SERVICES & RESOURCES":2002.69},
-			"2018-01": {"total":8771.47, "NEIGHBOURHOOD SERVICES & RESOURCES":8771.47},
-			"2018-02": {"total":6131.13, "NEIGHBOURHOOD SERVICES & RESOURCES":6131.13},
-			"2018-03": {"total":11806.80, "NEIGHBOURHOOD SERVICES & RESOURCES":11806.80},
-			"2018-04": {"total":2747.05, "NEIGHBOURHOOD SERVICES & RESOURCES":2747.05},
-			"2018-05": {"total":11763.53, "NEIGHBOURHOOD SERVICES & RESOURCES":11763.53},
-			"2018-06": {"total":3656.21, "NEIGHBOURHOOD SERVICES & RESOURCES":3656.21},
-			"2018-07": {"total":11030.44, "NEIGHBOURHOOD SERVICES & RESOURCES":11030.44},
-			"2018-08": {"total":14876.76, "NEIGHBOURHOOD SERVICES & RESOURCES":14876.76},
-			"2018-09": {"total":583.10, "NEIGHBOURHOOD SERVICES & RESOURCES":583.10},
-			"2018-10": {"total":5597.17, "NEIGHBOURHOOD SERVICES & RESOURCES":5597.17},
-			"2018-11": {"total":13068.12, "NEIGHBOURHOOD SERVICES & RESOURCES":13068.12},
-			"2018-12": {"total":2622.03, "NEIGHBOURHOOD SERVICES & RESOURCES":2622.03},
-			"2019-01": {"total":12519.34, "NEIGHBOURHOOD SERVICES & RESOURCES":12519.34},
-			"2019-02": {"total":12498.22, "NEIGHBOURHOOD SERVICES & RESOURCES":12498.22},
-			"2019-03": {"total":4447.26, "NEIGHBOURHOOD SERVICES & RESOURCES":4447.26},
-			"2019-07": {"total":3404.65, "NEIGHBOURHOOD SERVICES & RESOURCES":3404.65}
-		}
-	},
-	"2035": {
-		"name": "MATRIX CONTROL SOLUTIONS LTD",
-		"total": 3739,
-		"monthly": {
-			"2017-11": {"total":3739.00, "Neighbourhood Services and Resources":3739.00}
-		}
-	},
-	"2036": {
-		"name": "MATT CASE",
-		"total": 1336,
-		"monthly": {
-			"2017-10": {"total":600.00, "Neighbourhood Services and Resources":600.00},
-			"2018-08": {"total":736.00, "Economic Growth & Neighbourhood Services":736.00}
-		}
-	},
-	"2037": {
-		"name": "MATTHEW BROMLEY",
-		"total": 749,
-		"monthly": {
-			"2019-06": {"total":749.00, "Children and Adults Services":749.00}
-		}
-	},
-	"2038": {
-		"name": "MATTHEW CLARK WHOLESALE LTD",
-		"total": 71889.25,
-		"monthly": {
-			"2017-04": {"total":1434.61, "Neighbourhood Services and Resources":1434.61},
-			"2017-05": {"total":1476.58, "Neighbourhood Services and Resources":1476.58},
-			"2017-06": {"total":656.44, "Neighbourhood Services and Resources":656.44},
-			"2017-07": {"total":691.65, "Neighbourhood Services and Resources":691.65},
-			"2017-08": {"total":629.61, "Neighbourhood Services and Resources":629.61},
-			"2017-09": {"total":1413.11, "Neighbourhood Services and Resources":1413.11},
-			"2017-10": {"total":731.43, "Neighbourhood Services and Resources":731.43},
-			"2017-11": {"total":2243.30, "Neighbourhood Services and Resources":2243.30},
-			"2017-12": {"total":2099.09, "Neighbourhood Services and Resources":2099.09},
-			"2018-02": {"total":1296.23, "Neighbourhood Services and Resources":1296.23},
-			"2018-03": {"total":859.26, "Neighbourhood Services and Resources":859.26},
-			"2018-04": {"total":1242.60, "Economic Growth & Neighbourhood Services":1242.60},
-			"2018-05": {"total":4196.39, "Economic Growth & Neighbourhood Services":4196.39},
-			"2018-06": {"total":2348.74, "Economic Growth & Neighbourhood Services":2348.74},
-			"2018-07": {"total":1874.55, "Economic Growth & Neighbourhood Services":1874.55},
-			"2018-08": {"total":3078.76, "Economic Growth & Neighbourhood Services":3078.76},
-			"2018-09": {"total":1855.39, "Economic Growth & Neighbourhood Services":1855.39},
-			"2018-10": {"total":1386.53, "Economic Growth & Neighbourhood Services":1386.53},
-			"2018-11": {"total":2910.27, "Economic Growth & Neighbourhood Services":2910.27},
-			"2018-12": {"total":2661.80, "Economic Growth & Neighbourhood Services":2661.80},
-			"2019-01": {"total":601.03, "Economic Growth & Neighbourhood Services":601.03},
-			"2019-02": {"total":1903.74, "Economic Growth & Neighbourhood Services":1903.74},
-			"2019-03": {"total":3514.40, "Economic Growth & Neighbourhood Services":3514.40},
-			"2019-04": {"total":1859.99, "Economic Growth & Neighbourhood Services":1859.99},
-			"2019-05": {"total":2007.61, "Economic Growth & Neighbourhood Services":2007.61},
-			"2019-06": {"total":4151.53, "Economic Growth & Neighbourhood Services":4151.53},
-			"2019-07": {"total":2372.09, "Economic Growth & Neighbourhood Services":2372.09},
-			"2019-08": {"total":1654.57, "Economic Growth & Neighbourhood Services":1654.57},
-			"2019-09": {"total":2134.03, "Economic Growth & Neighbourhood Services":2134.03},
-			"2019-10": {"total":662.46, "Economic Growth & Neighbourhood Services":662.46},
-			"2019-11": {"total":6751.15, "Economic Growth & Neighbourhood Services":6751.15},
-			"2019-12": {"total":4032.49, "Economic Growth & Neighbourhood Services":4032.49},
-			"2020-01": {"total":1612.68, "Economic Growth & Neighbourhood Services":1612.68},
-			"2020-02": {"total":602.46, "Economic Growth & Neighbourhood Services":602.46},
-			"2020-03": {"total":2052.41, "Economic Growth & Neighbourhood Services":2052.41},
-			"2020-06": {"total":890.27, "Economic Growth & Neighbourhood Services":890.27}
-		}
-	},
-	"2039": {
-		"name": "MATTHEW PICKERING",
-		"total": 3140,
-		"monthly": {
-			"2019-12": {"total":500.00, "Economic Growth & Neighbourhood Services":500.00},
-			"2020-04": {"total":2140.00, "Economic Growth & Neighbourhood Services":2140.00},
-			"2020-12": {"total":500.00, "Economic Growth & Neighbourhood Services":500.00}
-		}
-	},
-	"2040": {
-		"name": "MAVAL ELECTRICAL ENGINEERING CO LTD",
-		"total": 1209.23,
-		"monthly": {
-			"2017-04": {"total":692.61, "Neighbourhood Services and Resources":692.61}
-		}
-	},
-	"2041": {
-		"name": "MAXI FILTRATION LTD",
-		"total": 8485.37,
-		"monthly": {
-			"2017-08": {"total":996.30, "Neighbourhood Services and Resources":996.30},
-			"2017-11": {"total":1016.33, "Neighbourhood Services and Resources":1016.33},
-			"2018-04": {"total":1879.44, "Economic Growth & Neighbourhood Services":1879.44},
-			"2018-11": {"total":1879.44, "Economic Growth & Neighbourhood Services":1879.44},
-			"2019-07": {"total":1879.44, "Economic Growth & Neighbourhood Services":1879.44},
-			"2020-01": {"total":834.42, "Economic Growth & Neighbourhood Services":834.42}
-		}
-	},
-	"2042": {
-		"name": "MAXIMUS GREEN LTD",
-		"total": 12595,
-		"monthly": {
-			"2017-11": {"total":6520.00, "Neighbourhood Services and Resources":6520.00},
-			"2017-12": {"total":6075.00, "Neighbourhood Services and Resources":6075.00}
-		}
-	},
-	"2043": {
-		"name": "MAYOR'S CHARITABLE FUND",
-		"total": 8951.8,
-		"monthly": {
-			"2017-06": {"total":8951.80, "Neighbourhood Services and Resources":8951.80}
-		}
-	},
-	"2044": {
-		"name": "MAYORS GOOD CAUSES FUND",
-		"total": 22461.63,
-		"monthly": {
-			"2018-08": {"total":11767.45, "Economic Growth & Neighbourhood Services":11767.45},
-			"2019-08": {"total":3904.72, "Economic Growth & Neighbourhood Services":3904.72},
-			"2019-10": {"total":4895.00, "Economic Growth & Neighbourhood Services":4895.00},
-			"2020-07": {"total":1894.46, "Economic Growth & Neighbourhood Services":1894.46}
-		}
-	},
-	"2045": {
-		"name": "MB AUDIO VISUAL LTD",
-		"total": 5405,
-		"monthly": {
-			"2018-09": {"total":2110.00, "Economic Growth & Neighbourhood Services":2110.00},
-			"2019-09": {"total":3295.00, "Economic Growth & Neighbourhood Services":3295.00}
-		}
-	},
-	"2046": {
-		"name": "MB7 LTD",
-		"total": 2156,
-		"monthly": {
-
-		}
-	},
-	"2047": {
-		"name": "MBE FABRICATIONS LTD",
-		"alternate-names": [
-			"MBE FABRICATIONS LIMITED"
-		],
-		"total": 1500,
-		"monthly": {
-			"2019-09": {"total":750.00, "Economic Growth & Neighbourhood Services":750.00},
-			"2020-02": {"total":750.00, "Economic Growth & Neighbourhood Services":750.00}
-		}
-	},
-	"2048": {
-		"name": "MCCRORY SILCOX CONSTRUCTION LTD",
-		"total": 20250,
-		"monthly": {
-			"2019-04": {"total":10500.00, "COMMISSIONING":10500.00},
-			"2019-05": {"total":6000.00, "COMMISSIONING":6000.00},
-			"2019-08": {"total":3750.00, "COMMISSIONING":3750.00}
-		}
-	},
-	"2049": {
-		"name": "MCGUINNESS CONSULTANCY",
-		"total": 9507.93,
-		"monthly": {
-			"2017-10": {"total":3439.72, "Children and Adults Services":3439.72},
-			"2017-11": {"total":2000.00, "Children and Adults Services":2000.00},
-			"2018-01": {"total":2070.21, "Children and Adults Services":2070.21},
-			"2018-03": {"total":1998.00, "Children and Adults Services":1998.00}
 		}
 	}
 	}
