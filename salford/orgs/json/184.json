@@ -2,48 +2,510 @@
 	"range": ["2011-08","2021-06"],
 	"data": {
 	"9200": {
+		"name": "Salford Food Share Network",
+		"total": 75000,
+		"monthly": {
+			"2018-01": {"total":40000.00, "Community, Health & Social Care":40000.00},
+			"2018-04": {"total":35000.00, "Community, Health & Social Care":35000.00}
+		}
+	},
+	"9201": {
+		"name": "Salford Food Stores Ltd",
+		"alternate-names": [
+			"Salford Food Stores Limited"
+		],
+		"total": 61803,
+		"monthly": {
+			"2020-05": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00},
+			"2021-03": {"total":24803.00, "Service Reform (Corp Bus & Transform)":24803.00},
+			"2021-04": {"total":12000.00, "Service Reform (Corp Bus & Transform)":12000.00}
+		}
+	},
+	"9202": {
+		"name": "Salford Forum For Older People",
+		"total": 5470,
+		"monthly": {
+			"2011-12": {"total":5470.00, "Community Health & Social Care":5470.00}
+		}
+	},
+	"9203": {
+		"name": "Salford Forum For Refugees",
+		"total": 97908.54,
+		"monthly": {
+			"2012-05": {"total":5470.00, "Community Health & Social Care":5470.00},
+			"2013-04": {"total":9988.20, "Community, Health & Social Care":9988.20},
+			"2013-05": {"total":1995.50, "Community, Health & Social Care":1995.50},
+			"2014-07": {"total":4994.00, "Customer and Support Services":4994.00},
+			"2014-11": {"total":4994.00, "Customer and Support Services":4994.00},
+			"2015-04": {"total":5069.00, "Customer and Support Services":5069.00},
+			"2015-10": {"total":5069.00, "Corporate Business":5069.00},
+			"2016-04": {"total":10000.00, "Corporate Business":10000.00},
+			"2017-06": {"total":10138.00, "Corporate Business":10138.00},
+			"2018-04": {"total":10000.00, "Service Reform":10000.00},
+			"2018-08": {"total":1500.00, "Place Directorate":1500.00},
+			"2018-10": {"total":700.00, "Place Directorate":700.00},
+			"2019-04": {"total":10000.00, "Public Health":10000.00},
+			"2019-11": {"total":2990.84, "Place Directorate":2990.84},
+			"2020-04": {"total":5000.00, "Service Reform (Corp Bus & Transform)":5000.00},
+			"2020-10": {"total":5000.00, "Service Reform (Corp Bus & Transform)":5000.00},
+			"2021-04": {"total":5000.00, "Service Reform (Corp Bus & Transform)":5000.00}
+		}
+	},
+	"9204": {
+		"name": "Salford Foster Care Association",
+		"total": 31126.6,
+		"monthly": {
+			"2013-04": {"total":4380.00, "Childrens Services":4380.00},
+			"2016-05": {"total":5780.00, "Childrens Services":5780.00},
+			"2016-12": {"total":526.60, "Childrens Services":526.60},
+			"2017-05": {"total":6680.00, "Childrens Services":6680.00},
+			"2018-03": {"total":4380.00, "Childrens Services":4380.00},
+			"2019-04": {"total":4380.00, "People (Childrens) Service Group":4380.00},
+			"2021-05": {"total":5000.00, "People (Childrens) Service Group":5000.00}
+		}
+	},
+	"9205": {
+		"name": "Salford Foundation",
+		"total": 36973,
+		"monthly": {
+			"2012-06": {"total":3945.00, "Childrens Services":3945.00},
+			"2012-11": {"total":18593.00, "Customer and Support Services":18593.00},
+			"2013-03": {"total":14435.00, "Chief Executives":14435.00}
+		}
+	},
+	"9206": {
+		"name": "Salford Foundation Ltd",
+		"alternate-names": [
+			"Salford Foundation Limited"
+		],
+		"total": 1786197.08,
+		"monthly": {
+			"2011-08": {"total":29789.25, "Chief Executives":20825.00, "Childrens Services":8964.25},
+			"2011-09": {"total":39854.25, "Chief Executives":23750.00, "Childrens Services":8964.25, "Sustainable Regeneration":7140.00},
+			"2011-10": {"total":50000.00, "Chief Executives":50000.00},
+			"2011-11": {"total":38539.25, "Chief Executives":8750.00, "Children Services":8964.25, "Customer and Support Services":20825.00},
+			"2011-12": {"total":17928.50, "Childrens Services":17928.50},
+			"2012-01": {"total":17502.00, "Chief Executives":8750.00, "Childrens Services":8752.00},
+			"2012-02": {"total":24825.00, "Customer and Support":24825.00},
+			"2012-03": {"total":30006.00, "Chief Executives":16006.00, "Customer and Support Services":14000.00},
+			"2012-04": {"total":80669.00, "Chief Executives":56844.00, "Customer and Support Services":23825.00},
+			"2012-05": {"total":6625.00, "Childrens Services":6625.00},
+			"2012-06": {"total":20825.00, "Customer and Support Services":20825.00},
+			"2012-07": {"total":115219.00, "Chief Executives":78594.00, "Childrens Services":36625.00},
+			"2012-08": {"total":15189.00, "Chief Executives":8750.00, "Childrens Services":2630.00, "Customer and Support Services":3809.00},
+			"2012-10": {"total":28870.50, "Chief Executives":28870.50},
+			"2012-11": {"total":15375.00, "Childrens Services":6625.00, "Office of the Chief Executive":8750.00},
+			"2012-12": {"total":1315.00, "Childrens Services":1315.00},
+			"2013-01": {"total":82500.00, "Childrens Services":80000.00, "Customer and Support Services":2500.00},
+			"2013-02": {"total":41779.25, "Customer and Support Services":18594.00, "Office of the Chief Executive":23185.25},
+			"2013-03": {"total":20825.00, "Customer and Support Services":20825.00},
+			"2013-04": {"total":107077.00, "Childrens Services":55986.00, "Customer and Support Services":18594.00, "Office of the Chief Executive":32497.00},
+			"2013-07": {"total":26699.00, "Customer and Support Services":26699.00},
+			"2013-09": {"total":35294.00, "Capital Expenditure":18594.00, "Childrens Services":16700.00},
+			"2013-10": {"total":19166.56, "Office of the Chief Executive":19166.56},
+			"2013-11": {"total":13467.00, "Customer and Support Services":13467.00},
+			"2014-01": {"total":44947.00, "Customer and Support Services":44947.00},
+			"2014-02": {"total":28870.00, "Customer and Support Services":28870.00},
+			"2014-03": {"total":5417.00, "Office of the Chief Executive":5417.00},
+			"2014-04": {"total":59284.00, "Customer and Support Services":53867.00, "Office of the Chief Executive":5417.00},
+			"2014-07": {"total":20357.30, "Childrens Services":9107.30, "Office of the Chief Executive":11250.00},
+			"2014-08": {"total":15691.25, "Customer and Support Services":15691.25},
+			"2014-09": {"total":1500.00, "Childrens Services":1500.00},
+			"2014-10": {"total":22894.00, "Customer and Support Services":11250.00, "The Office of the Chief Executive":11644.00},
+			"2014-11": {"total":19291.25, "Customer and Support Services":19291.25},
+			"2015-01": {"total":22500.00, "Customer and Support Services":22500.00},
+			"2015-02": {"total":38191.25, "Customer and Support Services":38191.25},
+			"2015-03": {"total":22500.00, "Customer and Support Services":22500.00},
+			"2015-04": {"total":15691.25, "Customer and Support Services":15691.25},
+			"2015-07": {"total":31941.25, "Childrens Services":31941.25},
+			"2015-11": {"total":31941.25, "Childrens Services":31941.25},
+			"2015-12": {"total":3028.00, "Childrens Services":3028.00},
+			"2016-04": {"total":48191.25, "Childrens Services":48191.25},
+			"2016-08": {"total":22516.75, "Childrens Services":22516.75},
+			"2016-09": {"total":15691.25, "Childrens Services":15691.25},
+			"2016-10": {"total":22516.75, "Childrens Services":22516.75},
+			"2017-01": {"total":22516.75, "Childrens Services":22516.75},
+			"2017-02": {"total":10000.00, "Capital Expenditure":10000.00},
+			"2017-04": {"total":22516.75, "Childrens Services":22516.75},
+			"2017-05": {"total":16340.00, "Environment and Community Safety":16340.00},
+			"2017-07": {"total":5623.53, "Childrens Services":5623.53},
+			"2017-08": {"total":13300.00, "Community, Health & Social Care":3300.00, "Childrens Services":10000.00},
+			"2017-11": {"total":23873.53, "Community, Health & Social Care":8250.00, "Childrens Services":15623.53},
+			"2018-01": {"total":23323.53, "Community, Health & Social Care":7700.00, "Childrens Services":15623.53},
+			"2018-04": {"total":29373.53, "Community, Health & Social Care":13750.00, "Childrens Services":15623.53},
+			"2018-07": {"total":10000.00, "People (Childrens) Service Group":10000.00},
+			"2018-10": {"total":26500.00, "People (Adults) - CHSC":16500.00, "People (Childrens) Service Group":10000.00},
+			"2018-12": {"total":19944.00, "Place Directorate":19944.00},
+			"2019-03": {"total":44280.00, "Place Directorate":44280.00},
+			"2019-05": {"total":16500.00, "People (Adults) - CHSC":16500.00},
+			"2019-12": {"total":18500.00, "People (Adults) - CHSC":16500.00, "People (Childrens) Service Group":2000.00},
+			"2020-02": {"total":44280.00, "Place Directorate":44280.00},
+			"2020-06": {"total":5000.00, "People (Childrens) Service Group":5000.00},
+			"2020-07": {"total":34000.00, "People (Childrens) Service Group":34000.00},
+			"2021-02": {"total":14895.50, "People (Childrens) Service Group":1937.50, "Service Reform (Corp Bus & Transform)":12958.00},
+			"2021-05": {"total":8439.80, "People (Childrens) Service Group":8439.80},
+			"2021-06": {"total":4689.80, "People (Childrens) Service Group":4689.80}
+		}
+	},
+	"9207": {
+		"name": "Salford Foyer",
+		"total": 16839.93,
+		"monthly": {
+			"2012-09": {"total":517.20, "Childrens Services":517.20},
+			"2012-10": {"total":3253.54, "Childrens Services":3253.54},
+			"2012-11": {"total":2536.70, "Childrens Services":2536.70},
+			"2013-05": {"total":649.68, "Childrens Services":649.68},
+			"2013-07": {"total":1643.65, "Childrens Services":1643.65},
+			"2014-07": {"total":829.08, "Childrens Services":829.08},
+			"2014-08": {"total":829.08, "Childrens Services":829.08},
+			"2014-09": {"total":2708.60, "Childrens Services":2708.60},
+			"2015-08": {"total":3872.40, "Childrens Services":3872.40}
+		}
+	},
+	"9208": {
+		"name": "Salford Foyer Hat",
+		"total": 2166.93,
+		"monthly": {
+			"2012-09": {"total":517.20, "Childrens Services":517.20},
+			"2016-01": {"total":1649.73, "Corporate Business":1649.73}
+		}
+	},
+	"9209": {
+		"name": "Salford Foyer Health Action Team",
+		"total": 733,
+		"monthly": {
+			"2018-12": {"total":733.00, "Place Directorate":733.00}
+		}
+	},
+	"9210": {
+		"name": "Salford Friendly Anglers Society",
+		"total": 16274.29,
+		"monthly": {
+			"2012-11": {"total":1550.00, "Customer and Support Services":1550.00},
+			"2013-06": {"total":1000.00, "Customer and Support Services":1000.00},
+			"2018-03": {"total":4000.00, "Service Reform":4000.00},
+			"2019-03": {"total":6000.00, "Place Directorate":6000.00},
+			"2021-03": {"total":3724.29, "Service Reform (Corp Bus & Transform)":3724.29}
+		}
+	},
+	"9211": {
+		"name": "Salford General Store Ltd",
+		"total": 25000,
+		"monthly": {
+			"2020-04": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
+		}
+	},
+	"9212": {
+		"name": "Salford Gis Ltd",
+		"total": 2394,
+		"monthly": {
+			"2012-02": {"total":594.00, "Childrens Services":594.00},
+			"2012-04": {"total":1200.00, "Childrens Services":1200.00},
+			"2014-07": {"total":600.00, "Childrens Services":600.00}
+		}
+	},
+	"9213": {
+		"name": "Salford Glass",
+		"total": 3864.8,
+		"monthly": {
+			"2012-09": {"total":664.80, "Childrens Services":664.80},
+			"2013-03": {"total":3200.00, "Capital Expenditure":3200.00}
+		}
+	},
+	"9214": {
+		"name": "Salford Glass & Glazing",
+		"total": 4000,
+		"monthly": {
+			"2013-03": {"total":4000.00, "Capital Expenditure":3200.00, "Childrens Services":800.00}
+		}
+	},
+	"9215": {
+		"name": "Salford Glass Company",
+		"total": 10000,
+		"monthly": {
+			"2020-05": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
+		}
+	},
+	"9216": {
+		"name": "Salford Handball Club",
+		"total": 2930,
+		"monthly": {
+			"2013-04": {"total":2930.00, "Community, Health & Social Care":2930.00}
+		}
+	},
+	"9217": {
+		"name": "Salford Hawks Cricket Club",
+		"total": 870,
+		"monthly": {
+			"2011-08": {"total":870.00, "Customer and Support Services":870.00}
+		}
+	},
+	"9218": {
+		"name": "Salford Health Matters",
+		"total": 15327.98,
+		"monthly": {
+			"2013-08": {"total":1112.02, "Community, Health & Social Care":1112.02},
+			"2013-11": {"total":1177.70, "Community Health & Social Care":1177.70},
+			"2014-02": {"total":2002.58, "Community, Health & Social Care":2002.58},
+			"2014-08": {"total":1668.80, "Community, Health & Social Care":1668.80},
+			"2014-12": {"total":1142.26, "Community, Health & Social Care":1142.26},
+			"2015-03": {"total":1645.40, "Community, Health & Social Care":1645.40},
+			"2015-06": {"total":1966.52, "Community, Health & Social Care":1966.52},
+			"2015-09": {"total":761.90, "Community, Health & Social Care":761.90},
+			"2015-12": {"total":2444.40, "Community, Health & Social Care":2444.40},
+			"2016-07": {"total":1406.40, "Community, Health & Social Care":1406.40}
+		}
+	},
+	"9219": {
+		"name": "Salford Heart Care",
+		"total": 59055.96,
+		"monthly": {
+			"2012-09": {"total":1000.00, "Customer & Support Services":1000.00},
+			"2013-05": {"total":14794.96, "Community, Health & Social Care":12865.00, "Customer and Support Services":1929.96},
+			"2013-06": {"total":1000.00, "Customer and Support Services":1000.00},
+			"2013-09": {"total":12865.00, "Community, Health & Social Care":12865.00},
+			"2014-04": {"total":29396.00, "Community, Health & Social Care":25730.00, "Customer and Support Services":3666.00}
+		}
+	},
+	"9220": {
+		"name": "Salford Homebrew Ltd",
+		"total": 15315.36,
+		"monthly": {
+			"2021-01": {"total":8302.36, "Service Reform (Corp Bus & Transform)":8302.36},
+			"2021-03": {"total":4346.00, "Service Reform (Corp Bus & Transform)":4346.00},
+			"2021-04": {"total":2667.00, "Service Reform (Corp Bus & Transform)":2667.00}
+		}
+	},
+	"9221": {
+		"name": "Salford Hundred Venture",
+		"total": 170094.66,
+		"monthly": {
+			"2011-08": {"total":20044.00, "Sustainable Regeneration":20044.00},
+			"2011-09": {"total":17268.50, "Sustainable Regeneration":17268.50},
+			"2011-10": {"total":20684.50, "Sustainable Regeneration":20684.50},
+			"2011-12": {"total":87033.00, "Sustainable Regeneration":87033.00},
+			"2012-03": {"total":9166.66, "Customer and Support Services":9166.66},
+			"2012-04": {"total":648.00, "Community Health & Social Care":648.00},
+			"2012-06": {"total":7625.00, "Customer and Support Services":7625.00},
+			"2012-08": {"total":7625.00, "Customer and Support Services":7625.00}
+		}
+	},
+	"9222": {
+		"name": "Salford Hundred Venture Ltd",
+		"total": 9166,
+		"monthly": {
+			"2011-12": {"total":9166.00, "Customer and Support Services":9166.00}
+		}
+	},
+	"9223": {
+		"name": "Salford Innovation Forum",
+		"total": 780,
+		"monthly": {
+			"2015-12": {"total":780.00, "Childrens Services":780.00}
+		}
+	},
+	"9224": {
+		"name": "Salford Innovation Park",
+		"total": 2557626.5,
+		"monthly": {
+			"2017-08": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2017-09": {"total":990.74, "Sustainable Regeneration":990.74},
+			"2017-11": {"total":3376.68, "Capital Expenditure":1688.34, "Sustainable Regeneration":1688.34},
+			"2017-12": {"total":350763.54, "Sustainable Regeneration":350763.54},
+			"2018-05": {"total":285254.39, "Sustainable Regeneration":285254.39},
+			"2018-10": {"total":191655.47, "Capital Works":15328.08, "People (Childrens) Service Group":660.00, "Place Directorate":175667.39},
+			"2019-01": {"total":148470.36, "Place Directorate":148470.36},
+			"2019-03": {"total":308579.78, "Place Directorate":308579.78},
+			"2019-06": {"total":156711.38, "Place Directorate":156711.38},
+			"2019-08": {"total":109756.98, "Place Directorate":109756.98},
+			"2019-12": {"total":121336.60, "Place Directorate":121336.60},
+			"2020-03": {"total":141799.61, "Place Directorate":141799.61},
+			"2020-05": {"total":153664.45, "Place Directorate":153664.45},
+			"2021-06": {"total":583285.04, "Place Directorate":583285.04}
+		}
+	},
+	"9225": {
+		"name": "Salford Innovation Park Ltd",
+		"total": 3856979.86,
+		"monthly": {
+			"2011-10": {"total":17106.00, "Sustainable Regeneration":17106.00},
+			"2012-01": {"total":45557.61, "Sustainable Regeneration":45557.61},
+			"2012-04": {"total":17106.00, "Sustainable Regeneration":17106.00},
+			"2012-06": {"total":530.40, "Sustainable Regeneration":530.40},
+			"2012-07": {"total":17106.00, "Sustainable Regeneration":17106.00},
+			"2012-10": {"total":548111.51, "Sustainable Regeneration":548111.51},
+			"2012-12": {"total":21996.00, "Sustainable Regeneration":21996.00},
+			"2013-01": {"total":17106.00, "Sustainable Regeneration":17106.00},
+			"2013-03": {"total":4890.00, "Sustainable Regeneration":4890.00},
+			"2013-04": {"total":401788.01, "Sustainable Regeneration":401788.01},
+			"2013-05": {"total":2445.00, "Sustainable Regeneration":2445.00},
+			"2013-06": {"total":17106.00, "Sustainable Regeneration":17106.00},
+			"2013-07": {"total":286295.60, "Environment and Community Safety":286295.60},
+			"2013-10": {"total":185712.14, "Sustainable Regeneration":185712.14},
+			"2013-11": {"total":185712.14, "Sustainable Regeneration":185712.14},
+			"2013-12": {"total":196123.20, "Sustainable Regeneration":196123.20},
+			"2014-02": {"total":186218.40, "Sustainable Regeneration":186218.40},
+			"2014-05": {"total":167739.60, "Sustainable Regeneration":167739.60},
+			"2014-06": {"total":144659.10, "Capital Expenditure":141600.00, "Customer and Support Services":3059.10},
+			"2014-07": {"total":612.60, "Sustainable Regeneration":612.60},
+			"2014-08": {"total":1035.78, "Customer and Support Services":1035.78},
+			"2014-09": {"total":152335.74, "Sustainable Regeneration":152335.74},
+			"2014-10": {"total":1035.78, "Sustainable Regeneration":1035.78},
+			"2014-12": {"total":165829.11, "Sustainable Regeneration":165829.11},
+			"2015-02": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2015-03": {"total":990.74, "Customer and Support Services":990.74},
+			"2015-04": {"total":218825.54, "Sustainable Regeneration":218825.54},
+			"2015-05": {"total":1740.74, "Childrens Services":750.00, "Sustainable Regeneration":990.74},
+			"2015-06": {"total":1740.74, "Childrens Services":750.00, "Sustainable Regeneration":990.74},
+			"2015-07": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2015-08": {"total":149677.20, "Sustainable Regeneration":149677.20},
+			"2015-09": {"total":124364.68, "Sustainable Regeneration":124364.68},
+			"2015-10": {"total":990.74, "Sustainable Regeneration":990.74},
+			"2016-01": {"total":4440.88, "Childrens Services":2459.40, "Sustainable Regeneration":1981.48},
+			"2016-03": {"total":361771.94, "Capital Expenditure":360781.20, "Sustainable Regeneration":990.74},
+			"2016-04": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2016-06": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2016-07": {"total":197380.80, "Sustainable Regeneration":197380.80},
+			"2016-08": {"total":1981.48, "Sustainable Regeneration":1981.48},
+			"2016-09": {"total":990.74, "Sustainable Regeneration":990.74}
+		}
+	},
+	"9226": {
+		"name": "Salford Kitchens Ltd",
+		"total": 15315.36,
+		"monthly": {
+			"2020-12": {"total":1334.00, "Service Reform (Corp Bus & Transform)":1334.00},
+			"2021-01": {"total":6968.36, "Service Reform (Corp Bus & Transform)":6968.36},
+			"2021-03": {"total":4346.00, "Service Reform (Corp Bus & Transform)":4346.00},
+			"2021-05": {"total":2667.00, "Service Reform (Corp Bus & Transform)":2667.00}
+		}
+	},
+	"9227": {
+		"name": "Salford Lads & Girls Club",
+		"total": 35604,
+		"monthly": {
+			"2011-09": {"total":3600.00, "Chief Executives":3600.00},
+			"2011-10": {"total":1600.00, "Chief Executives":1600.00},
+			"2012-07": {"total":1500.00, "Customer and Support Services":1500.00},
+			"2015-06": {"total":1600.00, "Customer and Support Services":1600.00},
+			"2016-08": {"total":10000.00, "Corporate Business":10000.00},
+			"2018-11": {"total":3000.00, "Place Directorate":3000.00},
+			"2019-09": {"total":1200.00, "People (Childrens) Service Group":1200.00},
+			"2019-12": {"total":5204.00, "Place Directorate":5204.00},
+			"2020-11": {"total":7900.00, "Place Directorate":7900.00}
+		}
+	},
+	"9228": {
+		"name": "Salford Lads And Girls Club",
+		"total": 58993,
+		"monthly": {
+			"2020-04": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00},
+			"2020-12": {"total":6600.00, "Service Reform (Corp Bus & Transform)":6600.00},
+			"2021-01": {"total":9000.00, "Service Reform (Corp Bus & Transform)":9000.00},
+			"2021-03": {"total":6393.00, "Service Reform (Corp Bus & Transform)":6393.00},
+			"2021-04": {"total":12000.00, "Service Reform (Corp Bus & Transform)":12000.00}
+		}
+	},
+	"9229": {
+		"name": "Salford Link Project",
+		"total": 250474.5,
+		"monthly": {
+			"2011-08": {"total":7345.00, "Childrens Services":6600.00, "Customer and Support Services":745.00},
+			"2011-09": {"total":8350.00, "Childrens Services":8350.00},
+			"2012-01": {"total":29332.50, "Community Health & Social Care":29332.50},
+			"2012-02": {"total":29332.50, "Community Health & Social Care":29332.50},
+			"2012-03": {"total":10177.00, "Childrens Services":8350.00, "Customer and Support Services":1827.00},
+			"2012-04": {"total":3000.00, "Customer and Support Services":3000.00},
+			"2012-06": {"total":35270.00, "Capital Expenditure":2500.00, "Childrens Services":7145.50, "Community Health & Social Care":25624.50},
+			"2012-07": {"total":1308.50, "Customer and Support Services":1308.50},
+			"2013-02": {"total":35213.00, "Community, Health & Social Care":13608.50, "Childrens Services":21604.50},
+			"2013-04": {"total":1500.00, "Customer and Support Services":1500.00},
+			"2014-01": {"total":13608.50, "Community, Health & Social Care":13608.50},
+			"2014-02": {"total":10781.00, "Childrens Services":10781.00},
+			"2014-03": {"total":16108.50, "Community, Health & Social Care":16108.50},
+			"2014-04": {"total":6500.00, "Customer and Support Services":6500.00},
+			"2014-06": {"total":3250.00, "Community, Health & Social Care":3250.00},
+			"2016-01": {"total":2880.00, "Community, Health & Social Care":2880.00},
+			"2016-09": {"total":1125.00, "Community, Health & Social Care":1125.00},
+			"2020-12": {"total":8000.00, "Service Reform (Corp Bus & Transform)":8000.00},
+			"2021-01": {"total":9000.00, "Service Reform (Corp Bus & Transform)":9000.00},
+			"2021-03": {"total":6393.00, "Service Reform (Corp Bus & Transform)":6393.00},
+			"2021-04": {"total":12000.00, "Service Reform (Corp Bus & Transform)":12000.00}
+		}
+	},
+	"9230": {
+		"name": "Salford Loaves And Fishes",
+		"total": 307340.9,
+		"monthly": {
+			"2011-12": {"total":12312.00, "Community Health & Social Care":12312.00},
+			"2012-10": {"total":12312.00, "Community Health & Social Care":12312.00},
+			"2014-09": {"total":24624.00, "Community, Health & Social Care":24624.00},
+			"2015-07": {"total":25000.00, "Community, Health & Social Care":25000.00},
+			"2016-06": {"total":25000.00, "Community, Health & Social Care":25000.00},
+			"2016-08": {"total":10000.00, "Corporate Business":10000.00},
+			"2017-07": {"total":25000.00, "Community, Health & Social Care":25000.00},
+			"2018-07": {"total":25000.00, "Public Health":25000.00},
+			"2019-01": {"total":3070.00, "Place Directorate":3070.00},
+			"2019-05": {"total":2400.00, "People (Adults) - CHSC":2400.00},
+			"2019-06": {"total":3600.00, "People (Adults) - CHSC":3600.00},
+			"2019-07": {"total":50000.00, "Public Health":50000.00},
+			"2019-12": {"total":4500.00, "People (Adults) - CHSC":4500.00},
+			"2020-03": {"total":21922.90, "People (Adults) - CHSC":16800.00, "Place Directorate":5122.90},
+			"2020-06": {"total":25000.00, "Public Health":25000.00},
+			"2020-12": {"total":12600.00, "People (Adults) - CHSC":12600.00},
+			"2021-04": {"total":25000.00, "Public Health":25000.00}
+		}
+	},
+	"9231": {
+		"name": "Salford Loaves And Fishes Ltd",
+		"total": 20000,
+		"monthly": {
+			"2020-07": {"total":20000.00, "Service Reform (Corp Bus & Transform)":20000.00}
+		}
+	},
+	"9232": {
 		"name": "Salford Lunen Deanery Partnership",
 		"total": 800,
 		"monthly": {
 			"2017-07": {"total":800.00, "Corporate Business":800.00}
 		}
 	},
-	"9201": {
+	"9233": {
 		"name": "Salford M3 Magazine",
 		"total": 864,
 		"monthly": {
 			"2013-02": {"total":864.00, "Customer and Support Services":864.00}
 		}
 	},
-	"9202": {
+	"9234": {
 		"name": "Salford Masonic Hall Ltd",
 		"total": 25000,
 		"monthly": {
 			"2020-04": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
 		}
 	},
-	"9203": {
+	"9235": {
 		"name": "Salford Md",
 		"total": 25000,
 		"monthly": {
 			"2020-05": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
 		}
 	},
-	"9204": {
+	"9236": {
 		"name": "Salford Metropolitan Athletic Club",
 		"total": 1500,
 		"monthly": {
 			"2017-12": {"total":1500.00, "Service Reform":1500.00}
 		}
 	},
-	"9205": {
+	"9237": {
 		"name": "Salford Motorandtyres Ltd",
 		"total": 10000,
 		"monthly": {
 			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
 		}
 	},
-	"9206": {
+	"9238": {
 		"name": "Salford Music Festival",
 		"total": 2893,
 		"monthly": {
@@ -51,14 +513,14 @@
 			"2016-08": {"total":1500.00, "Office of the Chief Executive":1500.00}
 		}
 	},
-	"9207": {
+	"9239": {
 		"name": "Salford Musical Youth",
 		"total": 1146,
 		"monthly": {
 			"2015-10": {"total":1146.00, "Corporate Business":1146.00}
 		}
 	},
-	"9208": {
+	"9240": {
 		"name": "Salford Nhs Primary Care Trust",
 		"total": 11705222.38,
 		"monthly": {
@@ -81,7 +543,7 @@
 			"2014-02": {"total":3064.46, "Customer and Support Services":3064.46}
 		}
 	},
-	"9209": {
+	"9241": {
 		"name": "Salford North School Sports Partner",
 		"total": 160000,
 		"monthly": {
@@ -91,7 +553,7 @@
 			"2015-01": {"total":40000.00, "Community, Health & Social Care":40000.00}
 		}
 	},
-	"9210": {
+	"9242": {
 		"name": "Salford Online",
 		"total": 2550,
 		"monthly": {
@@ -100,14 +562,14 @@
 			"2016-05": {"total":600.00, "Environment and Community Safety":600.00}
 		}
 	},
-	"9211": {
+	"9243": {
 		"name": "Salford Over 50 Walking Club",
 		"total": 1000,
 		"monthly": {
 			"2012-11": {"total":1000.00, "Community, Health & Social Care":1000.00}
 		}
 	},
-	"9212": {
+	"9244": {
 		"name": "Salford Parent Voice",
 		"total": 15000,
 		"monthly": {
@@ -115,21 +577,22 @@
 			"2019-05": {"total":7500.00, "People (Childrens) Service Group":7500.00}
 		}
 	},
-	"9213": {
+	"9245": {
 		"name": "Salford Primary Care Together CIC",
 		"total": 13773.6,
 		"monthly": {
 			"2020-12": {"total":13773.60, "Public Health":13773.60}
 		}
 	},
-	"9214": {
+	"9246": {
 		"name": "Salford Primary Care Together Cic",
-		"total": 12720.06,
+		"total": 82858.88,
 		"monthly": {
+			"2021-02": {"total":70138.82, "People (Adults) - CHSC":51000.00, "Public Health":19138.82},
 			"2021-04": {"total":12720.06, "Public Health":12720.06}
 		}
 	},
-	"9215": {
+	"9247": {
 		"name": "Salford Primary Care Trust",
 		"total": 192618.15,
 		"monthly": {
@@ -140,14 +603,14 @@
 			"2012-05": {"total":976.77, "Community Health & Social Care":976.77}
 		}
 	},
-	"9216": {
+	"9248": {
 		"name": "Salford Professional Deve",
 		"total": 1437.6,
 		"monthly": {
 			"2019-02": {"total":1437.60, "Service Reform (Corp Bus & Transform)":1437.60}
 		}
 	},
-	"9217": {
+	"9249": {
 		"name": "Salford Professional Development",
 		"total": 5631.6,
 		"monthly": {
@@ -155,494 +618,6 @@
 			"2017-11": {"total":717.60, "Childrens Services":717.60},
 			"2017-12": {"total":2394.00, "Service Reform":2394.00},
 			"2019-01": {"total":1980.00, "Service Reform (Corp Bus & Transform)":1980.00}
-		}
-	},
-	"9218": {
-		"name": "Salford Red Devils Foundation",
-		"total": 7031.4,
-		"monthly": {
-			"2014-03": {"total":3143.40, "Childrens Services":3143.40},
-			"2014-05": {"total":3888.00, "Community, Health & Social Care":3888.00}
-		}
-	},
-	"9219": {
-		"name": "Salford Refugee Forum",
-		"total": 2230.29,
-		"monthly": {
-			"2012-07": {"total":2230.29, "Customer and Support Services":2230.29}
-		}
-	},
-	"9220": {
-		"name": "Salford Roar Project Office",
-		"total": 1000,
-		"monthly": {
-			"2012-04": {"total":1000.00, "Community Health & Social Care":1000.00}
-		}
-	},
-	"9221": {
-		"name": "Salford Royal Foundation Trust",
-		"total": 3656.22,
-		"monthly": {
-			"2012-03": {"total":3656.22, "Community Health & Social Care":3656.22}
-		}
-	},
-	"9222": {
-		"name": "Salford Royal Hospitals Nhs Trust",
-		"total": 7000,
-		"monthly": {
-			"2011-10": {"total":7000.00, "Childrens Services":7000.00}
-		}
-	},
-	"9223": {
-		"name": "Salford Royal Hospitals Nhst",
-		"total": 61835.36,
-		"monthly": {
-			"2011-08": {"total":6250.00, "Childrens Services":6250.00},
-			"2011-10": {"total":25000.00, "Childrens Services":25000.00},
-			"2011-11": {"total":9271.86, "Children Services":9271.86},
-			"2012-01": {"total":1205.36, "Childrens Services":1205.36},
-			"2012-03": {"total":1210.64, "Childrens Services":1210.64},
-			"2012-04": {"total":18897.50, "Childrens Services":18897.50}
-		}
-	},
-	"9224": {
-		"name": "Salford Royal NHS Foundation Trust",
-		"total": 458305.21,
-		"monthly": {
-			"2015-09": {"total":3664.46, "Childrens Services":600.00, "Corporate Business":3064.46},
-			"2016-04": {"total":971.75, "Community, Health & Social Care":971.75},
-			"2017-09": {"total":453669.00, "Community, Health & Social Care":453669.00}
-		}
-	},
-	"9225": {
-		"name": "Salford Royal Nhs Foundation Trust",
-		"total": 61408859.3499998,
-		"monthly": {
-			"2011-08": {"total":3805.35, "Childrens Services":1193.60, "Community Health & Social Care":2611.75},
-			"2011-09": {"total":32419.05, "Childrens Services":14479.37, "Community Health & Social Care":17939.68},
-			"2011-10": {"total":4957.60, "Childrens Services":4957.60},
-			"2011-11": {"total":59513.56, "Children Services":55925.62, "Community Health & Social Care":3587.94},
-			"2011-12": {"total":7617.85, "Childrens Services":2579.91, "Community Health & Social Care":4337.94, "Customer and Support Services":700.00},
-			"2012-01": {"total":49958.61, "Childrens Services":42748.59, "Community Health & Social Care":7210.02},
-			"2012-02": {"total":49203.38, "Childrens Services":32000.00, "Customer and Support":17203.38},
-			"2012-03": {"total":38318.59, "Community Health & Social Care":3587.94, "Customer and Support Services":34730.65},
-			"2012-04": {"total":72331.52, "Childrens Services":36864.98, "Community Health & Social Care":3587.94, "Customer and Support Services":31878.60},
-			"2012-05": {"total":7613.84, "Childrens Services":7100.00, "Community Health & Social Care":513.84},
-			"2012-06": {"total":28623.03, "Childrens Services":768.96, "Community Health & Social Care":4561.99, "Customer and Support Services":23292.08},
-			"2012-07": {"total":1477.71, "Community Health & Social Care":1477.71},
-			"2012-08": {"total":46440.76, "Childrens Services":7000.00, "Customer and Support Services":39440.76},
-			"2012-09": {"total":986.82, "Community Health & Social Care":986.82},
-			"2012-10": {"total":16279.54, "Childrens Services":15329.66, "Community Health & Social Care":949.88},
-			"2012-11": {"total":40385.43, "Community, Health & Social Care":31192.04, "Customer and Support Services":9193.39},
-			"2012-12": {"total":150643.35, "Community, Health & Social Care":17470.00, "Childrens Services":60042.25, "Customer and Support Services":73131.10},
-			"2013-01": {"total":104250.64, "Community, Health & Social Care":5054.76, "Childrens Services":77564.76, "Customer and Support Services":21631.12},
-			"2013-02": {"total":27364.12, "Community, Health & Social Care":5733.00, "Customer and Support Services":21631.12},
-			"2013-03": {"total":108646.42, "Childrens Services":75199.00, "Community Health & Social Care":7316.30, "Customer and Support Services":26131.12},
-			"2013-04": {"total":4338.10, "Community, Health & Social Care":4338.10},
-			"2013-05": {"total":39391.88, "Childrens Services":4529.64, "Customer and Support Services":34862.24},
-			"2013-06": {"total":714405.70, "Childrens Services":1152.00, "Community Health & Social Care":586622.58, "Customer and Support Services":21631.12, "Environment and Community Health":105000.00},
-			"2013-07": {"total":805500.59, "Community, Health & Social Care":598237.50, "Childrens Services":60600.85, "Customer and Support Services":51662.24, "Environment and Community Safety":95000.00},
-			"2013-08": {"total":40829.45, "Community, Health & Social Care":17165.00, "Customer and Support Services":23664.45},
-			"2013-09": {"total":21631.12, "Customer and Support Services":21631.12},
-			"2013-10": {"total":708414.30, "Childrens Services":1524.64, "Community Health & Social Care":601723.00, "Customer and Support Services":10166.66, "Environment and Community Safety":95000.00},
-			"2013-11": {"total":98694.58, "Childrens Services":58629.00, "Community Health & Social Care":6970.00, "Customer and Support Services":33095.58},
-			"2013-12": {"total":34228.20, "Childrens Services":20784.00, "Customer and Support Services":13444.20},
-			"2014-01": {"total":14202.87, "Community, Health & Social Care":971.75, "Customer and Support Services":13231.12},
-			"2014-02": {"total":1179990.71, "Community, Health & Social Care":607721.25, "Capital Expenditure":395326.80, "Childrens Services":63376.00, "Customer and Support Services":18566.66, "Environment and Community Safety":95000.00},
-			"2014-03": {"total":136596.12, "Capital Expenditure":43925.00, "Childrens Services":62640.00, "Customer and Support Services":30031.12},
-			"2014-04": {"total":53479.89, "Community, Health & Social Care":18617.65, "Customer and Support Services":34862.24},
-			"2014-05": {"total":80538.00, "Community, Health & Social Care":80538.00},
-			"2014-06": {"total":286685.12, "Community, Health & Social Care":265054.00, "Customer and Support Services":21631.12},
-			"2014-07": {"total":148269.99, "Community, Health & Social Care":11426.75, "Customer and Support Services":43262.24, "Environment and Community Safety":93581.00},
-			"2014-08": {"total":1019385.00, "Community, Health & Social Care":913576.00, "Childrens Services":95966.00, "Environment and Community Safety":9843.00},
-			"2014-09": {"total":43262.24, "Customer and Support Services":43262.24},
-			"2014-10": {"total":709451.15, "Community, Health & Social Care":600741.75, "Childrens Services":28359.00, "Customer and Support Services":23637.40, "Environment and Community Safety":56713.00},
-			"2014-12": {"total":46566.32, "Customer and Support Services":46566.32},
-			"2015-01": {"total":689828.54, "Community, Health & Social Care":604151.54, "Childrens Services":85677.00},
-			"2015-02": {"total":35879.26, "Community, Health & Social Care":5248.14, "Childrens Services":600.00, "Customer and Support Services":30031.12},
-			"2015-03": {"total":51976.50, "Community, Health & Social Care":6947.60, "Customer and Support Services":45028.90},
-			"2015-04": {"total":54220.58, "Childrens Services":21125.00, "Customer and Support Services":33095.58},
-			"2015-05": {"total":971.75, "Community, Health & Social Care":971.75},
-			"2015-07": {"total":1270519.79, "Community, Health & Social Care":1166081.75, "Childrens Services":85078.00, "Customer and Support Services":19360.04},
-			"2015-08": {"total":85077.00, "Childrens Services":85077.00},
-			"2015-10": {"total":794372.97, "Community, Health & Social Care":601932.75, "Childrens Services":85078.00, "Corporate Business":107362.22},
-			"2015-11": {"total":812020.00, "Community, Health & Social Care":812020.00},
-			"2015-12": {"total":53461.72, "Community, Health & Social Care":11599.48, "Corporate Business":41862.24},
-			"2016-01": {"total":431032.12, "Community, Health & Social Care":410801.00, "Corporate Business":20231.12},
-			"2016-02": {"total":1074610.75, "Community, Health & Social Care":989532.75, "Childrens Services":85078.00},
-			"2016-03": {"total":835316.58, "Community, Health & Social Care":812021.00, "Corporate Business":23295.58},
-			"2016-05": {"total":361381.91, "Community, Health & Social Care":354257.21, "Childrens Services":4060.24, "Corporate Business":3064.46},
-			"2016-06": {"total":1085754.44, "Community, Health & Social Care":1028390.00, "Corporate Business":57364.44},
-			"2016-07": {"total":425548.41, "Community, Health & Social Care":406981.75, "Corporate Business":18566.66},
-			"2016-08": {"total":18451.00, "Childrens Services":10051.00, "Corporate Business":8400.00},
-			"2016-09": {"total":4740.00, "Childrens Services":4740.00},
-			"2016-10": {"total":1533108.49, "Community, Health & Social Care":1419923.75, "Childrens Services":113184.74},
-			"2016-11": {"total":400465.00, "Community, Health & Social Care":400465.00},
-			"2016-12": {"total":2760.00, "Community, Health & Social care":2760.00},
-			"2017-01": {"total":521851.74, "Community, Health & Social Care":400465.00, "Corporate Business":121386.74},
-			"2017-02": {"total":401436.75, "Community, Health & Social Care":401436.75},
-			"2017-03": {"total":242212.04, "Childrens Services":210925.00, "Corporate Business":31287.04},
-			"2017-04": {"total":2011009.48, "Community, Health & Social Care":1871980.00, "Childrens Services":85835.00, "Corporate Business":53194.48},
-			"2017-05": {"total":773922.00, "Community, Health & Social Care":667422.00, "Childrens Services":106500.00},
-			"2017-06": {"total":758791.00, "Community, Health & Social Care":446384.00, "Capital Expenditure":216000.00, "Chief Executives":600.00, "Childrens Services":95807.00},
-			"2017-07": {"total":1986815.71, "Community, Health & Social Care":1932420.15, "Childrens Services":12154.80, "Corporate Business":42240.76},
-			"2017-08": {"total":448327.50, "Community, Health & Social Care":448327.50},
-			"2017-10": {"total":531462.00, "Community, Health & Social Care":446384.00, "Childrens Services":85078.00},
-			"2017-11": {"total":617511.75, "Community, Health & Social Care":447355.75, "Childrens Services":170156.00},
-			"2017-12": {"total":561906.28, "Community, Health & Social Care":446384.00, "Service Reform":115522.28},
-			"2018-01": {"total":525351.00, "Community, Health & Social Care":446384.00, "Childrens Services":78967.00},
-			"2018-02": {"total":913888.38, "Community, Health & Social Care":892768.00, "Service Reform":21120.38},
-			"2018-03": {"total":1127804.51, "Community, Health & Social Care":893740.75, "Childrens Services":79997.00, "Environment and Community Safety":103426.00, "Service Reform":50640.76},
-			"2018-04": {"total":96999.90, "Community, Health & Social Care":17882.67, "Childrens Services":57996.85, "Service Reform":21120.38},
-			"2018-05": {"total":586378.38, "Community, Health & Social Care":439206.00, "Childrens Services":91189.00, "Environment and Community Safety":34863.00, "Service Reform":21120.38},
-			"2018-06": {"total":2709902.77, "Community, Health & Social Care":2688122.39, "Childrens Services":660.00, "Service Reform":21120.38},
-			"2018-07": {"total":488993.83, "People (Childrens) Service Group":27695.70, "Place Directorate":971.75, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":21120.38},
-			"2018-08": {"total":544104.38, "Capital Expenditure":27060.00, "People (Childrens) Service Group":56718.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":21120.38},
-			"2018-09": {"total":878412.00, "Public Health":878412.00},
-			"2018-10": {"total":681116.89, "People (Adults) - CHSC":18589.38, "People (Childrens) Service Group":181509.00, "Place Directorate":971.75, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":40840.76},
-			"2018-11": {"total":929138.38, "Capital Expenditure":350000.00, "People (Childrens) Service Group":118812.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":21120.38},
-			"2018-12": {"total":569232.38, "People (Childrens) Service Group":108906.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":21120.38},
-			"2019-01": {"total":499864.13, "People (Childrens) Service Group":38566.00, "Place Directorate":971.75, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":21120.38},
-			"2019-02": {"total":641001.00, "People (Childrens) Service Group":201795.00, "Public Health":439206.00},
-			"2019-03": {"total":1102162.76, "People (Childrens) Service Group":181510.00, "Public Health":878412.00, "Service Reform (Corp Bus & Transform)":42240.76},
-			"2019-04": {"total":103293.71, "People (Adults) - CHSC":52081.20, "Place Directorate":971.75, "Public Health":8000.00, "Service Reform (Corp Bus & Transform)":42240.76},
-			"2019-05": {"total":878412.00, "Public Health":878412.00},
-			"2019-06": {"total":631543.80, "Capital Expenditure":188737.80, "People (Childrens) Service Group":3600.00, "Public Health":439206.00},
-			"2019-07": {"total":4322695.88, "People (Adults) - CHSC":3332883.92, "Public Health":878412.00, "Service Reform (Corp Bus & Transform)":111399.96},
-			"2019-08": {"total":468786.88, "People (Adults) - CHSC":4366.00, "People (Childrens) Service Group":6600.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":18614.88},
-			"2019-09": {"total":49989.32, "People (Childrens) Service Group":29656.00, "Service Reform (Corp Bus & Transform)":20333.32},
-			"2019-10": {"total":481446.76, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":42240.76},
-			"2019-11": {"total":443571.56, "People (Adults) - CHSC":4365.56, "Public Health":439206.00},
-			"2019-12": {"total":493783.72, "People (Childrens) Service Group":52024.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":2553.72},
-			"2020-01": {"total":60053.70, "People (Childrens) Service Group":1800.00, "Service Reform (Corp Bus & Transform)":58253.70},
-			"2020-02": {"total":1799064.76, "Public Health":1756824.00, "Service Reform (Corp Bus & Transform)":42240.76},
-			"2020-03": {"total":609991.62, "Capital Expenditure":139498.58, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":31287.04},
-			"2020-04": {"total":6918.10, "People (Childrens) Service Group":6918.10},
-			"2020-05": {"total":1171970.45, "Capital Expenditure":103634.77, "People (Adults) - CHSC":632063.17, "People (Childrens) Service Group":436272.51},
-			"2020-06": {"total":466188.88, "People (Adults) - CHSC":20962.41, "People (Childrens) Service Group":6020.47, "Public Health":439206.00},
-			"2020-07": {"total":3084225.72, "People (Adults) - CHSC":841730.92, "People (Childrens) Service Group":429062.00, "Public Health":1756824.00, "Service Reform (Corp Bus & Transform)":56608.80},
-			"2020-08": {"total":443571.56, "People (Adults) - CHSC":4365.56, "Public Health":439206.00},
-			"2020-09": {"total":1050031.82, "People (Adults) - CHSC":366249.28, "People (Childrens) Service Group":60791.08, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":183785.46},
-			"2020-10": {"total":772122.53, "People (Adults) - CHSC":198643.03, "People (Childrens) Service Group":96926.71, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":37346.79},
-			"2020-11": {"total":606340.34, "People (Childrens) Service Group":94499.00, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":72635.34},
-			"2020-12": {"total":519621.61, "People (Adults) - CHSC":487694.57, "People (Childrens) Service Group":640.00, "Service Reform (Corp Bus & Transform)":31287.04},
-			"2021-01": {"total":316229.23, "People (Adults) - CHSC":237707.50, "Service Reform (Corp Bus & Transform)":78521.73},
-			"2021-03": {"total":2528036.89, "People (Adults) - CHSC":172618.49, "People (Childrens) Service Group":143612.00, "Public Health":2196030.00, "Service Reform (Corp Bus & Transform)":15776.40},
-			"2021-04": {"total":586267.01, "People (Adults) - CHSC":-4425.99, "People (Childrens) Service Group":38276.78, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":113210.22},
-			"2021-05": {"total":769927.97, "People (Adults) - CHSC":241819.96, "People (Childrens) Service Group":35583.33, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":53318.68},
-			"2021-06": {"total":536981.28, "People (Adults) - CHSC":19951.19, "People (Childrens) Service Group":35583.33, "Public Health":439206.00, "Service Reform (Corp Bus & Transform)":42240.76}
-		}
-	},
-	"9226": {
-		"name": "Salford Royal Nhs Trust",
-		"total": 30766.87,
-		"monthly": {
-			"2012-04": {"total":23766.87, "Childrens Services":22795.12, "Community Health & Social Care":971.75},
-			"2012-05": {"total":7000.00, "Childrens Services":7000.00}
-		}
-	},
-	"9227": {
-		"name": "Salford Schools Sols. Ltd",
-		"total": 552148.18,
-		"monthly": {
-			"2014-02": {"total":552148.18, "Childrens Services":552148.18}
-		}
-	},
-	"9228": {
-		"name": "Salford Schools Solutions",
-		"total": 35512.2,
-		"monthly": {
-			"2011-08": {"total":35512.20, "Education":35512.20}
-		}
-	},
-	"9229": {
-		"name": "Salford Schools Solutions Ltd",
-		"total": 81500541.15,
-		"monthly": {
-			"2011-08": {"total":567235.27, "Childrens Services":567235.27},
-			"2011-09": {"total":627465.10, "Capital Expenditure":67629.37, "Childrens Services":559835.73},
-			"2011-10": {"total":566076.45, "Childrens Services":566076.45},
-			"2011-11": {"total":602067.13, "Children Services":602067.13},
-			"2011-12": {"total":571098.81, "Childrens Services":571098.81},
-			"2012-01": {"total":542929.55, "Childrens Services":542929.55},
-			"2012-02": {"total":611954.30, "Childrens Services":611954.30},
-			"2012-04": {"total":1084748.12, "Childrens Services":1084748.12},
-			"2012-05": {"total":596949.49, "Childrens Services":596949.49},
-			"2012-06": {"total":595136.22, "Childrens Services":595136.22},
-			"2012-07": {"total":637414.38, "Childrens Services":637414.38},
-			"2012-08": {"total":663654.82, "Childrens Services":663654.82},
-			"2012-09": {"total":570529.67, "Childrens Services":570529.67},
-			"2012-10": {"total":606601.62, "Capital Expenditure":1341.30, "Childrens Services":605260.32},
-			"2012-11": {"total":591906.81, "Childrens Services":591906.81},
-			"2012-12": {"total":598656.30, "Childrens Services":598656.30},
-			"2013-01": {"total":552211.56, "Childrens Services":552211.56},
-			"2013-02": {"total":545509.04, "Childrens Services":545509.04},
-			"2013-03": {"total":557225.73, "Childrens Services":557225.73},
-			"2013-04": {"total":668415.20, "Childrens Services":668415.20},
-			"2013-05": {"total":626481.20, "Childrens Services":626481.20},
-			"2013-07": {"total":626927.94, "Childrens Services":626927.94},
-			"2013-08": {"total":505361.99, "Childrens Services":505361.99},
-			"2013-09": {"total":578906.09, "Childrens Services":578906.09},
-			"2013-10": {"total":615734.21, "Childrens Services":615734.21},
-			"2013-11": {"total":797770.91, "Capital Expenditure":136294.47, "Childrens Services":661476.44},
-			"2014-01": {"total":1161138.55, "Childrens Services":1161138.55},
-			"2014-03": {"total":596090.85, "Capital Expenditure":6964.93, "Childrens Services":589125.92},
-			"2014-04": {"total":568529.70, "Childrens Services":568529.70},
-			"2014-06": {"total":1373728.68, "Childrens Services":1373728.68},
-			"2014-07": {"total":625458.30, "Childrens Services":625458.30},
-			"2014-08": {"total":634256.32, "Childrens Services":634256.32},
-			"2014-09": {"total":586249.17, "Childrens Services":586249.17},
-			"2014-10": {"total":626376.20, "Childrens Services":626376.20},
-			"2014-11": {"total":720615.20, "Childrens Services":720615.20},
-			"2014-12": {"total":621258.50, "Childrens Services":621258.50},
-			"2015-01": {"total":566092.62, "Childrens Services":468776.67, "Customer and Support Services":97315.95},
-			"2015-02": {"total":589118.49, "Capital Expenditure":95876.03, "Childrens Services":493242.46},
-			"2015-04": {"total":564793.45, "Childrens Services":564793.45},
-			"2015-05": {"total":1264502.81, "Childrens Services":1264502.81},
-			"2015-07": {"total":1230953.83, "Childrens Services":1230953.83},
-			"2015-08": {"total":656376.10, "Childrens Services":656376.10},
-			"2015-09": {"total":607838.21, "Childrens Services":607838.21},
-			"2015-10": {"total":600080.08, "Childrens Services":600080.08},
-			"2015-11": {"total":104865.91, "Childrens Services":104865.91},
-			"2015-12": {"total":1108538.30, "Childrens Services":1108538.30},
-			"2016-01": {"total":658538.63, "Childrens Services":658538.63},
-			"2016-02": {"total":596709.56, "Childrens Services":596709.56},
-			"2016-03": {"total":676923.77, "Childrens Services":676923.77},
-			"2016-04": {"total":643648.89, "Childrens Services":643648.89},
-			"2016-06": {"total":633106.47, "Childrens Services":633106.47},
-			"2016-07": {"total":1242199.30, "Childrens Services":1242199.30},
-			"2016-08": {"total":681685.12, "Childrens Services":681685.12},
-			"2016-09": {"total":621150.32, "Childrens Services":621150.32},
-			"2016-11": {"total":1186193.80, "Childrens Services":1186193.80},
-			"2016-12": {"total":593457.86, "Childrens Services":593457.86},
-			"2017-01": {"total":801563.06, "Childrens Services":801563.06},
-			"2017-02": {"total":6720.00, "Childrens Services":6720.00},
-			"2017-03": {"total":1192776.01, "Childrens Services":1192776.01},
-			"2017-04": {"total":628012.69, "Childrens Services":628012.69},
-			"2017-05": {"total":707353.05, "Childrens Services":707353.05},
-			"2017-06": {"total":642061.82, "Childrens Services":642061.82},
-			"2017-08": {"total":1313264.52, "Childrens Services":1313264.52},
-			"2017-10": {"total":1244895.24, "Childrens Services":1244895.24},
-			"2017-11": {"total":665171.82, "Childrens Services":665171.82},
-			"2017-12": {"total":667920.35, "Childrens Services":667920.35},
-			"2018-01": {"total":666720.73, "Childrens Services":666720.73},
-			"2018-02": {"total":611477.14, "Childrens Services":611477.14},
-			"2018-03": {"total":610033.15, "Childrens Services":610033.15},
-			"2018-05": {"total":1356137.54, "Childrens Services":1356137.54},
-			"2018-07": {"total":1139108.86, "People (Childrens) Service Group":1139108.86},
-			"2018-08": {"total":625392.80, "People (Childrens) Service Group":625392.80},
-			"2018-09": {"total":1218621.76, "People (Childrens) Service Group":1218621.76},
-			"2018-10": {"total":671210.16, "People (Childrens) Service Group":671210.16},
-			"2018-11": {"total":683730.67, "People (Childrens) Service Group":683730.67},
-			"2018-12": {"total":660519.43, "People (Childrens) Service Group":660519.43},
-			"2019-01": {"total":669551.37, "People (Childrens) Service Group":669551.37},
-			"2019-02": {"total":622767.58, "People (Childrens) Service Group":622767.58},
-			"2019-03": {"total":1362029.60, "Capital Expenditure":99548.52, "People (Childrens) Service Group":1262481.08},
-			"2019-05": {"total":1985500.25, "People (Childrens) Service Group":1985500.25},
-			"2019-06": {"total":2673151.49, "People (Childrens) Service Group":2673151.49},
-			"2019-07": {"total":1296737.06, "People (Childrens) Service Group":1296737.06},
-			"2019-08": {"total":709540.02, "People (Childrens) Service Group":709540.02},
-			"2019-09": {"total":1307318.64, "People (Childrens) Service Group":1307318.64},
-			"2019-10": {"total":618329.40, "People (Childrens) Service Group":618329.40},
-			"2019-11": {"total":632610.49, "People (Childrens) Service Group":632610.49},
-			"2019-12": {"total":657943.01, "People (Childrens) Service Group":657943.01},
-			"2020-02": {"total":5430217.56, "People (Childrens) Service Group":5430217.56},
-			"2020-03": {"total":648712.18, "People (Childrens) Service Group":648712.18},
-			"2020-04": {"total":672790.74, "People (Childrens) Service Group":672790.74},
-			"2020-06": {"total":628887.56, "People (Childrens) Service Group":628887.56},
-			"2020-07": {"total":1236001.68, "People (Childrens) Service Group":1236001.68},
-			"2020-08": {"total":618000.84, "People (Childrens) Service Group":618000.84},
-			"2020-09": {"total":618000.84, "People (Childrens) Service Group":618000.84},
-			"2020-10": {"total":636898.96, "People (Childrens) Service Group":636898.96},
-			"2020-11": {"total":645050.26, "People (Childrens) Service Group":645050.26},
-			"2020-12": {"total":715338.68, "People (Childrens) Service Group":715338.68},
-			"2021-01": {"total":646090.92, "People (Childrens) Service Group":646090.92},
-			"2021-03": {"total":597315.58, "People (Childrens) Service Group":597315.58},
-			"2021-05": {"total":677652.56, "People (Childrens) Service Group":677652.56},
-			"2021-06": {"total":631970.18, "People (Childrens) Service Group":631970.18}
-		}
-	},
-	"9230": {
-		"name": "Salford Scientific Supplies Ltd",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"9231": {
-		"name": "Salford Sea Cadets",
-		"total": 21015,
-		"monthly": {
-			"2021-04": {"total":18765.00, "Service Reform (Corp Bus & Transform)":18765.00},
-			"2021-05": {"total":2250.00, "Service Reform (Corp Bus & Transform)":2250.00}
-		}
-	},
-	"9232": {
-		"name": "Salford Sea Cadets (T S Ilex)",
-		"total": 20000,
-		"monthly": {
-			"2020-07": {"total":20000.00, "Service Reform (Corp Bus & Transform)":20000.00}
-		}
-	},
-	"9233": {
-		"name": "Salford Sea Cadets (Ts Ilex)",
-		"total": 21015,
-		"monthly": {
-			"2021-04": {"total":18765.00, "Service Reform (Corp Bus & Transform)":18765.00},
-			"2021-05": {"total":2250.00, "Service Reform (Corp Bus & Transform)":2250.00}
-		}
-	},
-	"9234": {
-		"name": "Salford Sings",
-		"total": 1500,
-		"monthly": {
-			"2020-03": {"total":1500.00, "Place Directorate":1500.00}
-		}
-	},
-	"9235": {
-		"name": "Salford Storm Football Club",
-		"total": 8234.89,
-		"monthly": {
-			"2019-10": {"total":1613.89, "Place Directorate":1613.89},
-			"2020-07": {"total":4000.00, "Place Directorate":4000.00},
-			"2020-10": {"total":2621.00, "Place Directorate":2621.00}
-		}
-	},
-	"9236": {
-		"name": "Salford Stroke Club",
-		"total": 556.32,
-		"monthly": {
-			"2012-01": {"total":556.32, "Customer and Support Services":556.32}
-		}
-	},
-	"9237": {
-		"name": "Salford Sunbeds",
-		"total": 10000,
-		"monthly": {
-			"2020-04": {"total":10000.00, "Service Reform (Corp Bus & Transform)":10000.00}
-		}
-	},
-	"9238": {
-		"name": "Salford Supply Desk",
-		"total": 2720.4,
-		"monthly": {
-			"2016-08": {"total":1724.40, "Childrens Services":1724.40},
-			"2016-09": {"total":996.00, "Childrens Services":996.00}
-		}
-	},
-	"9239": {
-		"name": "Salford Supply Desk Ltd",
-		"total": 175304.43,
-		"monthly": {
-			"2016-11": {"total":580.80, "Childrens Services":580.80},
-			"2016-12": {"total":1740.00, "Childrens Services":1740.00},
-			"2017-01": {"total":2820.00, "Childrens Services":2820.00},
-			"2017-02": {"total":1066.80, "Childrens Services":1066.80},
-			"2017-03": {"total":576.00, "Childrens Services":576.00},
-			"2017-07": {"total":2853.60, "Childrens Services":2853.60},
-			"2017-08": {"total":2850.00, "Childrens Services":2850.00},
-			"2017-09": {"total":1740.00, "Childrens Services":1740.00},
-			"2018-04": {"total":4390.80, "Childrens Services":4390.80},
-			"2018-05": {"total":9586.16, "Childrens Services":9586.16},
-			"2018-06": {"total":11702.45, "Childrens Services":11702.45},
-			"2018-07": {"total":11722.80, "People (Childrens) Service Group":11722.80},
-			"2018-08": {"total":13688.05, "People (Childrens) Service Group":13688.05},
-			"2018-09": {"total":5325.32, "People (Childrens) Service Group":5325.32},
-			"2018-10": {"total":4048.32, "People (Childrens) Service Group":4048.32},
-			"2018-12": {"total":635.10, "People (Childrens) Service Group":635.10},
-			"2019-01": {"total":1762.20, "People (Childrens) Service Group":1762.20},
-			"2019-03": {"total":6115.08, "People (Childrens) Service Group":6115.08},
-			"2019-04": {"total":14541.79, "People (Childrens) Service Group":14541.79},
-			"2019-05": {"total":10735.05, "People (Childrens) Service Group":10735.05},
-			"2019-06": {"total":16293.99, "People (Childrens) Service Group":16293.99},
-			"2019-07": {"total":31225.40, "People (Childrens) Service Group":31225.40},
-			"2019-08": {"total":10983.77, "People (Childrens) Service Group":10983.77},
-			"2019-09": {"total":6708.64, "People (Childrens) Service Group":6708.64},
-			"2019-10": {"total":1612.31, "People (Childrens) Service Group":1612.31}
-		}
-	},
-	"9240": {
-		"name": "Salford Talking News",
-		"total": 10803,
-		"monthly": {
-			"2012-07": {"total":3601.00, "Community Health & Social Care":3601.00},
-			"2013-09": {"total":3601.00, "Community, Health & Social Care":3601.00},
-			"2014-06": {"total":3601.00, "Community, Health & Social Care":3601.00}
-		}
-	},
-	"9241": {
-		"name": "Salford Taverns Ltd",
-		"total": 25000,
-		"monthly": {
-			"2020-06": {"total":25000.00, "Service Reform (Corp Bus & Transform)":25000.00}
-		}
-	},
-	"9242": {
-		"name": "Salford Third Sector Consortium",
-		"total": 72500,
-		"monthly": {
-			"2016-04": {"total":72500.00, "Community, Health & Social Care":72500.00}
-		}
-	},
-	"9243": {
-		"name": "Salford Triathlon",
-		"total": 1500,
-		"monthly": {
-			"2013-10": {"total":1500.00, "Office of the Chief Executive":1500.00}
-		}
-	},
-	"9244": {
-		"name": "Salford Unemployed & Community Centre",
-		"total": 14000,
-		"monthly": {
-			"2012-07": {"total":14000.00, "Sustainable Regeneration":14000.00}
-		}
-	},
-	"9245": {
-		"name": "Salford University Students Union",
-		"total": 3150,
-		"monthly": {
-			"2013-06": {"total":590.00, "Community Health & Social Care":590.00},
-			"2014-09": {"total":1560.00, "Customer and Support Services":1560.00},
-			"2015-04": {"total":1000.00, "Customer and Support Services":1000.00}
-		}
-	},
-	"9246": {
-		"name": "Salford Van Hire",
-		"total": 3471.6,
-		"monthly": {
-			"2012-05": {"total":2875.00, "Community Health & Social Care":2875.00},
-			"2012-11": {"total":596.60, "Community, Health & Social Care":596.60}
-		}
-	},
-	"9247": {
-		"name": "Salford Van Hire Ltd",
-		"total": 10399.63,
-		"monthly": {
-			"2016-08": {"total":588.00, "Corporate Business":588.00},
-			"2017-07": {"total":1906.48, "Corporate Business":1906.48},
-			"2018-01": {"total":822.30, "Service Reform":822.30},
-			"2018-06": {"total":1060.86, "Service Reform":1060.86},
-			"2018-07": {"total":530.20, "Service Reform (Corp Bus & Transform)":530.20},
-			"2019-06": {"total":2059.79, "Service Reform (Corp Bus & Transform)":2059.79},
-			"2019-07": {"total":1632.00, "People (Childrens) Service Group":1632.00},
-			"2020-01": {"total":1800.00, "Service Reform (Corp Bus & Transform)":1800.00}
-		}
-	},
-	"9248": {
-		"name": "Salford Victoria Theatre Trust",
-		"total": 12000,
-		"monthly": {
-			"2020-02": {"total":12000.00, "Place Directorate":12000.00}
-		}
-	},
-	"9249": {
-		"name": "Salford Volunteer Rangers Forum",
-		"total": 4805.52,
-		"monthly": {
-			"2014-02": {"total":1800.00, "Customer and Support Services":1800.00},
-			"2018-10": {"total":1102.52, "Place Directorate":1102.52},
-			"2019-01": {"total":1903.00, "Place Directorate":1903.00}
 		}
 	}
 	}
