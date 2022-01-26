@@ -1,29 +1,595 @@
 {
-	"range": ["2014-04","2021-04"],
+	"range": ["2014-04","2021-11"],
 	"data": {
 	"850": {
-		"name": "BP EDUCATION",
-		"total": 2015,
+		"name": "BON MARCHE",
+		"total": 32,
 		"monthly": {
-			"2020-10": {"total":827.50, "Children's & Education Services":827.50},
-			"2020-12": {"total":1187.50, "Children's & Education Services":1187.50}
+			"2015-08": {"total":32.00, "Children's & Education Services":32.00}
 		}
 	},
 	"851": {
+		"name": "BONA VACANTIA DIVISION",
+		"total": 3482.48,
+		"monthly": {
+			"2016-07": {"total":3482.48, "Adult Social Care":3482.48}
+		}
+	},
+	"852": {
+		"name": "BONDCARE - DE BALLIOL",
+		"total": 110195.56,
+		"monthly": {
+			"2014-10": {"total":1091.59, "Adult Social Care":1091.59},
+			"2014-11": {"total":1804.50, "Adult Social Care":1804.50},
+			"2014-12": {"total":2280.30, "Adult Social Care":2280.30},
+			"2015-01": {"total":912.12, "Adult Social Care":912.12},
+			"2016-05": {"total":2344.44, "Health, Education, Care and Safeguarding":2344.44},
+			"2016-06": {"total":2344.44, "Health, Education, Care and Safeguarding":2344.44},
+			"2016-07": {"total":2344.44, "Adult Social Care":2344.44},
+			"2016-08": {"total":2930.55, "Health, Education, Care and Safeguarding":2930.55},
+			"2016-09": {"total":2344.44, "Health, Education, Care and Safeguarding":2344.44},
+			"2016-10": {"total":3450.69, "Adult Social Care":3450.69},
+			"2016-11": {"total":2521.44, "Adult Social Care":2521.44},
+			"2016-12": {"total":2521.44, "Adult Social Care":2521.44},
+			"2017-01": {"total":3151.80, "Adult Social Care":3151.80},
+			"2017-02": {"total":2521.44, "Adult Social Care":2521.44},
+			"2017-03": {"total":2521.44, "Adult Social Care":2521.44},
+			"2019-04": {"total":17980.20, "Adult Social Care":17980.20},
+			"2019-05": {"total":4876.16, "Adult Social Care":4876.16},
+			"2019-06": {"total":4876.16, "Adult Social Care":4876.16},
+			"2019-08": {"total":7413.00, "Adult Social Care":7413.00},
+			"2019-09": {"total":6291.00, "Adult Social Care":6291.00},
+			"2019-10": {"total":5032.80, "Adult Social Care":5032.80},
+			"2019-11": {"total":5032.80, "Adult Social Care":5032.80},
+			"2019-12": {"total":6291.00, "Adult Social Care":6291.00},
+			"2020-01": {"total":5032.80, "Adult Social Care":5032.80},
+			"2020-02": {"total":2847.52, "Adult Social Care":2847.52},
+			"2020-03": {"total":3559.40, "Adult Social Care":3559.40},
+			"2020-04": {"total":3559.40, "Adult Social Care":3559.40},
+			"2020-05": {"total":2318.25, "Adult Social Care":2318.25}
+		}
+	},
+	"853": {
+		"name": "BONDCARE SHAFTESBURY LTD",
+		"total": 346173.6,
+		"monthly": {
+			"2014-04": {"total":4545.60, "Adult Social Care":4545.60},
+			"2014-05": {"total":3284.40, "Adult Social Care":3284.40},
+			"2014-06": {"total":4105.50, "Adult Social Care":4105.50},
+			"2014-07": {"total":34450.34, "Adult Social Care":34450.34},
+			"2014-08": {"total":3788.16, "Adult Social Care":3788.16},
+			"2014-09": {"total":4735.20, "Adult Social Care":4735.20},
+			"2014-10": {"total":11815.36, "Adult Social Care":11815.36},
+			"2014-11": {"total":5794.96, "Adult Social Care":5794.96},
+			"2014-12": {"total":7243.70, "Adult Social Care":7243.70},
+			"2015-01": {"total":5794.96, "Adult Social Care":5794.96},
+			"2015-02": {"total":5794.96, "Adult Social Care":5794.96},
+			"2015-03": {"total":7243.70, "Adult Social Care":7243.70},
+			"2015-04": {"total":5794.96, "Adult Social Care":5794.96},
+			"2015-05": {"total":5794.96, "Adult Social Care":5794.96},
+			"2015-06": {"total":7243.70, "Adult Social Care":7243.70},
+			"2015-07": {"total":4834.76, "Adult Social Care":4834.76},
+			"2015-08": {"total":3874.56, "Adult Social Care":3874.56},
+			"2015-09": {"total":4843.20, "Adult Social Care":4843.20},
+			"2015-10": {"total":3874.56, "Adult Social Care":3874.56},
+			"2015-11": {"total":34643.07, "Adult Social Care":34643.07},
+			"2015-12": {"total":4003.20, "Adult Social Care":4003.20},
+			"2016-01": {"total":4003.20, "Health, Education, Care and Safeguarding":4003.20},
+			"2016-02": {"total":5004.00, "Adult Social Care":5004.00},
+			"2016-03": {"total":4003.20, "Health, Education, Care and Safeguarding":4003.20},
+			"2016-04": {"total":4003.20, "Health, Education, Care and Safeguarding":4003.20},
+			"2016-05": {"total":5004.00, "Health, Education, Care and Safeguarding":5004.00},
+			"2016-06": {"total":4003.20, "Health, Education, Care and Safeguarding":4003.20},
+			"2016-07": {"total":4003.20, "Adult Social Care":4003.20},
+			"2016-08": {"total":5004.00, "Health, Education, Care and Safeguarding":5004.00},
+			"2016-09": {"total":26154.53, "Health, Education, Care and Safeguarding":26154.53},
+			"2016-10": {"total":4122.96, "Adult Social Care":4122.96},
+			"2016-11": {"total":4122.96, "Adult Social Care":4122.96},
+			"2016-12": {"total":4122.96, "Adult Social Care":4122.96},
+			"2017-01": {"total":5153.70, "Adult Social Care":5153.70},
+			"2017-02": {"total":4122.96, "Adult Social Care":4122.96},
+			"2017-03": {"total":4122.96, "Adult Social Care":4122.96},
+			"2019-04": {"total":2156.72, "Adult Social Care":2156.72},
+			"2019-05": {"total":3269.68, "Adult Social Care":3021.14, "Public Health":248.54},
+			"2019-06": {"total":3709.56, "Adult Social Care":3235.08, "Public Health":474.48},
+			"2019-08": {"total":2518.97, "Adult Social Care":2518.97},
+			"2019-09": {"total":2782.15, "Adult Social Care":2782.15},
+			"2019-10": {"total":2225.72, "Adult Social Care":2225.72},
+			"2019-11": {"total":2225.72, "Adult Social Care":2225.72},
+			"2019-12": {"total":2782.15, "Adult Social Care":2782.15},
+			"2020-01": {"total":2225.72, "Adult Social Care":2225.72},
+			"2020-02": {"total":2225.72, "Adult Social Care":2225.72},
+			"2020-03": {"total":2782.15, "Adult Social Care":2782.15},
+			"2020-04": {"total":2782.15, "Adult Social Care":2782.15},
+			"2020-05": {"total":2516.69, "Adult Social Care":2516.69},
+			"2020-06": {"total":3861.30, "Adult Social Care":3861.30},
+			"2020-07": {"total":2595.20, "Adult Social Care":2595.20},
+			"2020-08": {"total":2595.20, "Adult Social Care":2595.20},
+			"2020-09": {"total":3244.00, "Adult Social Care":3244.00},
+			"2020-10": {"total":2887.16, "Adult Social Care":2595.20, "Planning Services":291.96},
+			"2020-11": {"total":3244.00, "Adult Social Care":3244.00},
+			"2020-12": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-01": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-02": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-03": {"total":3244.00, "Adult Social Care":3244.00},
+			"2021-04": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-05": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-06": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-07": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-08": {"total":3244.00, "Adult Social Care":3244.00},
+			"2021-09": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-10": {"total":2595.20, "Adult Social Care":2595.20},
+			"2021-11": {"total":3244.00, "Adult Social Care":3244.00}
+		}
+	},
+	"854": {
+		"name": "BONDCHEM LTD",
+		"alternate-names": [
+			"BONDCHEM LIMITED"
+		],
+		"total": 14366,
+		"monthly": {
+			"2020-05": {"total":2634.00, "Planning Services":2634.00},
+			"2020-08": {"total":10098.00, "Planning Services":10098.00},
+			"2020-11": {"total":1634.00, "Planning Services":1634.00}
+		}
+	},
+	"855": {
+		"name": "BOOHOO",
+		"total": 180.31,
+		"monthly": {
+
+		}
+	},
+	"856": {
+		"name": "BOOK CLUB PAY SERVICE",
+		"total": 9,
+		"monthly": {
+			"2014-10": {"total":9.00, "Children, Young People & Learning":9.00}
+		}
+	},
+	"857": {
+		"name": "BOOK DEPOSITORY",
+		"total": 768.6,
+		"monthly": {
+			"2014-08": {"total":87.45, "Environment & Leisure":87.45},
+			"2019-12": {"total":681.15, "Children's & Education Services":681.15}
+		}
+	},
+	"858": {
+		"name": "BOOK NETWORK INTERNATIONAL LTD",
+		"alternate-names": [
+			"BOOK NETWORK INTERNATIONAL LIMITED"
+		],
+		"total": 74.97,
+		"monthly": {
+			"2014-08": {"total":74.97, "Law & Governance":74.97}
+		}
+	},
+	"859": {
+		"name": "BOOK SNOZONEUK",
+		"total": 136.6,
+		"monthly": {
+			"2014-04": {"total":46.62, "Children, Young People & Learning":46.62},
+			"2014-09": {"total":89.98, "Children, Young People & Learning":89.98}
+		}
+	},
+	"860": {
+		"name": "BOOK WHEN",
+		"total": 117,
+		"monthly": {
+
+		}
+	},
+	"861": {
+		"name": "BOOK YOUR THEORY TEST",
+		"total": 43.99,
+		"monthly": {
+			"2015-11": {"total":43.99, "Children's & Education Services":43.99}
+		}
+	},
+	"862": {
+		"name": "BOOKER BELMONT WHOLESALE LTD",
+		"alternate-names": [
+			"BOOKER BELMONT WHOLESALE LIMITED"
+		],
+		"total": 840.17,
+		"monthly": {
+			"2014-05": {"total":175.68, "Environment & Leisure":175.68},
+			"2014-06": {"total":53.79, "Environment & Leisure":53.79},
+			"2014-08": {"total":96.49, "Environment & Leisure":96.49},
+			"2014-11": {"total":147.54, "Cultural & Related Services":147.54},
+			"2015-06": {"total":62.73, "Cultural & Related Services":62.73},
+			"2016-08": {"total":33.74, "Children's & Education Services":33.74},
+			"2019-08": {"total":270.20, "Cultural & Related Services":270.20}
+		}
+	},
+	"863": {
+		"name": "BOOKERECOMM",
+		"total": 11427.01,
+		"monthly": {
+			"2014-09": {"total":161.81, "Environment & Leisure":161.81},
+			"2014-10": {"total":488.19, "Environment & Leisure":488.19},
+			"2014-12": {"total":163.09, "Cultural & Related Services":163.09},
+			"2015-01": {"total":113.93, "Cultural & Related Services":113.93},
+			"2015-02": {"total":92.42, "Cultural & Related Services":92.42},
+			"2015-03": {"total":118.54, "Cultural & Related Services":118.54},
+			"2015-04": {"total":122.99, "Cultural & Related Services":122.99},
+			"2015-05": {"total":640.00, "Cultural & Related Services":640.00},
+			"2015-06": {"total":401.15, "Cultural & Related Services":401.15},
+			"2015-08": {"total":962.76, "Cultural & Related Services":962.76},
+			"2015-09": {"total":733.15, "Cultural & Related Services":733.15},
+			"2015-10": {"total":380.27, "Cultural & Related Services":380.27},
+			"2015-11": {"total":106.77, "Cultural & Related Services":106.77},
+			"2016-01": {"total":198.06, "Cultural & Related Services":198.06},
+			"2016-02": {"total":206.66, "Cultural & Related Services":206.66},
+			"2016-03": {"total":136.32, "unknown":136.32},
+			"2016-04": {"total":359.72, "Cultural & Related Services":359.72},
+			"2016-05": {"total":453.41, "Cultural & Related Services":453.41},
+			"2016-06": {"total":518.78, "Cultural & Related Services":518.78},
+			"2016-07": {"total":606.07, "Cultural & Related Services":606.07},
+			"2016-09": {"total":879.10, "Cultural & Related Services":879.10},
+			"2016-10": {"total":578.06, "Cultural & Related Services":578.06},
+			"2016-11": {"total":101.88, "Cultural & Related Services":101.88},
+			"2016-12": {"total":243.09, "Cultural & Related Services":243.09},
+			"2017-01": {"total":104.05, "Cultural & Related Services":104.05},
+			"2017-02": {"total":115.18, "Cultural & Related Services":115.18},
+			"2019-04": {"total":183.84, "Cultural & Related Services":183.84},
+			"2019-05": {"total":526.29, "Cultural & Related Services":526.29},
+			"2019-06": {"total":351.87, "Cultural & Related Services":351.87},
+			"2019-08": {"total":511.48, "Cultural & Related Services":511.48},
+			"2019-09": {"total":262.99, "Cultural & Related Services":262.99},
+			"2020-01": {"total":111.16, "Cultural & Related Services":111.16},
+			"2020-02": {"total":123.66, "Cultural & Related Services":123.66}
+		}
+	},
+	"864": {
+		"name": "BOOKPOINT LTD",
+		"alternate-names": [
+			"BOOKPOINT LIMITED"
+		],
+		"total": 1030.58,
+		"monthly": {
+			"2014-08": {"total":54.58, "Children, Young People & Learning":54.58},
+			"2014-10": {"total":279.17, "Children, Young People & Learning":279.17},
+			"2014-11": {"total":180.00, "Children's & Education Services":180.00},
+			"2015-03": {"total":136.00, "Children's & Education Services":136.00},
+			"2016-01": {"total":100.83, "Children's & Education Services":100.83},
+			"2016-04": {"total":280.00, "Environment, Housing & Leisure":280.00}
+		}
+	},
+	"865": {
+		"name": "BOOKTRUST",
+		"total": 112627.81,
+		"monthly": {
+			"2014-07": {"total":22636.85, "Children, Young People & Learning":22636.85},
+			"2015-01": {"total":20539.50, "Children's & Education Services":20539.50},
+			"2016-01": {"total":35261.25, "Commissioning & Investment":35261.25},
+			"2019-08": {"total":8432.45, "Children's & Education Services":8432.45},
+			"2020-04": {"total":15552.54, "Children's & Education Services":15552.54},
+			"2021-04": {"total":10205.22, "Children's & Education Services":10205.22}
+		}
+	},
+	"866": {
+		"name": "BOOSEY AND HAWKES",
+		"total": 14,
+		"monthly": {
+			"2016-02": {"total":14.00, "Cultural & Related Services":14.00}
+		}
+	},
+	"867": {
+		"name": "BOOST",
+		"total": 75.5,
+		"monthly": {
+
+		}
+	},
+	"868": {
+		"name": "BOOTH & CO",
+		"total": 5.67,
+		"monthly": {
+			"2020-02": {"total":5.67, "Children's & Education Services":5.67}
+		}
+	},
+	"869": {
+		"name": "BOOTS THE CHEMISTS LTD",
+		"total": 1981.3,
+		"monthly": {
+			"2014-10": {"total":110.67, "Housing Revenue Account":110.67},
+			"2014-12": {"total":98.11, "Children's & Education Services":98.11},
+			"2015-01": {"total":74.13, "Children's & Education Services":74.13},
+			"2015-03": {"total":23.23, "Adult Social Care":20.49, "Children's & Education Services":2.74},
+			"2015-04": {"total":65.45, "Children's & Education Services":65.45},
+			"2015-08": {"total":64.71, "Children's & Education Services":64.71},
+			"2015-10": {"total":8.50, "Children's & Education Services":8.50},
+			"2015-11": {"total":10.58, "Children's & Education Services":8.25, "Cultural & Related Services":2.33},
+			"2016-01": {"total":383.38, "Children's & Education Services":383.38},
+			"2016-02": {"total":39.79, "Children's & Education Services":39.79},
+			"2016-04": {"total":40.78, "Children's & Education Services":40.78},
+			"2016-05": {"total":20.65, "Children's & Education Services":20.65},
+			"2016-07": {"total":49.58, "Children's & Education Services":49.58},
+			"2016-09": {"total":16.05, "Children's & Education Services":16.05},
+			"2016-10": {"total":88.60, "Children's & Education Services":88.60},
+			"2016-11": {"total":46.45, "unknown":46.45},
+			"2016-12": {"total":23.07, "Children's & Education Services":23.07},
+			"2017-01": {"total":149.12, "Children's & Education Services":149.12},
+			"2019-05": {"total":21.63, "Children's & Education Services":21.63},
+			"2019-06": {"total":27.91, "Children's & Education Services":27.91},
+			"2019-08": {"total":69.39, "Children's & Education Services":69.39},
+			"2019-12": {"total":84.82, "Children's & Education Services":84.82},
+			"2020-01": {"total":25.56, "Children's & Education Services":25.56},
+			"2020-02": {"total":38.18, "Children's & Education Services":38.18},
+			"2020-03": {"total":12.50, "Children's & Education Services":12.50},
+			"2020-04": {"total":74.21, "Children's & Education Services":74.21}
+		}
+	},
+	"870": {
+		"name": "BOOTS UK LTD",
+		"total": 193402.93,
+		"monthly": {
+			"2014-05": {"total":23222.94, "Public Health":23222.94},
+			"2014-06": {"total":4770.00, "Public Health":4770.00},
+			"2014-07": {"total":11740.20, "Public Health":11740.20},
+			"2014-08": {"total":17566.87, "Public Health":17566.87},
+			"2014-09": {"total":1216.92, "Public Health":1216.92},
+			"2014-10": {"total":7426.77, "Public Health":7426.77},
+			"2014-11": {"total":2130.00, "Public Health":2130.00},
+			"2014-12": {"total":1560.00, "Public Health":1560.00},
+			"2015-01": {"total":6203.64, "Adult Social Care":2680.84, "Public Health":3522.80},
+			"2015-03": {"total":3150.00, "Public Health":3150.00},
+			"2015-04": {"total":5995.98, "Adult Social Care":1801.28, "Public Health":4194.70},
+			"2015-05": {"total":1560.00, "Public Health":1560.00},
+			"2015-06": {"total":1920.00, "Public Health":1920.00},
+			"2015-07": {"total":6949.22, "Adult Social Care":3398.03, "Public Health":3551.19},
+			"2015-08": {"total":2010.00, "Public Health":2010.00},
+			"2015-09": {"total":1376.32, "Children's & Education Services":26.32, "Public Health":1350.00},
+			"2015-10": {"total":11544.39, "Adult Social Care":3881.96, "Public Health":7662.43},
+			"2015-11": {"total":1020.00, "Public Health":1020.00},
+			"2015-12": {"total":1020.00, "Public Health":1020.00},
+			"2016-01": {"total":5617.10, "Children's & Education Services":73.38, "Public Health":5543.72},
+			"2016-02": {"total":1244.58, "Children's & Education Services":14.58, "Public Health":1230.00},
+			"2016-03": {"total":630.00, "Health, Education, Care and Safeguarding":630.00},
+			"2016-04": {"total":7527.87, "Health, Education, Care and Safeguarding":7527.87},
+			"2016-05": {"total":600.00, "Health, Education, Care and Safeguarding":600.00},
+			"2016-06": {"total":680.20, "Health, Education, Care and Safeguarding":630.00, "Children's & Education Services":50.20},
+			"2016-07": {"total":3973.28, "Public Health":3973.28},
+			"2016-08": {"total":1290.00, "Health, Education, Care and Safeguarding":1290.00},
+			"2016-09": {"total":1303.33, "Health, Education, Care and Safeguarding":1290.00, "Children's & Education Services":13.33},
+			"2016-10": {"total":5565.14, "Children's & Education Services":17.37, "Public Health":5547.77},
+			"2016-11": {"total":1170.00, "Public Health":1170.00},
+			"2016-12": {"total":1320.00, "Public Health":1320.00},
+			"2017-01": {"total":6051.08, "Public Health":6051.08},
+			"2017-02": {"total":1380.00, "Public Health":1380.00},
+			"2017-03": {"total":1264.20, "Children's & Education Services":64.20, "Public Health":1200.00},
+			"2019-04": {"total":6537.25, "Public Health":6537.25},
+			"2019-05": {"total":3270.00, "Public Health":3270.00},
+			"2019-10": {"total":2707.78, "Public Health":2707.78},
+			"2020-01": {"total":3574.07, "Public Health":3574.07},
+			"2020-04": {"total":3679.42, "Public Health":3679.42},
+			"2020-07": {"total":3431.71, "Public Health":3431.71},
+			"2020-11": {"total":3923.18, "Public Health":3923.18},
+			"2021-01": {"total":3476.83, "Public Health":3476.83},
+			"2021-04": {"total":3693.33, "Public Health":3693.33},
+			"2021-07": {"total":3476.83, "Public Health":3476.83},
+			"2021-11": {"total":3476.83, "Public Health":3476.83}
+		}
+	},
+	"871": {
+		"name": "BORDER EMBROIDERIES LTD(SCHOOL UNIFORMS ONLY)",
+		"total": 540,
+		"monthly": {
+			"2021-08": {"total":540.00, "Children's & Education Services":540.00}
+		}
+	},
+	"872": {
+		"name": "BORDER SIGNS & GRAPHIX LTD",
+		"total": 15285,
+		"monthly": {
+			"2015-06": {"total":10300.00, "Capital":10300.00},
+			"2015-07": {"total":240.00, "Capital":240.00},
+			"2016-02": {"total":1850.00, "Capital":1850.00},
+			"2019-09": {"total":2895.00, "Capital":1175.00, "Cultural & Related Services":860.00, "Planning Services":860.00}
+		}
+	},
+	"873": {
+		"name": "BOROUGH IT LTD",
+		"total": 650,
+		"monthly": {
+			"2020-04": {"total":50.00, "Capital":50.00}
+		}
+	},
+	"874": {
+		"name": "BOS LEISURE BRISTOL LTD T/A POOL MARKET",
+		"total": 64.96,
+		"monthly": {
+			"2014-08": {"total":64.96, "Environment & Leisure":64.96}
+		}
+	},
+	"875": {
+		"name": "BOSTONSEEDS.CO.UK",
+		"total": 58.29,
+		"monthly": {
+			"2019-09": {"total":58.29, "Environmental & Regulatory Services":58.29}
+		}
+	},
+	"876": {
+		"name": "BOUNCYVIBE PARTY HIRE LTD",
+		"total": 2500,
+		"monthly": {
+			"2015-10": {"total":875.00, "Children's & Education Services":875.00},
+			"2016-03": {"total":675.00, "Environment, Housing & Leisure":675.00},
+			"2016-05": {"total":950.00, "Corporate Strategy":950.00}
+		}
+	},
+	"877": {
+		"name": "BOUNDARY MILL STORE",
+		"total": 1420.2,
+		"monthly": {
+			"2014-04": {"total":45.71, "Environment & Leisure":45.71},
+			"2014-06": {"total":8.33, "Children, Young People & Learning":8.33},
+			"2014-07": {"total":38.72, "Children, Young People & Learning":38.72},
+			"2014-08": {"total":336.42, "Children, Young People & Learning":336.42},
+			"2014-09": {"total":45.59, "Children, Young People & Learning":28.22, "Commissioning & Fair Access":7.55, "Law & Governance":9.82},
+			"2014-10": {"total":12.00, "Commissioning & Fair Access":12.00},
+			"2014-12": {"total":141.62, "Cultural & Related Services":141.62},
+			"2015-01": {"total":9.00, "Children's & Education Services":9.00},
+			"2015-05": {"total":48.00, "Adult Social Care":48.00},
+			"2015-08": {"total":54.19, "Children's & Education Services":54.19},
+			"2015-09": {"total":70.84, "Children's & Education Services":70.84},
+			"2016-01": {"total":170.70, "Children's & Education Services":170.70},
+			"2016-02": {"total":206.47, "Children's & Education Services":206.47},
+			"2016-03": {"total":8.25, "unknown":8.25},
+			"2016-09": {"total":67.94, "Children's & Education Services":67.94},
+			"2016-12": {"total":111.65, "Cultural & Related Services":111.65},
+			"2017-02": {"total":1.43, "Central Services":1.43},
+			"2017-03": {"total":43.34, "Adult Social Care":6.67, "Children's & Education Services":36.67}
+		}
+	},
+	"878": {
+		"name": "BOUNTY.CO.UK",
+		"total": 207.99,
+		"monthly": {
+			"2014-11": {"total":207.99, "Adult Social Care":207.99}
+		}
+	},
+	"879": {
+		"name": "BOURNE LEISURE",
+		"total": 877.1,
+		"monthly": {
+			"2015-01": {"total":434.60, "Children's & Education Services":434.60},
+			"2015-05": {"total":192.50, "Children's & Education Services":192.50},
+			"2016-01": {"total":250.00, "Children's & Education Services":250.00}
+		}
+	},
+	"880": {
+		"name": "BOURNE LEISURE LTD",
+		"total": 15130.72,
+		"monthly": {
+			"2016-03": {"total":3560.16, "Health, Education, Care and Safeguarding":3560.16},
+			"2016-07": {"total":298.46, "Children's & Education Services":298.46},
+			"2016-11": {"total":2623.90, "Children's & Education Services":2623.90},
+			"2017-03": {"total":446.63, "Children's & Education Services":446.63},
+			"2019-05": {"total":304.28, "Children's & Education Services":304.28},
+			"2019-06": {"total":306.63, "Children's & Education Services":306.63},
+			"2019-09": {"total":69.15, "Children's & Education Services":69.15},
+			"2020-02": {"total":3393.23, "Children's & Education Services":3393.23},
+			"2020-03": {"total":221.87, "Children's & Education Services":221.87},
+			"2020-04": {"total":56.67, "Children's & Education Services":56.67},
+			"2021-02": {"total":3849.74, "Children's & Education Services":3849.74}
+		}
+	},
+	"881": {
+		"name": "BOURNEMOUTH CONVENTION BUREAU LTD",
+		"total": 1266.67,
+		"monthly": {
+			"2019-05": {"total":525.00, "Central Services":525.00},
+			"2020-03": {"total":741.67, "Central Services":741.67}
+		}
+	},
+	"882": {
+		"name": "BOURNEMOUTH SURF SCHOOL LTD T/A SURF STEP",
+		"total": 550,
+		"monthly": {
+			"2021-10": {"total":550.00, "Environmental & Regulatory Services":550.00}
+		}
+	},
+	"883": {
+		"name": "BOUTIQUE EVENT HIRE LTD",
+		"total": 2840,
+		"monthly": {
+			"2021-11": {"total":2840.00, "Cultural & Related Services":1020.00, "Environmental & Regulatory Services":1820.00}
+		}
+	},
+	"884": {
+		"name": "BOWCOCK SECURITY SERVICES / ILM ASSOCIATES",
+		"total": 9390,
+		"monthly": {
+			"2015-01": {"total":3740.00, "Central Services":3740.00},
+			"2015-02": {"total":4526.00, "Central Services":4526.00},
+			"2016-11": {"total":484.00, "Children's & Education Services":484.00},
+			"2019-11": {"total":640.00, "Cultural & Related Services":640.00}
+		}
+	},
+	"885": {
+		"name": "BOWLAND LODGE",
+		"total": 84842.58,
+		"monthly": {
+			"2019-04": {"total":2278.52, "Adult Social Care":2278.52},
+			"2019-05": {"total":2535.16, "Adult Social Care":2535.16},
+			"2019-06": {"total":2406.84, "Adult Social Care":2406.84},
+			"2019-08": {"total":2406.84, "Adult Social Care":2406.84},
+			"2019-09": {"total":3008.55, "Adult Social Care":3008.55},
+			"2019-10": {"total":2406.84, "Adult Social Care":2406.84},
+			"2019-11": {"total":2406.84, "Adult Social Care":2406.84},
+			"2019-12": {"total":3008.55, "Adult Social Care":3008.55},
+			"2020-01": {"total":2406.84, "Adult Social Care":2406.84},
+			"2020-02": {"total":2406.84, "Adult Social Care":2406.84},
+			"2020-03": {"total":3008.55, "Adult Social Care":3008.55},
+			"2020-04": {"total":3008.55, "Adult Social Care":3008.55},
+			"2020-05": {"total":2756.63, "Adult Social Care":2756.63},
+			"2020-06": {"total":3209.25, "Adult Social Care":3209.25},
+			"2020-07": {"total":2567.40, "Adult Social Care":2567.40},
+			"2020-08": {"total":2567.40, "Adult Social Care":2567.40},
+			"2020-09": {"total":3209.25, "Adult Social Care":3209.25},
+			"2020-10": {"total":2856.23, "Adult Social Care":2567.40, "Planning Services":288.83},
+			"2020-11": {"total":3209.25, "Adult Social Care":3209.25},
+			"2020-12": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-01": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-02": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-03": {"total":3209.25, "Adult Social Care":3209.25},
+			"2021-04": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-05": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-06": {"total":2567.40, "Adult Social Care":2567.40},
+			"2021-07": {"total":2780.18, "Adult Social Care":2780.18},
+			"2021-08": {"total":3273.45, "Adult Social Care":3273.45},
+			"2021-09": {"total":2618.76, "Adult Social Care":2618.76},
+			"2021-10": {"total":2618.76, "Adult Social Care":2618.76},
+			"2021-11": {"total":3273.45, "Adult Social Care":3273.45}
+		}
+	},
+	"886": {
+		"name": "BOX LTD",
+		"alternate-names": [
+			"BOX LIMITED"
+		],
+		"total": 340.77,
+		"monthly": {
+			"2014-09": {"total":340.77, "Children, Young People & Learning":340.77}
+		}
+	},
+	"887": {
+		"name": "BOXERCISE",
+		"total": 169,
+		"monthly": {
+			"2014-10": {"total":30.00, "Children, Young People & Learning":30.00},
+			"2014-11": {"total":139.00, "Cultural & Related Services":139.00}
+		}
+	},
+	"888": {
+		"name": "BP EDUCATION",
+		"total": 4502.5,
+		"monthly": {
+			"2020-10": {"total":827.50, "Children's & Education Services":827.50},
+			"2020-12": {"total":1187.50, "Children's & Education Services":1187.50},
+			"2021-05": {"total":407.50, "Children's & Education Services":407.50},
+			"2021-09": {"total":2080.00, "Children's & Education Services":2080.00}
+		}
+	},
+	"889": {
 		"name": "BP FILLING STATIONS",
 		"total": 3.32,
 		"monthly": {
 			"2016-09": {"total":3.32, "Children's & Education Services":3.32}
 		}
 	},
-	"852": {
+	"890": {
 		"name": "BP KIRKBY MOTORS",
 		"total": 25.01,
 		"monthly": {
 			"2014-06": {"total":25.01, "Children, Young People & Learning":25.01}
 		}
 	},
-	"853": {
+	"891": {
 		"name": "BP LANE END GARAGE",
 		"total": 36.05,
 		"monthly": {
@@ -31,7 +597,7 @@
 			"2015-08": {"total":18.82, "Cultural & Related Services":18.82}
 		}
 	},
-	"854": {
+	"892": {
 		"name": "BPP PROFESSIONAL EDUCATION",
 		"total": 3089,
 		"monthly": {
@@ -39,7 +605,7 @@
 			"2020-12": {"total":2634.00, "Children's & Education Services":2634.00}
 		}
 	},
-	"855": {
+	"893": {
 		"name": "BPS ACCESS SOLUTIONS LTD",
 		"total": 133.31,
 		"monthly": {
@@ -47,21 +613,21 @@
 			"2014-08": {"total":24.99, "Environment & Leisure":24.99}
 		}
 	},
-	"856": {
+	"894": {
 		"name": "BRADFORD AND BINGLEY",
 		"total": 65.15,
 		"monthly": {
 			"2016-10": {"total":65.15, "Adult Social Care":65.15}
 		}
 	},
-	"857": {
+	"895": {
 		"name": "BRADLEYS MASTER LOCKSMITHS LTD",
 		"total": 354.42,
 		"monthly": {
 			"2017-02": {"total":354.42, "Children's & Education Services":354.42}
 		}
 	},
-	"858": {
+	"896": {
 		"name": "BRADSTOWE LODGE CARE HOME",
 		"total": 65228.4199999998,
 		"monthly": {
@@ -101,14 +667,14 @@
 			"2017-01": {"total":1787.08, "Adult Social Care":1787.08}
 		}
 	},
-	"859": {
+	"897": {
 		"name": "BRADY CORPORATION LTD",
 		"total": 75,
 		"monthly": {
 			"2014-05": {"total":75.00, "Adult Social Care":75.00}
 		}
 	},
-	"860": {
+	"898": {
 		"name": "BRAID HILLS CARE HOME",
 		"total": 167913.23,
 		"monthly": {
@@ -150,579 +716,12 @@
 			"2017-03": {"total":76063.15, "Adult Social Care":76063.15}
 		}
 	},
-	"861": {
+	"899": {
 		"name": "BRAKES",
 		"total": 1302.65,
 		"monthly": {
 			"2015-03": {"total":758.79, "Children's & Education Services":758.79},
 			"2015-11": {"total":543.86, "Children's & Education Services":543.86}
-		}
-	},
-	"862": {
-		"name": "BRAKES BROS LTD",
-		"total": 1077187.0700001,
-		"monthly": {
-			"2019-04": {"total":97021.92, "Adult Social Care":1068.28, "Children's & Education Services":95523.64, "Cultural & Related Services":430.00},
-			"2019-05": {"total":59860.94, "Adult Social Care":1447.07, "Children's & Education Services":56930.56, "Cultural & Related Services":1483.31},
-			"2019-06": {"total":65175.28, "Adult Social Care":654.00, "Children's & Education Services":63787.56, "Cultural & Related Services":733.72},
-			"2019-08": {"total":53721.38, "Adult Social Care":1181.17, "Children's & Education Services":51288.15, "Cultural & Related Services":1252.06},
-			"2019-09": {"total":13798.81, "Adult Social Care":944.31, "Children's & Education Services":11681.53, "Cultural & Related Services":1172.97},
-			"2019-12": {"total":100631.93, "Adult Social Care":406.98, "Children's & Education Services":100145.47, "Cultural & Related Services":79.48},
-			"2020-01": {"total":68935.78, "Adult Social Care":369.62, "Children's & Education Services":68473.44, "Cultural & Related Services":92.72},
-			"2020-02": {"total":103552.87, "Adult Social Care":905.37, "Children's & Education Services":102370.61, "Cultural & Related Services":276.89},
-			"2020-03": {"total":80962.30, "Adult Social Care":609.19, "Children's & Education Services":80005.67, "Cultural & Related Services":347.44},
-			"2020-04": {"total":63907.15, "Adult Social Care":446.16, "Children's & Education Services":63088.69, "Cultural & Related Services":372.30}
-		}
-	},
-	"863": {
-		"name": "BRAMBLE HUB LTD",
-		"alternate-names": [
-			"BRAMBLE HUB LIMITED"
-		],
-		"total": 312019.19,
-		"monthly": {
-			"2019-04": {"total":80733.26, "Capital":80733.26},
-			"2019-09": {"total":68860.74, "Capital":68860.74},
-			"2019-12": {"total":22960.74, "Capital":22960.74},
-			"2020-03": {"total":22960.74, "Housing Services":22960.74},
-			"2020-07": {"total":45921.49, "Housing Services":45921.49},
-			"2020-09": {"total":22960.74, "Housing Services":22960.74},
-			"2020-12": {"total":22960.74, "Housing Services":22960.74},
-			"2021-03": {"total":1700.00, "Housing Services":1700.00},
-			"2021-04": {"total":22960.74, "Housing Services":22960.74}
-		}
-	},
-	"864": {
-		"name": "BRAMBLEDOWN LANDSCAPES",
-		"total": 27859.73,
-		"monthly": {
-			"2020-03": {"total":4116.00, "Capital":4116.00},
-			"2021-03": {"total":23743.73, "Capital":23743.73}
-		}
-	},
-	"865": {
-		"name": "BRAMBLES FOODS LTD",
-		"alternate-names": [
-			"BRAMBLES FOODS LIMITED"
-		],
-		"total": 81035.4899999999,
-		"monthly": {
-			"2014-04": {"total":8877.67, "Commissioning & Fair Access":8877.67},
-			"2014-05": {"total":6936.48, "Commissioning & Fair Access":6936.48},
-			"2014-06": {"total":6547.80, "Commissioning & Fair Access":6547.80},
-			"2014-07": {"total":5217.30, "Commissioning & Fair Access":5217.30},
-			"2014-08": {"total":9929.32, "Commissioning & Fair Access":9929.32},
-			"2014-10": {"total":6720.50, "Commissioning & Fair Access":6720.50},
-			"2014-11": {"total":6043.13, "Children's & Education Services":6043.13},
-			"2014-12": {"total":6427.99, "Children's & Education Services":6427.99},
-			"2015-01": {"total":12131.92, "Children's & Education Services":12131.92},
-			"2015-02": {"total":11160.33, "Children's & Education Services":11160.33},
-			"2015-03": {"total":1043.05, "Children's & Education Services":1043.05}
-		}
-	},
-	"866": {
-		"name": "BRAMBLES PRIMARY ACADEMY",
-		"total": 600,
-		"monthly": {
-			"2020-12": {"total":600.00, "Children's & Education Services":600.00}
-		}
-	},
-	"867": {
-		"name": "BRANDON HIRE LTD",
-		"total": 4076.59,
-		"monthly": {
-			"2016-07": {"total":166.67, "Cultural & Related Services":166.67},
-			"2021-03": {"total":2393.39, "Capital":1033.19, "Housing Services":1360.20},
-			"2021-04": {"total":1516.53, "Capital":582.91, "Housing Services":933.62}
-		}
-	},
-	"868": {
-		"name": "BRANNEN AND PARTNERS",
-		"total": 325,
-		"monthly": {
-			"2020-10": {"total":325.00, "Housing Services":325.00}
-		}
-	},
-	"869": {
-		"name": "BRAZILIAN SOCCER SCHOOLS (NORTH TYNESIDE)",
-		"total": 998.85,
-		"monthly": {
-			"2014-04": {"total":369.71, "Environment & Leisure":369.71},
-			"2014-05": {"total":320.00, "Environment & Leisure":320.00},
-			"2014-06": {"total":309.14, "Environment & Leisure":309.14}
-		}
-	},
-	"870": {
-		"name": "BRE LTD",
-		"total": 12500,
-		"monthly": {
-			"2015-07": {"total":2000.00, "Housing Revenue Account":2000.00},
-			"2016-03": {"total":5250.00, "Environment, Housing & Leisure":5250.00},
-			"2016-07": {"total":5250.00, "Housing Revenue Account":5250.00}
-		}
-	},
-	"871": {
-		"name": "BREATHE EASY GROUP (WALLSEND)",
-		"total": 400,
-		"monthly": {
-			"2016-09": {"total":400.00, "Corporate Strategy":400.00}
-		}
-	},
-	"872": {
-		"name": "BREEZE STRATEGY LTD",
-		"alternate-names": [
-			"BREEZE STRATEGY LIMITED"
-		],
-		"total": 24000,
-		"monthly": {
-			"2014-09": {"total":1000.00, "Business & Economy":1000.00},
-			"2014-10": {"total":3050.00, "Business & Economy":3050.00},
-			"2014-11": {"total":850.00, "Planning Services":850.00},
-			"2015-01": {"total":1700.00, "Planning Services":1700.00},
-			"2015-02": {"total":850.00, "Planning Services":850.00},
-			"2015-04": {"total":1700.00, "Planning Services":1700.00},
-			"2015-11": {"total":12375.00, "Planning Services":12375.00},
-			"2016-03": {"total":2475.00, "Business & Economic Development":2475.00}
-		}
-	},
-	"873": {
-		"name": "BRENDA STEEL CONSULTANCY SERVICES",
-		"total": 2700,
-		"monthly": {
-			"2016-06": {"total":500.00, "Law & Governance":500.00},
-			"2016-07": {"total":700.00, "Children's & Education Services":700.00},
-			"2017-01": {"total":1500.00, "Children's & Education Services":1500.00}
-		}
-	},
-	"874": {
-		"name": "BRENNTAG UK LTD",
-		"alternate-names": [
-			"BRENNTAG UK LIMITED"
-		],
-		"total": 25834.95,
-		"monthly": {
-			"2016-01": {"total":2159.50, "Environment, Leisure & Housing":1361.00, "Cultural & Related Services":798.50},
-			"2016-02": {"total":1732.77, "Cultural & Related Services":1732.77},
-			"2016-03": {"total":2267.51, "Environment, Housing & Leisure":2267.51},
-			"2016-04": {"total":3523.56, "Environment, Housing & Leisure":3523.56},
-			"2016-05": {"total":1361.00, "Environment, Housing & Leisure":1361.00},
-			"2016-06": {"total":3221.10, "Environment, Housing & Leisure":3221.10},
-			"2016-07": {"total":2443.50, "Cultural & Related Services":2443.50},
-			"2016-08": {"total":1834.36, "Environment, Housing & Leisure":1834.36},
-			"2016-09": {"total":6404.80, "Environment, Housing & Leisure":6404.80},
-			"2016-11": {"total":886.85, "Cultural & Related Services":886.85}
-		}
-	},
-	"875": {
-		"name": "BRENSHAW LTD",
-		"alternate-names": [
-			"BRENSHAW LIMITED"
-		],
-		"total": 1492.13,
-		"monthly": {
-			"2015-01": {"total":1492.13, "Capital":1492.13}
-		}
-	},
-	"876": {
-		"name": "BRETT FUELS",
-		"total": 8341371.59,
-		"monthly": {
-			"2014-04": {"total":98444.40, "Environment & Leisure":98444.40},
-			"2014-05": {"total":63421.36, "Environment & Leisure":63421.36},
-			"2014-06": {"total":70601.60, "Adult Social Care":1837.20, "Environment & Leisure":68764.40},
-			"2014-07": {"total":61742.95, "Environment & Leisure":61742.95},
-			"2014-08": {"total":6390080.81, "Environment & Leisure":6390080.81},
-			"2014-09": {"total":63600.00, "Environment & Leisure":63600.00},
-			"2014-10": {"total":63052.12, "Environment & Leisure":63052.12},
-			"2014-11": {"total":76222.10, "Unallocated":76222.10},
-			"2014-12": {"total":34349.97, "Adult Social Care":1656.30, "Cultural & Related Services":1255.50, "Unallocated":31438.17},
-			"2015-01": {"total":119374.39, "Adult Social Care":3033.35, "Unallocated":116341.04},
-			"2015-02": {"total":55350.10, "Cultural & Related Services":1533.10, "Unallocated":53817.00},
-			"2015-03": {"total":31733.10, "Adult Social Care":3323.10, "Cultural & Related Services":810.00, "Unallocated":27600.00},
-			"2015-04": {"total":165996.04, "Unallocated":165996.04},
-			"2015-05": {"total":56664.43, "Adult Social Care":1517.92, "Cultural & Related Services":1197.70, "Unallocated":53948.81},
-			"2015-06": {"total":31500.94, "Unallocated":31500.94},
-			"2015-07": {"total":122637.62, "Cultural & Related Services":240.65, "Unallocated":122396.97},
-			"2015-08": {"total":26039.07, "Unallocated":26039.07},
-			"2015-09": {"total":54420.00, "Cultural & Related Services":1620.00, "Unallocated":52800.00},
-			"2015-10": {"total":87637.78, "Cultural & Related Services":7236.00, "Unallocated":80401.78},
-			"2015-11": {"total":54937.26, "Adult Social Care":1626.57, "Children's & Education Services":789.77, "Unallocated":52520.92},
-			"2015-12": {"total":78643.58, "Adult Social Care":1392.65, "Children's & Education Services":724.15, "Unallocated":76526.78},
-			"2016-01": {"total":51954.82, "Children, Young People & Learning":755.52, "Environment, Leisure & Housing":49800.00, "Health, Education, Care and Safeguarding":1399.30},
-			"2016-02": {"total":93374.67, "Children's & Education Services":719.23, "Unallocated":92655.44},
-			"2016-03": {"total":50035.40, "Environment, Housing & Leisure":46431.20, "Health, Education, Care and Safeguarding":3604.20},
-			"2016-04": {"total":51290.96, "Environment, Housing & Leisure":50400.00, "Health, Education, Care and Safeguarding":890.96},
-			"2016-05": {"total":38972.80, "Environment, Housing & Leisure":37400.00, "Health, Education, Care and Safeguarding":1572.80},
-			"2016-06": {"total":54098.19, "Environment, Housing & Leisure":53444.00, "Health, Education, Care and Safeguarding":654.19},
-			"2016-07": {"total":53654.75, "Cultural & Related Services":254.75, "Unallocated":53400.00},
-			"2016-08": {"total":53394.66, "Environment, Housing & Leisure":53394.66},
-			"2016-09": {"total":2973.33, "Health, Education, Care and Safeguarding":2973.33},
-			"2016-11": {"total":5370.58, "Adult Social Care":2271.78, "Cultural & Related Services":2836.90, "unknown":261.90},
-			"2016-12": {"total":3155.60, "Adult Social Care":2084.00, "Children's & Education Services":1071.60},
-			"2017-01": {"total":2904.91, "Adult Social Care":1663.50, "Children's & Education Services":1241.41},
-			"2017-02": {"total":1247.40, "Children's & Education Services":1247.40},
-			"2017-03": {"total":3421.20, "Adult Social Care":2194.80, "Children's & Education Services":1226.40},
-			"2019-04": {"total":2337.87, "Children's & Education Services":2016.67, "Cultural & Related Services":321.20},
-			"2019-05": {"total":4454.23, "Adult Social Care":2419.55, "Children's & Education Services":2034.68},
-			"2019-06": {"total":324.40, "Cultural & Related Services":324.40},
-			"2019-09": {"total":1551.10, "Cultural & Related Services":1551.10},
-			"2019-10": {"total":2099.70, "Children's & Education Services":2099.70},
-			"2019-11": {"total":4553.50, "Adult Social Care":2455.60, "Children's & Education Services":2097.90},
-			"2019-12": {"total":3508.55, "Adult Social Care":3161.70, "Cultural & Related Services":346.85},
-			"2020-01": {"total":2502.40, "Adult Social Care":2502.40},
-			"2020-02": {"total":7815.90, "Adult Social Care":2488.50, "Children's & Education Services":4135.80, "Cultural & Related Services":1191.60},
-			"2020-03": {"total":7185.65, "Adult Social Care":3148.20, "Children's & Education Services":4037.45},
-			"2020-04": {"total":1438.50, "Children's & Education Services":1438.50},
-			"2020-05": {"total":2659.90, "Adult Social Care":2659.90},
-			"2020-07": {"total":1739.79, "Children's & Education Services":1447.69, "Cultural & Related Services":292.10},
-			"2020-10": {"total":2872.80, "Children's & Education Services":1582.80, "Cultural & Related Services":1290.00},
-			"2020-11": {"total":2828.25, "Adult Social Care":2828.25},
-			"2020-12": {"total":1644.06, "Children's & Education Services":1644.06},
-			"2021-01": {"total":4152.62, "Adult Social Care":3282.76, "Children's & Education Services":869.86},
-			"2021-02": {"total":2320.91, "Children's & Education Services":2007.31, "Cultural & Related Services":313.60},
-			"2021-03": {"total":9492.04, "Adult Social Care":9492.04},
-			"2021-04": {"total":3590.53, "Adult Social Care":2499.73, "Children's & Education Services":1090.80}
-		}
-	},
-	"877": {
-		"name": "BREW & BROWNIE",
-		"total": 11.25,
-		"monthly": {
-			"2019-06": {"total":11.25, "Children's & Education Services":11.25}
-		}
-	},
-	"878": {
-		"name": "BREWERS",
-		"total": 251.9,
-		"monthly": {
-
-		}
-	},
-	"879": {
-		"name": "BRIAN ORD",
-		"total": 360,
-		"monthly": {
-			"2017-02": {"total":360.00, "Children's & Education Services":360.00}
-		}
-	},
-	"880": {
-		"name": "BRIAR DENE",
-		"total": 250091.779999998,
-		"monthly": {
-			"2014-04": {"total":3878.83, "Adult Social Care":3878.83},
-			"2014-05": {"total":3879.88, "Adult Social Care":3879.88},
-			"2014-06": {"total":4849.85, "Adult Social Care":4849.85},
-			"2014-07": {"total":3879.88, "Adult Social Care":3879.88},
-			"2014-08": {"total":3879.88, "Adult Social Care":3879.88},
-			"2014-09": {"total":4849.85, "Adult Social Care":4849.85},
-			"2014-10": {"total":3879.88, "Adult Social Care":3879.88},
-			"2014-11": {"total":3879.88, "Adult Social Care":2909.91, "Housing Services":969.97},
-			"2014-12": {"total":4849.85, "Adult Social Care":4849.85},
-			"2015-01": {"total":3879.88, "Adult Social Care":3879.88},
-			"2015-02": {"total":3879.88, "Adult Social Care":3879.88},
-			"2015-03": {"total":4849.85, "Adult Social Care":4849.85},
-			"2015-04": {"total":4100.48, "Adult Social Care":4100.48},
-			"2015-05": {"total":3961.08, "Adult Social Care":3961.08},
-			"2015-06": {"total":4951.35, "Adult Social Care":4951.35},
-			"2015-07": {"total":3961.08, "Adult Social Care":3961.08},
-			"2015-08": {"total":3961.08, "Adult Social Care":3961.08},
-			"2015-09": {"total":4951.35, "Adult Social Care":4951.35},
-			"2015-10": {"total":3961.08, "Adult Social Care":3961.08},
-			"2015-11": {"total":4951.35, "Adult Social Care":4951.35},
-			"2015-12": {"total":3961.08, "Adult Social Care":3961.08},
-			"2016-01": {"total":3961.08, "Health, Education, Care and Safeguarding":3961.08},
-			"2016-02": {"total":4951.35, "Adult Social Care":4951.35},
-			"2016-03": {"total":3961.08, "Health, Education, Care and Safeguarding":3961.08},
-			"2016-04": {"total":3961.08, "Health, Education, Care and Safeguarding":3961.08},
-			"2016-05": {"total":4951.35, "Health, Education, Care and Safeguarding":4951.35},
-			"2016-06": {"total":3961.08, "Health, Education, Care and Safeguarding":3961.08},
-			"2016-07": {"total":3961.08, "Adult Social Care":3961.08},
-			"2016-08": {"total":4951.35, "Health, Education, Care and Safeguarding":4951.35},
-			"2016-09": {"total":3961.08, "Health, Education, Care and Safeguarding":3961.08},
-			"2016-10": {"total":3961.08, "Adult Social Care":3961.08},
-			"2016-11": {"total":3961.08, "Adult Social Care":3961.08},
-			"2016-12": {"total":3961.08, "Adult Social Care":3961.08},
-			"2017-01": {"total":4951.35, "Adult Social Care":4951.35},
-			"2017-02": {"total":3961.08, "Adult Social Care":3961.08},
-			"2017-03": {"total":3961.08, "Adult Social Care":3961.08},
-			"2019-04": {"total":3973.38, "Adult Social Care":3973.38},
-			"2019-05": {"total":3974.68, "Adult Social Care":3974.68},
-			"2019-06": {"total":3974.68, "Adult Social Care":3974.68},
-			"2019-08": {"total":3974.68, "Adult Social Care":3974.68},
-			"2019-09": {"total":4968.35, "Adult Social Care":4968.35},
-			"2019-10": {"total":3974.68, "Adult Social Care":3974.68},
-			"2019-11": {"total":3974.68, "Adult Social Care":3974.68},
-			"2019-12": {"total":4968.35, "Adult Social Care":4968.35},
-			"2020-01": {"total":3974.68, "Adult Social Care":3974.68},
-			"2020-02": {"total":3974.68, "Adult Social Care":3974.68},
-			"2020-03": {"total":4968.35, "Adult Social Care":4968.35},
-			"2020-04": {"total":4977.15, "Adult Social Care":4977.15},
-			"2020-05": {"total":3983.48, "Adult Social Care":3983.48},
-			"2020-06": {"total":4979.35, "Adult Social Care":4979.35},
-			"2020-07": {"total":3983.48, "Adult Social Care":3983.48},
-			"2020-08": {"total":3983.48, "Adult Social Care":3983.48},
-			"2020-09": {"total":4979.35, "Adult Social Care":4979.35},
-			"2020-10": {"total":3538.03, "Adult Social Care":3137.48, "Planning Services":400.55},
-			"2020-11": {"total":3921.85, "Adult Social Care":3921.85},
-			"2020-12": {"total":3137.48, "Adult Social Care":3137.48},
-			"2021-01": {"total":3137.48, "Adult Social Care":3137.48},
-			"2021-02": {"total":3137.48, "Adult Social Care":3137.48},
-			"2021-03": {"total":3921.85, "Adult Social Care":3921.85},
-			"2021-04": {"total":3135.53, "Adult Social Care":3135.53}
-		}
-	},
-	"881": {
-		"name": "BRIDGMAN IBC LTD",
-		"total": 239775.2,
-		"monthly": {
-			"2019-10": {"total":8205.43, "Capital":7385.83, "Housing Services":819.60},
-			"2020-09": {"total":162767.73, "Housing Services":162767.73},
-			"2020-10": {"total":68802.04, "Housing Services":68802.04}
-		}
-	},
-	"882": {
-		"name": "BRIGHT BOOKS SUPPLIES LTD",
-		"total": 1487.32,
-		"monthly": {
-			"2014-04": {"total":506.92, "Environment & Leisure":506.92},
-			"2014-06": {"total":266.00, "Environment & Leisure":266.00},
-			"2014-08": {"total":395.20, "Environment & Leisure":395.20},
-			"2014-11": {"total":319.20, "Cultural & Related Services":319.20}
-		}
-	},
-	"883": {
-		"name": "BRIGHT FUTURES",
-		"total": 840,
-		"monthly": {
-			"2021-01": {"total":360.00, "Adult Social Care":360.00},
-			"2021-02": {"total":480.00, "Children's & Education Services":480.00}
-		}
-	},
-	"884": {
-		"name": "BRIGHTSOLID ONLINE PUBLISHING LTD",
-		"total": 5633.33,
-		"monthly": {
-			"2014-04": {"total":1050.00, "Environment & Leisure":1050.00},
-			"2014-10": {"total":4583.33, "Environment & Leisure":4583.33}
-		}
-	},
-	"885": {
-		"name": "BRISBAY LTD",
-		"total": 3562.7,
-		"monthly": {
-			"2014-06": {"total":483.00, "DCE - Technical Package":483.00},
-			"2014-11": {"total":497.40, "Environmental & Regulatory Services":497.40},
-			"2015-06": {"total":497.40, "Environmental & Regulatory Services":497.40},
-			"2015-12": {"total":512.30, "Environmental & Regulatory Services":512.30},
-			"2016-06": {"total":512.30, "Environment, Housing & Leisure":512.30},
-			"2016-12": {"total":514.30, "Environmental & Regulatory Services":514.30},
-			"2019-05": {"total":546.00, "Environmental & Regulatory Services":447.72, "Highways & Transport Services":98.28}
-		}
-	},
-	"886": {
-		"name": "BRISTOW & SUTOR",
-		"total": 809524.52,
-		"monthly": {
-			"2019-10": {"total":231327.36, "Highways & Transport Services":231327.36},
-			"2020-03": {"total":517793.71, "Highways & Transport Services":517793.71},
-			"2020-07": {"total":60403.45, "Highways & Transport Services":60403.45},
-			"2021-01": {"total":0.00, "Highways & Transport Services":0.00}
-		}
-	},
-	"887": {
-		"name": "BRITA WATER FILTER SYSTEMS LTD",
-		"total": 690.34,
-		"monthly": {
-			"2014-12": {"total":169.50, "Adult Social Care":169.50},
-			"2015-06": {"total":169.50, "Adult Social Care":169.50},
-			"2016-01": {"total":175.67, "Adult Social Care":175.67},
-			"2016-07": {"total":175.67, "Adult Social Care":175.67}
-		}
-	},
-	"888": {
-		"name": "BRITANNIA HOTELS",
-		"total": 900.77,
-		"monthly": {
-			"2020-03": {"total":57.00, "Housing Services":57.00}
-		}
-	},
-	"889": {
-		"name": "BRITISH ASSOCIATION FOR SUPPORTED EMPLOYMENT",
-		"total": 1775,
-		"monthly": {
-			"2014-06": {"total":275.00, "Adult Social Care":275.00},
-			"2015-06": {"total":300.00, "Adult Social Care":300.00},
-			"2016-09": {"total":300.00, "Health, Education, Care and Safeguarding":300.00},
-			"2019-04": {"total":300.00, "Children's & Education Services":300.00},
-			"2020-03": {"total":300.00, "Children's & Education Services":300.00},
-			"2021-03": {"total":300.00, "Children's & Education Services":300.00}
-		}
-	},
-	"890": {
-		"name": "BRITISH CYCLING FEDERATION",
-		"total": 1032,
-		"monthly": {
-			"2014-06": {"total":32.00, "Children, Young People & Learning":32.00},
-			"2019-10": {"total":1000.00, "Environmental & Regulatory Services":1000.00}
-		}
-	},
-	"891": {
-		"name": "BRITISH FOSSILS",
-		"total": 2560.57,
-		"monthly": {
-			"2014-05": {"total":597.60, "Environment & Leisure":597.60},
-			"2014-07": {"total":160.70, "Environment & Leisure":160.70},
-			"2014-08": {"total":130.30, "Environment & Leisure":130.30},
-			"2014-09": {"total":128.85, "Environment & Leisure":128.85},
-			"2014-12": {"total":268.15, "Cultural & Related Services":268.15},
-			"2015-05": {"total":510.17, "Cultural & Related Services":510.17},
-			"2015-08": {"total":143.95, "Cultural & Related Services":143.95},
-			"2015-09": {"total":93.10, "Cultural & Related Services":93.10},
-			"2015-10": {"total":213.30, "Cultural & Related Services":213.30},
-			"2016-04": {"total":314.45, "Cultural & Related Services":314.45}
-		}
-	},
-	"892": {
-		"name": "BRITISH GAS BUSINESS",
-		"total": 51359.86,
-		"monthly": {
-			"2014-04": {"total":1473.63, "Environment & Leisure":1473.63},
-			"2014-05": {"total":729.89, "Adult Social Care":729.89},
-			"2014-06": {"total":936.20, "Adult Social Care":692.91, "DCE - Technical Package":243.29},
-			"2014-07": {"total":1193.24, "Adult Social Care":429.80, "DCE - Technical Package":763.44},
-			"2014-08": {"total":822.55, "Adult Social Care":528.84, "DCE - Technical Package":293.71},
-			"2014-09": {"total":377.75, "Adult Social Care":377.75},
-			"2015-02": {"total":1134.76, "Capital":531.40, "Planning Services":603.36},
-			"2015-03": {"total":2004.11, "Adult Social Care":489.14, "Planning Services":1514.97},
-			"2015-04": {"total":749.36, "Adult Social Care":501.82, "Planning Services":247.54},
-			"2015-05": {"total":486.57, "Adult Social Care":486.57},
-			"2015-06": {"total":521.30, "Adult Social Care":521.30},
-			"2015-08": {"total":11191.74, "Adult Social Care":818.97, "Planning Services":10372.77},
-			"2015-10": {"total":823.38, "Adult Social Care":823.38},
-			"2015-11": {"total":554.36, "Housing Revenue Account":228.02, "Planning Services":326.34},
-			"2015-12": {"total":930.64, "Adult Social Care":930.64},
-			"2016-01": {"total":272.71, "Commissioning & Investment":272.71},
-			"2016-03": {"total":797.78, "Health, Education, Care and Safeguarding":797.78},
-			"2016-04": {"total":280.36, "Commissioning & Investment":280.36},
-			"2016-05": {"total":1349.46, "Health, Education, Care and Safeguarding":1349.46},
-			"2016-07": {"total":5187.25, "Housing Services":3732.43, "Planning Services":1454.82},
-			"2016-08": {"total":1815.81, "Health, Education, Care and Safeguarding":331.00, "Commissioning & Investment":1484.81},
-			"2016-09": {"total":1727.89, "Commissioning & Investment":1727.89},
-			"2016-10": {"total":949.16, "Adult Social Care":288.88, "Planning Services":660.28},
-			"2016-12": {"total":684.49, "Adult Social Care":404.13, "Planning Services":280.36},
-			"2017-01": {"total":2385.37, "Adult Social Care":843.42, "Housing Services":33.88, "Planning Services":1508.07},
-			"2017-03": {"total":775.92, "Adult Social Care":775.92},
-			"2019-04": {"total":1018.33, "Housing Services":770.07, "Planning Services":248.26},
-			"2019-05": {"total":25.96, "Children's & Education Services":25.96},
-			"2019-08": {"total":1246.71, "Children's & Education Services":56.08, "Housing Services":316.89, "Planning Services":873.74},
-			"2019-09": {"total":15.00, "Children's & Education Services":15.00},
-			"2019-12": {"total":15.00, "Children's & Education Services":15.00},
-			"2020-01": {"total":390.73, "Children's & Education Services":30.00, "Housing Revenue Account":360.73},
-			"2020-02": {"total":30.00, "Children's & Education Services":30.00},
-			"2020-03": {"total":307.62, "Children's & Education Services":205.48, "Housing Revenue Account":102.14},
-			"2021-01": {"total":1017.73, "Housing Services":1017.73},
-			"2021-02": {"total":1365.83, "Housing Services":1365.83}
-		}
-	},
-	"893": {
-		"name": "BRITISH GAS TRADING LTD",
-		"alternate-names": [
-			"BRITISH GAS TRADING LIMITED"
-		],
-		"total": 34522.21,
-		"monthly": {
-			"2014-05": {"total":89.33, "Housing Revenue Account":89.33},
-			"2014-06": {"total":294.79, "Children, Young People & Learning":294.79},
-			"2014-08": {"total":690.00, "Adult Social Care":422.01, "Housing Revenue Account":267.99},
-			"2014-09": {"total":928.85, "Children, Young People & Learning":227.61, "Housing Revenue Account":701.24},
-			"2014-12": {"total":241.16, "Children's & Education Services":151.83, "Housing Revenue Account":89.33},
-			"2015-03": {"total":187.86, "Children's & Education Services":160.99, "Housing Revenue Account":26.87},
-			"2015-04": {"total":89.33, "Housing Revenue Account":89.33},
-			"2015-05": {"total":1563.61, "Adult Social Care":1243.61, "Capital":320.00},
-			"2015-06": {"total":1744.60, "Adult Social Care":845.30, "Children's & Education Services":226.97, "Housing Revenue Account":672.33},
-			"2015-07": {"total":449.06, "Adult Social Care":449.06},
-			"2015-08": {"total":2866.44, "Adult Social Care":1387.31, "Housing Revenue Account":1479.13},
-			"2015-09": {"total":1439.06, "Adult Social Care":1166.82, "Children's & Education Services":272.24},
-			"2015-10": {"total":1930.37, "Adult Social Care":1841.04, "Housing Revenue Account":89.33},
-			"2015-12": {"total":521.96, "Adult Social Care":521.96},
-			"2016-01": {"total":2054.45, "Health, Education, Care and Safeguarding":645.43, "Children's & Education Services":153.17, "Housing Revenue Account":1255.85},
-			"2016-02": {"total":407.75, "Adult Social Care":407.75},
-			"2016-03": {"total":1112.33, "Health, Education, Care and Safeguarding":588.96, "Children's & Education Services":251.23, "Housing Revenue Account":272.14},
-			"2016-04": {"total":2457.67, "Health, Education, Care and Safeguarding":737.40, "Housing Revenue Account":1720.27},
-			"2016-05": {"total":446.86, "Health, Education, Care and Safeguarding":446.86},
-			"2016-06": {"total":1921.07, "Children's & Education Services":286.61, "Housing Revenue Account":1634.46},
-			"2016-07": {"total":6443.13, "Adult Social Care":667.49, "Capital":5775.64},
-			"2016-08": {"total":419.38, "Health, Education, Care and Safeguarding":419.38},
-			"2016-09": {"total":184.02, "Children's & Education Services":184.02},
-			"2016-12": {"total":610.24, "Adult Social Care":429.82, "Children's & Education Services":180.42},
-			"2017-01": {"total":719.37, "Adult Social Care":719.37},
-			"2017-03": {"total":586.39, "Adult Social Care":403.24, "Children's & Education Services":183.15},
-			"2019-05": {"total":1088.69, "Adult Social Care":1088.69},
-			"2019-08": {"total":835.49, "Adult Social Care":835.49},
-			"2019-11": {"total":647.23, "Housing Services":647.23},
-			"2020-05": {"total":312.89, "Housing Services":312.89},
-			"2020-06": {"total":278.05, "Housing Services":278.05}
-		}
-	},
-	"894": {
-		"name": "BRITISH GEOLOGICAL SURVEY (NERC",
-		"total": 552,
-		"monthly": {
-			"2015-09": {"total":552.00, "Planning Services":552.00}
-		}
-	},
-	"895": {
-		"name": "BRITISH GYMNASTICS",
-		"total": 1376,
-		"monthly": {
-			"2015-03": {"total":638.00, "Cultural & Related Services":638.00},
-			"2015-07": {"total":319.00, "Children's & Education Services":319.00},
-			"2017-02": {"total":419.00, "Children's & Education Services":419.00}
-		}
-	},
-	"896": {
-		"name": "BRITISH HEART FOUNDATION",
-		"total": 9552.88,
-		"monthly": {
-			"2014-06": {"total":2000.00, "Public Health":2000.00},
-			"2014-09": {"total":185.41, "Children, Young People & Learning":185.41},
-			"2015-01": {"total":2000.00, "Public Health":2000.00},
-			"2015-04": {"total":400.00, "Cultural & Related Services":400.00},
-			"2016-01": {"total":245.82, "Children's & Education Services":245.82},
-			"2016-02": {"total":212.50, "Children's & Education Services":212.50},
-			"2016-03": {"total":29.17, "unknown":29.17},
-			"2016-10": {"total":3120.83, "Central Services":3000.00, "Children's & Education Services":120.83},
-			"2016-11": {"total":75.82, "Children's & Education Services":75.82},
-			"2016-12": {"total":308.33, "Children's & Education Services":308.33},
-			"2019-10": {"total":975.00, "Capital":975.00}
-		}
-	},
-	"897": {
-		"name": "BRITISH RED CROSS SOCIETY",
-		"total": 7834.91,
-		"monthly": {
-			"2014-08": {"total":1933.00, "Environment & Leisure":1933.00},
-			"2014-10": {"total":300.00, "Environment & Leisure":300.00},
-			"2015-07": {"total":2082.58, "Cultural & Related Services":2082.58},
-			"2015-08": {"total":532.00, "Children's & Education Services":532.00},
-			"2016-07": {"total":2987.33, "Cultural & Related Services":2987.33}
-		}
-	},
-	"898": {
-		"name": "BRITISH RESORTS AND DESTINATIONS ASSOCIATION",
-		"total": 3080,
-		"monthly": {
-			"2015-04": {"total":770.00, "Cultural & Related Services":770.00},
-			"2016-04": {"total":770.00, "Environment, Housing & Leisure":770.00},
-			"2019-04": {"total":770.00, "Cultural & Related Services":770.00},
-			"2020-07": {"total":770.00, "Cultural & Related Services":770.00}
-		}
-	},
-	"899": {
-		"name": "BRITISH SEED HOUSES LTD",
-		"total": 2350.2,
-		"monthly": {
-			"2016-04": {"total":2350.20, "Environment, Housing & Leisure":2350.20}
 		}
 	}
 	}

@@ -1,7 +1,375 @@
 {
-	"range": ["2014-04","2021-04"],
+	"range": ["2014-04","2021-11"],
 	"data": {
 	"450": {
+		"name": "ARRIVA NORTH EAST",
+		"total": 490681.4,
+		"monthly": {
+			"2014-04": {"total":88.00, "Adult Social Care":88.00},
+			"2016-11": {"total":4274.00, "Capital":4274.00},
+			"2019-04": {"total":216000.00, "Capital":216000.00},
+			"2019-09": {"total":90.00, "Central Services":90.00},
+			"2019-12": {"total":270090.00, "Capital":270000.00, "Central Services":90.00},
+			"2020-01": {"total":90.00, "Central Services":90.00},
+			"2020-02": {"total":49.40, "Central Services":49.40}
+		}
+	},
+	"451": {
+		"name": "ARROW",
+		"total": 100528.8,
+		"monthly": {
+			"2014-05": {"total":6772.00, "Business & Economy":6772.00},
+			"2014-06": {"total":1325.40, "Business & Economy":1325.40},
+			"2014-07": {"total":4230.00, "Business & Economy":4230.00},
+			"2014-09": {"total":2115.00, "Business & Economy":2115.00},
+			"2014-10": {"total":5358.00, "Business & Economy":5358.00},
+			"2014-11": {"total":564.00, "Planning Services":564.00},
+			"2014-12": {"total":4186.00, "Planning Services":4186.00},
+			"2015-02": {"total":1692.00, "Planning Services":1692.00},
+			"2015-03": {"total":8093.40, "Planning Services":8093.40},
+			"2015-04": {"total":15652.00, "Planning Services":15652.00},
+			"2015-05": {"total":1410.00, "Planning Services":1410.00},
+			"2015-06": {"total":3384.00, "Planning Services":3384.00},
+			"2015-08": {"total":3561.00, "Planning Services":3561.00},
+			"2015-09": {"total":11688.00, "Planning Services":11688.00},
+			"2016-02": {"total":1128.00, "Planning Services":1128.00},
+			"2016-03": {"total":350.00, "Business & Economic Development":350.00},
+			"2016-10": {"total":770.00, "Planning Services":770.00},
+			"2016-11": {"total":2150.00, "Children's & Education Services":500.00, "Planning Services":1650.00},
+			"2016-12": {"total":990.00, "Planning Services":990.00},
+			"2017-01": {"total":1350.00, "Children's & Education Services":250.00, "Planning Services":1100.00},
+			"2017-02": {"total":4840.00, "Planning Services":4840.00},
+			"2017-03": {"total":18920.00, "Planning Services":18920.00}
+		}
+	},
+	"452": {
+		"name": "ARROW CARS",
+		"total": 34.13,
+		"monthly": {
+			"2019-12": {"total":34.13, "Central Services":34.13}
+		}
+	},
+	"453": {
+		"name": "ARROW CORPORATE PROMOTIONS LTD",
+		"total": 515,
+		"monthly": {
+			"2019-09": {"total":515.00, "Planning Services":515.00}
+		}
+	},
+	"454": {
+		"name": "ART OF BRILLIANCE LTD",
+		"total": 4500,
+		"monthly": {
+			"2021-03": {"total":3000.00, "Children's & Education Services":3000.00},
+			"2021-05": {"total":1500.00, "Children's & Education Services":1500.00}
+		}
+	},
+	"455": {
+		"name": "ART OF MOTORCYCLING",
+		"total": 95.83,
+		"monthly": {
+			"2016-07": {"total":95.83, "Children's & Education Services":95.83}
+		}
+	},
+	"456": {
+		"name": "ART VENTURERS",
+		"total": 280,
+		"monthly": {
+			"2015-08": {"total":280.00, "Cultural & Related Services":280.00}
+		}
+	},
+	"457": {
+		"name": "ART.COM/ALLPOSTERS.COM",
+		"total": 79.82,
+		"monthly": {
+			"2015-06": {"total":79.82, "Children's & Education Services":79.82}
+		}
+	},
+	"458": {
+		"name": "ARTEMIS SUPPORT LTD",
+		"alternate-names": [
+			"ARTEMIS SUPPORT LIMITED"
+		],
+		"total": 253849.31,
+		"monthly": {
+			"2016-01": {"total":39400.00, "Children, Young People & Learning":39400.00},
+			"2016-02": {"total":46400.00, "Children's & Education Services":46400.00},
+			"2016-03": {"total":6628.57, "Health, Education, Care and Safeguarding":6628.57},
+			"2016-04": {"total":23200.00, "Health, Education, Care and Safeguarding":23200.00},
+			"2016-05": {"total":23200.00, "Health, Education, Care and Safeguarding":23200.00},
+			"2016-07": {"total":19885.71, "Children's & Education Services":19885.71},
+			"2019-06": {"total":6611.10, "Children's & Education Services":6611.10},
+			"2020-03": {"total":273.70, "Adult Social Care":273.70},
+			"2020-04": {"total":1084.06, "Adult Social Care":1084.06},
+			"2020-11": {"total":7074.93, "Planning Services":7074.93},
+			"2021-06": {"total":53415.49, "Children's & Education Services":39400.00, "Planning Services":14015.49},
+			"2021-07": {"total":17628.22, "Children's & Education Services":10553.29, "Planning Services":7074.93},
+			"2021-09": {"total":9047.53, "Planning Services":9047.53}
+		}
+	},
+	"459": {
+		"name": "ARTHOUSES",
+		"total": 1500,
+		"monthly": {
+			"2021-06": {"total":1500.00, "Cultural & Related Services":1500.00}
+		}
+	},
+	"460": {
+		"name": "ARTS PSYCHOTHERAPIES UK",
+		"total": 12801.5,
+		"monthly": {
+			"2019-11": {"total":261.25, "Children's & Education Services":261.25},
+			"2020-02": {"total":277.50, "Children's & Education Services":277.50},
+			"2020-03": {"total":376.50, "Children's & Education Services":376.50},
+			"2020-07": {"total":610.00, "Children's & Education Services":610.00},
+			"2020-11": {"total":260.00, "Children's & Education Services":260.00},
+			"2021-02": {"total":905.00, "Children's & Education Services":905.00},
+			"2021-03": {"total":1170.00, "Children's & Education Services":1170.00},
+			"2021-04": {"total":932.25, "Children's & Education Services":932.25},
+			"2021-05": {"total":1638.00, "Children's & Education Services":1638.00},
+			"2021-06": {"total":1598.00, "Children's & Education Services":1598.00},
+			"2021-07": {"total":930.00, "Children's & Education Services":930.00},
+			"2021-08": {"total":290.00, "Children's & Education Services":290.00},
+			"2021-10": {"total":2556.75, "Children's & Education Services":2556.75},
+			"2021-11": {"total":996.25, "Children's & Education Services":996.25}
+		}
+	},
+	"461": {
+		"name": "ARTVENTURERS NEWCASTLE & GATESHEAD",
+		"total": 760,
+		"monthly": {
+			"2021-09": {"total":760.00, "Cultural & Related Services":760.00}
+		}
+	},
+	"462": {
+		"name": "ARTVENTURERS NORTH TYNESIDE",
+		"total": 630,
+		"monthly": {
+			"2019-05": {"total":630.00, "Cultural & Related Services":630.00}
+		}
+	},
+	"463": {
+		"name": "ASA AWARDS SCHEME",
+		"total": 24919.69,
+		"monthly": {
+			"2014-04": {"total":378.00, "Environment & Leisure":378.00},
+			"2014-06": {"total":562.80, "Environment & Leisure":562.80},
+			"2014-07": {"total":1746.32, "Environment & Leisure":1746.32},
+			"2014-09": {"total":697.50, "Environment & Leisure":697.50},
+			"2014-12": {"total":717.35, "Cultural & Related Services":717.35},
+			"2015-01": {"total":183.30, "Cultural & Related Services":183.30},
+			"2015-03": {"total":2332.81, "Cultural & Related Services":2332.81},
+			"2015-04": {"total":558.75, "Cultural & Related Services":558.75},
+			"2015-05": {"total":368.55, "Cultural & Related Services":368.55},
+			"2015-06": {"total":433.33, "Cultural & Related Services":433.33},
+			"2015-07": {"total":303.80, "Cultural & Related Services":303.80},
+			"2015-08": {"total":2856.71, "Cultural & Related Services":2856.71},
+			"2015-09": {"total":817.75, "Cultural & Related Services":817.75},
+			"2015-10": {"total":699.40, "Cultural & Related Services":699.40},
+			"2015-12": {"total":1671.53, "Cultural & Related Services":1671.53},
+			"2016-02": {"total":686.28, "Cultural & Related Services":686.28},
+			"2016-03": {"total":1030.53, "Environment, Housing & Leisure":1030.53},
+			"2016-04": {"total":585.50, "Environment, Housing & Leisure":585.50},
+			"2016-05": {"total":1368.29, "Environment, Housing & Leisure":1368.29},
+			"2016-06": {"total":479.55, "Environment, Housing & Leisure":479.55},
+			"2016-07": {"total":3025.55, "Cultural & Related Services":3025.55},
+			"2016-08": {"total":655.90, "Environment, Housing & Leisure":655.90},
+			"2016-11": {"total":1057.50, "unknown":1057.50},
+			"2016-12": {"total":1337.11, "Cultural & Related Services":1337.11},
+			"2017-03": {"total":365.58, "Cultural & Related Services":365.58}
+		}
+	},
+	"464": {
+		"name": "ASA MERCHANDISING LTD",
+		"total": 1075.3,
+		"monthly": {
+			"2014-12": {"total":595.75, "Cultural & Related Services":595.75},
+			"2015-10": {"total":479.55, "Cultural & Related Services":479.55}
+		}
+	},
+	"465": {
+		"name": "ASB TRAINING LTD",
+		"total": 2700,
+		"monthly": {
+			"2016-02": {"total":2100.00, "Housing Revenue Account":2100.00},
+			"2016-03": {"total":600.00, "Housing Revenue Account":600.00}
+		}
+	},
+	"466": {
+		"name": "ASCEL",
+		"total": 1305,
+		"monthly": {
+			"2014-11": {"total":365.00, "Cultural & Related Services":365.00},
+			"2017-01": {"total":415.00, "Children's & Education Services":415.00},
+			"2020-01": {"total":525.00, "Children's & Education Services":525.00}
+		}
+	},
+	"467": {
+		"name": "ASCO EDUCATIONAL SUPPLIES LTD",
+		"total": 1532.31,
+		"monthly": {
+			"2014-04": {"total":1532.31, "Children, Young People & Learning":1532.31}
+		}
+	},
+	"468": {
+		"name": "ASCOT CARE CASTLEVIEW LTD",
+		"total": 6070.84,
+		"monthly": {
+			"2020-06": {"total":6070.84, "Adult Social Care":6070.84}
+		}
+	},
+	"469": {
+		"name": "ASDA BUSINESS REWARDS",
+		"total": 2975,
+		"monthly": {
+			"2015-03": {"total":2975.00, "Cultural & Related Services":2975.00}
+		}
+	},
+	"470": {
+		"name": "ASDA DIRECT WEB 4387",
+		"total": 3508.35,
+		"monthly": {
+			"2014-04": {"total":133.73, "Children, Young People & Learning":121.44, "Commissioning & Fair Access":12.29},
+			"2014-05": {"total":67.59, "Commissioning & Fair Access":43.79, "Environment & Leisure":23.80},
+			"2014-06": {"total":57.71, "Children, Young People & Learning":44.59, "Commissioning & Fair Access":6.42, "Environment & Leisure":6.70},
+			"2014-07": {"total":116.82, "Children, Young People & Learning":23.26, "Commissioning & Fair Access":46.43, "Housing Revenue Account":47.13},
+			"2014-08": {"total":96.27, "Commissioning & Fair Access":79.34, "Environment & Leisure":16.93},
+			"2014-09": {"total":8.41, "Children, Young People & Learning":8.41},
+			"2014-10": {"total":22.24, "Children, Young People & Learning":22.24},
+			"2014-11": {"total":84.23, "Adult Social Care":17.84, "Children's & Education Services":50.66, "Cultural & Related Services":2.34, "Housing Revenue Account":13.39},
+			"2014-12": {"total":38.65, "Children's & Education Services":36.73, "Cultural & Related Services":1.92},
+			"2015-01": {"total":36.02, "Children's & Education Services":21.52, "Cultural & Related Services":14.50},
+			"2015-02": {"total":10.97, "Children's & Education Services":10.97},
+			"2015-03": {"total":6.00, "Children's & Education Services":6.00},
+			"2015-04": {"total":85.72, "Children's & Education Services":80.42, "Cultural & Related Services":5.30},
+			"2015-05": {"total":130.46, "Children's & Education Services":64.54, "Cultural & Related Services":65.92},
+			"2015-06": {"total":14.13, "Children's & Education Services":14.13},
+			"2015-08": {"total":44.28, "Children's & Education Services":39.33, "Cultural & Related Services":4.95},
+			"2015-09": {"total":86.82, "Children's & Education Services":69.87, "Cultural & Related Services":16.95},
+			"2015-10": {"total":68.29, "Children's & Education Services":56.73, "Cultural & Related Services":11.56},
+			"2015-11": {"total":50.37, "Children's & Education Services":50.37},
+			"2016-01": {"total":78.91, "Central Services":29.22, "Children's & Education Services":14.01, "Cultural & Related Services":35.68},
+			"2016-02": {"total":40.86, "Children's & Education Services":24.19, "Cultural & Related Services":16.67},
+			"2016-03": {"total":5.33, "unknown":5.33},
+			"2016-05": {"total":64.77, "Children's & Education Services":29.62, "Cultural & Related Services":35.15},
+			"2016-06": {"total":56.46, "Children's & Education Services":52.12, "Cultural & Related Services":4.34},
+			"2016-07": {"total":160.00, "Children's & Education Services":160.00},
+			"2016-08": {"total":140.12, "Children's & Education Services":114.22, "Cultural & Related Services":25.90},
+			"2016-09": {"total":88.98, "Children's & Education Services":88.98},
+			"2016-10": {"total":57.24, "Children's & Education Services":57.24},
+			"2016-11": {"total":30.00, "unknown":30.00},
+			"2016-12": {"total":22.78, "Cultural & Related Services":22.78},
+			"2017-01": {"total":144.46, "Children's & Education Services":126.51, "Cultural & Related Services":17.95},
+			"2017-02": {"total":44.88, "Children's & Education Services":37.40, "Cultural & Related Services":7.48},
+			"2017-03": {"total":36.79, "Children's & Education Services":36.79},
+			"2019-04": {"total":2.83, "Cultural & Related Services":2.83},
+			"2019-05": {"total":120.56, "Adult Social Care":6.97, "Children's & Education Services":44.89, "Cultural & Related Services":68.70},
+			"2019-06": {"total":40.26, "Children's & Education Services":38.38, "Cultural & Related Services":1.88},
+			"2019-08": {"total":47.16, "Children's & Education Services":30.56, "Cultural & Related Services":16.60},
+			"2019-09": {"total":64.25, "Children's & Education Services":12.92, "Cultural & Related Services":51.33},
+			"2019-12": {"total":40.78, "Children's & Education Services":40.78},
+			"2020-01": {"total":45.99, "Children's & Education Services":22.47, "Cultural & Related Services":23.52},
+			"2020-02": {"total":15.98, "Children's & Education Services":15.98},
+			"2020-03": {"total":57.77, "Children's & Education Services":39.34, "Cultural & Related Services":18.43},
+			"2020-04": {"total":17.53, "Children's & Education Services":17.53}
+		}
+	},
+	"471": {
+		"name": "ASDA F/STN 04807",
+		"total": 3632.97,
+		"monthly": {
+			"2014-04": {"total":86.73, "Environment & Leisure":86.73},
+			"2014-05": {"total":63.35, "Environment & Leisure":63.35},
+			"2014-06": {"total":133.68, "Environment & Leisure":133.68},
+			"2014-07": {"total":74.49, "Environment & Leisure":74.49},
+			"2014-08": {"total":96.07, "Environment & Leisure":96.07},
+			"2014-09": {"total":37.48, "Environment & Leisure":37.48},
+			"2014-10": {"total":74.79, "Environment & Leisure":74.79},
+			"2014-12": {"total":184.51, "Cultural & Related Services":184.51},
+			"2015-02": {"total":33.15, "Cultural & Related Services":33.15},
+			"2015-04": {"total":66.67, "Cultural & Related Services":66.67},
+			"2015-05": {"total":68.07, "Children's & Education Services":39.28, "Cultural & Related Services":28.79},
+			"2015-06": {"total":30.01, "Children's & Education Services":30.01},
+			"2015-08": {"total":272.83, "Children's & Education Services":55.04, "Cultural & Related Services":217.79},
+			"2015-09": {"total":30.20, "Children's & Education Services":30.20},
+			"2015-10": {"total":25.02, "Children's & Education Services":25.02},
+			"2015-11": {"total":61.37, "Cultural & Related Services":61.37},
+			"2016-01": {"total":79.04, "Cultural & Related Services":79.04},
+			"2016-03": {"total":66.98, "unknown":66.98},
+			"2016-04": {"total":16.22, "Cultural & Related Services":16.22},
+			"2016-05": {"total":66.72, "Cultural & Related Services":66.72},
+			"2016-06": {"total":83.21, "Cultural & Related Services":83.21},
+			"2016-07": {"total":16.93, "Cultural & Related Services":16.93},
+			"2016-08": {"total":131.27, "Cultural & Related Services":131.27},
+			"2016-09": {"total":58.38, "Cultural & Related Services":58.38},
+			"2016-10": {"total":82.20, "Cultural & Related Services":82.20},
+			"2016-11": {"total":28.91, "unknown":28.91},
+			"2016-12": {"total":97.76, "Cultural & Related Services":97.76},
+			"2017-01": {"total":8.26, "Cultural & Related Services":8.26},
+			"2019-05": {"total":62.94, "Environmental & Regulatory Services":62.94},
+			"2019-06": {"total":82.50, "Cultural & Related Services":82.50},
+			"2019-08": {"total":82.50, "Cultural & Related Services":82.50},
+			"2019-09": {"total":164.18, "Cultural & Related Services":71.71, "Environmental & Regulatory Services":92.47},
+			"2019-12": {"total":91.88, "Cultural & Related Services":91.88},
+			"2020-01": {"total":68.75, "Environmental & Regulatory Services":68.75},
+			"2020-02": {"total":59.06, "Cultural & Related Services":59.06},
+			"2020-03": {"total":73.68, "Cultural & Related Services":73.68},
+			"2020-04": {"total":85.43, "Cultural & Related Services":73.56, "Environmental & Regulatory Services":11.87}
+		}
+	},
+	"472": {
+		"name": "ASDA HOME DELIVERY",
+		"total": 1480.45,
+		"monthly": {
+			"2014-04": {"total":644.45, "Children, Young People & Learning":364.79, "Adult Social Care":185.49, "Law & Governance":94.17},
+			"2014-05": {"total":220.70, "Children, Young People & Learning":220.70},
+			"2014-06": {"total":266.99, "Children, Young People & Learning":213.15, "Adult Social Care":53.84},
+			"2014-07": {"total":246.09, "Children, Young People & Learning":246.09},
+			"2014-08": {"total":72.24, "Children, Young People & Learning":72.24},
+			"2015-09": {"total":7.56, "Children's & Education Services":7.56},
+			"2016-05": {"total":18.12, "Children's & Education Services":18.12}
+		}
+	},
+	"473": {
+		"name": "ASDA HOME SHOPPING CAR",
+		"total": 9951.63,
+		"monthly": {
+			"2014-11": {"total":153.63, "Central Services":105.00, "Children's & Education Services":48.63},
+			"2014-12": {"total":456.33, "Adult Social Care":103.34, "Central Services":81.50, "Children's & Education Services":271.49},
+			"2015-01": {"total":412.51, "Central Services":147.42, "Children's & Education Services":265.09},
+			"2015-02": {"total":490.75, "Adult Social Care":70.29, "Children's & Education Services":420.46},
+			"2015-03": {"total":301.27, "Children's & Education Services":301.27},
+			"2015-04": {"total":326.99, "Central Services":79.25, "Children's & Education Services":247.74},
+			"2015-05": {"total":748.40, "Adult Social Care":72.76, "Central Services":28.88, "Children's & Education Services":646.76},
+			"2015-06": {"total":510.25, "Children's & Education Services":510.25},
+			"2015-08": {"total":934.75, "Adult Social Care":65.00, "Central Services":225.59, "Children's & Education Services":644.16},
+			"2015-09": {"total":376.41, "Central Services":117.91, "Children's & Education Services":258.50},
+			"2015-10": {"total":421.96, "Adult Social Care":79.33, "Central Services":38.50, "Children's & Education Services":304.13},
+			"2015-11": {"total":449.61, "Central Services":153.78, "Children's & Education Services":295.83},
+			"2016-01": {"total":773.39, "Adult Social Care":91.37, "Central Services":31.00, "Children's & Education Services":651.02},
+			"2016-02": {"total":436.49, "Children's & Education Services":436.49},
+			"2016-03": {"total":359.02, "unknown":359.02},
+			"2016-04": {"total":296.05, "Children's & Education Services":296.05},
+			"2016-05": {"total":499.57, "Central Services":170.40, "Children's & Education Services":329.17},
+			"2016-06": {"total":494.14, "Adult Social Care":97.98, "Central Services":25.00, "Children's & Education Services":371.16},
+			"2016-07": {"total":388.88, "Children's & Education Services":388.88},
+			"2016-08": {"total":295.90, "Children's & Education Services":295.90},
+			"2016-10": {"total":172.11, "Adult Social Care":125.33, "Children's & Education Services":46.78},
+			"2016-11": {"total":298.72, "Central Services":260.88, "Children's & Education Services":37.84},
+			"2016-12": {"total":156.36, "Central Services":156.36},
+			"2017-01": {"total":83.75, "Children's & Education Services":83.75},
+			"2017-02": {"total":42.87, "Children's & Education Services":42.87},
+			"2017-03": {"total":71.52, "Children's & Education Services":71.52}
+		}
+	},
+	"474": {
+		"name": "ASDAN",
+		"total": 2800,
+		"monthly": {
+			"2014-07": {"total":2800.00, "Children, Young People & Learning":2800.00}
+		}
+	},
+	"475": {
 		"name": "ASDAN LTD",
 		"total": 7509.15,
 		"monthly": {
@@ -12,7 +380,7 @@
 			"2015-12": {"total":355.00, "Children's & Education Services":355.00}
 		}
 	},
-	"451": {
+	"476": {
 		"name": "ASGARD PROMOTIONS LTD",
 		"total": 19030050,
 		"monthly": {
@@ -21,9 +389,9 @@
 			"2016-06": {"total":19022250.00, "Environment, Housing & Leisure":19022250.00}
 		}
 	},
-	"452": {
+	"477": {
 		"name": "ASH DEBTOR REFUNDS",
-		"total": 619351.05,
+		"total": 758554.53,
 		"monthly": {
 			"2019-04": {"total":4343.59, "General Fund":4343.59},
 			"2019-05": {"total":17583.85, "General Fund":17583.85},
@@ -48,10 +416,17 @@
 			"2021-01": {"total":11207.21, "General Fund":11207.21},
 			"2021-02": {"total":11349.15, "General Fund":11349.15},
 			"2021-03": {"total":10289.94, "General Fund":10289.94},
-			"2021-04": {"total":2314.13, "General Fund":2314.13}
+			"2021-04": {"total":2314.13, "General Fund":2314.13},
+			"2021-05": {"total":29970.02, "General Fund":29970.02},
+			"2021-06": {"total":8968.18, "General Fund":8968.18},
+			"2021-07": {"total":18537.12, "General Fund":18537.12},
+			"2021-08": {"total":18815.62, "General Fund":18815.62},
+			"2021-09": {"total":22894.88, "General Fund":22894.88},
+			"2021-10": {"total":33003.26, "General Fund":33003.26},
+			"2021-11": {"total":7014.40, "General Fund":7014.40}
 		}
 	},
-	"453": {
+	"478": {
 		"name": "ASH INFORMATION SYSTEMS LTD",
 		"total": 4800,
 		"monthly": {
@@ -59,9 +434,9 @@
 			"2020-01": {"total":3600.00, "Capital":3600.00}
 		}
 	},
-	"454": {
+	"479": {
 		"name": "ASHCHEM LTD T/A ASHCHEM CHEMISTS",
-		"total": 58506.8700000001,
+		"total": 61335.1200000001,
 		"monthly": {
 			"2014-04": {"total":658.52, "Public Health":658.52},
 			"2014-10": {"total":1370.13, "Public Health":1370.13},
@@ -87,42 +462,45 @@
 			"2020-07": {"total":1227.78, "Public Health":1227.78},
 			"2020-11": {"total":1917.83, "Public Health":1917.83},
 			"2021-01": {"total":2786.70, "Public Health":2786.70},
-			"2021-04": {"total":2665.73, "Public Health":2665.73}
+			"2021-04": {"total":2665.73, "Public Health":2665.73},
+			"2021-07": {"total":1444.09, "Public Health":1444.09},
+			"2021-11": {"total":1384.16, "Public Health":1384.16}
 		}
 	},
-	"455": {
+	"480": {
 		"name": "ASHDOWN SUPPLIES",
-		"total": 12860,
+		"total": 15740,
 		"monthly": {
 			"2014-04": {"total":1380.00, "Environment & Leisure":1380.00},
 			"2014-11": {"total":2700.00, "Environmental & Regulatory Services":2700.00},
 			"2015-12": {"total":2440.00, "Environmental & Regulatory Services":2440.00},
 			"2016-06": {"total":3660.00, "Environment, Housing & Leisure":3660.00},
-			"2020-01": {"total":2680.00, "Environmental & Regulatory Services":2680.00}
+			"2020-01": {"total":2680.00, "Environmental & Regulatory Services":2680.00},
+			"2021-09": {"total":2880.00, "Environmental & Regulatory Services":2880.00}
 		}
 	},
-	"456": {
+	"481": {
 		"name": "ASHES INTO GLASS",
 		"total": 245.83,
 		"monthly": {
 			"2016-09": {"total":245.83, "Children's & Education Services":245.83}
 		}
 	},
-	"457": {
+	"482": {
 		"name": "ASHFIELD NURSERY AND ELC",
 		"total": 810,
 		"monthly": {
 			"2019-12": {"total":810.00, "Children's & Education Services":810.00}
 		}
 	},
-	"458": {
+	"483": {
 		"name": "ASHGILL PLANTATION",
 		"total": 1290,
 		"monthly": {
 			"2020-12": {"total":1290.00, "Cultural & Related Services":1290.00}
 		}
 	},
-	"459": {
+	"484": {
 		"name": "ASHINGTON HIGH SCHOOL",
 		"total": 1770,
 		"monthly": {
@@ -132,9 +510,9 @@
 			"2016-07": {"total":300.00, "Children's & Education Services":300.00}
 		}
 	},
-	"460": {
+	"485": {
 		"name": "ASHTEAD PLANT HIRE CO LTD",
-		"total": 136277.93,
+		"total": 158052.14,
 		"monthly": {
 			"2019-05": {"total":35000.00, "Capital":35000.00},
 			"2019-06": {"total":527.20, "Capital":527.20},
@@ -158,19 +536,24 @@
 			"2021-01": {"total":3916.90, "Capital":3141.89, "Housing Services":775.01},
 			"2021-02": {"total":2245.46, "Capital":1537.84, "Housing Services":707.62},
 			"2021-03": {"total":3948.89, "Capital":2412.24, "Housing Revenue Account":1262.20, "Housing Services":274.45},
-			"2021-04": {"total":1353.49, "Capital":1909.08, "Housing Services":-555.59}
+			"2021-04": {"total":1353.49, "Capital":1909.08, "Housing Services":-555.59},
+			"2021-05": {"total":1485.69, "Capital":812.89, "Housing Services":672.80},
+			"2021-07": {"total":2367.73, "Capital":2138.40, "Housing Services":229.33},
+			"2021-08": {"total":11827.45, "Capital":1620.67, "Central Services":9700.00, "Housing Services":506.78},
+			"2021-09": {"total":3117.64, "Capital":1715.60, "Housing Services":582.04, "Planning Services":820.00},
+			"2021-11": {"total":2975.70, "Capital":2975.70}
 		}
 	},
-	"461": {
+	"486": {
 		"name": "ASHTON KCJ",
 		"total": 11237,
 		"monthly": {
 			"2015-05": {"total":11237.00, "Adult Social Care":11237.00}
 		}
 	},
-	"462": {
+	"487": {
 		"name": "ASKEWS & HOLTS LIBRARY SERVICE LTD",
-		"total": 259510.75,
+		"total": 293976.73,
 		"monthly": {
 			"2014-04": {"total":1948.49, "Environment & Leisure":1948.49},
 			"2014-05": {"total":2192.32, "Environment & Leisure":2192.32},
@@ -224,45 +607,58 @@
 			"2020-12": {"total":5151.51, "Cultural & Related Services":5151.51},
 			"2021-01": {"total":7497.00, "Cultural & Related Services":7497.00},
 			"2021-02": {"total":4282.81, "Cultural & Related Services":4282.81},
-			"2021-03": {"total":13477.61, "Cultural & Related Services":13477.61}
+			"2021-03": {"total":13477.61, "Cultural & Related Services":13477.61},
+			"2021-06": {"total":13764.66, "Cultural & Related Services":13764.66},
+			"2021-07": {"total":2475.01, "Cultural & Related Services":2475.01},
+			"2021-08": {"total":4537.29, "Cultural & Related Services":4537.29},
+			"2021-09": {"total":6026.63, "Cultural & Related Services":6026.63},
+			"2021-10": {"total":3901.20, "Cultural & Related Services":3901.20},
+			"2021-11": {"total":3761.19, "Cultural & Related Services":3761.19}
 		}
 	},
-	"463": {
+	"488": {
 		"name": "ASKHAM BRYAN COLLEGE",
 		"total": 401.69,
 		"monthly": {
 			"2015-04": {"total":401.69, "Children's & Education Services":401.69}
 		}
 	},
-	"464": {
+	"489": {
 		"name": "ASL LOCKERS",
 		"total": 1021.82,
 		"monthly": {
 
 		}
 	},
-	"465": {
+	"490": {
+		"name": "ASL PERCUSSION",
+		"total": 392,
+		"monthly": {
+			"2021-11": {"total":392.00, "Children's & Education Services":392.00}
+		}
+	},
+	"491": {
 		"name": "ASOS.COM",
 		"total": 79.5,
 		"monthly": {
 
 		}
 	},
-	"466": {
+	"492": {
 		"name": "ASPECT POOLS V/T",
 		"total": 249.17,
 		"monthly": {
 			"2014-04": {"total":249.17, "Environment & Leisure":249.17}
 		}
 	},
-	"467": {
+	"493": {
 		"name": "ASPECTS POOL",
 		"total": 838,
 		"monthly": {
 			"2014-04": {"total":838.00, "Environment & Leisure":838.00}
 		}
 	},
-	"468": {
+	"494": {
 		"name": "ASPEN",
 		"total": 7759.45,
 		"monthly": {
@@ -274,7 +670,7 @@
 			"2015-09": {"total":2813.05, "Central Services":2547.20, "Housing Revenue Account":265.85}
 		}
 	},
-	"469": {
+	"495": {
 		"name": "ASPINALL VERDI",
 		"total": 17493,
 		"monthly": {
@@ -284,9 +680,9 @@
 			"2016-01": {"total":7790.00, "Capital":7790.00}
 		}
 	},
-	"470": {
+	"496": {
 		"name": "ASPIRE HEALTHCARE",
-		"total": 8672819.89000017,
+		"total": 9568283.48000024,
 		"monthly": {
 			"2014-04": {"total":77607.28, "Adult Social Care":77607.28},
 			"2014-05": {"total":77619.52, "Adult Social Care":77619.52},
@@ -347,10 +743,17 @@
 			"2021-01": {"total":112241.22, "Adult Social Care":107415.28, "Planning Services":4825.94},
 			"2021-02": {"total":152590.16, "Adult Social Care":136909.36, "Planning Services":15680.80},
 			"2021-03": {"total":139208.50, "Adult Social Care":139208.50},
-			"2021-04": {"total":111986.93, "Adult Social Care":111986.93}
+			"2021-04": {"total":111986.93, "Adult Social Care":111986.93},
+			"2021-05": {"total":127073.76, "Adult Social Care":121586.62, "Planning Services":5487.14, "Public Health":0.00},
+			"2021-06": {"total":123538.39, "Adult Social Care":115614.00, "Planning Services":7924.39},
+			"2021-07": {"total":116556.10, "Adult Social Care":116556.10},
+			"2021-08": {"total":140518.48, "Adult Social Care":140518.48},
+			"2021-09": {"total":126703.81, "Adult Social Care":119820.73, "Planning Services":6883.08},
+			"2021-10": {"total":117903.00, "Adult Social Care":117903.00},
+			"2021-11": {"total":143170.05, "Adult Social Care":143170.05}
 		}
 	},
-	"471": {
+	"497": {
 		"name": "ASPIRE PSYCHOLOGICAL SERVICES LTD",
 		"total": 6900,
 		"monthly": {
@@ -360,9 +763,9 @@
 			"2021-03": {"total":3500.00, "Children's & Education Services":3500.00}
 		}
 	},
-	"472": {
+	"498": {
 		"name": "ASPIRE TECHNOLOGY SOLUTIONS LTD",
-		"total": 72187.42,
+		"total": 91257.54,
 		"monthly": {
 			"2016-12": {"total":21765.26, "Cultural & Related Services":21765.26},
 			"2017-01": {"total":6468.00, "Cultural & Related Services":6468.00},
@@ -388,15 +791,22 @@
 			"2021-01": {"total":1460.00, "Cultural & Related Services":1460.00},
 			"2021-02": {"total":1460.00, "Cultural & Related Services":1460.00},
 			"2021-03": {"total":1460.00, "Cultural & Related Services":1460.00},
-			"2021-04": {"total":1460.00, "Cultural & Related Services":1460.00}
+			"2021-04": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-05": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-06": {"total":10310.12, "Cultural & Related Services":1460.00, "Environmental & Regulatory Services":8850.12},
+			"2021-07": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-08": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-09": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-10": {"total":1460.00, "Cultural & Related Services":1460.00},
+			"2021-11": {"total":1460.00, "Cultural & Related Services":1460.00}
 		}
 	},
-	"473": {
+	"499": {
 		"name": "ASPLI SAFETY LTD",
 		"alternate-names": [
 			"ASPLI SAFETY LIMITED"
 		],
-		"total": 6675.11,
+		"total": 7895.41,
 		"monthly": {
 			"2016-02": {"total":55.56, "Environmental & Regulatory Services":55.56},
 			"2016-08": {"total":59.88, "Cultural & Related Services":59.88},
@@ -405,238 +815,9 @@
 			"2019-06": {"total":611.20, "Environmental & Regulatory Services":611.20},
 			"2020-01": {"total":1977.60, "Environmental & Regulatory Services":1977.60},
 			"2020-02": {"total":1236.39, "Unallocated":1236.39},
-			"2020-03": {"total":1405.50, "Environmental & Regulatory Services":1405.50}
-		}
-	},
-	"474": {
-		"name": "ASSESSMENT & QUALIFICATIONS ALLIANCE",
-		"total": 12839.26,
-		"monthly": {
-			"2014-06": {"total":328.35, "Children, Young People & Learning":328.35},
-			"2015-03": {"total":5971.80, "Children's & Education Services":5971.80},
-			"2015-05": {"total":468.56, "Children's & Education Services":468.56},
-			"2015-07": {"total":316.35, "Children's & Education Services":316.35},
-			"2016-02": {"total":1106.00, "Children's & Education Services":1106.00},
-			"2016-09": {"total":260.00, "Health, Education, Care and Safeguarding":260.00},
-			"2017-02": {"total":1383.90, "Children's & Education Services":1383.90},
-			"2021-03": {"total":3004.30, "Children's & Education Services":3004.30}
-		}
-	},
-	"475": {
-		"name": "ASSESSMENT SERVICES",
-		"total": 3243,
-		"monthly": {
-			"2015-11": {"total":3243.00, "Children's & Education Services":3243.00}
-		}
-	},
-	"476": {
-		"name": "ASSOCIATION OF BUILDING ENGINEERS",
-		"total": 700,
-		"monthly": {
-			"2015-06": {"total":700.00, "Planning Services":700.00}
-		}
-	},
-	"477": {
-		"name": "ASSOCIATION OF DEMOCRATIC SERVICES OFFICERS",
-		"total": 220,
-		"monthly": {
-			"2016-09": {"total":220.00, "HR & Organisational Development":220.00}
-		}
-	},
-	"478": {
-		"name": "ASSOCIATION OF DIRECTORS OF PUBLIC HEALTH",
-		"total": 4520,
-		"monthly": {
-			"2016-07": {"total":1950.00, "Public Health":1950.00},
-			"2020-09": {"total":2570.00, "Public Health":2570.00}
-		}
-	},
-	"479": {
-		"name": "ASSOCIATION OF INDEPENDENT LSCB CHAIRS",
-		"total": 3000,
-		"monthly": {
-			"2015-05": {"total":1500.00, "Children's & Education Services":1500.00},
-			"2016-09": {"total":1500.00, "Commissioning & Investment":1500.00}
-		}
-	},
-	"480": {
-		"name": "ASSOCIATION OF NORTH EAST COUNCILS",
-		"total": 121008.73,
-		"monthly": {
-			"2014-05": {"total":63883.73, "Chief Executive Office":61129.00, "Public Health":2754.73},
-			"2015-07": {"total":57125.00, "Central Services":57125.00}
-		}
-	},
-	"481": {
-		"name": "ASSOCIATION OF PORT HEALTH AUTHORITIES",
-		"total": 5300,
-		"monthly": {
-			"2014-07": {"total":1000.00, "DCE - Technical Package":1000.00},
-			"2015-03": {"total":1000.00, "Environmental & Regulatory Services":1000.00},
-			"2016-04": {"total":1200.00, "Environment, Housing & Leisure":1200.00},
-			"2020-05": {"total":1050.00, "Environmental & Regulatory Services":1050.00},
-			"2021-04": {"total":1050.00, "Environmental & Regulatory Services":1050.00}
-		}
-	},
-	"482": {
-		"name": "ASSOCIATION OF RETAINED COUNCIL HOUSING",
-		"total": 8850,
-		"monthly": {
-			"2014-10": {"total":2350.00, "Housing Revenue Account":2350.00},
-			"2015-04": {"total":2000.00, "Housing Revenue Account":2000.00},
-			"2016-05": {"total":2000.00, "Housing Revenue Account":2000.00},
-			"2019-06": {"total":2500.00, "Housing Services":2500.00}
-		}
-	},
-	"483": {
-		"name": "ASSOCIATION OF SCHOOL AND COLLEGE LEADERS",
-		"total": 250,
-		"monthly": {
-			"2014-08": {"total":250.00, "Chief Executive Office":250.00}
-		}
-	},
-	"484": {
-		"name": "ASSOCIATION OF TOWN CENTRE MANAGEMENT",
-		"total": 495,
-		"monthly": {
-			"2014-08": {"total":495.00, "Business & Economy":495.00}
-		}
-	},
-	"485": {
-		"name": "ASSURA STOCKTON LLP",
-		"total": 3077.75,
-		"monthly": {
-			"2014-05": {"total":739.08, "Public Health":739.08},
-			"2014-07": {"total":588.67, "Public Health":588.67},
-			"2015-06": {"total":262.00, "Adult Social Care":262.00},
-			"2015-11": {"total":393.00, "Adult Social Care":393.00},
-			"2015-12": {"total":262.00, "Adult Social Care":262.00},
-			"2016-01": {"total":496.00, "Public Health":496.00},
-			"2019-04": {"total":337.00, "Adult Social Care":337.00}
-		}
-	},
-	"486": {
-		"name": "ASSURE MUSIC EDUCATION LTD",
-		"alternate-names": [
-			"ASSURE MUSIC EDUCATION LIMITED"
-		],
-		"total": 502.1,
-		"monthly": {
-			"2015-04": {"total":502.10, "Children's & Education Services":502.10}
-		}
-	},
-	"487": {
-		"name": "ASSURED SCREENING",
-		"total": 89,
-		"monthly": {
-
-		}
-	},
-	"488": {
-		"name": "ASTLEY HIGH SCHOOL",
-		"total": 2400,
-		"monthly": {
-			"2019-06": {"total":300.00, "Children's & Education Services":300.00},
-			"2020-02": {"total":500.00, "Children's & Education Services":500.00},
-			"2020-04": {"total":400.00, "Children's & Education Services":400.00},
-			"2020-12": {"total":800.00, "Children's & Education Services":800.00},
-			"2021-03": {"total":400.00, "Children's & Education Services":400.00}
-		}
-	},
-	"489": {
-		"name": "ASTLEY SIGNS",
-		"total": 4301,
-		"monthly": {
-			"2020-11": {"total":4301.00, "Capital":4301.00}
-		}
-	},
-	"490": {
-		"name": "ASTOR-BANNERMAN (MEDICAL) LTD",
-		"total": 21363,
-		"monthly": {
-			"2016-11": {"total":9338.00, "unknown":9338.00},
-			"2020-03": {"total":5530.00, "Adult Social Care":980.00, "Capital":4550.00},
-			"2020-04": {"total":4656.00, "Capital":4656.00},
-			"2020-10": {"total":1839.00, "Capital":1839.00}
-		}
-	},
-	"491": {
-		"name": "ASTRAL CONTROL SERVICES LTD",
-		"total": 42111.16,
-		"monthly": {
-			"2015-08": {"total":2591.16, "Children's & Education Services":2591.16},
-			"2015-09": {"total":2060.00, "Planning Services":2060.00},
-			"2021-02": {"total":27790.00, "Capital":17850.00, "Housing Services":9940.00},
-			"2021-03": {"total":0.00, "Housing Services":0.00},
-			"2021-04": {"total":9670.00, "Housing Services":9670.00}
-		}
-	},
-	"492": {
-		"name": "ASTRYAN LTD",
-		"alternate-names": [
-			"ASTRYAN LIMITED"
-		],
-		"total": 1318.82,
-		"monthly": {
-			"2019-08": {"total":851.00, "Housing Services":851.00},
-			"2019-12": {"total":467.82, "Housing Services":467.82}
-		}
-	},
-	"493": {
-		"name": "ATCO",
-		"total": 290,
-		"monthly": {
-			"2015-02": {"total":290.00, "Children's & Education Services":290.00}
-		}
-	},
-	"494": {
-		"name": "ATKINS LTD",
-		"alternate-names": [
-			"ATKINS LIMITED"
-		],
-		"total": 4464,
-		"monthly": {
-			"2014-05": {"total":2448.00, "Capital":2448.00},
-			"2015-01": {"total":2016.00, "Capital":2016.00}
-		}
-	},
-	"495": {
-		"name": "ATKINSON HOUSE SCHOOL",
-		"total": 8306.4,
-		"monthly": {
-			"2014-04": {"total":3876.32, "Commissioning & Fair Access":3876.32},
-			"2014-07": {"total":4430.08, "Commissioning & Fair Access":4430.08}
-		}
-	},
-	"496": {
-		"name": "ATLANTIC SIGNS",
-		"total": 97,
-		"monthly": {
-			"2016-05": {"total":97.00, "Housing Revenue Account":97.00}
-		}
-	},
-	"497": {
-		"name": "ATLAS WASHROOM SYSTEMS LTD",
-		"total": 34614.45,
-		"monthly": {
-			"2020-10": {"total":5849.10, "Capital":5849.10},
-			"2020-11": {"total":10136.50, "Capital":10136.50},
-			"2020-12": {"total":4078.85, "Capital":4078.85},
-			"2021-02": {"total":14550.00, "Capital":14550.00}
-		}
-	},
-	"498": {
-		"name": "ATLASSIAN",
-		"total": 788.47,
-		"monthly": {
-
-		}
-	},
-	"499": {
-		"name": "ATTAINABILITY UK LTD",
-		"total": 675,
-		"monthly": {
-			"2014-08": {"total":675.00, "Adult Social Care":675.00}
+			"2020-03": {"total":1405.50, "Environmental & Regulatory Services":1405.50},
+			"2021-05": {"total":872.40, "Environmental & Regulatory Services":872.40},
+			"2021-06": {"total":347.90, "Environmental & Regulatory Services":347.90}
 		}
 	}
 	}
