@@ -1,731 +1,609 @@
 {
-	"range": ["2010-10","2021-11"],
+	"range": ["2010-10","2021-12"],
 	"data": {
 	"35550": {
-		"name": "Olawale Fasuyi",
+		"name": "Nwt Supplies Ltd",
+		"alternate-names": [
+			"Nwt Supplies Limited"
+		],
+		"total": 5182.54,
+		"monthly": {
+			"2020-12": {"total":423.49, "Communities and Environment":423.49},
+			"2021-01": {"total":1235.52, "Communities and Environment":1235.52},
+			"2021-02": {"total":1185.78, "Communities and Environment":1185.78},
+			"2021-10": {"total":1215.75, "Communities and Environment":1215.75},
+			"2021-11": {"total":1122.00, "Communities and Environment":1122.00}
+		}
+	},
+	"35551": {
+		"name": "Nwtc Ltd",
+		"total": 3970.17,
+		"monthly": {
+			"2014-03": {"total":211.40, "Central & Corporate":211.40},
+			"2019-07": {"total":493.64, "Resources and Housing":493.64},
+			"2020-01": {"total":1816.80, "Communities and Environment":1816.80},
+			"2020-02": {"total":500.00, "City Development":500.00},
+			"2020-03": {"total":500.00, "City Development":500.00},
+			"2020-06": {"total":448.33, "City Development":448.33}
+		}
+	},
+	"35552": {
+		"name": "Nx Website",
+		"total": 805.04,
+		"monthly": {
+			"2020-07": {"total":60.10, "Resources and Housing":60.10},
+			"2020-08": {"total":124.80, "Resources and Housing":124.80},
+			"2020-09": {"total":214.04, "Resources and Housing":214.04},
+			"2020-10": {"total":31.50, "Resources and Housing":31.50},
+			"2020-11": {"total":79.10, "Resources and Housing":79.10},
+			"2020-12": {"total":109.00, "Resources and Housing":109.00},
+			"2021-01": {"total":18.90, "Resources and Housing":18.90},
+			"2021-05": {"total":33.00, "Resources and Housing":33.00},
+			"2021-06": {"total":65.00, "Resources and Housing":65.00},
+			"2021-09": {"total":8.90, "Resources and Housing":8.90},
+			"2021-10": {"total":46.70, "Children and Families":10.00, "Resources and Housing":36.70},
+			"2021-11": {"total":14.00, "Communities and Environment":14.00}
+		}
+	},
+	"35553": {
+		"name": "Nxdimension Ltd",
+		"alternate-names": [
+			"Nxdimension Limited"
+		],
+		"total": 751.5,
+		"monthly": {
+			"2011-03": {"total":751.50, "City Development":751.50}
+		}
+	},
+	"35554": {
+		"name": "Nxt Conferences",
+		"total": 525.36,
+		"monthly": {
+			"2019-11": {"total":300.00, "City Development":300.00},
+			"2020-09": {"total":25.36, "City Development":25.36},
+			"2021-01": {"total":200.00, "City Development":200.00}
+		}
+	},
+	"35555": {
+		"name": "Nxt.Co.Uk",
+		"total": 260,
+		"monthly": {
+			"2019-02": {"total":260.00, "Communities and Environment":260.00}
+		}
+	},
+	"35556": {
+		"name": "Nya*air-Serv",
+		"total": 1.26,
+		"monthly": {
+			"2021-05": {"total":0.42, "Children and Families":0.42},
+			"2021-10": {"total":0.42, "Children and Families":0.42},
+			"2021-11": {"total":0.42, "Children and Families":0.42}
+		}
+	},
+	"35557": {
+		"name": "Nya*flamingo Land Ltd",
+		"total": 6,
+		"monthly": {
+			"2019-08": {"total":6.00, "Children and Families":6.00}
+		}
+	},
+	"35558": {
+		"name": "Nya*hollywood Bowl Gro",
+		"total": 10,
+		"monthly": {
+			"2021-06": {"total":10.00, "Children and Families":10.00}
+		}
+	},
+	"35559": {
+		"name": "Nyas",
+		"total": 106521.33,
+		"monthly": {
+			"2015-06": {"total":373.28, "Childrens Services":373.28},
+			"2015-08": {"total":13.33, "Childrens Services":13.33},
+			"2018-05": {"total":433.30, "Children and Families":433.30},
+			"2018-11": {"total":297.92, "Children and Families":297.92},
+			"2019-03": {"total":9303.00, "Children and Families":9303.00},
+			"2019-09": {"total":18606.00, "Children and Families":18606.00},
+			"2020-04": {"total":289.50, "Children and Families":289.50},
+			"2020-05": {"total":18606.00, "Children and Families":18606.00},
+			"2020-10": {"total":9303.00, "Children and Families":9303.00},
+			"2021-02": {"total":9303.00, "Children and Families":9303.00},
+			"2021-03": {"total":9303.00, "Children and Families":9303.00},
+			"2021-09": {"total":11157.00, "Children and Families":11157.00},
+			"2021-10": {"total":9303.00, "Children and Families":9303.00},
+			"2021-11": {"total":10230.00, "Children and Families":10230.00}
+		}
+	},
+	"35560": {
+		"name": "Nybep Ltd",
+		"total": 1315,
+		"monthly": {
+			"2012-12": {"total":1300.00, "Childrens Services":1300.00},
+			"2014-02": {"total":15.00, "Childrens Services":15.00}
+		}
+	},
+	"35561": {
+		"name": "Nycc",
+		"total": 7470,
+		"monthly": {
+			"2014-03": {"total":4400.00, "Childrens Services":4400.00},
+			"2014-04": {"total":3000.00, "Childrens Services":3000.00},
+			"2015-02": {"total":70.00, "Central & Corporate":70.00}
+		}
+	},
+	"35562": {
+		"name": "Nycc Harrogate Grammar School",
+		"total": 1575,
+		"monthly": {
+			"2014-06": {"total":1575.00, "Childrens Services":1575.00}
+		}
+	},
+	"35563": {
+		"name": "Nycc Malton Community Primary School",
+		"total": 515.8,
+		"monthly": {
+			"2011-02": {"total":515.80, "City Development":515.80}
+		}
+	},
+	"35564": {
+		"name": "Nycc St John Fisher Rc High School",
+		"total": 384.4,
+		"monthly": {
+			"2017-07": {"total":384.40, "Children and Families":384.40}
+		}
+	},
+	"35565": {
+		"name": "Nycc Tadcaster Grammar School",
+		"total": 100,
+		"monthly": {
+			"2014-05": {"total":100.00, "City Development":100.00}
+		}
+	},
+	"35566": {
+		"name": "Nycomm Ltd",
+		"total": 394.88,
+		"monthly": {
+			"2015-03": {"total":22.87, "Adult Social Care":22.87},
+			"2016-01": {"total":22.87, "Adult Social Care":22.87},
+			"2016-08": {"total":22.32, "Adult Social Care":22.32},
+			"2019-01": {"total":326.82, "Resources and Housing":326.82}
+		}
+	},
+	"35567": {
+		"name": "Nyengeterai Munangati",
+		"alternate-names": [
+			"Nyengeterai Munangati."
+		],
+		"total": 550,
+		"monthly": {
+			"2017-07": {"total":550.00, "Environment & Housing":550.00}
+		}
+	},
+	"35568": {
+		"name": "Nyfast",
+		"total": 2440.75,
+		"monthly": {
+			"2014-04": {"total":339.60, "City Development":339.60},
+			"2014-09": {"total":339.60, "City Development":339.60},
+			"2015-11": {"total":283.00, "City Development":283.00},
+			"2016-09": {"total":339.60, "City Development":339.60},
+			"2017-06": {"total":283.00, "City Development":283.00},
+			"2018-03": {"total":283.00, "City Development":283.00},
+			"2019-01": {"total":572.95, "City Development":572.95}
+		}
+	},
+	"35569": {
+		"name": "Nyg Construction Ltd",
+		"total": 26234.8,
+		"monthly": {
+			"2016-03": {"total":26234.80, "Environment & Housing":26234.80}
+		}
+	},
+	"35570": {
+		"name": "Nyla Levy",
+		"total": 72.87,
+		"monthly": {
+			"2015-06": {"total":72.87, "City Development":72.87}
+		}
+	},
+	"35571": {
+		"name": "Nynet Ltd",
+		"total": 21113.2,
+		"monthly": {
+			"2011-03": {"total":21113.20, "Central & Corporate Functions":21113.20}
+		}
+	},
+	"35572": {
+		"name": "Nyx Cosmetics Uk",
+		"total": 9.96,
+		"monthly": {
+			"2019-11": {"total":9.96, "Children and Families":9.96}
+		}
+	},
+	"35573": {
+		"name": "Nyx*lrs",
+		"total": 6.8,
+		"monthly": {
+			"2019-09": {"total":1.80, "Children and Families":1.80},
+			"2021-09": {"total":5.00, "Children and Families":5.00}
+		}
+	},
+	"35574": {
+		"name": "O H Parsons",
+		"total": 5674,
+		"monthly": {
+			"2021-02": {"total":360.00, "Insurance":360.00},
+			"2021-03": {"total":5314.00, "Insurance":5314.00}
+		}
+	},
+	"35575": {
+		"name": "O H Parsons & Partners",
+		"total": 44434.03,
+		"monthly": {
+			"2011-09": {"total":11500.00, "Insurance":11500.00},
+			"2014-01": {"total":250.00, "Central & Corporate":250.00},
+			"2014-02": {"total":250.00, "Environment & Housing":250.00},
+			"2016-08": {"total":160.00, "Environment & Housing":160.00},
+			"2016-10": {"total":1488.00, "Insurance":1488.00},
+			"2017-05": {"total":1110.00, "Insurance":1110.00},
+			"2017-06": {"total":3610.53, "Insurance":3610.53},
+			"2017-07": {"total":11556.50, "Insurance":11556.50},
+			"2018-02": {"total":14509.00, "Insurance":14509.00}
+		}
+	},
+	"35576": {
+		"name": "O Hama",
 		"total": 250,
 		"monthly": {
 			"2021-07": {"total":250.00, "City Development":250.00}
 		}
 	},
-	"35551": {
-		"name": "Olayinka Ayorinde Ilori",
-		"total": 260,
-		"monthly": {
-			"2020-10": {"total":260.00, "City Development":260.00}
-		}
-	},
-	"35552": {
-		"name": "Old Bank J.I.N. School",
-		"total": 2714.78,
-		"monthly": {
-			"2013-02": {"total":500.00, "Central & Corporate":500.00},
-			"2013-04": {"total":500.00, "Central & Corporate":500.00},
-			"2015-01": {"total":1714.78, "Central & Corporate":1714.78}
-		}
-	},
-	"35553": {
-		"name": "Old Chapel Music Cic",
-		"total": 9320,
-		"monthly": {
-			"2014-06": {"total":1000.00, "Central & Corporate":1000.00},
-			"2015-03": {"total":4400.00, "Strategic Landlord":4400.00},
-			"2015-07": {"total":3420.00, "Central & Corporate":3420.00},
-			"2020-04": {"total":500.00, "Communities and Environment":500.00}
-		}
-	},
-	"35554": {
-		"name": "Old Coach House",
-		"total": 68.85,
-		"monthly": {
-			"2014-07": {"total":68.85, "Childrens Services":68.85}
-		}
-	},
-	"35555": {
-		"name": "Old Farnley Community Association",
-		"total": 21702.18,
-		"monthly": {
-			"2012-02": {"total":1450.00, "Central & Corporate Functions":1450.00},
-			"2014-06": {"total":255.00, "Central & Corporate":255.00},
-			"2015-01": {"total":13068.18, "Strategic Accounts":13068.18},
-			"2015-05": {"total":192.00, "Central & Corporate":192.00},
-			"2016-02": {"total":150.00, "Strategic Accounts":150.00},
-			"2016-05": {"total":192.00, "Citizens and Communities":192.00},
-			"2016-07": {"total":192.00, "Citizens and Communities":192.00},
-			"2016-12": {"total":200.00, "Strategic Accounts":200.00},
-			"2017-04": {"total":360.00, "Citizens and Communities":360.00},
-			"2017-06": {"total":192.00, "Communities and Environment":192.00},
-			"2018-02": {"total":500.00, "Strategic Accounts":500.00},
-			"2018-05": {"total":192.00, "Communities and Environment":192.00},
-			"2018-11": {"total":100.00, "Strategic Accounts":100.00},
-			"2019-02": {"total":200.00, "Strategic Accounts":200.00},
-			"2019-05": {"total":320.00, "Communities and Environment":320.00},
-			"2019-08": {"total":80.00, "Children and Families":80.00},
-			"2019-09": {"total":390.00, "Children and Families":390.00},
-			"2019-12": {"total":240.00, "Communities and Environment":240.00},
-			"2020-01": {"total":410.00, "Children and Families":410.00},
-			"2020-02": {"total":250.00, "Strategic Accounts":250.00},
-			"2020-04": {"total":300.00, "Children and Families":300.00},
-			"2020-08": {"total":360.00, "Communities and Environment":360.00},
-			"2021-05": {"total":192.00, "Communities and Environment":192.00},
-			"2021-09": {"total":1917.00, "Children and Families":600.00, "Communities and Environment":1317.00}
-		}
-	},
-	"35556": {
-		"name": "Old Farnley Community Centre",
-		"total": 450,
-		"monthly": {
-			"2014-03": {"total":150.00, "Strategic Accounts":150.00},
-			"2014-11": {"total":150.00, "Strategic Accounts":150.00},
-			"2016-01": {"total":150.00, "Strategic Accounts":150.00}
-		}
-	},
-	"35557": {
-		"name": "Old Lane (Beeston) Allotments",
-		"total": 3345,
-		"monthly": {
-			"2015-02": {"total":100.00, "Strategic Accounts":100.00},
-			"2016-03": {"total":100.00, "Strategic Accounts":100.00},
-			"2017-09": {"total":100.00, "Strategic Accounts":100.00},
-			"2018-11": {"total":2945.00, "Communities and Environment":2945.00},
-			"2019-03": {"total":100.00, "Strategic Accounts":100.00}
-		}
-	},
-	"35558": {
-		"name": "Old Leodiensian Club",
-		"total": 980,
-		"monthly": {
-			"2014-12": {"total":380.00, "Strategic Accounts":380.00},
-			"2018-02": {"total":600.00, "Strategic Accounts":600.00}
-		}
-	},
-	"35559": {
-		"name": "Old Modernians Cricket Club",
-		"total": 4290,
-		"monthly": {
-			"2013-03": {"total":1000.00, "Strategic Accounts":1000.00},
-			"2015-02": {"total":3290.00, "Strategic Accounts":3290.00}
-		}
-	},
-	"35560": {
-		"name": "Old Modernians Rugby Union Club",
-		"total": 1000,
-		"monthly": {
-			"2014-04": {"total":1000.00, "Strategic Accounts":1000.00}
-		}
-	},
-	"35561": {
-		"name": "Old Otliensians Rufc Ltd",
-		"total": 1000,
-		"monthly": {
-			"2015-05": {"total":1000.00, "City Development":1000.00}
-		}
-	},
-	"35562": {
-		"name": "Old Pavillion",
-		"total": 52.52,
-		"monthly": {
-			"2019-11": {"total":6.19, "Children and Families":6.19},
-			"2019-12": {"total":46.33, "Children and Families":46.33}
-		}
-	},
-	"35563": {
-		"name": "Old Pool Bank Village Hall",
-		"total": 4116,
-		"monthly": {
-			"2014-06": {"total":300.00, "Central & Corporate":300.00},
-			"2015-05": {"total":300.00, "Central & Corporate":300.00},
-			"2015-12": {"total":255.00, "Childrens Services":255.00},
-			"2016-01": {"total":300.00, "Childrens Services":300.00},
-			"2016-03": {"total":135.00, "Childrens Services":135.00},
-			"2016-05": {"total":435.00, "Childrens Services":135.00, "Citizens and Communities":300.00},
-			"2016-07": {"total":300.00, "Citizens and Communities":300.00},
-			"2016-11": {"total":180.00, "Childrens Services":180.00},
-			"2017-02": {"total":300.00, "Citizens and Communities":300.00},
-			"2017-06": {"total":300.00, "Communities and Environment":300.00},
-			"2017-11": {"total":36.00, "Children and Families":36.00},
-			"2018-05": {"total":300.00, "Communities and Environment":300.00},
-			"2019-05": {"total":650.00, "Communities and Environment":650.00},
-			"2019-12": {"total":325.00, "Communities and Environment":325.00}
-		}
-	},
-	"35564": {
-		"name": "Old Post Office 01",
-		"total": 50,
-		"monthly": {
-			"2020-12": {"total":50.00, "Children and Families":50.00}
-		}
-	},
-	"35565": {
-		"name": "Old Quarry Adventure Playground",
-		"total": 50,
-		"monthly": {
-			"2016-09": {"total":50.00, "Childrens Services":50.00}
-		}
-	},
-	"35566": {
-		"name": "Old Sarum Hotels Ltd",
-		"total": 500,
-		"monthly": {
-			"2015-01": {"total":500.00, "City Development":500.00}
-		}
-	},
-	"35567": {
-		"name": "Old Ship Hotel",
-		"total": 583.34,
-		"monthly": {
-			"2018-01": {"total":300.00, "City Development":300.00},
-			"2018-03": {"total":266.67, "City Development":266.67},
-			"2018-04": {"total":16.67, "City Development":16.67}
-		}
-	},
-	"35568": {
-		"name": "Old Silkstone Brass Band",
-		"total": 400,
-		"monthly": {
-			"2021-09": {"total":400.00, "City Development":400.00}
-		}
-	},
-	"35569": {
-		"name": "Old Sleningford Farm",
-		"total": 1398.6,
-		"monthly": {
-			"2014-01": {"total":1228.60, "Environment & Housing":1228.60},
-			"2014-12": {"total":170.00, "Environment & Housing":170.00}
-		}
-	},
-	"35570": {
-		"name": "Old Sleningford Preserves",
-		"total": 8286.3,
-		"monthly": {
-			"2015-08": {"total":172.50, "Environment & Housing":172.50},
-			"2015-12": {"total":848.00, "Environment & Housing":848.00},
-			"2016-11": {"total":303.80, "Environment & Housing":303.80},
-			"2016-12": {"total":1122.00, "Environment & Housing":1122.00},
-			"2017-04": {"total":173.60, "Environment & Housing":173.60},
-			"2017-10": {"total":589.90, "Communities and Environment":589.90},
-			"2018-01": {"total":544.00, "Communities and Environment":544.00},
-			"2018-10": {"total":1004.50, "Communities and Environment":1004.50},
-			"2018-12": {"total":918.00, "Communities and Environment":918.00},
-			"2019-12": {"total":1913.40, "Communities and Environment":1913.40},
-			"2021-11": {"total":696.60, "Communities and Environment":696.60}
-		}
-	},
-	"35571": {
-		"name": "Old Vicarage Priory",
-		"total": 2651.24,
-		"monthly": {
-			"2019-08": {"total":2631.00, "Social Services Pooled Budgets":2631.00},
-			"2020-05": {"total":20.24, "Social Services Pooled Budgets":20.24}
-		}
-	},
-	"35572": {
-		"name": "Oldbury Grange",
-		"total": 58007.8,
-		"monthly": {
-			"2017-03": {"total":1260.04, "Adult Social Care":1260.04},
-			"2017-04": {"total":1248.73, "Adult Social Care":1248.73},
-			"2017-05": {"total":2489.92, "Adults and Health":2489.92},
-			"2017-06": {"total":1244.96, "Adults and Health":1244.96},
-			"2017-07": {"total":1486.83, "Adults and Health":1486.83},
-			"2017-08": {"total":1295.88, "Adults and Health":1295.88},
-			"2017-09": {"total":1295.88, "Adults and Health":1295.88},
-			"2017-10": {"total":1295.88, "Adults and Health":1295.88},
-			"2017-11": {"total":1295.88, "Adults and Health":1295.88},
-			"2017-12": {"total":1295.88, "Adults and Health":1295.88},
-			"2018-01": {"total":1295.88, "Adults and Health":1295.88},
-			"2018-02": {"total":1295.88, "Adults and Health":1295.88},
-			"2018-03": {"total":1295.88, "Adults and Health":1295.88},
-			"2018-04": {"total":1281.96, "Adults and Health":1281.96},
-			"2018-05": {"total":2871.88, "Adults and Health":2871.88},
-			"2018-06": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-07": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-08": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-09": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-10": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-11": {"total":1392.68, "Adults and Health":1392.68},
-			"2018-12": {"total":1392.68, "Adults and Health":1392.68},
-			"2019-01": {"total":1392.68, "Adults and Health":1392.68},
-			"2019-02": {"total":1392.68, "Adults and Health":1392.68},
-			"2019-03": {"total":1392.68, "Adults and Health":1392.68},
-			"2019-04": {"total":1380.26, "Adults and Health":1380.26},
-			"2019-05": {"total":2944.12, "Adults and Health":2944.12},
-			"2019-06": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-07": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-08": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-09": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-10": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-11": {"total":1445.00, "Adults and Health":1445.00},
-			"2019-12": {"total":1445.00, "Adults and Health":1445.00},
-			"2020-01": {"total":1445.00, "Adults and Health":1445.00},
-			"2020-02": {"total":1445.00, "Adults and Health":1445.00},
-			"2020-03": {"total":1445.00, "Adults and Health":1445.00},
-			"2020-04": {"total":2845.34, "Adults and Health":2845.34},
-			"2020-05": {"total":209.92, "Adults and Health":209.92}
-		}
-	},
-	"35573": {
-		"name": "Oldenburg Captain Jack",
-		"total": 8.85,
-		"monthly": {
-			"2016-12": {"total":8.85, "Childrens Services":8.85}
-		}
-	},
-	"35574": {
-		"name": "Older Mind Matters Ltd",
-		"total": 5300,
-		"monthly": {
-			"2013-10": {"total":1000.00, "Environment & Housing":1000.00},
-			"2014-04": {"total":3000.00, "Environment & Housing":3000.00},
-			"2014-12": {"total":1000.00, "Environment & Housing":1000.00},
-			"2015-02": {"total":300.00, "Environment & Housing":300.00}
-		}
-	},
-	"35575": {
-		"name": "Older Peoples Action In The Locality",
-		"total": 818907.6,
-		"monthly": {
-			"2011-03": {"total":1608.00, "Environment & Neighbourhoods":1608.00},
-			"2011-04": {"total":16774.00, "Adult Social Care":16774.00},
-			"2011-07": {"total":16774.00, "Adult Social Care":16774.00},
-			"2011-09": {"total":16774.00, "Adult Social Care":16774.00},
-			"2011-12": {"total":16774.00, "Adult Social Care":16774.00},
-			"2012-04": {"total":16774.00, "Adult Social Care":16774.00},
-			"2012-06": {"total":16774.00, "Adult Social Care":16774.00},
-			"2012-09": {"total":2450.00, "Adult Social Care":2450.00},
-			"2012-10": {"total":16774.00, "Adult Social Care":16774.00},
-			"2012-11": {"total":2820.00, "Central & Corporate Functions":2820.00},
-			"2012-12": {"total":19594.00, "Adult Social Care":16774.00, "Central & Corporate Functions":2820.00},
-			"2013-04": {"total":17797.57, "Adult Social Care":16774.00, "Central & Corporate":1023.57},
-			"2013-07": {"total":17614.25, "Adult Social Care":16774.00, "Central & Corporate":840.25},
-			"2013-10": {"total":16774.00, "Adult Social Care":16774.00},
-			"2013-11": {"total":498.05, "Central & Corporate":498.05},
-			"2013-12": {"total":20392.00, "Adult Social Care":16774.00, "Central & Corporate":3618.00},
-			"2014-01": {"total":100.00, "Strategic Accounts":100.00},
-			"2014-04": {"total":22143.00, "Adult Social Care":16774.00, "Central & Corporate":5369.00},
-			"2014-06": {"total":3480.00, "Adult Social Care":3480.00},
-			"2014-07": {"total":16774.00, "Adult Social Care":16774.00},
-			"2014-08": {"total":1620.00, "Adult Social Care":1620.00},
-			"2014-10": {"total":17242.90, "Adult Social Care":16774.00, "City Development":468.90},
-			"2014-11": {"total":4500.00, "Central & Corporate":4500.00},
-			"2014-12": {"total":16774.00, "Adult Social Care":16774.00},
-			"2015-04": {"total":21274.00, "Adult Social Care":16774.00, "Central & Corporate":4500.00},
-			"2015-05": {"total":10500.00, "Central & Corporate":10500.00},
-			"2015-07": {"total":27283.88, "Adult Social Care":16774.00, "Strategic Accounts":509.88, "Strategic Landlord":10000.00},
-			"2015-10": {"total":16774.00, "Adult Social Care":16774.00},
-			"2015-12": {"total":16774.00, "Adult Social Care":16774.00},
-			"2016-04": {"total":16774.00, "Adult Social Care":16774.00},
-			"2016-05": {"total":15000.00, "Citizens and Communities":15000.00},
-			"2016-07": {"total":14537.47, "Adult Social Care":14537.47},
-			"2016-09": {"total":14537.47, "Adult Social Care":14537.47},
-			"2016-11": {"total":100.00, "Strategic Accounts":100.00},
-			"2016-12": {"total":21117.47, "Adult Social Care":14537.47, "Citizens and Communities":6300.00, "Strategic Accounts":280.00},
-			"2017-03": {"total":648.00, "Citizens and Communities":548.00, "Strategic Accounts":100.00},
-			"2017-04": {"total":16849.00, "Adult Social Care":16774.00, "Citizens and Communities":75.00},
-			"2017-05": {"total":87.50, "Children and Families":87.50},
-			"2017-06": {"total":19768.00, "Adults and Health":16774.00, "Communities and Environment":2994.00},
-			"2017-07": {"total":8006.00, "Communities and Environment":2006.00, "Strategic Landlord":6000.00},
-			"2017-09": {"total":21774.00, "Adults and Health":16774.00, "Communities and Environment":5000.00},
-			"2017-10": {"total":37.50, "Children and Families":37.50},
-			"2017-12": {"total":16774.00, "Adults and Health":16774.00},
-			"2018-03": {"total":500.00, "Strategic Accounts":500.00},
-			"2018-04": {"total":16774.00, "Adults and Health":16774.00},
-			"2018-06": {"total":16774.00, "Adults and Health":16774.00},
-			"2018-08": {"total":150.00, "Strategic Accounts":150.00},
-			"2018-09": {"total":19899.00, "Adults and Health":19899.00},
-			"2018-11": {"total":100.00, "Strategic Accounts":100.00},
-			"2018-12": {"total":19899.00, "Adults and Health":19899.00},
-			"2019-01": {"total":20000.00, "Adults and Health":20000.00},
-			"2019-02": {"total":2790.00, "Adults and Health":2790.00},
-			"2019-03": {"total":4924.82, "Adults and Health":4504.82, "Children and Families":420.00},
-			"2019-04": {"total":22151.41, "Adults and Health":22151.41},
-			"2019-06": {"total":22151.41, "Adults and Health":22151.41},
-			"2019-08": {"total":1089.60, "Adults and Health":1000.00, "Strategic Accounts":89.60},
-			"2019-10": {"total":22151.41, "Adults and Health":22151.41},
-			"2019-11": {"total":94.22, "Strategic Accounts":94.22},
-			"2019-12": {"total":31503.26, "Adults and Health":31503.26},
-			"2020-01": {"total":88.00, "Children and Families":88.00},
-			"2020-03": {"total":20000.00, "Adults and Health":20000.00},
-			"2020-04": {"total":39651.41, "Adults and Health":39651.41}
-		}
-	},
-	"35576": {
-		"name": "Oldfield Construction (Leeds) Ltd",
-		"total": 22159.8,
-		"monthly": {
-			"2015-01": {"total":11000.00, "Environment & Housing":11000.00},
-			"2015-02": {"total":5000.00, "Environment & Housing":5000.00},
-			"2015-03": {"total":6159.80, "Environment & Housing":6159.80}
-		}
-	},
 	"35577": {
-		"name": "Oldfield Joinery Solutions Ltd",
-		"alternate-names": [
-			"Oldfield Joinery Solutions Ltd."
-		],
-		"total": 21982.36,
+		"name": "O Heap & Son (Derby) L",
+		"total": 100,
 		"monthly": {
-			"2016-09": {"total":5059.36, "Environment & Housing":5059.36},
-			"2016-11": {"total":11163.10, "Environment & Housing":11163.10},
-			"2017-02": {"total":5759.90, "Environment & Housing":5759.90}
+			"2016-08": {"total":100.00, "City Development":100.00}
 		}
 	},
 	"35578": {
-		"name": "Oldham And District U3a",
-		"total": 83.33,
+		"name": "O Khan",
+		"total": 11742,
 		"monthly": {
-			"2015-01": {"total":83.33, "Environment & Housing":83.33}
+			"2015-06": {"total":1181.00, "Central & Corporate":1181.00},
+			"2015-07": {"total":240.00, "Central & Corporate":240.00},
+			"2015-09": {"total":947.00, "Central & Corporate":947.00},
+			"2015-12": {"total":1480.00, "Central & Corporate":1480.00},
+			"2016-03": {"total":1821.00, "Public Health":1821.00},
+			"2016-06": {"total":1360.00, "Public Health":1360.00},
+			"2016-09": {"total":450.00, "Public Health":450.00},
+			"2016-11": {"total":721.00, "Public Health":721.00},
+			"2017-02": {"total":1119.00, "Public Health":1119.00},
+			"2017-05": {"total":495.00, "Adults and Health":495.00},
+			"2017-09": {"total":256.00, "Adults and Health":256.00},
+			"2017-11": {"total":1522.00, "Adults and Health":1522.00},
+			"2017-12": {"total":150.00, "Adults and Health":150.00}
 		}
 	},
 	"35579": {
-		"name": "Oldham Council",
-		"total": 1111,
+		"name": "O Lily",
+		"total": 720,
 		"monthly": {
-			"2016-12": {"total":1111.00, "City Development":1111.00}
+			"2014-03": {"total":100.00, "Central & Corporate":100.00},
+			"2014-10": {"total":100.00, "Central & Corporate":100.00},
+			"2014-12": {"total":100.00, "Central & Corporate":100.00},
+			"2016-02": {"total":100.00, "Central & Corporate":100.00},
+			"2016-08": {"total":200.00, "Central & Corporate":200.00},
+			"2017-01": {"total":120.00, "Central & Corporate":120.00}
 		}
 	},
 	"35580": {
-		"name": "Olesia Demcenko",
-		"total": 500,
+		"name": "O Nkunzimana",
+		"total": 22.5,
 		"monthly": {
-			"2021-03": {"total":500.00, "City Development":500.00}
+			"2016-06": {"total":22.50, "Citizens and Communities":22.50}
 		}
 	},
 	"35581": {
-		"name": "Olfat Asbardoun",
-		"total": 1671.3,
+		"name": "O Shittu",
+		"total": 500,
 		"monthly": {
-			"2021-01": {"total":90.00, "Communities and Environment":90.00},
-			"2021-03": {"total":290.10, "Communities and Environment":290.10},
-			"2021-04": {"total":118.80, "Communities and Environment":118.80},
-			"2021-05": {"total":81.00, "Communities and Environment":81.00},
-			"2021-06": {"total":217.20, "Communities and Environment":217.20},
-			"2021-07": {"total":112.50, "Communities and Environment":112.50},
-			"2021-08": {"total":102.00, "Communities and Environment":102.00},
-			"2021-09": {"total":282.90, "Communities and Environment":282.90},
-			"2021-10": {"total":209.70, "Communities and Environment":209.70},
-			"2021-11": {"total":167.10, "Communities and Environment":167.10}
+			"2016-03": {"total":500.00, "Citizens and Communities":500.00}
 		}
 	},
 	"35582": {
-		"name": "Olga Johnson",
-		"total": 1023,
+		"name": "O T Hall (Property Management) Ltd",
+		"total": 2477.32,
 		"monthly": {
-			"2019-11": {"total":139.50, "Communities and Environment":139.50},
-			"2020-01": {"total":90.00, "Communities and Environment":90.00},
-			"2020-02": {"total":126.00, "Communities and Environment":126.00},
-			"2020-03": {"total":189.00, "Communities and Environment":189.00},
-			"2020-08": {"total":9.00, "Communities and Environment":9.00},
-			"2020-09": {"total":22.50, "Communities and Environment":22.50},
-			"2021-01": {"total":27.00, "Communities and Environment":27.00},
-			"2021-02": {"total":75.30, "Communities and Environment":75.30},
-			"2021-03": {"total":47.70, "Communities and Environment":47.70},
-			"2021-04": {"total":36.00, "Communities and Environment":36.00},
-			"2021-05": {"total":63.00, "Communities and Environment":63.00},
-			"2021-06": {"total":99.00, "Communities and Environment":99.00},
-			"2021-07": {"total":45.00, "Communities and Environment":45.00},
-			"2021-10": {"total":25.80, "Communities and Environment":25.80},
-			"2021-11": {"total":28.20, "Communities and Environment":28.20}
+			"2014-02": {"total":850.00, "Childrens Services":850.00},
+			"2014-03": {"total":425.00, "Childrens Services":425.00},
+			"2014-04": {"total":425.00, "Childrens Services":425.00},
+			"2014-05": {"total":425.00, "Childrens Services":425.00},
+			"2015-09": {"total":352.00, "Childrens Services":352.00},
+			"2015-10": {"total":0.32, "Childrens Services":0.32}
 		}
 	},
 	"35583": {
-		"name": "Olga McGreavy",
-		"total": 6413.7,
+		"name": "O'Deli (Otley) Ltd",
+		"alternate-names": [
+			"O'Deli (Otley) Limited"
+		],
+		"total": 1912,
 		"monthly": {
-			"2020-06": {"total":94.50, "Communities and Environment":94.50},
-			"2020-07": {"total":193.50, "Communities and Environment":193.50},
-			"2020-08": {"total":99.00, "Communities and Environment":99.00},
-			"2020-09": {"total":324.00, "Communities and Environment":324.00},
-			"2020-10": {"total":490.20, "Communities and Environment":490.20},
-			"2020-11": {"total":588.00, "Communities and Environment":588.00},
-			"2020-12": {"total":405.00, "Communities and Environment":405.00},
-			"2021-01": {"total":427.50, "Communities and Environment":427.50},
-			"2021-02": {"total":303.00, "Communities and Environment":303.00},
-			"2021-03": {"total":271.50, "Communities and Environment":271.50},
-			"2021-04": {"total":300.00, "Communities and Environment":300.00},
-			"2021-05": {"total":532.50, "Communities and Environment":532.50},
-			"2021-06": {"total":652.50, "Communities and Environment":652.50},
-			"2021-07": {"total":430.50, "Communities and Environment":430.50},
-			"2021-08": {"total":124.50, "Communities and Environment":124.50},
-			"2021-09": {"total":300.00, "Communities and Environment":300.00},
-			"2021-10": {"total":546.00, "Communities and Environment":546.00},
-			"2021-11": {"total":331.50, "Communities and Environment":331.50}
+			"2021-02": {"total":1912.00, "City Development":1912.00}
 		}
 	},
 	"35584": {
-		"name": "Olga Mcgreavy",
-		"total": 15469.77,
+		"name": "O'Donnell Moonshing Ltd",
+		"total": 21,
 		"monthly": {
-			"2017-05": {"total":89.90, "Communities and Environment":89.90},
-			"2017-06": {"total":1165.22, "Communities and Environment":1165.22},
-			"2017-07": {"total":1049.00, "Communities and Environment":1049.00},
-			"2017-08": {"total":995.25, "Communities and Environment":995.25},
-			"2017-09": {"total":580.20, "Communities and Environment":580.20},
-			"2017-10": {"total":240.25, "Communities and Environment":240.25},
-			"2017-11": {"total":419.00, "Communities and Environment":419.00},
-			"2017-12": {"total":833.50, "Communities and Environment":833.50},
-			"2018-02": {"total":464.70, "Communities and Environment":464.70},
-			"2018-03": {"total":594.25, "Communities and Environment":594.25},
-			"2018-04": {"total":581.50, "Communities and Environment":581.50},
-			"2018-05": {"total":78.00, "Communities and Environment":78.00},
-			"2018-06": {"total":799.00, "Communities and Environment":799.00},
-			"2018-07": {"total":639.25, "Communities and Environment":639.25},
-			"2018-08": {"total":778.25, "Communities and Environment":778.25},
-			"2018-09": {"total":41.50, "Communities and Environment":41.50},
-			"2018-10": {"total":362.50, "Communities and Environment":362.50},
-			"2018-11": {"total":508.50, "Communities and Environment":508.50},
-			"2018-12": {"total":724.50, "Communities and Environment":724.50},
-			"2019-02": {"total":284.00, "Communities and Environment":284.00},
-			"2019-03": {"total":81.00, "Communities and Environment":81.00},
-			"2019-04": {"total":665.00, "Communities and Environment":665.00},
-			"2019-06": {"total":356.00, "Communities and Environment":356.00},
-			"2019-07": {"total":288.00, "Communities and Environment":288.00},
-			"2019-08": {"total":340.50, "Communities and Environment":340.50},
-			"2019-09": {"total":225.00, "Communities and Environment":225.00},
-			"2019-10": {"total":432.00, "Communities and Environment":432.00},
-			"2019-11": {"total":531.00, "Communities and Environment":531.00},
-			"2019-12": {"total":40.50, "Communities and Environment":40.50},
-			"2020-01": {"total":508.50, "Communities and Environment":508.50},
-			"2020-02": {"total":243.00, "Communities and Environment":243.00},
-			"2020-03": {"total":301.50, "Communities and Environment":301.50},
-			"2020-04": {"total":229.50, "Communities and Environment":229.50}
+			"2017-09": {"total":21.00, "Communities and Environment":21.00}
 		}
 	},
 	"35585": {
-		"name": "Oli-2 Partnership",
-		"total": 1450,
+		"name": "O'Gorman & Carey Flooring Contractors",
+		"total": 83.33,
 		"monthly": {
-			"2013-02": {"total":480.00, "Environment & Neighbourhoods":480.00},
-			"2013-07": {"total":480.00, "Environment & Housing":480.00},
-			"2014-05": {"total":490.00, "Environment & Housing":490.00}
+			"2014-12": {"total":83.33, "Central & Corporate":83.33}
 		}
 	},
 	"35586": {
-		"name": "Olive &rye",
-		"total": 27.98,
+		"name": "O'Gorman & Carey Flooring Contractors Lt",
+		"total": 3012,
 		"monthly": {
-			"2017-10": {"total":8.58, "City Development":8.58},
-			"2019-10": {"total":19.40, "City Development":19.40}
+			"2013-12": {"total":3012.00, "Central & Corporate":3012.00}
 		}
 	},
 	"35587": {
-		"name": "Olive Branch Fostering Ltd",
-		"total": 263404.78,
+		"name": "O'Neill Injury Solicitors",
+		"total": 9170,
 		"monthly": {
-			"2020-04": {"total":2995.80, "Children and Families":2995.80},
-			"2020-05": {"total":15919.00, "Children and Families":15919.00},
-			"2020-06": {"total":9612.74, "Children and Families":9612.74},
-			"2020-07": {"total":9302.36, "Children and Families":9302.36},
-			"2020-08": {"total":9612.44, "Children and Families":9612.44},
-			"2020-10": {"total":9612.44, "Children and Families":9612.44},
-			"2020-11": {"total":15656.41, "Children and Families":15656.41},
-			"2020-12": {"total":3258.39, "Children and Families":3258.39},
-			"2021-01": {"total":20045.79, "Children and Families":20045.79},
-			"2021-03": {"total":12408.52, "Children and Families":12408.52},
-			"2021-04": {"total":7027.52, "Children and Families":7027.52},
-			"2021-05": {"total":2995.80, "Children and Families":2995.80},
-			"2021-06": {"total":20782.44, "Children and Families":20782.44},
-			"2021-07": {"total":20296.26, "Children and Families":20296.26},
-			"2021-08": {"total":4693.62, "Children and Families":4693.62},
-			"2021-09": {"total":34621.33, "Children and Families":34621.33},
-			"2021-10": {"total":49064.46, "Children and Families":49064.46},
-			"2021-11": {"total":15499.46, "Children and Families":15499.46}
+			"2016-06": {"total":6000.00, "Insurance":6000.00},
+			"2016-11": {"total":1560.00, "Insurance":1560.00},
+			"2018-08": {"total":1610.00, "Insurance":1610.00}
 		}
 	},
 	"35588": {
-		"name": "Olive Branch Properties",
-		"total": 2010,
+		"name": "O'Neill Patient Solicitors LLP",
+		"total": 289750,
 		"monthly": {
-			"2018-05": {"total":1170.00, "Resources and Housing":1170.00},
-			"2019-11": {"total":840.00, "Resources and Housing":840.00}
+			"2021-07": {"total":144750.00, "Resources and Housing":144750.00},
+			"2021-08": {"total":144750.00, "Resources and Housing":144750.00},
+			"2021-09": {"total":250.00, "Resources and Housing":250.00}
 		}
 	},
 	"35589": {
-		"name": "Olive Rye",
-		"total": 62.35,
+		"name": "O'Neill Training Consultancy Ltd",
+		"total": 18300,
 		"monthly": {
-			"2020-08": {"total":20.00, "City Development":20.00},
-			"2021-07": {"total":20.00, "City Development":20.00},
-			"2021-10": {"total":22.35, "Children and Families":10.45, "City Development":11.90}
+			"2018-07": {"total":780.00, "Children and Families":780.00},
+			"2018-08": {"total":600.00, "Children and Families":600.00},
+			"2018-10": {"total":600.00, "Children and Families":600.00},
+			"2019-04": {"total":450.00, "Children and Families":450.00},
+			"2019-06": {"total":150.00, "Children and Families":150.00},
+			"2019-08": {"total":2450.00, "Children and Families":2450.00},
+			"2019-11": {"total":600.00, "Children and Families":600.00},
+			"2019-12": {"total":450.00, "Children and Families":450.00},
+			"2020-01": {"total":600.00, "Children and Families":600.00},
+			"2020-03": {"total":750.00, "Children and Families":750.00},
+			"2020-05": {"total":900.00, "Children and Families":900.00},
+			"2020-07": {"total":2300.00, "Children and Families":2300.00},
+			"2020-12": {"total":2000.00, "Children and Families":2000.00},
+			"2021-02": {"total":300.00, "Children and Families":300.00},
+			"2021-03": {"total":1800.00, "Children and Families":1800.00},
+			"2021-04": {"total":600.00, "Children and Families":600.00},
+			"2021-05": {"total":330.00, "Children and Families":330.00},
+			"2021-06": {"total":330.00, "Children and Families":330.00},
+			"2021-07": {"total":330.00, "Children and Families":330.00},
+			"2021-10": {"total":1650.00, "Children and Families":1650.00},
+			"2021-12": {"total":330.00, "Children and Families":330.00}
 		}
 	},
 	"35590": {
-		"name": "Oliver And Co Solicitors",
-		"total": 4987.4,
+		"name": "O2",
+		"total": 2406.87,
 		"monthly": {
-			"2021-07": {"total":4987.40, "Insurance":4987.40}
+			"2015-04": {"total":60.00, "Central & Corporate":60.00},
+			"2015-12": {"total":46.87, "Central & Corporate":46.87},
+			"2016-09": {"total":124.51, "Childrens Services":124.51},
+			"2016-11": {"total":40.00, "Central & Corporate":40.00},
+			"2017-04": {"total":24.99, "Children and Families":24.99},
+			"2017-06": {"total":33.33, "Resources and Housing":33.33},
+			"2018-03": {"total":62.50, "Resources and Housing":62.50},
+			"2018-04": {"total":25.00, "Resources and Housing":25.00},
+			"2018-07": {"total":134.99, "Adults and Health":89.99, "Resources and Housing":45.00},
+			"2018-09": {"total":229.00, "Resources and Housing":229.00},
+			"2018-10": {"total":171.66, "Resources and Housing":171.66},
+			"2018-11": {"total":41.66, "Resources and Housing":41.66},
+			"2018-12": {"total":56.65, "Resources and Housing":56.65},
+			"2019-01": {"total":35.00, "Adults and Health":10.00, "Resources and Housing":25.00},
+			"2019-02": {"total":145.78, "Children and Families":79.95, "Resources and Housing":65.83},
+			"2019-03": {"total":102.49, "Resources and Housing":102.49},
+			"2019-06": {"total":15.00, "Resources and Housing":15.00},
+			"2019-07": {"total":12.50, "Resources and Housing":12.50},
+			"2019-08": {"total":248.31, "City Development":214.98, "Resources and Housing":33.33},
+			"2019-09": {"total":50.00, "Resources and Housing":50.00},
+			"2019-10": {"total":52.50, "Resources and Housing":52.50},
+			"2019-11": {"total":25.00, "Resources and Housing":25.00},
+			"2019-12": {"total":37.50, "Resources and Housing":37.50},
+			"2020-01": {"total":87.50, "Resources and Housing":87.50},
+			"2020-03": {"total":15.00, "Resources and Housing":15.00},
+			"2020-09": {"total":76.97, "Resources and Housing":76.97},
+			"2020-10": {"total":45.83, "Resources and Housing":45.83},
+			"2020-11": {"total":50.00, "Resources and Housing":50.00},
+			"2021-06": {"total":29.00, "Communities Housing and Environment":29.00},
+			"2021-07": {"total":24.17, "Communities Housing and Environment":24.17},
+			"2021-09": {"total":48.34, "Resources and Housing":48.34},
+			"2021-10": {"total":101.50, "Resources and Housing":101.50},
+			"2021-11": {"total":153.32, "Communities and Environment":153.32}
 		}
 	},
 	"35591": {
-		"name": "Oliver Bowett",
-		"total": 500,
+		"name": "O2 Arndale - Gprs",
+		"total": 520.44,
 		"monthly": {
-			"2021-04": {"total":500.00, "City Development":500.00}
+			"2015-12": {"total":24.99, "Childrens Services":24.99},
+			"2016-07": {"total":119.99, "Childrens Services":119.99},
+			"2016-09": {"total":24.99, "Childrens Services":24.99},
+			"2017-01": {"total":16.66, "Childrens Services":16.66},
+			"2017-02": {"total":20.00, "Childrens Services":20.00},
+			"2017-03": {"total":44.99, "Childrens Services":44.99},
+			"2017-12": {"total":39.99, "Children and Families":39.99},
+			"2018-02": {"total":45.00, "Children and Families":45.00},
+			"2018-10": {"total":10.00, "Children and Families":10.00},
+			"2019-01": {"total":84.83, "Children and Families":84.83},
+			"2019-04": {"total":19.00, "Children and Families":19.00},
+			"2019-09": {"total":15.00, "Children and Families":15.00},
+			"2019-10": {"total":15.00, "Children and Families":15.00},
+			"2020-01": {"total":15.00, "Children and Families":15.00},
+			"2021-06": {"total":25.00, "Resources and Housing":25.00}
 		}
 	},
 	"35592": {
-		"name": "Oliver Campbell",
-		"total": 93027.43,
+		"name": "O2 Health",
+		"total": 595.38,
 		"monthly": {
-			"2013-12": {"total":14712.38, "Adult Social Care":14712.38},
-			"2014-01": {"total":6779.83, "Adult Social Care":922.00, "City Development":5857.83},
-			"2014-02": {"total":1665.00, "City Development":1665.00},
-			"2015-08": {"total":2712.33, "Childrens Services":2712.33},
-			"2015-12": {"total":1858.25, "Childrens Services":1858.25},
-			"2016-02": {"total":1747.85, "Childrens Services":1747.85},
-			"2016-07": {"total":3256.72, "Childrens Services":3256.72},
-			"2016-10": {"total":2727.08, "Childrens Services":2727.08},
-			"2017-02": {"total":7981.15, "Childrens Services":7981.15},
-			"2017-03": {"total":3279.12, "Childrens Services":3279.12},
-			"2017-07": {"total":5454.17, "Children and Families":5454.17},
-			"2017-09": {"total":5293.75, "Children and Families":5293.75},
-			"2017-12": {"total":3343.87, "Children and Families":3343.87},
-			"2018-01": {"total":31940.93, "Resources and Housing":31940.93},
-			"2018-02": {"total":275.00, "Children and Families":275.00}
+			"2012-10": {"total":595.38, "Adult Social Care":595.38}
 		}
 	},
 	"35593": {
-		"name": "Oliver Carr",
-		"total": 500,
+		"name": "O2 Mbb",
+		"total": 10.83,
 		"monthly": {
-			"2015-12": {"total":500.00, "City Development":500.00}
+			"2014-04": {"total":10.83, "City Development":10.83}
 		}
 	},
 	"35594": {
-		"name": "Oliver Clarkson",
-		"total": 200,
+		"name": "O2 Merrion Centre",
+		"total": 120,
 		"monthly": {
-			"2015-07": {"total":200.00, "City Development":200.00}
+			"2018-08": {"total":120.00, "Communities and Environment":120.00}
 		}
 	},
 	"35595": {
-		"name": "Oliver Croft - Lifeways",
-		"total": 468367.51,
+		"name": "O2 Prepay Top-Up",
+		"total": 639.16,
 		"monthly": {
-			"2018-06": {"total":30740.92, "Adults and Health":1052.23, "Social Services Pooled Budgets":29688.69},
-			"2018-07": {"total":4240.80, "Social Services Pooled Budgets":4240.80},
-			"2018-08": {"total":33878.50, "Adults and Health":4778.80, "Social Services Pooled Budgets":29099.70},
-			"2018-10": {"total":49300.18, "Adults and Health":3823.04, "Social Services Pooled Budgets":45477.14},
-			"2019-01": {"total":7529.54, "Adults and Health":2730.74, "Social Services Pooled Budgets":4798.80},
-			"2019-02": {"total":65981.37, "Adults and Health":30537.83, "Social Services Pooled Budgets":35443.54},
-			"2019-03": {"total":23081.27, "Social Services Pooled Budgets":23081.27},
-			"2019-04": {"total":24548.01, "Social Services Pooled Budgets":24548.01},
-			"2019-05": {"total":23116.67, "Social Services Pooled Budgets":23116.67},
-			"2019-06": {"total":4840.60, "Social Services Pooled Budgets":4840.60},
-			"2019-07": {"total":27246.04, "Social Services Pooled Budgets":27246.04},
-			"2019-08": {"total":14229.00, "Social Services Pooled Budgets":14229.00},
-			"2019-09": {"total":14229.00, "Social Services Pooled Budgets":14229.00},
-			"2019-10": {"total":7368.59, "Social Services Pooled Budgets":7368.59},
-			"2019-11": {"total":20187.04, "Social Services Pooled Budgets":20187.04},
-			"2019-12": {"total":13715.68, "Social Services Pooled Budgets":13715.68},
-			"2020-01": {"total":13715.68, "Social Services Pooled Budgets":13715.68},
-			"2020-02": {"total":13715.68, "Social Services Pooled Budgets":13715.68},
-			"2020-03": {"total":13715.68, "Social Services Pooled Budgets":13715.68},
-			"2020-04": {"total":27347.45, "Social Services Pooled Budgets":27347.45},
-			"2020-05": {"total":35639.81, "Adults and Health":1371.57, "Social Services Pooled Budgets":34268.24}
+			"2015-04": {"total":10.00, "Central & Corporate":10.00},
+			"2016-08": {"total":20.00, "City Development":20.00},
+			"2017-10": {"total":10.00, "Children and Families":10.00},
+			"2017-12": {"total":10.00, "Children and Families":10.00},
+			"2018-09": {"total":10.00, "City Development":10.00},
+			"2018-11": {"total":20.00, "City Development":20.00},
+			"2019-05": {"total":10.00, "Children and Families":10.00},
+			"2019-06": {"total":10.00, "Children and Families":10.00},
+			"2019-08": {"total":20.00, "Children and Families":20.00},
+			"2020-04": {"total":40.00, "Children and Families":40.00},
+			"2020-05": {"total":50.00, "Children and Families":50.00},
+			"2020-06": {"total":63.33, "Children and Families":63.33},
+			"2020-10": {"total":15.00, "Children and Families":15.00},
+			"2020-11": {"total":10.00, "Children and Families":10.00},
+			"2020-12": {"total":10.00, "Children and Families":10.00},
+			"2021-01": {"total":90.00, "Children and Families":30.00, "Resources and Housing":60.00},
+			"2021-02": {"total":60.00, "Resources and Housing":60.00},
+			"2021-03": {"total":30.00, "Children and Families":30.00},
+			"2021-04": {"total":28.33, "Children and Families":28.33},
+			"2021-05": {"total":20.00, "Children and Families":20.00},
+			"2021-06": {"total":10.00, "Children and Families":10.00},
+			"2021-07": {"total":30.00, "Children and Families":10.00, "Communities Housing and Environment":20.00},
+			"2021-08": {"total":12.50, "Children and Families":12.50},
+			"2021-09": {"total":10.00, "Children and Families":10.00},
+			"2021-10": {"total":20.00, "Children and Families":20.00},
+			"2021-11": {"total":20.00, "Children and Families":20.00}
 		}
 	},
 	"35596": {
-		"name": "Oliver Dover",
-		"total": 800,
+		"name": "O2 Retail",
+		"total": 385.31,
 		"monthly": {
-			"2014-10": {"total":800.00, "City Development":800.00}
+			"2014-09": {"total":12.99, "City Development":12.99},
+			"2015-08": {"total":91.66, "City Development":91.66},
+			"2016-08": {"total":36.66, "Childrens Services":36.66},
+			"2019-05": {"total":90.83, "City Development":90.83},
+			"2019-10": {"total":74.17, "City Development":74.17},
+			"2021-08": {"total":79.00, "Children and Families":79.00}
 		}
 	},
 	"35597": {
-		"name": "Oliver Gordan",
-		"total": 1784.97,
+		"name": "O2 UK LTD",
+		"alternate-names": [
+			"O2 UK LIMITED"
+		],
+		"total": 4260.73,
 		"monthly": {
-			"2021-09": {"total":1784.97, "Children and Families":1784.97}
+			"2010-12": {"total":1858.82, "Childrens Services":804.64, "City Development":495.72, "Environment & Neighbourhoods":558.46},
+			"2011-01": {"total":2401.91, "Childrens Services":775.91, "City Development":1069.42, "Environment & Neighbourhoods":556.58}
 		}
 	},
 	"35598": {
-		"name": "Oliver Grange Services Ltd",
-		"total": 356915.28,
+		"name": "O2 UK Pay & Go",
+		"total": 119.99,
 		"monthly": {
-			"2015-02": {"total":254.20, "Central & Corporate":254.20},
-			"2015-03": {"total":202.45, "Central & Corporate":202.45},
-			"2015-04": {"total":731.35, "Central & Corporate":731.35},
-			"2015-05": {"total":278.15, "Central & Corporate":278.15},
-			"2015-07": {"total":1240.80, "Central & Corporate":1240.80},
-			"2015-08": {"total":41.00, "Central & Corporate":41.00},
-			"2015-09": {"total":1297.00, "Central & Corporate":1297.00},
-			"2015-10": {"total":567.00, "Citizens and Communities":567.00},
-			"2015-11": {"total":2125.35, "Citizens and Communities":2125.35},
-			"2015-12": {"total":1495.40, "Citizens and Communities":1495.40},
-			"2016-01": {"total":1357.60, "Citizens and Communities":1357.60},
-			"2016-02": {"total":2063.55, "Citizens and Communities":2063.55},
-			"2016-03": {"total":814.65, "Citizens and Communities":814.65},
-			"2016-04": {"total":4418.95, "Childrens Services":202.80, "Citizens and Communities":4216.15},
-			"2016-05": {"total":99.00, "Citizens and Communities":99.00},
-			"2016-06": {"total":1926.75, "Childrens Services":66.40, "Citizens and Communities":1860.35},
-			"2016-07": {"total":3549.80, "Citizens and Communities":3549.80},
-			"2016-08": {"total":11794.68, "Citizens and Communities":11794.68},
-			"2016-09": {"total":5499.75, "Citizens and Communities":5499.75},
-			"2016-10": {"total":26176.40, "Citizens and Communities":26176.40},
-			"2016-11": {"total":1204.30, "Citizens and Communities":1204.30},
-			"2016-12": {"total":4379.35, "Childrens Services":125.80, "Citizens and Communities":4253.55},
-			"2017-01": {"total":3486.25, "Citizens and Communities":3486.25},
-			"2017-02": {"total":5665.52, "Citizens and Communities":5665.52},
-			"2017-03": {"total":3784.80, "Childrens Services":132.50, "Citizens and Communities":3652.30},
-			"2017-04": {"total":1597.91, "Citizens and Communities":1597.91},
-			"2017-05": {"total":20686.50, "Citizens and Communities":20686.50},
-			"2017-06": {"total":4442.25, "Communities and Environment":4442.25},
-			"2017-07": {"total":10262.05, "Communities and Environment":10262.05},
-			"2017-08": {"total":14097.70, "Communities and Environment":14097.70},
-			"2017-09": {"total":10882.60, "Communities and Environment":10882.60},
-			"2017-10": {"total":12450.50, "Communities and Environment":12450.50},
-			"2017-11": {"total":3771.60, "Communities and Environment":3771.60},
-			"2017-12": {"total":6838.35, "Communities and Environment":6838.35},
-			"2018-01": {"total":3164.30, "Communities and Environment":3164.30},
-			"2018-02": {"total":3832.65, "Communities and Environment":3832.65},
-			"2018-03": {"total":2834.30, "Communities and Environment":2834.30},
-			"2018-04": {"total":6819.20, "Communities and Environment":6819.20},
-			"2018-05": {"total":4926.40, "Communities and Environment":4926.40},
-			"2018-06": {"total":2248.70, "Communities and Environment":2248.70},
-			"2018-07": {"total":3876.45, "Communities and Environment":3876.45},
-			"2018-08": {"total":2783.35, "Communities and Environment":2783.35},
-			"2018-09": {"total":5604.35, "Communities and Environment":5604.35},
-			"2018-10": {"total":2881.55, "Communities and Environment":2881.55},
-			"2018-11": {"total":3575.10, "Communities and Environment":3575.10},
-			"2018-12": {"total":2338.92, "Communities and Environment":2338.92},
-			"2019-01": {"total":4096.40, "Communities and Environment":4096.40},
-			"2019-02": {"total":2499.30, "Communities and Environment":2499.30},
-			"2019-03": {"total":5051.25, "Communities and Environment":5051.25},
-			"2019-04": {"total":4960.15, "Communities and Environment":4960.15},
-			"2019-07": {"total":6444.20, "Communities and Environment":6444.20},
-			"2019-08": {"total":10202.80, "Communities and Environment":10202.80},
-			"2019-09": {"total":10777.15, "Communities and Environment":10777.15},
-			"2019-10": {"total":7610.70, "Communities and Environment":7610.70},
-			"2019-11": {"total":4125.80, "Communities and Environment":4125.80},
-			"2019-12": {"total":6047.66, "Communities and Environment":6047.66},
-			"2020-01": {"total":4463.15, "Communities and Environment":4463.15},
-			"2020-02": {"total":7113.76, "Communities and Environment":7113.76},
-			"2020-03": {"total":5932.30, "Communities and Environment":5932.30},
-			"2020-04": {"total":6502.90, "Communities and Environment":6502.90},
-			"2020-05": {"total":481.10, "Communities and Environment":481.10},
-			"2020-07": {"total":568.75, "Communities and Environment":568.75},
-			"2020-08": {"total":1486.05, "Communities and Environment":1486.05},
-			"2020-09": {"total":661.70, "Communities and Environment":661.70},
-			"2020-11": {"total":1621.70, "Communities and Environment":1621.70},
-			"2021-01": {"total":5638.40, "Communities and Environment":5638.40},
-			"2021-02": {"total":2719.20, "Communities and Environment":2719.20},
-			"2021-03": {"total":4973.40, "Communities and Environment":4973.40},
-			"2021-04": {"total":4755.55, "Communities and Environment":4755.55},
-			"2021-06": {"total":3097.40, "Communities and Environment":3097.40},
-			"2021-07": {"total":4075.11, "Communities and Environment":4075.11},
-			"2021-08": {"total":5303.22, "Communities and Environment":5303.22},
-			"2021-09": {"total":5704.60, "Communities and Environment":5704.60},
-			"2021-10": {"total":9154.50, "Communities and Environment":9154.50},
-			"2021-11": {"total":6478.30, "Communities and Environment":6478.30}
+			"2017-10": {"total":8.33, "Children and Families":8.33},
+			"2018-07": {"total":10.00, "Children and Families":10.00},
+			"2020-04": {"total":10.00, "Children and Families":10.00},
+			"2021-01": {"total":38.33, "Resources and Housing":38.33},
+			"2021-04": {"total":8.33, "Children and Families":8.33},
+			"2021-06": {"total":20.00, "Children and Families":20.00},
+			"2021-07": {"total":15.00, "Communities Housing and Environment":15.00},
+			"2021-11": {"total":10.00, "Children and Families":10.00}
 		}
 	},
 	"35599": {
-		"name": "Oliver House - New Farm House",
-		"total": 68758.67,
+		"name": "O2 UK Payment",
+		"total": 64557.45,
 		"monthly": {
-			"2019-07": {"total":8280.00, "Children and Families":8280.00},
-			"2019-08": {"total":60478.67, "Children and Families":60478.67}
+			"2014-05": {"total":1731.56, "Environment & Housing":1731.56},
+			"2014-06": {"total":1143.70, "Environment & Housing":1143.70},
+			"2014-07": {"total":919.68, "Environment & Housing":919.68},
+			"2014-09": {"total":1705.72, "Environment & Housing":1705.72},
+			"2014-10": {"total":820.86, "Environment & Housing":820.86},
+			"2014-11": {"total":1079.51, "Environment & Housing":1079.51},
+			"2014-12": {"total":908.63, "Environment & Housing":908.63},
+			"2015-01": {"total":986.69, "Environment & Housing":986.69},
+			"2015-02": {"total":967.89, "Environment & Housing":967.89},
+			"2015-04": {"total":2082.43, "Central & Corporate":1131.25, "Environment & Housing":951.18},
+			"2015-05": {"total":936.62, "Environment & Housing":936.62},
+			"2015-06": {"total":953.85, "Environment & Housing":953.85},
+			"2015-07": {"total":966.73, "Environment & Housing":966.73},
+			"2015-08": {"total":932.75, "Environment & Housing":932.75},
+			"2015-09": {"total":973.28, "Environment & Housing":973.28},
+			"2015-10": {"total":956.90, "Environment & Housing":956.90},
+			"2015-11": {"total":947.83, "Environment & Housing":947.83},
+			"2015-12": {"total":972.66, "Environment & Housing":972.66},
+			"2016-01": {"total":957.82, "Environment & Housing":957.82},
+			"2016-03": {"total":959.46, "Environment & Housing":959.46},
+			"2016-04": {"total":992.25, "Environment & Housing":992.25},
+			"2016-05": {"total":957.56, "Environment & Housing":957.56},
+			"2016-06": {"total":944.32, "Environment & Housing":944.32},
+			"2016-07": {"total":1009.89, "Environment & Housing":1009.89},
+			"2016-08": {"total":1911.43, "Environment & Housing":1911.43},
+			"2016-09": {"total":937.82, "Environment & Housing":937.82},
+			"2016-10": {"total":941.09, "Environment & Housing":941.09},
+			"2016-12": {"total":948.91, "Environment & Housing":948.91},
+			"2017-01": {"total":969.65, "Environment & Housing":969.65},
+			"2017-02": {"total":1003.48, "Environment & Housing":1003.48},
+			"2017-03": {"total":1859.77, "Environment & Housing":1859.77},
+			"2017-04": {"total":845.25, "Environment & Housing":845.25},
+			"2017-05": {"total":834.92, "Environment & Housing":834.92},
+			"2017-07": {"total":1885.05, "Environment & Housing":1885.05},
+			"2017-09": {"total":2086.54, "Communities and Environment":2086.54},
+			"2017-11": {"total":1589.08, "Communities and Environment":1589.08},
+			"2018-01": {"total":1545.42, "Communities and Environment":1545.42},
+			"2018-02": {"total":740.04, "Communities and Environment":740.04},
+			"2018-04": {"total":1506.17, "Communities and Environment":1506.17},
+			"2018-05": {"total":793.88, "Communities and Environment":793.88},
+			"2018-07": {"total":875.60, "Communities and Environment":875.60},
+			"2018-09": {"total":2046.65, "Communities and Environment":2046.65},
+			"2018-11": {"total":2399.49, "Communities and Environment":2399.49},
+			"2018-12": {"total":1078.78, "Communities and Environment":1078.78},
+			"2019-01": {"total":1395.74, "Communities and Environment":1395.74},
+			"2019-05": {"total":2160.45, "Communities and Environment":2160.45},
+			"2019-08": {"total":1702.74, "Communities and Environment":1702.74},
+			"2019-10": {"total":2900.83, "Communities and Environment":2900.83},
+			"2019-12": {"total":1449.08, "Communities and Environment":1449.08},
+			"2020-01": {"total":1320.45, "Communities and Environment":1320.45},
+			"2020-02": {"total":672.69, "Communities and Environment":672.69},
+			"2020-09": {"total":347.86, "Communities and Environment":347.86}
 		}
 	}
 	}

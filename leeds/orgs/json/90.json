@@ -1,21 +1,675 @@
 {
-	"range": ["2010-10","2021-11"],
+	"range": ["2010-10","2021-12"],
 	"data": {
 	"4500": {
+		"name": "Attitude Translations",
+		"total": 558.15,
+		"monthly": {
+			"2014-11": {"total":32.00, "Central & Corporate":32.00},
+			"2015-02": {"total":65.68, "Central & Corporate":65.68},
+			"2015-04": {"total":21.00, "Central & Corporate":21.00},
+			"2015-11": {"total":97.82, "Citizens and Communities":97.82},
+			"2015-12": {"total":75.50, "Citizens and Communities":75.50},
+			"2016-07": {"total":33.60, "Citizens and Communities":33.60},
+			"2016-12": {"total":61.25, "Citizens and Communities":61.25},
+			"2017-02": {"total":107.00, "Citizens and Communities":107.00},
+			"2017-05": {"total":64.30, "Communities and Environment":64.30}
+		}
+	},
+	"4501": {
+		"name": "Attlee Court",
+		"total": 182421.01,
+		"monthly": {
+			"2011-02": {"total":2304.20, "Adult Social Care":2304.20},
+			"2011-03": {"total":2304.20, "Adult Social Care":2304.20},
+			"2011-04": {"total":15724.40, "Adult Social Care":15724.40},
+			"2011-05": {"total":2709.32, "Adult Social Care":2709.32},
+			"2011-06": {"total":2727.36, "Adult Social Care":2727.36},
+			"2011-07": {"total":2727.36, "Adult Social Care":2727.36},
+			"2011-08": {"total":5454.72, "Adult Social Care":5454.72},
+			"2011-09": {"total":2727.36, "Adult Social Care":2727.36},
+			"2011-10": {"total":2727.36, "Adult Social Care":2727.36},
+			"2011-11": {"total":2727.36, "Adult Social Care":2727.36},
+			"2011-12": {"total":2727.36, "Adult Social Care":2727.36},
+			"2012-01": {"total":2727.36, "Adult Social Care":2727.36},
+			"2012-02": {"total":2727.36, "Adult Social Care":2727.36},
+			"2012-03": {"total":2727.36, "Adult Social Care":2727.36},
+			"2012-04": {"total":2727.36, "Adult Social Care":2727.36},
+			"2012-05": {"total":2691.28, "Adult Social Care":2691.28},
+			"2012-07": {"total":1125.32, "Adult Social Care":1125.32},
+			"2012-08": {"total":2250.64, "Adult Social Care":2250.64},
+			"2012-09": {"total":1125.32, "Adult Social Care":1125.32},
+			"2013-11": {"total":3285.86, "Adult Social Care":3285.86},
+			"2013-12": {"total":1122.00, "Adult Social Care":1122.00},
+			"2014-04": {"total":6125.57, "Adult Social Care":6125.57},
+			"2014-06": {"total":3151.44, "Adult Social Care":3151.44},
+			"2014-12": {"total":13189.71, "Adult Social Care":13189.71},
+			"2015-01": {"total":858.11, "Adult Social Care":858.11},
+			"2015-02": {"total":6051.89, "Adult Social Care":6051.89},
+			"2015-03": {"total":1827.20, "Adult Social Care":1827.20},
+			"2015-05": {"total":1319.87, "Adult Social Care":1319.87},
+			"2015-06": {"total":842.28, "Adult Social Care":842.28},
+			"2015-07": {"total":1764.56, "Adult Social Care":1764.56},
+			"2015-08": {"total":858.28, "Adult Social Care":858.28},
+			"2015-09": {"total":858.28, "Adult Social Care":858.28},
+			"2017-01": {"total":3360.85, "Adult Social Care":3360.85},
+			"2017-02": {"total":1383.88, "Adult Social Care":1383.88},
+			"2017-03": {"total":1383.88, "Adult Social Care":1383.88},
+			"2017-04": {"total":1383.88, "Adult Social Care":1383.88},
+			"2017-05": {"total":2921.76, "Adults and Health":2921.76},
+			"2017-06": {"total":1439.88, "Adults and Health":1439.88},
+			"2017-07": {"total":1439.88, "Adults and Health":1439.88},
+			"2017-08": {"total":1439.88, "Adults and Health":1439.88},
+			"2017-09": {"total":4737.72, "Adults and Health":4737.72},
+			"2017-10": {"total":2818.08, "Adults and Health":2818.08},
+			"2017-11": {"total":2818.08, "Adults and Health":2818.08},
+			"2017-12": {"total":2818.08, "Adults and Health":2818.08},
+			"2018-01": {"total":2818.08, "Adults and Health":2818.08},
+			"2018-03": {"total":1378.20, "Adults and Health":1378.20},
+			"2018-04": {"total":1367.25, "Adults and Health":1367.25},
+			"2018-05": {"total":2727.20, "Adults and Health":2727.20},
+			"2018-06": {"total":1738.60, "Adults and Health":1738.60},
+			"2018-07": {"total":1463.60, "Adults and Health":1463.60},
+			"2018-08": {"total":1463.60, "Adults and Health":1463.60},
+			"2018-09": {"total":1463.60, "Adults and Health":1463.60},
+			"2018-10": {"total":1463.60, "Adults and Health":1463.60},
+			"2018-11": {"total":1463.60, "Adults and Health":1463.60},
+			"2018-12": {"total":1463.60, "Adults and Health":1463.60},
+			"2019-01": {"total":1463.60, "Adults and Health":1463.60},
+			"2019-02": {"total":1463.60, "Adults and Health":1463.60},
+			"2019-03": {"total":1463.60, "Adults and Health":1463.60},
+			"2019-04": {"total":1450.85, "Adults and Health":1450.85},
+			"2019-05": {"total":5948.32, "Adults and Health":5948.32},
+			"2019-06": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-07": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-08": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-09": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-10": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-11": {"total":1526.60, "Adults and Health":1526.60},
+			"2019-12": {"total":1526.60, "Adults and Health":1526.60},
+			"2020-01": {"total":1526.60, "Adults and Health":1526.60},
+			"2020-02": {"total":1962.77, "Adults and Health":1962.77},
+			"2020-03": {"total":1526.60, "Adults and Health":1526.60},
+			"2020-04": {"total":3744.44, "Adults and Health":3744.44},
+			"2020-05": {"total":209.60, "Adults and Health":209.60}
+		}
+	},
+	"4502": {
+		"name": "Attraction And Event Tick",
+		"total": 140,
+		"monthly": {
+			"2015-11": {"total":50.00, "City Development":50.00},
+			"2017-11": {"total":90.00, "Children and Families":90.00}
+		}
+	},
+	"4503": {
+		"name": "Attwoolls Manufact",
+		"total": 270.6,
+		"monthly": {
+			"2015-05": {"total":270.60, "Childrens Services":270.60}
+		}
+	},
+	"4504": {
+		"name": "Attwoolls.Co.Uk",
+		"total": 20.83,
+		"monthly": {
+			"2016-06": {"total":20.83, "Childrens Services":20.83}
+		}
+	},
+	"4505": {
+		"name": "Attwoolsmanufactur",
+		"total": 178.65,
+		"monthly": {
+			"2016-06": {"total":123.10, "Childrens Services":123.10},
+			"2018-04": {"total":55.55, "Children and Families":55.55}
+		}
+	},
+	"4506": {
+		"name": "Atus Systems Ltd",
+		"total": 72865.29,
+		"monthly": {
+			"2015-04": {"total":225.00, "Childrens Services":225.00},
+			"2015-05": {"total":89.00, "Childrens Services":89.00},
+			"2015-07": {"total":522.40, "Childrens Services":522.40},
+			"2015-08": {"total":700.00, "Childrens Services":700.00},
+			"2015-12": {"total":225.00, "Childrens Services":225.00},
+			"2016-02": {"total":698.50, "Childrens Services":698.50},
+			"2016-06": {"total":375.00, "Childrens Services":375.00},
+			"2016-08": {"total":500.69, "Childrens Services":500.69},
+			"2016-09": {"total":1042.47, "Childrens Services":1042.47},
+			"2016-10": {"total":664.15, "Childrens Services":664.15},
+			"2016-12": {"total":748.87, "Childrens Services":748.87},
+			"2017-02": {"total":75.69, "Childrens Services":75.69},
+			"2017-03": {"total":228.49, "Childrens Services":228.49},
+			"2017-05": {"total":287.55, "Children and Families":287.55},
+			"2017-06": {"total":1055.07, "Children and Families":1055.07},
+			"2017-07": {"total":800.34, "Children and Families":800.34},
+			"2017-08": {"total":412.49, "Children and Families":412.49},
+			"2017-09": {"total":946.40, "Children and Families":946.40},
+			"2017-10": {"total":349.32, "Children and Families":349.32},
+			"2017-11": {"total":724.65, "Children and Families":724.65},
+			"2017-12": {"total":598.96, "Children and Families":598.96},
+			"2018-01": {"total":972.51, "Children and Families":972.51},
+			"2018-02": {"total":75.69, "Children and Families":75.69},
+			"2018-03": {"total":151.38, "Children and Families":151.38},
+			"2018-04": {"total":274.54, "Children and Families":274.54},
+			"2018-05": {"total":963.25, "Children and Families":963.25},
+			"2018-06": {"total":326.89, "Children and Families":326.89},
+			"2018-07": {"total":1086.73, "Children and Families":1086.73},
+			"2018-08": {"total":2221.89, "Children and Families":2221.89},
+			"2018-09": {"total":26824.55, "Children and Families":26824.55},
+			"2018-10": {"total":350.24, "Children and Families":350.24},
+			"2018-11": {"total":1231.81, "Children and Families":1231.81},
+			"2018-12": {"total":376.91, "Children and Families":376.91},
+			"2019-01": {"total":153.46, "Children and Families":153.46},
+			"2019-02": {"total":661.23, "Children and Families":661.23},
+			"2019-03": {"total":392.07, "Children and Families":392.07},
+			"2019-04": {"total":420.49, "Children and Families":420.49},
+			"2019-05": {"total":1334.54, "Children and Families":1334.54},
+			"2019-06": {"total":101.73, "Children and Families":101.73},
+			"2019-07": {"total":590.08, "Children and Families":590.08},
+			"2019-08": {"total":1736.47, "Children and Families":1736.47},
+			"2019-09": {"total":882.93, "Children and Families":882.93},
+			"2019-10": {"total":341.51, "Children and Families":341.51},
+			"2019-11": {"total":513.03, "Children and Families":513.03},
+			"2019-12": {"total":1472.11, "Children and Families":1472.11},
+			"2020-01": {"total":1767.74, "Children and Families":1767.74},
+			"2020-02": {"total":305.02, "Children and Families":305.02},
+			"2020-03": {"total":1217.42, "Children and Families":1217.42},
+			"2020-04": {"total":1351.21, "Children and Families":1351.21},
+			"2020-05": {"total":587.47, "Children and Families":587.47},
+			"2020-06": {"total":232.73, "Children and Families":232.73},
+			"2020-07": {"total":78.78, "Children and Families":78.78},
+			"2020-08": {"total":342.26, "Children and Families":342.26},
+			"2020-09": {"total":399.26, "Children and Families":399.26},
+			"2020-10": {"total":298.50, "Children and Families":298.50},
+			"2020-11": {"total":578.06, "Children and Families":578.06},
+			"2020-12": {"total":1977.88, "Children and Families":1977.88},
+			"2021-01": {"total":893.37, "Children and Families":893.37},
+			"2021-02": {"total":438.81, "Children and Families":438.81},
+			"2021-03": {"total":1110.18, "Children and Families":1110.18},
+			"2021-05": {"total":662.32, "Children and Families":662.32},
+			"2021-06": {"total":287.85, "Children and Families":287.85},
+			"2021-07": {"total":371.11, "Children and Families":371.11},
+			"2021-09": {"total":2317.65, "Children and Families":2317.65},
+			"2021-10": {"total":1572.05, "Children and Families":1572.05},
+			"2021-11": {"total":519.70, "Children and Families":519.70},
+			"2021-12": {"total":829.84, "Children and Families":829.84}
+		}
+	},
+	"4507": {
+		"name": "Aubergine Communications Ltd",
+		"total": 750,
+		"monthly": {
+			"2021-03": {"total":500.00, "City Development":500.00},
+			"2021-06": {"total":250.00, "City Development":250.00}
+		}
+	},
+	"4508": {
+		"name": "Auchlochan Garden Village",
+		"total": 6916,
+		"monthly": {
+			"2019-01": {"total":4553.25, "Adults and Health":4553.25},
+			"2019-02": {"total":1755.00, "Adults and Health":1755.00},
+			"2019-04": {"total":607.75, "Adults and Health":607.75}
+		}
+	},
+	"4509": {
+		"name": "Audible Uk",
+		"total": 33.22,
+		"monthly": {
+			"2020-04": {"total":0.99, "Children and Families":0.99},
+			"2020-09": {"total":8.26, "Children and Families":8.26},
+			"2020-10": {"total":7.99, "Children and Families":7.99},
+			"2020-11": {"total":7.99, "Children and Families":7.99},
+			"2020-12": {"total":7.99, "Children and Families":7.99}
+		}
+	},
+	"4510": {
+		"name": "Audible.Co.Uk",
+		"total": 2.49,
+		"monthly": {
+			"2019-08": {"total":2.49, "Communities and Environment":2.49}
+		}
+	},
+	"4511": {
+		"name": "Audience Systems Ltd",
+		"total": 25136.44,
+		"monthly": {
+			"2011-12": {"total":2377.20, "City Development":2377.20},
+			"2014-05": {"total":4844.39, "City Development":4844.39},
+			"2015-06": {"total":1627.20, "City Development":1627.20},
+			"2015-07": {"total":184.99, "City Development":184.99},
+			"2015-10": {"total":5090.71, "City Development":5090.71},
+			"2016-08": {"total":382.64, "City Development":382.64},
+			"2016-10": {"total":5302.94, "City Development":5302.94},
+			"2018-02": {"total":112.00, "City Development":112.00},
+			"2018-03": {"total":452.17, "City Development":452.17},
+			"2019-04": {"total":1687.20, "City Development":1687.20},
+			"2019-07": {"total":3075.00, "City Development":3075.00}
+		}
+	},
+	"4512": {
+		"name": "Audio Visual Equipment Ltd",
+		"alternate-names": [
+			"Audio Visual Equipment Limited"
+		],
+		"total": 6757.36,
+		"monthly": {
+			"2014-03": {"total":1421.14, "Childrens Services":1421.14},
+			"2014-09": {"total":9.00, "Childrens Services":9.00},
+			"2014-11": {"total":1430.88, "Childrens Services":1430.88},
+			"2014-12": {"total":2004.58, "Childrens Services":2004.58},
+			"2015-04": {"total":842.00, "Childrens Services":842.00},
+			"2015-08": {"total":1049.76, "Childrens Services":1049.76}
+		}
+	},
+	"4513": {
+		"name": "Audio-Technica.Com",
+		"total": 37.9,
+		"monthly": {
+			"2016-02": {"total":37.90, "City Development":37.90}
+		}
+	},
+	"4514": {
+		"name": "Audiogo Ltd",
+		"total": 115324.71,
+		"monthly": {
+			"2011-03": {"total":4202.06, "City Development":4202.06},
+			"2011-04": {"total":9712.85, "City Development":9712.85},
+			"2011-05": {"total":3783.66, "City Development":3783.66},
+			"2011-06": {"total":3144.64, "City Development":3144.64},
+			"2011-07": {"total":3072.84, "City Development":3072.84},
+			"2011-08": {"total":3098.45, "City Development":3098.45},
+			"2011-09": {"total":4006.88, "City Development":4006.88},
+			"2011-10": {"total":2392.29, "City Development":2392.29},
+			"2011-11": {"total":3865.38, "City Development":3865.38},
+			"2011-12": {"total":2488.86, "City Development":2488.86},
+			"2012-01": {"total":3048.82, "City Development":3048.82},
+			"2012-02": {"total":2566.85, "City Development":2566.85},
+			"2012-03": {"total":3708.31, "City Development":3708.31},
+			"2012-04": {"total":12502.80, "City Development":12502.80},
+			"2012-05": {"total":1148.17, "City Development":1148.17},
+			"2012-06": {"total":4108.18, "City Development":4108.18},
+			"2012-07": {"total":3938.56, "City Development":3938.56},
+			"2012-08": {"total":3229.07, "City Development":3229.07},
+			"2012-09": {"total":3644.60, "City Development":3644.60},
+			"2012-10": {"total":1821.83, "City Development":1821.83},
+			"2012-11": {"total":4109.20, "City Development":4109.20},
+			"2012-12": {"total":3999.15, "City Development":3999.15},
+			"2013-01": {"total":1884.19, "City Development":1884.19},
+			"2013-02": {"total":4241.47, "City Development":4241.47},
+			"2013-03": {"total":4152.33, "City Development":4152.33},
+			"2013-04": {"total":3183.49, "City Development":3183.49},
+			"2013-05": {"total":1721.97, "City Development":1721.97},
+			"2013-06": {"total":1653.26, "City Development":1653.26},
+			"2013-07": {"total":3228.01, "City Development":3228.01},
+			"2013-08": {"total":1679.30, "City Development":1679.30},
+			"2013-09": {"total":3667.06, "City Development":3667.06},
+			"2013-10": {"total":1663.34, "City Development":1663.34},
+			"2013-11": {"total":656.84, "City Development":656.84}
+		}
+	},
+	"4515": {
+		"name": "Audiology Practice",
+		"total": 2915,
+		"monthly": {
+			"2021-02": {"total":2915.00, "City Development":2915.00}
+		}
+	},
+	"4516": {
+		"name": "Audioserv Ltd",
+		"total": 450,
+		"monthly": {
+			"2014-10": {"total":450.00, "City Development":450.00}
+		}
+	},
+	"4517": {
+		"name": "Audiosev Ltd",
+		"alternate-names": [
+			"Audiosev Limited"
+		],
+		"total": 12100,
+		"monthly": {
+			"2021-02": {"total":3630.00, "City Development":3630.00},
+			"2021-04": {"total":3630.00, "City Development":3630.00},
+			"2021-06": {"total":3630.00, "City Development":3630.00},
+			"2021-08": {"total":1210.00, "City Development":1210.00}
+		}
+	},
+	"4518": {
+		"name": "Audit Commission",
+		"total": 25677,
+		"monthly": {
+			"2011-05": {"total":15677.00, "Central & Corporate Functions":15677.00},
+			"2011-06": {"total":2000.00, "Central & Corporate Functions":2000.00},
+			"2013-05": {"total":2000.00, "Central & Corporate":2000.00},
+			"2013-07": {"total":2000.00, "Central & Corporate":2000.00},
+			"2014-11": {"total":4000.00, "Central & Corporate":4000.00}
+		}
+	},
+	"4519": {
+		"name": "Auditel Rental And Service Ltd",
+		"total": 268843.07,
+		"monthly": {
+			"2013-03": {"total":495.00, "Central & Corporate":495.00},
+			"2013-10": {"total":2179.50, "Central & Corporate":2179.50},
+			"2014-06": {"total":46983.14, "Central & Corporate":46983.14},
+			"2015-03": {"total":108590.83, "Central & Corporate":108590.83},
+			"2015-05": {"total":37403.00, "Central & Corporate":37403.00},
+			"2015-06": {"total":3736.00, "Central & Corporate":3736.00},
+			"2016-02": {"total":110.00, "Civic Enterprise Leeds":110.00},
+			"2016-04": {"total":900.00, "Civic Enterprise Leeds":900.00},
+			"2016-05": {"total":4760.00, "Civic Enterprise Leeds":4760.00},
+			"2016-08": {"total":662.00, "Civic Enterprise Leeds":662.00},
+			"2017-03": {"total":3125.00, "Civic Enterprise Leeds":3125.00},
+			"2017-08": {"total":25173.10, "Civic Enterprise Leeds":25173.10},
+			"2017-10": {"total":500.00, "Resources and Housing":500.00},
+			"2018-02": {"total":3570.00, "Resources and Housing":3570.00},
+			"2019-02": {"total":4310.00, "Resources and Housing":4310.00},
+			"2019-12": {"total":13265.00, "Resources and Housing":13265.00},
+			"2020-01": {"total":500.00, "Resources and Housing":500.00},
+			"2020-02": {"total":3750.00, "Resources and Housing":3750.00},
+			"2020-12": {"total":8135.50, "Resources and Housing":8135.50},
+			"2021-05": {"total":695.00, "Resources and Housing":695.00}
+		}
+	},
+	"4520": {
+		"name": "Auditory Verbal UK",
+		"total": 210,
+		"monthly": {
+			"2020-11": {"total":210.00, "Children and Families":210.00}
+		}
+	},
+	"4521": {
+		"name": "Auditware Systems Ltd",
+		"total": 17246.25,
+		"monthly": {
+			"2011-09": {"total":895.00, "Central & Corporate Functions":895.00},
+			"2012-07": {"total":895.00, "Central & Corporate Functions":895.00},
+			"2013-10": {"total":895.00, "Central & Corporate":895.00},
+			"2014-08": {"total":895.00, "Central & Corporate":895.00},
+			"2015-08": {"total":2010.00, "Central & Corporate":2010.00},
+			"2015-09": {"total":4000.00, "Central & Corporate":4000.00},
+			"2016-09": {"total":1340.00, "Central & Corporate":1340.00},
+			"2017-09": {"total":1340.00, "Resources and Housing":1340.00},
+			"2018-09": {"total":1500.00, "Resources and Housing":1500.00},
+			"2018-12": {"total":1601.25, "Communities and Environment":1601.25},
+			"2019-08": {"total":1500.00, "Resources and Housing":1500.00},
+			"2019-10": {"total":375.00, "Resources and Housing":375.00}
+		}
+	},
+	"4522": {
+		"name": "Audley Care Ltd",
+		"total": 235424.5,
+		"monthly": {
+			"2019-10": {"total":8858.64, "Adults and Health":8858.64},
+			"2019-11": {"total":9978.64, "Adults and Health":9978.64},
+			"2019-12": {"total":10758.64, "Adults and Health":10758.64},
+			"2020-01": {"total":10050.64, "Adults and Health":10050.64},
+			"2020-02": {"total":8047.83, "Adults and Health":8047.83},
+			"2020-03": {"total":8102.17, "Adults and Health":8102.17},
+			"2020-04": {"total":19059.74, "Adults and Health":19059.74},
+			"2020-05": {"total":10270.33, "Adults and Health":10270.33},
+			"2020-06": {"total":8947.68, "Adults and Health":8947.68},
+			"2020-07": {"total":6483.76, "Adults and Health":6483.76},
+			"2020-08": {"total":7445.06, "Adults and Health":7445.06},
+			"2020-09": {"total":10188.48, "Adults and Health":10188.48},
+			"2020-10": {"total":11280.50, "Adults and Health":11280.50},
+			"2020-11": {"total":11371.92, "Adults and Health":11371.92},
+			"2020-12": {"total":15408.82, "Adults and Health":15408.82},
+			"2021-01": {"total":4993.56, "Adults and Health":4993.56},
+			"2021-02": {"total":9327.69, "Adults and Health":9327.69},
+			"2021-03": {"total":5504.76, "Adults and Health":5504.76},
+			"2021-04": {"total":5517.44, "Adults and Health":5517.44},
+			"2021-05": {"total":4921.48, "Adults and Health":4921.48},
+			"2021-06": {"total":4807.36, "Adults and Health":4807.36},
+			"2021-07": {"total":4806.84, "Adults and Health":4806.84},
+			"2021-08": {"total":4778.96, "Adults and Health":4778.96},
+			"2021-09": {"total":17136.32, "Adults and Health":17136.32},
+			"2021-12": {"total":17377.24, "Adults and Health":17377.24}
+		}
+	},
+	"4523": {
+		"name": "Audley Clevedon Ltd",
+		"total": 32936.25,
+		"monthly": {
+			"2019-05": {"total":1043.50, "Adults and Health":1043.50},
+			"2019-06": {"total":10437.22, "Adults and Health":10437.22},
+			"2019-07": {"total":5483.14, "Adults and Health":5483.14},
+			"2019-08": {"total":7878.64, "Adults and Health":7878.64},
+			"2019-09": {"total":8093.75, "Adults and Health":8093.75}
+		}
+	},
+	"4524": {
+		"name": "Audley Sports Centre",
+		"total": 47.25,
+		"monthly": {
+			"2016-03": {"total":47.25, "Childrens Services":47.25}
+		}
+	},
+	"4525": {
+		"name": "Audrey Columbet",
+		"total": 250,
+		"monthly": {
+			"2016-03": {"total":250.00, "Citizens and Communities":250.00}
+		}
+	},
+	"4526": {
+		"name": "Audrey Stephenson",
+		"total": 500,
+		"monthly": {
+			"2016-03": {"total":500.00, "Citizens and Communities":500.00}
+		}
+	},
+	"4527": {
+		"name": "Audrey Williams",
+		"total": 1500,
+		"monthly": {
+			"2016-04": {"total":150.00, "City Development":150.00},
+			"2016-06": {"total":210.00, "City Development":210.00},
+			"2016-07": {"total":180.00, "City Development":180.00},
+			"2016-09": {"total":660.00, "City Development":660.00},
+			"2016-10": {"total":150.00, "City Development":150.00},
+			"2016-11": {"total":150.00, "City Development":150.00}
+		}
+	},
+	"4528": {
+		"name": "Audrey Wilson",
+		"total": 400,
+		"monthly": {
+			"2015-07": {"total":200.00, "City Development":200.00},
+			"2015-11": {"total":200.00, "City Development":200.00}
+		}
+	},
+	"4529": {
+		"name": "Augustus Court",
+		"total": 1547786.63,
+		"monthly": {
+			"2016-03": {"total":2188.40, "Adult Social Care":2188.40},
+			"2016-04": {"total":3532.56, "Adult Social Care":3532.56},
+			"2016-05": {"total":4715.93, "Adult Social Care":4715.93},
+			"2016-06": {"total":3153.43, "Adult Social Care":3153.43},
+			"2016-07": {"total":3629.47, "Adult Social Care":3629.47},
+			"2016-08": {"total":7594.75, "Adult Social Care":7594.75},
+			"2016-09": {"total":5667.12, "Adult Social Care":5667.12},
+			"2016-10": {"total":3633.21, "Adult Social Care":3633.21},
+			"2016-11": {"total":3032.02, "Adult Social Care":3032.02},
+			"2016-12": {"total":27610.07, "Adult Social Care":27610.07},
+			"2017-01": {"total":15699.84, "Adult Social Care":15699.84},
+			"2017-02": {"total":21568.78, "Adult Social Care":21568.78},
+			"2017-03": {"total":12027.57, "Adult Social Care":12027.57},
+			"2017-04": {"total":16120.30, "Adult Social Care":16120.30},
+			"2017-05": {"total":23546.92, "Adults and Health":23546.92},
+			"2017-06": {"total":8857.85, "Adults and Health":8857.85},
+			"2017-07": {"total":10560.13, "Adults and Health":10560.13},
+			"2017-08": {"total":27119.27, "Adults and Health":22244.45, "Social Services Pooled Budgets":4874.82},
+			"2017-09": {"total":41924.27, "Adults and Health":40424.23, "Social Services Pooled Budgets":1500.04},
+			"2017-10": {"total":19933.47, "Adults and Health":18970.71, "Social Services Pooled Budgets":962.76},
+			"2017-11": {"total":36317.94, "Adults and Health":35355.18, "Social Services Pooled Budgets":962.76},
+			"2017-12": {"total":31713.99, "Adults and Health":30751.23, "Social Services Pooled Budgets":962.76},
+			"2018-01": {"total":29672.71, "Adults and Health":28709.95, "Social Services Pooled Budgets":962.76},
+			"2018-02": {"total":37793.71, "Adults and Health":37793.71},
+			"2018-03": {"total":45687.74, "Adults and Health":45687.74},
+			"2018-04": {"total":35804.97, "Adults and Health":35804.97},
+			"2018-05": {"total":41169.49, "Adults and Health":41169.49},
+			"2018-06": {"total":30721.07, "Adults and Health":30721.07},
+			"2018-07": {"total":21894.90, "Adults and Health":21894.90},
+			"2018-08": {"total":28669.50, "Adults and Health":28669.50},
+			"2018-09": {"total":23150.32, "Adults and Health":23150.32},
+			"2018-10": {"total":31216.33, "Adults and Health":31216.33},
+			"2018-11": {"total":42097.76, "Adults and Health":42097.76},
+			"2018-12": {"total":27234.98, "Adults and Health":27234.98},
+			"2019-01": {"total":41964.83, "Adults and Health":41964.83},
+			"2019-02": {"total":26170.64, "Adults and Health":26170.64},
+			"2019-03": {"total":30940.28, "Adults and Health":30940.28},
+			"2019-04": {"total":26269.29, "Adults and Health":26269.29},
+			"2019-05": {"total":59420.63, "Adults and Health":59420.63},
+			"2019-06": {"total":20592.54, "Adults and Health":20592.54},
+			"2019-07": {"total":13141.85, "Adults and Health":13141.85},
+			"2019-08": {"total":23132.98, "Adults and Health":23132.98},
+			"2019-09": {"total":23054.88, "Adults and Health":23054.88},
+			"2019-10": {"total":22039.30, "Adults and Health":22039.30},
+			"2019-11": {"total":18113.27, "Adults and Health":18113.27},
+			"2019-12": {"total":20831.16, "Adults and Health":20831.16},
+			"2020-01": {"total":21882.10, "Adults and Health":21882.10},
+			"2020-02": {"total":15456.25, "Adults and Health":15456.25},
+			"2020-03": {"total":10820.44, "Adults and Health":10820.44},
+			"2020-04": {"total":31211.02, "Adults and Health":31211.02},
+			"2020-05": {"total":20995.22, "Adults and Health":20995.22},
+			"2020-06": {"total":26339.32, "Adults and Health":26339.32},
+			"2020-07": {"total":17232.49, "Adults and Health":17232.49},
+			"2020-08": {"total":24705.34, "Adults and Health":24705.34},
+			"2020-09": {"total":19436.31, "Adults and Health":19436.31},
+			"2020-10": {"total":20957.50, "Adults and Health":20957.50},
+			"2020-11": {"total":19041.72, "Adults and Health":19041.72},
+			"2020-12": {"total":34397.92, "Adults and Health":34397.92},
+			"2021-02": {"total":19941.31, "Adults and Health":19941.31},
+			"2021-03": {"total":24665.10, "Adults and Health":24665.10},
+			"2021-04": {"total":19493.12, "Adults and Health":19493.12},
+			"2021-05": {"total":5763.70, "Adults and Health":5763.70},
+			"2021-06": {"total":19251.73, "Adults and Health":19251.73},
+			"2021-07": {"total":15464.28, "Adults and Health":15464.28},
+			"2021-08": {"total":10721.21, "Adults and Health":10721.21},
+			"2021-09": {"total":14158.12, "Adults and Health":14158.12},
+			"2021-10": {"total":24172.57, "Adults and Health":24172.57},
+			"2021-11": {"total":63685.72, "Adults and Health":63685.72},
+			"2021-12": {"total":17061.72, "Adults and Health":17061.72}
+		}
+	},
+	"4530": {
+		"name": "Auld Lang Stone Ltd",
+		"total": 1135,
+		"monthly": {
+			"2012-11": {"total":505.50, "City Development":505.50},
+			"2013-02": {"total":475.50, "City Development":475.50},
+			"2014-01": {"total":154.00, "City Development":154.00}
+		}
+	},
+	"4531": {
+		"name": "Auli Miles",
+		"total": 6,
+		"monthly": {
+			"2016-04": {"total":6.00, "Environment & Housing":6.00}
+		}
+	},
+	"4532": {
+		"name": "Aunt Bessie's Ltd",
+		"alternate-names": [
+			"Aunt Bessie's Limited"
+		],
+		"total": 8012.8,
+		"monthly": {
+			"2010-12": {"total":3440.64, "Central & Corporate Functions":3440.64},
+			"2011-01": {"total":4572.16, "Central & Corporate Functions":4572.16}
+		}
+	},
+	"4533": {
+		"name": "Auntsale",
+		"total": 35.57,
+		"monthly": {
+			"2020-07": {"total":35.57, "Resources and Housing":35.57}
+		}
+	},
+	"4534": {
+		"name": "Aura Conservation Ltd",
+		"alternate-names": [
+			"Aura Conservation Limited"
+		],
+		"total": 150,
+		"monthly": {
+			"2015-11": {"total":150.00, "Childrens Services":150.00}
+		}
+	},
+	"4535": {
+		"name": "Aura Custom Solutions Ltd",
+		"alternate-names": [
+			"Aura Custom Solutions Limited"
+		],
+		"total": 5366,
+		"monthly": {
+			"2019-10": {"total":5366.00, "Communities and Environment":5366.00}
+		}
+	},
+	"4536": {
+		"name": "Aurangzeb Qabal",
+		"total": 250,
+		"monthly": {
+			"2021-07": {"total":250.00, "City Development":250.00}
+		}
+	},
+	"4537": {
+		"name": "Auraprintuk",
+		"total": 270.09,
+		"monthly": {
+			"2018-05": {"total":270.09, "City Development":270.09}
+		}
+	},
+	"4538": {
+		"name": "Aurora Brambles School",
+		"total": 22689.34,
+		"monthly": {
+			"2018-05": {"total":11344.67, "Children and Families":11344.67},
+			"2018-11": {"total":11344.67, "Children and Families":11344.67}
+		}
+	},
+	"4539": {
+		"name": "Aurora Interiors Ltd",
+		"total": 750,
+		"monthly": {
+			"2021-04": {"total":500.00, "City Development":500.00},
+			"2021-06": {"total":250.00, "City Development":250.00}
+		}
+	},
+	"4540": {
+		"name": "Aurora World",
+		"total": 290.04,
+		"monthly": {
+			"2018-04": {"total":290.04, "City Development":290.04}
+		}
+	},
+	"4541": {
+		"name": "Aurora World Ltd",
+		"total": 246.4,
+		"monthly": {
+			"2019-06": {"total":246.40, "Communities and Environment":246.40}
+		}
+	},
+	"4542": {
 		"name": "Aurora'S Carnival",
 		"total": 800,
 		"monthly": {
 			"2019-08": {"total":800.00, "City Development":800.00}
 		}
 	},
-	"4501": {
+	"4543": {
 		"name": "Auscript Ltd",
 		"total": 547.2,
 		"monthly": {
 			"2017-08": {"total":547.20, "Insurance":547.20}
 		}
 	},
-	"4502": {
+	"4544": {
 		"name": "Austhorpe House Nursing Home",
 		"total": 14239.27,
 		"monthly": {
@@ -28,21 +682,21 @@
 			"2013-05": {"total":1551.36, "Adult Social Care":1551.36}
 		}
 	},
-	"4503": {
+	"4545": {
 		"name": "Austin Capes",
 		"total": 150,
 		"monthly": {
 			"2014-07": {"total":150.00, "Environment & Housing":150.00}
 		}
 	},
-	"4504": {
+	"4546": {
 		"name": "Austin Hayes Uk Ltd",
 		"total": 6000,
 		"monthly": {
 			"2015-04": {"total":6000.00, "City Development":6000.00}
 		}
 	},
-	"4505": {
+	"4547": {
 		"name": "Austin House Management Company Ltd",
 		"alternate-names": [
 			"Austin House Management Company Limited"
@@ -52,7 +706,7 @@
 			"2021-10": {"total":150.00, "Insurance":150.00}
 		}
 	},
-	"4506": {
+	"4548": {
 		"name": "Austin Newman",
 		"total": 2075,
 		"monthly": {
@@ -62,694 +716,12 @@
 			"2020-05": {"total":200.00, "Children and Families":200.00}
 		}
 	},
-	"4507": {
+	"4549": {
 		"name": "Austin Signs",
 		"total": 6170,
 		"monthly": {
 			"2012-03": {"total":1450.00, "City Development":1450.00},
 			"2012-04": {"total":4720.00, "City Development":4720.00}
-		}
-	},
-	"4508": {
-		"name": "Australasia.Uk.Com",
-		"total": 100,
-		"monthly": {
-			"2021-10": {"total":100.00, "City Development":100.00}
-		}
-	},
-	"4509": {
-		"name": "Authentic Locks Ltd",
-		"total": 1500,
-		"monthly": {
-			"2021-04": {"total":1000.00, "City Development":1000.00},
-			"2021-06": {"total":500.00, "City Development":500.00}
-		}
-	},
-	"4510": {
-		"name": "Authorised Publications",
-		"total": 395,
-		"monthly": {
-			"2017-01": {"total":395.00, "Childrens Services":395.00}
-		}
-	},
-	"4511": {
-		"name": "Authors Abroad",
-		"total": 400,
-		"monthly": {
-			"2014-04": {"total":400.00, "City Development":400.00}
-		}
-	},
-	"4512": {
-		"name": "Authors Aloud Uk",
-		"total": 481.89,
-		"monthly": {
-			"2015-04": {"total":481.89, "City Development":481.89}
-		}
-	},
-	"4513": {
-		"name": "Authors Aloud Uk Ltd",
-		"total": 2770.6,
-		"monthly": {
-			"2016-12": {"total":565.16, "City Development":565.16},
-			"2020-10": {"total":100.00, "Communities and Environment":100.00},
-			"2021-04": {"total":400.00, "Communities and Environment":400.00},
-			"2021-10": {"total":1705.44, "Communities and Environment":1705.44}
-		}
-	},
-	"4514": {
-		"name": "Autism Awareness Training",
-		"total": 250,
-		"monthly": {
-			"2014-07": {"total":250.00, "Childrens Services":250.00}
-		}
-	},
-	"4515": {
-		"name": "Autism Care (Uk) Ltd",
-		"total": 1219945.99,
-		"monthly": {
-			"2011-02": {"total":8337.00, "Social Services Pooled Budgets":8337.00},
-			"2011-03": {"total":8337.00, "Social Services Pooled Budgets":8337.00},
-			"2011-04": {"total":8337.00, "Jcs For People With Learning Disabilitie":8337.00},
-			"2011-05": {"total":8337.00, "Jcs For People With Learning Disabilitie":8337.00},
-			"2011-06": {"total":7934.14, "Jcs For People With Learning Disabilitie":7934.14},
-			"2011-07": {"total":8217.00, "Jcs For People With Learning Disabilitie":8217.00},
-			"2011-08": {"total":16434.00, "Social Services Pooled Budgets":16434.00},
-			"2011-09": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2011-10": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2011-11": {"total":8217.00, "Jcs For People With Learning Disabilitie":8217.00},
-			"2011-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-02": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-03": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-04": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-05": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-06": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-07": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-08": {"total":16434.00, "Social Services Pooled Budgets":16434.00},
-			"2012-09": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-10": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-11": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2012-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-02": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-03": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-04": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-05": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-06": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-07": {"total":16434.00, "Social Services Pooled Budgets":16434.00},
-			"2013-08": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-09": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-10": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-11": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2013-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-02": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-03": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-04": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-05": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-06": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-07": {"total":16434.00, "Social Services Pooled Budgets":16434.00},
-			"2014-08": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-09": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-10": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-11": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2014-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-02": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-03": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-04": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-05": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-06": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-07": {"total":16434.00, "Social Services Pooled Budgets":16434.00},
-			"2015-08": {"total":8217.00, "Adult Social Care":8217.00},
-			"2015-09": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-10": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-11": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2015-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-02": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-05": {"total":32868.00, "Social Services Pooled Budgets":32868.00},
-			"2016-06": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-07": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-08": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-09": {"total":18491.97, "Social Services Pooled Budgets":18491.97},
-			"2016-10": {"total":11858.76, "Social Services Pooled Budgets":11858.76},
-			"2016-11": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2016-12": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2017-01": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2017-02": {"total":26035.61, "Social Services Pooled Budgets":26035.61},
-			"2017-03": {"total":11858.76, "Social Services Pooled Budgets":11858.76},
-			"2017-04": {"total":11858.76, "Social Services Pooled Budgets":11858.76},
-			"2017-05": {"total":23717.52, "Social Services Pooled Budgets":23717.52},
-			"2017-06": {"total":11858.76, "Social Services Pooled Budgets":11858.76},
-			"2017-07": {"total":8217.00, "Social Services Pooled Budgets":8217.00},
-			"2017-08": {"total":16287.77, "Social Services Pooled Budgets":16287.77},
-			"2017-09": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2017-10": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2017-11": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2017-12": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-01": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-02": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-03": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-04": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-05": {"total":24282.72, "Social Services Pooled Budgets":24282.72},
-			"2018-06": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-07": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-08": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-09": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-10": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-11": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2018-12": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2019-01": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2019-02": {"total":12141.36, "Social Services Pooled Budgets":12141.36},
-			"2019-03": {"total":12456.90, "Social Services Pooled Budgets":12456.90},
-			"2019-04": {"total":15676.67, "Social Services Pooled Budgets":15676.67},
-			"2019-05": {"total":25055.52, "Social Services Pooled Budgets":25055.52},
-			"2019-06": {"total":12527.76, "Social Services Pooled Budgets":12527.76},
-			"2019-07": {"total":12527.76, "Social Services Pooled Budgets":12527.76},
-			"2019-08": {"total":12527.76, "Social Services Pooled Budgets":12527.76},
-			"2019-09": {"total":12527.76, "Social Services Pooled Budgets":12527.76},
-			"2019-10": {"total":16047.44, "Social Services Pooled Budgets":16047.44},
-			"2019-11": {"total":12967.72, "Social Services Pooled Budgets":12967.72},
-			"2019-12": {"total":12967.72, "Social Services Pooled Budgets":12967.72},
-			"2020-01": {"total":12967.72, "Social Services Pooled Budgets":12967.72},
-			"2020-02": {"total":12967.72, "Social Services Pooled Budgets":12967.72},
-			"2020-03": {"total":12967.72, "Social Services Pooled Budgets":12967.72},
-			"2020-04": {"total":25935.44, "Social Services Pooled Budgets":25935.44},
-			"2020-05": {"total":14264.49, "Adults and Health":1296.77, "Social Services Pooled Budgets":12967.72}
-		}
-	},
-	"4516": {
-		"name": "Autism International",
-		"total": 29050,
-		"monthly": {
-			"2013-08": {"total":4083.00, "Childrens Services":4083.00},
-			"2014-04": {"total":4083.00, "Childrens Services":4083.00},
-			"2014-07": {"total":4163.00, "Childrens Services":4163.00},
-			"2014-08": {"total":4163.00, "Childrens Services":4163.00},
-			"2015-01": {"total":4183.00, "Childrens Services":4183.00},
-			"2015-09": {"total":4188.00, "Childrens Services":4188.00},
-			"2015-12": {"total":4187.00, "Childrens Services":4187.00}
-		}
-	},
-	"4517": {
-		"name": "Autism Partnership Uk Ltd",
-		"total": 397478.8,
-		"monthly": {
-			"2011-02": {"total":6666.14, "Education Leeds":6666.14},
-			"2011-03": {"total":16149.97, "Education Leeds":16149.97},
-			"2011-04": {"total":14182.33, "Education Leeds":14182.33},
-			"2011-05": {"total":8820.21, "Education Leeds":8820.21},
-			"2011-06": {"total":7492.22, "Other Education Services":7492.22},
-			"2011-07": {"total":4609.34, "Other Education Services":4609.34},
-			"2011-08": {"total":16237.87, "Childrens Services":16237.87},
-			"2011-09": {"total":8517.69, "Childrens Services":8517.69},
-			"2011-10": {"total":9545.24, "Childrens Services":9545.24},
-			"2011-11": {"total":8514.69, "Childrens Services":8514.69},
-			"2011-12": {"total":9715.79, "Childrens Services":9715.79},
-			"2012-01": {"total":11913.21, "Childrens Services":11913.21},
-			"2012-02": {"total":7829.96, "Childrens Services":7829.96},
-			"2012-03": {"total":13422.34, "Childrens Services":13422.34},
-			"2012-04": {"total":10481.01, "Childrens Services":10481.01},
-			"2012-05": {"total":11147.86, "Childrens Services":11147.86},
-			"2012-06": {"total":667.50, "Childrens Services":667.50},
-			"2012-07": {"total":14583.63, "Childrens Services":14583.63},
-			"2012-08": {"total":9287.38, "Childrens Services":9287.38},
-			"2012-09": {"total":7840.35, "Childrens Services":7840.35},
-			"2012-10": {"total":2519.13, "Childrens Services":2519.13},
-			"2012-11": {"total":9952.34, "Childrens Services":9952.34},
-			"2012-12": {"total":6056.38, "Childrens Services":6056.38},
-			"2013-01": {"total":6472.29, "Childrens Services":6472.29},
-			"2013-02": {"total":3958.92, "Childrens Services":3958.92},
-			"2013-03": {"total":6907.14, "Childrens Services":6907.14},
-			"2013-04": {"total":7914.11, "Childrens Services":7914.11},
-			"2013-05": {"total":7222.29, "Childrens Services":7222.29},
-			"2013-06": {"total":7485.16, "Childrens Services":7485.16},
-			"2013-07": {"total":7305.13, "Childrens Services":7305.13},
-			"2013-08": {"total":7157.13, "Childrens Services":7157.13},
-			"2013-09": {"total":8174.26, "Childrens Services":8174.26},
-			"2013-10": {"total":2607.44, "Childrens Services":2607.44},
-			"2013-11": {"total":6450.38, "Childrens Services":6450.38},
-			"2013-12": {"total":4896.50, "Childrens Services":4896.50},
-			"2014-01": {"total":5710.25, "Childrens Services":5710.25},
-			"2014-02": {"total":3539.50, "Childrens Services":3539.50},
-			"2014-03": {"total":4787.75, "Childrens Services":4787.75},
-			"2014-04": {"total":4416.38, "Childrens Services":4416.38},
-			"2014-05": {"total":5539.00, "Childrens Services":5539.00},
-			"2014-06": {"total":3666.50, "Childrens Services":3666.50},
-			"2014-07": {"total":715.63, "Childrens Services":715.63},
-			"2014-08": {"total":9149.75, "Childrens Services":9149.75},
-			"2014-09": {"total":3626.00, "Childrens Services":3626.00},
-			"2014-10": {"total":434.44, "Childrens Services":434.44},
-			"2014-11": {"total":5523.50, "Childrens Services":5523.50},
-			"2014-12": {"total":4869.00, "Childrens Services":4869.00},
-			"2015-01": {"total":5471.00, "Childrens Services":5471.00},
-			"2015-02": {"total":3269.50, "Childrens Services":3269.50},
-			"2015-03": {"total":5203.13, "Childrens Services":5203.13},
-			"2015-04": {"total":4801.38, "Childrens Services":4801.38},
-			"2015-05": {"total":6006.38, "Childrens Services":6006.38},
-			"2015-06": {"total":6320.75, "Childrens Services":6320.75},
-			"2015-07": {"total":118.00, "Childrens Services":118.00},
-			"2015-08": {"total":5771.13, "Childrens Services":5771.13},
-			"2015-09": {"total":3261.25, "Childrens Services":3261.25},
-			"2015-10": {"total":126.00, "Childrens Services":126.00},
-			"2015-11": {"total":3885.25, "Childrens Services":3885.25},
-			"2015-12": {"total":2777.00, "Childrens Services":2777.00},
-			"2016-03": {"total":2324.25, "Childrens Services":2324.25},
-			"2016-04": {"total":3462.75, "Childrens Services":3462.75}
-		}
-	},
-	"4518": {
-		"name": "Autism Plus Accounts",
-		"total": 267675.4,
-		"monthly": {
-			"2013-11": {"total":10000.00, "Adult Social Care":10000.00},
-			"2014-09": {"total":10000.00, "Adult Social Care":10000.00},
-			"2015-01": {"total":150.00, "Central & Corporate":150.00},
-			"2021-01": {"total":88348.48, "Adults and Health":88348.48},
-			"2021-02": {"total":5918.08, "Adults and Health":5918.08},
-			"2021-03": {"total":23672.32, "Adults and Health":23672.32},
-			"2021-04": {"total":28979.16, "Adults and Health":28979.16},
-			"2021-05": {"total":17754.24, "Adults and Health":17754.24},
-			"2021-06": {"total":11836.16, "Adults and Health":11836.16},
-			"2021-07": {"total":11836.16, "Adults and Health":11836.16},
-			"2021-08": {"total":11836.16, "Adults and Health":11836.16},
-			"2021-09": {"total":11836.16, "Adults and Health":11836.16},
-			"2021-10": {"total":11836.16, "Adults and Health":11836.16},
-			"2021-11": {"total":23672.32, "Adults and Health":23672.32}
-		}
-	},
-	"4519": {
-		"name": "Autism ¿ A Hands On Approach",
-		"total": 100,
-		"monthly": {
-			"2015-11": {"total":100.00, "Childrens Services":100.00}
-		}
-	},
-	"4520": {
-		"name": "Auto Claims Assist Ltd",
-		"total": 3719.07,
-		"monthly": {
-			"2017-11": {"total":3719.07, "Insurance":3719.07}
-		}
-	},
-	"4521": {
-		"name": "Auto Cool Services Uk Ltd",
-		"alternate-names": [
-			"Auto Cool Services Uk Limited"
-		],
-		"total": 480,
-		"monthly": {
-			"2015-05": {"total":300.00, "Central & Corporate":300.00},
-			"2016-01": {"total":180.00, "Civic Enterprise Leeds":180.00}
-		}
-	},
-	"4522": {
-		"name": "Auto Items",
-		"total": 1425.5,
-		"monthly": {
-			"2012-09": {"total":1425.50, "City Development":1425.50}
-		}
-	},
-	"4523": {
-		"name": "Auto Items Ltd",
-		"total": 890.5,
-		"monthly": {
-			"2017-03": {"total":890.50, "City Development":890.50}
-		}
-	},
-	"4524": {
-		"name": "Auto Logistic Solutions Ltd",
-		"total": 3639.65,
-		"monthly": {
-			"2019-05": {"total":1500.00, "Insurance":1500.00},
-			"2019-06": {"total":2139.65, "Insurance":2139.65}
-		}
-	},
-	"4525": {
-		"name": "Auto Mine Cars",
-		"total": 2500,
-		"monthly": {
-			"2016-01": {"total":2500.00, "City Development":2500.00}
-		}
-	},
-	"4526": {
-		"name": "Auto P Fect Ltd",
-		"total": 2500,
-		"monthly": {
-			"2016-02": {"total":2500.00, "City Development":2500.00}
-		}
-	},
-	"4527": {
-		"name": "Auto Silicone Hoses Ltd",
-		"total": 2500,
-		"monthly": {
-			"2016-03": {"total":2500.00, "City Development":2500.00}
-		}
-	},
-	"4528": {
-		"name": "Auto Valets Leeds Ltd",
-		"alternate-names": [
-			"Auto Valets Leeds Limited"
-		],
-		"total": 5568,
-		"monthly": {
-			"2020-06": {"total":2784.00, "City Development":2784.00},
-			"2020-09": {"total":2784.00, "City Development":2784.00}
-		}
-	},
-	"4529": {
-		"name": "Autobar Uk Ltd",
-		"total": 19550.81,
-		"monthly": {
-			"2011-04": {"total":423.61, "City Development":423.61},
-			"2011-05": {"total":453.86, "City Development":453.86},
-			"2011-06": {"total":546.80, "City Development":546.80},
-			"2011-08": {"total":500.00, "Central & Corporate Functions":500.00},
-			"2011-09": {"total":448.31, "City Development":448.31},
-			"2011-10": {"total":2087.44, "Central & Corporate Functions":1544.17, "City Development":543.27},
-			"2012-04": {"total":1110.30, "City Development":1110.30},
-			"2012-05": {"total":6729.67, "City Development":6729.67},
-			"2012-06": {"total":536.16, "City Development":536.16},
-			"2012-07": {"total":503.77, "City Development":503.77},
-			"2012-08": {"total":462.77, "Environment & Neighbourhoods":462.77},
-			"2012-09": {"total":482.64, "Environment & Neighbourhoods":482.64},
-			"2012-10": {"total":965.28, "Environment & Neighbourhoods":965.28},
-			"2012-11": {"total":423.75, "Environment & Neighbourhoods":423.75},
-			"2012-12": {"total":934.81, "Environment & Neighbourhoods":934.81},
-			"2013-01": {"total":457.48, "Environment & Neighbourhoods":457.48},
-			"2013-02": {"total":423.75, "Environment & Neighbourhoods":423.75},
-			"2013-03": {"total":1165.41, "Environment & Neighbourhoods":1165.41},
-			"2013-04": {"total":895.00, "Central & Corporate":895.00}
-		}
-	},
-	"4530": {
-		"name": "Autobar Vending Serv",
-		"total": 440.65,
-		"monthly": {
-			"2014-07": {"total":55.10, "Central & Corporate":55.10},
-			"2014-09": {"total":55.10, "Central & Corporate":55.10},
-			"2015-03": {"total":71.09, "Central & Corporate":71.09},
-			"2015-04": {"total":97.97, "Central & Corporate":97.97},
-			"2015-05": {"total":51.42, "Central & Corporate":51.42},
-			"2015-06": {"total":109.97, "Central & Corporate":109.97}
-		}
-	},
-	"4531": {
-		"name": "Autobar Vending Services Ltd",
-		"alternate-names": [
-			"Autobar Vending Services Limited"
-		],
-		"total": 21598.46,
-		"monthly": {
-			"2013-05": {"total":891.19, "Environment & Housing":891.19},
-			"2013-06": {"total":950.01, "Environment & Housing":950.01},
-			"2013-08": {"total":1188.20, "Environment & Housing":1188.20},
-			"2013-09": {"total":467.23, "Environment & Housing":467.23},
-			"2013-10": {"total":440.70, "Environment & Housing":440.70},
-			"2013-11": {"total":1334.04, "Environment & Housing":1334.04},
-			"2013-12": {"total":1005.52, "Environment & Housing":1005.52},
-			"2014-01": {"total":1790.54, "Central & Corporate":51.45, "Environment & Housing":1739.09},
-			"2014-02": {"total":1037.91, "Central & Corporate":45.92, "Environment & Housing":991.99},
-			"2014-03": {"total":1144.10, "Central & Corporate":344.42, "Environment & Housing":799.68},
-			"2014-04": {"total":1505.24, "Central & Corporate":126.83, "Environment & Housing":1378.41},
-			"2014-05": {"total":2989.94, "Central & Corporate":45.92, "Environment & Housing":2944.02},
-			"2014-06": {"total":1008.48, "Central & Corporate":118.42, "Environment & Housing":890.06},
-			"2014-07": {"total":1352.18, "Central & Corporate":57.40, "Environment & Housing":1294.78},
-			"2014-08": {"total":1602.15, "Central & Corporate":183.38, "Environment & Housing":1418.77},
-			"2014-09": {"total":972.35, "Environment & Housing":972.35},
-			"2014-10": {"total":1918.68, "Central & Corporate":104.72, "Environment & Housing":1813.96}
-		}
-	},
-	"4532": {
-		"name": "Autoculture Ltd",
-		"total": 802.85,
-		"monthly": {
-			"2020-06": {"total":587.85, "Children and Families":587.85},
-			"2021-10": {"total":215.00, "Children and Families":215.00}
-		}
-	},
-	"4533": {
-		"name": "Autodata Ltd",
-		"total": 5533,
-		"monthly": {
-			"2017-03": {"total":1006.00, "Civic Enterprise Leeds":1006.00},
-			"2018-03": {"total":1059.00, "Resources and Housing":1059.00},
-			"2019-03": {"total":1116.00, "Resources and Housing":1116.00},
-			"2020-03": {"total":1176.00, "Resources and Housing":1176.00},
-			"2021-03": {"total":1176.00, "Resources and Housing":1176.00}
-		}
-	},
-	"4534": {
-		"name": "Autodesk Ltd",
-		"total": 2785,
-		"monthly": {
-			"2017-02": {"total":2785.00, "City Development":2785.00}
-		}
-	},
-	"4535": {
-		"name": "Autodrive Uk Ltd",
-		"total": 97,
-		"monthly": {
-			"2017-03": {"total":97.00, "Environment & Housing":97.00}
-		}
-	},
-	"4536": {
-		"name": "Autoglaziers",
-		"total": 150,
-		"monthly": {
-			"2014-01": {"total":80.00, "Central & Corporate":80.00},
-			"2014-07": {"total":70.00, "Central & Corporate":70.00}
-		}
-	},
-	"4537": {
-		"name": "Autograph Promotional Gifts Ltd",
-		"alternate-names": [
-			"Autograph Promotional Gifts Limited"
-		],
-		"total": 11019.2,
-		"monthly": {
-			"2014-11": {"total":1869.49, "Adult Social Care":1271.99, "Social Services Pooled Budgets":597.50},
-			"2014-12": {"total":156.60, "Adult Social Care":156.60},
-			"2015-01": {"total":557.50, "Adult Social Care":557.50},
-			"2015-10": {"total":768.00, "Adult Social Care":768.00},
-			"2015-11": {"total":562.99, "Social Services Pooled Budgets":562.99},
-			"2016-01": {"total":746.50, "Adult Social Care":746.50},
-			"2016-05": {"total":1350.00, "Adult Social Care":1350.00},
-			"2017-04": {"total":998.00, "Adult Social Care":998.00},
-			"2019-08": {"total":3728.12, "Adults and Health":3728.12},
-			"2020-03": {"total":282.00, "Adults and Health":282.00}
-		}
-	},
-	"4538": {
-		"name": "Autogrill Catering UK Man",
-		"total": 41.36,
-		"monthly": {
-			"2016-09": {"total":31.15, "Central & Corporate":31.15},
-			"2017-11": {"total":10.21, "Resources and Housing":10.21}
-		}
-	},
-	"4539": {
-		"name": "Autokontrol Ltd",
-		"alternate-names": [
-			"Autokontrol Limited"
-		],
-		"total": 28954.77,
-		"monthly": {
-			"2013-02": {"total":440.40, "Central & Corporate":440.40},
-			"2014-01": {"total":1520.00, "Central & Corporate":1520.00},
-			"2014-02": {"total":778.95, "Central & Corporate":778.95},
-			"2014-03": {"total":38.25, "Central & Corporate":38.25},
-			"2014-04": {"total":96.50, "Central & Corporate":96.50},
-			"2014-05": {"total":124.25, "Central & Corporate":124.25},
-			"2014-07": {"total":158.55, "Central & Corporate":158.55},
-			"2014-09": {"total":11900.00, "Central & Corporate":11900.00},
-			"2014-10": {"total":4900.00, "Central & Corporate":4900.00},
-			"2014-12": {"total":149.00, "Central & Corporate":149.00},
-			"2015-07": {"total":49.00, "Central & Corporate":49.00},
-			"2015-08": {"total":96.50, "Central & Corporate":96.50},
-			"2016-02": {"total":108.67, "Civic Enterprise Leeds":108.67},
-			"2016-04": {"total":105.50, "Civic Enterprise Leeds":105.50},
-			"2017-09": {"total":410.50, "Civic Enterprise Leeds":410.50},
-			"2018-12": {"total":8005.95, "Resources and Housing":8005.95},
-			"2019-05": {"total":72.75, "Resources and Housing":72.75}
-		}
-	},
-	"4540": {
-		"name": "Automated Payment Transfer Ltd",
-		"total": 7659.96,
-		"monthly": {
-			"2011-04": {"total":1630.50, "Adult Social Care":1630.50},
-			"2014-05": {"total":132.96, "City Development":132.96},
-			"2014-06": {"total":122.36, "City Development":122.36},
-			"2014-08": {"total":143.60, "City Development":143.60},
-			"2014-10": {"total":153.32, "City Development":153.32},
-			"2014-12": {"total":100.24, "City Development":100.24},
-			"2015-01": {"total":128.64, "City Development":128.64},
-			"2015-03": {"total":75.96, "City Development":75.96},
-			"2015-04": {"total":200.40, "City Development":200.40},
-			"2015-06": {"total":87.48, "City Development":87.48},
-			"2015-07": {"total":263.44, "City Development":263.44},
-			"2015-09": {"total":69.24, "City Development":69.24},
-			"2015-10": {"total":129.36, "City Development":129.36},
-			"2015-11": {"total":57.40, "City Development":57.40},
-			"2015-12": {"total":54.08, "City Development":54.08},
-			"2016-06": {"total":388.00, "City Development":388.00},
-			"2016-08": {"total":53.80, "City Development":53.80},
-			"2016-09": {"total":100.56, "City Development":100.56},
-			"2016-10": {"total":72.24, "City Development":72.24},
-			"2016-11": {"total":64.44, "City Development":64.44},
-			"2017-01": {"total":96.76, "City Development":96.76},
-			"2017-03": {"total":177.00, "City Development":177.00},
-			"2017-05": {"total":190.24, "City Development":190.24},
-			"2017-06": {"total":128.10, "City Development":128.10},
-			"2017-08": {"total":132.30, "City Development":132.30},
-			"2017-10": {"total":122.46, "City Development":122.46},
-			"2017-11": {"total":285.60, "City Development":285.60},
-			"2018-01": {"total":130.26, "City Development":130.26},
-			"2018-04": {"total":137.28, "City Development":137.28},
-			"2018-05": {"total":134.10, "City Development":134.10},
-			"2018-06": {"total":661.50, "City Development":661.50},
-			"2018-07": {"total":164.52, "City Development":164.52},
-			"2018-08": {"total":188.16, "City Development":188.16},
-			"2018-09": {"total":188.58, "City Development":188.58},
-			"2018-11": {"total":341.22, "City Development":341.22},
-			"2018-12": {"total":121.68, "City Development":121.68},
-			"2019-01": {"total":72.90, "City Development":72.90},
-			"2019-03": {"total":350.46, "City Development":350.46},
-			"2020-10": {"total":8.82, "City Development":8.82}
-		}
-	},
-	"4541": {
-		"name": "Automatic Access Ltd",
-		"total": 500,
-		"monthly": {
-			"2021-05": {"total":320.00, "Communities and Environment":320.00},
-			"2021-09": {"total":180.00, "Communities and Environment":180.00}
-		}
-	},
-	"4542": {
-		"name": "Automatic Doors Ltd",
-		"alternate-names": [
-			"Automatic Doors Limited"
-		],
-		"total": 1325,
-		"monthly": {
-			"2018-12": {"total":1325.00, "Communities and Environment":1325.00}
-		}
-	},
-	"4543": {
-		"name": "Automatic Entry Systems",
-		"total": 675,
-		"monthly": {
-			"2016-02": {"total":675.00, "Environment & Housing":675.00}
-		}
-	},
-	"4544": {
-		"name": "Automation Security Elec",
-		"total": 3831.7,
-		"monthly": {
-			"2014-04": {"total":298.00, "Childrens Services":298.00},
-			"2014-06": {"total":355.00, "Central & Corporate":355.00},
-			"2014-07": {"total":705.00, "Central & Corporate":705.00},
-			"2014-11": {"total":80.00, "Central & Corporate":80.00},
-			"2015-02": {"total":80.00, "Central & Corporate":80.00},
-			"2015-05": {"total":705.00, "Central & Corporate":705.00},
-			"2015-09": {"total":161.00, "Civic Enterprise Leeds":161.00},
-			"2015-11": {"total":220.00, "Civic Enterprise Leeds":220.00},
-			"2016-02": {"total":1147.70, "Civic Enterprise Leeds":1147.70},
-			"2016-04": {"total":80.00, "Civic Enterprise Leeds":80.00}
-		}
-	},
-	"4545": {
-		"name": "Automobile Association Developments Ltd",
-		"total": 184.46,
-		"monthly": {
-			"2014-12": {"total":92.23, "Central & Corporate":92.23},
-			"2019-02": {"total":92.23, "Resources and Housing":92.23}
-		}
-	},
-	"4546": {
-		"name": "Automotive Electrical",
-		"total": 1623.93,
-		"monthly": {
-			"2011-11": {"total":1246.00, "Childrens Services":1246.00},
-			"2014-12": {"total":356.59, "Central & Corporate":356.59},
-			"2020-08": {"total":21.34, "Communities and Environment":21.34}
-		}
-	},
-	"4547": {
-		"name": "Automotive Electrical (Mirfield)",
-		"total": 41573.38,
-		"monthly": {
-			"2013-08": {"total":428.87, "Central & Corporate":428.87},
-			"2013-11": {"total":895.00, "Central & Corporate":895.00},
-			"2014-01": {"total":459.03, "Central & Corporate":459.03},
-			"2014-02": {"total":101.25, "Central & Corporate":101.25},
-			"2014-03": {"total":390.90, "Central & Corporate":390.90},
-			"2014-04": {"total":109.42, "Central & Corporate":109.42},
-			"2014-05": {"total":8356.08, "Central & Corporate":46.08, "Environment & Housing":8310.00},
-			"2014-09": {"total":136.10, "Central & Corporate":136.10},
-			"2014-12": {"total":405.89, "Central & Corporate":405.89},
-			"2015-02": {"total":689.28, "Central & Corporate":689.28},
-			"2015-03": {"total":372.84, "Central & Corporate":372.84},
-			"2015-07": {"total":302.53, "Central & Corporate":302.53},
-			"2015-08": {"total":329.30, "Central & Corporate":329.30},
-			"2015-09": {"total":325.00, "Central & Corporate":325.00},
-			"2015-12": {"total":864.78, "Civic Enterprise Leeds":864.78},
-			"2016-03": {"total":1257.27, "Civic Enterprise Leeds":1257.27},
-			"2016-04": {"total":177.18, "Civic Enterprise Leeds":177.18},
-			"2016-06": {"total":728.67, "Civic Enterprise Leeds":728.67},
-			"2016-07": {"total":65.00, "Civic Enterprise Leeds":65.00},
-			"2016-08": {"total":65.00, "Civic Enterprise Leeds":65.00},
-			"2016-12": {"total":96.57, "Civic Enterprise Leeds":96.57},
-			"2017-01": {"total":291.04, "Civic Enterprise Leeds":291.04},
-			"2017-02": {"total":281.74, "Civic Enterprise Leeds":281.74},
-			"2017-03": {"total":971.22, "Civic Enterprise Leeds":971.22},
-			"2017-05": {"total":2010.64, "Civic Enterprise Leeds":2010.64},
-			"2017-06": {"total":290.54, "Civic Enterprise Leeds":140.54, "Communities and Environment":150.00},
-			"2017-07": {"total":702.90, "Civic Enterprise Leeds":702.90},
-			"2017-10": {"total":196.63, "Resources and Housing":196.63},
-			"2017-11": {"total":1117.00, "Resources and Housing":1117.00},
-			"2017-12": {"total":510.59, "Resources and Housing":510.59},
-			"2018-01": {"total":1077.06, "Resources and Housing":1077.06},
-			"2018-02": {"total":48.93, "Resources and Housing":48.93},
-			"2018-03": {"total":249.21, "Resources and Housing":249.21},
-			"2018-04": {"total":107.95, "Resources and Housing":107.95},
-			"2018-05": {"total":1009.03, "Communities and Environment":190.00, "Resources and Housing":819.03},
-			"2018-06": {"total":141.32, "Resources and Housing":141.32},
-			"2018-09": {"total":162.87, "Resources and Housing":162.87},
-			"2018-10": {"total":1269.17, "Resources and Housing":1269.17},
-			"2018-11": {"total":1328.01, "Resources and Housing":1328.01},
-			"2018-12": {"total":1058.00, "Resources and Housing":1058.00},
-			"2019-01": {"total":1375.36, "Resources and Housing":1375.36},
-			"2019-02": {"total":3921.71, "Resources and Housing":3921.71},
-			"2019-03": {"total":1377.44, "Resources and Housing":1377.44},
-			"2019-04": {"total":915.18, "Resources and Housing":915.18},
-			"2019-05": {"total":644.22, "Resources and Housing":644.22},
-			"2019-06": {"total":188.71, "Resources and Housing":188.71},
-			"2019-08": {"total":145.20, "Resources and Housing":145.20},
-			"2019-10": {"total":516.94, "Resources and Housing":516.94},
-			"2019-12": {"total":143.85, "Resources and Housing":143.85},
-			"2020-01": {"total":343.62, "Resources and Housing":343.62},
-			"2020-02": {"total":1850.99, "Resources and Housing":1850.99},
-			"2020-03": {"total":39.10, "Resources and Housing":39.10},
-			"2020-04": {"total":731.25, "Resources and Housing":731.25}
-		}
-	},
-	"4548": {
-		"name": "Automotive Technical Servicing And Mot'S",
-		"total": 18000,
-		"monthly": {
-			"2021-07": {"total":10000.00, "City Development":10000.00},
-			"2021-08": {"total":8000.00, "City Development":8000.00}
-		}
-	},
-	"4549": {
-		"name": "Automotive-Electrical",
-		"total": 1238.94,
-		"monthly": {
-			"2011-01": {"total":1238.94, "Childrens Services":1238.94}
 		}
 	}
 	}
