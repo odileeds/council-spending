@@ -1,7 +1,441 @@
 {
-	"range": ["2014-04","2021-04"],
+	"range": ["2014-04","2022-01"],
 	"data": {
 	"300": {
+		"name": "AGE UK",
+		"total": 144087,
+		"monthly": {
+			"2018-04": {"total":43850.00, "Adult Services":43850.00},
+			"2018-05": {"total":43851.00, "Adult Services":43851.00},
+			"2018-06": {"total":56386.00, "Adult Services":56386.00}
+		}
+	},
+	"301": {
+		"name": "AGE UK CHESHIRE",
+		"total": 334.17,
+		"monthly": {
+			"2019-07": {"total":65.10, "Public Health":65.10},
+			"2019-08": {"total":269.07, "Public Health":269.07}
+		}
+	},
+	"302": {
+		"name": "AGE UK TRAINING",
+		"total": 6090,
+		"monthly": {
+			"2014-05": {"total":2940.00, "Business Services":2940.00},
+			"2014-07": {"total":1260.00, "Business Services":1260.00},
+			"2014-08": {"total":1890.00, "Business Services":1890.00}
+		}
+	},
+	"303": {
+		"name": "AGE UK WAKEFIELD DISTRICT",
+		"total": 3805779.42,
+		"monthly": {
+			"2014-04": {"total":5000.00, "Family Services":5000.00},
+			"2014-05": {"total":15148.34, "Family Services":15148.34},
+			"2014-06": {"total":7574.17, "Family Services":7574.17},
+			"2014-08": {"total":7574.17, "Adult Services":7574.17},
+			"2014-11": {"total":7574.17, "Adult Services":7574.17},
+			"2014-12": {"total":22722.51, "Adult Services":22722.51},
+			"2015-02": {"total":55204.01, "Adult Services":55204.01},
+			"2015-04": {"total":23164.04, "Adult Services":23164.04},
+			"2015-05": {"total":31673.00, "Adult Services":31673.00},
+			"2015-06": {"total":63346.00, "Adult Services":63346.00},
+			"2015-07": {"total":31673.00, "Public Health":31673.00},
+			"2015-08": {"total":31673.00, "Public Health":31673.00},
+			"2015-09": {"total":31673.00, "Public Health":31673.00},
+			"2015-10": {"total":106346.00, "Adult Services":106346.00},
+			"2016-01": {"total":63346.00, "Adult Services":63346.00},
+			"2016-02": {"total":31673.00, "Adult Services":31673.00},
+			"2016-04": {"total":63354.00, "Adult Services":63354.00},
+			"2016-05": {"total":31677.00, "Adult Services":31677.00},
+			"2016-06": {"total":31677.00, "Adult Services":31677.00},
+			"2016-07": {"total":31677.00, "Adult Services":31677.00},
+			"2016-08": {"total":31677.00, "Adult Services":31677.00},
+			"2016-10": {"total":63354.00, "Adult Services":63354.00},
+			"2016-11": {"total":31677.00, "Adult Services":31677.00},
+			"2016-12": {"total":31677.00, "Adult Services":31677.00},
+			"2017-02": {"total":31677.00, "Adult Services":31677.00},
+			"2017-03": {"total":31677.00, "Adult Services":31677.00},
+			"2017-04": {"total":75844.00, "Adult Services":75844.00},
+			"2017-05": {"total":43490.04, "Adult Services":43490.04},
+			"2017-06": {"total":43851.02, "Adult Services":43851.02},
+			"2017-07": {"total":43851.02, "Adult Services":43851.02},
+			"2017-08": {"total":43851.02, "Adult Services":43851.02},
+			"2017-09": {"total":43851.02, "Adult Services":43851.02},
+			"2017-10": {"total":69284.02, "Adult Services":69284.02},
+			"2017-11": {"total":43851.02, "Adult Services":43851.02},
+			"2017-12": {"total":43851.02, "Adult Services":43851.02},
+			"2018-01": {"total":56386.02, "Adult Services":56386.02},
+			"2018-02": {"total":31316.02, "Adult Services":31316.02},
+			"2018-03": {"total":43870.99, "Adult Services":43870.99},
+			"2018-07": {"total":31316.00, "Adult Services":31316.00},
+			"2018-08": {"total":56386.00, "Adult Services":56386.00},
+			"2018-09": {"total":43851.00, "Adult Services":43851.00},
+			"2018-10": {"total":43851.00, "Adult Services":43851.00},
+			"2018-11": {"total":43851.00, "Adult Services":43851.00},
+			"2018-12": {"total":31316.00, "Adult Services":31316.00},
+			"2019-01": {"total":18825.00, "Adult Services":18825.00},
+			"2019-02": {"total":37626.00, "Adult Services":37626.00},
+			"2019-03": {"total":115174.00, "Adult Services":115174.00},
+			"2019-04": {"total":25312.00, "Adult Services":25312.00},
+			"2019-05": {"total":102166.75, "Adult Services":102166.75},
+			"2019-06": {"total":31946.00, "Adult Services":31946.00},
+			"2019-07": {"total":36844.50, "Adult Services":36844.50},
+			"2019-08": {"total":49550.00, "Adult Services":49550.00},
+			"2019-09": {"total":82087.50, "Adult Services":82087.50},
+			"2019-10": {"total":17677.00, "Adult Services":17677.00},
+			"2019-11": {"total":49080.00, "Adult Services":49080.00},
+			"2019-12": {"total":97202.00, "Adult Services":97202.00},
+			"2020-01": {"total":86064.30, "Adult Services":86064.30},
+			"2020-02": {"total":45416.00, "Adult Services":45416.00},
+			"2020-03": {"total":16525.50, "Adult Services":16525.50},
+			"2020-04": {"total":46801.00, "Adult Services":46801.00},
+			"2020-05": {"total":47666.50, "Adult Services":47666.50},
+			"2020-06": {"total":54480.59, "Adult Services":54480.59},
+			"2020-07": {"total":75380.50, "Adult Services":75380.50},
+			"2020-08": {"total":54223.95, "Adult Services":54223.95},
+			"2020-09": {"total":12748.50, "Adult Services":12748.50},
+			"2020-10": {"total":89541.16, "Adult Services":89541.16},
+			"2020-11": {"total":45284.50, "Adult Services":45284.50},
+			"2020-12": {"total":58046.66, "Adult Services":58046.66},
+			"2021-01": {"total":45335.50, "Adult Services":45335.50},
+			"2021-02": {"total":56821.00, "Adult Services":56821.00},
+			"2021-03": {"total":125007.96, "Adult Services":125007.96},
+			"2021-04": {"total":80980.35, "Adult Services":80980.35},
+			"2021-05": {"total":46595.52, "Adult Services":46595.52},
+			"2021-06": {"total":14423.52, "Adult Services":14423.52},
+			"2021-07": {"total":99748.39, "Adult Services":99748.39},
+			"2021-08": {"total":13978.50, "Adult Services":13978.50},
+			"2021-09": {"total":91423.29, "Adult Services":91423.29},
+			"2021-10": {"total":44064.52, "Adult Services":44064.52},
+			"2021-11": {"total":71919.95, "Adult Services":71919.95},
+			"2021-12": {"total":70454.39, "Adult Services":70454.39}
+		}
+	},
+	"304": {
+		"name": "AGG PAK LTD",
+		"total": 5030.2,
+		"monthly": {
+			"2014-11": {"total":1310.40, "Highways":1310.40},
+			"2015-02": {"total":873.60, "Highways":873.60},
+			"2018-03": {"total":1228.50, "Highways":1228.50},
+			"2019-03": {"total":557.20, "Highways":557.20},
+			"2020-01": {"total":430.50, "Highways":430.50},
+			"2021-07": {"total":630.00, "Highways":630.00}
+		}
+	},
+	"305": {
+		"name": "AGGREGATE INDUSTRIES UK LTD",
+		"total": 7300.02,
+		"monthly": {
+			"2014-05": {"total":630.14, "Highways":630.14},
+			"2014-06": {"total":630.14, "Highways":630.14},
+			"2014-08": {"total":630.14, "Highways":630.14},
+			"2014-09": {"total":676.20, "Highways":676.20},
+			"2014-11": {"total":676.20, "Highways":676.20},
+			"2015-01": {"total":676.20, "Highways":676.20},
+			"2015-02": {"total":676.20, "Highways":676.20},
+			"2015-05": {"total":676.20, "Highways":676.20},
+			"2015-08": {"total":676.20, "Highways":676.20},
+			"2015-10": {"total":1352.40, "Highways":1352.40}
+		}
+	},
+	"306": {
+		"name": "AGILISYS LTD",
+		"total": 25000,
+		"monthly": {
+			"2018-11": {"total":25000.00, "ICT":25000.00}
+		}
+	},
+	"307": {
+		"name": "AGRICULTURAL & RURAL CENTRE CIC",
+		"total": 2340,
+		"monthly": {
+			"2016-07": {"total":2340.00, "Children and Young People":2340.00}
+		}
+	},
+	"308": {
+		"name": "AGROVISTA UK LIMITED T/A SHERRIFF AMENITY",
+		"total": 107302.33,
+		"monthly": {
+			"2018-02": {"total":7127.92, "Culture & Sport":7127.92},
+			"2018-03": {"total":6782.26, "Culture & Sport":6782.26},
+			"2018-05": {"total":7618.80, "Culture & Sport":7618.80},
+			"2018-07": {"total":5687.50, "Culture & Sport":5687.50},
+			"2018-10": {"total":4314.50, "Culture & Sport":4314.50},
+			"2018-11": {"total":5908.96, "Culture & Sport":5908.96},
+			"2019-03": {"total":13022.30, "Culture & Sport":13022.30},
+			"2019-04": {"total":3553.44, "Culture & Sport":3553.44},
+			"2019-05": {"total":5260.48, "Culture & Sport":5260.48},
+			"2019-06": {"total":4437.69, "Culture & Sport":4437.69},
+			"2019-07": {"total":3044.48, "Culture & Sport":3044.48},
+			"2019-08": {"total":570.94, "Culture & Sport":570.94},
+			"2019-09": {"total":9022.80, "Culture & Sport":9022.80},
+			"2019-10": {"total":12392.47, "Culture & Sport":12392.47},
+			"2019-11": {"total":1671.18, "Culture & Sport":1671.18},
+			"2019-12": {"total":5978.91, "Culture & Sport":5978.91},
+			"2020-01": {"total":648.50, "Culture & Sport":648.50},
+			"2020-03": {"total":10259.20, "Culture & Sport":10259.20}
+		}
+	},
+	"309": {
+		"name": "AGROVISTA UK LTD",
+		"alternate-names": [
+			"AGROVISTA UK LIMITED"
+		],
+		"total": 97627.62,
+		"monthly": {
+			"2020-04": {"total":6119.24, "Culture & Sport":6119.24},
+			"2020-05": {"total":1211.79, "Culture & Sport":1211.79},
+			"2020-06": {"total":63.63, "Culture & Sport":63.63},
+			"2020-07": {"total":7896.59, "Culture & Sport":7896.59},
+			"2020-08": {"total":793.25, "Culture & Sport":793.25},
+			"2020-09": {"total":4769.00, "Culture & Sport":4769.00},
+			"2020-10": {"total":8895.56, "Culture & Sport":8895.56},
+			"2020-11": {"total":2122.07, "Culture & Sport":2122.07},
+			"2020-12": {"total":545.64, "Culture & Sport":545.64},
+			"2021-01": {"total":242.70, "Culture & Sport":242.70},
+			"2021-02": {"total":10730.32, "Culture & Sport":10730.32},
+			"2021-03": {"total":581.86, "Culture & Sport":581.86},
+			"2021-04": {"total":2523.72, "Culture & Sport":2523.72},
+			"2021-05": {"total":6050.99, "Culture & Sport":6050.99},
+			"2021-06": {"total":12253.54, "Culture & Sport":12253.54},
+			"2021-07": {"total":1054.00, "Culture & Sport":1054.00},
+			"2021-08": {"total":7000.14, "Culture & Sport":7000.14},
+			"2021-09": {"total":2721.10, "Culture & Sport":2721.10},
+			"2021-10": {"total":6814.17, "Culture & Sport":6814.17},
+			"2021-11": {"total":2837.82, "Culture & Sport":2837.82},
+			"2021-12": {"total":12400.49, "Culture & Sport":12400.49}
+		}
+	},
+	"310": {
+		"name": "AHEAD PARTNERSHIP LTD",
+		"alternate-names": [
+			"AHEAD PARTNERSHIP LIMITED"
+		],
+		"total": 9000,
+		"monthly": {
+			"2019-02": {"total":9000.00, "Business Services":9000.00}
+		}
+	},
+	"311": {
+		"name": "AIDSERVICE",
+		"total": 2829.3,
+		"monthly": {
+			"2016-04": {"total":586.30, "Adult Services":586.30},
+			"2016-07": {"total":1130.00, "Adult Services":1130.00},
+			"2016-11": {"total":549.00, "Adult Services":549.00},
+			"2017-03": {"total":564.00, "Adult Services":564.00}
+		}
+	},
+	"312": {
+		"name": "AIMTEQ SOLUTIONS LTD",
+		"total": 1342,
+		"monthly": {
+			"2021-01": {"total":1342.00, "Property & Regeneration":1342.00}
+		}
+	},
+	"313": {
+		"name": "AINLEY\xB4S INSURANCE BROKERS (OSSETT) LTD",
+		"alternate-names": [
+			"AINLEY\xB4S INSURANCE BROKERS (OSSETT) LIMITED"
+		],
+		"total": 2961.44,
+		"monthly": {
+			"2018-08": {"total":1410.77, "Business Services":1410.77},
+			"2019-09": {"total":1550.67, "Business Services":1550.67}
+		}
+	},
+	"314": {
+		"name": "AINLEY\xB4S INSURANCE CONSULTANTS",
+		"total": 5505.4,
+		"monthly": {
+			"2014-11": {"total":1354.14, "Business Services":1354.14},
+			"2015-07": {"total":1354.14, "Business Services":1354.14},
+			"2016-07": {"total":1398.85, "Business Services":1398.85},
+			"2017-09": {"total":1398.27, "Business Services":1398.27}
+		}
+	},
+	"315": {
+		"name": "AIR LIQUIDE LTD",
+		"alternate-names": [
+			"AIR LIQUIDE LIMITED"
+		],
+		"total": 18.84,
+		"monthly": {
+			"2019-08": {"total":18.84, "Property & Regeneration":18.84}
+		}
+	},
+	"316": {
+		"name": "AIR LIQUIDE UK LTD",
+		"total": 724.240000000001,
+		"monthly": {
+			"2019-04": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-05": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-06": {"total":86.71, "Property & Regeneration":86.71},
+			"2019-07": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-09": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-10": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-11": {"total":18.84, "Property & Regeneration":18.84},
+			"2019-12": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-01": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-02": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-03": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-04": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-05": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-06": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-07": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-08": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-10": {"total":40.32, "Property & Regeneration":40.32},
+			"2020-11": {"total":20.16, "Property & Regeneration":20.16},
+			"2020-12": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-01": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-02": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-03": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-04": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-06": {"total":43.14, "Property & Regeneration":43.14},
+			"2021-07": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-08": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-09": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-10": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-11": {"total":21.57, "Property & Regeneration":21.57},
+			"2021-12": {"total":23.73, "Property & Regeneration":23.73}
+		}
+	},
+	"317": {
+		"name": "AIR MONITORS LTD",
+		"alternate-names": [
+			"AIR MONITORS LIMITED"
+		],
+		"total": 54991,
+		"monthly": {
+			"2017-05": {"total":17805.00, "Environment":17805.00},
+			"2018-04": {"total":9341.00, "Environment":9341.00},
+			"2018-06": {"total":2815.00, "Environment":2815.00},
+			"2019-05": {"total":7345.00, "Environment":7345.00},
+			"2020-07": {"total":7345.00, "Environment":7345.00},
+			"2020-10": {"total":10340.00, "Environment":10340.00}
+		}
+	},
+	"318": {
+		"name": "AIR-WEIGH EUROPE LTD",
+		"alternate-names": [
+			"AIR-WEIGH EUROPE LIMITED"
+		],
+		"total": 1866.25,
+		"monthly": {
+			"2014-06": {"total":720.00, "Transport":720.00},
+			"2014-07": {"total":526.25, "Transport":526.25},
+			"2016-08": {"total":620.00, "Transport":620.00}
+		}
+	},
+	"319": {
+		"name": "AIRCON REFRIGERATION LTD",
+		"total": 8969.98,
+		"monthly": {
+			"2014-04": {"total":560.00, "Property & Asset Management":560.00},
+			"2014-07": {"total":1984.00, "Property & Asset Management":1984.00},
+			"2014-12": {"total":560.00, "Property & Asset Management":560.00},
+			"2015-07": {"total":560.00, "Property & Asset Management":560.00},
+			"2016-02": {"total":560.00, "Property & Asset Management":560.00},
+			"2016-03": {"total":1679.96, "Property & Asset Management":1679.96},
+			"2016-05": {"total":3066.02, "Property & Asset Management":3066.02}
+		}
+	},
+	"320": {
+		"name": "AIRE BODY CARE LTD",
+		"total": 964.68,
+		"monthly": {
+			"2014-06": {"total":964.68, "Transport":964.68}
+		}
+	},
+	"321": {
+		"name": "AIRE VALLEY ARCHITECTURAL (ALUMINIUM) LTD",
+		"alternate-names": [
+			"AIRE VALLEY ARCHITECTURAL (ALUMINIUM) LIMITED"
+		],
+		"total": 617.5,
+		"monthly": {
+			"2017-03": {"total":617.50, "Property & Regeneration":617.50}
+		}
+	},
+	"322": {
+		"name": "AIREDALE & FERRY FRYSTON NEIGHBOURHOOD MANAGEMENT",
+		"total": 5900,
+		"monthly": {
+			"2014-09": {"total":5000.00, "Adult Services":5000.00},
+			"2015-03": {"total":900.00, "Adult Services":900.00}
+		}
+	},
+	"323": {
+		"name": "AIREDALE ACADEMIES TRUST",
+		"total": 5229.6,
+		"monthly": {
+			"2019-07": {"total":5229.60, "Children and Young People":5229.60}
+		}
+	},
+	"324": {
+		"name": "AIREDALE ACADEMIES TRUST T/A AIREDALE INFANT SCHOOL",
+		"total": 235700.78,
+		"monthly": {
+			"2015-01": {"total":33386.51, "Adult Services":33386.51},
+			"2015-03": {"total":1806.44, "Adult Services":1806.44},
+			"2015-04": {"total":44603.33, "Adult Services":44603.33},
+			"2015-07": {"total":7296.58, "Adult Services":7296.58},
+			"2015-08": {"total":30351.38, "Adult Services":30351.38},
+			"2015-10": {"total":1969.24, "Adult Services":1969.24},
+			"2015-11": {"total":1673.84, "Adult Services":1673.84},
+			"2015-12": {"total":6691.20, "Adult Services":6691.20},
+			"2016-01": {"total":20483.60, "Adult Services":20483.60},
+			"2016-02": {"total":984.60, "Adult Services":984.60},
+			"2016-03": {"total":9493.65, "Adult Services":9493.65},
+			"2016-04": {"total":35453.93, "Adult Services":35453.93},
+			"2016-05": {"total":1564.20, "Adult Services":1564.20},
+			"2016-06": {"total":1486.18, "Adult Services":1486.18},
+			"2016-07": {"total":21300.97, "Adult Services":21300.97},
+			"2016-09": {"total":17155.13, "Adult Services":17155.13}
+		}
+	},
+	"325": {
+		"name": "AIREDALE ACADEMY",
+		"total": 154331.12,
+		"monthly": {
+			"2014-04": {"total":7362.52, "Family Services":7362.52},
+			"2014-05": {"total":5135.00, "Family Services":5135.00},
+			"2014-06": {"total":8126.65, "Family Services":8126.65},
+			"2014-07": {"total":5476.00, "Children and Young People":5476.00},
+			"2014-08": {"total":2746.55, "Children and Young People":2746.55},
+			"2014-10": {"total":9173.06, "Children and Young People":9173.06},
+			"2014-11": {"total":6898.45, "Children and Young People":6898.45},
+			"2014-12": {"total":3268.57, "Children and Young People":3268.57},
+			"2015-02": {"total":4919.52, "Children and Young People":4919.52},
+			"2015-03": {"total":6315.39, "Children and Young People":6315.39},
+			"2015-04": {"total":2333.34, "Children and Young People":2333.34},
+			"2015-05": {"total":6382.31, "Children and Young People":6382.31},
+			"2015-06": {"total":1951.19, "Children and Young People":1951.19},
+			"2015-07": {"total":2615.38, "Children and Young People":2615.38},
+			"2015-08": {"total":1615.38, "Children and Young People":1615.38},
+			"2015-09": {"total":700.00, "Children and Young People":700.00},
+			"2015-10": {"total":5938.46, "Children and Young People":5938.46},
+			"2015-11": {"total":9141.28, "Children and Young People":9141.28},
+			"2015-12": {"total":6676.92, "Children and Young People":6676.92},
+			"2016-01": {"total":4925.31, "Children and Young People":4925.31},
+			"2016-02": {"total":3179.00, "Children and Young People":3179.00},
+			"2016-03": {"total":11538.51, "Children and Young People":11538.51},
+			"2016-05": {"total":4600.49, "Children and Young People":4600.49},
+			"2016-06": {"total":2755.76, "Children and Young People":2755.76},
+			"2016-07": {"total":6723.76, "Children and Young People":6723.76},
+			"2016-08": {"total":1160.32, "Children and Young People":1160.32},
+			"2016-11": {"total":1984.00, "Children and Young People":1984.00},
+			"2016-12": {"total":1200.00, "Children and Young People":1200.00},
+			"2017-03": {"total":6966.00, "Children and Young People":6966.00},
+			"2017-05": {"total":2975.00, "Children and Young People":2975.00},
+			"2017-06": {"total":1100.00, "Children and Young People":1100.00},
+			"2017-07": {"total":8447.00, "Children and Young People":8447.00}
+		}
+	},
+	"326": {
 		"name": "AIREDALE AMATEUR BOXING CLUB",
 		"total": 1550,
 		"monthly": {
@@ -10,23 +444,27 @@
 			"2016-11": {"total":500.00, "Culture & Sport":500.00}
 		}
 	},
-	"301": {
+	"327": {
 		"name": "AIREDALE COMMUNITY TRADING ACT LTD",
-		"total": 3179.17,
+		"total": 13294.29,
 		"monthly": {
 			"2017-06": {"total":1450.00, "ICT":1450.00},
 			"2018-03": {"total":691.67, "ICT":691.67},
-			"2020-02": {"total":1037.50, "ICT":1037.50}
+			"2020-02": {"total":1037.50, "ICT":1037.50},
+			"2021-05": {"total":3671.82, "ICT":3671.82},
+			"2021-06": {"total":3789.13, "ICT":3789.13},
+			"2021-08": {"total":1037.50, "ICT":1037.50},
+			"2021-09": {"total":1616.67, "ICT":1616.67}
 		}
 	},
-	"302": {
+	"328": {
 		"name": "AIREDALE COMPUTER RECYCLING",
 		"total": 8000,
 		"monthly": {
 			"2017-12": {"total":8000.00, "ICT":8000.00}
 		}
 	},
-	"303": {
+	"329": {
 		"name": "AIREDALE FERRY FRYSTON FRYSTON & TOWNVILLE N M B",
 		"total": 12564,
 		"monthly": {
@@ -41,24 +479,32 @@
 			"2021-02": {"total":500.00, "Adult Services":500.00}
 		}
 	},
-	"304": {
+	"330": {
 		"name": "AIREDALE FLOORING CONTRACTORS",
 		"total": 4662,
 		"monthly": {
 			"2019-09": {"total":4662.00, "Property & Regeneration":4662.00}
 		}
 	},
-	"305": {
+	"331": {
 		"name": "AIREDALE FLOORING CONTRACTORS LTD",
 		"alternate-names": [
 			"AIREDALE FLOORING CONTRACTORS LIMITED"
 		],
-		"total": 9772.5,
+		"total": 18501.5,
 		"monthly": {
-			"2020-10": {"total":9772.50, "Property & Regeneration":9772.50}
+			"2020-10": {"total":9772.50, "Property & Regeneration":9772.50},
+			"2021-10": {"total":8729.00, "Property & Regeneration":8729.00}
 		}
 	},
-	"306": {
+	"332": {
+		"name": "AIREDALE FOOTBALL CLUB",
+		"total": 4748,
+		"monthly": {
+			"2021-08": {"total":4748.00, "Public Health":4748.00}
+		}
+	},
+	"333": {
 		"name": "AIREDALE INTERNATIONAL AIR CONDITIONING LTD",
 		"total": 21922.5,
 		"monthly": {
@@ -75,7 +521,7 @@
 			"2016-11": {"total":2820.00, "Property & Regeneration":2820.00}
 		}
 	},
-	"307": {
+	"334": {
 		"name": "AIREDALE JUNIOR SCHOOL (PART OF AAT)",
 		"total": 24778.66,
 		"monthly": {
@@ -92,30 +538,39 @@
 			"2016-08": {"total":683.76, "Children and Young People":683.76}
 		}
 	},
-	"308": {
+	"335": {
 		"name": "AIREDALE METHODIST CHURCH",
-		"total": 1048,
+		"total": 1525,
 		"monthly": {
 			"2019-07": {"total":480.00, "Business Services":480.00},
 			"2020-02": {"total":240.00, "Business Services":240.00},
-			"2020-04": {"total":328.00, "n/a":328.00}
+			"2020-04": {"total":328.00, "n/a":328.00},
+			"2021-06": {"total":250.00, "Business Services":250.00},
+			"2021-12": {"total":227.00, "Business Services":227.00}
 		}
 	},
-	"309": {
+	"336": {
+		"name": "AIREDALE NEIGHBOURHOOD MANAGMENT BOARD EVENT GROUP",
+		"total": 1976.69,
+		"monthly": {
+			"2021-04": {"total":1976.69, "Adult Services":1976.69}
+		}
+	},
+	"337": {
 		"name": "AIREVALLEY IFA LTD",
 		"total": 300,
 		"monthly": {
 			"2019-07": {"total":300.00, "Business Services":300.00}
 		}
 	},
-	"310": {
+	"338": {
 		"name": "AIRFLO ENVIRORENTAL LTD",
 		"total": 3873,
 		"monthly": {
 			"2020-01": {"total":3873.00, "Property & Regeneration":3873.00}
 		}
 	},
-	"311": {
+	"339": {
 		"name": "AIRQUEE LTD",
 		"total": 10032.19,
 		"monthly": {
@@ -123,14 +578,14 @@
 			"2021-03": {"total":5008.89, "Culture & Sport":5008.89}
 		}
 	},
-	"312": {
+	"340": {
 		"name": "AIRSPACE SOLUTIONS.COM LTD",
 		"total": 755,
 		"monthly": {
 			"2014-06": {"total":755.00, "Economic Growth, Culture & Sport":755.00}
 		}
 	},
-	"313": {
+	"341": {
 		"name": "AJ COMMUNITY CARE LTD",
 		"total": 1908673.12,
 		"monthly": {
@@ -160,7 +615,7 @@
 			"2019-03": {"total":32334.01, "Adult Services":32334.01}
 		}
 	},
-	"314": {
+	"342": {
 		"name": "AJ GROUP",
 		"total": 2668235.36,
 		"monthly": {
@@ -201,7 +656,7 @@
 			"2017-03": {"total":100521.88, "Adult Services":100521.88}
 		}
 	},
-	"315": {
+	"343": {
 		"name": "AJ SYSTEMS LTD",
 		"alternate-names": [
 			"AJ SYSTEMS LIMITED"
@@ -212,9 +667,9 @@
 			"2021-02": {"total":1490.00, "Business Services":1490.00}
 		}
 	},
-	"316": {
+	"344": {
 		"name": "AJD SECURITY LTD",
-		"total": 19562,
+		"total": 19662,
 		"monthly": {
 			"2014-05": {"total":1120.00, "Property & Asset Management":1120.00},
 			"2014-06": {"total":528.00, "Property & Asset Management":528.00},
@@ -233,10 +688,11 @@
 			"2016-07": {"total":4180.00, "Property & Asset Management":4180.00},
 			"2016-09": {"total":1420.00, "Property & Asset Management":1420.00},
 			"2016-11": {"total":1350.00, "Property & Regeneration":1350.00},
-			"2021-03": {"total":90.00, "Property & Regeneration":90.00}
+			"2021-03": {"total":90.00, "Property & Regeneration":90.00},
+			"2021-08": {"total":100.00, "Property & Regeneration":100.00}
 		}
 	},
-	"317": {
+	"345": {
 		"name": "AJS SPORTS & TEAMWEAR LTD",
 		"total": 24216.8,
 		"monthly": {
@@ -246,7 +702,7 @@
 			"2015-03": {"total":9194.30, "Economic Growth, Culture & Sport":9194.30}
 		}
 	},
-	"318": {
+	"346": {
 		"name": "AKHTER COMPUTERS PLC",
 		"total": 11319.87,
 		"monthly": {
@@ -255,23 +711,23 @@
 			"2019-02": {"total":1231.95, "ICT":1231.95}
 		}
 	},
-	"319": {
+	"347": {
 		"name": "AKSAA MANAGEMENT & TRAINING CONSULTANTS",
 		"total": 600,
 		"monthly": {
 			"2018-10": {"total":600.00, "Business Services":600.00}
 		}
 	},
-	"320": {
+	"348": {
 		"name": "ALACS - ADULT LEARNING AND THE CULTURE SECTOR",
 		"total": 1300,
 		"monthly": {
 			"2017-03": {"total":1300.00, "Children and Young People":1300.00}
 		}
 	},
-	"321": {
+	"349": {
 		"name": "ALAMO BUSINESS SYSTEMS LTD",
-		"total": 395880.92,
+		"total": 417360.31,
 		"monthly": {
 			"2014-05": {"total":10960.67, "ICT":10960.67},
 			"2014-06": {"total":5201.96, "ICT":5201.96},
@@ -314,352 +770,13 @@
 			"2020-11": {"total":679.53, "ICT":679.53},
 			"2020-12": {"total":2090.00, "ICT":2090.00},
 			"2021-01": {"total":36966.85, "ICT":36966.85},
-			"2021-03": {"total":8350.19, "ICT":8350.19}
-		}
-	},
-	"322": {
-		"name": "ALAN CHAPPELOW SPORTSGROUND CONTRACTORS LTD",
-		"total": 2394,
-		"monthly": {
-			"2015-06": {"total":798.00, "Economic Growth, Culture & Sport":798.00},
-			"2015-11": {"total":1596.00, "Economic Growth, Culture & Sport":1596.00}
-		}
-	},
-	"323": {
-		"name": "ALAN GARDNER ASSOCIATES",
-		"total": 10200,
-		"monthly": {
-			"2015-03": {"total":10200.00, "Professional Services":10200.00}
-		}
-	},
-	"324": {
-		"name": "ALAN GEOFFREY JOINERS LTD",
-		"total": 24359,
-		"monthly": {
-			"2014-06": {"total":1580.00, "Property & Asset Management":1580.00},
-			"2014-07": {"total":2645.00, "Property & Asset Management":2645.00},
-			"2014-12": {"total":575.00, "Property & Asset Management":575.00},
-			"2015-02": {"total":1250.00, "Property & Asset Management":1250.00},
-			"2016-01": {"total":9545.00, "Property & Asset Management":9545.00},
-			"2017-11": {"total":564.00, "Property & Regeneration":564.00},
-			"2018-01": {"total":880.00, "Property & Regeneration":880.00},
-			"2019-07": {"total":660.00, "Property & Regeneration":660.00},
-			"2019-08": {"total":60.00, "Property & Regeneration":60.00},
-			"2020-12": {"total":6600.00, "Property & Regeneration":6600.00}
-		}
-	},
-	"325": {
-		"name": "ALAN HOUGHTON PLANNING LTD",
-		"total": 8960,
-		"monthly": {
-			"2020-03": {"total":4720.00, "Professional Services":4720.00},
-			"2020-04": {"total":4240.00, "Professional Services":4240.00}
-		}
-	},
-	"326": {
-		"name": "ALARM",
-		"total": 804,
-		"monthly": {
-			"2020-01": {"total":402.00, "Professional Services":402.00},
-			"2021-01": {"total":402.00, "Professional Services":402.00}
-		}
-	},
-	"327": {
-		"name": "ALBANY ACADEMY",
-		"total": 2000,
-		"monthly": {
-			"2015-04": {"total":1000.00, "Children and Young People":1000.00},
-			"2016-01": {"total":1000.00, "Children and Young People":1000.00}
-		}
-	},
-	"328": {
-		"name": "ALBANY HOUSE",
-		"total": 3055.71,
-		"monthly": {
-			"2017-05": {"total":3055.71, "Adult Services":3055.71}
-		}
-	},
-	"329": {
-		"name": "ALBYFIELD LTD",
-		"total": 495,
-		"monthly": {
-			"2019-10": {"total":495.00, "Business Services":495.00}
-		}
-	},
-	"330": {
-		"name": "ALCIUM SOFTWARE LTD",
-		"total": 78070.67,
-		"monthly": {
-			"2015-03": {"total":6575.00, "ICT":6575.00},
-			"2016-04": {"total":6575.00, "ICT":6575.00},
-			"2017-06": {"total":6693.00, "ICT":6693.00},
-			"2018-03": {"total":6861.00, "ICT":6861.00},
-			"2019-02": {"total":6997.00, "ICT":6997.00},
-			"2019-06": {"total":4650.00, "ICT":4650.00},
-			"2019-09": {"total":6628.00, "ICT":6628.00},
-			"2019-11": {"total":375.00, "ICT":375.00},
-			"2020-03": {"total":8747.00, "ICT":8747.00},
-			"2020-04": {"total":8736.00, "ICT":8736.00},
-			"2020-06": {"total":2738.00, "ICT":2738.00},
-			"2020-07": {"total":125.00, "ICT":125.00},
-			"2020-09": {"total":250.00, "ICT":250.00},
-			"2020-10": {"total":125.00, "ICT":125.00},
-			"2020-11": {"total":500.00, "ICT":500.00},
-			"2020-12": {"total":562.67, "ICT":562.67},
-			"2021-01": {"total":1065.00, "ICT":1065.00},
-			"2021-02": {"total":4050.00, "ICT":4050.00},
-			"2021-03": {"total":5818.00, "ICT":5818.00}
-		}
-	},
-	"331": {
-		"name": "ALCOHOL FOCUSED SCOTLAND",
-		"total": 350,
-		"monthly": {
-			"2019-10": {"total":350.00, "Public Health":350.00}
-		}
-	},
-	"332": {
-		"name": "ALERE TOXICOLOGY",
-		"total": 765.5,
-		"monthly": {
-			"2016-05": {"total":765.50, "Environment":765.50}
-		}
-	},
-	"333": {
-		"name": "ALERT -IT CARE ALARMS",
-		"total": 74718.16,
-		"monthly": {
-			"2014-06": {"total":29041.55, "Family Services":29041.55},
-			"2014-12": {"total":10651.40, "Adult Services":10651.40},
-			"2015-03": {"total":2839.31, "Adult Services":2839.31},
-			"2015-07": {"total":3148.66, "Adult Services":3148.66},
-			"2015-09": {"total":2300.94, "Adult Services":2300.94},
-			"2015-10": {"total":7631.20, "Adult Services":7631.20},
-			"2016-01": {"total":1045.62, "Adult Services":1045.62},
-			"2016-02": {"total":2302.50, "Adult Services":2302.50},
-			"2016-03": {"total":1311.80, "Adult Services":1311.80},
-			"2016-04": {"total":522.34, "Adult Services":522.34},
-			"2016-06": {"total":4538.60, "Adult Services":4538.60},
-			"2016-07": {"total":1143.26, "Adult Services":1143.26},
-			"2016-11": {"total":1907.80, "Adult Services":1907.80},
-			"2017-01": {"total":735.54, "Adult Services":735.54},
-			"2017-03": {"total":1060.10, "Adult Services":1060.10},
-			"2017-04": {"total":1857.30, "Adult Services":1857.30},
-			"2017-05": {"total":1662.79, "Adult Services":1662.79},
-			"2017-08": {"total":1017.45, "Adult Services":1017.45}
-		}
-	},
-	"334": {
-		"name": "ALEXANDER FINANCIAL SOLUTIONS LTD",
-		"total": 390,
-		"monthly": {
-			"2019-06": {"total":195.00, "Business Services":195.00},
-			"2019-10": {"total":195.00, "Business Services":195.00}
-		}
-	},
-	"335": {
-		"name": "ALHAMBRA CARE LIMITED T/A ELM LODGE RESIDENTIAL CARE HOME",
-		"total": 39133.16,
-		"monthly": {
-			"2020-04": {"total":1400.00, "Adult Services":1400.00},
-			"2020-06": {"total":8186.00, "Adult Services":8186.00},
-			"2020-07": {"total":554.40, "Adult Services":554.40},
-			"2020-08": {"total":8186.00, "Adult Services":8186.00},
-			"2020-10": {"total":5733.02, "Adult Services":5733.02},
-			"2020-12": {"total":5733.02, "Adult Services":5733.02},
-			"2021-01": {"total":5831.77, "Adult Services":5831.77},
-			"2021-03": {"total":3508.95, "Adult Services":3508.95}
-		}
-	},
-	"336": {
-		"name": "ALICE BACON MEMORIAL TRUST",
-		"total": 980,
-		"monthly": {
-			"2017-05": {"total":500.00, "n/a":500.00},
-			"2019-05": {"total":480.00, "Public Health":480.00}
-		}
-	},
-	"337": {
-		"name": "ALIGNED ASSETS LTD",
-		"total": 146051.54,
-		"monthly": {
-			"2014-05": {"total":9365.00, "ICT":9365.00},
-			"2014-07": {"total":3400.00, "ICT":3400.00},
-			"2014-11": {"total":6947.35, "ICT":6947.35},
-			"2015-05": {"total":10392.00, "ICT":10392.00},
-			"2015-11": {"total":14228.18, "ICT":14228.18},
-			"2016-04": {"total":950.00, "ICT":950.00},
-			"2016-05": {"total":10467.12, "ICT":10467.12},
-			"2016-11": {"total":7183.81, "ICT":7183.81},
-			"2017-05": {"total":10710.88, "ICT":10710.88},
-			"2017-08": {"total":2550.00, "ICT":2550.00},
-			"2017-11": {"total":7308.80, "ICT":7308.80},
-			"2018-05": {"total":11094.33, "ICT":11094.33},
-			"2018-11": {"total":7570.45, "ICT":7570.45},
-			"2019-05": {"total":8029.12, "ICT":8029.12},
-			"2019-11": {"total":7824.05, "ICT":7824.05},
-			"2019-12": {"total":8248.50, "ICT":8248.50},
-			"2020-05": {"total":3299.54, "ICT":3299.54},
-			"2020-12": {"total":16482.41, "ICT":16482.41}
-		}
-	},
-	"338": {
-		"name": "ALISON BLACK LTD T/A SPORTMAX",
-		"total": 22750.35,
-		"monthly": {
-			"2017-10": {"total":957.90, "Culture & Sport":957.90},
-			"2017-11": {"total":1188.55, "Culture & Sport":1188.55},
-			"2018-01": {"total":622.90, "Culture & Sport":622.90},
-			"2018-03": {"total":1360.60, "Culture & Sport":1360.60},
-			"2018-05": {"total":2791.25, "Culture & Sport":2791.25},
-			"2018-06": {"total":547.05, "Culture & Sport":547.05},
-			"2018-10": {"total":2280.10, "Culture & Sport":2280.10},
-			"2018-11": {"total":650.90, "Culture & Sport":650.90},
-			"2019-01": {"total":585.60, "Culture & Sport":585.60},
-			"2019-02": {"total":536.80, "Culture & Sport":536.80},
-			"2019-04": {"total":529.65, "Culture & Sport":529.65},
-			"2019-05": {"total":1133.15, "Culture & Sport":1133.15},
-			"2019-06": {"total":17.20, "Culture & Sport":17.20},
-			"2019-07": {"total":1658.10, "Culture & Sport":1658.10},
-			"2019-08": {"total":371.40, "Culture & Sport":371.40},
-			"2019-09": {"total":1145.15, "Culture & Sport":1145.15},
-			"2019-10": {"total":1063.35, "Culture & Sport":1063.35},
-			"2019-11": {"total":874.70, "Culture & Sport":874.70},
-			"2019-12": {"total":805.50, "Culture & Sport":805.50},
-			"2020-01": {"total":774.50, "Culture & Sport":774.50},
-			"2020-02": {"total":689.65, "Culture & Sport":689.65},
-			"2020-03": {"total":375.40, "Culture & Sport":375.40},
-			"2020-04": {"total":959.50, "Culture & Sport":959.50},
-			"2020-08": {"total":382.70, "Culture & Sport":382.70},
-			"2020-10": {"total":152.95, "Culture & Sport":152.95},
-			"2020-11": {"total":86.00, "Culture & Sport":86.00},
-			"2020-12": {"total":71.25, "Culture & Sport":71.25},
-			"2021-01": {"total":98.45, "Culture & Sport":98.45},
-			"2021-03": {"total":40.10, "Culture & Sport":40.10}
-		}
-	},
-	"339": {
-		"name": "ALISON JOHN & ASSOCIATES",
-		"total": 2230.89,
-		"monthly": {
-			"2014-04": {"total":743.63, "Business Services":743.63},
-			"2014-06": {"total":743.63, "Business Services":743.63},
-			"2014-09": {"total":743.63, "Business Services":743.63}
-		}
-	},
-	"340": {
-		"name": "ALISON WILSON & ASSOCIATES COACHING LTD",
-		"alternate-names": [
-			"ALISON WILSON & ASSOCIATES COACHING LIMITED"
-		],
-		"total": 59521.8,
-		"monthly": {
-			"2018-12": {"total":500.00, "Business Services":500.00},
-			"2019-01": {"total":2400.00, "Business Services":2400.00},
-			"2019-02": {"total":2100.00, "Business Services":2100.00},
-			"2019-05": {"total":3210.80, "Business Services":3210.80},
-			"2019-08": {"total":2700.00, "Business Services":2700.00},
-			"2019-10": {"total":2700.00, "Business Services":2700.00},
-			"2019-12": {"total":400.00, "Business Services":400.00},
-			"2020-02": {"total":630.00, "Business Services":630.00},
-			"2020-03": {"total":960.00, "Business Services":960.00},
-			"2020-04": {"total":5168.00, "Business Services":5168.00},
-			"2020-05": {"total":1195.00, "Business Services":1195.00},
-			"2020-06": {"total":2595.00, "Business Services":2595.00},
-			"2020-07": {"total":2100.00, "Business Services":2100.00},
-			"2020-08": {"total":177.00, "Business Services":177.00},
-			"2020-10": {"total":2395.00, "Business Services":2395.00},
-			"2020-11": {"total":7272.00, "Business Services":7272.00},
-			"2020-12": {"total":2470.00, "Business Services":2470.00},
-			"2021-01": {"total":7182.00, "Business Services":7182.00},
-			"2021-02": {"total":830.00, "Business Services":830.00},
-			"2021-03": {"total":12537.00, "Business Services":12537.00}
-		}
-	},
-	"341": {
-		"name": "ALISTAIR BROMHEAD LTD",
-		"total": 995,
-		"monthly": {
-			"2016-11": {"total":995.00, "Business Services":995.00}
-		}
-	},
-	"342": {
-		"name": "ALKEMYGOLD LTD",
-		"alternate-names": [
-			"ALKEMYGOLD LIMITED"
-		],
-		"total": 25519.66,
-		"monthly": {
-			"2014-10": {"total":12808.20, "Business Services":12808.20},
-			"2014-12": {"total":509.40, "Business Services":509.40},
-			"2015-07": {"total":12202.06, "Business Services":12202.06}
-		}
-	},
-	"343": {
-		"name": "ALL AREA CARS 1 LTD",
-		"total": 728,
-		"monthly": {
-			"2019-02": {"total":728.00, "Transport":728.00}
-		}
-	},
-	"344": {
-		"name": "ALL FLOORS UK LTD",
-		"total": 4117.5,
-		"monthly": {
-			"2015-01": {"total":2862.50, "Property & Asset Management":2862.50},
-			"2018-12": {"total":1255.00, "Property & Regeneration":1255.00}
-		}
-	},
-	"345": {
-		"name": "ALL GAS WAKEFIELD LTD",
-		"total": 16199.84,
-		"monthly": {
-			"2014-11": {"total":585.27, "Property & Asset Management":585.27},
-			"2014-12": {"total":2425.46, "Property & Asset Management":2425.46},
-			"2015-11": {"total":2911.56, "Property & Asset Management":2911.56},
-			"2016-01": {"total":1507.72, "Property & Asset Management":1507.72},
-			"2016-02": {"total":3937.58, "Property & Asset Management":3937.58},
-			"2016-04": {"total":659.07, "Property & Asset Management":659.07},
-			"2016-05": {"total":728.06, "Property & Asset Management":728.06},
-			"2016-10": {"total":1229.79, "Property & Regeneration":1229.79},
-			"2016-12": {"total":539.50, "Property & Regeneration":539.50},
-			"2017-01": {"total":1675.83, "Property & Regeneration":1675.83}
-		}
-	},
-	"346": {
-		"name": "ALL IN ONE MARKETING LTD",
-		"alternate-names": [
-			"ALL IN ONE MARKETING LIMITED"
-		],
-		"total": 528,
-		"monthly": {
-			"2020-05": {"total":528.00, "Business Services":528.00}
-		}
-	},
-	"347": {
-		"name": "ALL PARTY PARLIMENTARY GROUP FOR YORKSHIRE & NORTHERN LINCOLNSHIRE",
-		"total": 950,
-		"monthly": {
-			"2019-04": {"total":475.00, "Professional Services":475.00},
-			"2020-06": {"total":475.00, "Professional Services":475.00}
-		}
-	},
-	"348": {
-		"name": "ALL SAFE & SECURE LTD",
-		"alternate-names": [
-			"ALL SAFE & SECURE LIMITED"
-		],
-		"total": 126,
-		"monthly": {
-			"2019-04": {"total":126.00, "Property & Regeneration":126.00}
-		}
-	},
-	"349": {
-		"name": "ALL SAINTS CHURCH",
-		"total": 1545,
-		"monthly": {
-			"2019-07": {"total":1030.00, "Business Services":1030.00},
-			"2020-02": {"total":515.00, "Business Services":515.00}
+			"2021-03": {"total":8350.19, "ICT":8350.19},
+			"2021-04": {"total":2716.44, "ICT":2716.44},
+			"2021-06": {"total":4523.50, "ICT":4523.50},
+			"2021-07": {"total":710.68, "ICT":710.68},
+			"2021-08": {"total":6790.51, "ICT":6790.51},
+			"2021-09": {"total":1102.00, "ICT":1102.00},
+			"2021-10": {"total":5636.26, "ICT":5636.26}
 		}
 	}
 	}
