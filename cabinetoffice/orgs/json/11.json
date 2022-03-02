@@ -1,14 +1,425 @@
 {
-	"range": ["2010-04","2021-05"],
+	"range": ["2010-04","2021-10"],
 	"data": {
 	"550": {
+		"name": "CORBY BOROUGH COUNCIL",
+		"total": 106298.34,
+		"monthly": {
+			"2016-04": {"total":80047.50, "CABINET OFFICE":80047.50},
+			"2019-08": {"total":26250.84, "CABINET OFFICE":26250.84}
+		}
+	},
+	"551": {
+		"name": "CORNWALL COUNCIL",
+		"total": 12587078.75,
+		"monthly": {
+			"2013-12": {"total":30000.00, "CABINET OFFICE":30000.00},
+			"2014-04": {"total":240892.00, "CABINET OFFICE":240892.00},
+			"2014-11": {"total":40000.00, "CABINET OFFICE":40000.00},
+			"2015-01": {"total":63493.69, "CABINET OFFICE":63493.69},
+			"2015-03": {"total":83740.00, "CABINET OFFICE":83740.00},
+			"2015-04": {"total":180949.00, "CABINET OFFICE":180949.00},
+			"2016-03": {"total":745276.00, "CABINET OFFICE":745276.00},
+			"2016-04": {"total":718151.25, "CABINET OFFICE":718151.25},
+			"2016-05": {"total":39743.83, "CABINET OFFICE":39743.83},
+			"2016-06": {"total":235763.66, "CABINET OFFICE":235763.66},
+			"2016-07": {"total":341675.00, "CABINET OFFICE":341675.00},
+			"2016-08": {"total":53948.70, "CABINET OFFICE":53948.70},
+			"2017-01": {"total":367000.00, "CABINET OFFICE":367000.00},
+			"2017-03": {"total":233227.00, "CABINET OFFICE":233227.00},
+			"2017-09": {"total":754888.25, "CABINET OFFICE":754888.25},
+			"2018-03": {"total":100000.00, "CABINET OFFICE":100000.00},
+			"2018-07": {"total":297764.01, "CABINET OFFICE":297764.01},
+			"2020-07": {"total":54605.00, "CABINET OFFICE":54605.00},
+			"2021-03": {"total":7949021.00, "CABINET OFFICE":7949021.00},
+			"2021-08": {"total":56940.36, "CABINET OFFICE":56940.36}
+		}
+	},
+	"552": {
+		"name": "CORNWALL COUNTY COUNCIL",
+		"total": 82696.28,
+		"monthly": {
+			"2016-05": {"total":82696.28, "CABINET OFFICE":82696.28}
+		}
+	},
+	"553": {
+		"name": "CORPORATE DOCUMENT SERVICES LTD",
+		"alternate-names": [
+			"CORPORATE DOCUMENT SERVICES LIMITED"
+		],
+		"total": 9178753.56,
+		"monthly": {
+			"2010-05": {"total":312114.04, "Cabinet Office":312114.04},
+			"2010-06": {"total":24000.00, "Cabinet Office":24000.00},
+			"2010-07": {"total":255431.21, "Cabinet Office":255431.21},
+			"2010-09": {"total":235220.53, "Cabinet Office":235220.53},
+			"2010-10": {"total":27751.57, "Cabinet Office":27751.57},
+			"2010-12": {"total":104303.10, "Cabinet Office":104303.10},
+			"2011-02": {"total":74245.45, "Cabinet Office":74245.45},
+			"2011-03": {"total":214815.92, "CABINET OFFICE":214815.92},
+			"2011-04": {"total":75337.53, "CABINET OFFICE":75337.53},
+			"2011-06": {"total":107888.57, "Cabinet Office":107888.57},
+			"2011-08": {"total":209694.89, "Cabinet Office":209694.89},
+			"2011-09": {"total":31542.00, "Cabinet Office":31542.00},
+			"2011-10": {"total":63128.56, "Cabinet Office":63128.56},
+			"2011-11": {"total":31168.78, "Cabinet Office":31168.78},
+			"2012-01": {"total":126138.46, "Cabinet Office":126138.46},
+			"2012-02": {"total":80000.00, "Cabinet Office":80000.00},
+			"2012-03": {"total":76491.14, "Cabinet Office":76491.14},
+			"2012-05": {"total":288897.74, "Cabinet Office":288897.74},
+			"2012-07": {"total":72156.97, "Cabinet Office":72156.97},
+			"2012-08": {"total":31271.79, "Cabinet Office":31271.79},
+			"2012-09": {"total":63684.59, "CABINET OFFICE":63684.59},
+			"2012-10": {"total":25888.99, "Cabinet Office":25888.99},
+			"2012-11": {"total":31014.36, "CABINET OFFICE":31014.36},
+			"2012-12": {"total":42107.75, "CABINET OFFICE":42107.75},
+			"2013-01": {"total":72674.20, "CABINET OFFICE":72674.20},
+			"2013-03": {"total":233021.67, "CABINET OFFICE":233021.67},
+			"2013-04": {"total":227319.74, "CABINET OFFICE":227319.74},
+			"2013-05": {"total":37968.56, "CABINET OFFICE":37968.56},
+			"2013-07": {"total":69928.14, "CABINET OFFICE":69928.14},
+			"2013-08": {"total":44044.35, "CABINET OFFICE":44044.35},
+			"2013-09": {"total":43656.48, "CABINET OFFICE":43656.48},
+			"2013-10": {"total":37534.61, "CABINET OFFICE":37534.61},
+			"2013-11": {"total":99375.00, "CABINET OFFICE":99375.00},
+			"2013-12": {"total":86770.93, "CABINET OFFICE":86770.93},
+			"2014-01": {"total":66403.22, "CABINET OFFICE":66403.22},
+			"2014-02": {"total":33127.91, "CABINET OFFICE":33127.91},
+			"2014-03": {"total":386851.70, "CABINET OFFICE":386851.70},
+			"2014-04": {"total":184503.63, "CABINET OFFICE":184503.63},
+			"2014-05": {"total":72940.19, "CABINET OFFICE":72940.19},
+			"2014-06": {"total":35189.92, "CABINET OFFICE":35189.92},
+			"2014-07": {"total":74683.31, "CABINET OFFICE":74683.31},
+			"2014-08": {"total":60488.56, "CABINET OFFICE":60488.56},
+			"2014-09": {"total":49727.41, "CABINET OFFICE":49727.41},
+			"2014-10": {"total":104079.15, "CABINET OFFICE":104079.15},
+			"2014-11": {"total":50378.28, "CABINET OFFICE":50378.28},
+			"2014-12": {"total":35252.37, "CABINET OFFICE":35252.37},
+			"2015-02": {"total":264683.18, "CABINET OFFICE":264683.18},
+			"2015-03": {"total":116966.50, "CABINET OFFICE":116966.50},
+			"2015-06": {"total":91782.62, "CABINET OFFICE":91782.62},
+			"2015-07": {"total":61592.38, "CABINET OFFICE":61592.38},
+			"2015-11": {"total":154881.10, "CABINET OFFICE":154881.10},
+			"2015-12": {"total":80083.96, "CABINET OFFICE":80083.96},
+			"2016-01": {"total":106348.96, "CABINET OFFICE":106348.96},
+			"2016-02": {"total":85287.41, "CABINET OFFICE":85287.41},
+			"2016-03": {"total":44839.46, "CABINET OFFICE":44839.46},
+			"2016-04": {"total":83035.24, "CABINET OFFICE":83035.24},
+			"2016-05": {"total":55449.49, "CABINET OFFICE":55449.49},
+			"2016-06": {"total":52755.76, "CABINET OFFICE":52755.76},
+			"2016-07": {"total":58968.94, "CABINET OFFICE":58968.94},
+			"2016-08": {"total":43100.31, "CABINET OFFICE":43100.31},
+			"2016-09": {"total":41969.92, "CABINET OFFICE":41969.92},
+			"2016-10": {"total":54718.28, "CABINET OFFICE":54718.28},
+			"2016-12": {"total":137033.04, "CABINET OFFICE":137033.04},
+			"2017-01": {"total":30183.35, "CABINET OFFICE":30183.35},
+			"2017-02": {"total":86277.57, "CABINET OFFICE":86277.57},
+			"2017-03": {"total":148180.32, "CABINET OFFICE":148180.32},
+			"2017-04": {"total":34381.55, "CABINET OFFICE":34381.55},
+			"2017-05": {"total":33601.68, "CABINET OFFICE":33601.68},
+			"2017-06": {"total":45607.31, "CABINET OFFICE":45607.31},
+			"2017-07": {"total":44041.74, "CABINET OFFICE":44041.74},
+			"2017-08": {"total":49314.07, "CABINET OFFICE":49314.07},
+			"2017-09": {"total":42119.30, "CABINET OFFICE":42119.30},
+			"2017-11": {"total":140247.63, "CABINET OFFICE":140247.63},
+			"2017-12": {"total":48709.00, "CABINET OFFICE":48709.00},
+			"2018-01": {"total":40745.00, "CABINET OFFICE":40745.00},
+			"2018-02": {"total":49642.00, "CABINET OFFICE":49642.00},
+			"2018-03": {"total":61409.27, "CABINET OFFICE":61409.27},
+			"2018-04": {"total":330624.64, "CABINET OFFICE":330624.64},
+			"2018-05": {"total":32524.88, "CABINET OFFICE":32524.88},
+			"2018-06": {"total":31970.36, "CABINET OFFICE":31970.36},
+			"2018-07": {"total":34480.87, "CABINET OFFICE":34480.87},
+			"2018-10": {"total":81625.58, "CABINET OFFICE":81625.58},
+			"2018-11": {"total":25022.49, "CABINET OFFICE":25022.49},
+			"2018-12": {"total":26424.00, "CABINET OFFICE":26424.00},
+			"2019-01": {"total":25417.02, "CABINET OFFICE":25417.02},
+			"2019-02": {"total":28196.07, "CABINET OFFICE":28196.07},
+			"2019-03": {"total":76634.86, "CABINET OFFICE":76634.86},
+			"2019-04": {"total":65281.23, "CABINET OFFICE":65281.23},
+			"2019-06": {"total":35356.59, "CABINET OFFICE":35356.59},
+			"2019-07": {"total":28290.09, "CABINET OFFICE":28290.09},
+			"2019-09": {"total":27217.32, "CABINET OFFICE":27217.32},
+			"2019-10": {"total":27778.76, "CABINET OFFICE":27778.76},
+			"2019-11": {"total":28986.32, "CABINET OFFICE":28986.32},
+			"2019-12": {"total":28986.32, "CABINET OFFICE":28986.32},
+			"2020-02": {"total":37047.31, "CABINET OFFICE":37047.31},
+			"2020-03": {"total":28958.32, "CABINET OFFICE":28958.32},
+			"2020-04": {"total":94550.03, "CABINET OFFICE":94550.03},
+			"2020-08": {"total":124253.70, "CABINET OFFICE":124253.70},
+			"2020-09": {"total":34395.83, "CABINET OFFICE":34395.83},
+			"2020-10": {"total":34395.83, "CABINET OFFICE":34395.83},
+			"2020-11": {"total":35638.83, "CABINET OFFICE":35638.83},
+			"2020-12": {"total":74362.93, "CABINET OFFICE":74362.93},
+			"2021-01": {"total":35638.83, "CABINET OFFICE":35638.83},
+			"2021-02": {"total":84324.62, "CABINET OFFICE":84324.62},
+			"2021-03": {"total":202262.32, "CABINET OFFICE":202262.32},
+			"2021-06": {"total":58059.34, "CABINET OFFICE":58059.34},
+			"2021-07": {"total":48990.84, "CABINET OFFICE":48990.84},
+			"2021-08": {"total":58579.67, "CABINET OFFICE":58579.67},
+			"2021-09": {"total":55739.53, "CABINET OFFICE":55739.53},
+			"2021-10": {"total":138568.62, "CABINET OFFICE":138568.62}
+		}
+	},
+	"554": {
+		"name": "CORPORATE TRAVEL MANAGEMENT NORTH LTD",
+		"total": 7014320.69,
+		"monthly": {
+			"2021-02": {"total":462130.10, "CABINET OFFICE":462130.10},
+			"2021-03": {"total":1377693.86, "CABINET OFFICE":1377693.86},
+			"2021-04": {"total":939769.34, "CABINET OFFICE":939769.34},
+			"2021-05": {"total":745920.84, "CABINET OFFICE":745920.84},
+			"2021-07": {"total":835724.40, "CABINET OFFICE":835724.40},
+			"2021-08": {"total":1053810.62, "CABINET OFFICE":1053810.62},
+			"2021-10": {"total":1599271.53, "CABINET OFFICE":1599271.53}
+		}
+	},
+	"555": {
+		"name": "COSAN CONSULTING LTD",
+		"total": 29899.28,
+		"monthly": {
+			"2014-10": {"total":29899.28, "CABINET OFFICE":29899.28}
+		}
+	},
+	"556": {
+		"name": "COSTAIN LTD",
+		"total": 3146232.92,
+		"monthly": {
+			"2016-08": {"total":57330.00, "CABINET OFFICE":57330.00},
+			"2017-06": {"total":34398.00, "CABINET OFFICE":34398.00},
+			"2017-09": {"total":61595.16, "CABINET OFFICE":61595.16},
+			"2021-03": {"total":672492.05, "CABINET OFFICE":672492.05},
+			"2021-04": {"total":507236.41, "CABINET OFFICE":507236.41},
+			"2021-05": {"total":306336.72, "CABINET OFFICE":306336.72},
+			"2021-06": {"total":323821.88, "CABINET OFFICE":323821.88},
+			"2021-07": {"total":246540.63, "CABINET OFFICE":246540.63},
+			"2021-09": {"total":655946.13, "CABINET OFFICE":655946.13},
+			"2021-10": {"total":280535.94, "CABINET OFFICE":280535.94}
+		}
+	},
+	"557": {
+		"name": "COTSWOLD DISTRICT COUNCIL",
+		"total": 249143.25,
+		"monthly": {
+			"2014-04": {"total":27527.00, "CABINET OFFICE":27527.00},
+			"2015-04": {"total":28903.00, "CABINET OFFICE":28903.00},
+			"2016-04": {"total":132030.75, "CABINET OFFICE":132030.75},
+			"2016-07": {"total":32478.00, "CABINET OFFICE":32478.00},
+			"2017-09": {"total":28204.50, "CABINET OFFICE":28204.50}
+		}
+	},
+	"558": {
+		"name": "COUNCIL OF EUROPE",
+		"total": 50000,
+		"monthly": {
+			"2021-07": {"total":50000.00, "CABINET OFFICE":50000.00}
+		}
+	},
+	"559": {
+		"name": "COUNCIL OF THE EUROPEAN UNION",
+		"total": 390292.47,
+		"monthly": {
+			"2017-05": {"total":390292.47, "CABINET OFFICE":390292.47}
+		}
+	},
+	"560": {
+		"name": "COUNCIL OF THE ISLES OF SCILLY",
+		"total": 400000,
+		"monthly": {
+			"2017-03": {"total":150000.00, "CABINET OFFICE":150000.00},
+			"2019-05": {"total":250000.00, "CABINET OFFICE":250000.00}
+		}
+	},
+	"561": {
+		"name": "COVENTRY CITY COUNCIL",
+		"total": 1658383.76,
+		"monthly": {
+			"2014-04": {"total":129621.00, "CABINET OFFICE":129621.00},
+			"2015-01": {"total":48662.50, "CABINET OFFICE":48662.50},
+			"2015-03": {"total":41350.00, "CABINET OFFICE":41350.00},
+			"2015-04": {"total":136102.00, "CABINET OFFICE":136102.00},
+			"2016-03": {"total":117824.00, "CABINET OFFICE":117824.00},
+			"2016-04": {"total":189986.25, "CABINET OFFICE":189986.25},
+			"2016-05": {"total":70383.55, "CABINET OFFICE":70383.55},
+			"2016-07": {"total":168278.00, "CABINET OFFICE":168278.00},
+			"2016-08": {"total":26570.18, "CABINET OFFICE":26570.18},
+			"2017-03": {"total":58925.00, "CABINET OFFICE":58925.00},
+			"2018-02": {"total":203018.00, "CABINET OFFICE":203018.00},
+			"2018-07": {"total":203018.40, "CABINET OFFICE":203018.40},
+			"2019-08": {"total":142112.88, "CABINET OFFICE":142112.88},
+			"2020-07": {"total":27300.00, "CABINET OFFICE":27300.00},
+			"2021-06": {"total":95232.00, "GOVERNMENT PROPERTY AGENCY":95232.00}
+		}
+	},
+	"562": {
+		"name": "COVOXA LTD",
+		"total": 2636834.43,
+		"monthly": {
+			"2020-03": {"total":92787.50, "CABINET OFFICE":92787.50},
+			"2020-04": {"total":35430.00, "CABINET OFFICE":35430.00},
+			"2020-06": {"total":222078.76, "CABINET OFFICE":222078.76},
+			"2020-07": {"total":192243.76, "CABINET OFFICE":192243.76},
+			"2020-08": {"total":213539.26, "CABINET OFFICE":213539.26},
+			"2020-09": {"total":181314.00, "CABINET OFFICE":181314.00},
+			"2020-10": {"total":178834.50, "CABINET OFFICE":178834.50},
+			"2020-11": {"total":223626.76, "CABINET OFFICE":223626.76},
+			"2020-12": {"total":216271.50, "CABINET OFFICE":216271.50},
+			"2021-01": {"total":161107.50, "CABINET OFFICE":161107.50},
+			"2021-02": {"total":198706.50, "CABINET OFFICE":198706.50},
+			"2021-06": {"total":51075.00, "CABINET OFFICE":51075.00},
+			"2021-07": {"total":228512.50, "CABINET OFFICE":228512.50},
+			"2021-08": {"total":205508.13, "CABINET OFFICE":205508.13},
+			"2021-09": {"total":143906.88, "CABINET OFFICE":143906.88},
+			"2021-10": {"total":91891.88, "CABINET OFFICE":91891.88}
+		}
+	},
+	"563": {
+		"name": "CPA UK BRANCH",
+		"total": 105130.33,
+		"monthly": {
+			"2018-02": {"total":34275.00, "CABINET OFFICE":34275.00},
+			"2018-03": {"total":70855.33, "CABINET OFFICE":70855.33}
+		}
+	},
+	"564": {
+		"name": "CPS",
+		"total": 144750,
+		"monthly": {
+			"2020-04": {"total":144750.00, "CABINET OFFICE":144750.00}
+		}
+	},
+	"565": {
+		"name": "CRANFIELD MANAGEMENT DEVELOPMENT LTD",
+		"alternate-names": [
+			"CRANFIELD MANAGEMENT DEVELOPMENT LIMITED"
+		],
+		"total": 264317.85,
+		"monthly": {
+			"2018-06": {"total":29540.00, "CABINET OFFICE":29540.00},
+			"2018-10": {"total":35117.85, "CABINET OFFICE":35117.85},
+			"2021-03": {"total":199660.00, "CABINET OFFICE":199660.00}
+		}
+	},
+	"566": {
+		"name": "CRANFIELD UNIVERSITY",
+		"total": 191183.26,
+		"monthly": {
+			"2015-07": {"total":42250.00, "CABINET OFFICE":42250.00},
+			"2015-08": {"total":69300.00, "CABINET OFFICE":69300.00},
+			"2016-01": {"total":79633.26, "CABINET OFFICE":79633.26}
+		}
+	},
+	"567": {
+		"name": "CRAVEN DISTRICT COUNCIL",
+		"total": 80229.33,
+		"monthly": {
+			"2016-04": {"total":50799.00, "CABINET OFFICE":50799.00},
+			"2019-09": {"total":29430.33, "CABINET OFFICE":29430.33}
+		}
+	},
+	"568": {
+		"name": "CRAWLEY BOROUGH COUNCIL",
+		"total": 140214,
+		"monthly": {
+			"2014-04": {"total":43600.00, "CABINET OFFICE":43600.00},
+			"2015-04": {"total":29711.00, "CABINET OFFICE":29711.00},
+			"2016-06": {"total":66903.00, "CABINET OFFICE":66903.00}
+		}
+	},
+	"569": {
+		"name": "CRC - BEIS EA FUND",
+		"total": 42888,
+		"monthly": {
+			"2018-09": {"total":42888.00, "GOVERNMENT PROPERTY AGENCY":42888.00}
+		}
+	},
+	"570": {
+		"name": "CRC - BEIS EA Fund",
+		"total": 36473.52,
+		"monthly": {
+			"2019-09": {"total":36473.52, "Government Property Agency":36473.52}
+		}
+	},
+	"571": {
+		"name": "CREATE CHANGE",
+		"total": 211948.83,
+		"monthly": {
+			"2020-06": {"total":97814.68, "CABINET OFFICE":97814.68},
+			"2020-07": {"total":83364.15, "CABINET OFFICE":83364.15},
+			"2020-08": {"total":30770.00, "CABINET OFFICE":30770.00}
+		}
+	},
+	"572": {
+		"name": "CREATING THE FUTURE LTD",
+		"total": 38000,
+		"monthly": {
+			"2014-04": {"total":38000.00, "CABINET OFFICE":38000.00}
+		}
+	},
+	"573": {
+		"name": "CREATIVE CHOICE CIC",
+		"total": 2720634.47,
+		"monthly": {
+			"2013-01": {"total":49146.24, "CABINET OFFICE":49146.24},
+			"2013-02": {"total":94659.55, "CABINET OFFICE":94659.55},
+			"2013-03": {"total":72800.00, "CABINET OFFICE":72800.00},
+			"2013-04": {"total":82868.45, "CABINET OFFICE":82868.45},
+			"2013-07": {"total":54024.53, "CABINET OFFICE":54024.53},
+			"2013-08": {"total":91168.48, "CABINET OFFICE":91168.48},
+			"2013-09": {"total":64558.90, "CABINET OFFICE":64558.90},
+			"2013-10": {"total":105388.36, "CABINET OFFICE":105388.36},
+			"2013-11": {"total":224640.00, "CABINET OFFICE":224640.00},
+			"2013-12": {"total":112320.00, "CABINET OFFICE":112320.00},
+			"2014-02": {"total":112320.00, "CABINET OFFICE":112320.00},
+			"2014-03": {"total":143220.94, "CABINET OFFICE":143220.94},
+			"2014-04": {"total":112320.00, "CABINET OFFICE":112320.00},
+			"2014-05": {"total":112320.00, "CABINET OFFICE":112320.00},
+			"2014-06": {"total":144184.49, "CABINET OFFICE":144184.49},
+			"2014-07": {"total":51501.56, "CABINET OFFICE":51501.56},
+			"2014-08": {"total":210000.00, "CABINET OFFICE":210000.00},
+			"2014-09": {"total":25750.78, "CABINET OFFICE":25750.78},
+			"2014-12": {"total":366501.56, "CABINET OFFICE":366501.56},
+			"2015-03": {"total":389747.80, "CABINET OFFICE":389747.80},
+			"2015-06": {"total":101192.83, "CABINET OFFICE":101192.83}
+		}
+	},
+	"574": {
+		"name": "CREATIVE ENGLAND LTD",
+		"total": 50000,
+		"monthly": {
+			"2014-02": {"total":50000.00, "CABINET OFFICE":50000.00}
+		}
+	},
+	"575": {
+		"name": "CREATIVE VIDEO PRODUCTIONS LTD",
+		"total": 29125,
+		"monthly": {
+			"2021-04": {"total":29125.00, "CABINET OFFICE":29125.00}
+		}
+	},
+	"576": {
+		"name": "CREST ADVISORY UK LTD",
+		"total": 25204,
+		"monthly": {
+			"2018-06": {"total":25204.00, "CABINET OFFICE":25204.00}
+		}
+	},
+	"577": {
+		"name": "CREST GB LTD",
+		"total": 121903,
+		"monthly": {
+			"2015-12": {"total":71525.00, "CABINET OFFICE":71525.00},
+			"2016-04": {"total":50378.00, "CABINET OFFICE":50378.00}
+		}
+	},
+	"578": {
 		"name": "CRIMSON CONSULTING",
 		"total": 51664.31,
 		"monthly": {
 			"2018-03": {"total":51664.31, "CROWN COMMERCIAL SERVICE":51664.31}
 		}
 	},
-	"551": {
+	"579": {
 		"name": "CRIMSON HEXAGON LTD",
 		"total": 79992,
 		"monthly": {
@@ -16,14 +427,14 @@
 			"2019-10": {"total":39996.00, "CABINET OFFICE":39996.00}
 		}
 	},
-	"552": {
+	"580": {
 		"name": "CRITERIA FIELDWORK LTD",
 		"total": 60937.5,
 		"monthly": {
 			"2019-09": {"total":60937.50, "CABINET OFFICE":60937.50}
 		}
 	},
-	"553": {
+	"581": {
 		"name": "CROSSGATES PRESS LTD T/A DCR MACHINES",
 		"total": 1639650,
 		"monthly": {
@@ -31,9 +442,9 @@
 			"2020-05": {"total":819825.00, "CABINET OFFICE":819825.00}
 		}
 	},
-	"554": {
+	"582": {
 		"name": "CROWN COMMERCIAL SERVICE",
-		"total": 19891890.12,
+		"total": 19991890.12,
 		"monthly": {
 			"2014-06": {"total":38972.50, "CABINET OFFICE":38972.50},
 			"2014-07": {"total":72399.43, "CABINET OFFICE":72399.43},
@@ -76,17 +487,26 @@
 			"2021-01": {"total":50000.00, "CABINET OFFICE":50000.00},
 			"2021-03": {"total":1069590.11, "CABINET OFFICE":1069590.11},
 			"2021-04": {"total":50000.00, "CABINET OFFICE":50000.00},
-			"2021-05": {"total":414403.15, "CABINET OFFICE":414403.15}
+			"2021-05": {"total":414403.15, "CABINET OFFICE":414403.15},
+			"2021-07": {"total":50000.00, "CABINET OFFICE":50000.00},
+			"2021-10": {"total":50000.00, "CABINET OFFICE":50000.00}
 		}
 	},
-	"555": {
+	"583": {
+		"name": "CROWN HOSTING DATA CENTRES LTD",
+		"total": 38109.77,
+		"monthly": {
+			"2021-09": {"total":38109.77, "CABINET OFFICE":38109.77}
+		}
+	},
+	"584": {
 		"name": "CRYPTIFY AB",
 		"total": 62750,
 		"monthly": {
 			"2019-09": {"total":62750.00, "CABINET OFFICE":62750.00}
 		}
 	},
-	"556": {
+	"585": {
 		"name": "CSC COMPUTER SCIENCES LTD",
 		"total": 428180,
 		"monthly": {
@@ -101,7 +521,7 @@
 			"2017-06": {"total":48000.00, "CABINET OFFICE":48000.00}
 		}
 	},
-	"557": {
+	"586": {
 		"name": "CSL - KORN FERRY HAY GROUP",
 		"total": 6892992.48,
 		"monthly": {
@@ -119,14 +539,14 @@
 			"2019-07": {"total":105791.41, "CABINET OFFICE":105791.41}
 		}
 	},
-	"558": {
+	"587": {
 		"name": "CSL - KPMG",
 		"total": 41666.67,
 		"monthly": {
 			"2020-03": {"total":41666.67, "Government Property Agency":41666.67}
 		}
 	},
-	"559": {
+	"588": {
 		"name": "CSL KORN FERRY HAY GROUP",
 		"total": 1796620.34,
 		"monthly": {
@@ -142,9 +562,9 @@
 			"2021-05": {"total":136408.01, "CABINET OFFICE":136408.01}
 		}
 	},
-	"560": {
+	"589": {
 		"name": "CSL KPMG LLP",
-		"total": 3063408.45,
+		"total": 3260322.45,
 		"monthly": {
 			"2016-12": {"total":107561.00, "CABINET OFFICE":107561.00},
 			"2017-03": {"total":98165.00, "CABINET OFFICE":98165.00},
@@ -162,18 +582,22 @@
 			"2019-08": {"total":127705.20, "CABINET OFFICE":127705.20},
 			"2019-10": {"total":430822.00, "CABINET OFFICE":430822.00},
 			"2020-01": {"total":74771.48, "CABINET OFFICE":74771.48},
-			"2021-03": {"total":103570.00, "CABINET OFFICE":103570.00}
+			"2021-03": {"total":103570.00, "CABINET OFFICE":103570.00},
+			"2021-07": {"total":33890.00, "CABINET OFFICE":33890.00},
+			"2021-08": {"total":69104.00, "CABINET OFFICE":69104.00},
+			"2021-10": {"total":93920.00, "CABINET OFFICE":93920.00}
 		}
 	},
-	"561": {
+	"590": {
 		"name": "CSL KPMG LLP-2WM",
-		"total": 94009.5,
+		"total": 205582.5,
 		"monthly": {
 			"2021-03": {"total":32850.00, "CABINET OFFICE":32850.00},
-			"2021-04": {"total":61159.50, "CABINET OFFICE":61159.50}
+			"2021-04": {"total":61159.50, "CABINET OFFICE":61159.50},
+			"2021-08": {"total":111573.00, "CABINET OFFICE":111573.00}
 		}
 	},
-	"562": {
+	"591": {
 		"name": "CSSC SPORTS & LEISURE",
 		"total": 200000,
 		"monthly": {
@@ -181,7 +605,7 @@
 			"2018-07": {"total":100000.00, "CABINET OFFICE":100000.00}
 		}
 	},
-	"563": {
+	"592": {
 		"name": "CTM (North) Ltd",
 		"alternate-names": [
 			"CTM (North) Limited"
@@ -194,7 +618,7 @@
 			"2021-03": {"total":60826.60, "CROWN COMMERCIAL SERVICE":60826.60}
 		}
 	},
-	"564": {
+	"593": {
 		"name": "CUBIKS LTD",
 		"total": 391850,
 		"monthly": {
@@ -204,7 +628,7 @@
 			"2019-02": {"total":31250.00, "CABINET OFFICE":31250.00}
 		}
 	},
-	"565": {
+	"594": {
 		"name": "CUBO COMMUNICATIONS",
 		"total": 140618,
 		"monthly": {
@@ -213,14 +637,14 @@
 			"2017-02": {"total":45618.00, "CROWN COMMERCIAL SERVICE":45618.00}
 		}
 	},
-	"566": {
+	"595": {
 		"name": "CXPARTNERS LTD",
 		"total": 35385,
 		"monthly": {
 			"2015-06": {"total":35385.00, "CABINET OFFICE":35385.00}
 		}
 	},
-	"567": {
+	"596": {
 		"name": "CYBER DUCK",
 		"total": 76500,
 		"monthly": {
@@ -228,7 +652,7 @@
 			"2019-05": {"total":51000.00, "CABINET OFFICE":51000.00}
 		}
 	},
-	"568": {
+	"597": {
 		"name": "CYBER SECURITY CHALLENGE UK LTD",
 		"total": 3217902.34,
 		"monthly": {
@@ -260,16 +684,16 @@
 			"2017-12": {"total":75000.00, "CABINET OFFICE":75000.00}
 		}
 	},
-	"569": {
+	"598": {
 		"name": "CYBERNETICA AS",
 		"total": 69925,
 		"monthly": {
 			"2016-04": {"total":69925.00, "CABINET OFFICE":69925.00}
 		}
 	},
-	"570": {
+	"599": {
 		"name": "Cabinet Office",
-		"total": 5670458,
+		"total": 6209773.71,
 		"monthly": {
 			"2010-08": {"total":277550.37, "Capacity Builders":277550.37},
 			"2019-02": {"total":955634.00, "Government Property Agency":955634.00},
@@ -282,503 +706,9 @@
 			"2020-06": {"total":133087.56, "GOVERNMENT PROPERTY AGENCY":133087.56},
 			"2020-07": {"total":578335.57, "GOVERNMENT PROPERTY AGENCY":578335.57},
 			"2020-11": {"total":405231.65, "GOVERNMENT PROPERTY AGENCY":405231.65},
-			"2021-03": {"total":307895.80, "GOVERNMENT PROPERTY AGENCY":307895.80}
-		}
-	},
-	"571": {
-		"name": "Cabinet Office Votes",
-		"total": 2106131.78,
-		"monthly": {
-			"2011-05": {"total":125363.22, "Buying Solutions":125363.22},
-			"2011-06": {"total":175298.00, "Buying Solutions":175298.00},
-			"2011-11": {"total":110363.22, "Government Procurement Service":110363.22},
-			"2011-12": {"total":110363.22, "Government Procurement Service":110363.22},
-			"2012-03": {"total":336340.00, "Government Procurement Service":336340.00},
-			"2012-06": {"total":115912.64, "Government Procurement Service":115912.64},
-			"2012-08": {"total":115912.64, "Government Procurement Service":115912.64},
-			"2013-02": {"total":527403.02, "Government Procurement Service":527403.02},
-			"2013-06": {"total":339018.00, "Government Procurement Service":339018.00},
-			"2013-07": {"total":150157.82, "Government Procurement Service":150157.82}
-		}
-	},
-	"572": {
-		"name": "Cable and Wireless",
-		"total": 76442.94,
-		"monthly": {
-			"2012-03": {"total":76442.94, "Government Procurement Service":76442.94}
-		}
-	},
-	"573": {
-		"name": "Calder Conferences",
-		"total": 15373740.58,
-		"monthly": {
-			"2020-02": {"total":1560000.00, "Crown Commercial Service":1560000.00},
-			"2020-03": {"total":6697594.70, "Crown Commercial Service":6697594.70},
-			"2020-04": {"total":3528899.64, "Crown Commercial Service":3528899.64},
-			"2020-05": {"total":2062001.10, "Crown Commercial Service":2062001.10},
-			"2020-06": {"total":904361.94, "CROWN COMMERCIAL SERVICE":904361.94},
-			"2020-07": {"total":271023.00, "CROWN COMMERCIAL SERVICE":271023.00},
-			"2020-08": {"total":27953.70, "CROWN COMMERCIAL SERVICE":27953.70},
-			"2020-12": {"total":55086.50, "CROWN COMMERCIAL SERVICE":55086.50},
-			"2021-01": {"total":266820.00, "Crown Commercial Service":266820.00}
-		}
-	},
-	"574": {
-		"name": "Camden Council",
-		"total": 81680,
-		"monthly": {
-			"2019-02": {"total":81680.00, "Government Property Agency":81680.00}
-		}
-	},
-	"575": {
-		"name": "Canary Wharf Group PLC",
-		"total": 227950.87,
-		"monthly": {
-			"2018-11": {"total":38505.00, "Government Property Agency":38505.00},
-			"2018-12": {"total":115515.00, "GOVERNMENT PROPERTY AGENCY":115515.00},
-			"2019-09": {"total":73930.87, "Government Property Agency":73930.87}
-		}
-	},
-	"576": {
-		"name": "Canary Wharf Management Ltd",
-		"alternate-names": [
-			"Canary Wharf Management Limited"
-		],
-		"total": 4399868,
-		"monthly": {
-			"2018-12": {"total":467324.00, "GOVERNMENT PROPERTY AGENCY":467324.00},
-			"2019-04": {"total":467322.00, "Government Property Agency":467322.00},
-			"2019-06": {"total":487174.00, "Government Property Agency":487174.00},
-			"2019-09": {"total":487174.00, "Government Property Agency":487174.00},
-			"2019-12": {"total":487174.00, "Governemnt Property Agency":487174.00},
-			"2020-03": {"total":500925.00, "Government Property Agency":500925.00},
-			"2020-06": {"total":500925.00, "GOVERNMENT PROPERTY AGENCY":500925.00},
-			"2020-09": {"total":500925.00, "GOVERNMENT PROPERTY AGENCY":500925.00},
-			"2020-12": {"total":500925.00, "GOVERNMENT PROPERTY AGENCY":500925.00}
-		}
-	},
-	"577": {
-		"name": "Capgemini UK plc",
-		"total": 30000,
-		"monthly": {
-			"2020-04": {"total":30000.00, "Crown Commercial Service":30000.00}
-		}
-	},
-	"578": {
-		"name": "Capita PLC",
-		"alternate-names": [
-			"CAPITA",
-			"CAPITA BUSINESS SERVICES LTD",
-			"CAPITA BUSINESS SERVICES LTD TA KNOWLEDGEPOOL",
-			"CAPITA EMPLOYEE BENEFITS LTD",
-			"CAPITA RESOURCING LIMITED",
-			"CAPITA RESOURCING LTD",
-			"CAPITA SYMONDS (FORMERLY INVENTURES LTD)",
-			"CAPITA SYMONDS LTD",
-			"Capita Business Services Ltd"
-		],
-		"total": 103422697.25,
-		"monthly": {
-			"2010-04": {"total":388026.73, "CABINET OFFICE":388026.73},
-			"2010-06": {"total":387450.73, "Cabinet Office":387450.73},
-			"2010-07": {"total":416703.63, "Cabinet Office":416703.63},
-			"2010-12": {"total":25857.65, "CABINET OFFICE":25857.65},
-			"2011-04": {"total":40320.00, "CABINET OFFICE":40320.00},
-			"2011-05": {"total":74007.71, "Cabinet Office":74007.71},
-			"2011-06": {"total":821998.74, "Cabinet Office":821998.74},
-			"2011-07": {"total":236222.63, "Cabinet Office":236222.63},
-			"2011-08": {"total":138118.75, "Cabinet Office":138118.75},
-			"2011-09": {"total":159396.12, "Cabinet Office":159396.12},
-			"2011-10": {"total":143427.89, "Cabinet Office":143427.89},
-			"2011-11": {"total":47906.46, "Cabinet Office":47906.46},
-			"2011-12": {"total":292701.34, "Cabinet Office":292701.34},
-			"2012-01": {"total":330710.96, "Cabinet Office":330710.96},
-			"2012-02": {"total":458899.90, "Cabinet Office":458899.90},
-			"2012-03": {"total":307656.38, "Cabinet Office":307656.38},
-			"2012-04": {"total":849848.62, "Cabinet Office":849848.62},
-			"2012-05": {"total":791364.22, "Cabinet Office":791364.22},
-			"2012-06": {"total":364725.58, "Cabinet Office":364725.58},
-			"2012-07": {"total":420987.03, "Cabinet Office":420987.03},
-			"2012-08": {"total":696825.63, "Cabinet Office":696825.63},
-			"2012-09": {"total":583260.62, "CABINET OFFICE":583260.62},
-			"2012-10": {"total":522143.35, "Cabinet Office":522143.35},
-			"2012-11": {"total":630698.84, "CABINET OFFICE":630698.84},
-			"2012-12": {"total":509161.31, "CABINET OFFICE":203597.66, "Government Procurement Service":305563.65},
-			"2013-01": {"total":794667.16, "CABINET OFFICE":794667.16},
-			"2013-02": {"total":652258.96, "CABINET OFFICE":652258.96},
-			"2013-03": {"total":582678.37, "CABINET OFFICE":554281.93, "Government Procurement Service":28396.44},
-			"2013-04": {"total":663780.31, "CABINET OFFICE":663780.31},
-			"2013-05": {"total":688566.94, "CABINET OFFICE":688566.94},
-			"2013-06": {"total":1075611.45, "CABINET OFFICE":1075611.45},
-			"2013-07": {"total":620094.74, "CABINET OFFICE":620094.74},
-			"2013-08": {"total":1171749.12, "CABINET OFFICE":1171749.12},
-			"2013-09": {"total":1061056.29, "CABINET OFFICE":1061056.29},
-			"2013-10": {"total":1312986.21, "CABINET OFFICE":1312986.21},
-			"2013-11": {"total":1431304.21, "CABINET OFFICE":1431304.21},
-			"2013-12": {"total":1480029.98, "CABINET OFFICE":1480029.98},
-			"2014-01": {"total":2254770.82, "CABINET OFFICE":2254770.82},
-			"2014-02": {"total":2166954.27, "CABINET OFFICE":2166954.27},
-			"2014-03": {"total":2114480.86, "CABINET OFFICE":2114480.86},
-			"2014-04": {"total":2093487.36, "CABINET OFFICE":2093487.36},
-			"2014-05": {"total":1201255.21, "CABINET OFFICE":1201255.21},
-			"2014-06": {"total":2749665.07, "CABINET OFFICE":2749665.07},
-			"2014-07": {"total":1546139.53, "CABINET OFFICE":1546139.53},
-			"2014-08": {"total":528725.84, "CABINET OFFICE":528725.84},
-			"2014-09": {"total":247247.38, "CABINET OFFICE":247247.38},
-			"2014-10": {"total":3847235.52, "CABINET OFFICE":3847235.52},
-			"2014-11": {"total":748583.83, "CABINET OFFICE":748583.83},
-			"2014-12": {"total":1087537.48, "CABINET OFFICE":1087537.48},
-			"2015-01": {"total":641914.73, "CABINET OFFICE":641914.73},
-			"2015-02": {"total":846936.40, "CABINET OFFICE":846936.40},
-			"2015-03": {"total":1879396.39, "CABINET OFFICE":1879396.39},
-			"2015-04": {"total":588552.74, "CABINET OFFICE":588552.74},
-			"2015-05": {"total":187490.61, "CABINET OFFICE":187490.61},
-			"2015-06": {"total":1456956.95, "CABINET OFFICE":1456956.95},
-			"2015-07": {"total":1164769.33, "CABINET OFFICE":1164769.33},
-			"2015-08": {"total":976917.54, "CABINET OFFICE":976917.54},
-			"2015-09": {"total":829850.53, "CABINET OFFICE":829850.53},
-			"2015-10": {"total":1125825.51, "CABINET OFFICE":1125825.51},
-			"2015-11": {"total":982883.53, "CABINET OFFICE":982883.53},
-			"2015-12": {"total":1219373.26, "CABINET OFFICE":1219373.26},
-			"2016-01": {"total":1114044.79, "CABINET OFFICE":1114044.79},
-			"2016-02": {"total":1525418.47, "CABINET OFFICE":1525418.47},
-			"2016-03": {"total":2049018.12, "CABINET OFFICE":2049018.12},
-			"2016-04": {"total":1634948.96, "CABINET OFFICE":1634948.96},
-			"2016-05": {"total":1078211.40, "CABINET OFFICE":1078211.40},
-			"2016-06": {"total":1374519.63, "CABINET OFFICE":1374519.63},
-			"2016-07": {"total":1250659.59, "CABINET OFFICE":1250659.59},
-			"2016-08": {"total":1243954.35, "CABINET OFFICE":1243954.35},
-			"2016-09": {"total":1141800.32, "CABINET OFFICE":1141800.32},
-			"2016-10": {"total":1185943.11, "CABINET OFFICE":1185943.11},
-			"2016-11": {"total":1557126.48, "CABINET OFFICE":1557126.48},
-			"2016-12": {"total":1499428.32, "CABINET OFFICE":1499428.32},
-			"2017-01": {"total":99251.53, "CABINET OFFICE":99251.53},
-			"2017-02": {"total":3066230.12, "CABINET OFFICE":3066230.12},
-			"2017-03": {"total":1725709.99, "CABINET OFFICE":1725709.99},
-			"2017-04": {"total":877426.07, "CABINET OFFICE":877426.07},
-			"2017-05": {"total":272743.90, "CABINET OFFICE":272743.90},
-			"2017-06": {"total":778838.39, "CABINET OFFICE":778838.39},
-			"2017-07": {"total":23066.78, "CABINET OFFICE":23066.78},
-			"2017-08": {"total":193952.84, "CABINET OFFICE":193952.84},
-			"2017-09": {"total":275645.71, "CABINET OFFICE":275645.71},
-			"2017-11": {"total":264111.78, "CABINET OFFICE":264111.78},
-			"2017-12": {"total":7289.00, "CABINET OFFICE":7289.00},
-			"2018-01": {"total":307872.00, "CABINET OFFICE":307872.00},
-			"2018-02": {"total":105431.00, "CABINET OFFICE":105431.00},
-			"2018-03": {"total":825552.13, "CABINET OFFICE":825552.13},
-			"2018-04": {"total":98252.17, "CABINET OFFICE":98252.17},
-			"2018-05": {"total":98509.50, "CABINET OFFICE":98509.50},
-			"2018-06": {"total":78210.34, "CABINET OFFICE":78210.34},
-			"2018-07": {"total":101868.00, "CABINET OFFICE":101868.00},
-			"2018-08": {"total":576619.07, "CABINET OFFICE":576619.07},
-			"2018-09": {"total":110322.54, "CABINET OFFICE":110322.54},
-			"2018-10": {"total":40358.25, "CABINET OFFICE":40358.25},
-			"2018-11": {"total":43367.50, "CABINET OFFICE":43367.50},
-			"2018-12": {"total":870648.00, "CABINET OFFICE":870648.00},
-			"2019-01": {"total":491413.76, "CABINET OFFICE":491413.76},
-			"2019-02": {"total":361697.18, "CABINET OFFICE":361697.18},
-			"2019-03": {"total":884570.59, "CABINET OFFICE":884570.59},
-			"2019-04": {"total":881434.59, "CABINET OFFICE":881434.59},
-			"2019-05": {"total":609713.91, "CABINET OFFICE":609713.91},
-			"2019-06": {"total":1276218.85, "CABINET OFFICE":1276218.85},
-			"2019-07": {"total":330844.87, "CABINET OFFICE":330844.87},
-			"2019-08": {"total":275996.80, "CABINET OFFICE":275996.80},
-			"2019-09": {"total":1834969.38, "CABINET OFFICE":1834969.38},
-			"2019-10": {"total":1209575.73, "CABINET OFFICE":1209575.73},
-			"2019-11": {"total":44965.17, "CABINET OFFICE":44965.17},
-			"2019-12": {"total":45873.62, "CABINET OFFICE":45873.62},
-			"2020-01": {"total":1602154.61, "CABINET OFFICE":1602154.61},
-			"2020-02": {"total":421966.43, "CABINET OFFICE":421966.43},
-			"2020-03": {"total":472514.04, "CABINET OFFICE":472514.04},
-			"2020-04": {"total":32757.50, "CABINET OFFICE":32757.50},
-			"2020-05": {"total":1314455.14, "CABINET OFFICE":1314455.14},
-			"2020-06": {"total":978720.53, "CABINET OFFICE":978720.53},
-			"2020-07": {"total":575545.17, "CABINET OFFICE":575545.17},
-			"2020-08": {"total":34068.00, "CABINET OFFICE":34068.00},
-			"2020-09": {"total":693398.30, "CABINET OFFICE":693398.30},
-			"2020-10": {"total":584758.15, "CABINET OFFICE":584758.15},
-			"2020-11": {"total":1428325.10, "CABINET OFFICE":1428325.10},
-			"2020-12": {"total":1228207.46, "CABINET OFFICE":1228207.46},
-			"2021-01": {"total":945211.44, "CABINET OFFICE":945211.44},
-			"2021-02": {"total":788576.99, "CABINET OFFICE":788576.99},
-			"2021-03": {"total":1647169.29, "CABINET OFFICE":1647169.29},
-			"2021-04": {"total":750581.41, "CABINET OFFICE":750581.41},
-			"2021-05": {"total":520507.84, "CABINET OFFICE":520507.84}
-		}
-	},
-	"579": {
-		"name": "Carter Jonas LLP",
-		"total": 26970.5,
-		"monthly": {
-			"2019-08": {"total":26970.50, "Government Property Agency":26970.50}
-		}
-	},
-	"580": {
-		"name": "Castle Water",
-		"total": 134328.84,
-		"monthly": {
-			"2019-01": {"total":98030.00, "Government Property Agency":98030.00},
-			"2020-10": {"total":36298.84, "GOVERNMENT PROPERTY AGENCY":36298.84}
-		}
-	},
-	"581": {
-		"name": "Central Office of In",
-		"total": 84157,
-		"monthly": {
-			"2010-07": {"total":84157.00, "Buying Solutions":84157.00}
-		}
-	},
-	"582": {
-		"name": "Central Office of Information",
-		"total": 319499,
-		"monthly": {
-			"2010-04": {"total":81104.00, "Commission for the Compact":81104.00},
-			"2010-05": {"total":79270.00, "Buying Solutions":79270.00},
-			"2010-10": {"total":34125.00, "Buying Solutions":34125.00},
-			"2011-02": {"total":125000.00, "Buying Solutions":125000.00}
-		}
-	},
-	"583": {
-		"name": "Centre for Strategy and Communication",
-		"total": 36000,
-		"monthly": {
-			"2019-09": {"total":36000.00, "Crown Commercial Service":36000.00}
-		}
-	},
-	"584": {
-		"name": "Certus Advisory Ltd",
-		"total": 252579.1,
-		"monthly": {
-			"2020-03": {"total":200259.06, "Crown Commercial Service":200259.06},
-			"2020-04": {"total":52320.04, "Crown Commercial Service":52320.04}
-		}
-	},
-	"585": {
-		"name": "Charities Evaluation Services",
-		"total": 600000,
-		"monthly": {
-			"2010-04": {"total":150000.00, "Capacity Builders":150000.00},
-			"2010-07": {"total":150000.00, "Capacity Builders":150000.00},
-			"2010-10": {"total":150000.00, "Capacity Builders":150000.00},
-			"2011-02": {"total":150000.00, "Capacity Builders":150000.00}
-		}
-	},
-	"586": {
-		"name": "Charities Information Bureau South & West",
-		"total": 147215,
-		"monthly": {
-			"2010-04": {"total":36803.75, "Capacity Builders":36803.75},
-			"2010-07": {"total":36803.75, "Capacity Builders":36803.75},
-			"2010-10": {"total":36803.75, "Capacity Builders":36803.75},
-			"2011-02": {"total":36803.75, "Capacity Builders":36803.75}
-		}
-	},
-	"587": {
-		"name": "Chelmsford City Council",
-		"total": 78501.8,
-		"monthly": {
-			"2021-03": {"total":78501.80, "GOVERNMENT PROPERTY AGENCY":78501.80}
-		}
-	},
-	"588": {
-		"name": "Church Action on Poverty Ltd",
-		"alternate-names": [
-			"Church Action on Poverty Limited"
-		],
-		"total": 148700,
-		"monthly": {
-			"2010-04": {"total":37175.00, "Capacity Builders":37175.00},
-			"2010-07": {"total":37175.00, "Capacity Builders":37175.00},
-			"2010-10": {"total":37175.00, "Capacity Builders":37175.00},
-			"2011-02": {"total":37175.00, "Capacity Builders":37175.00}
-		}
-	},
-	"589": {
-		"name": "City Of Wakefield Metropolitan District",
-		"alternate-names": [
-			"WAKEFIELD COUNCIL"
-		],
-		"total": 261304.5,
-		"monthly": {
-			"2016-04": {"total":261304.50, "CABINET OFFICE":261304.50}
-		}
-	},
-	"590": {
-		"name": "City of London (Rates)",
-		"total": 2227500,
-		"monthly": {
-			"2020-03": {"total":174870.00, "Government Property Agency":174870.00},
-			"2020-04": {"total":174870.00, "Government Property Agency":174870.00},
-			"2020-05": {"total":174870.00, "Government Property Agency":174870.00},
-			"2020-06": {"total":174870.00, "GOVERNMENT PROPERTY AGENCY":174870.00},
-			"2020-07": {"total":174870.00, "GOVERNMENT PROPERTY AGENCY":174870.00},
-			"2020-09": {"total":349740.00, "GOVERNMENT PROPERTY AGENCY":349740.00},
-			"2020-10": {"total":174870.00, "GOVERNMENT PROPERTY AGENCY":174870.00},
-			"2020-11": {"total":174870.00, "GOVERNMENT PROPERTY AGENCY":174870.00},
-			"2020-12": {"total":174870.00, "GOVERNMENT PROPERTY AGENCY":174870.00},
-			"2021-01": {"total":138150.00, "GOVERNMENT PROPERTY AGENCY":138150.00},
-			"2021-03": {"total":138150.00, "GOVERNMENT PROPERTY AGENCY":138150.00},
-			"2021-04": {"total":202500.00, "GOVERNMENT PROPERTY AGENCY":202500.00}
-		}
-	},
-	"591": {
-		"name": "City of London (Rent)",
-		"total": 10607656.45,
-		"monthly": {
-			"2018-12": {"total":1145358.00, "GOVERNMENT PROPERTY AGENCY":1145358.00},
-			"2019-03": {"total":1145357.00, "Government Property Agency":1145357.00},
-			"2019-06": {"total":1145357.75, "Government Property Agency":1145357.75},
-			"2019-09": {"total":1171128.25, "Government Property Agency":1171128.25},
-			"2019-12": {"total":1171128.25, "Governemnt Property Agency":1171128.25},
-			"2020-03": {"total":1171128.25, "Government Property Agency":1171128.25},
-			"2020-06": {"total":1171128.25, "GOVERNMENT PROPERTY AGENCY":1171128.25},
-			"2020-09": {"total":1197478.50, "GOVERNMENT PROPERTY AGENCY":1197478.50},
-			"2020-12": {"total":1197478.50, "GOVERNMENT PROPERTY AGENCY":1197478.50},
-			"2021-03": {"total":92113.70, "GOVERNMENT PROPERTY AGENCY":92113.70}
-		}
-	},
-	"592": {
-		"name": "Civil Aviation Authority",
-		"total": 200283.32,
-		"monthly": {
-			"2018-11": {"total":200283.32, "Government Property Agency":200283.32}
-		}
-	},
-	"593": {
-		"name": "Cluttons LLP",
-		"total": 39160,
-		"monthly": {
-			"2020-09": {"total":39160.00, "GOVERNMENT PROPERTY AGENCY":39160.00}
-		}
-	},
-	"594": {
-		"name": "Coast and Moors Voluntary Action",
-		"total": 421777.05,
-		"monthly": {
-			"2011-01": {"total":60078.06, "Capacity Builders":60078.06},
-			"2011-02": {"total":361698.99, "Capacity Builders":361698.99}
-		}
-	},
-	"595": {
-		"name": "Cofely",
-		"alternate-names": [
-			"COFELY"
-		],
-		"total": 18891963.95,
-		"monthly": {
-			"2010-05": {"total":644291.84, "Buying Solutions":644291.84},
-			"2010-06": {"total":183881.39, "Buying Solutions":183881.39},
-			"2010-07": {"total":135057.88, "Buying Solutions":135057.88},
-			"2010-08": {"total":97834.88, "Buying Solutions":97834.88},
-			"2010-09": {"total":97834.88, "Buying Solutions":97834.88},
-			"2010-10": {"total":97834.88, "Buying Solutions":97834.88},
-			"2010-12": {"total":152910.24, "Buying Solutions":152910.24},
-			"2011-01": {"total":252964.14, "Buying Solutions":252964.14},
-			"2011-02": {"total":399326.20, "Buying Solutions":399326.20},
-			"2011-03": {"total":506280.97, "Buying Solutions":506280.97},
-			"2011-04": {"total":94120.32, "Buying Solutions":94120.32},
-			"2011-05": {"total":270936.35, "Buying Solutions":270936.35},
-			"2011-06": {"total":101520.32, "Buying Solutions":101520.32},
-			"2011-07": {"total":101520.32, "Government Procurement Service":101520.32},
-			"2011-08": {"total":101520.32, "Government Procurement Service":101520.32},
-			"2011-09": {"total":225995.32, "Government Procurement Service":225995.32},
-			"2011-10": {"total":101520.32, "Government Procurement Service":101520.32},
-			"2011-12": {"total":328907.84, "Government Procurement Service":328907.84},
-			"2012-02": {"total":968959.82, "Government Procurement Service":968959.82},
-			"2012-03": {"total":1265142.12, "Government Procurement Service":1265142.12},
-			"2012-04": {"total":204565.48, "Government Procurement Service":204565.48},
-			"2012-06": {"total":363541.56, "Government Procurement Service":363541.56},
-			"2012-08": {"total":102282.74, "Government Procurement Service":102282.74},
-			"2012-09": {"total":204565.48, "Government Procurement Service":204565.48},
-			"2012-10": {"total":62983.99, "Government Procurement Service":62983.99},
-			"2012-11": {"total":218926.37, "GOVERNMENT PROCUREMENT SERVICE":218926.37},
-			"2013-01": {"total":204565.48, "Government Procurement Service":204565.48},
-			"2013-02": {"total":542550.26, "Government Procurement Service":542550.26},
-			"2013-03": {"total":361427.63, "Government Procurement Service":361427.63},
-			"2013-04": {"total":599971.08, "Government Procurement Service":599971.08},
-			"2013-05": {"total":285181.88, "Government Procurement Service":285181.88},
-			"2013-06": {"total":152442.71, "Government Procurement Service":152442.71},
-			"2013-07": {"total":102831.99, "Government Procurement Service":102831.99},
-			"2013-08": {"total":102831.99, "Government Procurement Service":102831.99},
-			"2013-09": {"total":292804.87, "Government Procurement Service":292804.87},
-			"2013-10": {"total":102831.99, "Government Procurement Service":102831.99},
-			"2013-11": {"total":162635.33, "Government Procurement Service":162635.33},
-			"2013-12": {"total":241040.44, "Government Procurement Service":241040.44},
-			"2014-01": {"total":257321.51, "Government Procurement Service":257321.51},
-			"2014-02": {"total":54337.90, "Government Procurement Service":54337.90},
-			"2014-03": {"total":539130.44, "Government Procurement Service":539130.44},
-			"2014-04": {"total":232960.94, "Crown Commercial Service":232960.94},
-			"2014-05": {"total":201803.10, "Crown Commercial Service":201803.10},
-			"2014-06": {"total":158636.75, "Crown Commercial Service":158636.75},
-			"2014-08": {"total":162737.35, "Crown Commercial Service":162737.35},
-			"2014-10": {"total":105930.32, "Crown Commercial Service":105930.32},
-			"2014-11": {"total":211860.00, "Crown Commercial Service":211860.00},
-			"2014-12": {"total":228078.00, "Crown Commercial Service":228078.00},
-			"2015-01": {"total":203238.64, "Crown Commercial Service":203238.64},
-			"2015-02": {"total":634095.06, "Crown Commercial Service":634095.06},
-			"2015-03": {"total":329057.05, "Crown Commercial Service":329057.05},
-			"2015-05": {"total":249764.44, "Crown Commercial Service":249764.44},
-			"2015-06": {"total":202510.92, "Crown Commercial Service":202510.92},
-			"2015-07": {"total":36185.47, "Crown Commercial Service":36185.47},
-			"2015-08": {"total":136296.08, "Crown Commercial Service":136296.08},
-			"2015-09": {"total":85638.96, "Crown Commercial Service":85638.96},
-			"2015-10": {"total":217784.26, "Crown Commercial Service":217784.26},
-			"2015-11": {"total":34692.45, "Crown Commercial Service":34692.45},
-			"2015-12": {"total":438525.82, "Crown Commercial Service":438525.82},
-			"2016-01": {"total":190056.15, "Crown Commercial Service":190056.15},
-			"2016-02": {"total":457732.44, "Crown Commercial Service":457732.44},
-			"2016-03": {"total":229005.04, "Crown Commercial Service":229005.04},
-			"2016-04": {"total":226526.06, "CROWN COMMERCIAL SERVICE":226526.06},
-			"2016-05": {"total":185738.42, "CROWN COMMERCIAL SERVICE":185738.42},
-			"2016-06": {"total":146998.65, "CROWN COMMERCIAL SERVICE":146998.65},
-			"2016-07": {"total":111858.35, "CROWN COMMERCIAL SERVICE":111858.35},
-			"2016-08": {"total":111858.35, "CROWN COMMERCIAL SERVICE":111858.35},
-			"2016-09": {"total":111858.35, "CROWN COMMERCIAL SERVICE":111858.35},
-			"2016-10": {"total":111858.35, "CROWN COMMERCIAL SERVICE":111858.35},
-			"2016-11": {"total":148952.18, "CROWN COMMERCIAL SERVICE":148952.18},
-			"2016-12": {"total":280660.56, "CROWN COMMERCIAL SERVICE":280660.56},
-			"2017-01": {"total":565572.26, "CROWN COMMERCIAL SERVICE":565572.26},
-			"2017-02": {"total":499067.65, "CROWN COMMERCIAL SERVICE":499067.65},
-			"2017-03": {"total":357294.06, "CROWN COMMERCIAL SERVICE":357294.06}
-		}
-	},
-	"596": {
-		"name": "Cognizant Worldwide Ltd",
-		"alternate-names": [
-			"Cognizant Worldwide Limited"
-		],
-		"total": 1779660.17,
-		"monthly": {
-			"2020-08": {"total":289830.00, "CROWN COMMERCIAL SERVICE":289830.00},
-			"2020-09": {"total":795075.00, "CROWN COMMERCIAL SERVICE":795075.00},
-			"2020-10": {"total":169243.80, "CROWN COMMERCIAL SERVICE":169243.80},
-			"2020-12": {"total":134883.84, "CROWN COMMERCIAL SERVICE":134883.84},
-			"2021-01": {"total":234530.82, "Crown Commercial Service":234530.82},
-			"2021-03": {"total":156096.71, "CROWN COMMERCIAL SERVICE":156096.71}
-		}
-	},
-	"597": {
-		"name": "Commerce Decisions Ltd",
-		"total": 36366,
-		"monthly": {
-			"2020-04": {"total":36366.00, "Crown Commercial Service":36366.00}
-		}
-	},
-	"598": {
-		"name": "Community First in Herefordshire & Worcestershire",
-		"total": 114751,
-		"monthly": {
-			"2010-04": {"total":28687.75, "Capacity Builders":28687.75},
-			"2010-07": {"total":28687.75, "Capacity Builders":28687.75},
-			"2010-10": {"total":28687.75, "Capacity Builders":28687.75},
-			"2011-02": {"total":28687.75, "Capacity Builders":28687.75}
-		}
-	},
-	"599": {
-		"name": "Compact Voice",
-		"total": 85025,
-		"monthly": {
-			"2012-11": {"total":85025.00, "CABINET OFFICE":85025.00}
+			"2021-03": {"total":307895.80, "GOVERNMENT PROPERTY AGENCY":307895.80},
+			"2021-07": {"total":129689.40, "GOVERNMENT PROPERTY AGENCY":64844.70, "GPA":64844.70},
+			"2021-10": {"total":409626.31, "GPA":409626.31}
 		}
 	}
 	}
