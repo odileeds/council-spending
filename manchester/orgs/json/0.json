@@ -1,5 +1,5 @@
 {
-	"range": ["2010-12","2021-03"],
+	"range": ["2010-12","2022-01"],
 	"data": {
 	"0": {
 		"name": "Arts Council England,North West.",
@@ -133,7 +133,7 @@
 	},
 	"10": {
 		"name": "Dun & Bradstreet Ltd.,",
-		"total": 89449.19,
+		"total": 94432.19,
 		"monthly": {
 			"2011-12": {"total":3627.00, "Corporate Services":3627.00},
 			"2012-11": {"total":707.46, "Corporate Services":707.46},
@@ -152,7 +152,8 @@
 			"2019-08": {"total":3316.21, "Corporate Services":3316.21},
 			"2020-03": {"total":8500.00, "Corporate Services":8500.00},
 			"2020-04": {"total":4983.00, "Manchester Leisure":4983.00},
-			"2021-01": {"total":11138.97, "Corporate Services":8500.00, "General Fund":2638.97}
+			"2021-01": {"total":11138.97, "Corporate Services":8500.00, "General Fund":2638.97},
+			"2021-07": {"total":4983.00, "Manchester Leisure":4983.00}
 		}
 	},
 	"11": {
@@ -164,7 +165,7 @@
 	},
 	"12": {
 		"name": "Groundwork Manchester, Salford",
-		"total": 2650859.47,
+		"total": 2691595.47,
 		"monthly": {
 			"2010-12": {"total":121234.06, "Environment and Operations":17750.00, "Housing General Fund":103484.06},
 			"2011-02": {"total":211827.06, "Chief Executives":86664.00, "Environment and Operations":56838.06, "Housing General Fund":66840.00, "Regeneration Finance":1485.00},
@@ -246,7 +247,12 @@
 			"2020-03": {"total":999.00, "Manchester Leisure":999.00},
 			"2020-04": {"total":11613.00, "Chief Executives":11613.00},
 			"2020-11": {"total":1800.00, "Manchester Leisure":1800.00},
-			"2021-02": {"total":52327.00, "Manchester Leisure":52327.00}
+			"2021-02": {"total":52327.00, "Manchester Leisure":52327.00},
+			"2021-08": {"total":1580.83, "Chief Executives":1580.83},
+			"2021-10": {"total":4742.50, "Chief Executives":4742.50},
+			"2021-11": {"total":2490.83, "Chief Executives":1580.83, "Manchester Leisure":910.00},
+			"2021-12": {"total":30341.01, "Environment and Operations":30341.01},
+			"2022-01": {"total":1580.83, "Chief Executives":1580.83}
 		}
 	},
 	"13": {
@@ -257,36 +263,43 @@
 		}
 	},
 	"14": {
+		"name": "Halo Industries Ltd,t/a as HALO",
+		"total": 10765.94,
+		"monthly": {
+			"2021-09": {"total":10765.94, "Corporate Services":10765.94}
+		}
+	},
+	"15": {
 		"name": "Harrison, Townsend & Ormeshers",
 		"total": 149936.27,
 		"monthly": {
 			"2010-12": {"total":149936.27, "Housing General Fund":149936.27}
 		}
 	},
-	"15": {
+	"16": {
 		"name": "Hempsons, Harrogate",
 		"total": 1500,
 		"monthly": {
 			"2017-03": {"total":1500.00, "GMIST (Greater Mcr Integrated)":1500.00}
 		}
 	},
-	"16": {
+	"17": {
 		"name": "Highways Agency, The Cube",
 		"total": 32545.57,
 		"monthly": {
 			"2011-06": {"total":32545.57, "Highways Services":32545.57}
 		}
 	},
-	"17": {
+	"18": {
 		"name": "Imperfect Art, Inc",
 		"total": 5000,
 		"monthly": {
 			"2021-02": {"total":5000.00, "Manchester Leisure":5000.00}
 		}
 	},
-	"18": {
+	"19": {
 		"name": "Jackson, Jackson & Sons Ltd",
-		"total": 6186790.5,
+		"total": 6943889.18,
 		"monthly": {
 			"2013-12": {"total":102498.26, "Housing Revenue Account":102498.26},
 			"2014-01": {"total":139931.64, "Housing Revenue Account":139931.64},
@@ -308,12 +321,19 @@
 			"2020-09": {"total":267616.32, "Housing Revenue Account":267616.32},
 			"2020-11": {"total":697616.01, "Housing Revenue Account":697616.01},
 			"2020-12": {"total":950333.92, "Housing Revenue Account":950333.92},
-			"2021-03": {"total":568297.97, "Housing Revenue Account":568297.97}
+			"2021-03": {"total":568297.97, "Housing Revenue Account":568297.97},
+			"2021-04": {"total":203424.01, "Housing Revenue Account":203424.01},
+			"2021-06": {"total":98379.56, "Housing Revenue Account":98379.56},
+			"2021-07": {"total":162874.13, "Housing Revenue Account":162874.13},
+			"2021-08": {"total":11713.34, "Housing Revenue Account":11713.34},
+			"2021-09": {"total":35192.82, "Housing Revenue Account":35192.82},
+			"2021-11": {"total":123627.35, "Housing Revenue Account":123627.35},
+			"2022-01": {"total":121887.47, "Housing Revenue Account":121887.47}
 		}
 	},
-	"19": {
+	"20": {
 		"name": "Knight, Kavanagh & Page",
-		"total": 72150,
+		"total": 84145,
 		"monthly": {
 			"2012-01": {"total":5135.00, "Manchester Leisure":5135.00},
 			"2012-12": {"total":10082.50, "Manchester Leisure":10082.50},
@@ -322,24 +342,25 @@
 			"2016-03": {"total":20150.00, "Manchester Leisure":20150.00},
 			"2017-03": {"total":9700.00, "Manchester Leisure":9700.00},
 			"2017-11": {"total":4950.00, "Manchester Leisure":4950.00},
-			"2018-02": {"total":6000.00, "Manchester Leisure":6000.00}
+			"2018-02": {"total":6000.00, "Manchester Leisure":6000.00},
+			"2021-12": {"total":11995.00, "Regeneration Finance":11995.00}
 		}
 	},
-	"20": {
+	"21": {
 		"name": "Met , Langley & Millington Res Grp",
 		"total": 4000,
 		"monthly": {
 			"2012-08": {"total":4000.00, "Regeneration Finance":4000.00}
 		}
 	},
-	"21": {
+	"22": {
 		"name": "Metamorph Law,c/o L Myers Solicitor",
 		"total": 8332.4,
 		"monthly": {
 			"2017-07": {"total":8332.40, "Hospitality + Trading Services":8332.40}
 		}
 	},
-	"22": {
+	"23": {
 		"name": "Michael L Shaw Fabrications Ltd.,",
 		"total": 7776,
 		"monthly": {
@@ -347,7 +368,7 @@
 			"2011-03": {"total":7080.00, "Hospitality + Trading Services":7080.00}
 		}
 	},
-	"23": {
+	"24": {
 		"name": "Northern Counties Housing Ass Ltd,.",
 		"total": 181474.6,
 		"monthly": {
@@ -364,23 +385,23 @@
 			"2016-03": {"total":21396.09, "Adult Social Care":21396.09}
 		}
 	},
-	"24": {
+	"25": {
 		"name": "Oak Lane, Ltd.",
 		"total": 1190,
 		"monthly": {
 			"2021-01": {"total":1190.00, "Adult Social Care":1190.00}
 		}
 	},
-	"25": {
+	"26": {
 		"name": "Ogden, Lyles & Fox",
 		"total": 600,
 		"monthly": {
 			"2019-08": {"total":600.00, "Chief Executives":600.00}
 		}
 	},
-	"26": {
+	"27": {
 		"name": "Oracle Corporation U.K.Ltd.,",
-		"total": 360598.61,
+		"total": 426900.99,
 		"monthly": {
 			"2011-07": {"total":53756.50, "Chief Executives":53756.50},
 			"2012-08": {"total":54831.63, "Chief Executives":54831.63},
@@ -391,17 +412,20 @@
 			"2017-06": {"total":3541.42, "Chief Executives":3541.42},
 			"2018-09": {"total":5150.00, "Corporate Services":5150.00},
 			"2020-03": {"total":53051.63, "Chief Executives":53051.63},
-			"2021-02": {"total":8385.05, "Chief Executives":8385.05}
+			"2021-02": {"total":8385.05, "Chief Executives":8385.05},
+			"2021-04": {"total":55954.39, "Chief Executives":55954.39},
+			"2021-08": {"total":8863.60, "Chief Executives":8863.60},
+			"2021-09": {"total":1484.39, "Chief Executives":1484.39}
 		}
 	},
-	"27": {
+	"28": {
 		"name": "POLL EVERYWHERE, INC.",
 		"total": 782.45,
 		"monthly": {
 			"2019-03": {"total":782.45, "Adult Social Care":782.45}
 		}
 	},
-	"28": {
+	"29": {
 		"name": "People, Dialogue and Change Ltd",
 		"total": 11450,
 		"monthly": {
@@ -412,7 +436,7 @@
 			"2019-05": {"total":2950.00, "Adult Social Care":2950.00}
 		}
 	},
-	"29": {
+	"30": {
 		"name": "Sleigh, Son & Booth Solicitors",
 		"total": 624774.58,
 		"monthly": {
@@ -430,16 +454,16 @@
 			"2016-07": {"total":33249.00, "Chief Executives":33249.00}
 		}
 	},
-	"30": {
+	"31": {
 		"name": "St Matthews , St Mary's Church",
 		"total": 1300,
 		"monthly": {
 			"2020-12": {"total":1300.00, "Manchester Leisure":1300.00}
 		}
 	},
-	"31": {
+	"32": {
 		"name": "TLC: Talk, Listen, Change",
-		"total": 227688,
+		"total": 606160,
 		"monthly": {
 			"2019-05": {"total":800.00, "Adult Social Care":800.00},
 			"2019-07": {"total":70000.00, "Adult Social Care":70000.00},
@@ -447,10 +471,12 @@
 			"2020-01": {"total":10000.00, "Adult Social Care":10000.00},
 			"2020-05": {"total":40000.00, "Adult Social Care":40000.00},
 			"2020-09": {"total":40000.00, "Adult Social Care":40000.00},
-			"2021-03": {"total":65488.00, "Manchester Leisure":65488.00}
+			"2021-03": {"total":65488.00, "Manchester Leisure":65488.00},
+			"2021-05": {"total":29953.00, "Manchester Leisure":29953.00},
+			"2021-06": {"total":348519.00, "Manchester Leisure":348519.00}
 		}
 	},
-	"32": {
+	"33": {
 		"name": "Unidade Infinita, Projectos, Lda",
 		"total": 331181.7,
 		"monthly": {
@@ -462,35 +488,42 @@
 			"2015-02": {"total":18147.45, "Manchester Leisure":18147.45}
 		}
 	},
-	"33": {
+	"34": {
 		"name": "W.H. Morris & Co.,",
 		"total": 1941.43,
 		"monthly": {
 			"2011-11": {"total":1941.43, "Housing Revenue Account":1941.43}
 		}
 	},
-	"34": {
+	"35": {
 		"name": "Woodcocks, Haworth & Nuttall Solici",
 		"total": 15444,
 		"monthly": {
 			"2016-05": {"total":15444.00, "Environment and Operations":15444.00}
 		}
 	},
-	"35": {
+	"36": {
+		"name": "Zoom Video Communications, Inc.",
+		"total": 1998,
+		"monthly": {
+			"2022-01": {"total":1998.00, "Corporate Services":1998.00}
+		}
+	},
+	"37": {
 		"name": "(Catch 22 Midlands and North)",
 		"total": 4723.5,
 		"monthly": {
 			"2011-01": {"total":4723.50, "Chief Executives":4723.50}
 		}
 	},
-	"36": {
+	"38": {
 		"name": "(USE 30006993) MCR Mental Health",
 		"total": 12646.33,
 		"monthly": {
 			"2018-09": {"total":12646.33, "Adult Social Care":12646.33}
 		}
 	},
-	"37": {
+	"39": {
 		"name": "01 Art Services Ltd",
 		"alternate-names": [
 			"01 Art Services Limited"
@@ -500,7 +533,7 @@
 			"2020-03": {"total":825.00, "Manchester Leisure":825.00}
 		}
 	},
-	"38": {
+	"40": {
 		"name": "050 Singers",
 		"total": 7519,
 		"monthly": {
@@ -514,14 +547,21 @@
 			"2019-11": {"total":800.00, "Manchester Leisure":800.00}
 		}
 	},
-	"39": {
+	"41": {
+		"name": "1 Message",
+		"total": 4000,
+		"monthly": {
+			"2022-01": {"total":4000.00, "Manchester Leisure":4000.00}
+		}
+	},
+	"42": {
 		"name": "105th Manchester Scout Troop",
 		"total": 1560,
 		"monthly": {
 			"2012-02": {"total":1560.00, "Regeneration Finance":1560.00}
 		}
 	},
-	"40": {
+	"43": {
 		"name": "105th Manchester St Peter's Scout",
 		"total": 20535.52,
 		"monthly": {
@@ -539,7 +579,7 @@
 			"2021-03": {"total":2565.74, "Manchester Leisure":2565.74}
 		}
 	},
-	"41": {
+	"44": {
 		"name": "117 Consulting Ltd",
 		"total": 3800,
 		"monthly": {
@@ -547,9 +587,9 @@
 			"2019-03": {"total":2000.00, "Manchester Leisure":2000.00}
 		}
 	},
-	"42": {
+	"45": {
 		"name": "11KBW",
-		"total": 326859.57,
+		"total": 384750.82,
 		"monthly": {
 			"2012-07": {"total":9601.80, "Childrens Services":9601.80},
 			"2013-06": {"total":1130.00, "Childrens Services":1130.00},
@@ -599,10 +639,17 @@
 			"2020-08": {"total":700.00, "Chief Executives":700.00},
 			"2020-12": {"total":2625.00, "Childrens & Education Services":2625.00},
 			"2021-01": {"total":2757.50, "Chief Executives":1632.50, "Regeneration Finance":1125.00},
-			"2021-03": {"total":7295.00, "Chief Executives":4470.00, "Regeneration Finance":2825.00}
+			"2021-03": {"total":7295.00, "Chief Executives":4470.00, "Regeneration Finance":2825.00},
+			"2021-04": {"total":7935.00, "Chief Executives":6350.00, "Childrens & Education Services":1585.00},
+			"2021-05": {"total":5737.50, "Chief Executives":5737.50},
+			"2021-08": {"total":10007.50, "Adult Social Care":2450.00, "Chief Executives":2162.50, "Childrens & Education Services":5395.00},
+			"2021-09": {"total":901.25, "Chief Executives":901.25},
+			"2021-10": {"total":7375.00, "Chief Executives":6555.00, "Childrens & Education Services":820.00},
+			"2021-11": {"total":4465.00, "Adult Social Care":4465.00},
+			"2022-01": {"total":21470.00, "Adult Social Care":2080.00, "Chief Executives":18250.00, "Manchester Leisure":1140.00}
 		}
 	},
-	"43": {
+	"46": {
 		"name": "121 Direct Mail Ltd",
 		"total": 21530.98,
 		"monthly": {
@@ -616,7 +663,7 @@
 			"2012-02": {"total":2460.82, "Libraries and Theatres":2460.82}
 		}
 	},
-	"44": {
+	"47": {
 		"name": "123Comms Ltd",
 		"total": 2961.55,
 		"monthly": {
@@ -624,16 +671,16 @@
 			"2020-06": {"total":1449.00, "Childrens & Education Services":1449.00}
 		}
 	},
-	"45": {
+	"48": {
 		"name": "123rd Manchester Scout Group",
 		"total": 1206,
 		"monthly": {
 			"2017-12": {"total":1206.00, "Manchester Leisure":1206.00}
 		}
 	},
-	"46": {
+	"49": {
 		"name": "18 St John Street Chambers",
-		"total": 243670,
+		"total": 390137,
 		"monthly": {
 			"2018-10": {"total":800.00, "Adult Social Care":800.00},
 			"2018-11": {"total":2800.00, "Adult Social Care":2150.00, "Chief Executives":650.00},
@@ -663,55 +710,17 @@
 			"2020-12": {"total":3690.00, "Chief Executives":2390.00, "Childrens & Education Services":1300.00},
 			"2021-01": {"total":11690.00, "Chief Executives":4880.00, "Childrens & Education Services":6810.00},
 			"2021-02": {"total":10635.00, "Chief Executives":5660.00, "Childrens & Education Services":3600.00, "Regeneration Finance":1375.00},
-			"2021-03": {"total":5040.00, "Chief Executives":2320.00, "Childrens & Education Services":2720.00}
-		}
-	},
-	"47": {
-		"name": "1Am Event Support Services",
-		"total": 20250,
-		"monthly": {
-			"2011-01": {"total":550.00, "Chief Executives":550.00},
-			"2011-02": {"total":850.00, "Chief Executives":850.00},
-			"2011-07": {"total":1350.00, "Chief Executives":1350.00},
-			"2011-09": {"total":3550.00, "Chief Executives":1050.00, "Manchester Leisure":2500.00},
-			"2012-03": {"total":850.00, "Chief Executives":850.00},
-			"2012-09": {"total":2000.00, "Manchester Leisure":2000.00},
-			"2012-11": {"total":600.00, "Chief Executives":600.00},
-			"2013-03": {"total":750.00, "Chief Executives":750.00},
-			"2013-09": {"total":1500.00, "Manchester Leisure":1500.00},
-			"2013-12": {"total":600.00, "Hospitality + Trading Services":600.00},
-			"2014-01": {"total":3000.00, "Chief Executives":3000.00},
-			"2014-03": {"total":900.00, "Chief Executives":900.00},
-			"2014-09": {"total":750.00, "Manchester Leisure":750.00},
-			"2014-12": {"total":900.00, "Hospitality + Trading Services":900.00},
-			"2015-03": {"total":900.00, "Manchester Leisure":900.00},
-			"2015-10": {"total":1200.00, "Manchester Leisure":1200.00}
-		}
-	},
-	"48": {
-		"name": "1Ark Project Ltd",
-		"total": 1492.85,
-		"monthly": {
-			"2018-01": {"total":1492.85, "Adult Social Care":1492.85}
-		}
-	},
-	"49": {
-		"name": "1E Ltd",
-		"alternate-names": [
-			"1E Limited"
-		],
-		"total": 197640.49,
-		"monthly": {
-			"2015-08": {"total":74559.00, "Chief Executives":74559.00},
-			"2015-11": {"total":5375.00, "Chief Executives":5375.00},
-			"2015-12": {"total":3574.60, "Chief Executives":3574.60},
-			"2016-04": {"total":28280.41, "Chief Executives":28280.41},
-			"2016-07": {"total":12264.56, "Chief Executives":12264.56},
-			"2017-07": {"total":12264.56, "Chief Executives":12264.56},
-			"2018-07": {"total":12264.45, "Chief Executives":12264.45},
-			"2019-01": {"total":12264.45, "Chief Executives":12264.45},
-			"2019-08": {"total":24528.90, "Chief Executives":24528.90},
-			"2019-09": {"total":12264.56, "Chief Executives":12264.56}
+			"2021-03": {"total":5040.00, "Chief Executives":2320.00, "Childrens & Education Services":2720.00},
+			"2021-04": {"total":7160.00, "Childrens & Education Services":7160.00},
+			"2021-05": {"total":6260.00, "Chief Executives":2050.00, "Childrens & Education Services":4210.00},
+			"2021-06": {"total":7000.00, "Chief Executives":6350.00, "Childrens & Education Services":650.00},
+			"2021-07": {"total":11080.00, "Chief Executives":4750.00, "Childrens & Education Services":6330.00},
+			"2021-08": {"total":2700.00, "Chief Executives":650.00, "Childrens & Education Services":1300.00, "Corporate Services":750.00},
+			"2021-09": {"total":20710.00, "Chief Executives":13310.00, "Childrens & Education Services":7400.00},
+			"2021-10": {"total":51450.00, "Chief Executives":9840.00, "Childrens & Education Services":41610.00},
+			"2021-11": {"total":28540.00, "Chief Executives":1480.00, "Childrens & Education Services":27060.00},
+			"2021-12": {"total":6665.00, "Chief Executives":3765.00, "Childrens & Education Services":2900.00},
+			"2022-01": {"total":4902.00, "Chief Executives":2492.00, "Childrens & Education Services":2410.00}
 		}
 	}
 	}
