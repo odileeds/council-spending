@@ -1,28 +1,436 @@
 {
-	"range": ["2014-04","2022-01"],
+	"range": ["2014-04","2022-07"],
 	"data": {
 	"1600": {
+		"name": "CASTLEFORD YOUNG MUSICIANS",
+		"total": 745,
+		"monthly": {
+			"2018-04": {"total":500.00, "Public Health":500.00},
+			"2021-06": {"total":245.00, "Public Health":245.00}
+		}
+	},
+	"1601": {
+		"name": "CASTLEKING INFLATABLES",
+		"total": 4130,
+		"monthly": {
+			"2019-04": {"total":600.00, "Culture & Sport":600.00},
+			"2019-05": {"total":480.00, "Culture & Sport":480.00},
+			"2019-06": {"total":220.00, "Culture & Sport":220.00},
+			"2019-07": {"total":460.00, "Culture & Sport":460.00},
+			"2019-08": {"total":480.00, "Culture & Sport":480.00},
+			"2019-09": {"total":330.00, "Culture & Sport":330.00},
+			"2019-10": {"total":130.00, "Culture & Sport":130.00},
+			"2019-11": {"total":480.00, "Culture & Sport":480.00},
+			"2019-12": {"total":510.00, "Culture & Sport":510.00},
+			"2020-01": {"total":110.00, "Culture & Sport":110.00},
+			"2020-02": {"total":110.00, "Culture & Sport":110.00},
+			"2020-03": {"total":220.00, "Culture & Sport":220.00}
+		}
+	},
+	"1602": {
+		"name": "CASTLEWATER BATHROOMS LTD",
+		"total": 1901.2,
+		"monthly": {
+			"2020-08": {"total":1901.20, "Property & Regeneration":1901.20}
+		}
+	},
+	"1603": {
+		"name": "CATCH 22 CHARITY LTD",
+		"total": 20965,
+		"monthly": {
+			"2016-11": {"total":2995.00, "Children and Young People":2995.00},
+			"2017-04": {"total":2995.00, "Children and Young People":2995.00},
+			"2018-04": {"total":2995.00, "Professional Services":2995.00},
+			"2019-07": {"total":2995.00, "Professional Services":2995.00},
+			"2020-03": {"total":2995.00, "Professional Services":2995.00},
+			"2021-03": {"total":2995.00, "Professional Services":2995.00},
+			"2022-05": {"total":2995.00, "Professional Services":2995.00}
+		}
+	},
+	"1604": {
+		"name": "CATCH 22 NATIONAL CARE ADVISORY SERVICE",
+		"total": 4987.7,
+		"monthly": {
+			"2014-08": {"total":1242.70, "Adult Services":1242.70},
+			"2015-01": {"total":750.00, "Adult Services":750.00},
+			"2015-05": {"total":2995.00, "Adult Services":2995.00}
+		}
+	},
+	"1605": {
+		"name": "CATERING YORKSHIRE",
+		"total": 3434.2,
+		"monthly": {
+			"2014-06": {"total":3434.20, "Property & Asset Management":3434.20}
+		}
+	},
+	"1606": {
+		"name": "CATERING YORKSHIRE LTD",
+		"total": 1800,
+		"monthly": {
+			"2014-09": {"total":1800.00, "n/a":1800.00}
+		}
+	},
+	"1607": {
+		"name": "CATERKWIK.CO.UK",
+		"total": 1169,
+		"monthly": {
+			"2014-12": {"total":1169.00, "n/a":1169.00}
+		}
+	},
+	"1608": {
+		"name": "CATHEDRAL",
+		"total": 600,
+		"monthly": {
+			"2014-12": {"total":600.00, "n/a":600.00}
+		}
+	},
+	"1609": {
+		"name": "CATHEDRAL ACADEMY",
+		"total": 154763.27,
+		"monthly": {
+			"2014-04": {"total":5572.90, "Family Services":5572.90},
+			"2014-06": {"total":4365.05, "Family Services":4365.05},
+			"2014-07": {"total":3160.90, "Children and Young People":3160.90},
+			"2014-08": {"total":1688.65, "Children and Young People":1688.65},
+			"2014-10": {"total":2634.36, "Children and Young People":2634.36},
+			"2014-11": {"total":2588.86, "Children and Young People":2588.86},
+			"2014-12": {"total":2298.28, "Children and Young People":2298.28},
+			"2015-01": {"total":7535.90, "Children and Young People":7535.90},
+			"2015-02": {"total":4627.72, "Children and Young People":4627.72},
+			"2015-03": {"total":8675.39, "Children and Young People":8675.39},
+			"2015-05": {"total":3038.39, "Children and Young People":3038.39},
+			"2015-06": {"total":6199.34, "Children and Young People":6199.34},
+			"2015-07": {"total":4533.44, "Children and Young People":4533.44},
+			"2015-08": {"total":3984.62, "Children and Young People":3984.62},
+			"2015-10": {"total":13323.08, "Children and Young People":13323.08},
+			"2015-11": {"total":11466.66, "Children and Young People":11466.66},
+			"2015-12": {"total":15200.00, "Children and Young People":15200.00},
+			"2016-01": {"total":4299.63, "Children and Young People":4299.63},
+			"2016-02": {"total":5614.90, "Children and Young People":5614.90},
+			"2016-03": {"total":11478.84, "Children and Young People":11478.84},
+			"2016-05": {"total":5021.02, "Children and Young People":5021.02},
+			"2016-06": {"total":4232.06, "Children and Young People":4232.06},
+			"2016-07": {"total":3539.13, "Children and Young People":3539.13},
+			"2016-08": {"total":1491.84, "Children and Young People":1491.84},
+			"2016-12": {"total":600.00, "Children and Young People":600.00},
+			"2017-06": {"total":550.00, "Children and Young People":550.00},
+			"2018-03": {"total":3306.00, "Children and Young People":3306.00},
+			"2018-09": {"total":4409.00, "Children and Young People":4409.00},
+			"2019-11": {"total":9327.31, "Children and Young People":9327.31}
+		}
+	},
+	"1610": {
+		"name": "CATHEDRAL CHURCH OF ALL SAINTS WAKEFIELD",
+		"total": 1286.16,
+		"monthly": {
+			"2017-01": {"total":656.16, "n/a":656.16},
+			"2019-08": {"total":630.00, "n/a":630.00}
+		}
+	},
+	"1611": {
+		"name": "CATHEDRAL LEASING LTD",
+		"total": 6069.78,
+		"monthly": {
+			"2014-07": {"total":608.07, "Property & Asset Management":608.07},
+			"2014-10": {"total":608.07, "Property & Asset Management":608.07},
+			"2015-01": {"total":608.07, "Property & Asset Management":608.07},
+			"2015-04": {"total":1205.22, "Property & Asset Management":1205.22},
+			"2015-07": {"total":608.07, "Property & Asset Management":608.07},
+			"2015-10": {"total":1216.14, "Property & Asset Management":1216.14},
+			"2016-03": {"total":608.07, "Property & Asset Management":608.07},
+			"2016-06": {"total":608.07, "Property & Asset Management":608.07}
+		}
+	},
+	"1612": {
+		"name": "CATHERINE HALLAM PSYCHOLOGY LTD",
+		"alternate-names": [
+			"CATHERINE HALLAM PSYCHOLOGY LIMITED"
+		],
+		"total": 2000,
+		"monthly": {
+			"2022-06": {"total":2000.00, "Children and Young People":2000.00}
+		}
+	},
+	"1613": {
+		"name": "CATHERINE MERRICK LTD",
+		"total": 9245.9,
+		"monthly": {
+			"2016-06": {"total":525.80, "Professional Services":525.80},
+			"2019-04": {"total":910.00, "Business Services":910.00},
+			"2019-05": {"total":461.80, "Business Services":461.80},
+			"2019-06": {"total":325.00, "Business Services":325.00},
+			"2019-07": {"total":225.00, "Business Services":225.00},
+			"2019-08": {"total":681.80, "Business Services":681.80},
+			"2019-10": {"total":577.80, "Business Services":577.80},
+			"2019-11": {"total":332.40, "Business Services":332.40},
+			"2019-12": {"total":112.40, "Business Services":112.40},
+			"2020-01": {"total":110.00, "Business Services":110.00},
+			"2020-02": {"total":552.40, "Business Services":552.40},
+			"2020-03": {"total":112.40, "Business Services":112.40},
+			"2020-04": {"total":110.00, "Business Services":110.00},
+			"2020-11": {"total":105.00, "Business Services":105.00},
+			"2020-12": {"total":105.00, "Business Services":105.00},
+			"2021-04": {"total":220.00, "Business Services":220.00},
+			"2021-05": {"total":110.00, "Business Services":110.00},
+			"2021-06": {"total":110.00, "Business Services":110.00},
+			"2021-08": {"total":438.00, "Business Services":438.00},
+			"2021-09": {"total":508.00, "Business Services":508.00},
+			"2021-10": {"total":250.00, "Business Services":250.00},
+			"2021-11": {"total":478.00, "Business Services":478.00},
+			"2021-12": {"total":1075.60, "Business Services":1075.60},
+			"2022-04": {"total":125.00, "Business Services":125.00},
+			"2022-05": {"total":375.00, "Business Services":375.00},
+			"2022-06": {"total":309.50, "Business Services":309.50}
+		}
+	},
+	"1614": {
+		"name": "CATTERALLS SOLICITORS",
+		"total": 859769.69,
+		"monthly": {
+			"2017-11": {"total":650.00, "Professional Services":650.00},
+			"2020-08": {"total":853030.00, "Professional Services":853030.00},
+			"2020-09": {"total":4681.19, "Professional Services":4681.19},
+			"2020-10": {"total":450.00, "Professional Services":450.00},
+			"2020-11": {"total":450.00, "Professional Services":450.00},
+			"2021-07": {"total":508.50, "Professional Services":508.50}
+		}
+	},
+	"1615": {
+		"name": "CAULTON CONSTRUCTION",
+		"total": 1241031.46,
+		"monthly": {
+			"2014-04": {"total":7640.23, "Property & Asset Management":7640.23},
+			"2014-05": {"total":8000.00, "Property & Asset Management":8000.00},
+			"2014-06": {"total":7437.85, "Property & Asset Management":7437.85},
+			"2014-07": {"total":9138.60, "Property & Asset Management":9138.60},
+			"2014-09": {"total":23304.88, "Property & Asset Management":23304.88},
+			"2014-10": {"total":3699.21, "Property & Asset Management":3699.21},
+			"2015-04": {"total":1470.00, "Property & Asset Management":1470.00},
+			"2015-06": {"total":2895.00, "Property & Asset Management":2895.00},
+			"2015-10": {"total":1006.00, "Property & Asset Management":1006.00},
+			"2015-11": {"total":3126.00, "Property & Asset Management":3126.00},
+			"2015-12": {"total":1160.00, "Property & Asset Management":1160.00},
+			"2016-01": {"total":3889.84, "Property & Asset Management":3889.84},
+			"2016-02": {"total":14488.00, "Property & Asset Management":14488.00},
+			"2016-03": {"total":21678.27, "Property & Asset Management":21678.27},
+			"2016-04": {"total":9474.90, "Property & Asset Management":9474.90},
+			"2016-05": {"total":22429.25, "Property & Asset Management":22429.25},
+			"2016-06": {"total":790.00, "Property & Asset Management":790.00},
+			"2016-07": {"total":11350.10, "Property & Asset Management":11350.10},
+			"2016-08": {"total":2565.32, "Property & Asset Management":2565.32},
+			"2016-09": {"total":25400.00, "Property & Asset Management":25400.00},
+			"2016-10": {"total":30926.00, "Property & Regeneration":30926.00},
+			"2016-11": {"total":13196.40, "Property & Regeneration":13196.40},
+			"2016-12": {"total":21013.77, "Property & Regeneration":21013.77},
+			"2017-01": {"total":22535.15, "Property & Regeneration":22535.15},
+			"2017-02": {"total":10000.00, "Property & Regeneration":10000.00},
+			"2017-03": {"total":76935.24, "Property & Regeneration":76935.24},
+			"2017-05": {"total":9946.00, "Property & Regeneration":9946.00},
+			"2017-06": {"total":15649.59, "Property & Regeneration":15649.59},
+			"2017-07": {"total":6882.00, "Property & Regeneration":6882.00},
+			"2017-08": {"total":16017.32, "Property & Regeneration":16017.32},
+			"2017-09": {"total":21435.33, "Property & Regeneration":21435.33},
+			"2017-10": {"total":6027.25, "Property & Regeneration":6027.25},
+			"2017-11": {"total":11886.10, "Property & Regeneration":11886.10},
+			"2017-12": {"total":20370.34, "Property & Regeneration":20370.34},
+			"2018-01": {"total":2210.00, "Property & Regeneration":2210.00},
+			"2018-02": {"total":13529.20, "Property & Regeneration":13529.20},
+			"2018-03": {"total":5500.00, "Property & Regeneration":5500.00},
+			"2018-04": {"total":6492.46, "Property & Regeneration":6492.46},
+			"2018-06": {"total":17560.15, "Property & Regeneration":17560.15},
+			"2018-07": {"total":22555.03, "Property & Regeneration":22555.03},
+			"2018-08": {"total":7807.50, "Property & Regeneration":7807.50},
+			"2018-09": {"total":16538.60, "Property & Regeneration":16538.60},
+			"2018-10": {"total":14052.80, "Property & Regeneration":14052.80},
+			"2018-11": {"total":9037.25, "Property & Regeneration":9037.25},
+			"2018-12": {"total":11648.49, "Property & Regeneration":11648.49},
+			"2019-01": {"total":38783.30, "Property & Regeneration":38783.30},
+			"2019-04": {"total":29099.50, "Property & Regeneration":29099.50},
+			"2019-06": {"total":13685.00, "Property & Regeneration":13685.00},
+			"2019-07": {"total":22940.47, "Property & Regeneration":22940.47},
+			"2019-08": {"total":22035.00, "Property & Regeneration":22035.00},
+			"2019-09": {"total":4848.30, "Property & Regeneration":4848.30},
+			"2019-10": {"total":7195.50, "Property & Regeneration":7195.50},
+			"2019-11": {"total":47217.60, "Property & Regeneration":47217.60},
+			"2019-12": {"total":25682.40, "Property & Regeneration":25682.40},
+			"2020-01": {"total":650.00, "Property & Regeneration":650.00},
+			"2020-02": {"total":13157.00, "Property & Regeneration":13157.00},
+			"2020-03": {"total":44940.62, "Property & Regeneration":44940.62},
+			"2020-07": {"total":4589.99, "Property & Regeneration":4589.99},
+			"2020-08": {"total":32280.49, "Property & Regeneration":32280.49},
+			"2020-09": {"total":21798.77, "Property & Regeneration":21798.77},
+			"2020-10": {"total":25462.92, "Property & Regeneration":25462.92},
+			"2020-11": {"total":14335.51, "Property & Regeneration":14335.51},
+			"2020-12": {"total":22064.63, "Property & Regeneration":22064.63},
+			"2021-01": {"total":6063.00, "Property & Regeneration":6063.00},
+			"2021-02": {"total":24388.00, "Property & Regeneration":24388.00},
+			"2021-03": {"total":16681.50, "Property & Regeneration":16681.50},
+			"2021-04": {"total":28347.00, "Property & Regeneration":28347.00},
+			"2021-05": {"total":27873.65, "Property & Regeneration":27873.65},
+			"2021-06": {"total":22090.10, "Property & Regeneration":22090.10},
+			"2021-07": {"total":24370.48, "Property & Regeneration":24370.48},
+			"2021-08": {"total":15000.00, "Property & Regeneration":15000.00},
+			"2021-10": {"total":9179.00, "Property & Regeneration":9179.00},
+			"2021-11": {"total":15000.00, "Property & Regeneration":15000.00},
+			"2021-12": {"total":17683.00, "Property & Regeneration":17683.00},
+			"2022-04": {"total":15000.00, "Property & Regeneration":15000.00},
+			"2022-05": {"total":10366.50, "Property & Regeneration":10366.50},
+			"2022-06": {"total":27526.81, "Property & Regeneration":27526.81}
+		}
+	},
+	"1616": {
+		"name": "CAUSE4 LTD",
+		"total": 1331.7,
+		"monthly": {
+			"2021-05": {"total":900.00, "Business Services":900.00},
+			"2021-07": {"total":125.00, "Business Services":125.00},
+			"2021-11": {"total":250.00, "Business Services":250.00},
+			"2021-12": {"total":56.70, "Business Services":56.70}
+		}
+	},
+	"1617": {
+		"name": "CAVENDISH CONFERENCE CENTRE",
+		"total": 10080,
+		"monthly": {
+			"2018-11": {"total":10080.00, "Business Services":10080.00}
+		}
+	},
+	"1618": {
+		"name": "CAVENDISH CONFERENCE CENTRE LTD",
+		"alternate-names": [
+			"CAVENDISH CONFERENCE CENTRE LIMITED"
+		],
+		"total": 9200,
+		"monthly": {
+			"2019-01": {"total":9200.00, "Business Services":9200.00}
+		}
+	},
+	"1619": {
+		"name": "CAVENDISH HARDWARE LTD",
+		"total": 1391.4,
+		"monthly": {
+			"2014-08": {"total":671.92, "Property & Asset Management":671.92},
+			"2014-09": {"total":719.48, "Property & Asset Management":719.48}
+		}
+	},
+	"1620": {
+		"name": "CAYP PSYCHOLOGY LTD",
+		"alternate-names": [
+			"CAYP PSYCHOLOGY LIMITED"
+		],
+		"total": 1155,
+		"monthly": {
+			"2020-06": {"total":1155.00, "Children and Young People":1155.00}
+		}
+	},
+	"1621": {
+		"name": "CB ARTS LTD",
+		"total": 600,
+		"monthly": {
+			"2021-12": {"total":150.00, "Culture & Sport":150.00},
+			"2022-06": {"total":450.00, "Culture & Sport":450.00}
+		}
+	},
+	"1622": {
+		"name": "CB PLASTERING SERVICES",
+		"total": 9350,
+		"monthly": {
+			"2021-09": {"total":4750.00, "Property & Regeneration":4750.00},
+			"2021-11": {"total":4600.00, "Property & Regeneration":4600.00}
+		}
+	},
+	"1623": {
+		"name": "CBA SPINDLEWOOD LTD",
+		"total": 1200,
+		"monthly": {
+			"2015-01": {"total":1200.00, "Property & Asset Management":1200.00}
+		}
+	},
+	"1624": {
+		"name": "CBC COMPUTER SYSTEMS LTD",
+		"total": 11940,
+		"monthly": {
+			"2014-05": {"total":5555.00, "ICT":5555.00},
+			"2014-09": {"total":635.00, "ICT":635.00},
+			"2021-02": {"total":2135.00, "ICT":2135.00},
+			"2021-05": {"total":3615.00, "ICT":3615.00}
+		}
+	},
+	"1625": {
+		"name": "CBRE",
+		"total": 109125,
+		"monthly": {
+			"2014-06": {"total":36375.00, "Property & Asset Management":36375.00},
+			"2014-09": {"total":36375.00, "Property & Asset Management":36375.00},
+			"2014-12": {"total":36375.00, "Property & Asset Management":36375.00}
+		}
+	},
+	"1626": {
+		"name": "CBRE LTD",
+		"alternate-names": [
+			"CBRE LIMITED"
+		],
+		"total": 28354.05,
+		"monthly": {
+			"2015-02": {"total":550.00, "Property & Asset Management":550.00},
+			"2017-03": {"total":4304.05, "Property & Regeneration":4304.05},
+			"2018-03": {"total":1000.00, "Property & Regeneration":1000.00},
+			"2018-10": {"total":22500.00, "Property & Regeneration":22500.00}
+		}
+	},
+	"1627": {
+		"name": "CC GEOTECHNICAL LTD",
+		"alternate-names": [
+			"CC GEOTECHNICAL LIMITED"
+		],
+		"total": 700,
+		"monthly": {
+			"2017-03": {"total":700.00, "Property & Regeneration":700.00}
+		}
+	},
+	"1628": {
+		"name": "CC SERVICES YORKSHIRE LTD",
+		"alternate-names": [
+			"CC SERVICES YORKSHIRE LIMITED"
+		],
+		"total": 7713.78,
+		"monthly": {
+			"2019-12": {"total":7713.78, "Property & Regeneration":7713.78}
+		}
+	},
+	"1629": {
+		"name": "CC2I LTD",
+		"alternate-names": [
+			"CC2I LIMITED"
+		],
+		"total": 30017,
+		"monthly": {
+			"2018-01": {"total":21912.00, "Business Services":21912.00},
+			"2021-01": {"total":8105.00, "Business Services":8105.00}
+		}
+	},
+	"1630": {
 		"name": "CCA FIXINGS",
 		"total": 3750,
 		"monthly": {
 			"2015-04": {"total":3750.00, "Property & Asset Management":3750.00}
 		}
 	},
-	"1601": {
+	"1631": {
 		"name": "CCA PRODUCTS",
 		"total": 696.75,
 		"monthly": {
 			"2014-07": {"total":696.75, "Property & Asset Management":696.75}
 		}
 	},
-	"1602": {
+	"1632": {
 		"name": "CCL COMPUTERS LTD",
 		"total": 975,
 		"monthly": {
 			"2016-06": {"total":975.00, "ICT":975.00}
 		}
 	},
-	"1603": {
+	"1633": {
 		"name": "CCOM LTD T/A MIR CONSULTANTS",
 		"total": 4100,
 		"monthly": {
@@ -31,7 +439,7 @@
 			"2019-11": {"total":1200.00, "Professional Services":1200.00}
 		}
 	},
-	"1604": {
+	"1634": {
 		"name": "CCS ADOPTION",
 		"total": 46262.33,
 		"monthly": {
@@ -44,7 +452,7 @@
 			"2017-03": {"total":2250.00, "Children and Young People":2250.00}
 		}
 	},
-	"1605": {
+	"1635": {
 		"name": "CCS MEDIA LTD",
 		"total": 105889.71,
 		"monthly": {
@@ -93,7 +501,7 @@
 			"2021-12": {"total":2104.85, "ICT":2104.85}
 		}
 	},
-	"1606": {
+	"1636": {
 		"name": "CDER GROUP LTD",
 		"alternate-names": [
 			"CDER GROUP LIMITED"
@@ -105,7 +513,7 @@
 			"2021-04": {"total":99.66, "Business Services":99.66}
 		}
 	},
-	"1607": {
+	"1637": {
 		"name": "CDS ASSISTIVE TECHNOLOGY LTD",
 		"total": 17706,
 		"monthly": {
@@ -117,14 +525,14 @@
 			"2018-06": {"total":5011.00, "Property & Regeneration":5011.00}
 		}
 	},
-	"1608": {
+	"1638": {
 		"name": "CDS SERVICES",
 		"total": 3556.63,
 		"monthly": {
 			"2014-08": {"total":3556.63, "Property & Asset Management":3556.63}
 		}
 	},
-	"1609": {
+	"1639": {
 		"name": "CE EVENTS LTD",
 		"total": 1995.84,
 		"monthly": {
@@ -133,7 +541,7 @@
 			"2019-07": {"total":755.90, "Culture & Sport":755.90}
 		}
 	},
-	"1610": {
+	"1640": {
 		"name": "CEB ACCESS LTD",
 		"total": 19619,
 		"monthly": {
@@ -141,7 +549,7 @@
 			"2020-08": {"total":736.00, "Transport":736.00}
 		}
 	},
-	"1611": {
+	"1641": {
 		"name": "CEDAR COURT HOTEL",
 		"total": 25921.13,
 		"monthly": {
@@ -156,7 +564,7 @@
 			"2017-01": {"total":3581.83, "Business Services":3581.83}
 		}
 	},
-	"1612": {
+	"1642": {
 		"name": "CEDAR HOUSE SCHOOL",
 		"total": 256886.35,
 		"monthly": {
@@ -167,7 +575,7 @@
 			"2016-11": {"total":31977.24, "Children and Young People":31977.24}
 		}
 	},
-	"1613": {
+	"1643": {
 		"name": "CEFNDY HEALTHCARE",
 		"total": 7546.64,
 		"monthly": {
@@ -182,21 +590,21 @@
 			"2020-02": {"total":62.26, "Adult Services":62.26}
 		}
 	},
-	"1614": {
+	"1644": {
 		"name": "CELEBRATE JUST RIGHT LTD",
 		"total": 80,
 		"monthly": {
 			"2021-04": {"total":80.00, "Culture & Sport":80.00}
 		}
 	},
-	"1615": {
+	"1645": {
 		"name": "CELLMARK",
 		"total": 907,
 		"monthly": {
 			"2014-09": {"total":907.00, "Professional Services":907.00}
 		}
 	},
-	"1616": {
+	"1646": {
 		"name": "CELTIC TECHNOLOGIES LTD",
 		"total": 116330.21,
 		"monthly": {
@@ -205,394 +613,35 @@
 			"2015-05": {"total":5955.56, "Environment":5955.56}
 		}
 	},
-	"1617": {
+	"1647": {
 		"name": "CEMETERY TRAINING SERVICES LTD",
-		"total": 10223.5,
+		"total": 12279.5,
 		"monthly": {
 			"2020-03": {"total":1099.50, "Business Services":1099.50},
 			"2020-06": {"total":2934.00, "Business Services":2934.00},
 			"2021-02": {"total":3451.00, "Business Services":3451.00},
-			"2021-12": {"total":2739.00, "Business Services":2739.00}
+			"2021-12": {"total":2739.00, "Business Services":2739.00},
+			"2022-06": {"total":2056.00, "Business Services":2056.00}
 		}
 	},
-	"1618": {
+	"1648": {
 		"name": "CEMS LTD",
 		"total": 720,
 		"monthly": {
 			"2015-07": {"total":720.00, "Adult Services":720.00}
 		}
 	},
-	"1619": {
+	"1649": {
 		"name": "CENGAGE LEARNING ENEA LTD",
-		"total": 38883.63,
+		"total": 46334.58,
 		"monthly": {
 			"2016-06": {"total":6624.98, "Economic Growth, Culture & Sport":6624.98},
 			"2017-06": {"total":5838.00, "Property & Regeneration":5838.00},
 			"2018-06": {"total":6129.90, "Property & Regeneration":6129.90},
 			"2019-06": {"total":6436.40, "Culture & Sport":6436.40},
 			"2020-06": {"total":6758.20, "Culture & Sport":6758.20},
-			"2021-06": {"total":7096.15, "Culture & Sport":7096.15}
-		}
-	},
-	"1620": {
-		"name": "CENTARA LTD",
-		"total": 12089.05,
-		"monthly": {
-			"2014-11": {"total":1622.40, "Professional Services":1622.40},
-			"2019-10": {"total":400.00, "Professional Services":400.00},
-			"2021-01": {"total":586.40, "Professional Services":586.40},
-			"2021-06": {"total":1500.00, "Professional Services":1500.00},
-			"2021-07": {"total":1010.75, "Professional Services":1010.75},
-			"2021-08": {"total":3901.50, "Professional Services":3901.50},
-			"2021-09": {"total":978.00, "Professional Services":978.00},
-			"2021-10": {"total":800.00, "Professional Services":800.00},
-			"2021-12": {"total":1290.00, "Professional Services":1290.00}
-		}
-	},
-	"1621": {
-		"name": "CENTAUR CONSUMER EXHIBITIONS LTD",
-		"alternate-names": [
-			"CENTAUR CONSUMER EXHIBITIONS LIMITED"
-		],
-		"total": 5400,
-		"monthly": {
-			"2014-11": {"total":5400.00, "Business Services":5400.00}
-		}
-	},
-	"1622": {
-		"name": "CENTAUR MEDIA",
-		"total": 3720,
-		"monthly": {
-			"2019-03": {"total":3720.00, "Business Services":3720.00}
-		}
-	},
-	"1623": {
-		"name": "CENTAUR TRAINING & DEVELOPMENT LTD",
-		"total": 5638,
-		"monthly": {
-			"2016-08": {"total":996.00, "Business Services":996.00},
-			"2019-06": {"total":498.00, "Business Services":498.00},
-			"2020-04": {"total":2697.00, "Business Services":2697.00},
-			"2021-06": {"total":249.00, "Business Services":249.00},
-			"2021-07": {"total":1198.00, "Business Services":1198.00}
-		}
-	},
-	"1624": {
-		"name": "CENTRAL AND NORTH WEST LONDON NHS FT",
-		"total": 617.03,
-		"monthly": {
-			"2019-04": {"total":131.00, "Public Health":131.00},
-			"2019-09": {"total":128.00, "Public Health":128.00},
-			"2020-01": {"total":128.00, "Public Health":128.00},
-			"2020-03": {"total":128.00, "Public Health":128.00},
-			"2020-07": {"total":136.00, "Public Health":136.00},
-			"2021-09": {"total":-33.97, "Public Health":-33.97}
-		}
-	},
-	"1625": {
-		"name": "CENTRAL CONFERENCE CONSULTANTS LTD",
-		"total": 325,
-		"monthly": {
-			"2019-10": {"total":325.00, "Culture & Sport":325.00}
-		}
-	},
-	"1626": {
-		"name": "CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
-		"total": 500,
-		"monthly": {
-			"2018-02": {"total":500.00, "Public Health":500.00}
-		}
-	},
-	"1627": {
-		"name": "CENTRAL SOURCE LTD",
-		"alternate-names": [
-			"CENTRAL SOURCE LIMITED"
-		],
-		"total": 1179,
-		"monthly": {
-			"2018-07": {"total":1179.00, "Property & Regeneration":1179.00}
-		}
-	},
-	"1628": {
-		"name": "CENTRAL TYRE LTD",
-		"alternate-names": [
-			"CENTRAL TYRE LIMITED"
-		],
-		"total": 2924,
-		"monthly": {
-			"2019-04": {"total":2196.00, "Transport":2196.00},
-			"2019-09": {"total":728.00, "Transport":728.00}
-		}
-	},
-	"1629": {
-		"name": "CENTRAL YMCA",
-		"total": 855,
-		"monthly": {
-			"2015-06": {"total":855.00, "Adult Services":855.00}
-		}
-	},
-	"1630": {
-		"name": "CENTRE FOR AGRICULTURE AND BIOSCIENCES INTERNATIONAL (CABI)",
-		"total": 4000,
-		"monthly": {
-			"2016-07": {"total":4000.00, "Environment":4000.00}
-		}
-	},
-	"1631": {
-		"name": "CENTRE FOR ASSESSMENT LTD",
-		"total": 12347.5,
-		"monthly": {
-			"2014-07": {"total":1260.00, "Professional Services":1260.00},
-			"2015-03": {"total":2240.00, "Professional Services":2240.00},
-			"2016-03": {"total":1280.00, "Professional Services":1280.00},
-			"2017-05": {"total":1280.00, "Professional Services":1280.00},
-			"2018-05": {"total":2240.00, "Professional Services":2240.00},
-			"2019-05": {"total":960.00, "Professional Services":960.00},
-			"2020-06": {"total":1137.50, "Professional Services":1137.50},
-			"2021-10": {"total":1950.00, "Professional Services":1950.00}
-		}
-	},
-	"1632": {
-		"name": "CENTRE FOR CITIES",
-		"total": 941.1,
-		"monthly": {
-			"2019-02": {"total":800.00, "Public Health":800.00},
-			"2019-12": {"total":141.10, "Public Health":141.10}
-		}
-	},
-	"1633": {
-		"name": "CENTRE FOR EMOTIONAL DEVELOPMENT LTD",
-		"total": 1575,
-		"monthly": {
-			"2020-07": {"total":475.00, "Public Health":475.00},
-			"2020-09": {"total":200.00, "Public Health":200.00},
-			"2020-11": {"total":100.00, "Public Health":100.00},
-			"2020-12": {"total":200.00, "Public Health":200.00},
-			"2021-01": {"total":100.00, "Public Health":100.00},
-			"2021-03": {"total":200.00, "Public Health":200.00},
-			"2021-05": {"total":300.00, "Public Health":300.00}
-		}
-	},
-	"1634": {
-		"name": "CENTRE FOR THERAPEUTIC STORYWRITING LTD",
-		"total": 450.01,
-		"monthly": {
-			"2021-10": {"total":450.01, "Children and Young People":450.01}
-		}
-	},
-	"1635": {
-		"name": "CENTREWIRE LTD",
-		"total": 12303.34,
-		"monthly": {
-			"2014-12": {"total":525.00, "Property & Asset Management":525.00},
-			"2015-01": {"total":720.00, "Property & Asset Management":720.00},
-			"2015-02": {"total":1975.00, "Property & Asset Management":1975.00},
-			"2016-06": {"total":2197.00, "Property & Asset Management":2197.00},
-			"2017-04": {"total":746.00, "Property & Regeneration":746.00},
-			"2018-03": {"total":1112.34, "Property & Regeneration":1112.34},
-			"2019-11": {"total":346.00, "Property & Regeneration":346.00},
-			"2020-03": {"total":930.00, "Property & Regeneration":930.00},
-			"2020-04": {"total":1076.00, "Property & Regeneration":1076.00},
-			"2020-08": {"total":930.00, "Property & Regeneration":930.00},
-			"2020-12": {"total":1287.00, "Property & Regeneration":1287.00},
-			"2021-05": {"total":459.00, "Property & Regeneration":459.00}
-		}
-	},
-	"1636": {
-		"name": "CENTRIX LTD",
-		"total": 900,
-		"monthly": {
-			"2014-05": {"total":900.00, "ICT":900.00}
-		}
-	},
-	"1637": {
-		"name": "CENTURION SITE SERVICES LTD",
-		"total": 39066,
-		"monthly": {
-			"2014-09": {"total":7619.00, "Highways":7619.00},
-			"2014-10": {"total":825.00, "Highways":825.00},
-			"2015-06": {"total":16300.00, "Highways":16300.00},
-			"2018-07": {"total":2400.00, "Highways":2400.00},
-			"2019-04": {"total":975.00, "Highways":975.00},
-			"2019-05": {"total":7105.00, "Highways":7105.00},
-			"2019-06": {"total":1212.00, "Highways":1212.00},
-			"2019-08": {"total":885.00, "Highways":885.00},
-			"2019-09": {"total":995.00, "Highways":995.00},
-			"2019-12": {"total":750.00, "Highways":750.00}
-		}
-	},
-	"1638": {
-		"name": "CENTURY PLASTICS LTD",
-		"total": 2803.07,
-		"monthly": {
-			"2014-07": {"total":1630.06, "Property & Asset Management":1630.06},
-			"2014-08": {"total":1173.01, "Property & Asset Management":1173.01}
-		}
-	},
-	"1639": {
-		"name": "CENTURY PRINTING",
-		"total": 750,
-		"monthly": {
-			"2017-04": {"total":750.00, "Business Services":750.00}
-		}
-	},
-	"1640": {
-		"name": "CER (A DIVISION OF AFFINITY WORKFORCE SOLUTIONS LTD)",
-		"total": 339,
-		"monthly": {
-			"2019-05": {"total":339.00, "Business Services":339.00}
-		}
-	},
-	"1641": {
-		"name": "CERA CARE LTD",
-		"alternate-names": [
-			"CERA CARE LIMITED"
-		],
-		"total": 7933.72,
-		"monthly": {
-			"2020-04": {"total":7933.72, "Adult Services":7933.72}
-		}
-	},
-	"1642": {
-		"name": "CERA CARE OPERATIONS LTD",
-		"alternate-names": [
-			"CERA CARE OPERATIONS LIMITED"
-		],
-		"total": 413712.44,
-		"monthly": {
-			"2020-04": {"total":30461.72, "Adult Services":30461.72},
-			"2020-05": {"total":17750.73, "Adult Services":17750.73},
-			"2020-06": {"total":25368.68, "Adult Services":25368.68},
-			"2020-07": {"total":15272.66, "Adult Services":15272.66},
-			"2020-08": {"total":19309.04, "Adult Services":19309.04},
-			"2020-09": {"total":11788.02, "Adult Services":11788.02},
-			"2020-10": {"total":13404.14, "Adult Services":13404.14},
-			"2020-11": {"total":13378.27, "Adult Services":13378.27},
-			"2020-12": {"total":11065.65, "Adult Services":11065.65},
-			"2021-01": {"total":15943.15, "Adult Services":15943.15},
-			"2021-02": {"total":4210.44, "Adult Services":4210.44},
-			"2021-03": {"total":30084.82, "Adult Services":30084.82},
-			"2021-04": {"total":15825.99, "Adult Services":15825.99},
-			"2021-06": {"total":39454.28, "Adult Services":39454.28},
-			"2021-07": {"total":39613.60, "Adult Services":39613.60},
-			"2021-08": {"total":31154.09, "Adult Services":31154.09},
-			"2021-09": {"total":25124.91, "Adult Services":25124.91},
-			"2021-10": {"total":4929.12, "Adult Services":4929.12},
-			"2021-11": {"total":20206.03, "Adult Services":20206.03},
-			"2021-12": {"total":29367.10, "Adult Services":29367.10}
-		}
-	},
-	"1643": {
-		"name": "CERBERUS ASSET MANAGEMENT",
-		"total": 4950,
-		"monthly": {
-			"2017-11": {"total":4950.00, "Business Services":4950.00}
-		}
-	},
-	"1644": {
-		"name": "CERBERUS ASSET MANAGEMENT LTD",
-		"alternate-names": [
-			"CERBERUS ASSET MANAGEMENT LIMITED"
-		],
-		"total": 20982.2,
-		"monthly": {
-			"2018-01": {"total":7920.00, "Business Services":7920.00},
-			"2018-02": {"total":9735.00, "Business Services":9735.00},
-			"2018-04": {"total":1950.00, "Business Services":1950.00},
-			"2018-05": {"total":1377.20, "Business Services":1377.20}
-		}
-	},
-	"1645": {
-		"name": "CERT LTD",
-		"total": 25434.22,
-		"monthly": {
-			"2021-04": {"total":2003.39, "Business Services":2003.39},
-			"2021-05": {"total":8669.95, "Business Services":8669.95},
-			"2021-06": {"total":4778.31, "Business Services":4778.31},
-			"2021-09": {"total":9982.57, "Business Services":9982.57}
-		}
-	},
-	"1646": {
-		"name": "CERTAS ENERGY UK LIMITED T/A BAYFORD OIL",
-		"total": 5616878.68999999,
-		"monthly": {
-			"2018-02": {"total":59976.47, "Transport":59976.47},
-			"2018-03": {"total":136627.45, "Transport":136627.45},
-			"2018-04": {"total":53956.59, "Transport":53956.59},
-			"2018-05": {"total":151497.98, "Transport":151497.98},
-			"2018-06": {"total":159649.10, "Transport":159649.10},
-			"2018-07": {"total":128306.98, "Transport":128306.98},
-			"2018-08": {"total":132379.79, "Transport":132379.79},
-			"2018-09": {"total":101193.52, "Transport":101193.52},
-			"2018-10": {"total":159937.93, "Transport":159937.93},
-			"2018-11": {"total":143516.33, "Transport":143516.33},
-			"2018-12": {"total":114269.87, "Transport":114269.87},
-			"2019-01": {"total":101453.52, "Transport":101453.52},
-			"2019-02": {"total":187145.19, "Transport":187145.19},
-			"2019-03": {"total":76557.09, "Transport":76557.09},
-			"2019-04": {"total":107119.30, "Transport":107119.30},
-			"2019-05": {"total":134289.37, "Transport":134289.37},
-			"2019-06": {"total":135950.31, "Transport":135950.31},
-			"2019-07": {"total":112590.20, "Transport":112590.20},
-			"2019-08": {"total":143085.74, "Transport":143085.74},
-			"2019-09": {"total":134691.69, "Transport":134691.69},
-			"2019-10": {"total":120817.43, "Transport":120817.43},
-			"2019-11": {"total":158058.01, "Transport":158058.01},
-			"2019-12": {"total":105999.86, "Transport":105999.86},
-			"2020-01": {"total":97802.52, "Transport":97802.52},
-			"2020-02": {"total":128726.56, "Transport":128726.56},
-			"2020-03": {"total":98513.98, "Transport":98513.98},
-			"2020-04": {"total":130863.63, "Transport":130863.63},
-			"2020-05": {"total":53037.41, "Transport":53037.41},
-			"2020-06": {"total":96173.76, "Transport":96173.76},
-			"2020-07": {"total":70634.93, "Transport":70634.93},
-			"2020-08": {"total":144358.43, "Transport":144358.43},
-			"2020-09": {"total":70123.87, "Transport":70123.87},
-			"2020-10": {"total":122158.74, "Transport":122158.74},
-			"2020-11": {"total":89867.31, "Transport":89867.31},
-			"2020-12": {"total":150094.26, "Transport":150094.26},
-			"2021-01": {"total":96468.25, "Transport":96468.25},
-			"2021-02": {"total":61056.93, "Transport":61056.93},
-			"2021-03": {"total":143237.74, "Transport":143237.74},
-			"2021-04": {"total":36172.38, "Transport":36172.38},
-			"2021-05": {"total":118034.24, "Transport":118034.24},
-			"2021-06": {"total":197465.30, "Transport":197465.30},
-			"2021-07": {"total":161912.64, "Transport":161912.64},
-			"2021-08": {"total":149060.87, "Transport":149060.87},
-			"2021-09": {"total":143191.89, "Transport":143191.89},
-			"2021-10": {"total":131157.10, "Transport":131157.10},
-			"2021-11": {"total":68591.73, "Transport":68591.73},
-			"2021-12": {"total":199104.50, "Transport":199104.50}
-		}
-	},
-	"1647": {
-		"name": "CERTUSPM LTD",
-		"total": 6554.55,
-		"monthly": {
-			"2020-12": {"total":6554.55, "Property & Regeneration":6554.55}
-		}
-	},
-	"1648": {
-		"name": "CF CORPORATE FINANCE LTD",
-		"total": 1500,
-		"monthly": {
-			"2019-05": {"total":150.00, "Business Services":150.00},
-			"2019-09": {"total":150.00, "Business Services":150.00},
-			"2019-11": {"total":150.00, "Business Services":150.00},
-			"2020-01": {"total":150.00, "Business Services":150.00},
-			"2020-05": {"total":150.00, "Business Services":150.00},
-			"2020-08": {"total":150.00, "Business Services":150.00},
-			"2020-11": {"total":150.00, "Business Services":150.00},
-			"2021-02": {"total":150.00, "Business Services":150.00},
-			"2021-06": {"total":150.00, "Business Services":150.00},
-			"2021-08": {"total":150.00, "Business Services":150.00}
-		}
-	},
-	"1649": {
-		"name": "CF LANDSCAPE",
-		"total": 741,
-		"monthly": {
-			"2018-09": {"total":741.00, "Environment":741.00}
+			"2021-06": {"total":7096.15, "Culture & Sport":7096.15},
+			"2022-06": {"total":7450.95, "Culture & Sport":7450.95}
 		}
 	}
 	}
