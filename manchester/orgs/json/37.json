@@ -1,528 +1,600 @@
 {
-	"range": ["2010-12","2022-01"],
+	"range": ["2010-12","2022-05"],
 	"data": {
 	"1850": {
+		"name": "Black & Asian Association",
+		"total": 1500,
+		"monthly": {
+			"2012-04": {"total":1500.00, "Manchester Leisure":1500.00}
+		}
+	},
+	"1851": {
+		"name": "Black & Minority Ethnic Group",
+		"total": 1000,
+		"monthly": {
+			"2012-09": {"total":1000.00, "Adult Social Care":1000.00}
+		}
+	},
+	"1852": {
+		"name": "Black & White Trading Ltd",
+		"total": 648,
+		"monthly": {
+			"2014-11": {"total":648.00, "Chief Executives":648.00}
+		}
+	},
+	"1853": {
+		"name": "Black Acoustics",
+		"total": 2370.6,
+		"monthly": {
+			"2011-01": {"total":2370.60, "Childrens Services":2370.60}
+		}
+	},
+	"1854": {
+		"name": "Black Bull Fencing",
+		"total": 900,
+		"monthly": {
+			"2020-12": {"total":900.00, "Adult Social Care":900.00}
+		}
+	},
+	"1855": {
+		"name": "Black Health Agency",
+		"total": 2072466.33,
+		"monthly": {
+			"2010-12": {"total":78512.09, "Adult Social Care":23916.66, "Childrens Services":54595.43},
+			"2011-01": {"total":51984.82, "Adult Social Care":23916.66, "Childrens Services":28068.16},
+			"2011-02": {"total":82320.17, "Adult Social Care":53820.66, "Childrens Services":28499.51},
+			"2011-03": {"total":76801.62, "Adult Social Care":23916.66, "Childrens Services":52884.96},
+			"2011-04": {"total":78616.20, "Adult Social Care":76131.00, "Childrens Services":2485.20},
+			"2011-05": {"total":16554.00, "Childrens Services":16554.00},
+			"2011-06": {"total":25240.06, "Childrens Services":25240.06},
+			"2011-07": {"total":5745.16, "Childrens Services":5745.16},
+			"2011-08": {"total":46934.38, "Childrens Services":46934.38},
+			"2011-09": {"total":1200.00, "Childrens Services":1200.00},
+			"2011-10": {"total":49662.00, "Childrens Services":49662.00},
+			"2011-11": {"total":31389.61, "Childrens Services":31389.61},
+			"2011-12": {"total":84418.52, "Childrens Services":84418.52},
+			"2012-01": {"total":11990.01, "Childrens Services":11990.01},
+			"2012-02": {"total":20130.01, "Childrens Services":20130.01},
+			"2012-03": {"total":28632.08, "Childrens Services":28632.08},
+			"2012-04": {"total":47500.00, "Childrens Services":47500.00},
+			"2012-08": {"total":88707.07, "Adult Social Care":7666.67, "Childrens Services":81040.40},
+			"2012-09": {"total":37234.79, "Adult Social Care":6666.67, "Childrens Services":30568.12},
+			"2012-10": {"total":73134.00, "Adult Social Care":6666.67, "Childrens Services":66467.33},
+			"2012-11": {"total":6666.64, "Adult Social Care":6666.64},
+			"2013-01": {"total":104082.80, "Adult Social Care":19859.84, "Childrens Services":84222.96},
+			"2013-02": {"total":93870.77, "Adult Social Care":23263.01, "Childrens Services":70607.76},
+			"2013-03": {"total":23872.33, "Adult Social Care":9930.19, "Childrens Services":13942.14},
+			"2013-04": {"total":4116.44, "Adult Social Care":3264.00, "Childrens Services":852.44},
+			"2013-05": {"total":3264.00, "Adult Social Care":3264.00},
+			"2013-06": {"total":42734.22, "Adult Social Care":22102.75, "Chief Executives":16500.00, "Childrens Services":4131.47},
+			"2013-07": {"total":3264.00, "Adult Social Care":3264.00},
+			"2013-08": {"total":24024.67, "Adult Social Care":3264.00, "Childrens Services":20760.67},
+			"2013-09": {"total":28352.03, "Adult Social Care":22102.04, "Childrens Services":6249.99},
+			"2013-10": {"total":37435.37, "Adult Social Care":22102.04, "Chief Executives":8250.00, "Childrens Services":7083.33},
+			"2013-11": {"total":7486.62, "Adult Social Care":3263.29, "Childrens Services":4223.33},
+			"2013-12": {"total":5346.62, "Adult Social Care":3263.29, "Childrens Services":2083.33},
+			"2014-01": {"total":40393.47, "Adult Social Care":22102.04, "Childrens Services":18291.43},
+			"2014-02": {"total":12029.77, "Adult Social Care":7178.29, "Childrens Services":4851.48},
+			"2014-03": {"total":5346.59, "Adult Social Care":3263.26, "Childrens Services":2083.33},
+			"2014-04": {"total":12775.00, "Adult Social Care":7000.00, "Childrens Services":5775.00},
+			"2014-05": {"total":18838.75, "Adult Social Care":18838.75},
+			"2014-07": {"total":18838.75, "Adult Social Care":18838.75},
+			"2014-08": {"total":8000.00, "Childrens Services":8000.00},
+			"2014-09": {"total":27060.50, "Adult Social Care":19997.50, "Childrens Services":7063.00},
+			"2014-10": {"total":9775.00, "Childrens Services":9775.00},
+			"2014-12": {"total":28837.50, "Adult Social Care":28837.50},
+			"2015-01": {"total":34612.50, "Adult Social Care":28837.50, "Childrens Services":5775.00},
+			"2015-02": {"total":8000.00, "Adult Social Care":8000.00},
+			"2015-03": {"total":9000.00, "Adult Social Care":9000.00},
+			"2015-05": {"total":32881.25, "Adult Social Care":32881.25},
+			"2015-10": {"total":92862.50, "Adult Social Care":92862.50},
+			"2016-01": {"total":32881.25, "Adult Social Care":32881.25},
+			"2016-03": {"total":27100.00, "Adult Social Care":27100.00},
+			"2016-05": {"total":5781.25, "Adult Social Care":5781.25},
+			"2016-06": {"total":25625.00, "Adult Social Care":25625.00},
+			"2016-07": {"total":25625.00, "Adult Social Care":25625.00},
+			"2016-09": {"total":5781.25, "Adult Social Care":5781.25},
+			"2016-10": {"total":5781.25, "Adult Social Care":5781.25},
+			"2017-01": {"total":51250.00, "Adult Social Care":51250.00},
+			"2017-02": {"total":2100.00, "Adult Social Care":2100.00},
+			"2017-03": {"total":5781.25, "Adult Social Care":5781.25},
+			"2017-05": {"total":28881.25, "Adult Social Care":28881.25},
+			"2017-08": {"total":28406.25, "Adult Social Care":28406.25},
+			"2017-09": {"total":3000.00, "Adult Social Care":3000.00},
+			"2018-02": {"total":8481.25, "Adult Social Care":8481.25},
+			"2018-03": {"total":5756.25, "Adult Social Care":5756.25},
+			"2018-05": {"total":12971.90, "Adult Social Care":7189.90, "Chief Executives":5782.00},
+			"2018-08": {"total":5781.00, "Chief Executives":5781.00},
+			"2018-10": {"total":5781.00, "Chief Executives":5781.00},
+			"2019-02": {"total":5781.00, "Chief Executives":5781.00},
+			"2019-05": {"total":5782.00, "Chief Executives":5782.00},
+			"2019-06": {"total":5781.00, "Chief Executives":5781.00},
+			"2019-09": {"total":5781.00, "Chief Executives":5781.00},
+			"2019-12": {"total":5781.00, "Chief Executives":5781.00},
+			"2020-04": {"total":2890.50, "Chief Executives":2890.50},
+			"2020-05": {"total":2890.50, "Chief Executives":2890.50},
+			"2020-09": {"total":2890.50, "Chief Executives":2890.50},
+			"2021-01": {"total":3000.00, "Adult Social Care":3000.00},
+			"2021-08": {"total":36249.00, "Manchester Leisure":36249.00},
+			"2021-09": {"total":25000.00, "Adult Social Care":25000.00},
+			"2022-03": {"total":3400.00, "Adult Social Care":3400.00}
+		}
+	},
+	"1856": {
+		"name": "Black Legends Arts and Crafts",
+		"total": 2400,
+		"monthly": {
+			"2016-05": {"total":1500.00, "Regeneration Finance":1500.00},
+			"2017-08": {"total":900.00, "Manchester Leisure":900.00}
+		}
+	},
+	"1857": {
+		"name": "Black Women In Business",
+		"total": 500,
+		"monthly": {
+			"2021-02": {"total":500.00, "Chief Executives":500.00}
+		}
+	},
+	"1858": {
+		"name": "Black Women in Business/Professiona",
+		"total": 500,
+		"monthly": {
+			"2021-04": {"total":500.00, "Chief Executives":500.00}
+		}
+	},
+	"1859": {
+		"name": "Blacka Acoustics Ltd",
+		"total": 17100,
+		"monthly": {
+			"2019-07": {"total":17100.00, "Manchester Leisure":17100.00}
+		}
+	},
+	"1860": {
+		"name": "Blackbaud Europe Ltd",
+		"total": 48115.42,
+		"monthly": {
+			"2011-09": {"total":4904.59, "Manchester Leisure":4904.59},
+			"2012-09": {"total":6715.35, "Manchester Leisure":6715.35},
+			"2013-08": {"total":7055.55, "Manchester Leisure":7055.55},
+			"2014-06": {"total":1200.00, "Manchester Leisure":1200.00},
+			"2014-07": {"total":6033.09, "Manchester Leisure":6033.09},
+			"2015-08": {"total":4969.74, "Manchester Leisure":4969.74},
+			"2017-02": {"total":3999.22, "Manchester Leisure":3999.22},
+			"2018-04": {"total":4199.17, "Manchester Leisure":4199.17},
+			"2018-09": {"total":4409.13, "Manchester Leisure":4409.13},
+			"2019-11": {"total":4629.58, "Manchester Leisure":4629.58}
+		}
+	},
+	"1861": {
+		"name": "Blackbox-AV",
+		"total": 3197.38,
+		"monthly": {
+			"2011-08": {"total":508.38, "Manchester City Galleries":508.38},
+			"2012-11": {"total":2689.00, "Manchester City Galleries":2689.00}
+		}
+	},
+	"1862": {
+		"name": "Blackburn & Co Solicitors",
+		"total": 11500,
+		"monthly": {
+			"2013-12": {"total":11500.00, "Corporate Services":11500.00}
+		}
+	},
+	"1863": {
+		"name": "Blackburn With Darwen Borough Counc",
+		"total": 2290037.91,
+		"monthly": {
+			"2010-12": {"total":115292.70, "Adult Social Care":115292.70},
+			"2011-02": {"total":111059.34, "Adult Social Care":111059.34},
+			"2011-03": {"total":103946.79, "Adult Social Care":103946.79},
+			"2011-04": {"total":8139.00, "Chief Executives":8139.00},
+			"2011-05": {"total":56894.99, "Adult Social Care":56894.99},
+			"2011-06": {"total":63844.17, "Adult Social Care":58261.17, "Manchester Leisure":5583.00},
+			"2011-07": {"total":60836.35, "Adult Social Care":60836.35},
+			"2011-08": {"total":79178.14, "Adult Social Care":61178.14, "Childrens Services":9000.00, "Manchester Leisure":9000.00},
+			"2011-09": {"total":128746.01, "Adult Social Care":128746.01},
+			"2011-10": {"total":64935.36, "Adult Social Care":64935.36},
+			"2011-11": {"total":66351.91, "Adult Social Care":66351.91},
+			"2011-12": {"total":63230.51, "Adult Social Care":63230.51},
+			"2012-02": {"total":131245.79, "Adult Social Care":131245.79},
+			"2012-03": {"total":135014.58, "Adult Social Care":133007.35, "Childrens Services":2007.23},
+			"2012-05": {"total":68467.96, "Adult Social Care":68467.96},
+			"2012-06": {"total":66136.04, "Adult Social Care":66136.04},
+			"2012-07": {"total":64981.78, "Adult Social Care":64981.78},
+			"2012-08": {"total":62568.46, "Adult Social Care":62568.46},
+			"2012-09": {"total":61246.47, "Adult Social Care":61246.47},
+			"2012-11": {"total":53777.38, "Adult Social Care":53777.38},
+			"2013-01": {"total":81561.80, "Adult Social Care":81561.80},
+			"2013-02": {"total":43135.41, "Adult Social Care":43135.41},
+			"2013-03": {"total":105018.60, "Adult Social Care":105018.60},
+			"2013-05": {"total":49259.64, "Adult Social Care":32321.04, "Childrens Services":16938.60},
+			"2014-04": {"total":24475.53, "Childrens Services":24475.53},
+			"2014-06": {"total":3334.00, "Childrens Services":3334.00},
+			"2014-07": {"total":11888.11, "Childrens Services":11888.11},
+			"2014-10": {"total":11888.11, "Childrens Services":11888.11},
+			"2015-02": {"total":11888.11, "Adult Social Care":11888.11},
+			"2015-06": {"total":36944.40, "Adult Social Care":36944.40},
+			"2015-08": {"total":3300.00, "Adult Social Care":3300.00},
+			"2015-09": {"total":7390.24, "Adult Social Care":7390.24},
+			"2015-12": {"total":7172.88, "Adult Social Care":7172.88},
+			"2016-02": {"total":7172.88, "Adult Social Care":7172.88},
+			"2016-03": {"total":3300.00, "Adult Social Care":3300.00},
+			"2016-07": {"total":18000.00, "Adult Social Care":18000.00},
+			"2016-11": {"total":64670.76, "Adult Social Care":64670.76},
+			"2017-01": {"total":7890.12, "Adult Social Care":7890.12},
+			"2017-03": {"total":14040.12, "Adult Social Care":14040.12},
+			"2017-04": {"total":5268.00, "Adult Social Care":5268.00},
+			"2017-05": {"total":19640.00, "Adult Social Care":19640.00},
+			"2017-07": {"total":9508.75, "Adult Social Care":9508.75},
+			"2017-10": {"total":9508.75, "Manchester Leisure":9508.75},
+			"2018-04": {"total":21982.71, "Adult Social Care":12473.96, "Manchester Leisure":9508.75},
+			"2018-05": {"total":9508.75, "Manchester Leisure":9508.75},
+			"2018-08": {"total":11812.00, "Manchester Leisure":11812.00},
+			"2018-11": {"total":11812.50, "Regeneration Finance":11812.50},
+			"2019-04": {"total":31905.00, "Adult Social Care":8280.00, "Regeneration Finance":23625.00},
+			"2019-05": {"total":3300.00, "Adult Social Care":3300.00},
+			"2019-08": {"total":16250.00, "Regeneration Finance":16250.00},
+			"2020-04": {"total":48750.00, "Regeneration Finance":48750.00},
+			"2020-05": {"total":3000.00, "Regeneration Finance":3000.00},
+			"2020-10": {"total":9567.01, "Childrens & Education Services":9567.01}
+		}
+	},
+	"1864": {
+		"name": "Blackburns Of Bolton Ltd",
+		"total": 640,
+		"monthly": {
+			"2011-02": {"total":640.00, "Corporate Services":640.00}
+		}
+	},
+	"1865": {
+		"name": "Blackett Hart & Pratt Law",
+		"total": 500,
+		"monthly": {
+			"2017-08": {"total":500.00, "Housing Revenue Account":500.00}
+		}
+	},
+	"1866": {
+		"name": "Blackhouse Jones Limited Client Acc",
+		"total": 42000,
+		"monthly": {
+			"2020-12": {"total":42000.00, "Environment and Operations":42000.00}
+		}
+	},
+	"1867": {
+		"name": "Blackhurst Budd LLP",
+		"total": 280800,
+		"monthly": {
+			"2012-03": {"total":280800.00, "Housing General Fund":280800.00}
+		}
+	},
+	"1868": {
+		"name": "Blackhurst Budd LLp",
+		"total": 561600,
+		"monthly": {
+			"2012-03": {"total":561600.00, "Housing General Fund":561600.00}
+		}
+	},
+	"1869": {
+		"name": "Blackley & North M/c Athletics",
+		"total": 10155.41,
+		"monthly": {
+			"2013-03": {"total":10155.41, "Regeneration Finance":10155.41}
+		}
+	},
+	"1870": {
+		"name": "Blackley & North Manchester",
+		"total": 1450,
+		"monthly": {
+			"2011-11": {"total":1450.00, "Manchester Leisure":1450.00}
+		}
+	},
+	"1871": {
+		"name": "Blackley & North Manchester Account",
+		"total": 1000,
+		"monthly": {
+			"2012-02": {"total":1000.00, "Manchester Leisure":1000.00}
+		}
+	},
+	"1872": {
+		"name": "Blackley Age Friendly Group",
+		"total": 1500,
+		"monthly": {
+			"2012-11": {"total":1500.00, "Regeneration Finance":1500.00}
+		}
+	},
+	"1873": {
+		"name": "Blackley Cemetery",
+		"total": 2000,
+		"monthly": {
+			"2022-03": {"total":2000.00, "Hospitality + Trading Services":2000.00}
+		}
+	},
+	"1874": {
+		"name": "Blackley Cricket Club",
+		"total": 31998.99,
+		"monthly": {
+			"2013-03": {"total":4500.00, "Regeneration Finance":4500.00},
+			"2019-08": {"total":1000.00, "Manchester Leisure":1000.00},
+			"2020-03": {"total":22847.99, "Manchester Leisure":22847.99},
+			"2021-05": {"total":3651.00, "Manchester Leisure":3651.00}
+		}
+	},
+	"1875": {
+		"name": "Blackley Football Club",
+		"total": 637,
+		"monthly": {
+			"2022-04": {"total":637.00, "Manchester Leisure":637.00}
+		}
+	},
+	"1876": {
+		"name": "Blackley In Bloom",
+		"total": 5386.6,
+		"monthly": {
+			"2011-06": {"total":2693.30, "Chief Executives":2693.30},
+			"2011-08": {"total":2693.30, "Chief Executives":2693.30}
+		}
+	},
+	"1877": {
+		"name": "Blackley Manor Village Day Nursery",
+		"total": 1192,
+		"monthly": {
+			"2013-05": {"total":608.00, "Regeneration Finance":608.00},
+			"2013-06": {"total":584.00, "Regeneration Finance":584.00}
+		}
+	},
+	"1878": {
+		"name": "Blackley Prize Band",
+		"total": 6000,
+		"monthly": {
+			"2012-09": {"total":3000.00, "Regeneration Finance":3000.00},
+			"2019-04": {"total":3000.00, "Manchester Leisure":3000.00}
+		}
+	},
+	"1879": {
+		"name": "Blackley Village Residents",
+		"total": 9568.21,
+		"monthly": {
+			"2011-10": {"total":4336.80, "Chief Executives":4336.80},
+			"2012-01": {"total":3008.53, "Regeneration Finance":3008.53},
+			"2013-01": {"total":2222.88, "Regeneration Finance":2222.88}
+		}
+	},
+	"1880": {
+		"name": "Blackley Village Residents Society",
+		"total": 1964,
+		"monthly": {
+			"2017-06": {"total":1964.00, "Manchester Leisure":1964.00}
+		}
+	},
+	"1881": {
+		"name": "Blackley Volley Ball Satelite Club",
+		"total": 1500,
+		"monthly": {
+			"2014-11": {"total":1500.00, "Manchester Leisure":1500.00}
+		}
+	},
+	"1882": {
+		"name": "Blackley in Bloom",
+		"total": 13460.22,
+		"monthly": {
+			"2013-04": {"total":685.22, "Regeneration Finance":685.22},
+			"2014-01": {"total":1500.00, "Regeneration Finance":1500.00},
+			"2015-06": {"total":1500.00, "Regeneration Finance":1500.00},
+			"2016-06": {"total":550.00, "Manchester Leisure":550.00},
+			"2017-05": {"total":4000.00, "Manchester Leisure":4000.00},
+			"2017-09": {"total":575.00, "Manchester Leisure":575.00},
+			"2018-03": {"total":1000.00, "Manchester Leisure":1000.00},
+			"2018-04": {"total":1500.00, "Manchester Leisure":1500.00},
+			"2021-03": {"total":2150.00, "Manchester Leisure":2150.00},
+			"2021-04": {"total":-2150.00, "Manchester Leisure":-2150.00},
+			"2021-06": {"total":2150.00, "Manchester Leisure":2150.00}
+		}
+	},
+	"1883": {
+		"name": "Blackpool Borough Council",
+		"total": 95200.14,
+		"monthly": {
+			"2012-01": {"total":900.00, "Environment and Operations":900.00},
+			"2012-03": {"total":28068.00, "Childrens Services":27168.00, "Environment and Operations":900.00},
+			"2015-10": {"total":10000.00, "Manchester Leisure":10000.00},
+			"2016-02": {"total":18000.00, "Adult Social Care":18000.00},
+			"2016-03": {"total":28729.54, "Adult Social Care":9000.00, "Manchester Leisure":19729.54},
+			"2016-08": {"total":1650.00, "Manchester Leisure":1650.00},
+			"2018-11": {"total":1500.00, "Corporate Services":1500.00},
+			"2019-02": {"total":539.35, "Corporate Services":539.35},
+			"2019-03": {"total":539.35, "Corporate Services":539.35},
+			"2019-09": {"total":3473.90, "Corporate Services":3473.90},
+			"2020-08": {"total":1800.00, "Corporate Services":1800.00}
+		}
+	},
+	"1884": {
+		"name": "Blackpool Council",
+		"total": 10976.37,
+		"monthly": {
+			"2017-03": {"total":1160.00, "Adult Social Care":1160.00},
+			"2017-06": {"total":1650.00, "Manchester Leisure":1650.00},
+			"2017-08": {"total":1395.00, "Manchester Leisure":1395.00},
+			"2018-05": {"total":539.35, "Corporate Services":539.35},
+			"2019-05": {"total":1500.00, "Corporate Services":1500.00},
+			"2021-04": {"total":4732.02, "Manchester Leisure":4732.02}
+		}
+	},
+	"1885": {
+		"name": "Blackpool Teaching Hospitals NHS FT",
+		"total": 30791.51,
+		"monthly": {
+			"2016-11": {"total":1644.00, "Adult Social Care":1644.00},
+			"2016-12": {"total":3517.04, "Adult Social Care":3517.04},
+			"2017-02": {"total":548.00, "Adult Social Care":548.00},
+			"2017-03": {"total":822.00, "Adult Social Care":822.00},
+			"2017-04": {"total":2192.00, "Adult Social Care":2192.00},
+			"2017-07": {"total":959.00, "Adult Social Care":959.00},
+			"2017-08": {"total":6101.85, "Adult Social Care":6101.85},
+			"2017-09": {"total":929.62, "Adult Social Care":929.62},
+			"2017-10": {"total":1309.00, "Adult Social Care":1309.00},
+			"2017-11": {"total":742.00, "Adult Social Care":742.00},
+			"2018-02": {"total":1412.00, "Adult Social Care":1412.00},
+			"2018-05": {"total":1247.00, "Adult Social Care":1247.00},
+			"2018-07": {"total":546.00, "Adult Social Care":546.00},
+			"2018-08": {"total":804.00, "Adult Social Care":804.00},
+			"2019-02": {"total":2226.00, "Adult Social Care":2226.00},
+			"2019-07": {"total":505.00, "Adult Social Care":505.00},
+			"2019-08": {"total":1113.00, "Adult Social Care":1113.00},
+			"2019-11": {"total":1010.00, "Adult Social Care":1010.00},
+			"2020-10": {"total":3164.00, "Adult Social Care":3164.00}
+		}
+	},
+	"1886": {
+		"name": "Blacks Solicitors",
+		"total": 750,
+		"monthly": {
+			"2019-09": {"total":750.00, "Housing Revenue Account":750.00}
+		}
+	},
+	"1887": {
+		"name": "Blackstone Chambers",
+		"total": 66851.67,
+		"monthly": {
+			"2013-04": {"total":3450.00, "Adult Social Care":3450.00},
+			"2013-05": {"total":691.67, "Adult Social Care":691.67},
+			"2013-06": {"total":8375.00, "Adult Social Care":8375.00},
+			"2013-07": {"total":7725.00, "Adult Social Care":7725.00},
+			"2013-09": {"total":19425.00, "Adult Social Care":1925.00, "Chief Executives":17500.00},
+			"2013-11": {"total":1585.00, "Adult Social Care":1585.00},
+			"2014-03": {"total":1150.00, "Adult Social Care":1150.00},
+			"2015-11": {"total":4950.00, "Chief Executives":4950.00},
+			"2017-02": {"total":5675.00, "Chief Executives":5675.00},
+			"2020-05": {"total":13825.00, "Chief Executives":13825.00}
+		}
+	},
+	"1888": {
+		"name": "Blackstone Computer Services Ltd",
+		"total": 32787.5,
+		"monthly": {
+			"2011-01": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2011-05": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2011-07": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2011-12": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2012-01": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2012-06": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2012-08": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2013-01": {"total":1525.00, "Hospitality + Trading Services":1525.00},
+			"2013-06": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2013-10": {"total":1525.00, "Hospitality + Trading Services":1525.00},
+			"2014-03": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2014-05": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2014-09": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2014-10": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2015-03": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2015-06": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2015-09": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2015-11": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2016-02": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2016-04": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2016-07": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2016-11": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2017-01": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2017-04": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2017-08": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2017-11": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2018-02": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2018-05": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2018-08": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2018-10": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2019-02": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2019-04": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2019-07": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2019-09": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2020-01": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2020-04": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2020-07": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2020-10": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2020-12": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2021-04": {"total":762.50, "Hospitality + Trading Services":762.50},
+			"2021-07": {"total":762.50, "Hospitality + Trading Services":762.50}
+		}
+	},
+	"1889": {
+		"name": "Blackstone East Ltd",
+		"total": 1180,
+		"monthly": {
+			"2018-06": {"total":1180.00, "Adult Social Care":1180.00}
+		}
+	},
+	"1890": {
+		"name": "Blackstone Es",
+		"total": 2300,
+		"monthly": {
+			"2022-05": {"total":2300.00, "Adult Social Care":2300.00}
+		}
+	},
+	"1891": {
+		"name": "Blackstone Solicitors",
+		"total": 3020.32,
+		"monthly": {
+			"2012-09": {"total":3020.32, "Adult Social Care":3020.32}
+		}
+	},
+	"1892": {
+		"name": "Blackthorne Legal Support Services",
+		"total": 3226,
+		"monthly": {
+			"2015-04": {"total":558.00, "Chief Executives":558.00},
+			"2015-05": {"total":558.00, "Chief Executives":558.00},
+			"2016-12": {"total":670.00, "Chief Executives":670.00},
+			"2018-03": {"total":1440.00, "Chief Executives":1440.00}
+		}
+	},
+	"1893": {
+		"name": "Blackwell Publishers Ltd-Uk",
+		"total": 1365.3,
+		"monthly": {
+			"2021-05": {"total":1365.30, "Adult Social Care":1365.30}
+		}
+	},
+	"1894": {
+		"name": "Blain Southern Ltd",
+		"alternate-names": [
+			"Blain Southern Limited"
+		],
+		"total": 7200,
+		"monthly": {
+			"2014-01": {"total":7200.00, "Manchester Leisure":7200.00}
+		}
+	},
+	"1895": {
+		"name": "Blair Project Ltd",
+		"total": 12500,
+		"monthly": {
+			"2021-03": {"total":12500.00, "Regeneration Finance":12500.00}
+		}
+	},
+	"1896": {
 		"name": "Blairs Road Neighbours Group",
 		"total": 1560,
 		"monthly": {
 			"2021-04": {"total":1560.00, "Manchester Leisure":1560.00}
 		}
 	},
-	"1851": {
+	"1897": {
 		"name": "Blaise Saint Maurice",
 		"total": 537.32,
 		"monthly": {
 			"2014-11": {"total":537.32, "Manchester Leisure":537.32}
 		}
 	},
-	"1852": {
+	"1898": {
 		"name": "Blaise Winstanley & I Aveson",
 		"total": 850,
 		"monthly": {
 			"2018-09": {"total":850.00, "Adult Social Care":850.00}
 		}
 	},
-	"1853": {
+	"1899": {
 		"name": "Blaise Winstanley/I Aveson",
 		"total": 850,
 		"monthly": {
 			"2018-09": {"total":850.00, "Adult Social Care":850.00}
-		}
-	},
-	"1854": {
-		"name": "Blake Morgan LLp",
-		"total": 2747.5,
-		"monthly": {
-			"2021-06": {"total":2747.50, "Chief Executives":2747.50}
-		}
-	},
-	"1855": {
-		"name": "Blaser Mills LLP",
-		"total": 2637.5,
-		"monthly": {
-			"2016-01": {"total":2637.50, "Environment and Operations":2637.50}
-		}
-	},
-	"1856": {
-		"name": "Blastaway Industrial Cleaning Ltd",
-		"total": 1700,
-		"monthly": {
-			"2020-04": {"total":1700.00, "Manchester Leisure":1700.00}
-		}
-	},
-	"1857": {
-		"name": "Blaze Marketing Ltd",
-		"alternate-names": [
-			"Blaze Marketing Limited"
-		],
-		"total": 9300,
-		"monthly": {
-			"2016-08": {"total":4100.00, "Regeneration Finance":4100.00},
-			"2016-10": {"total":5200.00, "Regeneration Finance":5200.00}
-		}
-	},
-	"1858": {
-		"name": "Blazie",
-		"total": 13027,
-		"monthly": {
-			"2012-01": {"total":8207.00, "Corporate Services":8207.00},
-			"2016-12": {"total":1825.00, "Chief Executives":1825.00},
-			"2020-03": {"total":2995.00, "Corporate Services":2995.00}
-		}
-	},
-	"1859": {
-		"name": "Bleep (UK) Plc",
-		"total": 8644.5,
-		"monthly": {
-			"2018-05": {"total":2284.00, "Manchester Leisure":2284.00},
-			"2019-03": {"total":3602.50, "Manchester Leisure":3602.50},
-			"2019-08": {"total":1379.00, "Manchester Leisure":1379.00},
-			"2020-08": {"total":1379.00, "Manchester Leisure":1379.00}
-		}
-	},
-	"1860": {
-		"name": "Bleep 2000 (Computers) Ltd",
-		"total": 18154.7,
-		"monthly": {
-			"2011-05": {"total":2120.00, "Chief Executives":2120.00},
-			"2012-05": {"total":2120.00, "Manchester Leisure":2120.00},
-			"2013-05": {"total":2120.00, "Manchester Leisure":2120.00},
-			"2013-08": {"total":2658.70, "Manchester Leisure":2658.70},
-			"2014-05": {"total":2284.00, "Manchester Leisure":2284.00},
-			"2015-05": {"total":2284.00, "Manchester Leisure":2284.00},
-			"2016-05": {"total":2284.00, "Manchester Leisure":2284.00},
-			"2017-05": {"total":2284.00, "Manchester Leisure":2284.00}
-		}
-	},
-	"1861": {
-		"name": "Blessed John Henry Newman",
-		"total": 12438,
-		"monthly": {
-			"2019-11": {"total":2430.00, "Adult Social Care":2430.00},
-			"2020-01": {"total":1191.00, "Adult Social Care":1191.00},
-			"2020-05": {"total":1985.00, "Childrens & Education Services":1985.00},
-			"2020-12": {"total":1588.00, "Childrens & Education Services":1588.00},
-			"2021-01": {"total":1191.00, "Childrens & Education Services":1191.00},
-			"2021-06": {"total":1985.00, "Childrens & Education Services":1985.00},
-			"2021-08": {"total":2068.00, "Childrens & Education Services":2068.00}
-		}
-	},
-	"1862": {
-		"name": "Blessed John Henry Newman RC Colleg",
-		"total": 19632,
-		"monthly": {
-			"2019-09": {"total":19632.00, "Adult Social Care":19632.00}
-		}
-	},
-	"1863": {
-		"name": "Blessed Thomas Holford School",
-		"total": 92206.91,
-		"monthly": {
-			"2013-10": {"total":1501.00, "Childrens Services":1501.00},
-			"2014-05": {"total":6571.00, "Childrens Services":6571.00},
-			"2015-01": {"total":9630.00, "Childrens Services":9630.00},
-			"2016-04": {"total":10965.00, "Adult Social Care":10965.00},
-			"2016-10": {"total":7222.00, "Adult Social Care":7222.00},
-			"2017-01": {"total":3723.33, "Adult Social Care":3723.33},
-			"2017-07": {"total":5867.00, "Adult Social Care":5867.00},
-			"2018-03": {"total":7919.33, "Adult Social Care":7919.33},
-			"2019-02": {"total":13803.25, "Adult Social Care":13803.25},
-			"2019-09": {"total":6881.00, "Adult Social Care":6881.00},
-			"2020-02": {"total":2293.00, "Adult Social Care":2293.00},
-			"2020-05": {"total":3823.00, "Childrens & Education Services":3823.00},
-			"2020-11": {"total":2295.00, "Childrens & Education Services":2295.00},
-			"2021-03": {"total":1721.00, "Childrens & Education Services":1721.00},
-			"2021-06": {"total":2869.00, "Childrens & Education Services":2869.00},
-			"2021-11": {"total":2295.00, "Childrens & Education Services":2295.00},
-			"2022-01": {"total":2828.00, "Childrens & Education Services":2828.00}
-		}
-	},
-	"1864": {
-		"name": "Blitz Communications Ltd",
-		"total": 55471.27,
-		"monthly": {
-			"2011-02": {"total":1316.87, "Chief Executives":1316.87},
-			"2011-06": {"total":11116.27, "Chief Executives":11116.27},
-			"2012-05": {"total":2462.50, "Chief Executives":2462.50},
-			"2013-01": {"total":9113.03, "Chief Executives":9113.03},
-			"2013-07": {"total":1860.00, "GMIST (Greater Mcr Integrated)":1860.00},
-			"2014-02": {"total":1417.05, "Chief Executives":1417.05},
-			"2014-03": {"total":560.00, "Chief Executives":560.00},
-			"2014-06": {"total":1050.23, "Chief Executives":1050.23},
-			"2015-08": {"total":750.00, "Regeneration Finance":750.00},
-			"2016-05": {"total":560.80, "Chief Executives":560.80},
-			"2016-08": {"total":4429.28, "Chief Executives":4429.28},
-			"2017-05": {"total":5753.34, "Chief Executives":5753.34},
-			"2017-08": {"total":3038.30, "Chief Executives":3038.30},
-			"2018-06": {"total":840.00, "Chief Executives":840.00},
-			"2019-06": {"total":7653.60, "Chief Executives":7653.60},
-			"2019-07": {"total":1120.00, "Chief Executives":1120.00},
-			"2019-11": {"total":1115.00, "Chief Executives":1115.00},
-			"2020-03": {"total":1315.00, "Manchester Leisure":1315.00}
-		}
-	},
-	"1865": {
-		"name": "Blooloop Ltd",
-		"total": 3500,
-		"monthly": {
-			"2021-11": {"total":3500.00, "Manchester Leisure":3500.00}
-		}
-	},
-	"1866": {
-		"name": "Bloom Hearing Specialists Ltd",
-		"total": 1995,
-		"monthly": {
-			"2018-12": {"total":1995.00, "Adult Social Care":1995.00}
-		}
-	},
-	"1867": {
-		"name": "Bloom Procurement Services",
-		"total": 71885,
-		"monthly": {
-			"2020-12": {"total":52090.00, "Housing Revenue Account":52090.00},
-			"2021-01": {"total":19795.00, "Housing Revenue Account":19795.00}
-		}
-	},
-	"1868": {
-		"name": "Bloomers Solicitors",
-		"total": 12500,
-		"monthly": {
-			"2014-09": {"total":12500.00, "Environment and Operations":12500.00}
-		}
-	},
-	"1869": {
-		"name": "Blooms Baubles & Bows",
-		"total": 887,
-		"monthly": {
-			"2013-05": {"total":887.00, "Manchester Leisure":887.00}
-		}
-	},
-	"1870": {
-		"name": "Blossom",
-		"total": 21472.5,
-		"monthly": {
-			"2021-12": {"total":21472.50, "Manchester Leisure":21472.50}
-		}
-	},
-	"1871": {
-		"name": "Blue Apron Transport Ltd",
-		"total": 800,
-		"monthly": {
-			"2015-04": {"total":800.00, "Manchester Leisure":800.00}
-		}
-	},
-	"1872": {
-		"name": "Blue Arrow Ltd",
-		"total": 115039.34,
-		"monthly": {
-			"2010-12": {"total":8202.04, "Chief Executives":8202.04},
-			"2011-01": {"total":4194.74, "Chief Executives":4194.74},
-			"2011-02": {"total":4519.32, "Chief Executives":4519.32},
-			"2011-03": {"total":2010.48, "Chief Executives":2010.48},
-			"2011-04": {"total":670.16, "Chief Executives":670.16},
-			"2011-06": {"total":4610.39, "Chief Executives":4610.39},
-			"2011-07": {"total":5595.36, "Chief Executives":5595.36},
-			"2011-08": {"total":3307.29, "Chief Executives":3307.29},
-			"2011-09": {"total":3842.30, "Chief Executives":3842.30},
-			"2011-10": {"total":2307.47, "Chief Executives":2307.47},
-			"2011-11": {"total":9002.35, "Chief Executives":9002.35},
-			"2011-12": {"total":8016.75, "Chief Executives":8016.75},
-			"2012-01": {"total":6484.71, "Chief Executives":6484.71},
-			"2012-02": {"total":5962.29, "Chief Executives":5962.29},
-			"2012-03": {"total":4429.82, "Chief Executives":4429.82},
-			"2012-04": {"total":6332.22, "Chief Executives":6332.22},
-			"2012-05": {"total":3491.94, "Chief Executives":2971.87, "Childrens Services":520.07},
-			"2012-06": {"total":2979.39, "Chief Executives":2979.39},
-			"2012-07": {"total":1514.48, "Chief Executives":1514.48},
-			"2012-08": {"total":2480.31, "Chief Executives":1097.28, "Childrens Services":1383.03},
-			"2012-09": {"total":1588.49, "Chief Executives":1588.49},
-			"2013-01": {"total":5335.23, "Chief Executives":4735.15, "Childrens Services":600.08},
-			"2013-02": {"total":10424.78, "Chief Executives":9750.41, "Childrens Services":674.37},
-			"2013-05": {"total":4482.79, "Chief Executives":541.44, "Childrens Services":3941.35},
-			"2013-06": {"total":3254.24, "Chief Executives":3254.24}
-		}
-	},
-	"1873": {
-		"name": "Blue Arrow Traffic Management Ltd",
-		"total": 2535,
-		"monthly": {
-			"2015-02": {"total":2535.00, "Environment and Operations":2535.00}
-		}
-	},
-	"1874": {
-		"name": "Blue Book Artist Management LTD",
-		"total": 1500,
-		"monthly": {
-			"2021-08": {"total":1500.00, "Regeneration Finance":1500.00}
-		}
-	},
-	"1875": {
-		"name": "Blue Book Artist Management Ltd",
-		"total": 1500,
-		"monthly": {
-			"2021-05": {"total":1500.00, "Regeneration Finance":1500.00}
-		}
-	},
-	"1876": {
-		"name": "Blue Cooling.Co.uk",
-		"total": 516.52,
-		"monthly": {
-			"2011-03": {"total":516.52, "Childrens Services":516.52}
-		}
-	},
-	"1877": {
-		"name": "Blue Diamond Uk Ltd",
-		"total": 840.81,
-		"monthly": {
-			"2019-09": {"total":840.81, "Manchester Leisure":840.81}
-		}
-	},
-	"1878": {
-		"name": "Blue Dog Property 2 Ltd",
-		"total": 2380918.99,
-		"monthly": {
-			"2017-12": {"total":134459.83, "Corporate Services":134459.83},
-			"2018-02": {"total":134429.52, "Corporate Services":134429.52},
-			"2018-04": {"total":133087.91, "Corporate Services":133087.91},
-			"2018-05": {"total":127684.08, "Corporate Services":127684.08},
-			"2018-06": {"total":239283.17, "Corporate Services":239283.17},
-			"2018-07": {"total":202739.46, "Corporate Services":202739.46},
-			"2018-08": {"total":179496.45, "Corporate Services":179496.45},
-			"2018-09": {"total":174506.02, "Corporate Services":174506.02},
-			"2018-10": {"total":688819.75, "Corporate Services":688819.75},
-			"2018-11": {"total":366412.80, "Corporate Services":366412.80}
-		}
-	},
-	"1879": {
-		"name": "Blue Marble Asset Management Ltd",
-		"total": 850,
-		"monthly": {
-			"2021-08": {"total":850.00, "Housing Revenue Account":850.00}
-		}
-	},
-	"1880": {
-		"name": "Blue Orchid Management",
-		"total": 1011739.57,
-		"monthly": {
-			"2010-12": {"total":15699.33, "Regeneration Finance":15699.33},
-			"2011-01": {"total":104484.54, "Regeneration Finance":104484.54},
-			"2011-03": {"total":26015.76, "Regeneration Finance":26015.76},
-			"2011-04": {"total":150546.15, "Regeneration Finance":150546.15},
-			"2011-06": {"total":19924.16, "Regeneration Finance":19924.16},
-			"2012-04": {"total":50503.00, "Libraries and Theatres":550.00, "Regeneration Finance":49953.00},
-			"2012-06": {"total":81042.00, "Regeneration Finance":81042.00},
-			"2012-11": {"total":75000.00, "Regeneration Finance":75000.00},
-			"2012-12": {"total":125000.00, "Regeneration Finance":125000.00},
-			"2013-04": {"total":64000.00, "Regeneration Finance":64000.00},
-			"2013-08": {"total":13422.37, "Regeneration Finance":13422.37},
-			"2014-01": {"total":19631.04, "Regeneration Finance":19631.04},
-			"2014-03": {"total":14653.47, "Regeneration Finance":14653.47},
-			"2014-05": {"total":51962.71, "Regeneration Finance":51962.71},
-			"2014-06": {"total":3000.00, "Regeneration Finance":3000.00},
-			"2014-09": {"total":28539.23, "Regeneration Finance":28539.23},
-			"2014-11": {"total":10413.22, "Regeneration Finance":10413.22},
-			"2014-12": {"total":37031.43, "Regeneration Finance":37031.43},
-			"2015-01": {"total":6446.28, "Regeneration Finance":6446.28},
-			"2015-02": {"total":32958.00, "Regeneration Finance":32958.00},
-			"2015-03": {"total":1167.88, "Regeneration Finance":1167.88},
-			"2015-07": {"total":33832.00, "Regeneration Finance":33832.00},
-			"2015-10": {"total":15000.00, "Regeneration Finance":15000.00},
-			"2015-11": {"total":15000.00, "Regeneration Finance":15000.00},
-			"2016-01": {"total":16467.00, "Regeneration Finance":16467.00}
-		}
-	},
-	"1881": {
-		"name": "Blue Sail Consulting Ltd",
-		"total": 19895,
-		"monthly": {
-			"2012-12": {"total":9947.50, "Regeneration Finance":9947.50},
-			"2013-02": {"total":9947.50, "Regeneration Finance":9947.50}
-		}
-	},
-	"1882": {
-		"name": "Blue Workshop Ltd",
-		"total": 1905,
-		"monthly": {
-			"2018-04": {"total":1165.00, "Regeneration Finance":1165.00},
-			"2018-09": {"total":740.00, "Regeneration Finance":740.00}
-		}
-	},
-	"1883": {
-		"name": "Bluefin Insurance Services Ltd",
-		"total": 2597.18,
-		"monthly": {
-			"2014-07": {"total":2597.18, "Manchester Leisure":2597.18}
-		}
-	},
-	"1884": {
-		"name": "Bluefin Solutions Ltd",
-		"alternate-names": [
-			"Bluefin Solutions Limited"
-		],
-		"total": 378244.09,
-		"monthly": {
-			"2015-02": {"total":44026.40, "Chief Executives":44026.40},
-			"2015-03": {"total":11174.00, "Chief Executives":11174.00},
-			"2015-04": {"total":29590.00, "Corporate Services":29590.00},
-			"2017-03": {"total":44100.00, "Chief Executives":44100.00},
-			"2017-04": {"total":75544.35, "Chief Executives":75544.35},
-			"2017-05": {"total":32100.00, "Chief Executives":32100.00},
-			"2017-06": {"total":49250.00, "Chief Executives":49250.00},
-			"2017-08": {"total":33324.34, "Chief Executives":33324.34},
-			"2017-12": {"total":41425.00, "Chief Executives":41425.00},
-			"2018-02": {"total":10350.00, "Chief Executives":10350.00},
-			"2018-03": {"total":5000.00, "Chief Executives":5000.00},
-			"2018-04": {"total":2360.00, "Chief Executives":2360.00}
-		}
-	},
-	"1885": {
-		"name": "Bluegroup International Ltd",
-		"total": 91279.14,
-		"monthly": {
-			"2010-12": {"total":7056.95, "Chief Executives":7056.95},
-			"2011-01": {"total":11433.00, "Chief Executives":11433.00},
-			"2011-02": {"total":5661.00, "Chief Executives":5661.00},
-			"2011-03": {"total":9590.40, "Chief Executives":9590.40},
-			"2011-04": {"total":4835.16, "Chief Executives":4835.16},
-			"2011-05": {"total":6099.90, "Chief Executives":6099.90},
-			"2011-06": {"total":6360.00, "Chief Executives":6360.00},
-			"2011-07": {"total":11673.70, "Chief Executives":11673.70},
-			"2011-08": {"total":6625.50, "Chief Executives":6625.50},
-			"2011-09": {"total":3843.00, "Chief Executives":3843.00},
-			"2011-10": {"total":2882.25, "Chief Executives":2882.25},
-			"2011-11": {"total":4611.60, "Chief Executives":4611.60},
-			"2011-12": {"total":3843.00, "Chief Executives":3843.00},
-			"2012-01": {"total":4227.30, "Chief Executives":4227.30},
-			"2012-02": {"total":2536.38, "Chief Executives":2536.38}
-		}
-	},
-	"1886": {
-		"name": "Blueindale Ltd",
-		"alternate-names": [
-			"Blueindale Ltd."
-		],
-		"total": 27604.57,
-		"monthly": {
-			"2013-09": {"total":27604.57, "Corporate Services":27604.57}
-		}
-	},
-	"1887": {
-		"name": "Bluemantle Ltd",
-		"total": 4000,
-		"monthly": {
-			"2013-04": {"total":4000.00, "Regeneration Finance":4000.00}
-		}
-	},
-	"1888": {
-		"name": "Bluenuit Limited t/a",
-		"total": 97826.35,
-		"monthly": {
-			"2019-04": {"total":3736.02, "Adult Social Care":3736.02},
-			"2019-05": {"total":2981.34, "Adult Social Care":2981.34},
-			"2019-06": {"total":1590.18, "Adult Social Care":1590.18},
-			"2019-08": {"total":1070.34, "Adult Social Care":1070.34},
-			"2019-09": {"total":12108.19, "Adult Social Care":12108.19},
-			"2019-11": {"total":7917.70, "Adult Social Care":7917.70},
-			"2020-02": {"total":7977.05, "Adult Social Care":7977.05},
-			"2020-03": {"total":5762.28, "Adult Social Care":5762.28},
-			"2020-04": {"total":5652.05, "Adult Social Care":5652.05},
-			"2020-05": {"total":516.48, "Adult Social Care":516.48},
-			"2020-08": {"total":3307.15, "Adult Social Care":3307.15},
-			"2020-09": {"total":8404.71, "Adult Social Care":8404.71},
-			"2020-10": {"total":5279.00, "Adult Social Care":5279.00},
-			"2021-01": {"total":7510.11, "Adult Social Care":7510.11},
-			"2021-05": {"total":9041.24, "Adult Social Care":9041.24},
-			"2021-07": {"total":4357.79, "Adult Social Care":4357.79},
-			"2021-10": {"total":8675.72, "Adult Social Care":8675.72},
-			"2022-01": {"total":1939.00, "Adult Social Care":1939.00}
-		}
-	},
-	"1889": {
-		"name": "Bluesky International Ltd",
-		"total": 2544,
-		"monthly": {
-			"2011-10": {"total":2544.00, "Grtr Manchester Transport Unit":2544.00}
-		}
-	},
-	"1890": {
-		"name": "Bluestone Road Allotment Society",
-		"total": 8260,
-		"monthly": {
-			"2012-09": {"total":7260.00, "Regeneration Finance":7260.00},
-			"2016-04": {"total":1000.00, "Regeneration Finance":1000.00}
-		}
-	},
-	"1891": {
-		"name": "Bmg Catering Ltd",
-		"total": 1419.35,
-		"monthly": {
-			"2012-10": {"total":1419.35, "Hospitality + Trading Services":1419.35}
-		}
-	},
-	"1892": {
-		"name": "Boards Direct",
-		"total": 765.27,
-		"monthly": {
-			"2019-10": {"total":765.27, "Adult Social Care":765.27}
-		}
-	},
-	"1893": {
-		"name": "Boardside Ltd",
-		"total": 1000,
-		"monthly": {
-			"2018-07": {"total":1000.00, "Regeneration Finance":1000.00}
-		}
-	},
-	"1894": {
-		"name": "Boardwalk Studio Ltd",
-		"total": 10000,
-		"monthly": {
-			"2016-03": {"total":10000.00, "Environment and Operations":10000.00}
-		}
-	},
-	"1895": {
-		"name": "Boat Lnae Court Ltd",
-		"total": 16860,
-		"monthly": {
-			"2020-02": {"total":16860.00, "Housing General Fund":16860.00}
-		}
-	},
-	"1896": {
-		"name": "Body Positive North West Ltd",
-		"total": 46000,
-		"monthly": {
-			"2011-01": {"total":3750.00, "Childrens Services":3750.00},
-			"2011-02": {"total":7512.50, "Chief Executives":1250.00, "Regeneration Finance":6262.50},
-			"2011-03": {"total":13775.00, "Chief Executives":1250.00, "Regeneration Finance":12525.00},
-			"2011-05": {"total":7462.50, "Chief Executives":1200.00, "Regeneration Finance":6262.50},
-			"2011-06": {"total":1250.00, "Chief Executives":1250.00},
-			"2011-07": {"total":1000.00, "Childrens Services":1000.00},
-			"2011-08": {"total":5000.00, "Chief Executives":5000.00},
-			"2011-09": {"total":1250.00, "Childrens Services":1250.00},
-			"2012-02": {"total":5000.00, "Adult Social Care":5000.00}
-		}
-	},
-	"1897": {
-		"name": "Boel Widell Henrikson",
-		"total": 1312,
-		"monthly": {
-			"2018-07": {"total":1312.00, "Manchester Leisure":1312.00}
-		}
-	},
-	"1898": {
-		"name": "Boggart Hole Clough Community",
-		"total": 2927.67,
-		"monthly": {
-			"2011-09": {"total":2171.56, "Chief Executives":2171.56},
-			"2012-03": {"total":756.11, "Regeneration Finance":756.11}
-		}
-	},
-	"1899": {
-		"name": "Bold Media Ltd",
-		"total": 1600,
-		"monthly": {
-			"2016-11": {"total":800.00, "Chief Executives":800.00},
-			"2018-12": {"total":800.00, "Chief Executives":800.00}
 		}
 	}
 	}
