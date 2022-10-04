@@ -1,46 +1,523 @@
 {
-	"range": ["2013-04","2021-05"],
+	"range": ["2013-04","2022-05"],
 	"data": {
 	"200": {
+		"name": "AIDAN BROOKS",
+		"total": 2205,
+		"monthly": {
+			"2019-08": {"total":2205.00, "GRANTS TO EXTERNAL ORGANISATIONS":2205.00}
+		}
+	},
+	"201": {
+		"name": "AIDEXCEL SUPPORT SERVICES",
+		"total": 1500,
+		"monthly": {
+			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
+		}
+	},
+	"202": {
+		"name": "AIMEDIACOMMS LTD",
+		"total": 73666,
+		"monthly": {
+			"2013-04": {"total":3245.00, "Public Affairs & Media Relations":3245.00},
+			"2013-11": {"total":4575.00, "Public Affairs & Media Relations":4575.00},
+			"2013-12": {"total":500.00, "Manage IT Services":500.00},
+			"2014-03": {"total":500.00, "Staff Training":500.00},
+			"2014-04": {"total":17025.00, "Other Professional Fees":17025.00},
+			"2014-10": {"total":4575.00, "MONITORING OF PR AND SOCIAL MEDIA":4575.00},
+			"2017-03": {"total":8675.00, "MONITORING OF PR AND SOCIAL MEDIA":4675.00, "PUBLICATIONS & PERIODICALS":4000.00},
+			"2017-11": {"total":4000.00, "DATA HOSTING EMAIL DESIGN AND TRANSMISSION INC SMS":4000.00},
+			"2018-01": {"total":4575.00, "MONITORING OF PR AND SOCIAL MEDIA":4575.00},
+			"2018-03": {"total":528.00, "MONITORING OF PR AND SOCIAL MEDIA":528.00},
+			"2018-10": {"total":4000.00, "DATA HOSTING EMAIL DESIGN AND TRANSMISSION INC SMS":4000.00},
+			"2018-11": {"total":5367.00, "MONITORING OF PR AND SOCIAL MEDIA":5367.00},
+			"2019-10": {"total":5367.00, "MONITORING OF PR AND SOCIAL MEDIA":5367.00},
+			"2020-11": {"total":5367.00, "RADIO TV PRESS POSTER CINEMA AIRTIME AND SPACE":5367.00},
+			"2021-12": {"total":5367.00, "MONITORING OF PR AND SOCIAL MEDIA":5367.00}
+		}
+	},
+	"203": {
+		"name": "AIR MONITORS LTD",
+		"total": 74160,
+		"monthly": {
+			"2014-03": {"total":4740.00, "Equipment Hire & Rental":4740.00},
+			"2014-08": {"total":7340.00, "EQUIPMENT HIRE & RENTAL":7340.00},
+			"2015-02": {"total":6470.00, "Housing & Land":6470.00},
+			"2015-07": {"total":2620.00, "BUILDING MAINTENANCE & REPAIRS":2620.00},
+			"2016-07": {"total":3995.00, "BUILDING MAINTENANCE & REPAIRS":3995.00},
+			"2017-07": {"total":4995.00, "OTHER PROFESSIONAL FEES":1000.00, "PROPERTY MANAGEMENT FEES":3995.00},
+			"2019-11": {"total":26400.00, "CONSULTANCY-PROJECT MANAGEMENT":26400.00},
+			"2020-03": {"total":17600.00, "CONSULTANCY-PROJECT MANAGEMENT":17600.00}
+		}
+	},
+	"204": {
+		"name": "AIR PRODUCTS PLC",
+		"total": 127350.71,
+		"monthly": {
+			"2016-05": {"total":7263.36, "Resources":7263.36},
+			"2017-07": {"total":89722.88, "GRANTS TO EXTERNAL ORGANISATIONS":89722.88},
+			"2019-02": {"total":30364.47, "GRANTS TO EXTERNAL ORGANISATIONS":30364.47}
+		}
+	},
+	"205": {
+		"name": "AIR QUALITY CONSULTANTS LTD",
+		"total": 488309.1,
+		"monthly": {
+			"2014-01": {"total":25000.00, "Management & Support Consultancy":25000.00},
+			"2014-10": {"total":1500.00, "MANAGEMENT & SUPPORT CONSULTANCY":1500.00},
+			"2017-03": {"total":12500.00, "MANAGEMENT & SUPPORT CONSULTANCY":12500.00},
+			"2017-05": {"total":25000.00, "MANAGEMENT & SUPPORT CONSULTANCY":25000.00},
+			"2018-03": {"total":12756.40, "CONSULTANCY-PROJECT MANAGEMENT":12756.40},
+			"2018-04": {"total":12500.00, "MANAGEMENT & SUPPORT CONSULTANCY":12500.00},
+			"2018-07": {"total":425.00, "CONSULTANCY-PROJECT MANAGEMENT":425.00},
+			"2018-10": {"total":17862.98, "MANAGEMENT & SUPPORT CONSULTANCY":17862.98},
+			"2018-12": {"total":3825.00, "MANAGEMENT & SUPPORT CONSULTANCY":3825.00},
+			"2019-01": {"total":13793.83, "MANAGEMENT & SUPPORT CONSULTANCY":13793.83},
+			"2019-03": {"total":12627.86, "MANAGEMENT & SUPPORT CONSULTANCY":12627.86},
+			"2019-05": {"total":24597.12, "MANAGEMENT & SUPPORT CONSULTANCY":24597.12},
+			"2019-12": {"total":9513.67, "MANAGEMENT & SUPPORT CONSULTANCY":9513.67},
+			"2020-03": {"total":6732.00, "CONTRACTORS":6732.00},
+			"2020-04": {"total":84096.00, "CONTRACTORS":4488.00, "MANAGEMENT & SUPPORT CONSULTANCY":79608.00},
+			"2020-05": {"total":4488.00, "CONTRACTORS":4488.00},
+			"2020-06": {"total":24819.00, "CONSULTANCY-PROJECT MANAGEMENT":19381.00, "CONTRACTORS":4488.00, "RESEARCH & STUDY FEES":950.00},
+			"2020-07": {"total":3366.00, "CONTRACTORS":3366.00},
+			"2020-08": {"total":13131.50, "CONTRACTORS":5610.00, "MANAGEMENT & SUPPORT CONSULTANCY":7521.50},
+			"2020-10": {"total":7500.00, "CONSULTANCY-PROJECT MANAGEMENT":7500.00},
+			"2020-12": {"total":9401.00, "MANAGEMENT & SUPPORT CONSULTANCY":9401.00},
+			"2021-01": {"total":850.00, "MANAGEMENT & SUPPORT CONSULTANCY":850.00},
+			"2021-02": {"total":18513.00, "MANAGEMENT & SUPPORT CONSULTANCY":18513.00},
+			"2021-03": {"total":36438.50, "CONSULTANCY-PROJECT MANAGEMENT":7500.00, "MANAGEMENT & SUPPORT CONSULTANCY":28938.50},
+			"2021-04": {"total":6171.00, "MANAGEMENT & SUPPORT CONSULTANCY":6171.00},
+			"2021-07": {"total":1260.00, "MANAGEMENT & SUPPORT CONSULTANCY":1260.00},
+			"2021-08": {"total":24689.73, "MANAGEMENT & SUPPORT CONSULTANCY":24689.73},
+			"2021-09": {"total":6733.56, "MANAGEMENT & SUPPORT CONSULTANCY":6733.56},
+			"2021-10": {"total":25170.87, "MANAGEMENT & SUPPORT CONSULTANCY":25170.87},
+			"2021-11": {"total":4628.47, "MANAGEMENT & SUPPORT CONSULTANCY":4628.47},
+			"2021-12": {"total":6733.56, "MANAGEMENT & SUPPORT CONSULTANCY":6733.56},
+			"2022-01": {"total":5329.04, "MANAGEMENT & SUPPORT CONSULTANCY":5329.04},
+			"2022-02": {"total":5611.30, "MANAGEMENT & SUPPORT CONSULTANCY":5611.30},
+			"2022-03": {"total":8007.06, "MANAGEMENT & SUPPORT CONSULTANCY":8007.06},
+			"2022-04": {"total":7126.35, "MANAGEMENT & SUPPORT CONSULTANCY":7126.35},
+			"2022-05": {"total":5611.30, "MANAGEMENT & SUPPORT CONSULTANCY":5611.30}
+		}
+	},
+	"206": {
+		"name": "AIREY MILLER PARTNERSHIP LLP",
+		"total": 21590,
+		"monthly": {
+			"2013-04": {"total":8204.95, "MANAGEMENT & SUPPORT CONSULTANCY":8204.95},
+			"2013-06": {"total":5332.30, "Management & Support Consultancy":5332.30},
+			"2013-08": {"total":2722.50, "Management & Support Consultancy":2722.50},
+			"2014-05": {"total":5330.25, "Management & Support Consultancy":5330.25}
+		}
+	},
+	"207": {
+		"name": "AJ GALLAGHER",
+		"total": 145853.1,
+		"monthly": {
+			"2016-01": {"total":38034.48, "GENERAL INSURANCE":38034.48},
+			"2016-11": {"total":82739.84, "GENERAL INSURANCE":82739.84},
+			"2017-12": {"total":17286.45, "General Insurance":17286.45},
+			"2018-02": {"total":7140.00, "GENERAL INSURANCE":7140.00},
+			"2018-06": {"total":652.33, "GENERAL INSURANCE":652.33}
+		}
+	},
+	"208": {
+		"name": "AJ Gallagher",
+		"total": 698915.33,
+		"monthly": {
+			"2017-04": {"total":618864.28, "General Insurance":618864.28},
+			"2017-06": {"total":2000.00, "General Insurance":2000.00},
+			"2017-08": {"total":266.89, "General Insurance":266.89},
+			"2017-10": {"total":4500.00, "General Insurance":4500.00},
+			"2017-11": {"total":73284.16, "General Insurance":73284.16}
+		}
+	},
+	"209": {
+		"name": "AK VOICE SYSTEMS LTD",
+		"total": 6000,
+		"monthly": {
+			"2015-07": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
+			"2016-02": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00}
+		}
+	},
+	"210": {
+		"name": "AKA",
+		"total": 2460,
+		"monthly": {
+			"2017-03": {"total":2460.00, "OTHER PROFESSIONAL FEES":2460.00}
+		}
+	},
+	"211": {
+		"name": "AKABO MEDIA LTD",
+		"alternate-names": [
+			"AKABO MEDIA LIMITED"
+		],
+		"total": 1770,
+		"monthly": {
+			"2018-12": {"total":885.00, "MANAGEMENT & SUPPORT CONSULTANCY":885.00},
+			"2019-02": {"total":885.00, "EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":885.00}
+		}
+	},
+	"212": {
+		"name": "AKIRA ENDO",
+		"total": 400,
+		"monthly": {
+			"2015-08": {"total":400.00, "MARKETING EXHIBITIONS & EVENTS":400.00}
+		}
+	},
+	"213": {
+		"name": "AKOMAASA PERFORMING ARTS ACADEMY",
+		"total": 5984,
+		"monthly": {
+			"2018-10": {"total":1334.00, "OTHER PROFESSIONAL FEES":1334.00},
+			"2019-12": {"total":4650.00, "OTHER PROFESSIONAL FEES":4650.00}
+		}
+	},
+	"214": {
+		"name": "AKOU",
+		"total": 38175,
+		"monthly": {
+			"2019-12": {"total":19087.50, "OTHER PROFESSIONAL FEES":19087.50},
+			"2020-01": {"total":9543.75, "OTHER PROFESSIONAL FEES":9543.75},
+			"2020-04": {"total":9543.75, "OTHER PROFESSIONAL FEES":9543.75}
+		}
+	},
+	"215": {
+		"name": "AKRAM KHAN COMPANY",
+		"total": 70000,
+		"monthly": {
+			"2015-12": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2016-02": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
+			"2016-07": {"total":20000.00, "GRANTS TO EXTERNAL ORGANISATIONS":20000.00},
+			"2016-08": {"total":5000.00, "GRANTS TO EXTERNAL ORGANISATIONS":5000.00}
+		}
+	},
+	"216": {
+		"name": "AL FILMS",
+		"total": 7725,
+		"monthly": {
+			"2021-02": {"total":2425.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":2425.00},
+			"2021-04": {"total":5300.00, "PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":5300.00}
+		}
+	},
+	"217": {
+		"name": "AL LEWIS",
+		"total": 400,
+		"monthly": {
+			"2014-12": {"total":400.00, "EVENT MANAGEMENT FEE":400.00}
+		}
+	},
+	"218": {
+		"name": "ALAN BAXTER & ASSOCIATES LLP",
+		"total": 3900,
+		"monthly": {
+			"2021-09": {"total":1950.00, "CONSULTANCY-COMMISSIONED REPORT":1950.00},
+			"2021-11": {"total":1950.00, "CONSULTANCY-COMMISSIONED REPORT":1950.00}
+		}
+	},
+	"219": {
+		"name": "ALAN GYLE COACHING",
+		"total": 2100,
+		"monthly": {
+			"2019-11": {"total":1500.00, "OTHER PROFESSIONAL FEES":1500.00},
+			"2019-12": {"total":600.00, "OTHER PROFESSIONAL FEES":600.00}
+		}
+	},
+	"220": {
+		"name": "ALBA BEDS LTD",
+		"total": 21350,
+		"monthly": {
+			"2022-04": {"total":21350.00, "FURNITURE & EQUIPMENT":21350.00}
+		}
+	},
+	"221": {
+		"name": "ALBERT & FRIENDS INSTANT CIRCUS",
+		"total": 1500,
+		"monthly": {
+			"2015-03": {"total":1500.00, "EQUIPMENT REPAIRS & MAINTENANCE":1500.00}
+		}
+	},
+	"222": {
+		"name": "ALBINOU GOMIS",
+		"total": 300,
+		"monthly": {
+			"2021-11": {"total":300.00, "STAFF TRAINING":300.00}
+		}
+	},
+	"223": {
+		"name": "ALCHEMER LLC",
+		"total": 10000,
+		"monthly": {
+			"2021-09": {"total":10000.00, "MANAGEMENT & SUPPORT CONSULTANCY":10000.00}
+		}
+	},
+	"224": {
+		"name": "ALCOHOL HEALTH NETWORK",
+		"total": 500,
+		"monthly": {
+			"2017-05": {"total":500.00, "STAFF TRAINING":500.00}
+		}
+	},
+	"225": {
+		"name": "ALEHM",
+		"total": 85540.49,
+		"monthly": {
+			"2018-03": {"total":9540.50, "GRANTS TO EXTERNAL ORGANISATIONS":9540.50},
+			"2019-04": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
+			"2020-04": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
+			"2020-08": {"total":1000.00, "STAFF TRAINING":1000.00},
+			"2021-04": {"total":3525.99, "GRANTS TO EXTERNAL ORGANISATIONS":3525.99},
+			"2021-12": {"total":21474.00, "GRANTS TO EXTERNAL ORGANISATIONS":21474.00},
+			"2022-04": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00}
+		}
+	},
+	"226": {
+		"name": "ALEX WARD COMMUNICATIONS",
+		"total": 400,
+		"monthly": {
+			"2017-11": {"total":400.00, "CONSULTANCY-PROJECT MANAGEMENT":400.00}
+		}
+	},
+	"227": {
+		"name": "ALEXANDER D WILLIAMS",
+		"total": 3125,
+		"monthly": {
+			"2022-01": {"total":3125.00, "OTHER PROFESSIONAL FEES":3125.00}
+		}
+	},
+	"228": {
+		"name": "ALEXANDRA PALACE TRADING LTD",
+		"total": 668104.96,
+		"monthly": {
+			"2014-10": {"total":13700.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":13700.00},
+			"2016-05": {"total":69000.60, "External Affairs":10700.60, "Resources":58300.00},
+			"2016-07": {"total":1235.50, "SECURITY SERVICES (GUARDS)":1235.50},
+			"2016-08": {"total":16047.00, "CATERERS SERVICE CHARGES":16047.00},
+			"2019-06": {"total":15000.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":15000.00},
+			"2019-11": {"total":60000.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":60000.00},
+			"2020-05": {"total":187500.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":187500.00},
+			"2021-04": {"total":214416.42, "OTHER PROFESSIONAL FEES":214416.42},
+			"2021-05": {"total":91205.44, "OTHER PROFESSIONAL FEES":91205.44}
+		}
+	},
+	"229": {
+		"name": "ALEXANDRA PARK SCHOOL",
+		"total": 398652,
+		"monthly": {
+			"2014-05": {"total":28540.00, "Grants to External Organisations":28540.00},
+			"2014-06": {"total":57080.00, "Grants to External Organisations":57080.00},
+			"2014-08": {"total":57080.00, "GRANTS TO EXTERNAL ORGANISATIONS":57080.00},
+			"2014-11": {"total":57080.00, "GRANTS TO EXTERNAL ORGANISATIONS":57080.00},
+			"2015-03": {"total":57080.00, "GRANTS TO EXTERNAL ORGANISATIONS":57080.00},
+			"2015-05": {"total":63270.00, "GRANTS TO EXTERNAL ORGANISATIONS":63270.00},
+			"2015-10": {"total":28540.00, "GRANTS TO EXTERNAL ORGANISATIONS":28540.00},
+			"2015-11": {"total":7030.00, "GRANTS TO EXTERNAL ORGANISATIONS":7030.00},
+			"2021-09": {"total":17952.00, "GRANTS TO EXTERNAL ORGANISATIONS":17952.00},
+			"2022-05": {"total":25000.00, "GRANTS TO EXTERNAL ORGANISATIONS":25000.00}
+		}
+	},
+	"230": {
+		"name": "ALEXANDRIA ROAD (WEST EALING) MANAG",
+		"total": 846819,
+		"monthly": {
+			"2021-03": {"total":728716.00, "GRANTS TO EXTERNAL ORGANISATIONS":728716.00},
+			"2021-10": {"total":118103.00, "GRANTS TO EXTERNAL ORGANISATIONS":118103.00}
+		}
+	},
+	"231": {
+		"name": "ALICE CHANNER STUDIO",
+		"total": 1000,
+		"monthly": {
+			"2016-03": {"total":1000.00, "OTHER PROFESSIONAL FEES":1000.00}
+		}
+	},
+	"232": {
+		"name": "ALICE MAYOR CONSULTANCY LTD",
+		"total": 20000,
+		"monthly": {
+			"2022-04": {"total":20000.00, "OTHER PROFESSIONAL FEES":20000.00}
+		}
+	},
+	"233": {
+		"name": "ALICE MCCABE FLOWERS",
+		"total": 250,
+		"monthly": {
+			"2019-11": {"total":250.00, "OTHER PROFESSIONAL FEES":250.00}
+		}
+	},
+	"234": {
+		"name": "ALICE MCCALL",
+		"total": 3000,
+		"monthly": {
+			"2021-03": {"total":3000.00, "PHOTOGRAPHY & VIDEO":3000.00}
+		}
+	},
+	"235": {
+		"name": "ALIS TEMPLETON",
+		"total": 2000,
+		"monthly": {
+			"2017-03": {"total":2000.00, "OTHER PROFESSIONAL FEES":2000.00}
+		}
+	},
+	"236": {
+		"name": "ALISON WHYTE",
+		"total": 8600,
+		"monthly": {
+			"2017-11": {"total":4000.00, "CONSULTANCY-COMMISSIONED REPORT":4000.00},
+			"2018-01": {"total":2400.00, "CONSULTANCY-COMMISSIONED REPORT":2400.00},
+			"2018-02": {"total":1800.00, "CONSULTANCY-COMMISSIONED REPORT":1800.00},
+			"2018-03": {"total":400.00, "CONSULTANCY-COMMISSIONED REPORT":400.00}
+		}
+	},
+	"237": {
+		"name": "ALL CITY MEDIA SOLUTIONS LTD",
+		"total": 2000,
+		"monthly": {
+			"2021-09": {"total":2000.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":2000.00}
+		}
+	},
+	"238": {
+		"name": "ALL CLEAN GROUP",
+		"total": 1443926.26,
+		"monthly": {
+			"2013-06": {"total":38584.98, "Building Maintenance & Repairs":25723.32, "Equipment Repairs & Maintenance":12861.66},
+			"2013-07": {"total":25723.32, "Building Maintenance & Repairs":25723.32},
+			"2013-08": {"total":13252.50, "Building Maintenance & Repairs":13252.50},
+			"2013-09": {"total":13252.50, "Building Maintenance & Repairs":13252.50},
+			"2013-10": {"total":13252.50, "Building Maintenance & Repairs":13252.50},
+			"2013-11": {"total":13252.50, "Building Maintenance & Repairs":13252.50},
+			"2013-12": {"total":26505.00, "Building Maintenance & Repairs":26505.00},
+			"2014-01": {"total":26505.00, "Building Maintenance & Repairs":26505.00},
+			"2014-02": {"total":27605.00, "Building Maintenance & Repairs":27605.00},
+			"2014-03": {"total":26505.00, "Building Maintenance & Repairs":26505.00},
+			"2014-04": {"total":13072.23, "Building Maintenance & Repairs":13072.23},
+			"2014-06": {"total":13530.90, "Office Cleaning":13530.90},
+			"2014-07": {"total":27061.80, "OFFICE CLEANING":27061.80},
+			"2014-09": {"total":27061.80, "OFFICE CLEANING":27061.80},
+			"2014-10": {"total":13530.90, "OFFICE CLEANING":13530.90},
+			"2014-11": {"total":13530.90, "OFFICE CLEANING":13530.90},
+			"2014-12": {"total":13530.90, "OFFICE CLEANING":13530.90},
+			"2015-01": {"total":13530.90, "Resources":13530.90},
+			"2015-02": {"total":13530.90, "Resources":13530.90},
+			"2015-03": {"total":13530.90, "OFFICE CLEANING":13530.90},
+			"2015-04": {"total":13530.90, "OFFICE CLEANING":13530.90},
+			"2015-05": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2015-06": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2015-07": {"total":13925.60, "OFFICE CLEANING":13925.60},
+			"2015-08": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2015-09": {"total":13942.60, "EQUIPMENT REPAIRS & MAINTENANCE":13942.60},
+			"2015-10": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2015-12": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2016-01": {"total":23287.60, "EQUIPMENT REPAIRS & MAINTENANCE":9345.00, "OFFICE CLEANING":13942.60},
+			"2016-02": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2016-04": {"total":13942.60, "Resources":13942.60},
+			"2016-05": {"total":13942.60, "Resources":13942.60},
+			"2016-06": {"total":27885.20, "OFFICE CLEANING":27885.20},
+			"2016-07": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2016-08": {"total":13942.60, "OFFICE CLEANING":13942.60},
+			"2016-09": {"total":1967.00, "OFFICE CLEANING":1967.00},
+			"2016-10": {"total":12591.24, "OFFICE CLEANING":12591.24},
+			"2016-12": {"total":37773.72, "OFFICE CLEANING":37773.72},
+			"2017-01": {"total":12591.24, "OFFICE CLEANING":12591.24},
+			"2017-02": {"total":12591.24, "OFFICE CLEANING":12591.24},
+			"2017-03": {"total":25182.73, "OFFICE CLEANING":25182.73},
+			"2017-05": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2017-06": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2017-07": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2017-09": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2017-10": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2017-12": {"total":1291.00, "BUILDING MAINTENANCE & REPAIRS":491.00, "OFFICE CLEANING":800.00},
+			"2018-01": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2018-02": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2018-03": {"total":13843.51, "EQUIPMENT REPAIRS & MAINTENANCE":1250.00, "OFFICE CLEANING":12593.51},
+			"2018-04": {"total":12593.51, "OFFICE CLEANING":12593.51},
+			"2018-06": {"total":25616.00, "OFFICE CLEANING":25616.00},
+			"2018-07": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2018-08": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2018-09": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2018-10": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2018-11": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2018-12": {"total":13372.00, "EQUIPMENT REPAIRS & MAINTENANCE":564.00, "OFFICE CLEANING":12808.00},
+			"2019-01": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2019-02": {"total":12808.00, "OFFICE CLEANING":12808.00},
+			"2019-03": {"total":25616.00, "OFFICE CLEANING":25616.00},
+			"2019-05": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2019-06": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2019-07": {"total":13745.00, "OFFICE CLEANING":13745.00},
+			"2019-08": {"total":17885.00, "BUILDING MAINTENANCE & REPAIRS":3890.00, "OFFICE CLEANING":13995.00},
+			"2019-09": {"total":16645.00, "BUILDING MAINTENANCE & REPAIRS":3650.00, "OFFICE CLEANING":12995.00},
+			"2019-10": {"total":19845.00, "BUILDING MAINTENANCE & REPAIRS":4430.00, "OFFICE CLEANING":15415.00},
+			"2019-11": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2019-12": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2020-01": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2020-02": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2020-03": {"total":12995.00, "OFFICE CLEANING":12995.00},
+			"2020-04": {"total":700.00, "BUILDING MAINTENANCE & REPAIRS":700.00},
+			"2020-05": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-06": {"total":26122.50, "OFFICE CLEANING":26122.50},
+			"2020-07": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-08": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-09": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-10": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-11": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2020-12": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2021-01": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2021-02": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2021-03": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2021-04": {"total":13127.50, "OFFICE CLEANING":13127.50},
+			"2021-05": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-06": {"total":15203.13, "EXTERNAL MEETING ROOM HIRE & EXPENSES":1800.00, "OFFICE CLEANING":13403.13},
+			"2021-07": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-08": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-09": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-10": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-11": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2021-12": {"total":13403.13, "OFFICE CLEANING":13403.13},
+			"2022-01": {"total":13403.13, "OFFICE CLEANING":13403.13}
+		}
+	},
+	"239": {
 		"name": "ALL INCLUSIVE ADVICE & TRAINING",
 		"total": 24984.63,
 		"monthly": {
 			"2021-03": {"total":24984.63, "GRANTS TO EXTERNAL ORGANISATIONS":24984.63}
 		}
 	},
-	"201": {
+	"240": {
 		"name": "ALL SAFE AND SOUND LTD",
 		"total": 30007.5,
 		"monthly": {
 			"2020-08": {"total":30007.50, "PLANNING & DEVELOPMENT CONSULTANCY":30007.50}
 		}
 	},
-	"202": {
+	"241": {
 		"name": "ALL SAINTS TRUST",
 		"total": 750,
 		"monthly": {
 			"2021-02": {"total":750.00, "GRANTS TO EXTERNAL ORGANISATIONS":750.00}
 		}
 	},
-	"203": {
+	"242": {
 		"name": "ALL STARS LONDON",
-		"total": 51114.8,
+		"total": 53438.2,
 		"monthly": {
 			"2019-01": {"total":9293.60, "GRANTS TO EXTERNAL ORGANISATIONS":9293.60},
 			"2019-11": {"total":11617.00, "GRANTS TO EXTERNAL ORGANISATIONS":11617.00},
-			"2020-12": {"total":30204.20, "GRANTS TO EXTERNAL ORGANISATIONS":30204.20}
+			"2020-12": {"total":30204.20, "GRANTS TO EXTERNAL ORGANISATIONS":30204.20},
+			"2021-10": {"total":2323.40, "GRANTS TO EXTERNAL ORGANISATIONS":2323.40}
 		}
 	},
-	"204": {
+	"243": {
 		"name": "ALL STARS YOUTH CLUB",
 		"total": 8690,
 		"monthly": {
 			"2021-04": {"total":8690.00, "GRANTS TO EXTERNAL ORGANISATIONS":8690.00}
 		}
 	},
-	"205": {
+	"244": {
 		"name": "ALLEN LANE FINANCIAL RECRUITMENT",
-		"total": 1770724.91,
+		"total": 1887047.66,
 		"monthly": {
 			"2013-04": {"total":16275.30, "Agency Staff":16275.30},
 			"2013-05": {"total":5625.15, "Agency Staff":5625.15},
@@ -111,17 +588,25 @@
 			"2021-01": {"total":5732.10, "AGENCY STAFF":5732.10},
 			"2021-02": {"total":6513.75, "AGENCY STAFF":6513.75},
 			"2021-03": {"total":1823.85, "AGENCY STAFF":1823.85},
-			"2021-04": {"total":2200.00, "AGENCY STAFF":2200.00}
+			"2021-04": {"total":2200.00, "AGENCY STAFF":2200.00},
+			"2021-11": {"total":116322.75, "AGENCY STAFF":116322.75}
 		}
 	},
-	"206": {
+	"245": {
+		"name": "ALLIED PUBLICITY SERVICES-MAN LTD",
+		"total": 925,
+		"monthly": {
+			"2022-05": {"total":925.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":925.00}
+		}
+	},
+	"246": {
 		"name": "ALLY EVENTS",
 		"total": 8500,
 		"monthly": {
 			"2019-04": {"total":8500.00, "EVENT MANAGEMENT FEE":8500.00}
 		}
 	},
-	"207": {
+	"247": {
 		"name": "ALMSHOUSE CONSORTIUM LTD",
 		"total": 2859781,
 		"monthly": {
@@ -138,7 +623,7 @@
 			"2020-12": {"total":70000.00, "HSG GRANTS TO REGISTERED PROVIDERS":70000.00}
 		}
 	},
-	"208": {
+	"248": {
 		"name": "ALPHA FINANCIAL MARKETS CONSULTING UK LTD",
 		"alternate-names": [
 			"ALPHA FINANCIAL MARKETS CONSULTING UK LIMITED"
@@ -148,7 +633,7 @@
 			"2020-04": {"total":35000.00, "CONSULTANCY-PROJECT MANAGEMENT":35000.00}
 		}
 	},
-	"209": {
+	"249": {
 		"name": "ALTAIR LTD",
 		"total": 157734.77,
 		"monthly": {
@@ -160,486 +645,6 @@
 			"2019-11": {"total":25023.73, "CONSULTANCY-COMMISSIONED REPORT":25023.73},
 			"2020-02": {"total":25000.00, "CONSULTANCY-PROJECT MANAGEMENT":25000.00},
 			"2020-03": {"total":7000.00, "GRANTS TO EXTERNAL ORGANISATIONS":7000.00}
-		}
-	},
-	"210": {
-		"name": "ALTERNATIVE NETWORKS PLC",
-		"total": 7705.42,
-		"monthly": {
-			"2015-01": {"total":1705.42, "Development & Environment":1705.42},
-			"2015-10": {"total":3000.00, "GRANTS TO EXTERNAL ORGANISATIONS":3000.00},
-			"2016-04": {"total":3000.00, "Development & Environment":3000.00}
-		}
-	},
-	"211": {
-		"name": "ALTICELABS SA",
-		"total": 580693.93,
-		"monthly": {
-			"2017-02": {"total":168624.86, "GRANTS TO EXTERNAL ORGANISATIONS":168624.86},
-			"2017-06": {"total":81334.38, "GRANTS TO EXTERNAL ORGANISATIONS":81334.38},
-			"2018-06": {"total":150567.61, "GRANTS TO EXTERNAL ORGANISATIONS":150567.61},
-			"2020-01": {"total":180167.08, "GRANTS TO EXTERNAL ORGANISATIONS":180167.08}
-		}
-	},
-	"212": {
-		"name": "ALZHIEMERS SOCIETY",
-		"total": 108500,
-		"monthly": {
-			"2020-04": {"total":18500.00, "GRANTS TO EXTERNAL ORGANISATIONS":18500.00},
-			"2020-08": {"total":40000.00, "GRANTS TO EXTERNAL ORGANISATIONS":40000.00},
-			"2021-02": {"total":15000.00, "GRANTS TO EXTERNAL ORGANISATIONS":15000.00},
-			"2021-03": {"total":35000.00, "GRANTS TO EXTERNAL ORGANISATIONS":35000.00}
-		}
-	},
-	"213": {
-		"name": "AM:PM HOTELS LTD",
-		"total": 2000,
-		"monthly": {
-			"2016-03": {"total":2000.00, "DATA PURCHASE":2000.00}
-		}
-	},
-	"214": {
-		"name": "AMANECER LTD",
-		"total": 31250,
-		"monthly": {
-			"2021-03": {"total":15000.00, "CONSULTANCY-PROJECT MANAGEMENT":15000.00},
-			"2021-04": {"total":16250.00, "CONSULTANCY-PROJECT MANAGEMENT":16250.00}
-		}
-	},
-	"215": {
-		"name": "AMAS LTD",
-		"total": 63442017.61,
-		"monthly": {
-			"2013-06": {"total":1697595.87, "Commercial Property Rent":1697595.87},
-			"2013-10": {"total":1673907.50, "Commercial Property Rent":1673907.50},
-			"2013-12": {"total":3347815.00, "Commercial Property Rent":3347815.00},
-			"2014-03": {"total":3347815.00, "Commercial Property Rent":3347815.00},
-			"2014-06": {"total":1673907.50, "Commercial Property Rent":1673907.50},
-			"2014-07": {"total":25006.24, "COMMERCIAL PROPERTY RENT":25006.24},
-			"2014-09": {"total":1673907.50, "COMMERCIAL PROPERTY RENT":1673907.50},
-			"2014-12": {"total":1673907.50, "COMMERCIAL PROPERTY RENT":1673907.50},
-			"2015-02": {"total":1673907.50, "Resources":1673907.50},
-			"2015-06": {"total":1673907.50, "COMMERCIAL PROPERTY RENT":1673907.50},
-			"2015-09": {"total":1673907.50, "COMMERCIAL PROPERTY RENT":1673907.50},
-			"2015-12": {"total":1673907.50, "COMMERCIAL PROPERTY RENT":1673907.50},
-			"2016-03": {"total":2008689.00, "COMMERCIAL PROPERTY RENT":2008689.00},
-			"2016-06": {"total":2008689.00, "COMMERCIAL PROPERTY RENT":2008689.00},
-			"2016-07": {"total":19734.70, "COMMERCIAL PROPERTY RENT":19734.70},
-			"2016-09": {"total":2008689.00, "COMMERCIAL PROPERTY RENT":2008689.00},
-			"2016-12": {"total":1737051.10, "COMMERCIAL PROPERTY RENT":1737051.10},
-			"2017-03": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2017-06": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2017-08": {"total":15975.42, "COMMERCIAL PROPERTY RENT":15975.42},
-			"2017-09": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2017-12": {"total":2385715.16, "COMMERCIAL PROPERTY RENT":2385715.16},
-			"2018-03": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2018-06": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2018-07": {"total":19819.96, "COMMERCIAL PROPERTY RENT":19819.96},
-			"2018-09": {"total":2385692.40, "COMMERCIAL PROPERTY RENT":2385692.40},
-			"2018-12": {"total":2385692.40, "COMMERCIAL PROPERTY RENT":2385692.40},
-			"2019-03": {"total":2385692.40, "COMMERCIAL PROPERTY RENT":2385692.40},
-			"2019-06": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2019-10": {"total":2385692.40, "COMMERCIAL PROPERTY RENT":2385692.40},
-			"2019-12": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2020-03": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2020-06": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2020-07": {"total":16248.72, "GENERAL INSURANCE":16248.72},
-			"2020-09": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2020-12": {"total":1988077.00, "COMMERCIAL PROPERTY RENT":1988077.00},
-			"2021-03": {"total":296.84, "GENERAL INSURANCE":296.84}
-		}
-	},
-	"216": {
-		"name": "AMATEUR SWIMMING ASSOCIATION",
-		"total": 1000693.34,
-		"monthly": {
-			"2013-04": {"total":190000.00, "Grants to External Organisations":190000.00},
-			"2013-11": {"total":130000.00, "Grants to External Organisations":130000.00},
-			"2013-12": {"total":120000.00, "Grants to External Organisations":120000.00},
-			"2014-03": {"total":120000.00, "Grants to External Organisations":120000.00},
-			"2014-07": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2014-11": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2015-02": {"total":30000.00, "Communities and Intelligence":30000.00},
-			"2015-04": {"total":10000.00, "GRANTS TO EXTERNAL ORGANISATIONS":10000.00},
-			"2015-07": {"total":130000.00, "GRANTS TO EXTERNAL ORGANISATIONS":130000.00},
-			"2015-12": {"total":45000.00, "GRANTS TO EXTERNAL ORGANISATIONS":45000.00},
-			"2016-02": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2016-04": {"total":4280.00, "Communities and Intelligence":4280.00},
-			"2016-05": {"total":30000.00, "Development, Enterprise & Environment":30000.00},
-			"2016-06": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2016-10": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2017-02": {"total":30000.00, "GRANTS TO EXTERNAL ORGANISATIONS":30000.00},
-			"2017-04": {"total":11413.34, "GRANTS TO EXTERNAL ORGANISATIONS":11413.34}
-		}
-	},
-	"217": {
-		"name": "AMBIENT COMPUTER SERVICES LTD",
-		"total": 6000,
-		"monthly": {
-			"2015-09": {"total":6000.00, "GRANTS TO EXTERNAL ORGANISATIONS":6000.00}
-		}
-	},
-	"218": {
-		"name": "AMBITION ASPIRE ACHIEVE",
-		"total": 113100,
-		"monthly": {
-			"2019-03": {"total":22560.00, "GRANTS TO EXTERNAL ORGANISATIONS":22560.00},
-			"2019-08": {"total":22560.00, "GRANTS TO EXTERNAL ORGANISATIONS":22560.00},
-			"2019-11": {"total":300.00, "GRANTS TO EXTERNAL ORGANISATIONS":300.00},
-			"2020-02": {"total":22560.00, "GRANTS TO EXTERNAL ORGANISATIONS":22560.00},
-			"2020-08": {"total":22560.00, "GRANTS TO EXTERNAL ORGANISATIONS":22560.00},
-			"2021-03": {"total":22560.00, "GRANTS TO EXTERNAL ORGANISATIONS":22560.00}
-		}
-	},
-	"219": {
-		"name": "AMEC ENVIRONMENT & INFRASTRUCTURE",
-		"total": 186353.91,
-		"monthly": {
-			"2013-04": {"total":968.88, "Management & Support Consultancy":968.88},
-			"2013-05": {"total":530.59, "Management & Support Consultancy":530.59},
-			"2013-06": {"total":7656.60, "Management & Support Consultancy":7656.60},
-			"2013-11": {"total":1786.98, "Management & Support Consultancy":1786.98},
-			"2013-12": {"total":14116.80, "Consultancy-Commissioned Report":5000.00, "Management & Support Consultancy":9116.80},
-			"2014-02": {"total":49483.00, "Consultancy  Evaluation Assessment":49483.00},
-			"2014-04": {"total":83387.16, "Management & Support Consultancy":83387.16},
-			"2014-07": {"total":13806.15, "CONSULTANCY  EVALUATION ASSESSMENT":1450.00, "MANAGEMENT & SUPPORT CONSULTANCY":12356.15},
-			"2014-09": {"total":1200.00, "CONSULTANCY  EVALUATION ASSESSMENT":1200.00},
-			"2014-12": {"total":13417.75, "MANAGEMENT & SUPPORT CONSULTANCY":13417.75}
-		}
-	},
-	"220": {
-		"name": "AMEC FOSTER WHEELER ENV & INFRAST U",
-		"total": 130697.96,
-		"monthly": {
-			"2015-04": {"total":56134.90, "MANAGEMENT & SUPPORT CONSULTANCY":56134.90},
-			"2015-12": {"total":25000.00, "MANAGEMENT & SUPPORT CONSULTANCY":25000.00},
-			"2016-03": {"total":6173.06, "MANAGEMENT & SUPPORT CONSULTANCY":6173.06},
-			"2016-04": {"total":7406.00, "Development, Enterprise & Environment":7406.00},
-			"2017-02": {"total":9765.00, "MANAGEMENT & SUPPORT CONSULTANCY":9765.00},
-			"2017-03": {"total":7290.00, "MANAGEMENT & SUPPORT CONSULTANCY":7290.00},
-			"2017-07": {"total":8959.00, "MANAGEMENT & SUPPORT CONSULTANCY":8959.00},
-			"2017-12": {"total":9970.00, "MANAGEMENT & SUPPORT CONSULTANCY":9970.00}
-		}
-	},
-	"221": {
-		"name": "AMEC GROUP LTD",
-		"alternate-names": [
-			"AMEC GROUP LIMITED"
-		],
-		"total": 7382,
-		"monthly": {
-			"2014-08": {"total":7382.00, "MANAGEMENT & SUPPORT CONSULTANCY":7382.00}
-		}
-	},
-	"222": {
-		"name": "AMERICA SQUARE LTD",
-		"total": 12035.9,
-		"monthly": {
-			"2014-05": {"total":5032.40, "External Events Roads Shows and Face To Face":5032.40},
-			"2017-07": {"total":3903.00, "EXTERNAL MEETING ROOM HIRE & EXPENSES":3903.00},
-			"2019-03": {"total":3100.50, "EXTERNAL MEETING ROOM HIRE & EXPENSES":3100.50}
-		}
-	},
-	"223": {
-		"name": "AMHERST SUPPORT",
-		"total": 2500,
-		"monthly": {
-			"2016-07": {"total":2500.00, "GRANTS TO EXTERNAL ORGANISATIONS":2500.00}
-		}
-	},
-	"224": {
-		"name": "AMICUSHORIZON LTD",
-		"alternate-names": [
-			"AMICUSHORIZON LIMITED"
-		],
-		"total": 12240490,
-		"monthly": {
-			"2013-04": {"total":1934575.00, "HSG Grants to Registered Providers":1934575.00},
-			"2013-09": {"total":36000.00, "HSG Grants to Registered Providers":36000.00},
-			"2014-03": {"total":721814.00, "HSG Grants to Registered Providers":721814.00},
-			"2014-07": {"total":113425.00, "HSG GRANTS TO REGISTERED PROVIDERS":113425.00},
-			"2014-08": {"total":47734.00, "HSG GRANTS TO REGISTERED PROVIDERS":47734.00},
-			"2014-09": {"total":167071.00, "HSG GRANTS TO REGISTERED PROVIDERS":167071.00},
-			"2014-10": {"total":198250.00, "HSG GRANTS TO REGISTERED PROVIDERS":198250.00},
-			"2014-11": {"total":477266.00, "HSG GRANTS TO REGISTERED PROVIDERS":477266.00},
-			"2014-12": {"total":891044.00, "HSG GRANTS TO REGISTERED PROVIDERS":891044.00},
-			"2015-02": {"total":190938.00, "Housing":190938.00},
-			"2015-03": {"total":2318504.00, "HSG GRANTS TO REGISTERED PROVIDERS":2318504.00},
-			"2015-09": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
-			"2015-11": {"total":156000.00, "HSG GRANTS TO REGISTERED PROVIDERS":156000.00},
-			"2015-12": {"total":789369.00, "HSG GRANTS TO REGISTERED PROVIDERS":789369.00},
-			"2016-02": {"total":5280.00, "HSG GRANTS TO REGISTERED PROVIDERS":5280.00},
-			"2016-03": {"total":40911.00, "HSG GRANTS TO REGISTERED PROVIDERS":40911.00},
-			"2016-09": {"total":1016500.00, "HSG GRANTS TO REGISTERED PROVIDERS":1016500.00},
-			"2016-10": {"total":711000.00, "HSG GRANTS TO REGISTERED PROVIDERS":711000.00},
-			"2016-12": {"total":120000.00, "HSG GRANTS TO REGISTERED PROVIDERS":120000.00},
-			"2017-01": {"total":52000.00, "HSG GRANTS TO REGISTERED PROVIDERS":52000.00},
-			"2017-03": {"total":625434.00, "HSG GRANTS TO REGISTERED PROVIDERS":625434.00},
-			"2017-08": {"total":576375.00, "HSG GRANTS TO REGISTERED PROVIDERS":576375.00},
-			"2017-12": {"total":16000.00, "HSG GRANTS TO REGISTERED PROVIDERS":16000.00},
-			"2018-03": {"total":1019000.00, "HSG GRANTS TO REGISTERED PROVIDERS":1019000.00}
-		}
-	},
-	"225": {
-		"name": "AMRUT (UK) LTD",
-		"alternate-names": [
-			"AMRUT (UK) LIMITED"
-		],
-		"total": 1195,
-		"monthly": {
-			"2018-11": {"total":1195.00, "PRINTING":1195.00}
-		}
-	},
-	"226": {
-		"name": "AMRUT UK LTD",
-		"alternate-names": [
-			"AMRUT UK LIMITED"
-		],
-		"total": 2605,
-		"monthly": {
-			"2015-01": {"total":350.00, "Assembly & Secretariat":350.00},
-			"2016-11": {"total":350.00, "PUBLICATIONS & PERIODICALS":350.00},
-			"2017-01": {"total":395.00, "PUBLICATIONS & PERIODICALS":395.00},
-			"2018-12": {"total":450.00, "PRINTING":450.00},
-			"2019-11": {"total":1060.00, "PRINTING":1060.00}
-		}
-	},
-	"227": {
-		"name": "AMULET(CHURCHILL SEC SOLUTIONS) LTD",
-		"total": 1318159.34,
-		"monthly": {
-			"2018-07": {"total":2925.35, "SECURITY SERVICES (GUARDS)":2925.35},
-			"2018-08": {"total":39598.18, "SECURITY SERVICES (GUARDS)":39598.18},
-			"2018-11": {"total":76690.14, "SECURITY SERVICES (GUARDS)":76690.14},
-			"2018-12": {"total":125001.68, "SECURITY SERVICES (GUARDS)":125001.68},
-			"2019-01": {"total":36745.20, "SECURITY SERVICES (GUARDS)":36745.20},
-			"2019-02": {"total":44623.26, "SECURITY SERVICES (GUARDS)":44623.26},
-			"2019-03": {"total":73079.50, "SECURITY SERVICES (GUARDS)":73079.50},
-			"2019-05": {"total":39391.24, "SECURITY SERVICES (GUARDS)":39391.24},
-			"2019-07": {"total":77595.08, "SECURITY SERVICES (GUARDS)":77595.08},
-			"2019-08": {"total":39655.17, "SECURITY SERVICES (GUARDS)":39655.17},
-			"2019-10": {"total":40237.45, "SECURITY SERVICES (GUARDS)":40237.45},
-			"2019-11": {"total":39655.44, "SECURITY SERVICES (GUARDS)":39655.44},
-			"2019-12": {"total":43668.52, "SECURITY SERVICES (GUARDS)":43668.52},
-			"2020-01": {"total":41295.37, "SECURITY SERVICES (GUARDS)":41295.37},
-			"2020-02": {"total":39629.82, "SECURITY SERVICES (GUARDS)":39629.82},
-			"2020-03": {"total":76395.57, "SECURITY SERVICES (GUARDS)":76395.57},
-			"2020-04": {"total":1260.55, "SECURITY SERVICES (GUARDS)":1260.55},
-			"2020-05": {"total":40166.76, "SECURITY SERVICES (GUARDS)":40166.76},
-			"2020-06": {"total":39820.86, "SECURITY SERVICES (GUARDS)":39820.86},
-			"2020-07": {"total":39908.64, "SECURITY SERVICES (GUARDS)":39908.64},
-			"2020-08": {"total":40657.98, "SECURITY SERVICES (GUARDS)":40657.98},
-			"2020-09": {"total":40656.97, "SECURITY SERVICES (GUARDS)":40656.97},
-			"2020-10": {"total":39184.74, "SECURITY SERVICES (GUARDS)":39184.74},
-			"2020-11": {"total":40781.76, "SECURITY SERVICES (GUARDS)":40781.76},
-			"2021-01": {"total":79043.22, "SECURITY SERVICES (GUARDS)":79043.22},
-			"2021-02": {"total":2735.55, "SECURITY SERVICES (GUARDS)":2735.55},
-			"2021-03": {"total":117755.34, "SECURITY SERVICES (GUARDS)":117755.34}
-		}
-	},
-	"228": {
-		"name": "AMV.BBDO",
-		"total": 193784.52,
-		"monthly": {
-			"2018-01": {"total":88190.32, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":88190.32},
-			"2018-03": {"total":2579.50, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":2579.50},
-			"2018-04": {"total":4580.75, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4580.75},
-			"2018-05": {"total":13576.36, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":13576.36},
-			"2018-08": {"total":14010.67, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":14010.67},
-			"2018-09": {"total":18020.75, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":18020.75},
-			"2018-11": {"total":45607.78, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":45607.78},
-			"2018-12": {"total":2583.00, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":2583.00},
-			"2019-01": {"total":4635.39, "RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":4635.39}
-		}
-	},
-	"229": {
-		"name": "AMY LAMÃÂÃÂ LTD",
-		"total": 8749.98,
-		"monthly": {
-			"2017-07": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-09": {"total":5833.32, "OTHER PROFESSIONAL FEES":5833.32}
-		}
-	},
-	"230": {
-		"name": "AMY LAMÃÂ LTD",
-		"total": 23333.28,
-		"monthly": {
-			"2016-12": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-01": {"total":5833.32, "OTHER PROFESSIONAL FEES":5833.32},
-			"2017-02": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-03": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-04": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-05": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66},
-			"2017-06": {"total":2916.66, "OTHER PROFESSIONAL FEES":2916.66}
-		}
-	},
-	"231": {
-		"name": "AMY SWINNERTON & ASSOCIATES",
-		"total": 1750,
-		"monthly": {
-			"2014-05": {"total":1200.00, "Staff Training":1200.00},
-			"2014-07": {"total":550.00, "OTHER PROFESSIONAL FEES":550.00}
-		}
-	},
-	"232": {
-		"name": "AN ARTIST INFORMATION COMPANY",
-		"total": 213333.33,
-		"monthly": {
-			"2019-04": {"total":100000.00, "OTHER PROFESSIONAL FEES":100000.00},
-			"2019-10": {"total":93333.33, "OTHER PROFESSIONAL FEES":93333.33},
-			"2020-03": {"total":20000.00, "OTHER PROFESSIONAL FEES":20000.00}
-		}
-	},
-	"233": {
-		"name": "ANALYSYS MASON",
-		"total": 866359.04,
-		"monthly": {
-			"2013-04": {"total":41479.31, "Management & Support Consultancy":41479.31},
-			"2013-05": {"total":30331.88, "Management & Support Consultancy":30331.88},
-			"2013-06": {"total":41234.05, "Management & Support Consultancy":41234.05},
-			"2013-07": {"total":16323.42, "Management & Support Consultancy":16323.42},
-			"2013-08": {"total":15310.00, "Management & Support Consultancy":15310.00},
-			"2013-10": {"total":63600.65, "Management & Support Consultancy":63600.65},
-			"2013-12": {"total":55708.30, "Management & Support Consultancy":55708.30},
-			"2014-01": {"total":135503.84, "Management & Support Consultancy":135503.84},
-			"2014-02": {"total":188188.06, "Management & Support Consultancy":188188.06},
-			"2014-03": {"total":59641.36, "Management & Support Consultancy":59641.36},
-			"2014-04": {"total":36435.61, "Management & Support Consultancy":36435.61},
-			"2014-06": {"total":44635.74, "Management & Support Consultancy":44635.74},
-			"2014-08": {"total":47813.39, "MANAGEMENT & SUPPORT CONSULTANCY":47813.39},
-			"2014-09": {"total":17145.48, "MANAGEMENT & SUPPORT CONSULTANCY":17145.48},
-			"2014-10": {"total":12739.10, "MANAGEMENT & SUPPORT CONSULTANCY":12739.10},
-			"2014-11": {"total":32648.50, "CONSULTANCY  EVALUATION ASSESSMENT":20600.00, "MANAGEMENT & SUPPORT CONSULTANCY":12048.50},
-			"2014-12": {"total":9489.17, "MANAGEMENT & SUPPORT CONSULTANCY":9489.17},
-			"2015-01": {"total":2491.10, "Development & Environment":2491.10},
-			"2015-02": {"total":1870.00, "Development & Environment":1870.00},
-			"2015-03": {"total":1482.50, "MANAGEMENT & SUPPORT CONSULTANCY":1482.50},
-			"2015-04": {"total":4124.30, "MANAGEMENT & SUPPORT CONSULTANCY":4124.30},
-			"2015-05": {"total":5483.28, "MANAGEMENT & SUPPORT CONSULTANCY":5483.28},
-			"2015-08": {"total":2680.00, "MANAGEMENT & SUPPORT CONSULTANCY":2680.00}
-		}
-	},
-	"234": {
-		"name": "ANANYA PAINTS LTD",
-		"total": 750,
-		"monthly": {
-			"2021-02": {"total":750.00, "STAFF TRAINING":750.00}
-		}
-	},
-	"235": {
-		"name": "ANCHOR HANOVER GROUP",
-		"total": 880000,
-		"monthly": {
-			"2019-05": {"total":790000.00, "HSG GRANTS TO REGISTERED PROVIDERS":790000.00},
-			"2020-10": {"total":90000.00, "HSG GRANTS TO REGISTERED PROVIDERS":90000.00}
-		}
-	},
-	"236": {
-		"name": "ANDERS BIRGER",
-		"total": 450,
-		"monthly": {
-			"2013-07": {"total":450.00, "Photography & Video":450.00}
-		}
-	},
-	"237": {
-		"name": "ANDERSON BOURNE",
-		"total": 4000,
-		"monthly": {
-			"2019-03": {"total":4000.00, "PLANNING & DEVELOPMENT CONSULTANCY":4000.00}
-		}
-	},
-	"238": {
-		"name": "ANDERSON PHOTOGRAPHY",
-		"total": 874,
-		"monthly": {
-			"2014-06": {"total":874.00, "Photography & Video":874.00}
-		}
-	},
-	"239": {
-		"name": "ANDREIA AFONSO PHOTOGRAPHY",
-		"total": 2350,
-		"monthly": {
-			"2018-09": {"total":250.00, "PRODUCTION ARTWORK AND DESIGN FOR MARKETING":250.00},
-			"2019-09": {"total":2100.00, "PHOTOGRAPHY & VIDEO":2100.00}
-		}
-	},
-	"240": {
-		"name": "ANDREW ALLEN",
-		"total": 2196,
-		"monthly": {
-			"2018-09": {"total":2196.00, "LEGAL FEES":2196.00}
-		}
-	},
-	"241": {
-		"name": "ANDREW ARDEN QC",
-		"total": 8100,
-		"monthly": {
-			"2017-10": {"total":8100.00, "LEGAL FEES":8100.00}
-		}
-	},
-	"242": {
-		"name": "ANDREW DYMOND",
-		"total": 3720,
-		"monthly": {
-			"2017-10": {"total":3720.00, "LEGAL FEES":3720.00}
-		}
-	},
-	"243": {
-		"name": "ANDREW MELDRUM",
-		"total": 3000,
-		"monthly": {
-			"2015-08": {"total":3000.00, "CONSULTANCY-PROJECT MANAGEMENT":3000.00}
-		}
-	},
-	"244": {
-		"name": "ANDREW MORETON AND COMPANY LTD",
-		"alternate-names": [
-			"ANDREW MORETON AND COMPANY LIMITED"
-		],
-		"total": 700,
-		"monthly": {
-			"2015-02": {"total":700.00, "Assembly & Secretariat":700.00}
-		}
-	},
-	"245": {
-		"name": "ANDREW NURNBERG ASSOC LTD",
-		"total": 23913.18,
-		"monthly": {
-			"2014-02": {"total":23913.18, "Grants to External Organisations":23913.18}
-		}
-	},
-	"246": {
-		"name": "ANDREW PARKINSON",
-		"total": 6862.5,
-		"monthly": {
-			"2019-02": {"total":1912.50, "LEGAL FEES":1912.50},
-			"2019-04": {"total":600.00, "LEGAL FEES":600.00},
-			"2019-08": {"total":750.00, "LEGAL FEES":750.00},
-			"2019-09": {"total":2475.00, "LEGAL FEES":2475.00},
-			"2019-10": {"total":675.00, "LEGAL FEES":675.00},
-			"2019-11": {"total":450.00, "LEGAL FEES":450.00}
-		}
-	},
-	"247": {
-		"name": "ANDREW TAIT QC",
-		"total": 36075,
-		"monthly": {
-			"2019-08": {"total":26935.00, "LEGAL FEES":26935.00},
-			"2019-12": {"total":9140.00, "LEGAL FEES":9140.00}
-		}
-	},
-	"248": {
-		"name": "ANDREW WICKS",
-		"total": 1500,
-		"monthly": {
-			"2014-08": {"total":1500.00, "GRANTS TO EXTERNAL ORGANISATIONS":1500.00}
-		}
-	},
-	"249": {
-		"name": "ANDY BARROW",
-		"total": 1250,
-		"monthly": {
-			"2017-01": {"total":1250.00, "PHOTOGRAPHY & VIDEO":1250.00}
 		}
 	}
 	}
